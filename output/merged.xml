@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Oct 2025 11:07:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Oct 2025 11:32:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egypt raises fuel prices for the second time this year]]></title>
 <link>https://apnews.com/article/egypt-fuel-prices-economy-inflation-diesel-gas-e001493d45c58389cbbe82899a37d74f</link>
@@ -29,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia convicts 15 captured Ukrainian soldiers on terrorism charges]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-aidar-trial-pow-258459f79277eb7853b1a351e6d0476c</link>
-<pubDate>Fri, 17 Oct 2025 12:10:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese Nobel Prize-winning physicist Chen Ning Yang dies at 103]]></title>
-<link>https://apnews.com/article/china-nobel-laureate-physicist-chen-ning-yang-fb5709847c4dbe01e967e5eb1df28c18</link>
-<pubDate>Sat, 18 Oct 2025 07:48:45 -0000</pubDate>
+<title><![CDATA[One scandal too many forces UK monarchy to sideline Prince Andrew]]></title>
+<link>https://apnews.com/article/prince-andrew-charles-epstein-chinese-spy-91c4bec9a5cf3de8fcb16f9c1fe52e60</link>
+<pubDate>Sat, 18 Oct 2025 11:17:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,6 +44,12 @@
 <title><![CDATA[Learn about Diwali, the Festival of Lights]]></title>
 <link>https://apnews.com/article/diwali-festival-of-lights-hindu-india-8d258912a69a78e222ff0205302f5103</link>
 <pubDate>Sat, 18 Oct 2025 05:37:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Former Japanese Prime Minister Murayama, known for apology over wartime aggression, dies at 101]]></title>
+<link>https://apnews.com/article/tomiichi-murayama-death-apology-080c426db5079322fcbcfae67992b127</link>
+<pubDate>Fri, 17 Oct 2025 09:20:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Heavy security after deadly violence in Kenya as thousands turn out to mourn former PM Odinga]]></title>
-<link>https://apnews.com/article/kenya-raila-odinga-funeral-kisumu-7f0deebf3da479123519a1d5d7100ea7</link>
-<pubDate>Sat, 18 Oct 2025 06:28:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gen Z protests against corruption and inequality are shaking Morocco. Here’s what to know]]></title>
 <link>https://apnews.com/article/morocco-gen-z-protests-king-explainer-b6bc8c7bbee375e0896d75f5c5a085fb</link>
 <pubDate>Sat, 18 Oct 2025 06:13:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A US senator claims ‘Christian mass murder’ is occurring in Nigeria. The data disagrees]]></title>
+<link>https://apnews.com/article/nigeria-christian-killings-claims-ted-cruz-insecurity-e9d2fb7ae02bd3169194fb60872bb3d4</link>
+<pubDate>Fri, 17 Oct 2025 10:55:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One scandal too many forces UK monarchy to sideline Prince Andrew]]></title>
-<link>https://apnews.com/article/prince-andrew-charles-epstein-chinese-spy-91c4bec9a5cf3de8fcb16f9c1fe52e60</link>
-<pubDate>Sat, 18 Oct 2025 10:22:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Afghan and Pakistani delegations in Doha for crisis talks]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-cricket-border-fighting-232bb8c59918af77a92b6d16e4adb52b</link>
 <pubDate>Sat, 18 Oct 2025 10:07:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Heavy security after deadly violence in Kenya as thousands turn out to mourn former PM Odinga]]></title>
+<link>https://apnews.com/article/kenya-raila-odinga-funeral-kisumu-7f0deebf3da479123519a1d5d7100ea7</link>
+<pubDate>Sat, 18 Oct 2025 09:52:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +440,12 @@
 <title><![CDATA[After Zelenskyy meeting, Trump calls on Ukraine and Russia to ‘stop where they are’ and end the war]]></title>
 <link>https://apnews.com/article/trump-zelenskyy-putin-ukraine-tomahawks-ce697e5eda6ce9793b4343499d105a8c</link>
 <pubDate>Fri, 17 Oct 2025 22:31:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Chinese Nobel Prize-winning physicist Chen Ning Yang dies at 103]]></title>
+<link>https://apnews.com/article/china-nobel-laureate-physicist-chen-ning-yang-fb5709847c4dbe01e967e5eb1df28c18</link>
+<pubDate>Sat, 18 Oct 2025 09:37:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
