@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Oct 2025 11:32:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Oct 2025 12:18:05 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A look at the hostages whose remains are still inside Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-2dece673d6730557a04d63abe81f0805</link>
+<pubDate>Sat, 18 Oct 2025 12:18:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Egypt raises fuel prices for the second time this year]]></title>
 <link>https://apnews.com/article/egypt-fuel-prices-economy-inflation-diesel-gas-e001493d45c58389cbbe82899a37d74f</link>
 <pubDate>Sat, 18 Oct 2025 06:43:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian Kurdish forces reach agreement with Damascus to merge with national army, commander says]]></title>
-<link>https://apnews.com/article/syria-kurds-sdf-mazloum-abdi-army-merger-alsharaa-8de0ee121b7a475fbbc27cbe46784f32</link>
-<pubDate>Fri, 17 Oct 2025 12:40:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One scandal too many forces UK monarchy to sideline Prince Andrew]]></title>
+<title><![CDATA[One scandal too many forces UK monarchy to sideline Prince Andrew after years of tabloid fodder]]></title>
 <link>https://apnews.com/article/prince-andrew-charles-epstein-chinese-spy-91c4bec9a5cf3de8fcb16f9c1fe52e60</link>
-<pubDate>Sat, 18 Oct 2025 11:17:43 -0000</pubDate>
+<pubDate>Sat, 18 Oct 2025 12:03:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia sharing tips on curbing social media for children before age limit starts in December]]></title>
-<link>https://apnews.com/article/australia-children-social-media-ban-21ee02eaba3ae518ee4dee4431b317d6</link>
-<pubDate>Fri, 17 Oct 2025 07:49:31 -0000</pubDate>
+<title><![CDATA[Taiwan’s main opposition party elects new leader in a race clouded by claims of China meddling]]></title>
+<link>https://apnews.com/article/taiwan-nationalist-kmt-cheng-china-ec700a517f43c35b372a7e049646d74b</link>
+<pubDate>Sat, 18 Oct 2025 11:48:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Japanese Prime Minister Murayama, known for apology over wartime aggression, dies at 101]]></title>
-<link>https://apnews.com/article/tomiichi-murayama-death-apology-080c426db5079322fcbcfae67992b127</link>
-<pubDate>Fri, 17 Oct 2025 09:20:50 -0000</pubDate>
+<title><![CDATA[Australia sharing tips on curbing social media for children before age limit starts in December]]></title>
+<link>https://apnews.com/article/australia-children-social-media-ban-21ee02eaba3ae518ee4dee4431b317d6</link>
+<pubDate>Fri, 17 Oct 2025 07:49:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Trump’s approval shifted after the ceasefire in Gaza, according to a new AP-NORC poll]]></title>
+<link>https://apnews.com/article/ap-poll-trump-approval-israel-economy-immigration-5e4aed363e02accf6241e2c50f38e35c</link>
+<pubDate>Sat, 18 Oct 2025 11:33:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Alaska storm damage so bad many evacuees won’t go home for at least 18 months, governor says]]></title>
 <link>https://apnews.com/article/alaska-typhoon-flooding-7e6e6b72c5587c3a00b82982ffab56bd</link>
 <pubDate>Sat, 18 Oct 2025 01:38:13 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[News stories show that reporters may have left the Pentagon, but they haven’t stopped working]]></title>
 <link>https://apnews.com/article/pentagon-press-access-media-hegseth-defense-ca0ef1b86a9ed9f02b84a3ceb11ff29b</link>
 <pubDate>Fri, 17 Oct 2025 22:57:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘No Kings’ protests return as Trump ramps up authoritarian practices, organizers say]]></title>
-<link>https://apnews.com/article/no-kings-protests-trump-immigration-first-amendment-f04e7a4728c10b694f540bcef0646370</link>
-<pubDate>Fri, 17 Oct 2025 09:55:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel identifies the remains of one more hostage]]></title>
+<title><![CDATA[Israel identifies the remains of one more hostage while 9 Palestinians are killed in Gaza City]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-18-2025-4d13aaceec91c360449dd5fa737b192b</link>
-<pubDate>Sat, 18 Oct 2025 10:37:33 -0000</pubDate>
+<pubDate>Sat, 18 Oct 2025 11:47:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Daily struggles persist in Gaza even as ceasefire offers some respite]]></title>
+<link>https://apnews.com/article/gaza-ceasefire-displaced-palestinians-32bbbf66155d8e0382223a012b7e52a7</link>
+<pubDate>Fri, 17 Oct 2025 20:31:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gaza awaits the reopening of the Rafah border crossing, its link to the outside world]]></title>
 <link>https://apnews.com/article/gaza-israel-war-rafah-crossing-egypt-09acfdacaa4cbc48b19aaade5a0e1d2c</link>
 <pubDate>Fri, 17 Oct 2025 18:31:19 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[Chief of staff of Yemen Houthi rebel’s military dies from wounds suffered in Israeli airstrike]]></title>
 <link>https://apnews.com/article/yemen-houtis-military-chief-killed-29a7709bdbcc2e51e623084de80e8e8a</link>
 <pubDate>Thu, 16 Oct 2025 14:43:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the hostages whose remains are still inside Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-2dece673d6730557a04d63abe81f0805</link>
-<pubDate>Thu, 16 Oct 2025 20:45:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK police face pressure to reverse ban on Israeli soccer fans at Birmingham match]]></title>
-<link>https://apnews.com/article/maccabi-tel-aviv-aston-villa-fan-ban-95b6618944a36b2a8ab88766935be694</link>
-<pubDate>Sat, 18 Oct 2025 06:47:16 -0000</pubDate>
+<title><![CDATA[Syrian Kurdish forces reach agreement with Damascus to merge with national army, commander says]]></title>
+<link>https://apnews.com/article/syria-kurds-sdf-mazloum-abdi-army-merger-alsharaa-8de0ee121b7a475fbbc27cbe46784f32</link>
+<pubDate>Thu, 16 Oct 2025 19:44:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Trump’s approval shifted after the ceasefire in Gaza, according to a new AP-NORC poll]]></title>
-<link>https://apnews.com/article/ap-poll-trump-approval-israel-economy-immigration-5e4aed363e02accf6241e2c50f38e35c</link>
-<pubDate>Fri, 17 Oct 2025 10:45:20 -0000</pubDate>
+<title><![CDATA[‘No Kings’ protests against Trump planned nationwide, in what the GOP calls ‘hate America’ rallies]]></title>
+<link>https://apnews.com/article/no-kings-rallies-demonstrations-trump-4baa5de2fab057a0e6ab726f5d7747fd</link>
+<pubDate>Sat, 18 Oct 2025 11:17:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
