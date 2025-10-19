@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Oct 2025 19:32:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 20:10:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UK sees lessons from Northern Ireland that could aid the fragile Gaza ceasefire process]]></title>
 <link>https://apnews.com/article/gaza-northern-ireland-peace-process-4d767d8ebdc0e9ae4b59ccceef60c8f3</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bolivians vote for change after 20 years of one-party rule, in photos]]></title>
+<link>https://apnews.com/photo-gallery/bolivia-election-photos-98518a1539fbdef7f4b2781fc274f63e</link>
+<pubDate>Sun, 19 Oct 2025 20:10:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Shepherds steer their flocks during a Madrid festival, in photos]]></title>
 <link>https://apnews.com/photo-gallery/sheep-shepherds-madrid-transhumance-a097ff585cdcb1fb3dbb3e9a005de2ba</link>
 <pubDate>Sun, 19 Oct 2025 16:38:09 -0000</pubDate>
@@ -188,12 +194,6 @@
 <title><![CDATA[Germany’s Munich Airport temporarily closed following drone reports, but nothing found]]></title>
 <link>https://apnews.com/article/germany-munich-airport-closed-fede93abe96af29724cae9dbedc3c12e</link>
 <pubDate>Sun, 19 Oct 2025 10:52:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish Cypriots elect new leader, reigniting hopes for renewed talks to heal Cyprus’ ethnic split]]></title>
-<link>https://apnews.com/article/cyprus-election-turkish-cypriots-d5a06aaa7832896284bc54bf3801abed</link>
-<pubDate>Sun, 19 Oct 2025 18:40:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel halts aid to Gaza ‘until further notice’ as renewed fighting tests ceasefire]]></title>
+<title><![CDATA[Renewed fighting tests Gaza ceasefire and Israel briefly halts aid]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-19-2025-f3d95cf76018541ff824853d1bcd3356</link>
-<pubDate>Sun, 19 Oct 2025 17:55:40 -0000</pubDate>
+<pubDate>Sun, 19 Oct 2025 20:10:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
