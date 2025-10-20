@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Oct 2025 02:29:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 03:35:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Yemen’s Houthi rebels raid a UN facility but all staff are reported safe]]></title>
 <link>https://apnews.com/article/yemen-un-houthis-raid-2ac00be0b2764ee8a5c926ae9a065c31</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian drones strike major Russian gas plant as Trump says Kyiv may have to trade land for peace]]></title>
+<title><![CDATA[Trump says Ukraine’s Donbas region will have to be ‘cut up’ to end the Russian invasion]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-gas-strikes-energy-50826ce7b96814ad943d8721c1a2915c</link>
-<pubDate>Sun, 19 Oct 2025 16:36:16 -0000</pubDate>
+<pubDate>Mon, 20 Oct 2025 02:40:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Turkish Cypriots elect new leader, reigniting hopes for renewed talks to heal Cyprus’ ethnic split]]></title>
 <link>https://apnews.com/article/cyprus-election-turkish-cypriots-d5a06aaa7832896284bc54bf3801abed</link>
 <pubDate>Sun, 19 Oct 2025 20:36:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China says its economy slowed to a 4.8% annual pace of growth in the last quarter]]></title>
+<link>https://apnews.com/article/china-economy-jinping-trump-tariffs-0e89af9f6b36094a768f5426a43b5db6</link>
+<pubDate>Mon, 20 Oct 2025 02:25:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Afghanistan and Pakistan pledge to respect ceasefire after more than a week of deadly fighting]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-taliban-qatar-ceasefire-5644c17728ef48434e50e6e8be49294b</link>
 <pubDate>Mon, 20 Oct 2025 00:24:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[North Korean soldier defects to South Korea across the rivals’ heavily fortified border]]></title>
-<link>https://apnews.com/article/north-korea-south-soldier-defect-border-3ac30c64f8be0318ece46fa9608b686b</link>
-<pubDate>Sun, 19 Oct 2025 15:20:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘No Kings’ protests against Trump bring a street party vibe to cities nationwide]]></title>
-<link>https://apnews.com/article/no-kings-rallies-demonstrations-trump-4baa5de2fab057a0e6ab726f5d7747fd</link>
-<pubDate>Sun, 19 Oct 2025 19:32:45 -0000</pubDate>
+<title><![CDATA[California police say shrapnel hits and damages a patrol vehicle during Marine Corps drills]]></title>
+<link>https://apnews.com/article/california-marines-live-fire-highway-6fde99346aeffc34cc12412709391269</link>
+<pubDate>Mon, 20 Oct 2025 02:10:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,15 +203,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korean soldier defects to South Korea across the rivals’ heavily fortified border]]></title>
+<link>https://apnews.com/article/north-korea-south-soldier-defect-border-3ac30c64f8be0318ece46fa9608b686b</link>
+<pubDate>Mon, 20 Oct 2025 03:35:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Germany’s Munich Airport temporarily closed following drone reports, but nothing found]]></title>
 <link>https://apnews.com/article/germany-munich-airport-closed-fede93abe96af29724cae9dbedc3c12e</link>
 <pubDate>Sun, 19 Oct 2025 10:52:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storm leaves 1 dead, forces thousands to evacuate in Philippines]]></title>
+<title><![CDATA[Tropical storm causes 7 deaths in the Philippines]]></title>
 <link>https://apnews.com/article/tropical-storm-fengshen-philippines-vietnam-455a65b89f2727725fa6305a4ab3d9f9</link>
-<pubDate>Sun, 19 Oct 2025 09:40:27 -0000</pubDate>
+<pubDate>Mon, 20 Oct 2025 03:20:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ivory Coast court sentences 26 opposition protesters to 36 months in prison]]></title>
-<link>https://apnews.com/article/ivory-coast-protests-elections-sentences-protesters-fc109edcff72e156d441be0d341e586e</link>
-<pubDate>Fri, 17 Oct 2025 22:03:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and UN sanction former Haitian security head, gang leader for aiding gang coalition]]></title>
-<link>https://apnews.com/article/haiti-viv-ansanm-us-sanctions-moise-b673d80b1ea8eb165731c6bdeb086b63</link>
-<pubDate>Sat, 18 Oct 2025 16:38:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Renewed fighting tests Gaza ceasefire and Israel briefly halts aid]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-19-2025-f3d95cf76018541ff824853d1bcd3356</link>
 <pubDate>Sun, 19 Oct 2025 20:10:53 -0000</pubDate>
@@ -362,12 +356,6 @@
 <title><![CDATA[Centrist Rodrigo Paz wins Bolivia’s presidential runoff, topping right-wing rival]]></title>
 <link>https://apnews.com/article/bolivia-runoff-election-jorge-quiroga-rodrigo-paz-ef7643d07d8968452cdce784e75a7810</link>
 <pubDate>Mon, 20 Oct 2025 01:59:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says Ukraine’s Donbas region will have to be ‘cut up’ to end the Russian invasion]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-gas-strikes-energy-50826ce7b96814ad943d8721c1a2915c</link>
-<pubDate>Mon, 20 Oct 2025 01:44:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
