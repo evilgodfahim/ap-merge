@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Oct 2025 21:35:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 22:10:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran executes person accused of spying for Israel]]></title>
 <link>https://apnews.com/article/iran-israel-spy-execution-68a0a25f3acf1a147046bbb7571cc05a</link>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ICE would need more money to expand use of bodycams in Chicago crackdown, official says]]></title>
+<link>https://apnews.com/article/immigration-crackdown-chicago-bodycam-9aea34c3a48bc63cfb9d128159c5fdc9</link>
+<pubDate>Mon, 20 Oct 2025 19:23:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man who sent ‘So I raped you’ message sentenced to 2 to 4 years for 2013 campus assault]]></title>
 <link>https://apnews.com/article/pennsylvania-campus-assault-facebook-ian-cleary-079f3654d9244ab988929b98462b77e4</link>
 <pubDate>Mon, 20 Oct 2025 19:53:16 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Supreme Court will consider whether people who regularly smoke pot can legally own guns]]></title>
 <link>https://apnews.com/article/supreme-court-marijuana-guns-e86c342bf248c7822722ad027980b72b</link>
 <pubDate>Mon, 20 Oct 2025 19:38:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[ICE would need more money to expand use of bodycams in Chicago crackdown, official says]]></title>
-<link>https://apnews.com/article/immigration-crackdown-chicago-bodycam-9aea34c3a48bc63cfb9d128159c5fdc9</link>
-<pubDate>Mon, 20 Oct 2025 19:23:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[One Tech Tip: How to prepare for outages that impact our online lives, from banking to chatting apps]]></title>
+<link>https://apnews.com/article/aws-outage-disruptions-how-to-prepare-55ce68bf3dba69fc3351b4ebc1475359</link>
+<pubDate>Mon, 20 Oct 2025 22:09:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-october-20-2025-ec3da61e810b2e5b4c9fe3e88988172c</link>
+<pubDate>Mon, 20 Oct 2025 21:54:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s government green-lights oil drilling near mouth of Amazon River ahead of UN climate summit]]></title>
 <link>https://apnews.com/article/brazil-amazon-oil-drilling-exploratory-3b20b91febd448dd1b44bd27e58c8e14</link>
 <pubDate>Mon, 20 Oct 2025 20:58:19 -0000</pubDate>
@@ -210,8 +222,8 @@
 </item>
 <item>
 <title><![CDATA[What to know about the Amazon Web Services outage]]></title>
-<link>https://apnews.com/article/amazon-east-internet-services-outage-f35f28fac718014730af6043b2e6ad8d</link>
-<pubDate>Mon, 20 Oct 2025 19:28:19 -0000</pubDate>
+<link>https://apnews.com/%5C</link>
+<pubDate>Mon, 20 Oct 2025 21:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,12 +293,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man who appeared to fake his death and flee to the UK faces sentencing for Utah rape]]></title>
-<link>https://apnews.com/article/utah-rape-conviction-rossi-alahverdian-scotland-extradition-685387968614519e57b3b734e52ac1aa</link>
-<pubDate>Mon, 20 Oct 2025 04:42:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Apple’s rally pulls Wall Street to the cusp of its record]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-china-japan-trump-dcb8d28227c71f8bf0d565e910b73972</link>
 <pubDate>Mon, 20 Oct 2025 18:58:19 -0000</pubDate>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean soldier defects to South Korea across the rivals’ heavily fortified border]]></title>
-<link>https://apnews.com/article/north-korea-south-soldier-defect-border-3ac30c64f8be0318ece46fa9608b686b</link>
-<pubDate>Mon, 20 Oct 2025 03:35:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US envoys visit Israel to bolster truce, and Gaza militants hand over a hostage’s remains]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-20-2025-8b17ec651e6e8f04a380d492bca03c55</link>
 <pubDate>Mon, 20 Oct 2025 20:01:16 -0000</pubDate>
@@ -377,21 +377,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says Ukraine can still ‘win’ war against Russia but adds, ‘I don’t think they will’]]></title>
+<link>https://apnews.com/video/trump-says-ukraine-can-still-win-war-against-russia-but-adds-i-dont-think-they-will-a59a87ba095e4454a2b7fd93844fcdfa</link>
+<pubDate>Mon, 20 Oct 2025 22:10:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK royals and government face pressure to formally strip Prince Andrew of his titles]]></title>
+<link>https://apnews.com/video/uk-royals-and-government-face-pressure-to-formally-strip-prince-andrew-of-his-titles-05eca2cc21b640eda3ebeb9340ac7d3b</link>
+<pubDate>Mon, 20 Oct 2025 21:55:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hundreds join anti-Trump protests in Paris and Spain]]></title>
 <link>https://apnews.com/video/hundreds-join-anti-trump-protests-in-paris-and-spain-67841d8a759d4cb2b938ad0bd1499a3b</link>
 <pubDate>Sun, 19 Oct 2025 10:06:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Zelenskyy suggests he’s interested in trading Ukrainian military drones for Tomahawk missiles]]></title>
-<link>https://apnews.com/video/zelenskyy-suggests-hes-interested-in-trading-ukrainian-military-drones-for-tomahawk-missiles-528d262a7a714711a59f023ac2b1ef26</link>
-<pubDate>Sun, 19 Oct 2025 09:51:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prince Andrew says he’s giving up his Duke of York title as Epstein allegations refuse to fade]]></title>
-<link>https://apnews.com/video/prince-andrew-says-hes-giving-up-his-duke-of-york-title-as-epstein-allegations-refuse-to-fade-5f91c4a7fe514a94b126bc3162b0e0d2</link>
-<pubDate>Sun, 19 Oct 2025 09:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rodrigo Paz wins presidential runoff, becoming Bolivia’s first conservative leader in decades]]></title>
+<title><![CDATA[Bolivia’s first conservative president in 20 years promises warmer US ties]]></title>
 <link>https://apnews.com/article/bolivia-rodrigo-paz-election-quiroga-530aee50c6d63281941079460891da4f</link>
-<pubDate>Mon, 20 Oct 2025 20:24:31 -0000</pubDate>
+<pubDate>Mon, 20 Oct 2025 21:40:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Amazon cloud outage takes down many online services around the world]]></title>
-<link>https://apnews.com/article/amazon-east-internet-services-outage-654a12ac9aff0bf4b9dc0e22499d92d7</link>
-<pubDate>Mon, 20 Oct 2025 20:09:31 -0000</pubDate>
+<title><![CDATA[George Santos says he’s humbled but dismisses ‘pearl clutching’ critics]]></title>
+<link>https://apnews.com/article/trump-george-santos-commutation-pardon-interview-ff21b286cdcffcf45853883ba05ee69d</link>
+<pubDate>Sun, 19 Oct 2025 18:52:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
