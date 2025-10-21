@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Oct 2025 15:38:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 16:13:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq says some US military advisers will stay due to IS threat in Syria]]></title>
 <link>https://apnews.com/article/iraq-islamic-state-sudani-us-military-advisers-2180dbaf3ea209bd6af32b43c266603d</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Belize signs ‘safe third country’ agreement as part of Trump’s immigration crackdown]]></title>
+<link>https://apnews.com/article/belize-safe-third-country-trump-deportation-ab259d10a80e165d5d6b6419531b5d7e</link>
+<pubDate>Tue, 21 Oct 2025 16:03:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bolivia’s first conservative president in 20 years promises warmer US ties]]></title>
 <link>https://apnews.com/article/bolivia-rodrigo-paz-election-quiroga-530aee50c6d63281941079460891da4f</link>
 <pubDate>Tue, 21 Oct 2025 09:09:15 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Brazil’s government greenlights oil drilling near mouth of Amazon River ahead of UN climate summit]]></title>
 <link>https://apnews.com/article/brazil-amazon-oil-drilling-exploratory-3b20b91febd448dd1b44bd27e58c8e14</link>
 <pubDate>Tue, 21 Oct 2025 00:34:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump calls Colombia’s Petro an ‘illegal drug leader’ and announces tariffs and an end to US aid]]></title>
-<link>https://apnews.com/article/trump-petro-colombia-drugs-us-aid-c3955b2ce351737119920741178e0567</link>
-<pubDate>Mon, 20 Oct 2025 20:23:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Anti-science bills hit statehouses, stripping away public health protections built over a century]]></title>
+<link>https://apnews.com/article/vaccines-fluoride-kennedy-trump-science-antiscience-legislation-73af8e65f407331e8f31b2909812a004</link>
+<pubDate>Tue, 21 Oct 2025 15:48:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US appeals court says Trump can take command of Oregon troops though deployment blocked for now]]></title>
 <link>https://apnews.com/article/trump-portland-protest-national-guard-e90ef7b0ac48ae66b6b58e5138440e8e</link>
 <pubDate>Tue, 21 Oct 2025 14:32:07 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[ICE would need more money to expand use of bodycams in Chicago crackdown, official says]]></title>
 <link>https://apnews.com/article/immigration-crackdown-chicago-bodycam-9aea34c3a48bc63cfb9d128159c5fdc9</link>
 <pubDate>Mon, 20 Oct 2025 19:23:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Obama to campaign with Spanberger and Sherrill in high stakes governor’s races]]></title>
-<link>https://apnews.com/article/obama-spanberger-virginia-governor-race-c530aacf573e486dfc429671debf52a5</link>
-<pubDate>Tue, 21 Oct 2025 14:17:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[India seeks to import more US oil and gas under pressure from Trump to stop Russian oil purchases]]></title>
 <link>https://apnews.com/article/india-trump-modi-russia-oil-e03d5e496250e55b839d8915b85fab1d</link>
 <pubDate>Thu, 16 Oct 2025 07:53:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Inflatable costumes used to deflate tensions at rallies against Trump, in photos]]></title>
+<link>https://apnews.com/photo-gallery/protests-trump-inflatable-costumes-photos-8244f4dc1250c4901f7f7efe35779d79</link>
+<pubDate>Tue, 21 Oct 2025 16:10:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK royals and government face pressure to formally strip Prince Andrew of his titles]]></title>
-<link>https://apnews.com/article/britain-prince-andrew-titles-giuffre-allegations-epstein-70ffa1a7ce88d986f63bb559b78679b9</link>
-<pubDate>Mon, 20 Oct 2025 12:22:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan’s parliament elects Sanae Takaichi as nation’s first female prime minister]]></title>
 <link>https://apnews.com/article/japan-first-female-prime-minister-vote-trump-24b4a5e2a2b777139de66e38665ced0d</link>
 <pubDate>Tue, 21 Oct 2025 05:56:40 -0000</pubDate>
@@ -452,12 +452,6 @@
 <title><![CDATA[Trump is going to Asia — what happens next is anyone’s guess]]></title>
 <link>https://apnews.com/article/trump-xi-jinping-china-asia-8f21df3df6fa3f51ca4ab4dfcf7669ba</link>
 <pubDate>Tue, 21 Oct 2025 01:45:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Belize signs ‘safe third country’ agreement as part of Trump’s immigration crackdown]]></title>
-<link>https://apnews.com/article/belize-safe-third-country-trump-deportation-ab259d10a80e165d5d6b6419531b5d7e</link>
-<pubDate>Tue, 21 Oct 2025 03:11:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
