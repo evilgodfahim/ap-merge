@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Oct 2025 07:36:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 08:15:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran executes person accused of spying for Israel]]></title>
 <link>https://apnews.com/article/iran-israel-spy-execution-68a0a25f3acf1a147046bbb7571cc05a</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Yemen’s Houthi rebels detain 20 UN employees and confiscate equipment]]></title>
 <link>https://apnews.com/article/yemen-houthis-un-crackdown-e8143b45eab3b0a1483cbf444acbf11f</link>
 <pubDate>Mon, 20 Oct 2025 13:48:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Slovakia court sentences the man behind the attempted assassination of prime minister to 21 years]]></title>
+<link>https://apnews.com/article/slovakia-trial-fico-assassination-verdict-5f1c61fe91750bed7eb4b193366b93d1</link>
+<pubDate>Tue, 21 Oct 2025 08:15:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,18 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Louvre remains closed a day after daring theft of Napoleonic jewels]]></title>
-<link>https://apnews.com/article/louvre-closed-jewel-heist-2cc473fc178ae6a3513daa0c71b43409</link>
-<pubDate>Tue, 21 Oct 2025 04:11:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump is going to Asia — what happens next is anyone’s guess]]></title>
-<link>https://apnews.com/article/trump-xi-jinping-china-asia-8f21df3df6fa3f51ca4ab4dfcf7669ba</link>
-<pubDate>Tue, 21 Oct 2025 00:49:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump vows to reach a ‘fantastic deal’ with China after future meeting with Xi]]></title>
 <link>https://apnews.com/article/trump-china-tariffs-trade-rare-earths-6432313cca9be9adf1f378f9650fc36a</link>
 <pubDate>Tue, 21 Oct 2025 01:24:55 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Thick, hazardous smog blankets New Delhi after Diwali fireworks]]></title>
 <link>https://apnews.com/article/india-pollution-diwali-new-delhi-fireworks-27255b7963ac371593da18d7e4a12103</link>
 <pubDate>Tue, 21 Oct 2025 06:57:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hong Kong prepares to reopen a runway after crash though it won’t be used regularly for now]]></title>
+<link>https://apnews.com/article/hong-kong-plane-skid-runway-blackbox-162210f4ce4660fcb84dea379672eca5</link>
+<pubDate>Tue, 21 Oct 2025 08:00:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump claims India will stop buying Russian oil, escalating pressure on Moscow over Ukraine war]]></title>
-<link>https://apnews.com/article/donald-trump-india-russian-oil-ukraine-1b2b993847d5d03f9a23f47bd035270a</link>
-<pubDate>Thu, 16 Oct 2025 07:38:12 -0000</pubDate>
+<title><![CDATA[India seeks to import more US oil and gas under pressure from Trump to stop Russian oil purchases]]></title>
+<link>https://apnews.com/article/india-trump-modi-russia-oil-e03d5e496250e55b839d8915b85fab1d</link>
+<pubDate>Thu, 16 Oct 2025 07:53:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Maccabi Tel Aviv declines tickets for Aston Villa game, citing safety concerns]]></title>
+<link>https://apnews.com/article/maccabi-tel-aviv-aston-villa-fan-ban-00616ea0fbcef57c80fcecb100bbdbd6</link>
+<pubDate>Tue, 21 Oct 2025 08:15:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dutch police detain 180 Napoli fans in Eindhoven before Champions League match]]></title>
+<link>https://apnews.com/article/psv-eindhoven-napoli-champions-league-arrests-police-2c82a9ee6947ae1e91e03d4ef1552907</link>
+<pubDate>Tue, 21 Oct 2025 08:00:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Louvre remains closed a day after daring theft of Napoleonic jewels]]></title>
+<link>https://apnews.com/article/louvre-closed-jewel-heist-2cc473fc178ae6a3513daa0c71b43409</link>
+<pubDate>Tue, 21 Oct 2025 07:45:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US envoys visit Israel to bolster truce, and Gaza militants hand over a hostage’s remains]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-20-2025-8b17ec651e6e8f04a380d492bca03c55</link>
 <pubDate>Tue, 21 Oct 2025 06:56:47 -0000</pubDate>
@@ -335,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam’s love affair with gas bikes is colliding with a new electric reality]]></title>
-<link>https://apnews.com/article/vietnam-evs-motorbikes-yamaha-vinfast-4ab76826787a806392655b843c374f3a</link>
-<pubDate>Mon, 20 Oct 2025 04:27:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-october-19-2025-bf858f3fccda38c01fa106e60d76bb79</link>
-<pubDate>Mon, 20 Oct 2025 01:43:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of Orthodox Jews rally in New York to protest change in Israel’s military draft rules]]></title>
-<link>https://apnews.com/article/orthodox-jews-protest-israel-military-282b2c3cbba15fa9fda78a8b5435fb0a</link>
-<pubDate>Mon, 20 Oct 2025 10:22:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan’s parliament elects Sanae Takaichi as nation’s first female prime minister]]></title>
 <link>https://apnews.com/article/japan-first-female-prime-minister-vote-trump-24b4a5e2a2b777139de66e38665ced0d</link>
 <pubDate>Tue, 21 Oct 2025 05:56:40 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nicolas Sarkozy going from France’s presidential palace to a Paris prison]]></title>
+<title><![CDATA[Former French president Sarkozy begins a 5-year prison sentence for campaign finance conspiracy]]></title>
 <link>https://apnews.com/article/nicolas-sarkozy-prison-france-libya-elysee-sante-3f8ecf08fd10e5c3812c9e48b2f01d7b</link>
-<pubDate>Tue, 21 Oct 2025 04:41:03 -0000</pubDate>
+<pubDate>Tue, 21 Oct 2025 08:15:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[Disney+ and Hulu cancellations rose after ABC briefly pulled ‘Jimmy Kimmel Live!’]]></title>
 <link>https://apnews.com/article/disney-hulu-streaming-tv-e17cb65ab673355a504fc872b02550f4</link>
 <pubDate>Tue, 21 Oct 2025 06:11:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump is going to Asia — what happens next is anyone’s guess]]></title>
+<link>https://apnews.com/article/trump-xi-jinping-china-asia-8f21df3df6fa3f51ca4ab4dfcf7669ba</link>
+<pubDate>Tue, 21 Oct 2025 01:45:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
