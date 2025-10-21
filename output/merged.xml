@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Oct 2025 10:11:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 10:41:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli soccer game abandoned after rioting rival fans throw flares and smoke grenades]]></title>
+<link>https://apnews.com/article/israel-tel-aviv-soccer-game-riot-9d6bac37335253379fd0efc44a141bd4</link>
+<pubDate>Tue, 21 Oct 2025 10:41:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran executes person accused of spying for Israel]]></title>
 <link>https://apnews.com/article/iran-israel-spy-execution-68a0a25f3acf1a147046bbb7571cc05a</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen’s Houthi rebels detain 20 UN employees and confiscate equipment]]></title>
-<link>https://apnews.com/article/yemen-houthis-un-crackdown-e8143b45eab3b0a1483cbf444acbf11f</link>
-<pubDate>Mon, 20 Oct 2025 13:48:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former French president Sarkozy begins a 5-year prison sentence for campaign finance conspiracy]]></title>
+<title><![CDATA[Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy]]></title>
 <link>https://apnews.com/article/nicolas-sarkozy-prison-france-libya-elysee-sante-3f8ecf08fd10e5c3812c9e48b2f01d7b</link>
-<pubDate>Tue, 21 Oct 2025 09:39:15 -0000</pubDate>
+<pubDate>Tue, 21 Oct 2025 10:26:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US warns Hamas planning attack on Palestinian civilians in apparent violation of Gaza ceasefire]]></title>
-<link>https://apnews.com/article/gaza-ceasefire-attack-mideast-wars-us-9b08f2f7a81ecfe5b430f18638d3fd86</link>
-<pubDate>Mon, 20 Oct 2025 12:47:46 -0000</pubDate>
+<title><![CDATA[A father returns from Israeli detention to find Gaza and his family shattered]]></title>
+<link>https://apnews.com/article/gaza-prisoners-released-israeli-prisons-7f709a1435489f95b0b94e11ffc9df12</link>
+<pubDate>Mon, 20 Oct 2025 13:33:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +101,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Massive Amazon cloud outage has been resolved after disrupting internet use worldwide]]></title>
-<link>https://apnews.com/article/amazon-east-internet-services-outage-654a12ac9aff0bf4b9dc0e22499d92d7</link>
-<pubDate>Tue, 21 Oct 2025 00:04:58 -0000</pubDate>
+<title><![CDATA[ICE would need more money to expand use of bodycams in Chicago crackdown, official says]]></title>
+<link>https://apnews.com/article/immigration-crackdown-chicago-bodycam-9aea34c3a48bc63cfb9d128159c5fdc9</link>
+<pubDate>Mon, 20 Oct 2025 19:23:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the Amazon cloud outage that exposed the internet’s vulnerable backbone]]></title>
-<link>https://apnews.com/article/amazon-cloud-computing-outage-virginia-warehouses-aws-77d76912fb9c9d32c59f083aee3e1636</link>
-<pubDate>Mon, 20 Oct 2025 23:49:58 -0000</pubDate>
+<title><![CDATA[What to know about the recovery efforts in Alaska following ex-Typhoon Halong]]></title>
+<link>https://apnews.com/article/alaska-typhoon-halong-recovery-d8c98c7553d3d14c82a564d209f56b90</link>
+<pubDate>Tue, 21 Oct 2025 10:11:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US man arrested in Scotland and convicted of Utah rape gets at least 5 years in prison]]></title>
-<link>https://apnews.com/article/utah-rape-conviction-rossi-alahverdian-scotland-extradition-685387968614519e57b3b734e52ac1aa</link>
-<pubDate>Mon, 20 Oct 2025 22:39:09 -0000</pubDate>
+<title><![CDATA[A man took videos as his home floated away with him inside in Alaska’s storms]]></title>
+<link>https://apnews.com/article/alaska-storm-halong-homes-float-away-c9b689da1c25629fc9c2eb3efc69f574</link>
+<pubDate>Tue, 21 Oct 2025 09:56:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polish authorities detain 8 in suspected sabotage plot, says Tusk]]></title>
+<title><![CDATA[Poland detains Ukrainian citizen over alleged Russian sabotage plot]]></title>
 <link>https://apnews.com/article/poland-sabotage-war-ukraine-hybrid-russia-b62581c88b125d18b6f962c0c0b83b2f</link>
-<pubDate>Tue, 21 Oct 2025 09:24:16 -0000</pubDate>
+<pubDate>Tue, 21 Oct 2025 10:41:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Massive Amazon cloud outage has been resolved after disrupting internet use worldwide]]></title>
+<link>https://apnews.com/article/amazon-east-internet-services-outage-654a12ac9aff0bf4b9dc0e22499d92d7</link>
+<pubDate>Tue, 21 Oct 2025 10:26:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A seed bank in England marks 25 years of preserving the world’s plant diversity]]></title>
 <link>https://apnews.com/article/britain-uk-seed-bank-climate-change-biodiversity-england-224a751058f0b7645134a01484d734c0</link>
 <pubDate>Mon, 20 Oct 2025 13:53:37 -0000</pubDate>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Rodrigo Paz, the centrist who shot from obscurity to Bolivia’s presidency]]></title>
-<link>https://apnews.com/article/bolivia-rodrigo-paz-president-election-d6b407c76e90338330c4a119c05bd597</link>
-<pubDate>Tue, 21 Oct 2025 09:09:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan’s parliament elects Sanae Takaichi as nation’s first female prime minister]]></title>
 <link>https://apnews.com/article/japan-first-female-prime-minister-vote-trump-24b4a5e2a2b777139de66e38665ced0d</link>
 <pubDate>Tue, 21 Oct 2025 05:56:40 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Vice President JD Vance arrives in Israel to shore up the fragile ceasefire in Gaza]]></title>
+<title><![CDATA[US Vice President JD Vance is in Israel to shore up the fragile ceasefire in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-21-2025-29925b9671834bba6e24adb5f2e35b51</link>
-<pubDate>Tue, 21 Oct 2025 09:24:17 -0000</pubDate>
+<pubDate>Tue, 21 Oct 2025 10:41:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A mysterious airstrip built on a Yemeni island comes as Houthi rebels are increasingly squeezed]]></title>
+<link>https://apnews.com/article/yemen-houthi-rebels-zuqar-island-airstrip-uae-c8c0182307ccefcb3f51854493f3ae00</link>
+<pubDate>Mon, 20 Oct 2025 06:02:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza]]></title>
 <link>https://apnews.com/article/lebanon-israel-gaza-ceasefire-new-normal-hezbollah-190eb8c2ec2d9fedc94c3fadfc1f41e2</link>
 <pubDate>Mon, 20 Oct 2025 20:54:31 -0000</pubDate>
@@ -419,21 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli soccer game abandoned after rioting rival fans throw flares and smoke grenades]]></title>
-<link>https://apnews.com/article/israel-tel-aviv-soccer-game-riot-9d6bac37335253379fd0efc44a141bd4</link>
-<pubDate>Mon, 20 Oct 2025 12:03:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US and Australia sign critical-minerals agreement as a way to counter China]]></title>
 <link>https://apnews.com/article/donald-trump-anthony-albanese-submarine-australia-trade-7db18e2b942176623dcad283bfad3a6c</link>
 <pubDate>Tue, 21 Oct 2025 03:26:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian markets extend gains, with Chinese shares up more than 1%, after Wall Street rally]]></title>
+<title><![CDATA[World markets are mostly higher after Wall Street rally]]></title>
 <link>https://apnews.com/article/stock-markets-japan-trump-earnings-e3241b74686e1ed0bf09dd0666fe872e</link>
-<pubDate>Tue, 21 Oct 2025 06:56:50 -0000</pubDate>
+<pubDate>Tue, 21 Oct 2025 10:26:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A father returns from Israeli detention to find Gaza and his family shattered]]></title>
-<link>https://apnews.com/article/gaza-prisoners-released-israeli-prisons-7f709a1435489f95b0b94e11ffc9df12</link>
-<pubDate>Sun, 19 Oct 2025 05:49:15 -0000</pubDate>
+<title><![CDATA[Yemen’s Houthi rebels detain 20 UN employees and confiscate equipment]]></title>
+<link>https://apnews.com/article/yemen-houthis-un-crackdown-e8143b45eab3b0a1483cbf444acbf11f</link>
+<pubDate>Sun, 19 Oct 2025 13:37:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
