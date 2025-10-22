@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 22:32:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 23:08:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea test-fires ballistic missiles ahead of Trump’s Asia trip]]></title>
-<link>https://apnews.com/article/koreas-ballistic-missile-d15e268cf071780b623a1dbac670f417</link>
-<pubDate>Wed, 22 Oct 2025 16:02:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan says it plans to tell Trump it will build up military and upgrade security strategy]]></title>
 <link>https://apnews.com/article/japan-us-trump-defense-visit-23ce735331adb5d2e15ea4ee60c90918</link>
 <pubDate>Wed, 22 Oct 2025 13:06:50 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[A Naga rebel leader in India’s northeastern state returns home after five decades, in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-nagaland-thuingaleng-muivah-return-photos-012ff4c0d1589b6ba18bac918654665e</link>
 <pubDate>Wed, 22 Oct 2025 15:47:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[American e-waste is causing a ‘hidden tsunami’ in Southeast Asia, watchdog report says]]></title>
+<link>https://apnews.com/article/ewaste-pollution-asia-scrapyards-poison-1bf7eb385cdb21227e0e9815d4a2749b</link>
+<pubDate>Wed, 22 Oct 2025 23:08:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[COVID-19 vaccines may help some cancer patients fight tumors]]></title>
-<link>https://apnews.com/article/mrna-vaccine-cancer-immunotherapy-pfizer-moderna-c632dacabb9208050b399da90630318f</link>
-<pubDate>Wed, 22 Oct 2025 15:18:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fight over new US House districts in California could turn on advertising edge in closing days]]></title>
-<link>https://apnews.com/article/california-house-gavin-newsom-trump-districts-election-c62c0ee94794fb5038b320bc349ccbd1</link>
-<pubDate>Wed, 22 Oct 2025 21:38:19 -0000</pubDate>
+<title><![CDATA[What to know about redistricting efforts across US at Trump’s prodding]]></title>
+<link>https://apnews.com/article/what-know-redistricting-states-voting-maps-congress-d3a30328bec161d50a7ab52ac48f23d5</link>
+<pubDate>Wed, 22 Oct 2025 22:53:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vendors on NYC’s Canal Street say they were harassed and asked to show papers in immigration sweep]]></title>
-<link>https://apnews.com/article/immigration-canal-street-protest-arrests-85f88f0820533f584c895fca650d4f42</link>
-<pubDate>Wed, 22 Oct 2025 21:08:19 -0000</pubDate>
+<title><![CDATA[Sheriff’s deputy got mad and fatally shot Sonya Massey without justification, prosecutor says]]></title>
+<link>https://apnews.com/article/sonya-massey-shooting-trial-sean-grayson-police-ef91c35e7d6823a06639cdb243792a53</link>
+<pubDate>Wed, 22 Oct 2025 22:38:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[COVID-19 vaccines may help some cancer patients fight tumors]]></title>
+<link>https://apnews.com/article/mrna-vaccine-cancer-immunotherapy-pfizer-moderna-c632dacabb9208050b399da90630318f</link>
+<pubDate>Wed, 22 Oct 2025 15:18:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -284,12 +284,6 @@
 <title><![CDATA[UN chief defends science and weather forecasting as Trump threatens both]]></title>
 <link>https://apnews.com/article/guterres-climate-trump-wmo-meteorology-science-f729579dcae6a1b577eb5831310baf09</link>
 <pubDate>Wed, 22 Oct 2025 13:25:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[American e-waste is causing a ‘hidden tsunami’ in Southeast Asia, watchdog report says]]></title>
-<link>https://apnews.com/article/ewaste-pollution-asia-scrapyards-poison-1bf7eb385cdb21227e0e9815d4a2749b</link>
-<pubDate>Wed, 22 Oct 2025 15:42:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
