@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 04:13:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 04:41:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli soccer game abandoned after rioting rival fans throw flares and smoke grenades]]></title>
 <link>https://apnews.com/article/israel-tel-aviv-soccer-game-riot-9d6bac37335253379fd0efc44a141bd4</link>
@@ -53,9 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tropical Storm Melissa forms in the Caribbean on a path toward Haiti]]></title>
-<link>https://apnews.com/article/tropical-storm-melissa-haiti-jamaica-update-dbfc47cb42cc1b6172aee02f46dd5dd2</link>
-<pubDate>Tue, 21 Oct 2025 19:36:48 -0000</pubDate>
+<title><![CDATA[Guatemala passes anti-gang law, declares gangs terrorist groups]]></title>
+<link>https://apnews.com/article/guatemala-barrio-18-gangs-arevalo-3f3893b07e94c2a2cf3943faa8d26870</link>
+<pubDate>Wed, 22 Oct 2025 04:41:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Appeals court overturns conviction of Colombian ex-President Uribe for bribery and witness tampering]]></title>
+<link>https://apnews.com/article/colombia-uribe-charges-appeals-court-conviction-51dccff27221c6483defe6dc4dd774d8</link>
+<pubDate>Wed, 22 Oct 2025 04:26:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pemex pipeline spill contaminates Mexican river after torrential rains]]></title>
-<link>https://apnews.com/article/mexico-floods-veracruz-spill-14186b3e9ed9ef780089d4fdcb80d32d</link>
-<pubDate>Wed, 22 Oct 2025 03:30:19 -0000</pubDate>
+<title><![CDATA[Simone Gbagbo, Ivory Coast’s iron lady, eyes presidential palace in unlikely comeback bid]]></title>
+<link>https://apnews.com/article/ivory-coast-simone-gbagbo-election-ouattara-laurent-7dbc63bbb8fad3dc7426727abbbb10bc</link>
+<pubDate>Wed, 22 Oct 2025 04:11:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[Nigeria police fire tear gas and arrest dozens as protesters demand release of separatist leader]]></title>
 <link>https://apnews.com/article/nigeria-abuja-protest-nnamdi-kanu-biafra-separatist-ef71c23713c124dbb6e615ba351972e5</link>
 <pubDate>Tue, 21 Oct 2025 08:54:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A mushroom farm in Kenya and fungi-based panels give hope for sustainable building]]></title>
-<link>https://apnews.com/article/kenya-mushroom-fungi-construction-sustainable-621bc9707379ea70358e1ab8aa15bec2</link>
-<pubDate>Sun, 19 Oct 2025 09:17:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India seeks to import more US oil and gas under pressure from Trump to stop Russian oil purchases]]></title>
 <link>https://apnews.com/article/india-trump-modi-russia-oil-e03d5e496250e55b839d8915b85fab1d</link>
 <pubDate>Thu, 16 Oct 2025 07:53:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prince Harry, Meghan join call for ban on development of AI ‘superintelligence’]]></title>
+<link>https://apnews.com/article/ai-superintelligence-risk-prince-harry-meghan-bannon-acf6b17d3b53abc08694d5d8defc7009</link>
+<pubDate>Wed, 22 Oct 2025 04:23:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s exports and imports grow in September despite Trump’s tariffs]]></title>
+<link>https://apnews.com/article/japan-trade-economy-trump-tariffs-takaichi-021b347db0cd35bc74317642c9974e60</link>
+<pubDate>Wed, 22 Oct 2025 04:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan elects its first female prime minister, in photos]]></title>
-<link>https://apnews.com/photo-gallery/japan-first-female-prime-minister-vote-photos-d67c7c3420004824e4af363564cbc00c</link>
-<pubDate>Tue, 21 Oct 2025 07:11:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy]]></title>
-<link>https://apnews.com/article/nicolas-sarkozy-prison-france-libya-elysee-sante-3f8ecf08fd10e5c3812c9e48b2f01d7b</link>
-<pubDate>Wed, 22 Oct 2025 01:06:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vance is optimistic about Gaza ceasefire but notes ‘very hard’ work to come]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-21-2025-29925b9671834bba6e24adb5f2e35b51</link>
-<pubDate>Tue, 21 Oct 2025 22:35:40 -0000</pubDate>
+<title><![CDATA[Trump doesn’t want ‘wasted meeting’ with Putin as he confirms talks on Ukraine war are off for now]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-putin-trump-1f22a02dda9adff079383370ee69f95c</link>
+<pubDate>Tue, 21 Oct 2025 22:20:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump doesn’t want ‘wasted meeting’ with Putin as he confirms talks on Ukraine war are off for now]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-trump-1f22a02dda9adff079383370ee69f95c</link>
-<pubDate>Tue, 21 Oct 2025 22:20:40 -0000</pubDate>
+<title><![CDATA[Vance is optimistic about Gaza ceasefire but notes ‘very hard’ work to come]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-21-2025-29925b9671834bba6e24adb5f2e35b51</link>
+<pubDate>Tue, 21 Oct 2025 22:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea has fired ballistic missiles toward the east, Seoul says]]></title>
+<title><![CDATA[North Korea test-fires ballistic missiles ahead of Trump’s Asia trip]]></title>
 <link>https://apnews.com/article/koreas-ballistic-missile-d15e268cf071780b623a1dbac670f417</link>
-<pubDate>Wed, 22 Oct 2025 02:25:43 -0000</pubDate>
+<pubDate>Wed, 22 Oct 2025 04:41:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeals court overturns conviction of Colombian ex-President Uribe for bribery and witness tampering]]></title>
-<link>https://apnews.com/article/colombia-uribe-charges-appeals-court-conviction-51dccff27221c6483defe6dc4dd774d8</link>
-<pubDate>Tue, 21 Oct 2025 17:19:50 -0000</pubDate>
+<title><![CDATA[Western Balkans leaders meet in London for talks on migration and security]]></title>
+<link>https://apnews.com/article/western-balkans-summit-uk-migration-37b9bea43fc438c28d7032df360224f9</link>
+<pubDate>Wed, 22 Oct 2025 04:26:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guatemala passes anti-gang law, declares gangs terrorist groups]]></title>
-<link>https://apnews.com/article/guatemala-barrio-18-gangs-arevalo-3f3893b07e94c2a2cf3943faa8d26870</link>
-<pubDate>Wed, 22 Oct 2025 02:10:43 -0000</pubDate>
+<title><![CDATA[Tropical Storm Melissa brings heavy rain and a flood risk to Haiti, Dominican Republic and Jamaica]]></title>
+<link>https://apnews.com/article/tropical-storm-melissa-haiti-jamaica-update-dbfc47cb42cc1b6172aee02f46dd5dd2</link>
+<pubDate>Wed, 22 Oct 2025 04:11:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Simone Gbagbo, Ivory Coast’s iron lady, eyes presidential palace in unlikely comeback bid]]></title>
-<link>https://apnews.com/article/ivory-coast-simone-gbagbo-election-ouattara-laurent-7dbc63bbb8fad3dc7426727abbbb10bc</link>
-<pubDate>Tue, 21 Oct 2025 08:39:17 -0000</pubDate>
+<title><![CDATA[Youth anger in Ivory Coast as the 83-year-old president seeks a fourth term]]></title>
+<link>https://apnews.com/article/ivory-coast-ouattara-abidjan-election-29122ea54d7c4f8d8159efcd0975868b</link>
+<pubDate>Wed, 22 Oct 2025 03:56:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
