@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 15:39:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 16:13:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
 <link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
@@ -347,15 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vance and Netanyahu meet to push Gaza ceasefire agreement forward]]></title>
+<link>https://apnews.com/article/gaza-ceasefire-vance-netanyahu-449c667c76cf166b233c20d3ed1dd044</link>
+<pubDate>Wed, 22 Oct 2025 16:13:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A major Russian drone and missile attack on Ukraine kills at least 6, officials say]]></title>
 <link>https://apnews.com/article/russia-ukraine-drones-war-putin-trump-2cf465171be371a29e24aa600293b691</link>
 <pubDate>Wed, 22 Oct 2025 13:37:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Louvre reopens 3 days after one of the biggest museum heists of the century]]></title>
+<title><![CDATA[Louvre director acknowledges failure after jewel heist and says she offered to resign]]></title>
 <link>https://apnews.com/article/louvre-museum-theft-paris-jewels-b1fb405f231e190a4fc0c272a819186f</link>
-<pubDate>Wed, 22 Oct 2025 12:20:59 -0000</pubDate>
+<pubDate>Wed, 22 Oct 2025 15:58:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea test-fires ballistic missiles ahead of Trump’s Asia trip]]></title>
-<link>https://apnews.com/article/koreas-ballistic-missile-d15e268cf071780b623a1dbac670f417</link>
-<pubDate>Wed, 22 Oct 2025 04:41:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel ‘not a protectorate’ of the US, Netanyahu says ahead of meeting with Vance]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-22-2025-eb0e50f81366ed26aad35b5d40e6b7bd</link>
-<pubDate>Wed, 22 Oct 2025 13:22:09 -0000</pubDate>
+<title><![CDATA[A timeline of the jewel heist at the Louvre in Paris]]></title>
+<link>https://apnews.com/article/louvre-heist-jewels-paris-timeline-a072c2a5aba6ab5eeb429a280266a799</link>
+<pubDate>Wed, 22 Oct 2025 15:43:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli settlers beat Palestinian farmers on video as attacks mount during West Bank olive harvest]]></title>
+<link>https://apnews.com/article/israel-settlers-west-bank-attack-annexation-1e9cbd6af6ea502fbfca5d9ffe949b0b</link>
+<pubDate>Tue, 21 Oct 2025 20:12:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanese pop star turned militant appears in court after 12 years on the run]]></title>
 <link>https://apnews.com/article/fadel-shaker-court-trial-b541ac1b5b163b0db16cad0587b45fea</link>
 <pubDate>Wed, 22 Oct 2025 09:25:44 -0000</pubDate>
@@ -407,21 +413,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
-<pubDate>Wed, 22 Oct 2025 11:05:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US ranchers oppose Trump’s plan to import more Argentine beef and experts doubt it will lower prices]]></title>
 <link>https://apnews.com/article/beef-prices-cattle-imports-trump-argentina-9f8e9efd6e74e958c586ea1e32797ba2</link>
 <pubDate>Wed, 22 Oct 2025 07:55:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks drift near their records as gold’s price falls again]]></title>
+<title><![CDATA[US stocks pull back from their records as gold’s price drops again]]></title>
 <link>https://apnews.com/article/stock-markets-earnings-trump-trade-8a3d97757ed14ef0445c56a6e2fa2dba</link>
-<pubDate>Wed, 22 Oct 2025 13:07:09 -0000</pubDate>
+<pubDate>Wed, 22 Oct 2025 15:28:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,33 +455,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza]]></title>
-<link>https://apnews.com/article/lebanon-israel-gaza-ceasefire-new-normal-hezbollah-190eb8c2ec2d9fedc94c3fadfc1f41e2</link>
-<pubDate>Mon, 20 Oct 2025 20:54:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[More than 40 people killed in a crash of buses and other vehicles in western Uganda]]></title>
 <link>https://apnews.com/article/uganda-bus-crash-gulu-highway-32517ec8e1512477016cdda3505c5bd6</link>
 <pubDate>Wed, 22 Oct 2025 09:58:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about efforts to block National Guard deployments in Chicago, Portland, other US cities]]></title>
-<link>https://apnews.com/article/trump-immigration-national-guard-chicago-portland-california-8022966cffbd6c97ca5e475faf951928</link>
-<pubDate>Wed, 22 Oct 2025 10:35:59 -0000</pubDate>
+<title><![CDATA[Sheriff’s deputy ‘got mad’ and fatally shot Sonya Massey without justification, prosecutor says]]></title>
+<link>https://apnews.com/article/sonya-massey-shooting-trial-sean-grayson-police-ef91c35e7d6823a06639cdb243792a53</link>
+<pubDate>Wed, 22 Oct 2025 15:13:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[California man agrees to plead guilty to acting as Beijing’s agent]]></title>
 <link>https://apnews.com/article/china-election-interference-california-yaoning-mike-sun-620a0d12e33166f0ef401dd12be5e167</link>
 <pubDate>Tue, 21 Oct 2025 16:34:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[England into semifinals after surviving India’s thrilling run chase at Women’s Cricket World Cup]]></title>
-<link>https://apnews.com/article/india-england-cricket-womens-world-cup-2dba8a3d5d8afd5511b20d045dc0fbfb</link>
-<pubDate>Sun, 19 Oct 2025 23:44:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
