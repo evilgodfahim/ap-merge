@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 11:09:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 11:34:08 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza]]></title>
-<link>https://apnews.com/article/lebanon-israel-gaza-ceasefire-new-normal-hezbollah-190eb8c2ec2d9fedc94c3fadfc1f41e2</link>
-<pubDate>Wed, 22 Oct 2025 09:16:48 -0000</pubDate>
+<title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
+<link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
+<pubDate>Wed, 15 Oct 2025 10:08:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Houthis release 5 Yemeni UN staffers in Sanaa after weekend detention at offices]]></title>
-<link>https://apnews.com/article/yemen-houthi-rebels-israeli-strike-chief-76d1cc24f5ec5fe16c2f64044b14f296</link>
-<pubDate>Tue, 21 Oct 2025 17:04:28 -0000</pubDate>
+<title><![CDATA[World Bank estimates $216B needed to rebuild Syria after civil war]]></title>
+<link>https://apnews.com/article/syria-world-bank-civil-war-rebuilding-costs-234a2e6727670650f79ebd8a8d447f5f</link>
+<pubDate>Wed, 22 Oct 2025 11:34:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Journalists imprisoned in Belarus and Georgia win EU’s top human rights award]]></title>
+<link>https://apnews.com/article/europe-human-rights-prize-6462d318f19037901750a86bfa75a020</link>
+<pubDate>Wed, 22 Oct 2025 11:19:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Louvre reopens 3 days after thieves took French crown jewels in daylight heist]]></title>
-<link>https://apnews.com/article/louvre-museum-theft-paris-jewels-b1fb405f231e190a4fc0c272a819186f</link>
-<pubDate>Wed, 22 Oct 2025 08:15:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-sea-drones-0719211dd0314f2b9d15422e81ca66e3</link>
-<pubDate>Wed, 22 Oct 2025 10:16:52 -0000</pubDate>
+<title><![CDATA[Orbán and his main rival plan dueling demonstrations as Hungary’s elections near]]></title>
+<link>https://apnews.com/article/hungary-orban-rival-demonstrations-elections-protest-aab5f8654d231b380ce227d6d2272c6e</link>
+<pubDate>Wed, 22 Oct 2025 11:04:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Guatemala passes anti-gang law, declares gangs terrorist groups]]></title>
+<link>https://apnews.com/article/guatemala-barrio-18-gangs-arevalo-3f3893b07e94c2a2cf3943faa8d26870</link>
+<pubDate>Wed, 22 Oct 2025 04:41:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Peru’s president declares state of emergency in capital as it tries to stem surging violence]]></title>
 <link>https://apnews.com/article/peru-violence-emergency-president-jose-jeri-675366bbbfa89e00b4a4e8ea763f03b5</link>
 <pubDate>Wed, 22 Oct 2025 07:30:29 -0000</pubDate>
@@ -65,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeals court overturns conviction of Colombian ex-President Uribe for bribery and witness tampering]]></title>
-<link>https://apnews.com/article/colombia-uribe-charges-appeals-court-conviction-51dccff27221c6483defe6dc4dd774d8</link>
-<pubDate>Wed, 22 Oct 2025 04:26:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli soccer game abandoned after rioting rival fans throw flares and smoke grenades]]></title>
-<link>https://apnews.com/article/israel-tel-aviv-soccer-game-riot-9d6bac37335253379fd0efc44a141bd4</link>
-<pubDate>Tue, 21 Oct 2025 10:41:20 -0000</pubDate>
+<title><![CDATA[Houthis release 5 Yemeni UN staffers in Sanaa after weekend detention at offices]]></title>
+<link>https://apnews.com/article/yemen-houthi-rebels-israeli-strike-chief-76d1cc24f5ec5fe16c2f64044b14f296</link>
+<pubDate>Tue, 21 Oct 2025 17:04:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-immigration-raid-trump-crackdown-1472ec9dd297054a36925b06297aca2f</link>
+<pubDate>Tue, 21 Oct 2025 19:21:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[San Francisco leaders push back against Trump’s National Guard threat]]></title>
 <link>https://apnews.com/article/trump-san-francisco-national-guard-4d02f23dc07d0ae6742fe6e4243b9852</link>
 <pubDate>Wed, 22 Oct 2025 00:10:52 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Chess grandmaster Daniel Naroditsky is remembered as a leader in the game’s online surge]]></title>
 <link>https://apnews.com/article/daniel-naroditsky-died-chess-impact-ff0ddf2e286e862bfbf2af593d02491d</link>
 <pubDate>Wed, 22 Oct 2025 09:46:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[North Carolina GOP poised to redraw House map, aiming to secure another seat for Trump]]></title>
-<link>https://apnews.com/article/north-carolina-congress-redistricting-trump-5dccfdf94253efb56c59bbb3d3e3a6d8</link>
-<pubDate>Wed, 22 Oct 2025 09:31:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Appeals court overturns conviction of Colombian ex-President Uribe for bribery and witness tampering]]></title>
+<link>https://apnews.com/article/colombia-uribe-charges-appeals-court-conviction-51dccff27221c6483defe6dc4dd774d8</link>
+<pubDate>Wed, 22 Oct 2025 05:09:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A timeline of US attacks in the Caribbean and what Congress has had to say]]></title>
 <link>https://apnews.com/article/trump-boat-strikes-caribbean-military-venezuela-timeline-2dd9d16f4f74d9dfa4aca76d3123678d</link>
 <pubDate>Wed, 22 Oct 2025 07:46:18 -0000</pubDate>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Journalists imprisoned in Belarus and Georgia win EU’s top human rights award]]></title>
-<link>https://apnews.com/article/europe-human-rights-prize-6462d318f19037901750a86bfa75a020</link>
-<pubDate>Wed, 22 Oct 2025 10:13:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Rare tornado hits northern Paris suburbs]]></title>
 <link>https://apnews.com/video/rare-tornado-hits-northern-paris-suburbs-b0277b70717c47bda39aba432a7bced4</link>
 <pubDate>Tue, 21 Oct 2025 22:05:40 -0000</pubDate>
@@ -404,12 +404,6 @@
 <title><![CDATA[A look at the hostages whose remains are still inside Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-d93c7c3dfce91a6a4c972e3c517be141</link>
 <pubDate>Tue, 21 Oct 2025 16:49:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World Bank estimates $216B needed to rebuild Syria after civil war]]></title>
-<link>https://apnews.com/article/syria-world-bank-civil-war-rebuilding-costs-234a2e6727670650f79ebd8a8d447f5f</link>
-<pubDate>Tue, 21 Oct 2025 11:51:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,12 +458,6 @@
 <title><![CDATA[More than 40 people killed in a crash of buses and other vehicles in western Uganda]]></title>
 <link>https://apnews.com/article/uganda-bus-crash-gulu-highway-32517ec8e1512477016cdda3505c5bd6</link>
 <pubDate>Wed, 22 Oct 2025 09:58:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown]]></title>
-<link>https://apnews.com/article/chicago-immigration-raid-trump-crackdown-1472ec9dd297054a36925b06297aca2f</link>
-<pubDate>Tue, 21 Oct 2025 13:40:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
