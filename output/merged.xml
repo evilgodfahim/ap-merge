@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 11:34:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 12:21:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
 <link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
@@ -170,6 +170,18 @@
 <title><![CDATA[India seeks to import more US oil and gas under pressure from Trump to stop Russian oil purchases]]></title>
 <link>https://apnews.com/article/india-trump-modi-russia-oil-e03d5e496250e55b839d8915b85fab1d</link>
 <pubDate>Thu, 16 Oct 2025 07:53:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[An unidentified gunman kills an opposition politician in a Sri Lankan town]]></title>
+<link>https://apnews.com/article/sri-lanka-opposition-politician-shooting-gang-violence-d23f9185c8e972d8d89fe0f32dd0d36c</link>
+<pubDate>Wed, 22 Oct 2025 12:20:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fire and shooting at a camp in Belgrade hosting the president’s loyalists injures 1]]></title>
+<link>https://apnews.com/article/serbia-fire-camp-vucic-protests-b1e05851a4b0c068049583653c689bef</link>
+<pubDate>Wed, 22 Oct 2025 12:05:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,27 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greek government seeks to ban protests at Tomb of Unknown Soldier monument, sparking backlash]]></title>
-<link>https://apnews.com/article/greece-rail-crash-tempi-tomb-unknown-soldier-4158796726d1dce23f080c352a28b1ab</link>
-<pubDate>Tue, 21 Oct 2025 14:39:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Veteran US surfer dies while surfing big waves at iconic spot in Puerto Rico]]></title>
-<link>https://apnews.com/article/puerto-rico-surfer-dies-bobby-oldsman-tres-palmas-713c7d043ac19380ed1505f7d26878cd</link>
-<pubDate>Tue, 21 Oct 2025 14:24:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A major Russian drone and missile attack on Ukraine kills at least 6 people, officials say]]></title>
 <link>https://apnews.com/article/russia-ukraine-drones-war-putin-trump-2cf465171be371a29e24aa600293b691</link>
 <pubDate>Wed, 22 Oct 2025 09:40:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Louvre reopens 3 days after thieves took off with French crown jewels in daylight heist]]></title>
+<title><![CDATA[The Louvre reopens 3 days after one of the biggest museum heists of the century]]></title>
 <link>https://apnews.com/article/louvre-museum-theft-paris-jewels-b1fb405f231e190a4fc0c272a819186f</link>
-<pubDate>Wed, 22 Oct 2025 10:43:13 -0000</pubDate>
+<pubDate>Wed, 22 Oct 2025 12:20:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Putin directs drills of Russian nuclear forces as his summit with Trump is put on hold]]></title>
+<link>https://apnews.com/article/russia-putin-nuclear-drills-trump-ukraine-a0de66dbf9d5e7771634c4ad5b4fe83e</link>
+<pubDate>Wed, 22 Oct 2025 12:05:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel identifies two more hostages’ bodies as Vance meets Netanyahu]]></title>
+<title><![CDATA[Netanyahu toughens his stance on Israel’s security ahead of meeting with Vance]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-22-2025-eb0e50f81366ed26aad35b5d40e6b7bd</link>
-<pubDate>Wed, 22 Oct 2025 10:28:13 -0000</pubDate>
+<pubDate>Wed, 22 Oct 2025 11:50:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump jokes with visiting Australian ambassador over past critical comments]]></title>
+<link>https://apnews.com/video/trump-jokes-with-visiting-australian-ambassador-over-past-critical-comments-27713869c3de49358b9ef05aa620aabd</link>
+<pubDate>Wed, 22 Oct 2025 11:35:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,21 +401,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French broadcaster obtains video purporting to show Louvre theft taking place]]></title>
-<link>https://apnews.com/video/french-broadcaster-obtains-video-purporting-to-show-louvre-theft-taking-place-82c44b7c39ab443f8510c99de14dbde1</link>
-<pubDate>Tue, 21 Oct 2025 15:42:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Lebanese pop star turned militant appears in court after 12 years on the run]]></title>
 <link>https://apnews.com/article/fadel-shaker-court-trial-b541ac1b5b163b0db16cad0587b45fea</link>
 <pubDate>Wed, 22 Oct 2025 09:25:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the hostages whose remains are still inside Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-d93c7c3dfce91a6a4c972e3c517be141</link>
-<pubDate>Tue, 21 Oct 2025 16:49:50 -0000</pubDate>
+<title><![CDATA[The first EU-Egypt summit will focus on economic ties, migration and Gaza]]></title>
+<link>https://apnews.com/article/egypt-eu-elsissi-von-der-leyen-summit-99a21912d63c180a3aa5406c20864c26</link>
+<pubDate>Wed, 22 Oct 2025 11:20:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
+<pubDate>Wed, 22 Oct 2025 11:05:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan says it plans to tell Trump it will build up military and upgrade security strategy]]></title>
-<link>https://apnews.com/article/japan-us-trump-defense-visit-23ce735331adb5d2e15ea4ee60c90918</link>
-<pubDate>Wed, 22 Oct 2025 08:55:44 -0000</pubDate>
+<title><![CDATA[UK and Indonesia agree to send home a British woman facing death penalty for drugs]]></title>
+<link>https://apnews.com/article/indonesia-uk-death-penalty-drugs-repatriation-22d29e0d1e9983ed0969c3f91bd47eb1</link>
+<pubDate>Wed, 22 Oct 2025 10:50:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iraq says some US military advisers will stay due to IS threat in Syria]]></title>
-<link>https://apnews.com/article/iraq-islamic-state-sudani-us-military-advisers-2180dbaf3ea209bd6af32b43c266603d</link>
-<pubDate>Mon, 20 Oct 2025 14:03:26 -0000</pubDate>
+<title><![CDATA[Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza]]></title>
+<link>https://apnews.com/article/lebanon-israel-gaza-ceasefire-new-normal-hezbollah-190eb8c2ec2d9fedc94c3fadfc1f41e2</link>
+<pubDate>Mon, 20 Oct 2025 20:54:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[More than 40 people killed in a crash of buses and other vehicles in western Uganda]]></title>
 <link>https://apnews.com/article/uganda-bus-crash-gulu-highway-32517ec8e1512477016cdda3505c5bd6</link>
 <pubDate>Wed, 22 Oct 2025 09:58:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about efforts to block National Guard deployments in Chicago, Portland, other US cities]]></title>
+<link>https://apnews.com/article/trump-immigration-national-guard-chicago-portland-california-8022966cffbd6c97ca5e475faf951928</link>
+<pubDate>Wed, 22 Oct 2025 10:35:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
