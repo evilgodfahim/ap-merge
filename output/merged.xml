@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 02:25:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 03:30:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli soccer game abandoned after rioting rival fans throw flares and smoke grenades]]></title>
 <link>https://apnews.com/article/israel-tel-aviv-soccer-game-riot-9d6bac37335253379fd0efc44a141bd4</link>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mass to honor salsa singer Celia Cruz draws hundreds in Cuba after authorities shut down performance]]></title>
-<link>https://apnews.com/article/cuba-celia-cruz-anniversary-celebration-88b9f920da2499b0b500af7f9e8d6713</link>
-<pubDate>Tue, 21 Oct 2025 21:07:05 -0000</pubDate>
+<title><![CDATA[Pemex pipeline spill contaminates Mexican river after torrential rains]]></title>
+<link>https://apnews.com/article/mexico-floods-veracruz-spill-14186b3e9ed9ef780089d4fdcb80d32d</link>
+<pubDate>Wed, 22 Oct 2025 03:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pemex pipeline spill contaminates Mexican river after torrential rains]]></title>
-<link>https://apnews.com/article/mexico-floods-veracruz-spill-14186b3e9ed9ef780089d4fdcb80d32d</link>
-<pubDate>Wed, 22 Oct 2025 02:21:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Crews rescue 80 miners trapped in the Dominican Republic with no injuries or deaths reported]]></title>
 <link>https://apnews.com/article/dominican-miners-trapped-2a49c1e4d442b4d58c41e14a4bd811e2</link>
 <pubDate>Tue, 21 Oct 2025 23:18:44 -0000</pubDate>
@@ -194,6 +188,12 @@
 <title><![CDATA[Fuel truck explodes in Nigeria and kills at least 31 people, police say]]></title>
 <link>https://apnews.com/article/nigeria-truck-explodes-gasoline-residents-killed-923f073a0cf0436e4ff73bfb15d6081f</link>
 <pubDate>Tue, 21 Oct 2025 20:46:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mass to honor salsa singer Celia Cruz draws hundreds in Cuba after authorities shut down performance]]></title>
+<link>https://apnews.com/article/cuba-celia-cruz-anniversary-celebration-88b9f920da2499b0b500af7f9e8d6713</link>
+<pubDate>Wed, 22 Oct 2025 03:22:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
