@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Oct 2025 07:35:40 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Lebanese pop star turned militant appears in court after 12 years on the run]]></title>
-<link>https://apnews.com/article/fadel-shaker-court-trial-b541ac1b5b163b0db16cad0587b45fea</link>
-<pubDate>Thu, 23 Oct 2025 03:15:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 23 Oct 2025 08:15:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The first EU-Egypt summit will focus on economic ties, migration and Gaza]]></title>
 <link>https://apnews.com/article/egypt-eu-elsissi-von-der-leyen-summit-99a21912d63c180a3aa5406c20864c26</link>
 <pubDate>Thu, 23 Oct 2025 01:22:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
+<pubDate>Wed, 22 Oct 2025 16:47:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Belgium warns EU partners to share its risk if they want to use frozen Russian assets to aid Ukraine]]></title>
+<link>https://apnews.com/article/europe-russia-ukraine-assets-frozen-war-belgium-ea3ae2435aa9967e2728e73b4708dd9b</link>
+<pubDate>Thu, 23 Oct 2025 08:15:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump levies new sanctions on Russian oil giants in a push on Putin to end Ukraine war]]></title>
-<link>https://apnews.com/article/russia-ukraine-drones-war-putin-trump-2cf465171be371a29e24aa600293b691</link>
-<pubDate>Thu, 23 Oct 2025 04:23:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cambodian police arrest 57 South Koreans over alleged links to online scams]]></title>
 <link>https://apnews.com/article/cambodia-south-korea-arrests-online-scams-ac668161d388dfb8dd0e1b76c2d44c1f</link>
 <pubDate>Thu, 23 Oct 2025 06:47:44 -0000</pubDate>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan says it plans to tell Trump it will build up military and upgrade security strategy]]></title>
-<link>https://apnews.com/article/japan-us-trump-defense-visit-23ce735331adb5d2e15ea4ee60c90918</link>
-<pubDate>Wed, 22 Oct 2025 13:06:50 -0000</pubDate>
+<title><![CDATA[People use garden tools to protect millions of migrating red crabs on Christmas Island]]></title>
+<link>https://apnews.com/article/christmas-island-red-crab-migration-c8b9fbca06fbb269b26ac57e50153b3a</link>
+<pubDate>Thu, 23 Oct 2025 08:00:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US strikes two more alleged drug-carrying boats, this time in the Pacific Ocean]]></title>
+<link>https://apnews.com/article/trump-cartels-drug-boat-strike-ffb1b720fa018336316238463924b78a</link>
+<pubDate>Thu, 23 Oct 2025 07:45:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,18 +68,6 @@
 <title><![CDATA[UN Security Council pressures Haiti’s leaders to hold general election as deadline nears]]></title>
 <link>https://apnews.com/article/haiti-un-security-council-elections-gangs-violence-935132d5218976a8f72dbf86d34a01a5</link>
 <pubDate>Wed, 22 Oct 2025 21:53:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ecuador’s Indigenous alliance ends highway-blocking protests after military threat]]></title>
-<link>https://apnews.com/article/ecuador-indigenous-protests-diesel-noboa-subsidy-521777333a079090e8dee4698fc0ca70</link>
-<pubDate>Wed, 22 Oct 2025 20:38:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[First domestic flight lands in Sudan’s capital Khartoum since war began]]></title>
-<link>https://apnews.com/article/sudan-khartoum-airport-war-military-rsf-4b5478c6ad7489dcbd30079485b2532d</link>
-<pubDate>Wed, 22 Oct 2025 16:32:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,6 +86,12 @@
 <title><![CDATA[Judge orders former South African President Zuma to repay $1.6 million in legal fees]]></title>
 <link>https://apnews.com/article/south-africa-court-zuma-legal-fees-taxpayers-corruption-8cb4d80ef015ea014b5698287bd1be5d</link>
 <pubDate>Wed, 22 Oct 2025 15:32:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[First domestic flight lands in Sudan’s capital Khartoum since war began]]></title>
+<link>https://apnews.com/article/sudan-khartoum-airport-war-military-rsf-4b5478c6ad7489dcbd30079485b2532d</link>
+<pubDate>Wed, 22 Oct 2025 16:32:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US strikes two more alleged drug-carrying boats, this time in the Pacific Ocean]]></title>
-<link>https://apnews.com/article/trump-cartels-drug-boat-strike-ffb1b720fa018336316238463924b78a</link>
-<pubDate>Thu, 23 Oct 2025 02:21:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Tropical Storm Melissa lumbers through the Caribbean as islands take cover from rain]]></title>
 <link>https://apnews.com/article/tropical-storm-melissa-haiti-dominican-republic-jamaica-f7babba822aed380e634334f2701fc5a</link>
 <pubDate>Thu, 23 Oct 2025 04:40:36 -0000</pubDate>
@@ -458,12 +452,6 @@
 <title><![CDATA[Military and police patrol streets of Peru’s capital as state of emergency begins]]></title>
 <link>https://apnews.com/article/peru-emergency-decree-president-jeri-crime-d988135d756492ee8110deacc8ed1ed6</link>
 <pubDate>Wed, 22 Oct 2025 21:17:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
-<pubDate>Wed, 22 Oct 2025 11:05:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
