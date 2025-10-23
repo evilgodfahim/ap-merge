@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Oct 2025 12:21:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 13:05:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi Arabia appoints Sheikh Saleh bin Fawzan al-Fawzan as kingdom’s new grand mufti]]></title>
 <link>https://apnews.com/article/saudi-arabia-grand-mufti-a51faaa530b191612c5d96d354eab5a3</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU joins US in heaping more sanctions on Russia to push Putin into Ukraine peace talks]]></title>
+<title><![CDATA[US and allies increase sanctions on Russia to push Putin into Ukraine peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-europe-us-sanctions-f9d98cd011533b6f1c071ea2cef9f2d9</link>
-<pubDate>Thu, 23 Oct 2025 11:12:29 -0000</pubDate>
+<pubDate>Thu, 23 Oct 2025 12:27:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK police arrest 3 men in London on suspicion of spying for Russia]]></title>
+<link>https://apnews.com/article/uk-russia-spying-arrests-london-50b2ae56ca77dd99dd5d6c08588e318f</link>
+<pubDate>Thu, 23 Oct 2025 12:12:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[European Union agrees on new sanctions against Russia targeting its shadow oil fleet and LNG imports]]></title>
 <link>https://apnews.com/article/europe-ukraine-russia-sanctions-gaza-30a4a1ed77e8e59d0692d18c1252838b</link>
 <pubDate>Thu, 23 Oct 2025 09:25:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[British royals pray with pope in historic step for churches and welcome respite from Epstein scandal]]></title>
-<link>https://apnews.com/article/vatican-pope-king-charles-visit-21d45caccfa4d06cbd975cca542e2cb4</link>
-<pubDate>Thu, 23 Oct 2025 10:57:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil publishes Bolsonaro’s conviction for coup attempt, starting the appeals clock]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-conviction-appeal-231bda7878d097d075347886504fb963</link>
-<pubDate>Wed, 22 Oct 2025 22:08:19 -0000</pubDate>
+<title><![CDATA[Brazilian President Lula announces reelection bid for fourth nonconsecutive term]]></title>
+<link>https://apnews.com/article/brazil-president-lula-reelection-54727dd43c9709ae8be01dd9dc072fe5</link>
+<pubDate>Thu, 23 Oct 2025 11:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN Security Council pressures Haiti’s leaders to hold general election as deadline nears]]></title>
-<link>https://apnews.com/article/haiti-un-security-council-elections-gangs-violence-935132d5218976a8f72dbf86d34a01a5</link>
-<pubDate>Wed, 22 Oct 2025 21:53:19 -0000</pubDate>
+<title><![CDATA[Brazil publishes Bolsonaro’s conviction for coup attempt, starting the appeals clock]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-conviction-appeal-231bda7878d097d075347886504fb963</link>
+<pubDate>Wed, 22 Oct 2025 22:08:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Health care compromise appears far off as the government shutdown stalemate persists]]></title>
+<link>https://apnews.com/article/government-shutdown-aca-obamacare-subsidies-congress-trump-da06fcbc940e661234fac2ea9ee717a0</link>
+<pubDate>Thu, 23 Oct 2025 11:42:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Broadway musicians reach tentative labor deal, averting a strike]]></title>
+<link>https://apnews.com/article/broadway-labor-deal-musicians-a34c8886f4279b9aed7242262f5c0a6d</link>
+<pubDate>Thu, 23 Oct 2025 11:27:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Federal agents sent to San Francisco area, which mayor says is meant to incite ‘chaos and violence’]]></title>
 <link>https://apnews.com/article/trump-san-francisco-immigration-904c9e47637ef9e9ed6241acd03dd998</link>
 <pubDate>Thu, 23 Oct 2025 10:42:29 -0000</pubDate>
@@ -110,18 +122,6 @@
 <title><![CDATA[With Supreme Court decision still pending, judge extends block on Guard in Chicago indefinitely]]></title>
 <link>https://apnews.com/article/trump-immigration-national-guard-chicago-portland-california-62cbf8f7424ec5f585f1d9177757f654</link>
 <pubDate>Thu, 23 Oct 2025 00:22:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Some DC residents, wary of Trump’s motives, uneasily back parts of the National Guard deployment]]></title>
-<link>https://apnews.com/article/national-guard-trump-washington-dc-residents-8ad81db41947836b4bab745a8eac65a8</link>
-<pubDate>Thu, 23 Oct 2025 10:27:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How inflatable costumes ballooned at anti-Trump rallies due to a Portland protester’s frog outfit]]></title>
-<link>https://apnews.com/article/inflatable-costumes-protests-portland-7017b62b45eab1cac82a169a763af359</link>
-<pubDate>Thu, 23 Oct 2025 04:08:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of King Charles III and Queen Camilla visiting the Vatican to pray with Pope Leo XIV]]></title>
+<link>https://apnews.com/photo-gallery/vatican-pope-king-charles-visit-487378e89bbcade8186b4bed509f4809</link>
+<pubDate>Thu, 23 Oct 2025 12:39:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands march in Budapest to support Orbán amid election challenges]]></title>
 <link>https://apnews.com/article/hungary-orban-magyar-rallies-4b1eeb4211506ad595ab104419645e34</link>
 <pubDate>Thu, 23 Oct 2025 11:38:43 -0000</pubDate>
@@ -188,6 +194,12 @@
 <title><![CDATA[American missionary abducted in Niger as security worsens, sources say]]></title>
 <link>https://apnews.com/article/niger-kidnapping-jihadists-niamey-american-missionary-d480c1587c5b72a157d0613023cc9daf</link>
 <pubDate>Thu, 23 Oct 2025 10:37:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The heads of the Church of England and of the Catholic Church pray together for the first time]]></title>
+<link>https://apnews.com/article/vatican-pope-king-charles-visit-21d45caccfa4d06cbd975cca542e2cb4</link>
+<pubDate>Thu, 23 Oct 2025 12:24:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,9 +233,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mixed and crude prices soar $2 after Trump sanctions Russian oil giants]]></title>
+<title><![CDATA[Wall Street quietly mixed early while crude prices soar $3 after Trump sanctions Russian oil giants]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-trump-china-a3ff10477f2693b81d8e5a0050c0c4f3</link>
-<pubDate>Thu, 23 Oct 2025 09:07:21 -0000</pubDate>
+<pubDate>Thu, 23 Oct 2025 12:09:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,15 +251,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge to rule in 1972 Bloody Sunday murder case against former British soldier]]></title>
+<title><![CDATA[British ex-soldier acquitted of murder and attempted murder charges in 1972 Bloody Sunday massacre]]></title>
 <link>https://apnews.com/article/bloody-sunday-massacre-trial-soldier-northern-ireland-murder-derry-2d3c66443c5001917d8241809788cac2</link>
-<pubDate>Thu, 23 Oct 2025 08:21:25 -0000</pubDate>
+<pubDate>Thu, 23 Oct 2025 11:54:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody]]></title>
 <link>https://apnews.com/article/mexico-cuba-china-fentanyl-drug-trafficking-9e982039f5a645d5804cb472025508cb</link>
 <pubDate>Thu, 23 Oct 2025 02:21:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN Security Council pressures Haiti’s leaders to hold general election as deadline nears]]></title>
+<link>https://apnews.com/article/haiti-un-security-council-elections-gangs-violence-935132d5218976a8f72dbf86d34a01a5</link>
+<pubDate>Thu, 23 Oct 2025 11:39:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,24 +350,6 @@
 <title><![CDATA[First domestic flight lands in Sudan’s capital Khartoum since war began]]></title>
 <link>https://apnews.com/article/sudan-khartoum-airport-war-military-rsf-4b5478c6ad7489dcbd30079485b2532d</link>
 <pubDate>Thu, 23 Oct 2025 04:18:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A timeline of the jewel heist at the Louvre in Paris]]></title>
-<link>https://apnews.com/article/louvre-heist-jewels-paris-timeline-a072c2a5aba6ab5eeb429a280266a799</link>
-<pubDate>Wed, 22 Oct 2025 19:58:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vance denies the US dictates to Israel as he meets with Netanyahu over Gaza ceasefire]]></title>
-<link>https://apnews.com/article/gaza-ceasefire-vance-netanyahu-449c667c76cf166b233c20d3ed1dd044</link>
-<pubDate>Thu, 23 Oct 2025 07:51:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tournament featuring Afghanistan women’s refugee team moved to Morocco]]></title>
-<link>https://apnews.com/article/afghanistan-women-soccer-taliban-72ecef6ffa4ef350c56edaa798c0e122</link>
-<pubDate>Wed, 22 Oct 2025 15:27:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Health care compromise appears far off as the government shutdown stalemate persists]]></title>
-<link>https://apnews.com/article/government-shutdown-aca-obamacare-subsidies-congress-trump-da06fcbc940e661234fac2ea9ee717a0</link>
-<pubDate>Thu, 23 Oct 2025 11:12:28 -0000</pubDate>
+<title><![CDATA[Miami Heat’s Rozier, Trail Blazers’ Billups arrested in federal gambling probe, sources say]]></title>
+<link>https://apnews.com/article/miami-heat-kevin-rozier-gambling-probe-de98ecb76bb8f13b85f4c5ac62f66221</link>
+<pubDate>Thu, 23 Oct 2025 12:50:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
