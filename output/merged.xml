@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Oct 2025 05:10:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 05:39:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese pop star turned militant appears in court after 12 years on the run]]></title>
 <link>https://apnews.com/article/fadel-shaker-court-trial-b541ac1b5b163b0db16cad0587b45fea</link>
@@ -17,21 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Dutch general election focuses on migration and housing crisis as Wilders seeks another win]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-migration-asylum-245594abb3a0054b22f4a2ba16ab883e</link>
+<pubDate>Thu, 23 Oct 2025 05:38:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Judge to rule in 1972 Bloody Sunday murder case against former British soldier]]></title>
+<link>https://apnews.com/article/bloody-sunday-massacre-trial-soldier-northern-ireland-murder-derry-2d3c66443c5001917d8241809788cac2</link>
+<pubDate>Thu, 23 Oct 2025 05:23:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump levies new sanctions on Russian oil giants in a push on Putin to end Ukraine war]]></title>
 <link>https://apnews.com/article/russia-ukraine-drones-war-putin-trump-2cf465171be371a29e24aa600293b691</link>
 <pubDate>Thu, 23 Oct 2025 04:23:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-sea-drones-0719211dd0314f2b9d15422e81ca66e3</link>
-<pubDate>Wed, 22 Oct 2025 10:16:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jailed journalists win Sakharov Prize for speaking against injustice, European Parliament says]]></title>
-<link>https://apnews.com/article/sakharov-prize-poczobut-amaghlobeli-journalists-d1875cd7e161bf440b3fcd925790fb09</link>
-<pubDate>Wed, 22 Oct 2025 16:17:08 -0000</pubDate>
+<title><![CDATA[Surfer in distress and rescuer both die in stormy weather in Australia]]></title>
+<link>https://apnews.com/article/australia-melbourne-surfer-dead-storm-54b7164fda577354807c22a93bf2f097</link>
+<pubDate>Thu, 23 Oct 2025 05:08:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[A Naga rebel leader returns to his hometown in India’s northeast after 5 decades, in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-nagaland-thuingaleng-muivah-return-photos-012ff4c0d1589b6ba18bac918654665e</link>
 <pubDate>Thu, 23 Oct 2025 01:07:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[American e-waste is causing a ‘hidden tsunami’ in Southeast Asia, watchdog report says]]></title>
-<link>https://apnews.com/article/ewaste-pollution-asia-scrapyards-poison-1bf7eb385cdb21227e0e9815d4a2749b</link>
-<pubDate>Wed, 22 Oct 2025 23:08:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,9 +77,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
-<link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
-<pubDate>Wed, 15 Oct 2025 10:08:29 -0000</pubDate>
+<title><![CDATA[Crash of buses and other vehicles in western Uganda kills 46 people]]></title>
+<link>https://apnews.com/article/uganda-bus-crash-gulu-highway-32517ec8e1512477016cdda3505c5bd6</link>
+<pubDate>Thu, 23 Oct 2025 04:53:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show monks and nuns harvesting olives on the Holy Land’s Mount of Olives]]></title>
+<link>https://apnews.com/photo-gallery/israel-jerusalem-olive-harvest-christianity-gethsemane-5f5ba6886117e0497760c74f4f0a6ed4</link>
+<pubDate>Thu, 23 Oct 2025 05:34:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody]]></title>
 <link>https://apnews.com/article/mexico-cuba-china-fentanyl-drug-trafficking-9e982039f5a645d5804cb472025508cb</link>
 <pubDate>Thu, 23 Oct 2025 02:21:23 -0000</pubDate>
@@ -239,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jailed journalists win Sakharov Prize for speaking against injustice, European Parliament says]]></title>
+<link>https://apnews.com/article/sakharov-prize-poczobut-amaghlobeli-journalists-d1875cd7e161bf440b3fcd925790fb09</link>
+<pubDate>Thu, 23 Oct 2025 04:33:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of cattle ranching in Argentina and the US as Trump plans to import more Argentine beef]]></title>
 <link>https://apnews.com/photo-gallery/beef-prices-cattle-imports-trump-argentina-fac87930f799019bf4421bb7d10a43bc</link>
 <pubDate>Wed, 22 Oct 2025 15:57:58 -0000</pubDate>
@@ -299,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[American e-waste is causing a ‘hidden tsunami’ in Southeast Asia, watchdog report says]]></title>
+<link>https://apnews.com/article/ewaste-pollution-asia-scrapyards-poison-1bf7eb385cdb21227e0e9815d4a2749b</link>
+<pubDate>Wed, 22 Oct 2025 15:42:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Putin directs drills of Russian nuclear forces as his summit with Trump is put on hold]]></title>
 <link>https://apnews.com/article/russia-putin-nuclear-drills-trump-ukraine-a0de66dbf9d5e7771634c4ad5b4fe83e</link>
 <pubDate>Wed, 22 Oct 2025 18:03:11 -0000</pubDate>
@@ -323,21 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[This seat taken? Thieves busted for stealing over 1,000 restaurant chairs in Spain]]></title>
-<link>https://apnews.com/article/stolen-chairs-spain-restaurants-51556ca98953700f5a9c305b59b0fa5c</link>
-<pubDate>Wed, 22 Oct 2025 10:43:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Journalists imprisoned in Belarus and Georgia win EU’s top human rights award]]></title>
-<link>https://apnews.com/article/europe-human-rights-prize-6462d318f19037901750a86bfa75a020</link>
-<pubDate>Thu, 23 Oct 2025 04:03:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A vintage car graveyard in western Germany, in photos]]></title>
-<link>https://apnews.com/photo-gallery/photos-antique-cars-cemetery-68a7ece50df3f8f90fb6ea155086204b</link>
-<pubDate>Wed, 22 Oct 2025 10:28:12 -0000</pubDate>
+<title><![CDATA[What to know about the 13 hostages whose remains are still inside Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
+<pubDate>Thu, 23 Oct 2025 03:32:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
