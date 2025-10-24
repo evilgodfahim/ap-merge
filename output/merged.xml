@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 04:13:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 04:40:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Backing Israel was considered mandatory for New York politicians. Then came Zohran Mamdani]]></title>
 <link>https://apnews.com/article/zohran-mamdani-andrew-cuomo-israel-11e3f9c7b9ad37dfd356a0177f3a080a</link>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says he’s ending trade talks with Canada over TV ads]]></title>
+<link>https://apnews.com/article/trump-canada-trade-tariffs-a0cfd202ef6f22052827b784be708fd6</link>
+<pubDate>Fri, 24 Oct 2025 04:40:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Lithuanian president says Russian military planes violated the Baltic country’s airspace]]></title>
 <link>https://apnews.com/article/lithuania-russia-military-planes-airspace-f9d31aa920ee91c95103d902967d3b24</link>
 <pubDate>Thu, 23 Oct 2025 18:46:30 -0000</pubDate>
@@ -356,12 +362,6 @@
 <title><![CDATA[Vance calls Israel’s parliament vote on West Bank annexation an ‘insult’]]></title>
 <link>https://apnews.com/article/jd-vance-israel-hamas-marco-rubio-ceasefire-press-gaza-26c272b2182c3d0accdfc5e1e3339a34</link>
 <pubDate>Thu, 23 Oct 2025 16:13:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
-<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
-<pubDate>Fri, 24 Oct 2025 02:17:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Japan and South Korea, Trump will promote big investments. But the details are still not clear]]></title>
-<link>https://apnews.com/article/trump-japan-south-korea-investments-b83f47d14f68422ecd7bde740ffe7d94</link>
-<pubDate>Fri, 24 Oct 2025 01:47:25 -0000</pubDate>
+<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
+<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
+<pubDate>Fri, 24 Oct 2025 02:17:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
