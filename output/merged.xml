@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 16:12:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 16:44:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump mulls asking Israel to free Palestinian leader Barghouti as US looks to Gaza’s post-Hamas rule]]></title>
 <link>https://apnews.com/article/trump-gaza-barghouti-israel-palestinians-hamas-909aabb7b905f95e3890280cf72df5bd</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK judge sentences 5 men for roles in Russia-linked arson attack in London]]></title>
+<title><![CDATA[Men sentenced over London arson attack masterminded by Russia as part of a wider sabotage campaign]]></title>
 <link>https://apnews.com/article/britain-russia-arson-attack-sentences-a40ec6423a118c600469a5d29662060c</link>
-<pubDate>Fri, 24 Oct 2025 15:44:11 -0000</pubDate>
+<pubDate>Fri, 24 Oct 2025 16:44:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Turkey in talks with Qatar and Oman to buy used Eurofighter jets, Erdogan says]]></title>
 <link>https://apnews.com/article/turkey-eurofighter-typhoon-jets-qatar-oman-erdogan-e9c6b09cb41295ebf7d184f0632a4426</link>
 <pubDate>Fri, 24 Oct 2025 11:27:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[In Japan and South Korea, Trump will promote big investments. But the details are still not clear]]></title>
+<link>https://apnews.com/article/trump-japan-south-korea-investments-b83f47d14f68422ecd7bde740ffe7d94</link>
+<pubDate>Fri, 24 Oct 2025 05:22:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Roadside bombing kills 3 police officers in northwest Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-northwest-roadside-bombing-police-targeted-dc1103da10570480e63e811bd3ec9eda</link>
 <pubDate>Fri, 24 Oct 2025 14:42:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China to focus on speeding up self-reliance in science and tech in new economic plan]]></title>
-<link>https://apnews.com/article/china-communist-party-fourth-plenum-five-year-plan-9596d3180c06497f42b45a9a4fff6ab9</link>
-<pubDate>Fri, 24 Oct 2025 02:57:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shots fired at vehicle after it backs into US Coast Guard base in the San Francisco Bay Area]]></title>
+<title><![CDATA[Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco]]></title>
 <link>https://apnews.com/article/coast-guard-island-shooting-alameda-uhaul-immigration-93d298073ab85528cad3a95f5faa2d4c</link>
-<pubDate>Fri, 24 Oct 2025 13:27:50 -0000</pubDate>
+<pubDate>Fri, 24 Oct 2025 16:29:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[California man agrees to plead guilty to acting as Beijing’s agent]]></title>
-<link>https://apnews.com/article/china-election-interference-california-yaoning-mike-sun-620a0d12e33166f0ef401dd12be5e167</link>
-<pubDate>Thu, 23 Oct 2025 19:46:57 -0000</pubDate>
+<title><![CDATA[China to focus on speeding up self-reliance in science and tech in new economic plan]]></title>
+<link>https://apnews.com/article/china-communist-party-fourth-plenum-five-year-plan-9596d3180c06497f42b45a9a4fff6ab9</link>
+<pubDate>Fri, 24 Oct 2025 02:57:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s first female leader is an ultraconservative star from a male-dominated party]]></title>
-<link>https://apnews.com/article/japan-prime-minister-takaichi-21224ba4c4429ffad1639e9fcc4abd4a</link>
-<pubDate>Wed, 22 Oct 2025 00:26:28 -0000</pubDate>
+<title><![CDATA[California man agrees to plead guilty to acting as Beijing’s agent]]></title>
+<link>https://apnews.com/article/china-election-interference-california-yaoning-mike-sun-620a0d12e33166f0ef401dd12be5e167</link>
+<pubDate>Thu, 23 Oct 2025 19:46:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +446,6 @@
 <title><![CDATA[Ukraine’s Zelenskyy seeks more European help against Russia on London trip]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-london-coalition-willing-2a9e4d936356533821175e420e8a0a2f</link>
 <pubDate>Fri, 24 Oct 2025 13:30:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Japan and South Korea, Trump will promote big investments. But the details are still not clear]]></title>
-<link>https://apnews.com/article/trump-japan-south-korea-investments-b83f47d14f68422ecd7bde740ffe7d94</link>
-<pubDate>Fri, 24 Oct 2025 01:47:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
