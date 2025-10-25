@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 07:32:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 08:12:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Analysis: Iran faces ‘a permanent state of crisis’ as time wanes and sanction pressure grows]]></title>
 <link>https://apnews.com/article/iran-nuclear-us-israel-war-paralysis-analysis-cb4b16bae60604fadc34fbe1d2e257a0</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
-<link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
-<pubDate>Sat, 25 Oct 2025 04:39:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
 <link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
 <pubDate>Sat, 25 Oct 2025 05:52:37 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[Europe fights to avoid being sidelined by Trump’s world-shaping plans]]></title>
 <link>https://apnews.com/article/trump-europe-sidelined-ukraine-gaza-51d8929e55b921c02de063908fe2a8a2</link>
 <pubDate>Sat, 25 Oct 2025 04:09:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Men sentenced over London arson attack masterminded by Russia as part of a wider sabotage campaign]]></title>
+<link>https://apnews.com/article/britain-russia-arson-attack-sentences-a40ec6423a118c600469a5d29662060c</link>
+<pubDate>Fri, 24 Oct 2025 16:44:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -428,6 +428,12 @@
 <title><![CDATA[US inflation stays elevated but prices rose less than feared last month]]></title>
 <link>https://apnews.com/article/tariffs-inflation-trump-prices-economy-wall-street-fed-consumers-280a2fd30de3bb44bd87cd0248082322</link>
 <pubDate>Sat, 25 Oct 2025 06:30:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
+<link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
+<pubDate>Sat, 25 Oct 2025 06:15:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
