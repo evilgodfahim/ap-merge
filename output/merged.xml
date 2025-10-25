@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 07:09:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 07:32:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Analysis: Iran faces ‘a permanent state of crisis’ as time wanes and sanction pressure grows]]></title>
 <link>https://apnews.com/article/iran-nuclear-us-israel-war-paralysis-analysis-cb4b16bae60604fadc34fbe1d2e257a0</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian strikes on Ukraine kill at least 3 people and wound 17]]></title>
+<link>https://apnews.com/article/russia-ukraine-zelenskyy-missile-ballistic-kyiv-4381b48b931d7ed32e44a6d671b97dd5</link>
+<pubDate>Sat, 25 Oct 2025 07:32:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[African migrants learn shepherding in Spain, in photos]]></title>
 <link>https://apnews.com/photo-gallery/spain-migrants-agriculture-depopulation-3723fcc54bb3451d49488dca19911774</link>
 <pubDate>Sat, 25 Oct 2025 04:39:33 -0000</pubDate>
@@ -227,12 +233,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Men sentenced over London arson attack masterminded by Russia as part of a wider sabotage campaign]]></title>
-<link>https://apnews.com/article/britain-russia-arson-attack-sentences-a40ec6423a118c600469a5d29662060c</link>
-<pubDate>Sat, 25 Oct 2025 04:09:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Colombian man to serve minimum 42 years in UK prison for grisly double murder]]></title>
 <link>https://apnews.com/article/britain-colombia-murder-suitcases-5280a733be68ac91c06a8a546ca82e5f</link>
 <pubDate>Fri, 24 Oct 2025 14:11:18 -0000</pubDate>
@@ -272,12 +272,6 @@
 <title><![CDATA[China creates Day of Taiwan’s Restoration as part of sovereignty claims over island]]></title>
 <link>https://apnews.com/article/china-creates-national-taiwan-holiday-f80b98e8edbc938ae6d3e2b2f8830de8</link>
 <pubDate>Fri, 24 Oct 2025 12:34:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU accuses Meta and TikTok of breaching transparency rules]]></title>
-<link>https://apnews.com/article/eu-dsa-meta-facebook-instagram-tiktok-a927e9bec07650adb14eae446a37663e</link>
-<pubDate>Fri, 24 Oct 2025 11:45:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canada cuts tariff relief on some US cars due to Stellantis, GM ending some Canadian production]]></title>
+<link>https://apnews.com/article/canada-us-auto-production-tariffs-a64f16e120fca93af501fa9c8ce39866</link>
+<pubDate>Fri, 24 Oct 2025 00:34:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump ends trade talks with Canada over tariffs ad that Ontario premier now says he’ll phase out]]></title>
 <link>https://apnews.com/article/trump-canada-trade-tariffs-a0cfd202ef6f22052827b784be708fd6</link>
 <pubDate>Fri, 24 Oct 2025 19:32:43 -0000</pubDate>
@@ -413,39 +413,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US ranchers oppose Trump’s plan to import more Argentine beef and experts doubt it will lower prices]]></title>
-<link>https://apnews.com/article/beef-prices-cattle-imports-trump-argentina-9f8e9efd6e74e958c586ea1e32797ba2</link>
-<pubDate>Wed, 22 Oct 2025 07:55:15 -0000</pubDate>
+<title><![CDATA[EU accuses Meta and TikTok of breaching transparency rules]]></title>
+<link>https://apnews.com/article/eu-dsa-meta-facebook-instagram-tiktok-a927e9bec07650adb14eae446a37663e</link>
+<pubDate>Sat, 25 Oct 2025 07:00:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks and gold sink, while meme stocks swerve, as momentum reverses on Wall Street]]></title>
-<link>https://apnews.com/article/stock-markets-earnings-trump-trade-8a3d97757ed14ef0445c56a6e2fa2dba</link>
-<pubDate>Wed, 22 Oct 2025 19:43:05 -0000</pubDate>
+<title><![CDATA[US coffee prices spike due to tariffs and poor weather]]></title>
+<link>https://apnews.com/article/coffee-prices-tariffs-climate-3503a37a8fc95b7dc5a1f29747c81e27</link>
+<pubDate>Sat, 25 Oct 2025 06:45:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports and imports grow in September despite Trump’s tariffs]]></title>
-<link>https://apnews.com/article/japan-trade-economy-trump-tariffs-takaichi-021b347db0cd35bc74317642c9974e60</link>
-<pubDate>Wed, 22 Oct 2025 07:25:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan reports its first case of African swine fever and culls scores of pigs]]></title>
-<link>https://apnews.com/article/taiwan-african-swine-fever-first-cases-884ad332e27185c1c7cbec6203193ace</link>
-<pubDate>Wed, 22 Oct 2025 07:10:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia’s new energy assault pushes Ukrainians into another winter of blackouts]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-blackout-energy-winter-grid-074fafac8a4b5bb556308379808d041b</link>
-<pubDate>Tue, 21 Oct 2025 13:06:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine’s Zelenskyy urges US to broaden Russian oil sanctions and seeks long-range missiles]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-london-coalition-willing-2a9e4d936356533821175e420e8a0a2f</link>
-<pubDate>Fri, 24 Oct 2025 18:17:16 -0000</pubDate>
+<title><![CDATA[US inflation stays elevated but prices rose less than feared last month]]></title>
+<link>https://apnews.com/article/tariffs-inflation-trump-prices-economy-wall-street-fed-consumers-280a2fd30de3bb44bd87cd0248082322</link>
+<pubDate>Sat, 25 Oct 2025 06:30:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
