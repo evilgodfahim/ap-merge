@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 19:32:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 20:10:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkey in talks with Qatar and Oman to buy used Eurofighter jets, Erdogan says]]></title>
 <link>https://apnews.com/article/turkey-eurofighter-typhoon-jets-qatar-oman-erdogan-e9c6b09cb41295ebf7d184f0632a4426</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
+<link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
+<pubDate>Sat, 25 Oct 2025 20:02:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Grandmothers in Colombia get the quinceañera they never had]]></title>
 <link>https://apnews.com/article/quinceanera-colombia-bogota-c4cb9e0847d786e7b269023c97053087</link>
 <pubDate>Sat, 25 Oct 2025 05:37:37 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Interpol-led crackdown on environmental crime leads to 225 arrests in Latin America]]></title>
 <link>https://apnews.com/article/latin-america-interpol-environment-wildlife-gold-mining-5b3a3edd1ce47b91e7df6e214a980445</link>
 <pubDate>Fri, 24 Oct 2025 19:47:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Argentina’s midterm vote, a pivotal test for Trump ally President Milei]]></title>
-<link>https://apnews.com/article/argentina-president-milei-trump-bessent-kirchner-366e69319529386498a602405cb4e5bc</link>
-<pubDate>Fri, 24 Oct 2025 04:52:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Judge rules immigration detention of Chicago man with daughter battling cancer is illegal]]></title>
+<link>https://apnews.com/article/immigration-chicago-man-daughter-cancer-2a7a78244d9df47cebe6a561e02861c9</link>
+<pubDate>Sat, 25 Oct 2025 19:47:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says tech leaders and mayor changed his mind about using federal force in San Francisco]]></title>
 <link>https://apnews.com/article/trump-san-francisco-immigration-dd54f4e6d075eb6c723e5b881b96feb4</link>
 <pubDate>Fri, 24 Oct 2025 04:22:40 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Poker’s NBA-and-Mafia betting scandal echoes movie games, and cheats, from ‘Ocean’s’ to ‘Rounders’]]></title>
 <link>https://apnews.com/article/poker-gambling-nba-clooney-oceans-aeb63c682b38e42eb60cc7c501d33a41</link>
 <pubDate>Sat, 25 Oct 2025 13:45:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Historic libraries bring modern comfort to book lovers and history buffs in New England]]></title>
-<link>https://apnews.com/article/library-athenaeum-boston-new-england-59d98bf4baedc567ff56d1917abcb251</link>
-<pubDate>Sat, 25 Oct 2025 14:45:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storm Melissa reaches hurricane strength, threatening catastrophic flooding in northern Caribbean]]></title>
-<link>https://apnews.com/article/melissa-caribbean-jamaica-haiti-storm-hurricane-14b83a39f16babd796a745ece21d7022</link>
-<pubDate>Sat, 25 Oct 2025 18:42:16 -0000</pubDate>
+<title><![CDATA[Left-leaning independent Connolly wins Irish presidential election]]></title>
+<link>https://apnews.com/article/ireland-president-election-connolly-humphreys-1abc441024c914c31214a7c4ff9cc513</link>
+<pubDate>Sat, 25 Oct 2025 20:10:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s Maduro says the US is fabricating a war as aircraft carrier approaches]]></title>
-<link>https://apnews.com/article/venezuela-warship-maduro-uss-gerald-ford-21cc3ac03f755a657c0541667246c007</link>
-<pubDate>Sat, 25 Oct 2025 17:33:59 -0000</pubDate>
+<title><![CDATA[Storm Melissa reaches hurricane strength, threatening catastrophic flooding in northern Caribbean]]></title>
+<link>https://apnews.com/article/melissa-caribbean-jamaica-haiti-storm-hurricane-14b83a39f16babd796a745ece21d7022</link>
+<pubDate>Sat, 25 Oct 2025 18:42:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
-<link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
-<pubDate>Fri, 24 Oct 2025 18:47:43 -0000</pubDate>
+<title><![CDATA[Venezuela’s Maduro says the US is fabricating a war as aircraft carrier approaches]]></title>
+<link>https://apnews.com/article/venezuela-warship-maduro-uss-gerald-ford-21cc3ac03f755a657c0541667246c007</link>
+<pubDate>Sat, 25 Oct 2025 17:33:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
