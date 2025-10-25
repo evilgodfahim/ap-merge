@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 00:47:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 02:18:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Analysis: Iran faces ‘a permanent state of crisis’ as time wanes and sanction pressure grows]]></title>
 <link>https://apnews.com/article/iran-nuclear-us-israel-war-paralysis-analysis-cb4b16bae60604fadc34fbe1d2e257a0</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
+<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
+<pubDate>Sat, 25 Oct 2025 01:50:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In Japan and South Korea, Trump will promote big investments. But the details are still not clear]]></title>
 <link>https://apnews.com/article/trump-japan-south-korea-investments-b83f47d14f68422ecd7bde740ffe7d94</link>
 <pubDate>Fri, 24 Oct 2025 05:22:40 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Thailand’s Queen Mother Sirikit has died at age 93]]></title>
 <link>https://apnews.com/article/thailand-queen-mother-sirikit-dies-93b2f83b140f4a3b9a32e99d6fe1261c</link>
 <pubDate>Fri, 24 Oct 2025 23:50:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s new leader vows to further boost defense spending as regional tensions rise]]></title>
-<link>https://apnews.com/article/japan-takaichi-politics-policy-defense-4b885276a0052297ab633bac31715254</link>
-<pubDate>Fri, 24 Oct 2025 18:46:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco]]></title>
+<title><![CDATA[Shots fired, driver hurt and held after truck rams into Coast Guard base in California]]></title>
 <link>https://apnews.com/article/coast-guard-island-shooting-alameda-uhaul-immigration-93d298073ab85528cad3a95f5faa2d4c</link>
-<pubDate>Fri, 24 Oct 2025 16:29:22 -0000</pubDate>
+<pubDate>Sat, 25 Oct 2025 01:35:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s new leader vows to further boost defense spending as regional tensions rise]]></title>
+<link>https://apnews.com/article/japan-takaichi-politics-policy-defense-4b885276a0052297ab633bac31715254</link>
+<pubDate>Sat, 25 Oct 2025 02:18:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[PHOTO ESSAY: Istanbul’s porters keep centuries-old trade moving]]></title>
 <link>https://apnews.com/photo-essay/turkey-istanbul-porters-photo-essay-37447b6100aa7fa7b6246ff06ad669e3</link>
 <pubDate>Fri, 24 Oct 2025 05:38:13 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Lithuanian president says Russian military planes violated the Baltic country’s airspace]]></title>
 <link>https://apnews.com/article/lithuania-russia-military-planes-airspace-f9d31aa920ee91c95103d902967d3b24</link>
 <pubDate>Fri, 24 Oct 2025 11:15:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the French militants who clashed with Syrian forces in Idlib]]></title>
-<link>https://apnews.com/article/syria-french-militant-foreign-fighters-omar-diaby-91e3af539fb74daaf6e10efcadce61e9</link>
-<pubDate>Fri, 24 Oct 2025 21:33:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
-<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
-<pubDate>Fri, 24 Oct 2025 02:17:25 -0000</pubDate>
+<title><![CDATA[Trump’s Asia return and East Timor’s entry take spotlight in landmark ASEAN summit]]></title>
+<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
+<pubDate>Sat, 25 Oct 2025 02:15:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
