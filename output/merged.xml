@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 10:09:48 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 10:37:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[EU leaders seek role in Gaza at summit focused on Ukraine and Russia]]></title>
+<link>https://apnews.com/article/eu-summit-middle-east-gaza-israel-6adcbb9a682649a215f07f98c1d23cf5</link>
+<pubDate>Thu, 23 Oct 2025 18:29:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Analysis: Iran faces ‘a permanent state of crisis’ as time wanes and sanction pressure grows]]></title>
 <link>https://apnews.com/article/iran-nuclear-us-israel-war-paralysis-analysis-cb4b16bae60604fadc34fbe1d2e257a0</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump mulls asking Israel to free Palestinian leader Barghouti as US looks to Gaza’s post-Hamas rule]]></title>
-<link>https://apnews.com/article/trump-gaza-barghouti-israel-palestinians-hamas-909aabb7b905f95e3890280cf72df5bd</link>
-<pubDate>Fri, 24 Oct 2025 11:42:15 -0000</pubDate>
+<title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
+<link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
+<pubDate>Sat, 25 Oct 2025 04:39:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Europe fights to avoid being sidelined by Trump’s world-shaping plans]]></title>
 <link>https://apnews.com/article/trump-europe-sidelined-ukraine-gaza-51d8929e55b921c02de063908fe2a8a2</link>
 <pubDate>Sat, 25 Oct 2025 04:09:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Men sentenced over London arson attack masterminded by Russia as part of a wider sabotage campaign]]></title>
-<link>https://apnews.com/article/britain-russia-arson-attack-sentences-a40ec6423a118c600469a5d29662060c</link>
-<pubDate>Fri, 24 Oct 2025 16:44:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polls open in Ivory Coast as incumbent Ouattara seeks a fourth term amid a weakened opposition]]></title>
-<link>https://apnews.com/article/ivory-coast-election-president-ouattara-c982cae81cb7266873f2b9a9f7723cc3</link>
-<pubDate>Sat, 25 Oct 2025 09:09:58 -0000</pubDate>
+<title><![CDATA[Nigeria’s president replaces top security officials as he struggles to restore stability]]></title>
+<link>https://apnews.com/article/nigeria-security-sahel-tinubu-coup-e61f289e04048214fcfb93d953c1303f</link>
+<pubDate>Sat, 25 Oct 2025 10:37:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Men sentenced over London arson attack masterminded by Russia as part of a wider sabotage campaign]]></title>
+<link>https://apnews.com/article/britain-russia-arson-attack-sentences-a40ec6423a118c600469a5d29662060c</link>
+<pubDate>Sat, 25 Oct 2025 04:09:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Colombian man to serve minimum 42 years in UK prison for grisly double murder]]></title>
 <link>https://apnews.com/article/britain-colombia-murder-suitcases-5280a733be68ac91c06a8a546ca82e5f</link>
 <pubDate>Fri, 24 Oct 2025 14:11:18 -0000</pubDate>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
-<link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
-<pubDate>Sat, 25 Oct 2025 06:15:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Putin deplores US sanctions as ‘unfriendly’ as EU joins in heaping restrictions on Russia]]></title>
 <link>https://apnews.com/video/putin-deplores-us-sanctions-as-unfriendly-as-eu-joins-in-heaping-restrictions-on-russia-5f100ca6de324701b41740f8fc7a4d89</link>
 <pubDate>Fri, 24 Oct 2025 19:02:43 -0000</pubDate>
@@ -434,6 +434,12 @@
 <title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
 <link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
 <pubDate>Fri, 24 Oct 2025 18:47:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump mulls asking Israel to free Palestinian leader Barghouti as US looks to Gaza’s post-Hamas rule]]></title>
+<link>https://apnews.com/article/trump-gaza-barghouti-israel-palestinians-hamas-909aabb7b905f95e3890280cf72df5bd</link>
+<pubDate>Thu, 23 Oct 2025 15:58:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
