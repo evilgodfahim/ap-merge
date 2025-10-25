@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 03:14:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 03:47:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Analysis: Iran faces ‘a permanent state of crisis’ as time wanes and sanction pressure grows]]></title>
 <link>https://apnews.com/article/iran-nuclear-us-israel-war-paralysis-analysis-cb4b16bae60604fadc34fbe1d2e257a0</link>
@@ -170,6 +170,12 @@
 <title><![CDATA[Trump heads to 3-country sprint in Asia, meeting with Xi as government shutdown drags on at home]]></title>
 <link>https://apnews.com/article/trump-asia-trip-malaysia-japan-south-korea-890b52697f86c15e3e196c521d564449</link>
 <pubDate>Sat, 25 Oct 2025 00:37:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand’s Queen Mother Sirikit has died at age 93]]></title>
+<link>https://apnews.com/article/thailand-queen-mother-sirikit-dies-93b2f83b140f4a3b9a32e99d6fe1261c</link>
+<pubDate>Sat, 25 Oct 2025 03:36:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lithuanian president says Russian military planes violated the Baltic country’s airspace]]></title>
-<link>https://apnews.com/article/lithuania-russia-military-planes-airspace-f9d31aa920ee91c95103d902967d3b24</link>
-<pubDate>Fri, 24 Oct 2025 11:15:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump ends trade talks with Canada over tariffs ad that Ontario premier now says he’ll phase out]]></title>
 <link>https://apnews.com/article/trump-canada-trade-tariffs-a0cfd202ef6f22052827b784be708fd6</link>
 <pubDate>Fri, 24 Oct 2025 19:32:43 -0000</pubDate>
@@ -449,6 +449,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
+<link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
+<pubDate>Sat, 25 Oct 2025 03:47:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
 <link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
 <pubDate>Fri, 24 Oct 2025 18:47:43 -0000</pubDate>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia beats India by two wickets to claim ODI series victory]]></title>
-<link>https://apnews.com/article/australia-india-odi-cricket-307e36ac983a13d619fbf5e26a1fa981</link>
-<pubDate>Thu, 23 Oct 2025 13:40:54 -0000</pubDate>
+<title><![CDATA[Australia wins the toss and will bat first against India in the third one-day international]]></title>
+<link>https://apnews.com/article/australia-india-cricket-odi-c1081bd2e8fc425cbe2eca85653583e4</link>
+<pubDate>Sat, 25 Oct 2025 03:32:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
