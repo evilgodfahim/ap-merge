@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 06:45:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 07:09:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq faces elections at a delicate moment in the Middle East]]></title>
 <link>https://apnews.com/article/iraq-parliament-elections-sudani-iran-3f300233274aa87b92a451664a89220f</link>
@@ -17,27 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The $100 million Louvre theft could make France’s stolen Crown Jewels as famous as the Mona Lisa]]></title>
+<link>https://apnews.com/article/france-louvre-jewels-heist-e389efc4c7a80ab276df6532c415195a</link>
+<pubDate>Sun, 26 Oct 2025 07:09:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Raves at Rome’s ancient amphitheater? New Colosseum director sets the record straight]]></title>
 <link>https://apnews.com/article/colosseum-director-raves-concerts-rome-overtourism-quilici-2fe1c813b2741e9237b92f0ece9da0b1</link>
 <pubDate>Sun, 26 Oct 2025 06:07:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
-<link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
-<pubDate>Sat, 25 Oct 2025 04:39:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
 <link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
 <pubDate>Sat, 25 Oct 2025 05:52:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
-<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
-<pubDate>Sat, 25 Oct 2025 18:27:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,6 +44,12 @@
 <title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
 <link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
 <pubDate>Sat, 25 Oct 2025 11:57:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
+<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
+<pubDate>Sat, 25 Oct 2025 01:50:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says tech leaders and mayor changed his mind about using federal force in San Francisco]]></title>
-<link>https://apnews.com/article/trump-san-francisco-immigration-dd54f4e6d075eb6c723e5b881b96feb4</link>
-<pubDate>Fri, 24 Oct 2025 04:22:40 -0000</pubDate>
+<title><![CDATA[Former LAPD officer charged with murder in 2015 shooting of unarmed homeless man]]></title>
+<link>https://apnews.com/article/ex-lapd-murder-unarmed-79182d927ee4b5f5f1b3616870678b95</link>
+<pubDate>Sun, 26 Oct 2025 06:54:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Poker’s NBA-and-Mafia betting scandal echoes movie games, and cheats, from ‘Ocean’s’ to ‘Rounders’]]></title>
-<link>https://apnews.com/article/poker-gambling-nba-clooney-oceans-aeb63c682b38e42eb60cc7c501d33a41</link>
-<pubDate>Sat, 25 Oct 2025 13:45:23 -0000</pubDate>
+<title><![CDATA[Trump says tech leaders and mayor changed his mind about using federal force in San Francisco]]></title>
+<link>https://apnews.com/article/trump-san-francisco-immigration-dd54f4e6d075eb6c723e5b881b96feb4</link>
+<pubDate>Fri, 24 Oct 2025 04:22:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
+<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
+<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Putin deplores US sanctions as ‘unfriendly’ as EU joins in heaping restrictions on Russia]]></title>
 <link>https://apnews.com/video/putin-deplores-us-sanctions-as-unfriendly-as-eu-joins-in-heaping-restrictions-on-russia-5f100ca6de324701b41740f8fc7a4d89</link>
 <pubDate>Fri, 24 Oct 2025 19:02:43 -0000</pubDate>
@@ -437,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[East Timor formally admitted to ASEAN in the group’s first expansion since the 1990s]]></title>
-<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
-<pubDate>Sun, 26 Oct 2025 01:09:07 -0000</pubDate>
+<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
+<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
+<pubDate>Sat, 25 Oct 2025 12:14:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
