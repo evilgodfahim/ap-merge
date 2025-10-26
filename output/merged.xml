@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 05:37:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 06:14:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq faces elections at a delicate moment in the Middle East]]></title>
 <link>https://apnews.com/article/iraq-parliament-elections-sudani-iran-3f300233274aa87b92a451664a89220f</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Raves at Rome’s ancient amphitheater? New Colosseum director sets the record straight]]></title>
+<link>https://apnews.com/article/colosseum-director-raves-concerts-rome-overtourism-quilici-2fe1c813b2741e9237b92f0ece9da0b1</link>
+<pubDate>Sun, 26 Oct 2025 06:07:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia faces a shrinking and aging population and tries restrictive laws to combat it]]></title>
 <link>https://apnews.com/article/russia-birth-rate-population-demographics-putin-63ab4675ff6d4e415630b7c830799077</link>
 <pubDate>Sat, 25 Oct 2025 04:39:33 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
 <link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
 <pubDate>Sat, 25 Oct 2025 05:52:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Europe fights to avoid being sidelined by Trump’s world-shaping plans]]></title>
-<link>https://apnews.com/article/trump-europe-sidelined-ukraine-gaza-51d8929e55b921c02de063908fe2a8a2</link>
-<pubDate>Sat, 25 Oct 2025 04:09:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,6 +215,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Left-leaning independent Connolly wins Irish presidential election]]></title>
+<link>https://apnews.com/article/ireland-president-election-connolly-humphreys-1abc441024c914c31214a7c4ff9cc513</link>
+<pubDate>Sun, 26 Oct 2025 06:14:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[American cardinal celebrates old Latin Mass in St. Peter’s in a sign of change]]></title>
 <link>https://apnews.com/article/vatican-latin-mass-burke-4ab6bcafb6c47cfacbb1ce0b7f35373d</link>
 <pubDate>Sat, 25 Oct 2025 14:08:44 -0000</pubDate>
@@ -227,9 +233,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Grandmothers in Colombia get the quinceañera they never had]]></title>
+<link>https://apnews.com/article/quinceanera-colombia-bogota-c4cb9e0847d786e7b269023c97053087</link>
+<pubDate>Sun, 26 Oct 2025 05:59:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Melissa grows into Category 3 hurricane while unleashing torrential rain in the north Caribbean]]></title>
 <link>https://apnews.com/article/melissa-caribbean-jamaica-haiti-storm-hurricane-14b83a39f16babd796a745ece21d7022</link>
 <pubDate>Sun, 26 Oct 2025 04:39:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Europe fights to avoid being sidelined by Trump’s world-shaping plans]]></title>
+<link>https://apnews.com/article/trump-europe-sidelined-ukraine-gaza-51d8929e55b921c02de063908fe2a8a2</link>
+<pubDate>Sun, 26 Oct 2025 05:44:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli man’s sentence over illegal development in Cyprus’ breakaway north sends a stark warning]]></title>
-<link>https://apnews.com/article/cyprus-illegal-property-development-israeli-bfdff5c2b653446de1bb3987e42aac6c</link>
-<pubDate>Fri, 24 Oct 2025 13:11:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Roadside bombing kills 3 police officers in northwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-northwest-roadside-bombing-police-targeted-dc1103da10570480e63e811bd3ec9eda</link>
-<pubDate>Fri, 24 Oct 2025 12:49:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China creates Day of Taiwan’s Restoration as part of sovereignty claims over island]]></title>
-<link>https://apnews.com/article/china-creates-national-taiwan-holiday-f80b98e8edbc938ae6d3e2b2f8830de8</link>
-<pubDate>Fri, 24 Oct 2025 12:34:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A bomb in Gaza’s rubble wounds twins who thought it was a toy]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-unexploded-ordnance-unmas-children-791dc5f7994fbf9dcb049f8a326c447b</link>
 <pubDate>Sat, 25 Oct 2025 14:35:27 -0000</pubDate>
@@ -371,15 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump aims to start his Asia trip with dealmaking in Malaysia]]></title>
+<title><![CDATA[Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit]]></title>
 <link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
-<pubDate>Sat, 25 Oct 2025 21:17:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Left-leaning independent Connolly wins Irish presidential election]]></title>
-<link>https://apnews.com/article/ireland-president-election-connolly-humphreys-1abc441024c914c31214a7c4ff9cc513</link>
-<pubDate>Sat, 25 Oct 2025 20:10:20 -0000</pubDate>
+<pubDate>Sun, 26 Oct 2025 06:07:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +440,12 @@
 <title><![CDATA[East Timor formally admitted to ASEAN in the group’s first expansion since the 1990s]]></title>
 <link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
 <pubDate>Sun, 26 Oct 2025 01:09:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Argentina votes in midterm elections set to test President Milei’s mandate and US support]]></title>
+<link>https://apnews.com/article/argentina-midterm-election-javier-milei-66d7c03825a7a0f56ce5808ff3ac1df4</link>
+<pubDate>Sun, 26 Oct 2025 05:52:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
