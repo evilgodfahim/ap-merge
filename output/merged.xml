@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 14:35:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 15:09:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As Israel returns bodies, Palestinians face a grisly search through corpses for lost loved ones]]></title>
 <link>https://apnews.com/article/gaza-palestinian-bodies-hamas-ceasefire-israel-war-7dfe39626fc9951ebad7930c8b8dd6d6</link>
@@ -347,15 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
-<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
-<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Suspects arrested over the theft of crown jewels from Paris’ Louvre museum]]></title>
 <link>https://apnews.com/article/france-louvre-heist-arrests-2e78cbea4bc44c39348eedf8baf138ed</link>
 <pubDate>Sun, 26 Oct 2025 10:37:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
+<pubDate>Sun, 26 Oct 2025 15:09:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
+<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
+<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US-China trade tensions appear to cool before upcoming Trump-Xi meeting]]></title>
+<title><![CDATA[US and China say a trade deal is drawing closer as Trump and Xi ready for a high-stakes meeting]]></title>
 <link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
-<pubDate>Sun, 26 Oct 2025 13:04:11 -0000</pubDate>
+<pubDate>Sun, 26 Oct 2025 14:54:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +452,12 @@
 <title><![CDATA[Ivory Coast counts votes in key election with incumbent Ouattara predicted to win fourth term]]></title>
 <link>https://apnews.com/article/ivory-coast-election-president-ouattara-c982cae81cb7266873f2b9a9f7723cc3</link>
 <pubDate>Sat, 25 Oct 2025 23:53:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Shooting at a historically Black university’s homecoming fest in Pennsylvania kills 1 and wounds 6]]></title>
+<link>https://apnews.com/article/pennsylvania-lincoln-university-shooting-ccf6ad727d4d50459a25da591f495fa8</link>
+<pubDate>Sun, 26 Oct 2025 11:04:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
