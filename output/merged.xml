@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 18:13:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 18:43:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As Israel returns bodies, Palestinians face a grisly search through corpses for lost loved ones]]></title>
 <link>https://apnews.com/article/gaza-palestinian-bodies-hamas-ceasefire-israel-war-7dfe39626fc9951ebad7930c8b8dd6d6</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shooting at a historically Black university’s homecoming fest in Pennsylvania kills 1 and wounds 6]]></title>
+<link>https://apnews.com/article/pennsylvania-lincoln-university-shooting-ccf6ad727d4d50459a25da591f495fa8</link>
+<pubDate>Sun, 26 Oct 2025 18:43:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The East Wing of the White House is gone. Here’s a look at some of the history made there]]></title>
 <link>https://apnews.com/article/white-house-east-wing-trump-ballroom-demolition-64c97f1056f26b1bfb85290cb42b115d</link>
 <pubDate>Sun, 26 Oct 2025 14:35:53 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[National Guard deployments in DC and Portland, Oregon, are focus of court hearings]]></title>
 <link>https://apnews.com/article/trump-national-guard-deployment-chicago-portland-washington-2bc608b3003665263b3874a2d4ca05fa</link>
 <pubDate>Sun, 26 Oct 2025 11:27:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks]]></title>
-<link>https://apnews.com/article/zohran-mamdani-andrew-cuomo-mayors-race-936dd6bd228dbae7b85ee30f2d8c88e7</link>
-<pubDate>Fri, 24 Oct 2025 22:49:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Imprisoned mayor of Istanbul is to be questioned over espionage charges]]></title>
+<title><![CDATA[Imprisoned mayor of Istanbul questioned over espionage charges]]></title>
 <link>https://apnews.com/article/imamoglu-ozel-erdogan-istanbul-d63555d916c32c877564d50cc71c74b2</link>
-<pubDate>Sun, 26 Oct 2025 13:21:07 -0000</pubDate>
+<pubDate>Sun, 26 Oct 2025 18:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,6 +371,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US warship docks in Trinidad and Tobago, puts more pressure on Venezuela]]></title>
+<link>https://apnews.com/article/trinidad-warship-trump-venezuela-5aba7cf99e78a050556c4ddccc2e6e96</link>
+<pubDate>Sun, 26 Oct 2025 18:43:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukrainian President meets King Charles III at Windsor Castle]]></title>
 <link>https://apnews.com/video/ukrainian-president-meets-king-charles-iii-at-windsor-castle-5986f148346640fe936ae37135e75fd5</link>
 <pubDate>Sun, 26 Oct 2025 11:49:05 -0000</pubDate>
@@ -455,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shooting at a historically Black university’s homecoming fest in Pennsylvania kills 1 and wounds 6]]></title>
-<link>https://apnews.com/article/pennsylvania-lincoln-university-shooting-ccf6ad727d4d50459a25da591f495fa8</link>
-<pubDate>Sun, 26 Oct 2025 11:04:05 -0000</pubDate>
+<title><![CDATA[Trump administration posts notice that no federal food aid will go out Nov. 1]]></title>
+<link>https://apnews.com/article/food-aid-government-shutdown-snap-trump-democrats-8a52a63b26a707ea676962226b090bb1</link>
+<pubDate>Sun, 26 Oct 2025 18:28:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
