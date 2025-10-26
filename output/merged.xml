@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 07:32:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 08:12:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq faces elections at a delicate moment in the Middle East]]></title>
 <link>https://apnews.com/article/iraq-parliament-elections-sudani-iran-3f300233274aa87b92a451664a89220f</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Turkey in talks with Qatar and Oman to buy used Eurofighter jets, Erdogan says]]></title>
 <link>https://apnews.com/article/turkey-eurofighter-typhoon-jets-qatar-oman-erdogan-e9c6b09cb41295ebf7d184f0632a4426</link>
 <pubDate>Fri, 24 Oct 2025 11:27:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia targets Kyiv with drones, killing 3 and wounding 29]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-722cd709e7e25266c4a67df6913cdc72</link>
+<pubDate>Sun, 26 Oct 2025 08:12:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
-<link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
-<pubDate>Sat, 25 Oct 2025 05:52:37 -0000</pubDate>
+<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
+<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
+<pubDate>Sat, 25 Oct 2025 18:27:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
 <link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
 <pubDate>Sat, 25 Oct 2025 11:57:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump-Kim meeting speculation flares ahead of US president’s visit to South Korea]]></title>
-<link>https://apnews.com/article/trump-north-korea-kim-apec-a4e1a588eb1786250beac5a5e4e876ec</link>
-<pubDate>Sat, 25 Oct 2025 01:50:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
 <link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
 <pubDate>Sat, 25 Oct 2025 20:02:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Florida teenager is in an Israeli prison. Why his family and advocates say he should be released]]></title>
-<link>https://apnews.com/article/florida-teen-israeli-prison-west-bank-4b7c68a26e73e0efcf40ff7fce60fde3</link>
-<pubDate>Sat, 25 Oct 2025 15:00:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +347,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
+<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
+<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
+<link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
+<pubDate>Sun, 26 Oct 2025 08:12:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A bomb in Gaza’s rubble wounds twins who thought it was a toy]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-unexploded-ordnance-unmas-children-791dc5f7994fbf9dcb049f8a326c447b</link>
 <pubDate>Sat, 25 Oct 2025 14:35:27 -0000</pubDate>
@@ -368,18 +374,6 @@
 <title><![CDATA[Trump threatens Canada with 10% extra import tax for not pulling down anti-tariffs ad sooner]]></title>
 <link>https://apnews.com/article/trump-canada-tariffs-3cbc1cbf9ed53a10b442fd55dae1e0a3</link>
 <pubDate>Sat, 25 Oct 2025 21:32:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit]]></title>
-<link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
-<pubDate>Sun, 26 Oct 2025 06:07:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
-<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
-<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
+<link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
+<pubDate>Sat, 25 Oct 2025 07:15:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump ends trade talks with Canada over tariffs ad that Ontario premier now says he’ll phase out]]></title>
 <link>https://apnews.com/article/trump-canada-trade-tariffs-a0cfd202ef6f22052827b784be708fd6</link>
 <pubDate>Fri, 24 Oct 2025 19:32:43 -0000</pubDate>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
-<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
-<pubDate>Sat, 25 Oct 2025 12:14:30 -0000</pubDate>
+<title><![CDATA[Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit]]></title>
+<link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
+<pubDate>Sun, 26 Oct 2025 06:07:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
