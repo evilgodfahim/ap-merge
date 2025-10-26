@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 21:32:51 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 22:09:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As Israel returns bodies, Palestinians face a grisly search through corpses for lost loved ones]]></title>
 <link>https://apnews.com/article/gaza-palestinian-bodies-hamas-ceasefire-israel-war-7dfe39626fc9951ebad7930c8b8dd6d6</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos from US President Donald Trump’s visit to Malaysia, South Korea and Japan]]></title>
+<link>https://apnews.com/photo-gallery/asia-us-trump-photo-gallery-71c23c74d7e09797dad9199eb011438c</link>
+<pubDate>Sun, 26 Oct 2025 22:09:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says he will solve Afghanistan-Pakistan crisis ‘very quickly’ as peace talks enter second day]]></title>
 <link>https://apnews.com/article/trump-afghanistan-pakistan-taliban-talks-4610880e842f3025ea2272472bb8b5f7</link>
 <pubDate>Sun, 26 Oct 2025 13:12:50 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Japan successfully launches new cargo spacecraft to deliver supplies to International Space Station]]></title>
 <link>https://apnews.com/article/japan-space-rocket-h3-iss-6b4384acb177c6b8f9c41fa7005b6691</link>
 <pubDate>Sun, 26 Oct 2025 03:04:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
-<link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
-<pubDate>Sat, 25 Oct 2025 11:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The East Wing of the White House is gone. Here’s a look at some of the history made there]]></title>
-<link>https://apnews.com/article/white-house-east-wing-trump-ballroom-demolition-64c97f1056f26b1bfb85290cb42b115d</link>
-<pubDate>Sun, 26 Oct 2025 14:35:53 -0000</pubDate>
+<title><![CDATA[Man fleeing immigration agents is fatally struck by a vehicle on a Virginia highway]]></title>
+<link>https://apnews.com/article/immigration-arrest-death-traffic-virginia-3e68507cf451373aa49f18b80d532b1e</link>
+<pubDate>Sun, 26 Oct 2025 21:54:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
+<link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
+<pubDate>Sat, 25 Oct 2025 11:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s next 5-year plan puts focus on tech and consumers as trade wars drag on economy]]></title>
 <link>https://apnews.com/article/china-communist-economy-jinping-5year-2f614bd6bd80a1668a99ed01dcfb9158</link>
 <pubDate>Fri, 24 Oct 2025 21:49:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China and the United States, Fall 2025: A timeline of remarks, threats, critiques — and dialogue]]></title>
-<link>https://apnews.com/article/china-united-states-trump-xi-timeline-tariffs-adc2c2c00f13d8dcd4ecc92251b11533</link>
-<pubDate>Fri, 24 Oct 2025 06:09:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +353,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck]]></title>
+<link>https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533</link>
+<pubDate>Sun, 26 Oct 2025 21:08:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US and China say a trade deal is drawing closer as Trump and Xi ready for a high-stakes meeting]]></title>
+<link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
+<pubDate>Sun, 26 Oct 2025 14:54:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Suspects arrested over the theft of crown jewels from Paris’ Louvre museum]]></title>
 <link>https://apnews.com/article/france-louvre-heist-arrests-2e78cbea4bc44c39348eedf8baf138ed</link>
 <pubDate>Sun, 26 Oct 2025 10:37:37 -0000</pubDate>
@@ -431,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck]]></title>
-<link>https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533</link>
-<pubDate>Sun, 26 Oct 2025 21:08:21 -0000</pubDate>
+<title><![CDATA[East Timor joins ASEAN in bloc’s first expansion since the 1990s]]></title>
+<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
+<pubDate>Sun, 26 Oct 2025 07:09:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
