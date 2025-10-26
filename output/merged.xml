@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 00:53:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 02:26:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq faces elections at a delicate moment in the Middle East]]></title>
 <link>https://apnews.com/article/iraq-parliament-elections-sudani-iran-3f300233274aa87b92a451664a89220f</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
+<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
+<pubDate>Sat, 25 Oct 2025 18:27:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan’s new leader faces diplomatic gauntlet with Trump, China and regional summits]]></title>
 <link>https://apnews.com/article/japan-takaichi-trump-us-china-asean-apec-29fc81ff026a1d4c257d1383b46d35f6</link>
 <pubDate>Sat, 25 Oct 2025 11:57:31 -0000</pubDate>
@@ -47,21 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Japan and South Korea, Trump will promote big investments. But the details are still not clear]]></title>
-<link>https://apnews.com/article/trump-japan-south-korea-investments-b83f47d14f68422ecd7bde740ffe7d94</link>
-<pubDate>Fri, 24 Oct 2025 05:22:40 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa is strengthening rapidly, threatening catastrophic flooding in northern Caribbean]]></title>
+<link>https://apnews.com/article/melissa-caribbean-jamaica-haiti-storm-hurricane-14b83a39f16babd796a745ece21d7022</link>
+<pubDate>Sun, 26 Oct 2025 02:03:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
 <link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
 <pubDate>Sat, 25 Oct 2025 20:02:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Storm Melissa reaches hurricane strength, threatening catastrophic flooding in northern Caribbean]]></title>
-<link>https://apnews.com/article/melissa-caribbean-jamaica-haiti-storm-hurricane-14b83a39f16babd796a745ece21d7022</link>
-<pubDate>Sat, 25 Oct 2025 21:08:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Malaysia warns ASEAN neutrality eroding as global powers compete]]></title>
-<link>https://apnews.com/article/asean-summit-malaysia-trump-east-timor-leste-0721a23439e22009b9d37ed5adc2f03e</link>
-<pubDate>Sat, 25 Oct 2025 12:14:30 -0000</pubDate>
+<title><![CDATA[East Timor formally admitted to ASEAN in the group’s first expansion since the 1990s]]></title>
+<link>https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c</link>
+<pubDate>Sun, 26 Oct 2025 01:09:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s Maduro says the US is fabricating a war, seeks to revoke citizenship of opponent López]]></title>
+<title><![CDATA[Venezuela’s Maduro says the US is fabricating a war and seeks to revoke citizenship of opponent]]></title>
 <link>https://apnews.com/article/venezuela-warship-maduro-uss-gerald-ford-21cc3ac03f755a657c0541667246c007</link>
-<pubDate>Sat, 25 Oct 2025 21:02:23 -0000</pubDate>
+<pubDate>Sun, 26 Oct 2025 00:54:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
