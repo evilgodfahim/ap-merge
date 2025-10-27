@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Oct 2025 03:46:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 04:20:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As Israel returns bodies, Palestinians face a grisly search through corpses for lost loved ones]]></title>
 <link>https://apnews.com/article/gaza-palestinian-bodies-hamas-ceasefire-israel-war-7dfe39626fc9951ebad7930c8b8dd6d6</link>
@@ -347,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Melissa strengthens into a Category 4 hurricane, threatening catastrophic flooding in Jamaica, Haiti]]></title>
-<link>https://apnews.com/article/hurricane-melissa-haiti-jamaica-cuba-8a8e55a2af02c50a0ab148f1b5914df5</link>
-<pubDate>Sun, 26 Oct 2025 16:11:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Milei triumphs in Argentine midterm elections closely watched by Washington]]></title>
 <link>https://apnews.com/article/argentina-midterm-election-javier-milei-66d7c03825a7a0f56ce5808ff3ac1df4</link>
 <pubDate>Mon, 27 Oct 2025 03:14:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Category 4 Hurricane Melissa threatens catastrophic flooding in Jamaica and Haiti]]></title>
+<link>https://apnews.com/article/hurricane-melissa-haiti-jamaica-cuba-8a8e55a2af02c50a0ab148f1b5914df5</link>
+<pubDate>Mon, 27 Oct 2025 04:15:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
