@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Oct 2025 05:40:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 06:18:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As Israel returns bodies, Palestinians face a grisly search through corpses for lost loved ones]]></title>
 <link>https://apnews.com/article/gaza-palestinian-bodies-hamas-ceasefire-israel-war-7dfe39626fc9951ebad7930c8b8dd6d6</link>
@@ -59,21 +59,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazilian farmers beef up soybean production as China halts business with US during trade fight]]></title>
+<link>https://apnews.com/article/brazil-soybeans-china-exports-40a785024e483ea9cd555fb3c7323e14</link>
+<pubDate>Mon, 27 Oct 2025 06:00:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about uncontacted Indigenous peoples and efforts to protect them]]></title>
 <link>https://apnews.com/article/uncontacted-indigenous-amazon-mining-logging-5d8d90cf8e13f44a5202101fee62b583</link>
 <pubDate>Mon, 27 Oct 2025 01:48:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US imposes sanctions on Colombia’s president and family members over drug trade allegations]]></title>
-<link>https://apnews.com/article/trump-colombia-petro-sanctions-drug-trafficking-1b6ead338ec266b3df40859db6ee2d8d</link>
-<pubDate>Sat, 25 Oct 2025 20:02:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[2 protesters shot dead as tensions rise in Cameroon ahead of election results, opposition says]]></title>
 <link>https://apnews.com/article/cameroon-protests-election-tchiroma-biya-885d5a2cd41164e37e760777946a60e7</link>
 <pubDate>Mon, 27 Oct 2025 03:31:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tanzania goes to vote in elections set to keep the same party in power for 7 decades]]></title>
+<link>https://apnews.com/article/tanzania-election-3161a166901a2c927015cef959df0ccf</link>
+<pubDate>Mon, 27 Oct 2025 05:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[Photos from Ivory Coast’s presidential election as 83-year-old incumbent seeks fourth term]]></title>
 <link>https://apnews.com/photo-gallery/ivory-coast-election-president-ouattara-votes-polls-d974544feaf871b31b117b08383dcc99</link>
 <pubDate>Sat, 25 Oct 2025 20:53:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria’s president replaces top security officials as he struggles to restore stability]]></title>
-<link>https://apnews.com/article/nigeria-security-sahel-tinubu-coup-e61f289e04048214fcfb93d953c1303f</link>
-<pubDate>Sat, 25 Oct 2025 10:37:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Thick, hazardous smog blankets New Delhi after Diwali fireworks]]></title>
 <link>https://apnews.com/article/india-pollution-diwali-new-delhi-fireworks-27255b7963ac371593da18d7e4a12103</link>
 <pubDate>Tue, 21 Oct 2025 06:57:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[LGBTQ+ artists bring pride to Mexico City’s Catrina parade ahead of Day of the Dead, in photos]]></title>
+<link>https://apnews.com/photo-gallery/day-of-dead-photos-catrina-mexico-city-f19819b3d1c6c9bfc18c64f31191c0d8</link>
+<pubDate>Mon, 27 Oct 2025 06:05:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares gain Japan’s Nikkei tops 50,000 level, as Trump seeks trade deals]]></title>
+<link>https://apnews.com/article/stocks-markets-nikkei-trump-china-7d7150df20283db5a295abc64d225a63</link>
+<pubDate>Mon, 27 Oct 2025 05:50:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Category 4 Hurricane Melissa threatens catastrophic flooding in Jamaica and Haiti]]></title>
+<link>https://apnews.com/article/hurricane-melissa-haiti-jamaica-cuba-8a8e55a2af02c50a0ab148f1b5914df5</link>
+<pubDate>Mon, 27 Oct 2025 05:35:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan successfully launches new cargo spacecraft to deliver supplies to International Space Station]]></title>
 <link>https://apnews.com/article/japan-space-rocket-h3-iss-6b4384acb177c6b8f9c41fa7005b6691</link>
 <pubDate>Mon, 27 Oct 2025 04:31:42 -0000</pubDate>
@@ -329,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[British police search London for asylum-seeker mistakenly released from prison]]></title>
-<link>https://apnews.com/article/uk-police-kebatu-asylum-seeker-serach-released-9b7f5cf01a16d5a2d462f061f6098dc4</link>
-<pubDate>Sat, 25 Oct 2025 12:56:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 Chinese citizens arrested in Georgia for attempting to buy uranium]]></title>
-<link>https://apnews.com/article/georgia-china-uranium-nuclear-arrest-d6e11991ede0a3da37250a48e163c68b</link>
-<pubDate>Sat, 25 Oct 2025 11:32:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Left-leaning independent Connolly wins Irish presidential election]]></title>
-<link>https://apnews.com/article/ireland-president-election-connolly-humphreys-1abc441024c914c31214a7c4ff9cc513</link>
-<pubDate>Sun, 26 Oct 2025 06:14:43 -0000</pubDate>
+<title><![CDATA[For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck]]></title>
+<link>https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533</link>
+<pubDate>Sun, 26 Oct 2025 21:08:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Category 4 Hurricane Melissa threatens catastrophic flooding in Jamaica and Haiti]]></title>
-<link>https://apnews.com/article/hurricane-melissa-haiti-jamaica-cuba-8a8e55a2af02c50a0ab148f1b5914df5</link>
-<pubDate>Mon, 27 Oct 2025 04:15:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck]]></title>
-<link>https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533</link>
-<pubDate>Sun, 26 Oct 2025 21:08:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Suspects arrested over the theft of crown jewels from Paris’ Louvre museum]]></title>
-<link>https://apnews.com/article/france-louvre-heist-arrests-2e78cbea4bc44c39348eedf8baf138ed</link>
-<pubDate>Sun, 26 Oct 2025 10:37:37 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa roars toward Jamaica as a Category 4 storm as island prepares for landfall]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-c33102eb52bc8dfec08bdcd20968ca1d</link>
+<pubDate>Mon, 27 Oct 2025 06:16:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[US coffee prices spike due to tariffs and poor weather]]></title>
 <link>https://apnews.com/article/coffee-prices-tariffs-climate-3503a37a8fc95b7dc5a1f29747c81e27</link>
 <pubDate>Sat, 25 Oct 2025 06:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Suspects arrested over the theft of crown jewels from Paris’ Louvre museum]]></title>
+<link>https://apnews.com/article/france-louvre-heist-arrests-2e78cbea4bc44c39348eedf8baf138ed</link>
+<pubDate>Sun, 26 Oct 2025 10:37:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
