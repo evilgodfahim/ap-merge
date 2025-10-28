@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 22:10:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 22:39:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Some 4 years after fleeing Afghanistan, a group of refugees returns to international competition]]></title>
 <link>https://apnews.com/article/afghanistan-womens-soccer-fifa-8bffc8d0197b42f2376277a6a1675b43</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cyclone Montha making landfall in India, threatening millions with torrential rains and gusty winds]]></title>
+<link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
+<pubDate>Tue, 28 Oct 2025 22:39:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ford’s enormous F-150 becomes unlikely part of Japan’s efforts to woo Trump]]></title>
 <link>https://apnews.com/article/japan-us-cars-export-ford-f150-trump-52e22be93e94c5060f8a22a46d9c2dc2</link>
 <pubDate>Tue, 28 Oct 2025 16:14:04 -0000</pubDate>
@@ -47,27 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam’s tourist sites submerged as record rainfall causes major flooding]]></title>
-<link>https://apnews.com/article/vietnam-floods-record-rainfall-3492e2748c8504392943f21b5df5079a</link>
-<pubDate>Tue, 28 Oct 2025 13:03:52 -0000</pubDate>
+<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
+<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
+<pubDate>Mon, 27 Oct 2025 21:05:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Relatives of Colombian humanitarian worker jailed in Venezuela call for his release]]></title>
+<link>https://apnews.com/article/venezuela-colombia-prisoner-d4fb46812278360e876c48ff295369db</link>
+<pubDate>Tue, 28 Oct 2025 22:24:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Venezuela suspends energy agreements with Trinidad after US warship arrives at island nation]]></title>
 <link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
 <pubDate>Tue, 28 Oct 2025 05:08:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane Melissa threatens catastrophic flash flooding and landslides in the Caribbean]]></title>
-<link>https://apnews.com/article/landslide-hurricane-rain-jamaica-cuba-hispaniola-f8256e538db4130cba2b2fc5909a5b80</link>
-<pubDate>Mon, 27 Oct 2025 21:53:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s former President Jair Bolsonaro appeals his 27-year prison sentence]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-appeal-77f77ffc22b6b399524b1616c9725403</link>
-<pubDate>Tue, 28 Oct 2025 20:19:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Opposition leaders in Cameroon contest official election results as protests continue]]></title>
+<link>https://apnews.com/article/cameroon-worlds-oldest-president-election-biya-protests-712852838d3725ce5e15bc29d312cd40</link>
+<pubDate>Tue, 28 Oct 2025 22:09:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[World’s oldest president, Paul Biya, wins Cameroon election at 92]]></title>
 <link>https://apnews.com/article/cameroon-protests-election-tchiroma-biya-885d5a2cd41164e37e760777946a60e7</link>
 <pubDate>Mon, 27 Oct 2025 17:22:23 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Tanzanians head to polls amid human rights concerns and weakened opposition]]></title>
 <link>https://apnews.com/article/tanzania-elections-samia-suluhu-hassan-326a572335e2ac567d44df30d1dc7cbf</link>
 <pubDate>Tue, 28 Oct 2025 19:30:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ivory Coast President Alassane Ouattara reelected to fourth term, early results show]]></title>
-<link>https://apnews.com/article/ivory-coast-alassane-ouattara-reelected-president-0683f6d1f3f7f418a9dc85d81cd5990c</link>
-<pubDate>Mon, 27 Oct 2025 17:07:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Retirees and students in Florida are seeking to defend 2020 census results against a GOP challenge]]></title>
-<link>https://apnews.com/article/census-bureau-2020-redistricting-1ab0dee75bc6b3ff7a8795094a4a8658</link>
-<pubDate>Tue, 28 Oct 2025 21:05:17 -0000</pubDate>
+<title><![CDATA[Trump administration moves to overrule state laws protecting credit reports from medical debt]]></title>
+<link>https://apnews.com/article/medical-debt-cfpb-fcra-equifax-experian-trans-union-fdb5ad61e4ca0f18943045d314dd7b3b</link>
+<pubDate>Tue, 28 Oct 2025 21:54:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza ceasefire tested as Israel and Hamas exchange fire and blame]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
-<pubDate>Tue, 28 Oct 2025 17:33:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Category 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
 <pubDate>Tue, 28 Oct 2025 18:48:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Melissa is a beast among a string of monster Atlantic storms. Scientists explain]]></title>
+<link>https://apnews.com/article/hurricane-jamaica-melissa-global-warming-climate-8a409c1206f55ea45b372c892ff894b3</link>
+<pubDate>Tue, 28 Oct 2025 22:39:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 60 people dead and 81 under arrest]]></title>
-<link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
-<pubDate>Tue, 28 Oct 2025 21:11:14 -0000</pubDate>
+<title><![CDATA[Gaza ceasefire tested as Israel and Hamas exchange fire and blame]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
+<pubDate>Tue, 28 Oct 2025 17:33:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cyclone Montha making landfall in India, threatening millions with torrential rains and gusty winds]]></title>
-<link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
-<pubDate>Tue, 28 Oct 2025 15:29:05 -0000</pubDate>
+<title><![CDATA[North Korea says it test-fired cruise missiles ahead of Trump’s visit to South Korea]]></title>
+<link>https://apnews.com/article/north-korea-missiles-611a288d8f6cb02f5d43bb5db70204f8</link>
+<pubDate>Tue, 28 Oct 2025 22:24:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
-<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
-<pubDate>Mon, 27 Oct 2025 18:01:41 -0000</pubDate>
+<title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 60 people dead and 81 under arrest]]></title>
+<link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
+<pubDate>Tue, 28 Oct 2025 21:11:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
