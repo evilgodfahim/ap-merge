@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 05:11:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 05:40:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
+<pubDate>Tue, 28 Oct 2025 05:38:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
 <link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
 <pubDate>Sun, 26 Oct 2025 10:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio says mediators of Gaza ceasefire shared information to uncover a recent threat]]></title>
-<link>https://apnews.com/article/rubio-gaza-ceasefire-colombia-venezuela-82eb1929a74955f2c9be1339602176dd</link>
-<pubDate>Mon, 27 Oct 2025 14:11:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
+<link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
+<pubDate>Tue, 28 Oct 2025 05:23:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trial begins for man accused of killing former Japanese PM Abe with homemade firearm]]></title>
 <link>https://apnews.com/article/trial-former-japanese-prime-minister-abe-japan-0c9af312a2bd651712731167960d8f3a</link>
 <pubDate>Tue, 28 Oct 2025 04:35:11 -0000</pubDate>
@@ -47,21 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan and Afghanistan hold third day of peace talks as border tensions test ceasefire]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-istanbul-peace-talks-61df54b7e5759e1ffb7e1febd6f9e68f</link>
-<pubDate>Mon, 27 Oct 2025 15:21:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela moves to cancel energy agreements with Trinidad after US warship arrives at island nation]]></title>
+<title><![CDATA[Venezuela suspends energy agreements with Trinidad after US warship arrives at island nation]]></title>
 <link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
-<pubDate>Tue, 28 Oct 2025 03:27:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane Melissa to batter Jamaica as the island’s strongest storm on record in almost 2 centuries]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
-<pubDate>Tue, 28 Oct 2025 04:20:11 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 05:08:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A bomb in Gaza’s rubble wounds twins who thought it was a toy]]></title>
-<link>https://apnews.com/article/gaza-israel-palestinians-unexploded-ordnance-unmas-children-791dc5f7994fbf9dcb049f8a326c447b</link>
-<pubDate>Mon, 27 Oct 2025 09:40:55 -0000</pubDate>
+<title><![CDATA[As the Atlantic Ocean warms, climate change is fueling Hurricane Melissa’s ferocity]]></title>
+<link>https://apnews.com/article/warming-oceans-climate-change-hurricane-melissa-intensity-c7d40036574e77e3e108e20b213b10f9</link>
+<pubDate>Mon, 27 Oct 2025 17:37:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Houthi rebels detain 2 more UN workers, including a woman in critical condition]]></title>
+<link>https://apnews.com/article/yemen-houthis-crackdown-un-f3d8aba4fd6c8e312f25e00cd812162b</link>
+<pubDate>Mon, 27 Oct 2025 13:05:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[England beats New Zealand by 8 wickets in Women’s Cricket World Cup, rain ends India-Bangladesh game]]></title>
+<link>https://apnews.com/article/womens-world-cup-india-england-e4d0695ae9980b621f8130a8ee021490</link>
+<pubDate>Tue, 28 Oct 2025 04:53:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sharma and Kohli deny Australia a whitewash in ODI series as India wins by 9 wickets]]></title>
 <link>https://apnews.com/article/australia-india-cricket-odi-c1081bd2e8fc425cbe2eca85653583e4</link>
 <pubDate>Sun, 26 Oct 2025 11:12:44 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[A Naga rebel leader returns to his hometown in India’s northeast after 5 decades, in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-nagaland-thuingaleng-muivah-return-photos-012ff4c0d1589b6ba18bac918654665e</link>
 <pubDate>Thu, 23 Oct 2025 01:07:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thick, hazardous smog blankets New Delhi after Diwali fireworks]]></title>
-<link>https://apnews.com/article/india-pollution-diwali-new-delhi-fireworks-27255b7963ac371593da18d7e4a12103</link>
-<pubDate>Tue, 21 Oct 2025 06:57:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,6 +359,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hurricane Melissa to batter Jamaica as the island’s strongest storm on record in almost 2 centuries]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
+<pubDate>Tue, 28 Oct 2025 04:41:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China pitches itself as alternative to US protectionism after signing expanded ASEAN free trade pact]]></title>
 <link>https://apnews.com/article/asean-china-free-trade-trump-8a9d0f1ed5e87ebba4b5798275cd3605</link>
 <pubDate>Tue, 28 Oct 2025 04:26:32 -0000</pubDate>
@@ -413,12 +419,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
-<pubDate>Sun, 26 Oct 2025 15:09:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
 <link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
 <pubDate>Sat, 25 Oct 2025 07:15:10 -0000</pubDate>
@@ -455,21 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
-<link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
-<pubDate>Tue, 28 Oct 2025 03:56:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
 <link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
 <pubDate>Mon, 27 Oct 2025 18:01:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Houthi rebels detain 2 more UN workers, including a woman in critical condition]]></title>
-<link>https://apnews.com/article/yemen-houthis-crackdown-un-f3d8aba4fd6c8e312f25e00cd812162b</link>
-<pubDate>Sun, 26 Oct 2025 00:08:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -488,12 +476,6 @@
 <title><![CDATA[Asian shares are mixed as region watches for outcome from Trump’s visits]]></title>
 <link>https://apnews.com/article/stock-markets-trump-china-earnings-7507a6e0d264874721af27cc7533544a</link>
 <pubDate>Tue, 28 Oct 2025 03:41:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[England beats New Zealand by 8 wickets in Women’s Cricket World Cup, rain ends India-Bangladesh game]]></title>
-<link>https://apnews.com/article/womens-world-cup-india-england-e4d0695ae9980b621f8130a8ee021490</link>
-<pubDate>Mon, 27 Oct 2025 01:42:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
