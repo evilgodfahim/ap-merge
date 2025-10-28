@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 11:32:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 12:20:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sudan’s paramilitary forces overrun the army’s last stronghold in the Darfur region]]></title>
+<link>https://apnews.com/article/sudan-military-rsf-war-darfur-fasher-b3b2507e343f79e06ab6e31dc40732b0</link>
+<pubDate>Tue, 28 Oct 2025 12:02:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[World’s oldest president, Paul Biya, wins Cameroon election at 92]]></title>
 <link>https://apnews.com/article/cameroon-protests-election-tchiroma-biya-885d5a2cd41164e37e760777946a60e7</link>
 <pubDate>Mon, 27 Oct 2025 17:22:23 -0000</pubDate>
@@ -95,12 +101,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mali is squeezed as militants enforce an unusual blockade on fuel]]></title>
-<link>https://apnews.com/article/mali-militants-fuel-blockade-c69bee3048e5aa8181a0fb658fb3e20c</link>
-<pubDate>Mon, 27 Oct 2025 16:15:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Chicago’s children are getting caught in the chaos of immigration crackdowns]]></title>
 <link>https://apnews.com/article/chicago-immigration-trump-crackdown-school-children-c9a19835cac13c0fbbebcc9f4bf4f0a2</link>
 <pubDate>Tue, 28 Oct 2025 10:13:29 -0000</pubDate>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Florida man convicted raping and killing his neighbor in 1998 is set to be executed]]></title>
-<link>https://apnews.com/article/florida-execution-norman-mearle-grim-jr-acb2857558755d38539144224175c477</link>
-<pubDate>Tue, 28 Oct 2025 09:43:29 -0000</pubDate>
+<title><![CDATA[How Americans will be celebrating Halloween, according to a new AP-NORC poll]]></title>
+<link>https://apnews.com/article/halloween-poll-trickortreat-costumes-candy-decorations-de41f05d35cbd33bf87795995e47f5f1</link>
+<pubDate>Tue, 28 Oct 2025 11:47:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trial of a California woman who stole chickens puts slaughter houses in national spotlight]]></title>
-<link>https://apnews.com/article/california-animal-rights-activist-trial-0892823f09951382b1e72a6a578bc68a</link>
-<pubDate>Tue, 28 Oct 2025 09:28:29 -0000</pubDate>
+<title><![CDATA[Florida man convicted raping and killing his neighbor in 1998 is set to be executed]]></title>
+<link>https://apnews.com/article/florida-execution-norman-mearle-grim-jr-acb2857558755d38539144224175c477</link>
+<pubDate>Tue, 28 Oct 2025 09:43:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,30 @@
 <title><![CDATA[Sharma and Kohli deny Australia a whitewash in ODI series as India wins by 9 wickets]]></title>
 <link>https://apnews.com/article/australia-india-cricket-odi-c1081bd2e8fc425cbe2eca85653583e4</link>
 <pubDate>Sun, 26 Oct 2025 11:12:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A drone sighting closes a popular Spanish airport for 2 hours]]></title>
+<link>https://apnews.com/article/spain-drone-airport-closure-tourism-958acf71f4f73763ab5563d3f057e987</link>
+<pubDate>Tue, 28 Oct 2025 12:20:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French senators say security at the Louvre is ‘not in line’ with modern standards and demand action]]></title>
+<link>https://apnews.com/article/louvre-heist-jewels-france-museum-26f710d7b58811f1faa9b793bcec1405</link>
+<pubDate>Tue, 28 Oct 2025 12:05:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Germany’s Rheinmetall will build a gunpowder and ammunition plant in Bulgaria]]></title>
+<link>https://apnews.com/article/bulgaria-germany-rheinmetall-arms-factory-15de3d9a803bcfa1aa9073ab9e30a859</link>
+<pubDate>Tue, 28 Oct 2025 11:50:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prunella Scales, who played Sybil in British sitcom ‘Fawlty Towers,’ dies at 93]]></title>
+<link>https://apnews.com/article/prunella-scales-fawlty-towers-actor-obituary-491b614ede449ba19166e945657c16fa</link>
+<pubDate>Tue, 28 Oct 2025 11:35:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,39 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey signs multibillion-dollar deal with Britain for 20 Eurofighter jets]]></title>
-<link>https://apnews.com/article/turkey-uk-erdogan-starmer-eurofighter-typhoon-jets-da7fdc869a48f0f905b08bd4287772b2</link>
-<pubDate>Tue, 28 Oct 2025 09:26:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Czech president asks populist leader Andrej Babiš to form a new government]]></title>
-<link>https://apnews.com/article/czech-government-babis-0f539bf61ff8a8eb45e76398771cb470</link>
-<pubDate>Mon, 27 Oct 2025 13:05:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In AP interview, East Timor’s Ramos-Horta says personal diplomacy could bring Myanmar ceasefire]]></title>
-<link>https://apnews.com/article/ramoshorta-east-timor-asean-myanmar-adbf83105c13f5664c1431185e4633e3</link>
-<pubDate>Mon, 27 Oct 2025 12:50:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Private donors gave more than $125M to keep foreign aid programs going after US cuts]]></title>
-<link>https://apnews.com/article/usaid-foreign-aid-cuts-deaths-emergency-funds-7ed67cb3983b2615ebcdae7098295beb</link>
-<pubDate>Mon, 27 Oct 2025 12:35:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump praises Japan’s new prime minister, saying US is an ‘ally at the strongest level’]]></title>
+<title><![CDATA[Trump praises Japan’s new prime minister, saying the US is an ‘ally at the strongest level’]]></title>
 <link>https://apnews.com/article/donald-trump-japan-south-korea-china-71658f169efc116ce01e888611955dac</link>
-<pubDate>Tue, 28 Oct 2025 02:05:13 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 11:46:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Hurricane Melissa bears down on Jamaica as its strongest storm in recorded history]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
 <pubDate>Tue, 28 Oct 2025 07:11:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How Mike Waltz is leading the Trump administration’s ‘a la carte’ approach to UN funding]]></title>
+<link>https://apnews.com/article/mike-waltz-trump-united-nations-funding-aid-8bf9fe9aa628d11a95ab4627f1e11013</link>
+<pubDate>Tue, 28 Oct 2025 11:31:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,12 +380,6 @@
 <title><![CDATA[Ukraine’s long-range strikes cut Russia’s oil refining capacity by 20%, Zelenskyy says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-oil-refineries-zelenskyy-fa04014c6c1bdf0e15123d898c491b03</link>
 <pubDate>Tue, 28 Oct 2025 10:27:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Small plane carrying foreign tourists crashes in Kenya, with 12 people feared dead]]></title>
-<link>https://apnews.com/article/kenya-plane-crash-kwale-tourism-maasai-mara-20f6c5fa0a77a70af475844d0d42bd18</link>
-<pubDate>Tue, 28 Oct 2025 10:12:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,21 +473,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s paramilitary forces overrun the army’s last stronghold in the Darfur region]]></title>
-<link>https://apnews.com/article/sudan-military-rsf-war-darfur-fasher-b3b2507e343f79e06ab6e31dc40732b0</link>
-<pubDate>Mon, 27 Oct 2025 21:00:29 -0000</pubDate>
+<title><![CDATA[11 killed in Kenya plane crash while en route to Maasai Mara National Reserve]]></title>
+<link>https://apnews.com/article/kenya-plane-crash-kwale-tourism-maasai-mara-20f6c5fa0a77a70af475844d0d42bd18</link>
+<pubDate>Tue, 28 Oct 2025 11:16:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Food banks brace for surge as federal food aid pause looms amid government shutdown]]></title>
+<title><![CDATA[Food banks are preparing for a surge as federal food aid could be paused in the government shutdown]]></title>
 <link>https://apnews.com/article/snap-pause-food-pantries-f9d6c4b6050b96c4941d4b5b212f7e90</link>
-<pubDate>Tue, 28 Oct 2025 09:57:38 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 11:01:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Global shares mostly fall as region watches for outcome from Trump’s visit]]></title>
 <link>https://apnews.com/article/stock-markets-trump-china-earnings-7507a6e0d264874721af27cc7533544a</link>
 <pubDate>Tue, 28 Oct 2025 09:42:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India conducts cloud-seeding trial to clear New Delhi’s smog]]></title>
+<link>https://apnews.com/article/india-pollution-cloud-seeding-artificial-rain-db5652e3cb33937422b3dc69263a59a3</link>
+<pubDate>Tue, 28 Oct 2025 10:46:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
