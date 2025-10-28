@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 07:36:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 08:15:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
@@ -125,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and China seek to strike a deal over rare earths, tariffs, soybeans]]></title>
+<title><![CDATA[US and China seek to strike a deal over rare earths, tariffs and soybeans]]></title>
 <link>https://apnews.com/article/trump-china-tariffs-rare-earths-soybeans-exports-efa3b57ce5cd94ee5bfcad1988d9fccd</link>
-<pubDate>Tue, 28 Oct 2025 03:50:11 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 07:45:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[A Naga rebel leader returns to his hometown in India’s northeast after 5 decades, in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-nagaland-thuingaleng-muivah-return-photos-012ff4c0d1589b6ba18bac918654665e</link>
 <pubDate>Thu, 23 Oct 2025 01:07:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India closes schools and evacuates thousands as Cyclone Montha approaches]]></title>
+<link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
+<pubDate>Tue, 28 Oct 2025 08:02:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sermons urge youth to take part in public affairs in Morocco after wave of protests]]></title>
-<link>https://apnews.com/article/morocco-protests-gen-z-sermons-44f170be7635510e957d846f7fdd16ee</link>
-<pubDate>Mon, 27 Oct 2025 16:54:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump praises Japan’s new prime minister, saying US is an ‘ally at the strongest level’]]></title>
 <link>https://apnews.com/article/donald-trump-japan-south-korea-china-71658f169efc116ce01e888611955dac</link>
 <pubDate>Tue, 28 Oct 2025 02:05:13 -0000</pubDate>
@@ -371,15 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
-<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
-<pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
+<title><![CDATA[Israel says it killed 3 Palestinian militants in a raid in the West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
+<pubDate>Tue, 28 Oct 2025 08:15:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zanzibar is seeing a seaweed boom. Can the women collecting it cash in?]]></title>
-<link>https://apnews.com/article/tanzania-zanzibar-seaweed-women-health-economy-3e25ce578fd3f5c9430b5ac4306a1b87</link>
-<pubDate>Tue, 28 Oct 2025 04:11:32 -0000</pubDate>
+<title><![CDATA[Peace talks hosted by Turkey between Pakistan and Afghanistan hit impasse in Istanbul]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-peace-talks-stalled-istanbul-a82bd2ea927a6096a58f784ba9579e82</link>
+<pubDate>Tue, 28 Oct 2025 08:00:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,12 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conflicting accounts emerge after UN peacekeepers shoot down Israeli drone]]></title>
-<link>https://apnews.com/article/lebanon-israel-unifil-drone-3352c555e3c93b60619b4eada8e20028</link>
-<pubDate>Mon, 27 Oct 2025 14:24:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo XIV will pray at the site of the 2020 Beirut port blast in his first foreign trip]]></title>
 <link>https://apnews.com/article/pope-leo-beirut-port-blast-45061fde4569f0a9e78e46a643ca4539</link>
 <pubDate>Mon, 27 Oct 2025 13:07:10 -0000</pubDate>
@@ -422,6 +416,12 @@
 <title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
 <link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
 <pubDate>Mon, 27 Oct 2025 20:45:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
+<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
+<pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
