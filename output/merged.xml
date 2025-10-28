@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 04:13:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 04:41:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
 <link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trial begins for man accused of killing former Japanese PM Abe with homemade firearm]]></title>
+<link>https://apnews.com/article/trial-former-japanese-prime-minister-abe-japan-0c9af312a2bd651712731167960d8f3a</link>
+<pubDate>Tue, 28 Oct 2025 04:35:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In AP interview, East Timor’s Ramos-Horta says personal diplomacy could bring Myanmar ceasefire]]></title>
 <link>https://apnews.com/article/ramoshorta-east-timor-asean-myanmar-adbf83105c13f5664c1431185e4633e3</link>
 <pubDate>Mon, 27 Oct 2025 22:08:56 -0000</pubDate>
@@ -47,27 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea’s top diplomat meets with Putin on a visit to Russia]]></title>
-<link>https://apnews.com/article/russia-north-korea-choe-putin-lavrov-8a00d2654ec8d9639c1bf13fa6a1d9f6</link>
-<pubDate>Mon, 27 Oct 2025 16:30:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela moves to cancel energy agreements with Trinidad after US warship arrives at island nation]]></title>
 <link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
 <pubDate>Tue, 28 Oct 2025 03:27:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hurricane Melissa threatens catastrophic flash flooding and landslides in the Caribbean]]></title>
-<link>https://apnews.com/article/landslide-hurricane-rain-jamaica-cuba-hispaniola-f8256e538db4130cba2b2fc5909a5b80</link>
-<pubDate>Mon, 27 Oct 2025 21:53:56 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa to batter Jamaica as the island’s strongest storm on record in almost 2 centuries]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
+<pubDate>Tue, 28 Oct 2025 04:20:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As the Atlantic Ocean warms, climate change is fueling Hurricane Melissa’s ferocity]]></title>
-<link>https://apnews.com/article/warming-oceans-climate-change-hurricane-melissa-intensity-c7d40036574e77e3e108e20b213b10f9</link>
-<pubDate>Mon, 27 Oct 2025 17:37:23 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa threatens catastrophic flash flooding and landslides in the Caribbean]]></title>
+<link>https://apnews.com/article/landslide-hurricane-rain-jamaica-cuba-hispaniola-f8256e538db4130cba2b2fc5909a5b80</link>
+<pubDate>Mon, 27 Oct 2025 21:53:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pressure builds on Congress to end the shutdown, but a quick breakthrough appears unlikely]]></title>
+<link>https://apnews.com/article/government-shutdown-update-snap-food-benefits-3823cbaa20156309e2d6191c13f06dea</link>
+<pubDate>Tue, 28 Oct 2025 04:05:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration posts notice that no federal food aid will go out Nov. 1]]></title>
 <link>https://apnews.com/article/food-aid-government-shutdown-snap-trump-democrats-8a52a63b26a707ea676962226b090bb1</link>
 <pubDate>Mon, 27 Oct 2025 20:50:12 -0000</pubDate>
@@ -119,9 +125,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Immigration crackdown stokes fear and solidarity at a Catholic church in DC]]></title>
-<link>https://apnews.com/article/immigration-crackdown-catholic-church-washington-874e6deca9e54a4e14081c63adca7718</link>
-<pubDate>Mon, 27 Oct 2025 11:26:08 -0000</pubDate>
+<title><![CDATA[US and China seek to strike a deal over rare earths, tariffs, soybeans]]></title>
+<link>https://apnews.com/article/trump-china-tariffs-rare-earths-soybeans-exports-efa3b57ce5cd94ee5bfcad1988d9fccd</link>
+<pubDate>Tue, 28 Oct 2025 03:50:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Australia’s Albanese discusses US minerals deal, jet incident with China’s Premier Li]]></title>
+<link>https://apnews.com/article/australia-china-anthony-albanese-li-qiang-meeting-767662bc7df6f263626e51b5d8e31933</link>
+<pubDate>Tue, 28 Oct 2025 03:35:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,18 +146,6 @@
 <title><![CDATA[China’s C919 jet faces turbulent skies as US-China trade tensions add to delays]]></title>
 <link>https://apnews.com/article/china-us-aircraft-trade-comac-8eaf0e9f235b989cd8100152bd5c3f66</link>
 <pubDate>Mon, 27 Oct 2025 10:28:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and China say a trade deal is drawing closer as Trump and Xi ready for a high-stakes meeting]]></title>
-<link>https://apnews.com/article/donald-trump-asia-malaysia-china-japan-55a147dce68e6d8fa70c2b858249c7ec</link>
-<pubDate>Sun, 26 Oct 2025 16:11:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Amber Glenn beats Alysa Liu to win figure skating Cup of China]]></title>
-<link>https://apnews.com/article/grand-prix-amber-glenn-8f0f8d554eba53bd5d7f76957bd28de1</link>
-<pubDate>Mon, 27 Oct 2025 06:27:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,18 @@
 <title><![CDATA[Thick, hazardous smog blankets New Delhi after Diwali fireworks]]></title>
 <link>https://apnews.com/article/india-pollution-diwali-new-delhi-fireworks-27255b7963ac371593da18d7e4a12103</link>
 <pubDate>Tue, 21 Oct 2025 06:57:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bill Gates calls for climate fight to shift focus from curbing emissions to reducing human suffering]]></title>
+<link>https://apnews.com/article/bill-gates-climate-change-united-nations-4108f76e746d1e3e13845f33b8ae7007</link>
+<pubDate>Tue, 28 Oct 2025 04:41:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Australia denies visa to Dutch Olympian convicted of child rape]]></title>
+<link>https://apnews.com/article/steven-van-de-velde-australia-visa-rape-86fbba890446d576f2ac346f59ed49a6</link>
+<pubDate>Tue, 28 Oct 2025 04:26:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +242,12 @@
 <title><![CDATA[‘Yeah, boyeeee': Flavor Flav gives bobsled and skeleton a try, joins team as hype man for Olympics]]></title>
 <link>https://apnews.com/article/flavor-flav-bobsled-olympics-95116ebd2c7c5c8d6944b5e59f6a58eb</link>
 <pubDate>Mon, 27 Oct 2025 16:15:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea’s top diplomat meets with Putin on a visit to Russia]]></title>
+<link>https://apnews.com/article/russia-north-korea-choe-putin-lavrov-8a00d2654ec8d9639c1bf13fa6a1d9f6</link>
+<pubDate>Mon, 27 Oct 2025 21:54:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,45 +353,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[LGBTQ+ artists bring pride to Mexico City’s Catrina parade ahead of Day of the Dead, in photos]]></title>
-<link>https://apnews.com/photo-gallery/day-of-dead-photos-catrina-mexico-city-f19819b3d1c6c9bfc18c64f31191c0d8</link>
-<pubDate>Mon, 27 Oct 2025 06:05:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street rallies to more records as gold’s price slumps again]]></title>
-<link>https://apnews.com/article/stocks-markets-nikkei-trump-china-7d7150df20283db5a295abc64d225a63</link>
-<pubDate>Mon, 27 Oct 2025 20:54:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Dutch go to the polls again in a snap election caused by anti-immigration lawmaker Wilders]]></title>
-<link>https://apnews.com/article/netherlands-elections-wilders-politics-immigration-coalition-vote-b720c6d241200b0cfb672d0d391134bf</link>
-<pubDate>Mon, 27 Oct 2025 11:46:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane Melissa bears down on Jamaica and threatens to be the island’s strongest recorded storm]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-c33102eb52bc8dfec08bdcd20968ca1d</link>
-<pubDate>Mon, 27 Oct 2025 18:46:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump praises Japan’s new prime minister, saying US is an ‘ally at the strongest level’]]></title>
 <link>https://apnews.com/article/donald-trump-japan-south-korea-china-71658f169efc116ce01e888611955dac</link>
 <pubDate>Tue, 28 Oct 2025 02:05:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China pitches itself as alternate to US protectionism after signing expanded ASEAN free trade pact]]></title>
+<title><![CDATA[China pitches itself as alternative to US protectionism after signing expanded ASEAN free trade pact]]></title>
 <link>https://apnews.com/article/asean-china-free-trade-trump-8a9d0f1ed5e87ebba4b5798275cd3605</link>
-<pubDate>Tue, 28 Oct 2025 03:27:25 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 04:26:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
 <link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
 <pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zanzibar is seeing a seaweed boom. Can the women collecting it cash in?]]></title>
+<link>https://apnews.com/article/tanzania-zanzibar-seaweed-women-health-economy-3e25ce578fd3f5c9430b5ac4306a1b87</link>
+<pubDate>Tue, 28 Oct 2025 04:11:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck]]></title>
-<link>https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533</link>
-<pubDate>Sun, 26 Oct 2025 21:08:21 -0000</pubDate>
+<title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
+<link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
+<pubDate>Tue, 28 Oct 2025 03:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia’s Albanese discusses US minerals deal, jet incident with China’s Premier Li]]></title>
-<link>https://apnews.com/article/australia-china-anthony-albanese-li-qiang-meeting-767662bc7df6f263626e51b5d8e31933</link>
-<pubDate>Mon, 27 Oct 2025 07:06:29 -0000</pubDate>
+<title><![CDATA[Asian shares are mixed as region watches for outcome from Trump’s visits]]></title>
+<link>https://apnews.com/article/stock-markets-trump-china-earnings-7507a6e0d264874721af27cc7533544a</link>
+<pubDate>Tue, 28 Oct 2025 03:41:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
