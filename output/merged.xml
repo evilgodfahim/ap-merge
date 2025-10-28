@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 12:20:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 13:03:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Record rainfall causes major flooding in Vietnam, submerging ancient sites]]></title>
+<title><![CDATA[Vietnam’s tourist sites submerged as record rainfall causes major flooding]]></title>
 <link>https://apnews.com/article/vietnam-floods-record-rainfall-3492e2748c8504392943f21b5df5079a</link>
-<pubDate>Tue, 28 Oct 2025 10:28:29 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 13:03:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Americans will be celebrating Halloween, according to a new AP-NORC poll]]></title>
-<link>https://apnews.com/article/halloween-poll-trickortreat-costumes-candy-decorations-de41f05d35cbd33bf87795995e47f5f1</link>
-<pubDate>Tue, 28 Oct 2025 11:47:07 -0000</pubDate>
+<title><![CDATA[Takeaways from AP’s report on a U.S. plot to recruit Maduro’s pilot to betray Venezuelan leader]]></title>
+<link>https://apnews.com/article/dhs-plan-capture-maduro-pilot-planes-venezuela-db0ab1319b060f560bab7be4413c66d5</link>
+<pubDate>Tue, 28 Oct 2025 12:48:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Florida man convicted raping and killing his neighbor in 1998 is set to be executed]]></title>
-<link>https://apnews.com/article/florida-execution-norman-mearle-grim-jr-acb2857558755d38539144224175c477</link>
-<pubDate>Tue, 28 Oct 2025 09:43:29 -0000</pubDate>
+<title><![CDATA[GOP voters in Northern California brace for loss of representation in fight for US House]]></title>
+<link>https://apnews.com/article/california-house-gerrymandering-gavin-newsom-trump-2a12e97b48e2b6bdfe6891264756ff9c</link>
+<pubDate>Tue, 28 Oct 2025 12:33:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump praises Japan’s new prime minister, saying the US is an ‘ally at the strongest level’]]></title>
+<title><![CDATA[Trump bonds with Japan’s new prime minister and says her nation is delivering on US investments]]></title>
 <link>https://apnews.com/article/donald-trump-japan-south-korea-china-71658f169efc116ce01e888611955dac</link>
-<pubDate>Tue, 28 Oct 2025 11:46:30 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 13:03:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hurricane Melissa bears down on Jamaica as its strongest storm in recorded history]]></title>
+<title><![CDATA[Hurricane Melissa is set to hit Jamaica as its strongest storm since records began]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
-<pubDate>Tue, 28 Oct 2025 07:11:07 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 12:48:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A federal agent’s daring plan: Recruit Maduro’s pilot to turn on the Venezuelan leader]]></title>
+<link>https://apnews.com/article/dhs-plan-capture-maduro-pilot-planes-7915d5a0819ceb518a8ca2b47da8b2e5</link>
+<pubDate>Tue, 28 Oct 2025 12:33:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,12 +380,6 @@
 <title><![CDATA[Netanyahu says remains returned by Hamas are body parts of a hostage previously retrieved in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
 <pubDate>Tue, 28 Oct 2025 10:42:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine’s long-range strikes cut Russia’s oil refining capacity by 20%, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-oil-refineries-zelenskyy-fa04014c6c1bdf0e15123d898c491b03</link>
-<pubDate>Tue, 28 Oct 2025 10:27:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,6 +455,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine’s long-range strikes cut Russia’s oil refining capacity by 20%, Zelenskyy says]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-oil-refineries-zelenskyy-fa04014c6c1bdf0e15123d898c491b03</link>
+<pubDate>Tue, 28 Oct 2025 10:27:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ford’s enormous F-150 becomes unlikely part of Japan’s efforts to woo Trump]]></title>
 <link>https://apnews.com/article/japan-us-cars-export-ford-f150-trump-52e22be93e94c5060f8a22a46d9c2dc2</link>
 <pubDate>Tue, 28 Oct 2025 05:43:13 -0000</pubDate>
@@ -485,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Global shares mostly fall as region watches for outcome from Trump’s visit]]></title>
+<title><![CDATA[Wall Street makes modest gains ahead of Fed rate announcement, Trump-Xi meeting]]></title>
 <link>https://apnews.com/article/stock-markets-trump-china-earnings-7507a6e0d264874721af27cc7533544a</link>
-<pubDate>Tue, 28 Oct 2025 09:42:38 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 12:18:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
