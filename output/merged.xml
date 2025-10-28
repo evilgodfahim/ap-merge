@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 17:10:40 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 17:39:32 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
+<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
+<pubDate>Tue, 28 Oct 2025 17:22:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
 <pubDate>Tue, 28 Oct 2025 05:38:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
-<link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
-<pubDate>Sun, 26 Oct 2025 10:22:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Houthi rebels detain 2 more UN workers, including a woman in critical condition]]></title>
-<link>https://apnews.com/article/yemen-houthis-crackdown-un-f3d8aba4fd6c8e312f25e00cd812162b</link>
-<pubDate>Mon, 27 Oct 2025 13:05:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan’s paramilitary forces overrun the army’s last stronghold in the Darfur region]]></title>
-<link>https://apnews.com/article/sudan-military-rsf-war-darfur-fasher-b3b2507e343f79e06ab6e31dc40732b0</link>
-<pubDate>Tue, 28 Oct 2025 12:02:07 -0000</pubDate>
+<title><![CDATA[Rubio says mediators of Gaza ceasefire shared information to uncover a recent threat]]></title>
+<link>https://apnews.com/article/rubio-gaza-ceasefire-colombia-venezuela-82eb1929a74955f2c9be1339602176dd</link>
+<pubDate>Mon, 27 Oct 2025 14:11:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[When the government shutdown will affect SNAP, Head Start and military pay]]></title>
-<link>https://apnews.com/article/government-shutdown-timeline-whats-happening-ebe3ad33396d57e4ae7ea30477022a60</link>
-<pubDate>Tue, 28 Oct 2025 15:59:04 -0000</pubDate>
+<title><![CDATA[Mali is squeezed as militants enforce an unusual blockade on fuel]]></title>
+<link>https://apnews.com/article/mali-militants-fuel-blockade-c69bee3048e5aa8181a0fb658fb3e20c</link>
+<pubDate>Mon, 27 Oct 2025 16:15:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Border Patrol official Bovino in court to answer questions about Chicago immigration crackdown]]></title>
-<link>https://apnews.com/article/chicago-illinois-ice-border-patrol-immigration-bovino-d1cf9ce5309f0175a24fdd276f52f06c</link>
-<pubDate>Tue, 28 Oct 2025 15:44:04 -0000</pubDate>
+<title><![CDATA[A federal judge in Tennessee warns Trump officials over statements about Kilmar Abrego Garcia]]></title>
+<link>https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-1725fd6154eefd6b521eed97cb757e64</link>
+<pubDate>Tue, 28 Oct 2025 17:07:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Congress shielded gun companies from lawsuits. Some blue states think they’ve found a loophole]]></title>
-<link>https://apnews.com/article/guns-lawsuits-plcaa-sandy-hook-7d9ce7e12a9499543505d02ed0364001</link>
-<pubDate>Tue, 28 Oct 2025 15:29:04 -0000</pubDate>
+<title><![CDATA[Flight delays become more common as air traffic controllers go without pay during shutdown]]></title>
+<link>https://apnews.com/article/government-shutdown-air-traffic-controllers-paycheck-260328da55297a602dd8334f613a02df</link>
+<pubDate>Tue, 28 Oct 2025 16:52:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Food banks are preparing for a surge as federal food aid could be paused in the government shutdown]]></title>
+<link>https://apnews.com/article/snap-pause-food-pantries-f9d6c4b6050b96c4941d4b5b212f7e90</link>
+<pubDate>Tue, 28 Oct 2025 16:37:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,33 +353,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jamaica braces for catastrophic winds and flooding as Hurricane Melissa approaches]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
-<pubDate>Tue, 28 Oct 2025 16:14:05 -0000</pubDate>
+<title><![CDATA[Gaza ceasefire tested as Israel and Hamas exchange fire and blame]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
+<pubDate>Tue, 28 Oct 2025 17:33:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu says remains returned by Hamas are of a hostage previously retrieved in Gaza]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
-<pubDate>Tue, 28 Oct 2025 14:11:39 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa makes landfall in Jamaica as catastrophic Category 5 storm]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
+<pubDate>Tue, 28 Oct 2025 17:18:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Hurricane Melissa]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
+<pubDate>Tue, 28 Oct 2025 17:03:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s former President Jair Bolsonaro appeals his 27-year prison sentence]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-appeal-77f77ffc22b6b399524b1616c9725403</link>
+<pubDate>Tue, 28 Oct 2025 16:48:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Lawmakers move to extend Russia’s compulsory military draft to a year-round process]]></title>
 <link>https://apnews.com/article/russia-military-conscription-draft-ukraine-war-9849511e45f7b7db596103fd71e69bae</link>
 <pubDate>Tue, 28 Oct 2025 15:59:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump bonds with Japan’s new prime minister and says her nation is delivering on US investments]]></title>
-<link>https://apnews.com/article/donald-trump-japan-south-korea-china-71658f169efc116ce01e888611955dac</link>
-<pubDate>Tue, 28 Oct 2025 13:03:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US sought to lure Nicolás Maduro’s pilot into betraying the Venezuelan leader]]></title>
-<link>https://apnews.com/article/dhs-plan-capture-maduro-pilot-planes-7915d5a0819ceb518a8ca2b47da8b2e5</link>
-<pubDate>Tue, 28 Oct 2025 15:44:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,6 +407,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[RSF’s takeover of Sudan’s El Fasher a ‘terrible escalation’ that raises new concerns]]></title>
+<link>https://apnews.com/article/sudan-miliary-rsf-war-darfur-fasher-82e1906ae7119b4bd3eae13ec45184fa</link>
+<pubDate>Tue, 28 Oct 2025 16:33:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Some 4 years after fleeing Afghanistan, a group of refugees returns to international competition]]></title>
 <link>https://apnews.com/article/afghanistan-womens-soccer-fifa-8bffc8d0197b42f2376277a6a1675b43</link>
 <pubDate>Mon, 27 Oct 2025 09:43:19 -0000</pubDate>
@@ -416,12 +422,6 @@
 <title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
 <link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
 <pubDate>Mon, 27 Oct 2025 20:45:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
-<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
-<pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio says mediators of Gaza ceasefire shared information to uncover a recent threat]]></title>
-<link>https://apnews.com/article/rubio-gaza-ceasefire-colombia-venezuela-82eb1929a74955f2c9be1339602176dd</link>
-<pubDate>Sun, 26 Oct 2025 11:34:05 -0000</pubDate>
+<title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
+<link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
+<pubDate>Sun, 26 Oct 2025 08:12:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Food banks are preparing for a surge as federal food aid could be paused in the government shutdown]]></title>
-<link>https://apnews.com/article/snap-pause-food-pantries-f9d6c4b6050b96c4941d4b5b212f7e90</link>
-<pubDate>Tue, 28 Oct 2025 11:01:30 -0000</pubDate>
+<title><![CDATA[Judge orders daily meetings with Border Patrol official Bovino on Chicago immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-illinois-ice-border-patrol-immigration-bovino-d1cf9ce5309f0175a24fdd276f52f06c</link>
+<pubDate>Tue, 28 Oct 2025 16:18:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
