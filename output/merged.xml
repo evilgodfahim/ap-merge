@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 02:22:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 03:27:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
 <link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Malaysia’s Anwar calls for dialogue over coercion at East Asia summit]]></title>
-<link>https://apnews.com/article/malaysia-anwar-asean-east-asia-summit-6a54cf7612380b59b3bc1be12cb7ee71</link>
-<pubDate>Mon, 27 Oct 2025 13:41:43 -0000</pubDate>
+<title><![CDATA[North Korea’s top diplomat meets with Putin on a visit to Russia]]></title>
+<link>https://apnews.com/article/russia-north-korea-choe-putin-lavrov-8a00d2654ec8d9639c1bf13fa6a1d9f6</link>
+<pubDate>Mon, 27 Oct 2025 16:30:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela moves to cancel energy agreements with Trinidad after US warship arrives at island nation]]></title>
+<link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
+<pubDate>Tue, 28 Oct 2025 03:27:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[As the Atlantic Ocean warms, climate change is fueling Hurricane Melissa’s ferocity]]></title>
 <link>https://apnews.com/article/warming-oceans-climate-change-hurricane-melissa-intensity-c7d40036574e77e3e108e20b213b10f9</link>
 <pubDate>Mon, 27 Oct 2025 17:37:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[When a hurricane threatens, these tips can help you prepare]]></title>
-<link>https://apnews.com/article/hurricane-threat-homes-safety-preparation-emergency-17c8553c916d5bf09934e2b2ae47ef87</link>
-<pubDate>Mon, 27 Oct 2025 15:06:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,12 +233,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea’s top diplomat meets with Putin on a visit to Russia]]></title>
-<link>https://apnews.com/article/russia-north-korea-choe-putin-lavrov-8a00d2654ec8d9639c1bf13fa6a1d9f6</link>
-<pubDate>Mon, 27 Oct 2025 21:54:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about the Louvre heist investigation]]></title>
 <link>https://apnews.com/article/louvre-museum-heist-paris-france-jewelry-investigation-49908bce644d7a7dfd9487e54f6b0150</link>
 <pubDate>Mon, 27 Oct 2025 16:00:47 -0000</pubDate>
@@ -365,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
-<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
-<pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
+<title><![CDATA[China pitches itself as alternate to US protectionism after signing expanded ASEAN free trade pact]]></title>
+<link>https://apnews.com/article/asean-china-free-trade-trump-8a9d0f1ed5e87ebba4b5798275cd3605</link>
+<pubDate>Tue, 28 Oct 2025 03:27:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
-<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
-<pubDate>Mon, 27 Oct 2025 18:01:41 -0000</pubDate>
+<title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
+<link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
+<pubDate>Mon, 27 Oct 2025 16:14:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela moves to cancel energy agreements with Trinidad after US warship arrives at island nation]]></title>
-<link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
-<pubDate>Mon, 27 Oct 2025 20:30:29 -0000</pubDate>
+<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
+<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
+<pubDate>Mon, 27 Oct 2025 18:01:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
