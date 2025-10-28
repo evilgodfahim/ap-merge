@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 09:39:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 10:12:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Kurdish rebel group PKK says it is withdrawing its fighters from Turkey to Iraq]]></title>
 <link>https://apnews.com/article/turkey-iraq-pkk-kurdish-22e611009304bd8a822bc74ad5007162</link>
 <pubDate>Sun, 26 Oct 2025 10:22:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian oil company Lukoil to sell international assets in response to Trump sanctions]]></title>
+<link>https://apnews.com/article/russia-sanctions-ukraine-war-oil-lukoil-rosneft-5601942ca5f92730ffc5ef9f4ec004cf</link>
+<pubDate>Tue, 28 Oct 2025 09:54:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ten people face trial accused of cyberbullying French president’s wife Brigitte Macron]]></title>
-<link>https://apnews.com/article/france-brigitte-macron-trial-paris-cyberbullying-cdc496a4c97ecf6099fedbd487fa801e</link>
-<pubDate>Mon, 27 Oct 2025 11:56:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
 <link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
 <pubDate>Tue, 28 Oct 2025 05:23:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India closes schools and evacuates thousands as Cyclone Montha approaches]]></title>
-<link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
-<pubDate>Tue, 28 Oct 2025 08:51:00 -0000</pubDate>
+<title><![CDATA[A military-backed party in Myanmar holds rallies as campaigning begins for December election]]></title>
+<link>https://apnews.com/article/myanmar-election-usdp-nld-min-aung-hlaing-cc1d172931e6880dab945594bf616281</link>
+<pubDate>Tue, 28 Oct 2025 09:39:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trial begins for man accused of killing former Japanese PM Abe with homemade firearm]]></title>
-<link>https://apnews.com/article/trial-former-japanese-prime-minister-abe-japan-0c9af312a2bd651712731167960d8f3a</link>
-<pubDate>Tue, 28 Oct 2025 04:35:11 -0000</pubDate>
+<title><![CDATA[India closes schools and evacuates thousands as Cyclone Montha approaches]]></title>
+<link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
+<pubDate>Tue, 28 Oct 2025 08:51:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Small plane crashes in the Kenyan coastal region of Kwale, with 12 people feared dead]]></title>
+<title><![CDATA[Small plane carrying foreign tourists crashes in Kenya, with 12 people feared dead]]></title>
 <link>https://apnews.com/article/kenya-plane-crash-kwale-tourism-maasai-mara-20f6c5fa0a77a70af475844d0d42bd18</link>
-<pubDate>Tue, 28 Oct 2025 09:06:48 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 09:56:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trial begins for man accused of killing former Japanese PM Abe with homemade firearm]]></title>
+<link>https://apnews.com/article/trial-former-japanese-prime-minister-abe-japan-0c9af312a2bd651712731167960d8f3a</link>
+<pubDate>Tue, 28 Oct 2025 09:41:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -326,30 +332,6 @@
 <title><![CDATA[Private donors gave more than $125M to keep foreign aid programs going after US cuts]]></title>
 <link>https://apnews.com/article/usaid-foreign-aid-cuts-deaths-emergency-funds-7ed67cb3983b2615ebcdae7098295beb</link>
 <pubDate>Mon, 27 Oct 2025 12:35:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lithuania draws up plans to shut Belarus border crossings indefinitely after balloon disruptions]]></title>
-<link>https://apnews.com/article/lithuania-belarus-border-closure-balloons-airport-1286b5931ba2cdba47baccf9f09708ef</link>
-<pubDate>Mon, 27 Oct 2025 12:01:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Malaysia’s Anwar calls for dialogue over coercion at East Asia summit]]></title>
-<link>https://apnews.com/article/malaysia-anwar-asean-east-asia-summit-6a54cf7612380b59b3bc1be12cb7ee71</link>
-<pubDate>Tue, 28 Oct 2025 03:26:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Milei’s party wins big in Argentina’s midterm elections, in photos]]></title>
-<link>https://apnews.com/photo-gallery/argentina-midterm-election-javier-milei-photos-9501b707e650a91ac9a3c86b634d7ca7</link>
-<pubDate>Mon, 27 Oct 2025 14:36:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Madagascar president Andry Rajoelina stripped of citizenship after military takeover]]></title>
-<link>https://apnews.com/article/madagascar-former-president-rajoelina-citizenship-f17a43cf90c882dc4a9146b56c1bb055</link>
-<pubDate>Mon, 27 Oct 2025 17:09:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
