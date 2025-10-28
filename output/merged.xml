@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 20:12:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 20:40:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
+<link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
+<pubDate>Tue, 28 Oct 2025 20:34:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel’s top diplomat says Turkish troops will have no role in Gaza force]]></title>
 <link>https://apnews.com/article/israel-turkey-gaza-international-force-ceasefire-1129061602206a9d8ad00b6f716f12c9</link>
 <pubDate>Tue, 28 Oct 2025 17:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
-<pubDate>Tue, 28 Oct 2025 05:38:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
-<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
-<pubDate>Mon, 27 Oct 2025 21:05:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela suspends energy agreements with Trinidad after US warship arrives at island nation]]></title>
 <link>https://apnews.com/article/venezuela-trinidad-conflict-us-strikes-speedboats-drugs-bd7380e942ef5b92dc27b5cc9e368640</link>
 <pubDate>Tue, 28 Oct 2025 05:08:52 -0000</pubDate>
@@ -71,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tunisian court suspends prominent human rights groups as crackdown progresses]]></title>
-<link>https://apnews.com/article/tunisia-rights-groups-suspended-saied-14aa0487e7c0b7d08873cde90266a8be</link>
-<pubDate>Tue, 28 Oct 2025 18:27:02 -0000</pubDate>
+<title><![CDATA[Brazil’s former President Jair Bolsonaro appeals his 27-year prison sentence]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-appeal-77f77ffc22b6b399524b1616c9725403</link>
+<pubDate>Tue, 28 Oct 2025 20:19:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration shakes up ICE leadership across the country in major overhaul]]></title>
+<title><![CDATA[Trump administration shakes up ICE leadership across the country in major overhaul, AP sources say]]></title>
 <link>https://apnews.com/article/immigration-border-patrol-ice-trump-deportation-69b599f8e7e7826f72b90068385a0047</link>
-<pubDate>Tue, 28 Oct 2025 19:15:43 -0000</pubDate>
+<pubDate>Tue, 28 Oct 2025 20:04:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +176,12 @@
 <title><![CDATA[Ex-thief says he warned Louvre of security weaknesses around crown jewels]]></title>
 <link>https://apnews.com/article/louvre-heist-jewels-former-thief-f96295b7e855ba8ddc160ac021e40a65</link>
 <pubDate>Tue, 28 Oct 2025 18:48:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tunisian court suspends prominent human rights groups as crackdown progresses]]></title>
+<link>https://apnews.com/article/tunisia-rights-groups-suspended-saied-14aa0487e7c0b7d08873cde90266a8be</link>
+<pubDate>Tue, 28 Oct 2025 19:41:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,6 +464,18 @@
 <title><![CDATA[Cyclone Montha making landfall in India, threatening millions with torrential rains and gusty winds]]></title>
 <link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
 <pubDate>Tue, 28 Oct 2025 15:29:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
+<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
+<pubDate>Mon, 27 Oct 2025 18:01:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas expands search for the remains of hostages in Gaza]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-news-10-26-2025-943a9159bd0a39d02761394af1874496</link>
+<pubDate>Sun, 26 Oct 2025 15:09:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
