@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 11:34:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 12:21:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope condemns antisemitism and vows to fight it as tensions rise over Israel’s war in Gaza]]></title>
 <link>https://apnews.com/article/vatican-jews-antisemitism-pope-leo-israel-gaza-af7987271634fe19f55e1a8abb76b740</link>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Paris police acknowledge major gaps in Louvre’s defenses after jewel theft]]></title>
+<link>https://apnews.com/article/france-paris-louvre-heist-jewels-police-c716ba577cf83390645ae0ba5a023835</link>
+<pubDate>Wed, 29 Oct 2025 12:13:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan’s Defense Minister warns Afghanistan of stern response to any new militant attacks]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-ceasefire-talks-defense-minister-3e7e501a6cb0a812de88afcea6252d58</link>
 <pubDate>Wed, 29 Oct 2025 11:08:51 -0000</pubDate>
@@ -212,6 +218,12 @@
 <title><![CDATA[Germany to give more than $1 billion for Holocaust survivors’ home care in 2026]]></title>
 <link>https://apnews.com/article/germany-claims-conference-holocaust-compensation-067ab3701de6587cb7992988e96b91fb</link>
 <pubDate>Wed, 29 Oct 2025 05:40:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 men face sentencing in plot to kill Iranian American journalist]]></title>
+<link>https://apnews.com/article/iran-assassination-plot-journalist-masih-alinejad-055b2e2a7079d96ce8b759b0750f9420</link>
+<pubDate>Wed, 29 Oct 2025 04:36:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US launches strikes on 4 alleged drug-running boats in the eastern Pacific, killing 14]]></title>
-<link>https://apnews.com/article/drug-cartels-hegseth-pacific-8f9f65dd67c0bc55b6dd70b109df0216</link>
-<pubDate>Tue, 28 Oct 2025 19:26:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lawmakers move to extend Russia’s compulsory military draft to a year-round process]]></title>
-<link>https://apnews.com/article/russia-military-conscription-draft-ukraine-war-9849511e45f7b7db596103fd71e69bae</link>
-<pubDate>Tue, 28 Oct 2025 14:36:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel’s military says ceasefire is back on as death toll from overnight strikes in Gaza reaches 104]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-445eea84db9c19600b9ab92786b7fb7c</link>
 <pubDate>Wed, 29 Oct 2025 10:42:50 -0000</pubDate>
@@ -359,15 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump scores golden gifts but no investment dollars during South Korea visit]]></title>
-<link>https://apnews.com/article/donald-trump-south-korea-apec-japan-1b90209dcda1aa72eea323fadc90b9b1</link>
-<pubDate>Wed, 29 Oct 2025 09:23:42 -0000</pubDate>
+<title><![CDATA[US government allowed and even helped US firms sell tech used for surveillance in China, AP finds]]></title>
+<link>https://apnews.com/article/chinese-surveillance-silicon-valley-trump-administration-congress-21c5f961b1fd22f9a9e563ebe64e5582</link>
+<pubDate>Wed, 29 Oct 2025 11:58:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dutch vote in a knife-edge election focused on housing and Wilders]]></title>
-<link>https://apnews.com/article/netherlands-election-wilders-vote-politics-ea2d6658617679e888c8853597d9b671</link>
-<pubDate>Wed, 29 Oct 2025 09:08:42 -0000</pubDate>
+<title><![CDATA[From beaches to ski slopes, photos show how cameras keep watch all over China]]></title>
+<link>https://apnews.com/photo-gallery/china-surveillance-security-cameras-photo-gallery-c68debcc6d750b36985b99132df4f784</link>
+<pubDate>Wed, 29 Oct 2025 11:43:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump scores golden gifts as United States and Seoul advance trade talks]]></title>
+<link>https://apnews.com/article/donald-trump-south-korea-apec-japan-1b90209dcda1aa72eea323fadc90b9b1</link>
+<pubDate>Wed, 29 Oct 2025 11:28:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +443,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Missing government data not likely to sway Federal Reserve from rate-cut path]]></title>
+<title><![CDATA[Missing government data unlikely to sway Federal Reserve from rate-cut path]]></title>
 <link>https://apnews.com/article/federal-reserve-cut-inflation-jobs-e689e1397856aa24ffebdaaefa9762a2</link>
-<pubDate>Wed, 29 Oct 2025 05:08:38 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 11:13:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[China pitches itself as alternative to US protectionism after signing expanded ASEAN free trade pact]]></title>
 <link>https://apnews.com/article/asean-china-free-trade-trump-8a9d0f1ed5e87ebba4b5798275cd3605</link>
 <pubDate>Tue, 28 Oct 2025 04:26:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dutch vote in a knife-edge election focused on housing and Wilders]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-vote-politics-ea2d6658617679e888c8853597d9b671</link>
+<pubDate>Wed, 29 Oct 2025 09:08:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polls open in Tanzania as ruling party seeks to extend decades in power]]></title>
+<title><![CDATA[Internet disrupted in Tanzania on election day as ruling party seeks to extend decades in power]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-d897483abe5a34c1b02422e7adc5891a</link>
-<pubDate>Wed, 29 Oct 2025 04:14:50 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 10:58:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia wins the toss and sends India in to bat in Twenty20 series opener at Canberra]]></title>
+<title><![CDATA[Rain washes out Twenty20 series opener between Australia and India]]></title>
 <link>https://apnews.com/article/australia-india-cricket-t20-6f2cf8daae7397cc06ef1e94d9e19a22</link>
-<pubDate>Wed, 29 Oct 2025 08:38:42 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 10:43:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
