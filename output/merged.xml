@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 04:17:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 04:44:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
 <link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 men face sentencing in plot to kill Iranian American journalist]]></title>
+<link>https://apnews.com/article/iran-assassination-plot-journalist-masih-alinejad-055b2e2a7079d96ce8b759b0750f9420</link>
+<pubDate>Wed, 29 Oct 2025 04:36:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[WWI soldiers’ messages in a bottle found on Australian beach more than 100 years later]]></title>
 <link>https://apnews.com/article/australia-letters-bottle-beach-wwi-soldiers-5504498cc456cd920c6a314ae4d4f19c</link>
 <pubDate>Wed, 29 Oct 2025 03:32:14 -0000</pubDate>
@@ -206,6 +212,12 @@
 <title><![CDATA[Hurricane Melissa is among the most powerful Atlantic hurricanes on record]]></title>
 <link>https://apnews.com/article/hurricane-melissa-strongest-storms-atlantic-6894a55f21f7d306a199ce0ce2f8acde</link>
 <pubDate>Tue, 28 Oct 2025 19:56:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tanzanians head to polls amid human rights concerns and weakened opposition]]></title>
+<link>https://apnews.com/article/tanzania-elections-samia-suluhu-hassan-326a572335e2ac567d44df30d1dc7cbf</link>
+<pubDate>Wed, 29 Oct 2025 04:21:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prunella Scales, who played Sybil in British sitcom ‘Fawlty Towers,’ dies at 93]]></title>
-<link>https://apnews.com/article/prunella-scales-fawlty-towers-actor-obituary-491b614ede449ba19166e945657c16fa</link>
-<pubDate>Tue, 28 Oct 2025 11:35:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Mike Waltz is leading the Trump administration’s ‘a la carte’ approach to UN funding]]></title>
-<link>https://apnews.com/article/mike-waltz-trump-united-nations-funding-aid-8bf9fe9aa628d11a95ab4627f1e11013</link>
-<pubDate>Tue, 28 Oct 2025 15:42:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vietnam’s tourist sites submerged as record rainfall causes major flooding]]></title>
-<link>https://apnews.com/article/vietnam-floods-record-rainfall-3492e2748c8504392943f21b5df5079a</link>
-<pubDate>Tue, 28 Oct 2025 22:54:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Category 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-landfall-cuba-bahamas-8f71433722c9963554421d9258cd4d6b</link>
 <pubDate>Tue, 28 Oct 2025 18:48:49 -0000</pubDate>
@@ -377,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump-Xi meeting looms over APEC conference in South Korea as free trade falters]]></title>
-<link>https://apnews.com/article/south-korea-trump-xi-apec-tariffs-gyeongju-2f757a6ea64284fb6bf792aba8b214fb</link>
-<pubDate>Wed, 29 Oct 2025 03:35:23 -0000</pubDate>
+<title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest]]></title>
+<link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
+<pubDate>Tue, 28 Oct 2025 23:51:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,6 +398,12 @@
 <title><![CDATA[Trump dances as performers welcome him on arrival in Malaysia]]></title>
 <link>https://apnews.com/video/trump-showcases-trademark-campaign-dance-moves-as-performers-welcome-him-on-arrival-in-malaysia-1a526313d056460a98ff8c52aaa8b282</link>
 <pubDate>Tue, 28 Oct 2025 00:08:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s decision to send aircraft carrier to South America will leave Mideast and Europe with none]]></title>
+<link>https://apnews.com/article/aircraft-carriers-trump-venezuela-middle-east-a458b9c4f1a5690e19d7c532dd6b7fd7</link>
+<pubDate>Wed, 29 Oct 2025 04:44:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,27 +455,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s long-range strikes cut Russia’s oil refining capacity by 20%, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-oil-refineries-zelenskyy-fa04014c6c1bdf0e15123d898c491b03</link>
-<pubDate>Tue, 28 Oct 2025 10:27:38 -0000</pubDate>
+<title><![CDATA[Dutch voters head to polls in a knife-edge election focused on housing and Wilders]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-vote-politics-ea2d6658617679e888c8853597d9b671</link>
+<pubDate>Wed, 29 Oct 2025 04:29:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea touts missile tests as Trump visits South Korea]]></title>
-<link>https://apnews.com/article/north-korea-missiles-611a288d8f6cb02f5d43bb5db70204f8</link>
-<pubDate>Wed, 29 Oct 2025 02:02:02 -0000</pubDate>
+<title><![CDATA[Trump-Xi meeting looms over APEC conference in South Korea as free trade falters]]></title>
+<link>https://apnews.com/article/south-korea-trump-xi-apec-tariffs-gyeongju-2f757a6ea64284fb6bf792aba8b214fb</link>
+<pubDate>Wed, 29 Oct 2025 03:35:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest]]></title>
-<link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
-<pubDate>Tue, 28 Oct 2025 23:51:05 -0000</pubDate>
+<title><![CDATA[Conflicting accounts emerge after UN peacekeepers shoot down Israeli drone]]></title>
+<link>https://apnews.com/article/lebanon-israel-unifil-drone-3352c555e3c93b60619b4eada8e20028</link>
+<pubDate>Mon, 27 Oct 2025 14:24:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tanzanians head to polls amid human rights concerns and weakened opposition]]></title>
-<link>https://apnews.com/article/tanzania-elections-samia-suluhu-hassan-326a572335e2ac567d44df30d1dc7cbf</link>
-<pubDate>Wed, 29 Oct 2025 01:47:02 -0000</pubDate>
+<title><![CDATA[Polls open in Tanzania as ruling party seeks to extend decades in power]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-d897483abe5a34c1b02422e7adc5891a</link>
+<pubDate>Wed, 29 Oct 2025 04:14:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
