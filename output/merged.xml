@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 03:35:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 04:17:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
+<link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
+<pubDate>Tue, 28 Oct 2025 20:34:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Tunisian court suspends prominent human rights groups as crackdown progresses]]></title>
 <link>https://apnews.com/article/tunisia-rights-groups-suspended-saied-14aa0487e7c0b7d08873cde90266a8be</link>
 <pubDate>Tue, 28 Oct 2025 18:27:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Conflicting accounts emerge after UN peacekeepers shoot down Israeli drone]]></title>
-<link>https://apnews.com/article/lebanon-israel-unifil-drone-3352c555e3c93b60619b4eada8e20028</link>
-<pubDate>Wed, 29 Oct 2025 01:55:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says peace talks with Afghanistan’s Taliban government in Istanbul failed after four days]]></title>
+<title><![CDATA[Pakistan says peace talks with Afghanistan’s Taliban government in Istanbul failed after 4 days]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-peace-talks-stalled-istanbul-a82bd2ea927a6096a58f784ba9579e82</link>
-<pubDate>Wed, 29 Oct 2025 01:40:35 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 04:04:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Hurricane Melissa]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
-<pubDate>Wed, 29 Oct 2025 00:35:15 -0000</pubDate>
+<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
+<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
+<pubDate>Mon, 27 Oct 2025 21:05:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some 4 years after fleeing Afghanistan, a group of refugees returns to international competition]]></title>
-<link>https://apnews.com/article/afghanistan-womens-soccer-fifa-8bffc8d0197b42f2376277a6a1675b43</link>
-<pubDate>Tue, 28 Oct 2025 21:35:17 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV will pray at the site of the 2020 Beirut port blast in his first foreign trip]]></title>
+<link>https://apnews.com/article/pope-leo-beirut-port-blast-45061fde4569f0a9e78e46a643ca4539</link>
+<pubDate>Wed, 29 Oct 2025 03:49:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +218,12 @@
 <title><![CDATA[US embassy urges Americans to leave Mali due to a fuel crisis linked to a militant group]]></title>
 <link>https://apnews.com/article/mali-security-jnim-us-embassy-832d3b2958d9ce379cda0cedf4f37e3e</link>
 <pubDate>Wed, 29 Oct 2025 00:51:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Hurricane Melissa]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
+<pubDate>Wed, 29 Oct 2025 03:17:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,12 +425,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude 6.1 earthquake hits western Turkey, causing buildings to collapse]]></title>
-<link>https://apnews.com/article/turkey-strong-earthquake-balikesir-3bd28e36e6eb618fffb9b15f1fac4321</link>
-<pubDate>Mon, 27 Oct 2025 20:45:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A neglected and ancient trade in Spain gets a boost from African migrants]]></title>
 <link>https://apnews.com/article/spain-migrants-shepherds-agriculture-depopulation-ce0419d5dcd592f3a28b788aae0028e9</link>
 <pubDate>Sat, 25 Oct 2025 07:15:10 -0000</pubDate>
@@ -470,12 +470,6 @@
 <title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest]]></title>
 <link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
 <pubDate>Tue, 28 Oct 2025 23:51:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV will pray at the site of the 2020 Beirut port blast in his first foreign trip]]></title>
-<link>https://apnews.com/article/pope-leo-beirut-port-blast-45061fde4569f0a9e78e46a643ca4539</link>
-<pubDate>Mon, 27 Oct 2025 13:07:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
