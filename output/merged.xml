@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 23:10:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 23:35:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gaza ceasefire tested as Israel and Hamas exchange fire and blame]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll in Brazilian police raid rises to 119, drawing criticism of excessive force]]></title>
+<link>https://apnews.com/article/brazil-favela-deaths-f2e7366d98790c5c90e7996ec8b3282f</link>
+<pubDate>Wed, 29 Oct 2025 23:17:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN condemns US embargo on Cuba for a 33rd year, but Washington’s stand draws bit more support]]></title>
 <link>https://apnews.com/article/cuba-embargo-us-un-general-assembly-9c48b48775f0089ba7c0156590c3a86e</link>
 <pubDate>Wed, 29 Oct 2025 21:09:25 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[What to know about Hurricane Melissa as death toll rises]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
 <pubDate>Wed, 29 Oct 2025 18:47:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s decision to send aircraft carrier to South America will leave Mideast and Europe with none]]></title>
-<link>https://apnews.com/article/aircraft-carriers-trump-venezuela-middle-east-a458b9c4f1a5690e19d7c532dd6b7fd7</link>
-<pubDate>Wed, 29 Oct 2025 13:42:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[DOJ prepares to send election monitors to California, New Jersey following requests from state GOPs]]></title>
+<link>https://apnews.com/article/doj-election-monitors-new-jersey-california-voting-30d355a9ced990218772eeff1b6642b3</link>
+<pubDate>Fri, 24 Oct 2025 14:27:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Jurors convict Illinois deputy of killing Sonya Massey but can’t agree on first-degree murder charge]]></title>
+<link>https://apnews.com/article/sean-grayson-sonya-massey-trial-34a5cb31ad44c6243d17cc4f598a9d5c</link>
+<pubDate>Wed, 29 Oct 2025 23:02:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jury convicts activist who took chickens from Purdue plant]]></title>
 <link>https://apnews.com/article/animal-activist-california-trial-purdue-chickens-9e53ecb2b84085de013c7abe17682a7c</link>
 <pubDate>Wed, 29 Oct 2025 21:55:33 -0000</pubDate>
@@ -104,18 +116,6 @@
 <title><![CDATA[What shutdown? Trump isn’t canceling travel, golf or his ballroom even with the government shuttered]]></title>
 <link>https://apnews.com/article/trump-shutdown-government-business-normal-cebf7f8d2ff64a98328460d4a0a8deb3</link>
 <pubDate>Wed, 29 Oct 2025 19:35:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Appeals court blocks order requiring Bovino to brief judge on Chicago immigration sweeps]]></title>
-<link>https://apnews.com/article/chicago-illinois-bovino-ice-immigration-506c9c661ee75f3e955f346daeed5555</link>
-<pubDate>Wed, 29 Oct 2025 21:40:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Louisiana and Virginia take steps toward redistricting in a growing battle for US House power]]></title>
-<link>https://apnews.com/article/redistricting-congress-louisiana-virginia-maryland-illinois-62e8d176a07138cf2765969ee3a707fb</link>
-<pubDate>Wed, 29 Oct 2025 20:54:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s decision to send aircraft carrier to South America will leave Mideast and Europe with none]]></title>
+<link>https://apnews.com/article/aircraft-carriers-trump-venezuela-middle-east-a458b9c4f1a5690e19d7c532dd6b7fd7</link>
+<pubDate>Wed, 29 Oct 2025 23:03:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[WWI soldiers’ messages in a bottle found on Australian beach more than 100 years later]]></title>
 <link>https://apnews.com/article/australia-letters-bottle-beach-wwi-soldiers-5504498cc456cd920c6a314ae4d4f19c</link>
 <pubDate>Wed, 29 Oct 2025 03:32:14 -0000</pubDate>
@@ -464,12 +470,6 @@
 <title><![CDATA[Tanzania deploys the military and imposes a curfew on election day after protests erupt]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-d897483abe5a34c1b02422e7adc5891a</link>
 <pubDate>Wed, 29 Oct 2025 15:43:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jurors convict Illinois deputy of killing Sonya Massey but can’t agree on first-degree murder charge]]></title>
-<link>https://apnews.com/article/sean-grayson-sonya-massey-trial-34a5cb31ad44c6243d17cc4f598a9d5c</link>
-<pubDate>Wed, 29 Oct 2025 20:35:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
