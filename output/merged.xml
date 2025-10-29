@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 17:39:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 18:16:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump’s decision to send aircraft carrier to South America will leave Mideast and Europe with none]]></title>
 <link>https://apnews.com/article/aircraft-carriers-trump-venezuela-middle-east-a458b9c4f1a5690e19d7c532dd6b7fd7</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Hurricane Melissa]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
-<pubDate>Wed, 29 Oct 2025 00:35:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest]]></title>
 <link>https://apnews.com/article/brazil-police-operation-favelas-25d6122a15c261b9b1275a7b2f361393</link>
 <pubDate>Wed, 29 Oct 2025 13:12:21 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[Melissa is a beast among a string of monster Atlantic storms. Scientists explain]]></title>
 <link>https://apnews.com/article/hurricane-jamaica-melissa-global-warming-climate-8a409c1206f55ea45b372c892ff894b3</link>
 <pubDate>Wed, 29 Oct 2025 07:16:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump]]></title>
+<link>https://apnews.com/article/argentina-midterms-javier-milei-libertarian-president-donald-trump-scott-bessent-569a02801eced75426ddd6dfcbb279b9</link>
+<pubDate>Mon, 27 Oct 2025 21:05:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,21 +89,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ivory Coast President Alassane Ouattara reelected to fourth term, early results show]]></title>
-<link>https://apnews.com/article/ivory-coast-alassane-ouattara-reelected-president-0683f6d1f3f7f418a9dc85d81cd5990c</link>
-<pubDate>Mon, 27 Oct 2025 17:07:23 -0000</pubDate>
+<title><![CDATA[Budapest boxing club says board member, family among 11 killed in Kenya plane crash]]></title>
+<link>https://apnews.com/article/kenya-plane-crash-kwale-maasai-mara-hungary-73bccee015231d1343bbebe029eb5fdb</link>
+<pubDate>Wed, 29 Oct 2025 17:58:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal trial over Trump’s National Guard deployment in Portland begins]]></title>
-<link>https://apnews.com/article/portland-oregon-troops-deploy-trump-immergut-b55f63e2139afc334ae1958d78811875</link>
-<pubDate>Wed, 29 Oct 2025 16:23:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge orders daily meetings with Border Patrol official Bovino on Chicago immigration crackdown]]></title>
-<link>https://apnews.com/article/chicago-illinois-ice-border-patrol-immigration-bovino-d1cf9ce5309f0175a24fdd276f52f06c</link>
-<pubDate>Wed, 29 Oct 2025 09:59:33 -0000</pubDate>
+<title><![CDATA[Border Patrol’s Bovino due in court for first check-in on Chicago immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-illinois-bovino-ice-immigration-506c9c661ee75f3e955f346daeed5555</link>
+<pubDate>Wed, 29 Oct 2025 17:43:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as federal food help and preschool aid will run dry Saturday if shutdown persists]]></title>
-<link>https://apnews.com/article/shutdown-snap-wic-head-start-ddc8a5f6bb6b49150ff478eae9d454d5</link>
-<pubDate>Wed, 29 Oct 2025 16:08:58 -0000</pubDate>
+<title><![CDATA[Lawyers for British political commentator Sami Hamdi are challenging his U.S. detention in court]]></title>
+<link>https://apnews.com/article/sami-hamdi-british-muslim-commentator-immigration-detained-294da99aba1794fc7aed4fe39ca426b4</link>
+<pubDate>Wed, 29 Oct 2025 17:28:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A man who spent 43 years in prison before his conviction was overturned now faces deportation]]></title>
+<link>https://apnews.com/article/exoneration-india-penn-state-murder-immigration-9bf5f64cac770e82866501e013fce2f1</link>
+<pubDate>Wed, 29 Oct 2025 17:13:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about Hurricane Melissa]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-cuba-landslide-rain-flood-d7d120b8443b1630d12c77e0a3fe25b0</link>
+<pubDate>Tue, 28 Oct 2025 17:03:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tanzania deploys the military and imposes a curfew on election day after protests erupt]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-d897483abe5a34c1b02422e7adc5891a</link>
 <pubDate>Wed, 29 Oct 2025 15:43:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal trial over Trump’s National Guard deployment in Portland begins]]></title>
+<link>https://apnews.com/article/portland-oregon-troops-deploy-trump-immergut-b55f63e2139afc334ae1958d78811875</link>
+<pubDate>Wed, 29 Oct 2025 16:24:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
