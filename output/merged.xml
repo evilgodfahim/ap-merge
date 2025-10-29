@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 10:11:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 10:42:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN human rights investigator delivers Gaza report from South Africa because of US sanctions]]></title>
 <link>https://apnews.com/article/united-nations-israel-gaza-human-rights-albanese-e1a4fbde166e34bc8d305bfbf6e2bd51</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Germany to give more than $1 billion for Holocaust survivors’ home care in 2026]]></title>
-<link>https://apnews.com/article/germany-claims-conference-holocaust-compensation-067ab3701de6587cb7992988e96b91fb</link>
-<pubDate>Wed, 29 Oct 2025 08:21:20 -0000</pubDate>
+<title><![CDATA[Rescue operations underway after 7-story building collapses in northwest Turkey]]></title>
+<link>https://apnews.com/article/turkey-building-collapsed-gebze-647f00eb833528e64e067b5cec7e6518</link>
+<pubDate>Wed, 29 Oct 2025 10:29:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cyclone Montha weakens after battering India’s eastern coast with rain and wind]]></title>
-<link>https://apnews.com/article/montha-cyclone-andhra-pradesh-odisha-959c992108e6da43e3fb9f342dd0ca02</link>
-<pubDate>Wed, 29 Oct 2025 04:09:14 -0000</pubDate>
+<title><![CDATA[Deadly floods batter central Vietnam, killing at least 10]]></title>
+<link>https://apnews.com/article/vietnam-floods-danang-hue-quang-ngai-6ab1f9b8501222680f144683c2c7a182</link>
+<pubDate>Wed, 29 Oct 2025 10:14:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chicago’s children are getting caught in the chaos of immigration crackdowns]]></title>
-<link>https://apnews.com/article/chicago-immigration-trump-crackdown-school-children-c9a19835cac13c0fbbebcc9f4bf4f0a2</link>
-<pubDate>Tue, 28 Oct 2025 10:13:29 -0000</pubDate>
+<title><![CDATA[Judge orders daily meetings with Border Patrol official Bovino on Chicago immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-illinois-ice-border-patrol-immigration-bovino-d1cf9ce5309f0175a24fdd276f52f06c</link>
+<pubDate>Wed, 29 Oct 2025 09:59:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Court disqualifies Trump-appointed US attorney from overseeing multiple criminal cases]]></title>
+<link>https://apnews.com/article/federal-prosecutor-disqualified-los-angeles-trump-669a6ba5c4a5cd6368033f1e31fa931f</link>
+<pubDate>Wed, 29 Oct 2025 09:44:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The East Wing demolition was ‘jarring.’ But a White House history buff sees a silver lining]]></title>
-<link>https://apnews.com/article/trump-ballroom-white-house-east-wing-mclaurin-f3ca84b49843b3eb3c14ad6d48f117c3</link>
-<pubDate>Wed, 29 Oct 2025 01:10:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In a California GOP stronghold, voters are not happy with Newsom’s plan to help Democrats]]></title>
-<link>https://apnews.com/article/california-house-gerrymandering-gavin-newsom-trump-2a12e97b48e2b6bdfe6891264756ff9c</link>
-<pubDate>Tue, 28 Oct 2025 23:16:56 -0000</pubDate>
+<title><![CDATA[2 men face sentencing in plot to kill Iranian American journalist]]></title>
+<link>https://apnews.com/article/iran-assassination-plot-journalist-masih-alinejad-055b2e2a7079d96ce8b759b0750f9420</link>
+<pubDate>Wed, 29 Oct 2025 09:29:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cyclone Montha weakens after battering India’s eastern coast with rain and wind]]></title>
+<link>https://apnews.com/article/montha-cyclone-andhra-pradesh-odisha-959c992108e6da43e3fb9f342dd0ca02</link>
+<pubDate>Wed, 29 Oct 2025 04:09:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India conducts cloud-seeding trial to clear New Delhi’s smog]]></title>
 <link>https://apnews.com/article/india-pollution-cloud-seeding-artificial-rain-db5652e3cb33937422b3dc69263a59a3</link>
 <pubDate>Wed, 29 Oct 2025 08:39:56 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Cyclone Montha making landfall in India, threatening millions with torrential rains and gusty winds]]></title>
 <link>https://apnews.com/article/cyclone-montha-andhra-pradesh-odisha-09123bce1ccc6ec9a3a2d670feb98ce6</link>
 <pubDate>Tue, 28 Oct 2025 22:39:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India’s hopes hit as Pratika Rawal ruled out of Women’s Cricket World Cup semifinals]]></title>
-<link>https://apnews.com/article/pratika-rawal-womens-cricket-world-cup-df5cc51b4f0914d6820a00c44b90d955</link>
-<pubDate>Tue, 28 Oct 2025 09:13:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s military says ceasefire is back on as death toll from overnight strikes in Gaza reaches 81]]></title>
+<title><![CDATA[Israel’s military says ceasefire is back on as death toll from overnight strikes in Gaza reaches 104]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-445eea84db9c19600b9ab92786b7fb7c</link>
-<pubDate>Wed, 29 Oct 2025 09:38:42 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 10:42:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge orders daily meetings with Border Patrol official Bovino on Chicago immigration crackdown]]></title>
-<link>https://apnews.com/article/chicago-illinois-ice-border-patrol-immigration-bovino-d1cf9ce5309f0175a24fdd276f52f06c</link>
-<pubDate>Tue, 28 Oct 2025 16:18:38 -0000</pubDate>
+<title><![CDATA[Federal trial to start over Trump’s efforts to deploy the National Guard in Portland, Oregon]]></title>
+<link>https://apnews.com/article/portland-oregon-troops-deploy-trump-immergut-b55f63e2139afc334ae1958d78811875</link>
+<pubDate>Wed, 29 Oct 2025 10:27:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
