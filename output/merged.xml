@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Oct 2025 14:41:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 15:11:55 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Israel has erected nearly 1,000 barriers in the West Bank during the war in Gaza, group says]]></title>
-<link>https://apnews.com/article/israel-west-bank-palestinians-restrictions-barriers-09762522daaa4483af5ad02784935dd1</link>
-<pubDate>Thu, 30 Oct 2025 12:04:52 -0000</pubDate>
+<title><![CDATA[Sudan war takes a turn as paramilitary force captures Darfur, threatening to split the country]]></title>
+<link>https://apnews.com/article/sudan-rsf-war-darfur-d22aba25401c5e4981b9ddd9612d5ecd</link>
+<pubDate>Thu, 30 Oct 2025 15:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes]]></title>
-<link>https://apnews.com/article/netanyahu-hamas-gaza-ceasefire-truce-takeaways-5cdf0486ca32e0dc5ce8d1c478dfa0fa</link>
-<pubDate>Thu, 30 Oct 2025 11:49:52 -0000</pubDate>
+<title><![CDATA[Israeli raid in southern Lebanon kills municipal employee, sparking protests]]></title>
+<link>https://apnews.com/article/lebanon-israel-blida-hezbollah-aoun-unifil-army-681688146f9a446e942d1be57675b48b</link>
+<pubDate>Thu, 30 Oct 2025 14:56:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Neck-and-neck finish in Dutch election as Wilders’ far-right party and centrist D66 tie]]></title>
-<link>https://apnews.com/article/netherlands-election-wilders-jetten-coalition-01116b4c83723994f7832128ac6cca8c</link>
-<pubDate>Thu, 30 Oct 2025 13:55:52 -0000</pubDate>
+<title><![CDATA[The top photos of the week by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-week-global-gallery-9e251a0073554c2002d55a80607c3917</link>
+<pubDate>Thu, 30 Oct 2025 14:41:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,21 +59,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The death toll from a massive police raid in Rio de Janeiro rises to 121]]></title>
+<link>https://apnews.com/article/brazil-police-raid-rio-de-janeiro-favela-7e7951f400615914cf5dcff6bf7e5959</link>
+<pubDate>Thu, 30 Oct 2025 14:26:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protests erupt after police raid in Brazil leaves 119 dead and draws accusations of excessive force]]></title>
 <link>https://apnews.com/article/brazil-favela-deaths-f2e7366d98790c5c90e7996ec8b3282f</link>
 <pubDate>Wed, 29 Oct 2025 23:50:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Citing AP investigation, senators demand answers on use of full-body restraints during deportations]]></title>
-<link>https://apnews.com/article/immigration-deportations-wrap-senators-letter-55acd1dc304ce16c9f560d271819e78e</link>
-<pubDate>Thu, 30 Oct 2025 13:40:52 -0000</pubDate>
+<title><![CDATA[Israel has erected nearly 1,000 barriers in the West Bank during the war in Gaza, group says]]></title>
+<link>https://apnews.com/article/israel-west-bank-palestinians-restrictions-barriers-09762522daaa4483af5ad02784935dd1</link>
+<pubDate>Thu, 30 Oct 2025 12:04:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Imprisoned Bahrain activist Abdulhadi al-Khawaja starts hunger strike over his detention]]></title>
-<link>https://apnews.com/article/bahrain-abdulhadi-khawaja-hunger-strike-728a9e7928800941ac8d97454185de02</link>
-<pubDate>Thu, 30 Oct 2025 00:20:30 -0000</pubDate>
+<title><![CDATA[Citing AP investigation, senators demand answers on use of full-body restraints during deportations]]></title>
+<link>https://apnews.com/article/immigration-deportations-wrap-senators-letter-55acd1dc304ce16c9f560d271819e78e</link>
+<pubDate>Thu, 30 Oct 2025 13:40:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[Nigeria’s Nobel laureate Wole Soyinka says US visa was revoked after Trump criticism]]></title>
 <link>https://apnews.com/article/wole-soyinka-us-visa-nigeria-nobel-trump-0e7408f983faab15c007537e81389658</link>
 <pubDate>Wed, 29 Oct 2025 16:38:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Amnesty says US strike on a Yemen prison that killed dozens of African migrants may be a war crime]]></title>
-<link>https://apnews.com/article/yemen-us-airstrike-prison-amnesty-international-710c55d50312b5488aa6fd762b12ea2c</link>
-<pubDate>Wed, 29 Oct 2025 11:17:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,27 +401,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Greek airline will run direct flights to Baghdad starting in December]]></title>
+<link>https://apnews.com/article/iraq-greece-direct-baghdad-flights-european-union-d772a0e15f6c4ac3c04fcd115810219a</link>
+<pubDate>Thu, 30 Oct 2025 15:08:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s military says ceasefire is back on as death toll from Gaza strikes reaches 104]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-445eea84db9c19600b9ab92786b7fb7c</link>
+<pubDate>Thu, 30 Oct 2025 02:27:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sudan’s paramilitary forces killed hundreds at a hospital in Darfur, residents and aid workers say]]></title>
 <link>https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa</link>
 <pubDate>Thu, 30 Oct 2025 02:12:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan war takes a turn as paramilitary force captures Darfur, threatening to split the country]]></title>
-<link>https://apnews.com/article/sudan-rsf-war-darfur-d22aba25401c5e4981b9ddd9612d5ecd</link>
-<pubDate>Wed, 29 Oct 2025 12:51:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli raid in southern Lebanon kills municipal employee, sparking protests]]></title>
-<link>https://apnews.com/article/lebanon-israel-blida-hezbollah-aoun-unifil-army-681688146f9a446e942d1be57675b48b</link>
-<pubDate>Thu, 30 Oct 2025 10:59:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Grand Egyptian Museum showcasing 50,000 artifacts is finally opening]]></title>
-<link>https://apnews.com/article/egypt-antiquities-museum-gem-pyramids-aed6788fecced85cbfcb32509124b0b6</link>
-<pubDate>Thu, 30 Oct 2025 05:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,6 +458,12 @@
 <title><![CDATA[Haiti, Jamaica and Cuba pick up the pieces after Melissa’s destruction]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-flooding-96bada7a26013c3cf4048d8390cc08f6</link>
 <pubDate>Thu, 30 Oct 2025 06:01:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The Grand Egyptian Museum showcasing 50,000 artifacts is finally opening]]></title>
+<link>https://apnews.com/article/egypt-antiquities-museum-gem-pyramids-aed6788fecced85cbfcb32509124b0b6</link>
+<pubDate>Thu, 30 Oct 2025 05:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
