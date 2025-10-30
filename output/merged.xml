@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Oct 2025 17:10:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 17:39:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan’s paramilitary forces killed hundreds at a hospital in Darfur, residents and aid workers say]]></title>
 <link>https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[GOP lawmakers urge Trump administration back Falun Gong lawsuit against Cisco]]></title>
+<link>https://apnews.com/article/cisco-falun-gong-china-human-rights-abuses-aedf0b83212d0692e6fafe29345c04a1</link>
+<pubDate>Thu, 30 Oct 2025 17:24:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US will share tech to let South Korea build a nuclear-powered submarine, Trump says]]></title>
 <link>https://apnews.com/article/nuclear-powered-submarine-trump-south-korea-ce3ad17d6288573696bf42ca089e76c5</link>
 <pubDate>Thu, 30 Oct 2025 10:45:52 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[China says it’s on track to land astronauts on the moon by 2030 ahead of space station mission]]></title>
 <link>https://apnews.com/article/china-tiangong-space-station-moon-landing-2030-0a9834bb0790c7f57a6bb8bbf4bcdcb3</link>
 <pubDate>Thu, 30 Oct 2025 04:34:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean and Japanese leaders vow to improve ties in face of global uncertainty]]></title>
-<link>https://apnews.com/article/south-korea-japan-lee-takaichi-trump-apec-7bbbb21ef6c4d6ebc4fe986691ae354a</link>
-<pubDate>Thu, 30 Oct 2025 13:05:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protests in Tanzania spread after a disputed election, with the military on the streets]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-protests-f3727b56c50c256d2d083632594aa5e6</link>
+<pubDate>Thu, 30 Oct 2025 17:09:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sudan war takes a turn as paramilitary force captures Darfur, threatening to split the country]]></title>
 <link>https://apnews.com/article/sudan-rsf-war-darfur-d22aba25401c5e4981b9ddd9612d5ecd</link>
 <pubDate>Thu, 30 Oct 2025 15:11:53 -0000</pubDate>
@@ -89,33 +95,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Morocco charges more than 2,400 people over Gen Z protests]]></title>
-<link>https://apnews.com/article/morocco-anti-government-protests-arrests-b8630037bc2f3c1fa05dd70f0d10c188</link>
-<pubDate>Wed, 29 Oct 2025 18:32:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge to consider demand to force the government to keep funding SNAP food aid despite the shutdown]]></title>
-<link>https://apnews.com/article/snap-food-aid-ruling-shutdown-trump-09f9807264385f0beab61a68dcbbdd66</link>
-<pubDate>Thu, 30 Oct 2025 13:25:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Erika Kirk’s words spotlight forgiveness in a divided nation]]></title>
-<link>https://apnews.com/article/erika-kirk-forgiveness-charlie-kirk-assassination-faith-efac5affba595080025e0249a4d911f4</link>
-<pubDate>Thu, 30 Oct 2025 10:49:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Last-minute scramble over pay takes a toll on military families during the shutdown]]></title>
-<link>https://apnews.com/article/troop-pay-shutdown-military-congress-trump-961b81b2990ac1bd03041e5586028764</link>
-<pubDate>Thu, 30 Oct 2025 15:13:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Storm reveals artifacts preserved in Quinhagak permafrost]]></title>
 <link>https://apnews.com/article/artifacts-typhoon-halong-yupik-alaska-10c481ec12352dbc2771a40b8f7a53cf</link>
 <pubDate>Thu, 30 Oct 2025 09:12:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How Americans feel about changing the clocks, according to a new AP-NORC poll]]></title>
+<link>https://apnews.com/article/daylight-saving-time-clocks-back-08069f6389b26db6ee27313f116069cb</link>
+<pubDate>Thu, 30 Oct 2025 12:35:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Felony dropped after a man spent a month in a Tennessee jail for a Charlie Kirk post]]></title>
+<link>https://apnews.com/article/charlie-kirk-meme-tennessee-arrest-larry-bushart-02b445f454bcfb657a48e8fa7e8ddfc9</link>
+<pubDate>Thu, 30 Oct 2025 16:54:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Maine network ends primary care after losing Medicaid due to Trump defunding Planned Parenthood]]></title>
+<link>https://apnews.com/article/planned-parenthood-medicaid-maine-lawsuit-07a8fafe4b2bdad15945fb2f0a443bcd</link>
+<pubDate>Thu, 30 Oct 2025 16:39:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China says it will work with US to resolve issues related to TikTok]]></title>
+<link>https://apnews.com/article/china-tiktok-trump-bytedance-jinping-f9d15903dd1b9bd92602838a79088710</link>
+<pubDate>Thu, 30 Oct 2025 16:24:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
 <link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
 <pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AI chipmaker Nvidia is the first $5 trillion company]]></title>
-<link>https://apnews.com/article/nvidia-trillion-ai-apple-huang-trump-xi-c9bbf5cfa017dadaf248a4d197763cb9</link>
-<pubDate>Wed, 29 Oct 2025 15:53:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How ‘Love is Blind’ is reshaping global views on love, from Japan to Brazil]]></title>
-<link>https://apnews.com/article/love-is-blind-international-editions-fecb8349912fa1e47d412890644747de</link>
-<pubDate>Thu, 30 Oct 2025 16:27:03 -0000</pubDate>
+<title><![CDATA[Germany’s Merz urges deeper European ties with Turkey despite disagreement on Gaza]]></title>
+<link>https://apnews.com/article/turkey-germany-merz-erdogan-strategic-ties-ad63a5ce0d06849d6f6197107e0007c3</link>
+<pubDate>Thu, 30 Oct 2025 17:31:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[GOP lawmakers urge Trump administration back Falun Gong lawsuit against Cisco]]></title>
-<link>https://apnews.com/article/cisco-falun-gong-china-human-rights-abuses-aedf0b83212d0692e6fafe29345c04a1</link>
-<pubDate>Thu, 30 Oct 2025 16:12:03 -0000</pubDate>
+<title><![CDATA[William and Kate win privacy case against French magazine over family holiday photos]]></title>
+<link>https://apnews.com/article/william-kate-royals-privacy-lawsuit-magazine-aaf9c5d0495ea9e0e35fad4807efb79d</link>
+<pubDate>Thu, 30 Oct 2025 17:16:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘America First’ Trump loved hanging out with the global elite during his Asia trip]]></title>
+<link>https://apnews.com/article/trump-asia-diplomacy-america-first-62fc228548d0470edf8a6d8f2c76c72b</link>
+<pubDate>Thu, 30 Oct 2025 17:01:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Barcelona’s Sagrada Familia becomes the world’s tallest church]]></title>
+<link>https://apnews.com/article/sagrada-familia-tallest-church-gaudi-ulmer-munster-c9a9296a45edebb72ee2ae1d1a79e8d7</link>
+<pubDate>Thu, 30 Oct 2025 16:46:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How ‘Love is Blind’ is reshaping global views on love, from Japan to Brazil]]></title>
+<link>https://apnews.com/article/love-is-blind-international-editions-fecb8349912fa1e47d412890644747de</link>
+<pubDate>Thu, 30 Oct 2025 16:27:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guy Kopelowicz, former Paris photo chief for AP, dies at 89]]></title>
+<title><![CDATA[Guy Kopelowicz, former Paris photo chief for AP, dies at 85]]></title>
 <link>https://apnews.com/article/guy-kopelowicz-france-obituary-3b0173beacfe8b6c40324ec2a80ffab1</link>
-<pubDate>Thu, 30 Oct 2025 15:42:03 -0000</pubDate>
+<pubDate>Thu, 30 Oct 2025 16:31:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +218,12 @@
 <title><![CDATA[Serbia youth lead thousands on march for weekend rally marking deadly canopy collapse last year]]></title>
 <link>https://apnews.com/article/serbia-protest-march-canopy-collapse-novi-sad-fa492b5e90e281263404cc91fd7d7883</link>
 <pubDate>Thu, 30 Oct 2025 13:12:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korean and Japanese leaders vow to improve ties in face of global uncertainty]]></title>
+<link>https://apnews.com/article/south-korea-japan-lee-takaichi-trump-apec-7bbbb21ef6c4d6ebc4fe986691ae354a</link>
+<pubDate>Thu, 30 Oct 2025 16:16:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,30 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Families of Spain’s flood victims voice sorrow and rage at one-year memorial ceremony]]></title>
-<link>https://apnews.com/article/spain-floods-valencia-814301f6b2fb7d021dd70344e9a35b45</link>
-<pubDate>Wed, 29 Oct 2025 21:28:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lawyers for British political commentator Sami Hamdi are challenging his US detention in court]]></title>
-<link>https://apnews.com/article/sami-hamdi-british-muslim-commentator-immigration-detained-294da99aba1794fc7aed4fe39ca426b4</link>
-<pubDate>Wed, 29 Oct 2025 20:08:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Milan-Cortina reaches 100-day countdown with ice hockey arena still under construction]]></title>
-<link>https://apnews.com/article/milan-cortina-100-days-olympics-243a44786d09ccc98acf4dee55f2b05e</link>
-<pubDate>Wed, 29 Oct 2025 18:44:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Budapest boxing club says board member, family among 11 killed in Kenya plane crash]]></title>
-<link>https://apnews.com/article/kenya-plane-crash-kwale-maasai-mara-hungary-73bccee015231d1343bbebe029eb5fdb</link>
-<pubDate>Wed, 29 Oct 2025 18:29:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump cuts tariffs on China after meeting Xi in South Korea]]></title>
 <link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
 <pubDate>Thu, 30 Oct 2025 06:16:15 -0000</pubDate>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Aid workers fear for those missing from a city in Sudan’s Darfur region seized by paramilitary force]]></title>
+<title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
-<pubDate>Thu, 30 Oct 2025 12:20:46 -0000</pubDate>
+<pubDate>Thu, 30 Oct 2025 17:39:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia blasts Ukraine’s power grid again, causing outages across the country and killing 3]]></title>
+<title><![CDATA[Russia blasts Ukraine’s power grid again, causing outages across the country and killing 6]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-attack-power-outages-2110169707d2d8c7757ce4fc807cff4c</link>
-<pubDate>Thu, 30 Oct 2025 12:05:46 -0000</pubDate>
+<pubDate>Thu, 30 Oct 2025 17:24:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,21 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protests in Tanzania spread after a disputed election, with the military on the streets]]></title>
-<link>https://apnews.com/article/tanzania-election-samia-suluhu-protests-f3727b56c50c256d2d083632594aa5e6</link>
-<pubDate>Thu, 30 Oct 2025 13:45:30 -0000</pubDate>
+<title><![CDATA[Trump sets 7,500 annual limit for refugees entering US. It’ll be mostly white South Africans]]></title>
+<link>https://apnews.com/article/refugees-admissions-cap-immigration-trump-administration-197a8ef1c9c219ce6167da4aba3f5a6e</link>
+<pubDate>Thu, 30 Oct 2025 17:09:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Trump administration rule bars student loan relief for public workers tied to ‘illegal’ activity]]></title>
-<link>https://apnews.com/article/public-service-loan-forgiveness-debt-cancellation-62536bdb25f04b5138d2d0a2aeec4e58</link>
-<pubDate>Thu, 30 Oct 2025 13:30:30 -0000</pubDate>
+<title><![CDATA[Teacher who was shot by 6-year-old student at school testifies she thought she had died]]></title>
+<link>https://apnews.com/article/newport-news-virginia-teacher-shot-ce9f3d91d987607d0d6de4e6eb3114ba</link>
+<pubDate>Thu, 30 Oct 2025 16:54:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China says it will work with US to resolve issues related to TikTok]]></title>
-<link>https://apnews.com/article/china-tiktok-trump-bytedance-jinping-f9d15903dd1b9bd92602838a79088710</link>
-<pubDate>Thu, 30 Oct 2025 09:41:52 -0000</pubDate>
+<title><![CDATA[American farmers welcome China’s promise to buy their soybean but this deal doesn’t solve everything]]></title>
+<link>https://apnews.com/article/china-trump-soybean-farmers-tariffs-trade-war-c532d730dd8c70551df384bc8a3aee76</link>
+<pubDate>Thu, 30 Oct 2025 16:39:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
