@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Oct 2025 04:13:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 04:40:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Imprisoned Bahrain activist Abdulhadi al-Khawaja starts hunger strike over his detention]]></title>
 <link>https://apnews.com/article/bahrain-abdulhadi-khawaja-hunger-strike-728a9e7928800941ac8d97454185de02</link>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump-Xi meeting looms over APEC conference in South Korea as free trade falters]]></title>
-<link>https://apnews.com/article/south-korea-trump-xi-apec-tariffs-gyeongju-2f757a6ea64284fb6bf792aba8b214fb</link>
-<pubDate>Wed, 29 Oct 2025 15:50:22 -0000</pubDate>
+<title><![CDATA[China says it’s on track to land astronauts on the moon by 2030 ahead of space station mission]]></title>
+<link>https://apnews.com/article/china-tiangong-space-station-moon-landing-2030-0a9834bb0790c7f57a6bb8bbf4bcdcb3</link>
+<pubDate>Thu, 30 Oct 2025 04:34:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
-<link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
-<pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
+<title><![CDATA[Trump-Xi meeting looms over APEC conference in South Korea as free trade falters]]></title>
+<link>https://apnews.com/article/south-korea-trump-xi-apec-tariffs-gyeongju-2f757a6ea64284fb6bf792aba8b214fb</link>
+<pubDate>Wed, 29 Oct 2025 15:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
+<link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
+<pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[AI chipmaker Nvidia is the first $5 trillion company]]></title>
 <link>https://apnews.com/article/nvidia-trillion-ai-apple-huang-trump-xi-c9bbf5cfa017dadaf248a4d197763cb9</link>
 <pubDate>Wed, 29 Oct 2025 15:53:58 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Hegseth welcomes Japan’s arms spending increase, says US-Japan alliance key to deter China]]></title>
 <link>https://apnews.com/article/japan-us-military-spending-hegseth-trump-ceb4ffaff776730436f98664a074a1da</link>
 <pubDate>Wed, 29 Oct 2025 09:09:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
-<link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
-<pubDate>Tue, 28 Oct 2025 05:23:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Russian oil company Lukoil to sell international assets in response to Trump sanctions]]></title>
 <link>https://apnews.com/article/russia-sanctions-ukraine-war-oil-lukoil-rosneft-5601942ca5f92730ffc5ef9f4ec004cf</link>
 <pubDate>Tue, 28 Oct 2025 09:54:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump appears to suggest the US will resume testing nuclear weapons for first time in 30 years]]></title>
+<link>https://apnews.com/article/trump-nuclear-weapons-testing-7a4626d2f9f8df62aa250b2acded51fd</link>
+<pubDate>Thu, 30 Oct 2025 04:30:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[WWI soldiers’ messages in a bottle found on Australian beach more than 100 years later]]></title>
-<link>https://apnews.com/article/australia-letters-bottle-beach-wwi-soldiers-5504498cc456cd920c6a314ae4d4f19c</link>
-<pubDate>Wed, 29 Oct 2025 03:32:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hurricane Melissa leaves trail of destruction across Cuba, Haiti and Jamaica]]></title>
 <link>https://apnews.com/article/hurricane-melissa-cuba-jamaica-flooding-winds-275a4d2d41a0ff3f382053865eefe295</link>
 <pubDate>Wed, 29 Oct 2025 22:20:52 -0000</pubDate>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Latest: Trump and China’s Xi meet face-to-face to try to solve months of trade tensions]]></title>
+<title><![CDATA[The Latest: Trump and China’s Xi have met face-to-face to try to solve months of trade tensions]]></title>
 <link>https://apnews.com/article/donald-trump-china-b80b6578ad8a09e9b31377e8b59134c5</link>
-<pubDate>Thu, 30 Oct 2025 03:27:39 -0000</pubDate>
+<pubDate>Thu, 30 Oct 2025 04:40:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
