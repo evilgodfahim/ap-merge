@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 23:35:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 00:52:26 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Gaza ceasefire tested as Israel and Hamas exchange fire and blame]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4</link>
-<pubDate>Wed, 29 Oct 2025 20:05:49 -0000</pubDate>
+<title><![CDATA[Imprisoned Bahrain activist Abdulhadi al-Khawaja starts hunger strike over his detention]]></title>
+<link>https://apnews.com/article/bahrain-abdulhadi-khawaja-hunger-strike-728a9e7928800941ac8d97454185de02</link>
+<pubDate>Thu, 30 Oct 2025 00:20:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US government allowed and even helped US firms sell tech used for surveillance in China, AP finds]]></title>
+<link>https://apnews.com/article/chinese-surveillance-silicon-valley-trump-administration-congress-21c5f961b1fd22f9a9e563ebe64e5582</link>
+<pubDate>Thu, 30 Oct 2025 00:05:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[From beaches to ski slopes, photos show how cameras keep watch all over China]]></title>
 <link>https://apnews.com/photo-gallery/china-surveillance-security-cameras-photo-gallery-c68debcc6d750b36985b99132df4f784</link>
 <pubDate>Wed, 29 Oct 2025 16:53:58 -0000</pubDate>
@@ -47,15 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
-<link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
-<pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in Brazilian police raid rises to 119, drawing criticism of excessive force]]></title>
+<title><![CDATA[Protests erupt after police raid in Brazil leaves 119 dead and draws accusations of excessive force]]></title>
 <link>https://apnews.com/article/brazil-favela-deaths-f2e7366d98790c5c90e7996ec8b3282f</link>
-<pubDate>Wed, 29 Oct 2025 23:17:17 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 23:50:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jury convicts activist who took chickens from Purdue plant]]></title>
+<title><![CDATA[Jury convicts California activist who took chickens from Perdue Farms plant]]></title>
 <link>https://apnews.com/article/animal-activist-california-trial-purdue-chickens-9e53ecb2b84085de013c7abe17682a7c</link>
-<pubDate>Wed, 29 Oct 2025 21:55:33 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 23:35:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What shutdown? Trump isn’t canceling travel, golf or his ballroom even with the government shuttered]]></title>
-<link>https://apnews.com/article/trump-shutdown-government-business-normal-cebf7f8d2ff64a98328460d4a0a8deb3</link>
-<pubDate>Wed, 29 Oct 2025 19:35:49 -0000</pubDate>
+<title><![CDATA[A Confederate statue is restored as part of Trump’s efforts to reshape how history is told]]></title>
+<link>https://apnews.com/article/trump-pike-statue-confederate-dc-george-floyd-3b0e8fd940a6bb6432992bb615b66336</link>
+<pubDate>Wed, 29 Oct 2025 23:20:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
+<link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
+<pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[South Korea’s president faces high-stakes diplomacy at APEC summit]]></title>
 <link>https://apnews.com/article/south-korea-apec-lee-trump-us-xi-dfc921a73af1e1c36bdcc79949ddebf7</link>
 <pubDate>Tue, 28 Oct 2025 05:23:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and China seek to strike a deal over rare earths, tariffs and soybeans]]></title>
-<link>https://apnews.com/article/trump-china-tariffs-rare-earths-soybeans-exports-efa3b57ce5cd94ee5bfcad1988d9fccd</link>
-<pubDate>Tue, 28 Oct 2025 07:45:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US will share tech to let South Korea build a nuclear-powered submarine, Trump says]]></title>
-<link>https://apnews.com/article/nuclear-powered-submarine-trump-south-korea-ce3ad17d6288573696bf42ca089e76c5</link>
-<pubDate>Wed, 29 Oct 2025 22:35:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump and China’s Xi are meeting in South Korea to try to roll back months of trade tensions]]></title>
-<link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
-<pubDate>Wed, 29 Oct 2025 21:35:28 -0000</pubDate>
+<title><![CDATA[Israel’s military says ceasefire is back on as death toll from overnight strikes in Gaza reaches 104]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-445eea84db9c19600b9ab92786b7fb7c</link>
+<pubDate>Wed, 29 Oct 2025 10:42:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s military says ceasefire is back on as death toll from overnight strikes in Gaza reaches 104]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-445eea84db9c19600b9ab92786b7fb7c</link>
-<pubDate>Wed, 29 Oct 2025 10:42:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Sudan’s paramilitary killed hundreds at a hospital in Darfur, residents and aid workers say]]></title>
 <link>https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa</link>
 <pubDate>Wed, 29 Oct 2025 20:12:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US will share tech to let South Korea build a nuclear-powered submarine, Trump says]]></title>
+<link>https://apnews.com/article/nuclear-powered-submarine-trump-south-korea-ce3ad17d6288573696bf42ca089e76c5</link>
+<pubDate>Wed, 29 Oct 2025 22:35:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US strikes another alleged drug-carrying boat in the Pacific and kills all 4 aboard, Hegseth says]]></title>
+<link>https://apnews.com/article/us-military-boat-strike-cartels-venezuela-hegseth-trump-b24b3845b3c54c1a15239e5debef0fd6</link>
+<pubDate>Thu, 30 Oct 2025 00:32:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes]]></title>
-<link>https://apnews.com/article/netanyahu-hamas-gaza-ceasefire-truce-takeaways-5cdf0486ca32e0dc5ce8d1c478dfa0fa</link>
-<pubDate>Wed, 29 Oct 2025 19:42:03 -0000</pubDate>
+<title><![CDATA[Sudan war takes a turn as paramilitary force captures Darfur, threatening to split the country]]></title>
+<link>https://apnews.com/article/sudan-rsf-war-darfur-d22aba25401c5e4981b9ddd9612d5ecd</link>
+<pubDate>Wed, 29 Oct 2025 12:51:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,12 +410,6 @@
 <title><![CDATA[Iran isn’t actively enriching uranium but movement detected near nuclear sites, UN official tells AP]]></title>
 <link>https://apnews.com/article/iran-nuclear-program-grossi-uranium-543ad3503ece5de766e08123f6e71f9c</link>
 <pubDate>Wed, 29 Oct 2025 19:27:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Imprisoned Bahrain activist Abdulhadi al-Khawaja starts hunger strike over his detention]]></title>
-<link>https://apnews.com/article/bahrain-abdulhadi-khawaja-hunger-strike-728a9e7928800941ac8d97454185de02</link>
-<pubDate>Wed, 29 Oct 2025 08:53:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US government allowed and even helped US firms sell tech used for surveillance in China, AP finds]]></title>
-<link>https://apnews.com/article/chinese-surveillance-silicon-valley-trump-administration-congress-21c5f961b1fd22f9a9e563ebe64e5582</link>
-<pubDate>Wed, 29 Oct 2025 11:58:36 -0000</pubDate>
+<title><![CDATA[Trump and China’s Xi are meeting in South Korea to try to roll back months of trade tensions]]></title>
+<link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
+<pubDate>Wed, 29 Oct 2025 21:35:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -470,6 +464,12 @@
 <title><![CDATA[Tanzania deploys the military and imposes a curfew on election day after protests erupt]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-d897483abe5a34c1b02422e7adc5891a</link>
 <pubDate>Wed, 29 Oct 2025 15:43:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Judge’s order blocking removal of man from US wasn’t received until after he was deported, DHS says]]></title>
+<link>https://apnews.com/article/immigration-alabama-man-deported-0fa0bb24ed08d13cc840ea2b367047da</link>
+<pubDate>Thu, 30 Oct 2025 00:02:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
