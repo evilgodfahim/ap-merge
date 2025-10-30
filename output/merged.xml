@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Oct 2025 08:44:56 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 09:12:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran isn’t actively enriching uranium but movement detected near nuclear sites, UN official tells AP]]></title>
+<link>https://apnews.com/article/iran-nuclear-program-grossi-uranium-543ad3503ece5de766e08123f6e71f9c</link>
+<pubDate>Thu, 30 Oct 2025 08:52:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Imprisoned Bahrain activist Abdulhadi al-Khawaja starts hunger strike over his detention]]></title>
 <link>https://apnews.com/article/bahrain-abdulhadi-khawaja-hunger-strike-728a9e7928800941ac8d97454185de02</link>
@@ -11,9 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Donald Trump Jr. mocks ‘No Kings’ protests and praises father’s approach to Mideast at Saudi summit]]></title>
-<link>https://apnews.com/article/donald-trump-jr-saudi-arabia-future-investment-initiative-afbd9cc98489c9b84e49c8bef5b07327</link>
-<pubDate>Thu, 30 Oct 2025 05:38:56 -0000</pubDate>
+<title><![CDATA[Neck-and-neck finish in Dutch election as Wilders’ far-right party and D66 tie]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-jetten-coalition-01116b4c83723994f7832128ac6cca8c</link>
+<pubDate>Thu, 30 Oct 2025 08:37:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Exit poll suggests Dutch election result too close to call, with center-left party slightly ahead]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-vote-politics-ea2d6658617679e888c8853597d9b671</link>
+<pubDate>Thu, 30 Oct 2025 08:22:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,33 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin claims Russian troops have surrounded 2 Ukrainian cities but Ukraine says that’s not true]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-pokrovsk-kupianks-e479c989bd3907c13cbf81e34f3916de</link>
-<pubDate>Thu, 30 Oct 2025 01:24:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France adopts consent-based rape law in the wake of landmark Gisèle Pelicot case]]></title>
-<link>https://apnews.com/article/france-consent-rape-law-gisele-pelicot-senate-b208f67c13a27898d7d8ca26472ab61a</link>
-<pubDate>Thu, 30 Oct 2025 01:09:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From beaches to ski slopes, photos show how cameras keep watch all over China]]></title>
-<link>https://apnews.com/photo-gallery/china-surveillance-security-cameras-photo-gallery-c68debcc6d750b36985b99132df4f784</link>
-<pubDate>Wed, 29 Oct 2025 16:53:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China says it’s on track to land astronauts on the moon by 2030 ahead of space station mission]]></title>
 <link>https://apnews.com/article/china-tiangong-space-station-moon-landing-2030-0a9834bb0790c7f57a6bb8bbf4bcdcb3</link>
 <pubDate>Thu, 30 Oct 2025 04:34:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump-Xi meeting looms over APEC conference in South Korea as free trade falters]]></title>
-<link>https://apnews.com/article/south-korea-trump-xi-apec-tariffs-gyeongju-2f757a6ea64284fb6bf792aba8b214fb</link>
-<pubDate>Wed, 29 Oct 2025 15:50:22 -0000</pubDate>
+<title><![CDATA[Cruise passenger, 80, found dead after being abandoned on Great Barrier Reef island]]></title>
+<link>https://apnews.com/article/australia-cruise-passenger-dead-abandoned-island-reef-8bf78d604872df4804bb29bd09d53689</link>
+<pubDate>Thu, 30 Oct 2025 08:07:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US government allowed and even helped US firms sell tech used for surveillance in China, AP finds]]></title>
+<link>https://apnews.com/article/chinese-surveillance-silicon-valley-trump-administration-congress-21c5f961b1fd22f9a9e563ebe64e5582</link>
+<pubDate>Thu, 30 Oct 2025 00:05:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[US strikes another alleged drug-carrying boat in the Pacific and kills all 4 aboard, Hegseth says]]></title>
 <link>https://apnews.com/article/us-military-boat-strike-cartels-venezuela-hegseth-trump-b24b3845b3c54c1a15239e5debef0fd6</link>
 <pubDate>Thu, 30 Oct 2025 00:54:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian mobsters sentenced to 25 years for foiled plot to assassinate Iranian dissident journalist]]></title>
+<link>https://apnews.com/article/iran-assassination-plot-journalist-masih-alinejad-055b2e2a7079d96ce8b759b0750f9420</link>
+<pubDate>Thu, 30 Oct 2025 07:52:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +125,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asian shares, oil prices fall back following Trump’s meeting with Chinese leader Xi]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-trade-china-69486a7b0e697f0ae68b58c77a4d5ebc</link>
+<pubDate>Thu, 30 Oct 2025 07:37:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The Latest: Trump says he has deals with China after meeting Xi to try to solve trade tensions]]></title>
+<link>https://apnews.com/article/donald-trump-china-b80b6578ad8a09e9b31377e8b59134c5</link>
+<pubDate>Thu, 30 Oct 2025 07:22:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[White House says deal to put TikTok under US ownership could be finalized in South Korea]]></title>
 <link>https://apnews.com/article/tiktok-deal-china-trump-xi-8d53ad9c90247a7dde9f0b4031457e7b</link>
 <pubDate>Thu, 30 Oct 2025 03:30:25 -0000</pubDate>
@@ -128,18 +146,6 @@
 <title><![CDATA[Myanmar rebels sign ceasefire with military after China-mediated talks]]></title>
 <link>https://apnews.com/article/myanmar-ceasefire-rebels-china-d42a111e8e68e24efe67142b16a21aaa</link>
 <pubDate>Wed, 29 Oct 2025 12:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AI chipmaker Nvidia is the first $5 trillion company]]></title>
-<link>https://apnews.com/article/nvidia-trillion-ai-apple-huang-trump-xi-c9bbf5cfa017dadaf248a4d197763cb9</link>
-<pubDate>Wed, 29 Oct 2025 15:53:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hegseth welcomes Japan’s arms spending increase, says US-Japan alliance key to deter China]]></title>
-<link>https://apnews.com/article/japan-us-military-spending-hegseth-trump-ceb4ffaff776730436f98664a074a1da</link>
-<pubDate>Wed, 29 Oct 2025 09:09:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,21 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cruise passenger, 80, found dead after being abandoned on Great Barrier Reef island]]></title>
-<link>https://apnews.com/article/australia-cruise-passenger-dead-abandoned-island-reef-8bf78d604872df4804bb29bd09d53689</link>
-<pubDate>Thu, 30 Oct 2025 07:45:26 -0000</pubDate>
+<title><![CDATA[Residents of Swiss village swallowed by mudslide work to rebuild for return home]]></title>
+<link>https://apnews.com/article/switzerland-blatten-village-landslide-rebuild-9dcfe7ad0eee5c4ffb468f189289b129</link>
+<pubDate>Thu, 30 Oct 2025 08:51:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A French trial examines Holocaust Memorial graffiti believed linked to Russia]]></title>
 <link>https://apnews.com/article/france-russia-red-hands-holocaust-memorial-trial-5e75eade053ad8ebf2676b39f3f75602</link>
 <pubDate>Thu, 30 Oct 2025 06:40:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares, oil prices fall back following Trump’s meeting with Chinese leader Xi]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-trade-china-69486a7b0e697f0ae68b58c77a4d5ebc</link>
-<pubDate>Thu, 30 Oct 2025 06:25:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,9 +293,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[From beaches to ski slopes, photos show how cameras keep watch all over China]]></title>
+<link>https://apnews.com/photo-gallery/china-surveillance-security-cameras-photo-gallery-c68debcc6d750b36985b99132df4f784</link>
+<pubDate>Thu, 30 Oct 2025 08:36:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Paris prosecutor says 2 suspects in the Louvre jewel heist acknowledge their involvement]]></title>
 <link>https://apnews.com/article/france-paris-louvre-heist-jewels-police-c716ba577cf83390645ae0ba5a023835</link>
 <pubDate>Thu, 30 Oct 2025 00:59:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France adopts consent-based rape law in the wake of landmark Gisèle Pelicot case]]></title>
+<link>https://apnews.com/article/france-consent-rape-law-gisele-pelicot-senate-b208f67c13a27898d7d8ca26472ab61a</link>
+<pubDate>Wed, 29 Oct 2025 16:39:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,27 +335,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hegseth welcomes Japan’s arms spending increase, says US-Japan alliance key to deter China]]></title>
+<link>https://apnews.com/article/japan-us-military-spending-hegseth-trump-ceb4ffaff776730436f98664a074a1da</link>
+<pubDate>Thu, 30 Oct 2025 08:21:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Donald Trump Jr. mocks ‘No Kings’ protests and praises father’s approach to Mideast at Saudi summit]]></title>
+<link>https://apnews.com/article/donald-trump-jr-saudi-arabia-future-investment-initiative-afbd9cc98489c9b84e49c8bef5b07327</link>
+<pubDate>Thu, 30 Oct 2025 08:06:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-882f3e4c9d8232b37e026d3ecab85229</link>
 <pubDate>Wed, 29 Oct 2025 08:57:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Studying the wrong ancient Roman ruler gets Australian high school seniors out of a history exam]]></title>
-<link>https://apnews.com/article/australia-roman-history-exam-high-school-3d39f66e38327d45f91ab236d90728d5</link>
-<pubDate>Wed, 29 Oct 2025 08:42:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[German scents exhibition combines 1,000 years of fragrances with art and history]]></title>
-<link>https://apnews.com/article/germany-scents-exhibition-kunstpalast-dusseldorf-b5b31e890264cdbca6c2bc3a695afaab</link>
-<pubDate>Wed, 29 Oct 2025 10:53:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street waffles around its records after the Fed cuts rates but won’t guarantee more]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-china-earnings-69291796738e739611fa7415a43cff02</link>
-<pubDate>Wed, 29 Oct 2025 19:53:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
