@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 20:37:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 21:09:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’]]></title>
+<link>https://apnews.com/article/un-us-military-strikes-south-america-ed0ce092af5ad2c64b34ed51f8ab59cc</link>
+<pubDate>Fri, 31 Oct 2025 11:32:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about Rio’s deadliest police raid that exposed limits of anti-gang tactics in Brazil]]></title>
 <link>https://apnews.com/article/brazil-raid-favela-police-gangs-rio-red-command-a0b9ec1ab94187a35d18ff28d903c0ac</link>
 <pubDate>Fri, 31 Oct 2025 20:04:49 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Rio favelas left reeling after lethal gang raid as families bury the dead]]></title>
 <link>https://apnews.com/article/brazil-raid-favela-police-ae3d2b8ab7a7e3d3a5f6aa26a52852d1</link>
 <pubDate>Fri, 31 Oct 2025 15:49:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
-<link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
-<pubDate>Fri, 31 Oct 2025 12:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,15 +95,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump urged GOP-led states to redraw US House districts. Now other states also are gerrymandering]]></title>
+<link>https://apnews.com/article/redistricting-gerrymandering-voting-maps-congress-trump-2ba53ae1f492f8e293f0fa261604e8c6</link>
+<pubDate>Fri, 31 Oct 2025 21:09:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Advocates allege ‘inhumane’ conditions at Chicago-area ICE facility in new lawsuit]]></title>
 <link>https://apnews.com/article/chicago-ice-immigration-broadview-lawsuit-4d9b14a2ed8e28d7a4b75e42bdd7ca8a</link>
 <pubDate>Fri, 31 Oct 2025 19:34:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judges order the Trump administration to use contingency funds for SNAP payments during the shutdown]]></title>
+<title><![CDATA[Judges order Trump administration to use emergency reserves for SNAP payments during the shutdown]]></title>
 <link>https://apnews.com/article/snap-shutdown-lawsuits-deadline-4af8b0dec6cd31cddd023cc99c131b73</link>
-<pubDate>Fri, 31 Oct 2025 18:46:15 -0000</pubDate>
+<pubDate>Fri, 31 Oct 2025 20:54:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says]]></title>
-<link>https://apnews.com/article/michigan-halloween-plot-dearborn-arrests-2596849c221468000de4be1dfad72535</link>
-<pubDate>Fri, 31 Oct 2025 15:04:57 -0000</pubDate>
+<title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
+<link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
+<pubDate>Fri, 31 Oct 2025 12:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[Deal between the US and China is undoing damage from a self-inflicted trade war]]></title>
 <link>https://apnews.com/article/trump-china-united-states-trade-war-05f263e824a3e83fa0cc8158f834493a</link>
 <pubDate>Fri, 31 Oct 2025 06:50:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s rare earth export delay offers US a chance to weaken Beijing’s grip on the market]]></title>
-<link>https://apnews.com/article/china-trade-war-rare-earths-trump-restrictions-5daa16fa0fb59d9633df7ebb14901cad</link>
-<pubDate>Fri, 31 Oct 2025 03:07:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -326,6 +326,12 @@
 <title><![CDATA[Photos show thousands of ultra-Orthodox men protesting military draft shut down Jerusalem]]></title>
 <link>https://apnews.com/photo-gallery/israel-protest-haredim-draft-military-gaza-war-b04d13843f092b1db0f69028f90acce4</link>
 <pubDate>Thu, 30 Oct 2025 19:40:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s rare earth export delay offers US a chance to weaken Beijing’s grip on the market]]></title>
+<link>https://apnews.com/article/china-trade-war-rare-earths-trump-restrictions-5daa16fa0fb59d9633df7ebb14901cad</link>
+<pubDate>Fri, 31 Oct 2025 20:02:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
