@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 18:15:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 18:46:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
@@ -197,12 +197,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China is sending astronauts — and mice — on its latest space station mission]]></title>
-<link>https://apnews.com/article/china-space-station-shenzhou-launch-mice-55db8a37059086663fd0c2cbf992a03b</link>
-<pubDate>Fri, 31 Oct 2025 15:06:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The Latest: Trump wants to scrap the filibuster to end the government shutdown]]></title>
 <link>https://apnews.com/article/trump-filibuster-shutdown-ice-chicago-ebc7bbdf520d9fa6843d27dd7cb84d87</link>
 <pubDate>Fri, 31 Oct 2025 14:02:31 -0000</pubDate>
@@ -218,6 +212,12 @@
 <title><![CDATA[Turkish court sentences hotel owner and 10 others to life for deadly fire that killed 78]]></title>
 <link>https://apnews.com/article/turkey-deadly-ski-resort-fire-trial-sentences-6a4dda7ad84983541a57ff4b1e0e72f4</link>
 <pubDate>Fri, 31 Oct 2025 13:32:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Floods kill 13 in Central Vietnam as rescue operations push forward]]></title>
+<link>https://apnews.com/article/vietnam-floods-danang-41ea9fdfe6121d1dff276a586f7ffb50</link>
+<pubDate>Fri, 31 Oct 2025 18:22:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,9 +257,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Amazon hoists Wall Street toward another winning week and month]]></title>
+<title><![CDATA[Amazon leads Wall Street toward the finish of another winning week and month]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-trade-china-3ce617f003abc24c24d2c030e6bcabf8</link>
-<pubDate>Fri, 31 Oct 2025 13:02:31 -0000</pubDate>
+<pubDate>Fri, 31 Oct 2025 18:07:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
