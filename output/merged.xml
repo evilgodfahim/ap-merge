@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 07:10:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 07:34:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel has erected nearly 1,000 barriers in the West Bank during the war in Gaza, group says]]></title>
 <link>https://apnews.com/article/israel-west-bank-palestinians-restrictions-barriers-09762522daaa4483af5ad02784935dd1</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[5 more arrests as Louvre jewel heist probe deepens and key details emerge]]></title>
-<link>https://apnews.com/article/france-paris-louvre-heist-crown-jewels-2d7fe86bed2626da0aba4cf5c96bf2f3</link>
-<pubDate>Thu, 30 Oct 2025 14:10:52 -0000</pubDate>
+<title><![CDATA[Louvre heist highlights thorny issue for museums: How to secure art without becoming fortresses]]></title>
+<link>https://apnews.com/article/louvre-security-museums-accessibility-6d88bfa6647f522d7db95bd45c37e920</link>
+<pubDate>Fri, 31 Oct 2025 07:20:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[From parrots to chemists, the world is captivated by baseball superstar Ohtani]]></title>
+<link>https://apnews.com/article/ohtani-world-series-japan-fans-baseball-587f85eca335380c58eaeb778d8f0879</link>
+<pubDate>Fri, 31 Oct 2025 00:35:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Malaysia urges ASEAN to expand defense cooperation in cyberspace]]></title>
-<link>https://apnews.com/article/malaysia-asean-defense-ministers-3812513e1e73f062046b0514f9f1ac2c</link>
-<pubDate>Fri, 31 Oct 2025 04:07:25 -0000</pubDate>
+<title><![CDATA[Nvidia partners with South Korean government, companies to boost AI development]]></title>
+<link>https://apnews.com/article/south-korea-nvidia-jenen-huang-ai-ab6b67c6546223c67735693e684b0a17</link>
+<pubDate>Fri, 31 Oct 2025 07:05:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From parrots to chemists, the world is captivated by baseball superstar Ohtani]]></title>
-<link>https://apnews.com/article/ohtani-world-series-japan-fans-baseball-587f85eca335380c58eaeb778d8f0879</link>
-<pubDate>Fri, 31 Oct 2025 00:35:27 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa hit areas vulnerable to landslides because of deforestation]]></title>
+<link>https://apnews.com/article/hurricane-melissa-deforestation-landslide-cuba-jamaica-flood-c3eb0b95b603adfc6100146d231da2fd</link>
+<pubDate>Thu, 30 Oct 2025 15:43:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Years after Argentina shut a notorious zoo, the stranded animals are finally being rescued]]></title>
 <link>https://apnews.com/article/zoo-argentina-lujan-four-paws-animal-rescue-lions-tigers-f77a962617f701c42f357cc6b168942f</link>
 <pubDate>Fri, 31 Oct 2025 04:55:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Amazon deforestation falls 11% even as fires surge to record levels]]></title>
-<link>https://apnews.com/article/deforestation-brazil-drop-amazon-data-government-fire-drought-e6f6133a3a7c1c0fcd44c9875ced0357</link>
-<pubDate>Fri, 31 Oct 2025 04:40:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Deal between the US and China is undoing damage from a self-inflicted trade war]]></title>
+<link>https://apnews.com/article/trump-china-united-states-trade-war-05f263e824a3e83fa0cc8158f834493a</link>
+<pubDate>Fri, 31 Oct 2025 06:50:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s rare earth export delay offers US a chance to weaken Beijing’s grip on the market]]></title>
 <link>https://apnews.com/article/china-trade-war-rare-earths-trump-restrictions-5daa16fa0fb59d9633df7ebb14901cad</link>
 <pubDate>Fri, 31 Oct 2025 03:07:25 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[4 Republicans back Senate resolution to undo Trump’s tariffs around the globe]]></title>
 <link>https://apnews.com/article/congress-trump-tariffs-china-525d652549af2fbe2931fa57aeaa32e6</link>
 <pubDate>Thu, 30 Oct 2025 19:02:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[American farmers welcome China’s promise to buy soybeans, but the deal doesn’t solve everything]]></title>
-<link>https://apnews.com/article/china-trump-soybean-farmers-tariffs-trade-war-c532d730dd8c70551df384bc8a3aee76</link>
-<pubDate>Thu, 30 Oct 2025 18:47:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[India conducts cloud-seeding trial to clear New Delhi’s smog]]></title>
 <link>https://apnews.com/article/india-pollution-cloud-seeding-artificial-rain-db5652e3cb33937422b3dc69263a59a3</link>
 <pubDate>Wed, 29 Oct 2025 08:39:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[FDA recalls blood pressure medicine tainted with cancer-causing chemical]]></title>
+<link>https://apnews.com/article/fda-recall-prazosin-teva-blood-cancer-ce6338047a5f628300cc95e0eeb89b0b</link>
+<pubDate>Fri, 31 Oct 2025 07:32:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protests in Tanzania spread after a disputed election, with the military on the streets]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-protests-f3727b56c50c256d2d083632594aa5e6</link>
+<pubDate>Fri, 31 Oct 2025 07:17:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trade takeaways from Trump’s meeting with Chinese leader Xi]]></title>
 <link>https://apnews.com/article/trump-xi-trade-tiktok-tariffs-semiconductors-7934c7772af030ba246ba200adf7bf8b</link>
 <pubDate>Fri, 31 Oct 2025 03:14:48 -0000</pubDate>
@@ -335,39 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s Starmer stands by his Treasury chief after house rental rule breach]]></title>
-<link>https://apnews.com/article/uk-rachel-reeves-house-rental-breach-c5df95658366042d96472f1fcdc214f9</link>
-<pubDate>Thu, 30 Oct 2025 09:57:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Stellantis’ shares tumble after posting modest gains, warning of future charges]]></title>
-<link>https://apnews.com/article/stellantis-turnaround-filosa-shipments-revenues-ed071849ff884564bdf922cd585c5bc3</link>
-<pubDate>Thu, 30 Oct 2025 15:27:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Haiti, Jamaica and Cuba pick up the pieces after Melissa’s destruction]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-flooding-96bada7a26013c3cf4048d8390cc08f6</link>
-<pubDate>Thu, 30 Oct 2025 06:01:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China’s Xi promises to protect free trade at APEC as Trump snubs major summit]]></title>
 <link>https://apnews.com/article/apec-south-korea-trump-xi-983929607a2099d204173b6dd8690935</link>
 <pubDate>Fri, 31 Oct 2025 04:42:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rio favelas left reeling after lethal gang raid as families bury the dead]]></title>
-<link>https://apnews.com/article/brazil-raid-favela-police-ae3d2b8ab7a7e3d3a5f6aa26a52852d1</link>
-<pubDate>Fri, 31 Oct 2025 04:27:24 -0000</pubDate>
+<title><![CDATA[Drones, oil and escalation: Ukraine’s deep strikes impact Russia, altering war calculations]]></title>
+<link>https://apnews.com/article/ukraine-russia-war-drones-economy-refineries-strikes-24fb93e0fab5dbba1a323b92510125bb</link>
+<pubDate>Fri, 31 Oct 2025 07:34:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Deal between the US and China is undoing damage from a self-inflicted trade war]]></title>
-<link>https://apnews.com/article/trump-china-united-states-trade-war-05f263e824a3e83fa0cc8158f834493a</link>
-<pubDate>Thu, 30 Oct 2025 19:59:37 -0000</pubDate>
+<title><![CDATA[Rio favelas left reeling after lethal gang raid as families bury the dead]]></title>
+<link>https://apnews.com/article/brazil-raid-favela-police-ae3d2b8ab7a7e3d3a5f6aa26a52852d1</link>
+<pubDate>Fri, 31 Oct 2025 04:27:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,21 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia blasts Ukraine’s power grid again, causing outages across the country and killing 6]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-attack-power-outages-2110169707d2d8c7757ce4fc807cff4c</link>
-<pubDate>Thu, 30 Oct 2025 17:24:13 -0000</pubDate>
+<title><![CDATA[Malaysia urges ASEAN to expand defense cooperation in cyberspace]]></title>
+<link>https://apnews.com/article/malaysia-asean-defense-ministers-3812513e1e73f062046b0514f9f1ac2c</link>
+<pubDate>Fri, 31 Oct 2025 07:04:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump cuts tariffs on China after meeting Xi in South Korea]]></title>
-<link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
-<pubDate>Thu, 30 Oct 2025 06:16:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane Melissa hit areas vulnerable to landslides because of deforestation]]></title>
-<link>https://apnews.com/article/hurricane-melissa-deforestation-landslide-cuba-jamaica-flood-c3eb0b95b603adfc6100146d231da2fd</link>
-<pubDate>Thu, 30 Oct 2025 19:29:37 -0000</pubDate>
+<title><![CDATA[Haiti, Jamaica and Cuba pick up the pieces after Melissa’s destruction]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-flooding-96bada7a26013c3cf4048d8390cc08f6</link>
+<pubDate>Thu, 30 Oct 2025 06:01:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protests in Tanzania spread after a disputed election, with the military on the streets]]></title>
-<link>https://apnews.com/article/tanzania-election-samia-suluhu-protests-f3727b56c50c256d2d083632594aa5e6</link>
-<pubDate>Thu, 30 Oct 2025 13:45:30 -0000</pubDate>
+<title><![CDATA[Protests over Tanzania’s electoral results enter a third day]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-protests-dar-es-salaam-01f98d2009f59c577080647bdbb58106</link>
+<pubDate>Fri, 31 Oct 2025 06:49:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shares in Asia are mixed and Chinese markets fall despite Trump’s trade truce with Xi]]></title>
+<title><![CDATA[Shares in Asia mostly retreat despite Trump’s trade truce with Xi]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-trade-china-3ce617f003abc24c24d2c030e6bcabf8</link>
-<pubDate>Fri, 31 Oct 2025 06:01:36 -0000</pubDate>
+<pubDate>Fri, 31 Oct 2025 06:34:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
