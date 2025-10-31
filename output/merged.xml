@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 04:14:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 04:42:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Greek airline will run direct flights to Baghdad starting in December]]></title>
 <link>https://apnews.com/article/iraq-greece-direct-baghdad-flights-european-union-d772a0e15f6c4ac3c04fcd115810219a</link>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Years after Argentina shut a notorious zoo, the stranded animals are finally being rescued]]></title>
-<link>https://apnews.com/article/zoo-argentina-lujan-four-paws-animal-rescue-lions-tigers-f77a962617f701c42f357cc6b168942f</link>
-<pubDate>Fri, 31 Oct 2025 00:01:24 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa hits the Caribbean and more top photos this week from Latin America]]></title>
+<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-7dd4a3fd4ef4f5eeb1298ff4f06bf884</link>
+<pubDate>Fri, 31 Oct 2025 04:19:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[With fragile Gaza ceasefire holding, Trump wants to make headway on Indonesia-Israel normalization]]></title>
+<link>https://apnews.com/article/trump-indonesia-abraham-accords-israel-prabowo-1df49140800e3694fc7f7ec1bbf340f0</link>
+<pubDate>Fri, 31 Oct 2025 04:04:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[From parrots to chemists, the world is captivated by baseball superstar Ohtani]]></title>
+<link>https://apnews.com/article/ohtani-world-series-japan-fans-baseball-587f85eca335380c58eaeb778d8f0879</link>
+<pubDate>Thu, 30 Oct 2025 12:08:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The Dutch election is tied, joining a list of memorable close contests. Here are a few others]]></title>
 <link>https://apnews.com/article/netherlands-party-for-freedom-d66-florida-george-bush-al-gore-e11d28e3df324f01f6aa73d95f57206d</link>
 <pubDate>Thu, 30 Oct 2025 11:53:33 -0000</pubDate>
@@ -284,6 +296,12 @@
 <title><![CDATA[Europe’s Central Bank leaves key interest rate unchanged as businesses weather US tariffs]]></title>
 <link>https://apnews.com/article/europe-eurozone-ecb-lagarde-germany-economy-growth-43ca19fbe7ec60ae3cd3b9eac6a29602</link>
 <pubDate>Thu, 30 Oct 2025 14:02:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump no-show at big Asian economic forum may risk US reputation in region]]></title>
+<link>https://apnews.com/article/trump-apec-trade-economic-forum-cb322b2165c7aad00a5fe7c86f382835</link>
+<pubDate>Thu, 30 Oct 2025 11:02:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,39 +341,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Neck-and-neck finish in Dutch election as Wilders’ far-right party and centrist D66 tie]]></title>
-<link>https://apnews.com/article/netherlands-election-wilders-jetten-coalition-01116b4c83723994f7832128ac6cca8c</link>
-<pubDate>Thu, 30 Oct 2025 15:22:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s comments on nuclear testing upend decades of US policy. Here’s what to know about it]]></title>
-<link>https://apnews.com/article/trump-us-nuclear-tests-explainer-e641db1a4c99721bbd4ecd187d7dff65</link>
-<pubDate>Fri, 31 Oct 2025 00:35:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cruise passenger, 80, found dead after being abandoned on Great Barrier Reef island]]></title>
-<link>https://apnews.com/article/australia-cruise-passenger-dead-abandoned-island-reef-8bf78d604872df4804bb29bd09d53689</link>
-<pubDate>Thu, 30 Oct 2025 07:45:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A French trial examines Holocaust Memorial graffiti believed linked to Russia]]></title>
-<link>https://apnews.com/article/france-russia-red-hands-holocaust-memorial-trial-5e75eade053ad8ebf2676b39f3f75602</link>
-<pubDate>Thu, 30 Oct 2025 06:40:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US stocks sink as Wall Street sees both good and bad in Big Tech profits, US-China relations]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-trade-china-69486a7b0e697f0ae68b58c77a4d5ebc</link>
-<pubDate>Fri, 31 Oct 2025 00:20:35 -0000</pubDate>
+<title><![CDATA[The main takeaways from the Netherlands’ nail-biter elections, with the result still in the balance]]></title>
+<link>https://apnews.com/article/netherlands-dutch-elections-wilders-d66-04fcdc9656d9fc42d4cb54d8d03e8afc</link>
+<pubDate>Fri, 31 Oct 2025 03:34:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Haiti, Jamaica and Cuba pick up the pieces after Melissa’s destruction]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-flooding-96bada7a26013c3cf4048d8390cc08f6</link>
 <pubDate>Thu, 30 Oct 2025 06:01:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s Xi promises to protect free trade at APEC as Trump snubs major summit]]></title>
+<link>https://apnews.com/article/apec-south-korea-trump-xi-983929607a2099d204173b6dd8690935</link>
+<pubDate>Fri, 31 Oct 2025 04:42:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rio favelas left reeling after lethal gang raid as families bury the dead]]></title>
+<link>https://apnews.com/article/brazil-raid-favela-police-ae3d2b8ab7a7e3d3a5f6aa26a52852d1</link>
+<pubDate>Fri, 31 Oct 2025 04:27:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[APEC leaders open economic summit after Trump and Xi agreed on steps to ease trade tensions]]></title>
-<link>https://apnews.com/article/apec-south-korea-trump-xi-983929607a2099d204173b6dd8690935</link>
-<pubDate>Fri, 31 Oct 2025 03:30:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hurricane Melissa hit areas vulnerable to landslides because of deforestation]]></title>
 <link>https://apnews.com/article/hurricane-melissa-deforestation-landslide-cuba-jamaica-flood-c3eb0b95b603adfc6100146d231da2fd</link>
 <pubDate>Thu, 30 Oct 2025 19:29:37 -0000</pubDate>
@@ -464,6 +464,12 @@
 <title><![CDATA[Hegseth orders the military to detail dozens of attorneys to the Justice Department, AP learns]]></title>
 <link>https://apnews.com/article/hegseth-military-attorneys-immigration-justice-department-cb352bdb6c1d9d6d68f79642d69c6363</link>
 <pubDate>Thu, 30 Oct 2025 21:25:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s factory activity contracts for 7th month, reflecting tariffs pressure on trade]]></title>
+<link>https://apnews.com/article/china-factory-economy-us-trade-2181298f18f96fa90dc6790b909f06c1</link>
+<pubDate>Fri, 31 Oct 2025 04:12:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
