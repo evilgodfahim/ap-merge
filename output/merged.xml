@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 22:38:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 23:10:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protesters call for governor’s resignation after Rio’s deadliest police raid]]></title>
+<link>https://apnews.com/article/rio-raid-favela-protest-police-2f88c0c74680776dfe044f17c96f1c95</link>
+<pubDate>Fri, 31 Oct 2025 23:10:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’]]></title>
 <link>https://apnews.com/article/un-us-military-strikes-south-america-ed0ce092af5ad2c64b34ed51f8ab59cc</link>
 <pubDate>Fri, 31 Oct 2025 11:32:59 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Judge orders arrest of ex-Green Beret tied to failed Venezuela raid after court no-show]]></title>
 <link>https://apnews.com/article/venezuela-green-beret-army-florida-7fb7269d83e3d46821fe2797095907e4</link>
 <pubDate>Fri, 31 Oct 2025 22:10:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Rio’s deadliest police raid that exposed limits of anti-gang tactics in Brazil]]></title>
-<link>https://apnews.com/article/brazil-raid-favela-police-gangs-rio-red-command-a0b9ec1ab94187a35d18ff28d903c0ac</link>
-<pubDate>Fri, 31 Oct 2025 20:04:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Alabama man charged with threatening rabbis, imam and others in multiple Southern states]]></title>
-<link>https://apnews.com/article/synagogue-threat-rabbi-imam-alabama-south-619c0488d0bb9a7ca1de6c96df145b3d</link>
-<pubDate>Fri, 31 Oct 2025 16:41:26 -0000</pubDate>
+<title><![CDATA[FDA restricts use of kids’ fluoride supplements citing emerging health risks]]></title>
+<link>https://apnews.com/article/fluoride-fda-dental-kennedy-teeth-cavities-e27c849f8dfd226df0a447f4cb7b9335</link>
+<pubDate>Fri, 31 Oct 2025 22:55:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s Shenzhou 21 docks with space station, sets the country’s own speed record]]></title>
+<link>https://apnews.com/article/china-space-station-shenzhou-launch-mice-55db8a37059086663fd0c2cbf992a03b</link>
+<pubDate>Fri, 31 Oct 2025 22:40:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s factory activity contracts for 7th month, reflecting tariffs pressure on trade]]></title>
 <link>https://apnews.com/article/china-factory-economy-us-trade-2181298f18f96fa90dc6790b909f06c1</link>
 <pubDate>Fri, 31 Oct 2025 03:55:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Deal between the US and China is undoing damage from a self-inflicted trade war]]></title>
-<link>https://apnews.com/article/trump-china-united-states-trade-war-05f263e824a3e83fa0cc8158f834493a</link>
-<pubDate>Fri, 31 Oct 2025 06:50:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[Guyana arrests incoming opposition leader following US extradition request]]></title>
 <link>https://apnews.com/article/guyana-azruddin-mohamed-arrested-us-extradition-8b209b01a817189b4e700a93e6dac5a5</link>
 <pubDate>Fri, 31 Oct 2025 22:38:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Rio’s deadliest police raid that exposed limits of anti-gang tactics in Brazil]]></title>
+<link>https://apnews.com/article/brazil-raid-favela-police-gangs-rio-red-command-a0b9ec1ab94187a35d18ff28d903c0ac</link>
+<pubDate>Fri, 31 Oct 2025 22:23:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Red Cross says it transferred unidentified remains of 3 people to Israel]]></title>
+<title><![CDATA[Unidentified remains of 3 people transferred to Israel, Red Cross says]]></title>
 <link>https://apnews.com/article/gaza-hostages-palestinians-mideast-wars-israel-97f237aef3e6d6ce327838d5eab130bc</link>
-<pubDate>Fri, 31 Oct 2025 22:03:22 -0000</pubDate>
+<pubDate>Fri, 31 Oct 2025 23:10:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Shenzhou 21 docks with space station, sets speed record]]></title>
-<link>https://apnews.com/article/china-space-station-shenzhou-launch-mice-55db8a37059086663fd0c2cbf992a03b</link>
-<pubDate>Fri, 31 Oct 2025 21:33:22 -0000</pubDate>
+<title><![CDATA[Trump efforts to help US coal undercut by export drop during trade war]]></title>
+<link>https://apnews.com/article/trump-coal-trade-tariffs-coal-exports-imports-b04678dc90ef1bb623cfa5bd705fec04</link>
+<pubDate>Fri, 31 Oct 2025 22:55:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
