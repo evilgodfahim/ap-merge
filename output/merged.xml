@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 04:42:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 05:11:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel has erected nearly 1,000 barriers in the West Bank during the war in Gaza, group says]]></title>
+<link>https://apnews.com/article/israel-west-bank-palestinians-restrictions-barriers-09762522daaa4483af5ad02784935dd1</link>
+<pubDate>Thu, 30 Oct 2025 12:04:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Greek airline will run direct flights to Baghdad starting in December]]></title>
 <link>https://apnews.com/article/iraq-greece-direct-baghdad-flights-european-union-d772a0e15f6c4ac3c04fcd115810219a</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s paramilitary forces killed hundreds at a hospital in Darfur, residents and aid workers say]]></title>
-<link>https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa</link>
-<pubDate>Thu, 30 Oct 2025 16:13:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[King Charles III strips Prince Andrew of titles and evicts him from royal residence]]></title>
-<link>https://apnews.com/article/king-charles-prince-andrew-strips-royal-titles-7fad76a46a211ae24b605cbd24e80748</link>
-<pubDate>Thu, 30 Oct 2025 20:37:34 -0000</pubDate>
+<title><![CDATA[Royal prerogative: King Charles III banishes Andrew to buttress the House of Windsor’s foundations]]></title>
+<link>https://apnews.com/article/andrew-scandal-king-charles-monarchy-epstein-33ec8ff4508ef1b36aad7532181245e8</link>
+<pubDate>Fri, 31 Oct 2025 05:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump cuts tariffs on China after meeting Xi in South Korea]]></title>
-<link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
-<pubDate>Fri, 31 Oct 2025 03:03:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Radio Free Asia says it is halting its news operations due to funding troubles]]></title>
 <link>https://apnews.com/article/radio-free-asia-trump-government-press-news-976d2b1e9712147da6729534ab9d8221</link>
 <pubDate>Fri, 31 Oct 2025 00:50:27 -0000</pubDate>
@@ -53,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US is sending dozens of relief workers to help with fallout from Hurricane Melissa]]></title>
-<link>https://apnews.com/article/hurricane-melissa-disaster-relief-united-states-2e064925cf3296184065c57e784ed927</link>
-<pubDate>Thu, 30 Oct 2025 11:34:52 -0000</pubDate>
+<title><![CDATA[From parrots to chemists, the world is captivated by baseball superstar Ohtani]]></title>
+<link>https://apnews.com/article/ohtani-world-series-japan-fans-baseball-587f85eca335380c58eaeb778d8f0879</link>
+<pubDate>Fri, 31 Oct 2025 00:35:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Influential Cuban dissident says his fight against government will continue off the island]]></title>
-<link>https://apnews.com/article/cuba-dissident-jose-daniel-ferrer-trump-rubio-b928a139d79574e2c44490daad99fcda</link>
-<pubDate>Thu, 30 Oct 2025 21:27:07 -0000</pubDate>
+<title><![CDATA[Years after Argentina shut a notorious zoo, the stranded animals are finally being rescued]]></title>
+<link>https://apnews.com/article/zoo-argentina-lujan-four-paws-animal-rescue-lions-tigers-f77a962617f701c42f357cc6b168942f</link>
+<pubDate>Fri, 31 Oct 2025 04:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Grand Egyptian Museum showcasing 50,000 artifacts is finally opening]]></title>
-<link>https://apnews.com/article/egypt-antiquities-museum-gem-pyramids-aed6788fecced85cbfcb32509124b0b6</link>
-<pubDate>Thu, 30 Oct 2025 15:58:56 -0000</pubDate>
+<title><![CDATA[Brazil’s Amazon deforestation falls 11% even as fires surge to record levels]]></title>
+<link>https://apnews.com/article/deforestation-brazil-drop-amazon-data-government-fire-drought-e6f6133a3a7c1c0fcd44c9875ced0357</link>
+<pubDate>Fri, 31 Oct 2025 04:40:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show thousands of ultra-Orthodox men protesting military draft shut down Jerusalem]]></title>
+<link>https://apnews.com/photo-gallery/israel-protest-haredim-draft-military-gaza-war-b04d13843f092b1db0f69028f90acce4</link>
+<pubDate>Thu, 30 Oct 2025 22:45:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Crossing guards face life-threatening dangers on the job]]></title>
+<link>https://apnews.com/article/school-crossing-guard-fatal-traffic-accidents-725e0fdb61dd1246318028de92bc7add</link>
+<pubDate>Fri, 31 Oct 2025 04:25:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from AP, Cox Media Group investigation into injuries and deaths of school crossing guards]]></title>
+<link>https://apnews.com/article/crossing-guards-schools-death-injuries-accidents-takeaways-2041c6b63b710eaaad8c5ea60db0414b</link>
+<pubDate>Fri, 31 Oct 2025 04:10:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘It’s home': Caribbean diaspora from Miami to New York fuels Hurricane Melissa relief efforts]]></title>
 <link>https://apnews.com/article/hurricane-melissa-storm-relief-florida-new-york-956063b46ba477b23bdfbe8785699a0b</link>
 <pubDate>Fri, 31 Oct 2025 03:52:25 -0000</pubDate>
@@ -113,15 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Justice Department investigating fraud allegations in Black Lives Matter movement, AP sources say]]></title>
-<link>https://apnews.com/article/black-lives-matter-fraud-doj-investigation-trump-371e3277ff3b78bc73d3467c4692c66c</link>
-<pubDate>Thu, 30 Oct 2025 22:30:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Government shutdown offers schools a glimpse of life without an Education Department]]></title>
-<link>https://apnews.com/article/education-department-government-shutdown-schools-01ed8c35cdc5e9438ab473e33a15dab3</link>
-<pubDate>Fri, 31 Oct 2025 03:22:25 -0000</pubDate>
+<title><![CDATA[China’s factory activity contracts for 7th month, reflecting tariffs pressure on trade]]></title>
+<link>https://apnews.com/article/china-factory-economy-us-trade-2181298f18f96fa90dc6790b909f06c1</link>
+<pubDate>Fri, 31 Oct 2025 03:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,12 +146,6 @@
 <title><![CDATA[American farmers welcome China’s promise to buy soybeans, but the deal doesn’t solve everything]]></title>
 <link>https://apnews.com/article/china-trump-soybean-farmers-tariffs-trade-war-c532d730dd8c70551df384bc8a3aee76</link>
 <pubDate>Thu, 30 Oct 2025 18:47:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[GOP lawmakers urge Trump administration to back Falun Gong lawsuit against Cisco]]></title>
-<link>https://apnews.com/article/cisco-falun-gong-china-human-rights-abuses-aedf0b83212d0692e6fafe29345c04a1</link>
-<pubDate>Thu, 30 Oct 2025 21:42:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Read the statement from Buckingham Palace stripping Prince Andrew of his titles]]></title>
-<link>https://apnews.com/article/prince-andrew-titles-buckingham-palace-statement-be6306e3cc22db6c44006aea90b35b53</link>
-<pubDate>Thu, 30 Oct 2025 20:46:06 -0000</pubDate>
+<title><![CDATA[Influential Cuban dissident says his fight against government will continue off the island]]></title>
+<link>https://apnews.com/article/cuba-dissident-jose-daniel-ferrer-trump-rubio-b928a139d79574e2c44490daad99fcda</link>
+<pubDate>Fri, 31 Oct 2025 03:49:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show thousands of ultra-Orthodox men protesting military draft shut down Jerusalem]]></title>
-<link>https://apnews.com/photo-gallery/israel-protest-haredim-draft-military-gaza-war-b04d13843f092b1db0f69028f90acce4</link>
-<pubDate>Thu, 30 Oct 2025 19:40:46 -0000</pubDate>
+<title><![CDATA[Read the statement from Buckingham Palace stripping Prince Andrew of his titles]]></title>
+<link>https://apnews.com/article/prince-andrew-titles-buckingham-palace-statement-be6306e3cc22db6c44006aea90b35b53</link>
+<pubDate>Thu, 30 Oct 2025 20:46:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -278,12 +278,6 @@
 <title><![CDATA[South Korean and Japanese leaders vow to improve ties in face of global uncertainty]]></title>
 <link>https://apnews.com/article/south-korea-japan-lee-takaichi-trump-apec-7bbbb21ef6c4d6ebc4fe986691ae354a</link>
 <pubDate>Thu, 30 Oct 2025 16:16:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From parrots to chemists, the world is captivated by baseball superstar Ohtani]]></title>
-<link>https://apnews.com/article/ohtani-world-series-japan-fans-baseball-587f85eca335380c58eaeb778d8f0879</link>
-<pubDate>Thu, 30 Oct 2025 12:08:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,12 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel has erected nearly 1,000 barriers in the West Bank during the war in Gaza, group says]]></title>
-<link>https://apnews.com/article/israel-west-bank-palestinians-restrictions-barriers-09762522daaa4483af5ad02784935dd1</link>
-<pubDate>Thu, 30 Oct 2025 05:31:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump scores golden gifts as United States and Seoul advance trade talks]]></title>
 <link>https://apnews.com/article/donald-trump-south-korea-apec-japan-1b90209dcda1aa72eea323fadc90b9b1</link>
 <pubDate>Wed, 29 Oct 2025 11:28:36 -0000</pubDate>
@@ -449,6 +437,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump cuts tariffs on China after meeting Xi in South Korea]]></title>
+<link>https://apnews.com/article/trump-xi-china-trade-war-4c19a752c97828246c08f60f0dc54c79</link>
+<pubDate>Thu, 30 Oct 2025 06:16:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hurricane Melissa hit areas vulnerable to landslides because of deforestation]]></title>
 <link>https://apnews.com/article/hurricane-melissa-deforestation-landslide-cuba-jamaica-flood-c3eb0b95b603adfc6100146d231da2fd</link>
 <pubDate>Thu, 30 Oct 2025 19:29:37 -0000</pubDate>
@@ -464,12 +458,6 @@
 <title><![CDATA[Hegseth orders the military to detail dozens of attorneys to the Justice Department, AP learns]]></title>
 <link>https://apnews.com/article/hegseth-military-attorneys-immigration-justice-department-cb352bdb6c1d9d6d68f79642d69c6363</link>
 <pubDate>Thu, 30 Oct 2025 21:25:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s factory activity contracts for 7th month, reflecting tariffs pressure on trade]]></title>
-<link>https://apnews.com/article/china-factory-economy-us-trade-2181298f18f96fa90dc6790b909f06c1</link>
-<pubDate>Fri, 31 Oct 2025 04:12:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
