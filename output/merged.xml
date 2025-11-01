@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 09:33:39 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
-<link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
-<pubDate>Sat, 01 Nov 2025 08:55:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 01 Nov 2025 10:10:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Unidentified remains of 3 people transferred to Israel, Red Cross says]]></title>
 <link>https://apnews.com/article/gaza-hostages-palestinians-mideast-wars-israel-97f237aef3e6d6ce327838d5eab130bc</link>
 <pubDate>Sat, 01 Nov 2025 08:40:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
+<link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
+<pubDate>Fri, 31 Oct 2025 17:56:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘King of K-pop’ Lee Soo Man on his career, a global industry and what’s next]]></title>
+<link>https://apnews.com/article/lee-soo-man-kpop-asian-hall-fame-2e9ab24db475755f6c7167ff316df6dc</link>
+<pubDate>Sat, 01 Nov 2025 10:00:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US defense chief vows to ‘stoutly defend’ Indo-Pacific interests in talks with China]]></title>
+<link>https://apnews.com/article/malaysia-asean-defense-ministers-3812513e1e73f062046b0514f9f1ac2c</link>
+<pubDate>Sat, 01 Nov 2025 09:45:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[With fragile Gaza ceasefire holding, Trump wants to make headway on Indonesia-Israel normalization]]></title>
 <link>https://apnews.com/article/trump-indonesia-abraham-accords-israel-prabowo-1df49140800e3694fc7f7ec1bbf340f0</link>
 <pubDate>Fri, 31 Oct 2025 09:28:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s Xi promises to protect free trade at APEC as Trump snubs major summit]]></title>
-<link>https://apnews.com/article/apec-south-korea-trump-xi-983929607a2099d204173b6dd8690935</link>
-<pubDate>Fri, 31 Oct 2025 17:26:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asia-Pacific leaders wrap up APEC summit after Trump and Xi agreement on trade truce]]></title>
-<link>https://apnews.com/article/apec-south-korea-trump-xi-0b9c657bd8b45f4c780b534fdf100201</link>
-<pubDate>Sat, 01 Nov 2025 07:52:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,12 +119,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?]]></title>
-<link>https://apnews.com/article/trump-tariffs-terry-cycling-lawsui-supreme-court-b3215d8ca2edfb40b58ad374bd580d1f</link>
-<pubDate>Sat, 01 Nov 2025 06:33:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump efforts to help US coal undercut by export drop during trade war]]></title>
 <link>https://apnews.com/article/trump-coal-trade-tariffs-coal-exports-imports-b04678dc90ef1bb623cfa5bd705fec04</link>
 <pubDate>Sat, 01 Nov 2025 04:23:53 -0000</pubDate>
@@ -140,6 +134,12 @@
 <title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
 <link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
 <pubDate>Fri, 31 Oct 2025 12:24:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nvidia partners with South Korean government, companies to boost AI development]]></title>
+<link>https://apnews.com/article/south-korea-nvidia-jenen-huang-ai-ab6b67c6546223c67735693e684b0a17</link>
+<pubDate>Fri, 31 Oct 2025 07:05:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s Xi promises to protect free trade at APEC as Trump snubs major summit]]></title>
+<link>https://apnews.com/article/apec-south-korea-trump-xi-983929607a2099d204173b6dd8690935</link>
+<pubDate>Sat, 01 Nov 2025 09:00:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Latest remains returned to Israel from Gaza are not bodies of hostages, Israel says]]></title>
 <link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
 <pubDate>Sat, 01 Nov 2025 09:33:38 -0000</pubDate>
@@ -407,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
+<link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
+<pubDate>Fri, 31 Oct 2025 17:40:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump scores golden gifts as United States and Seoul advance trade talks]]></title>
 <link>https://apnews.com/article/donald-trump-south-korea-apec-japan-1b90209dcda1aa72eea323fadc90b9b1</link>
 <pubDate>Wed, 29 Oct 2025 11:28:36 -0000</pubDate>
@@ -443,6 +455,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asia-Pacific leaders wrap up APEC summit after Trump and Xi agreement on trade truce]]></title>
+<link>https://apnews.com/article/apec-south-korea-trump-xi-0b9c657bd8b45f4c780b534fdf100201</link>
+<pubDate>Sat, 01 Nov 2025 09:03:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Despair spreads across historic seaport in Jamaica that Hurricane Melissa demolished]]></title>
 <link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-black-river-a65ece21d7c68d93086634bea1d28c61</link>
 <pubDate>Fri, 31 Oct 2025 14:11:17 -0000</pubDate>
@@ -458,6 +476,12 @@
 <title><![CDATA[Ohio panel and Virginia lawmakers move forward with congressional redistricting plans]]></title>
 <link>https://apnews.com/article/virginia-ohio-congressional-redistricting-trump-midterm-election-6c617a08c84f453eacc1727f9be9ef52</link>
 <pubDate>Fri, 31 Oct 2025 19:17:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?]]></title>
+<link>https://apnews.com/article/trump-tariffs-terry-cycling-lawsui-supreme-court-b3215d8ca2edfb40b58ad374bd580d1f</link>
+<pubDate>Sat, 01 Nov 2025 04:38:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
