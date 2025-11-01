@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 02:27:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 03:30:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fate of thousands feared in Darfur after reported rampage by Sudanese paramilitary force]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-captures-fasher-f0332fcd6828ebe9cd3a47cb3c42b005</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina’s chief of staff resigns, heralding change for President Milei after election win]]></title>
+<link>https://apnews.com/article/argentina-politics-guillermo-francos-milei-498529fa796d4705bb5ed052785a48bb</link>
+<pubDate>Sat, 01 Nov 2025 02:31:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protesters call for governor’s resignation after Rio’s deadliest police raid]]></title>
 <link>https://apnews.com/article/rio-raid-favela-protest-police-2f88c0c74680776dfe044f17c96f1c95</link>
 <pubDate>Fri, 31 Oct 2025 23:10:20 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’]]></title>
 <link>https://apnews.com/article/un-us-military-strikes-south-america-ed0ce092af5ad2c64b34ed51f8ab59cc</link>
 <pubDate>Fri, 31 Oct 2025 11:32:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge orders arrest of ex-Green Beret tied to failed Venezuela raid after court no-show]]></title>
-<link>https://apnews.com/article/venezuela-green-beret-army-florida-7fb7269d83e3d46821fe2797095907e4</link>
-<pubDate>Fri, 31 Oct 2025 22:10:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FDA restricts use of kids’ fluoride supplements citing emerging health risks]]></title>
-<link>https://apnews.com/article/fluoride-fda-dental-kennedy-teeth-cavities-e27c849f8dfd226df0a447f4cb7b9335</link>
-<pubDate>Fri, 31 Oct 2025 22:55:20 -0000</pubDate>
+<title><![CDATA[Judge orders arrest of ex-Green Beret tied to failed Venezuela raid after court no-show]]></title>
+<link>https://apnews.com/article/venezuela-green-beret-army-florida-7fb7269d83e3d46821fe2797095907e4</link>
+<pubDate>Fri, 31 Oct 2025 22:10:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
