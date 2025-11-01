@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 12:57:26 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 13:20:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
 <link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ohio panel and Virginia lawmakers move forward with congressional redistricting plans]]></title>
+<link>https://apnews.com/article/virginia-ohio-congressional-redistricting-trump-midterm-election-6c617a08c84f453eacc1727f9be9ef52</link>
+<pubDate>Fri, 31 Oct 2025 16:38:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump urged GOP-led states to redraw US House districts. Now other states also are gerrymandering]]></title>
 <link>https://apnews.com/article/redistricting-gerrymandering-voting-maps-congress-trump-2ba53ae1f492f8e293f0fa261604e8c6</link>
 <pubDate>Fri, 31 Oct 2025 21:09:17 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[‘The legend lives on': Wreck of the Edmund Fitzgerald still resonates 50 years later]]></title>
 <link>https://apnews.com/article/edmund-fitzgerald-50-anniversary-gordon-lightfoot-bbe5d3e04024354482ca5ac60f4fa790</link>
 <pubDate>Sat, 01 Nov 2025 04:38:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Government ordered to use emergency funds for food aid during shutdown]]></title>
-<link>https://apnews.com/article/snap-shutdown-lawsuits-deadline-4af8b0dec6cd31cddd023cc99c131b73</link>
-<pubDate>Sat, 01 Nov 2025 10:04:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ohio panel and Virginia lawmakers move forward with congressional redistricting plans]]></title>
-<link>https://apnews.com/article/virginia-ohio-congressional-redistricting-trump-midterm-election-6c617a08c84f453eacc1727f9be9ef52</link>
-<pubDate>Fri, 31 Oct 2025 19:17:39 -0000</pubDate>
+<title><![CDATA[Uncertainty over federal food aid grows as the shutdown fight reaches a crisis point]]></title>
+<link>https://apnews.com/article/food-aid-snap-health-care-government-shutdown-41f4bb2b838c738e0d56e620bf396c8f</link>
+<pubDate>Sat, 01 Nov 2025 13:20:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
