@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 17:08:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 17:33:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
 <link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Serbia marks anniversary of deadly train station disaster with large rally]]></title>
-<link>https://apnews.com/article/serbia-canopy-collapse-protest-students-d50af39bb3c30df3a302ada9dc9ea3a9</link>
-<pubDate>Sat, 01 Nov 2025 11:52:54 -0000</pubDate>
+<title><![CDATA[Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says]]></title>
+<link>https://apnews.com/article/louvre-heist-crown-jewels-france-9dcac4b94c80bb95570133ee2d167f6b</link>
+<pubDate>Sat, 01 Nov 2025 17:27:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Despair spreads across historic seaport in Jamaica that Hurricane Melissa demolished]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-black-river-a65ece21d7c68d93086634bea1d28c61</link>
+<pubDate>Sat, 01 Nov 2025 17:12:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Argentina’s chief of staff resigns, heralding change for President Milei after election win]]></title>
 <link>https://apnews.com/article/argentina-politics-guillermo-francos-milei-498529fa796d4705bb5ed052785a48bb</link>
 <pubDate>Sat, 01 Nov 2025 02:31:45 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Canadian prime minister says he told Ontario’s premier not to run anti-tariff ad that upset Trump]]></title>
 <link>https://apnews.com/article/carney-canada-trump-tariff-ad-81450969892ac525d4ce21942f3fe973</link>
 <pubDate>Sat, 01 Nov 2025 14:00:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters call for governor’s resignation after Rio’s deadliest police raid]]></title>
-<link>https://apnews.com/article/rio-raid-favela-protest-police-2f88c0c74680776dfe044f17c96f1c95</link>
-<pubDate>Fri, 31 Oct 2025 23:10:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?]]></title>
+<link>https://apnews.com/article/trump-tariffs-terry-cycling-lawsui-supreme-court-b3215d8ca2edfb40b58ad374bd580d1f</link>
+<pubDate>Sat, 01 Nov 2025 06:33:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump efforts to help US coal undercut by export drop during trade war]]></title>
 <link>https://apnews.com/article/trump-coal-trade-tariffs-coal-exports-imports-b04678dc90ef1bb623cfa5bd705fec04</link>
 <pubDate>Sat, 01 Nov 2025 04:23:53 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
 <link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
 <pubDate>Fri, 31 Oct 2025 12:24:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nvidia partners with South Korean government, companies to boost AI development]]></title>
-<link>https://apnews.com/article/south-korea-nvidia-jenen-huang-ai-ab6b67c6546223c67735693e684b0a17</link>
-<pubDate>Fri, 31 Oct 2025 07:05:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +206,12 @@
 <title><![CDATA[How Mexico’s Day of the Dead turns skulls into joyful sugar treats]]></title>
 <link>https://apnews.com/article/day-of-dead-sugar-skulls-mexico-altars-offerings-4b1934f2c380322b2b434f2b4f052ece</link>
 <pubDate>Sat, 01 Nov 2025 06:14:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Protesters call for governor’s resignation after Rio’s deadliest police raid]]></title>
+<link>https://apnews.com/article/rio-raid-favela-protest-police-2f88c0c74680776dfe044f17c96f1c95</link>
+<pubDate>Sat, 01 Nov 2025 16:35:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,12 +470,6 @@
 <title><![CDATA[Uncertainty over federal food aid grows as the shutdown fight reaches a crisis point]]></title>
 <link>https://apnews.com/article/food-aid-snap-health-care-government-shutdown-41f4bb2b838c738e0d56e620bf396c8f</link>
 <pubDate>Sat, 01 Nov 2025 13:20:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?]]></title>
-<link>https://apnews.com/article/trump-tariffs-terry-cycling-lawsui-supreme-court-b3215d8ca2edfb40b58ad374bd580d1f</link>
-<pubDate>Sat, 01 Nov 2025 04:38:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
