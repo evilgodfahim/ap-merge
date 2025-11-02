@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 09:09:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 09:32:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian students return to schools stripped bare by conflict]]></title>
 <link>https://apnews.com/article/syria-schools-rebuilding-idlib-unicef-8976fac6649c000a2c9a4876e734a82f</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A drone sighting temporarily suspends air travel at the Berlin airport]]></title>
-<link>https://apnews.com/article/berlin-airport-drone-germany-233028211d399bbbbbca72a08a767ef3</link>
-<pubDate>Sat, 01 Nov 2025 11:04:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Andrew will head into exile at King Charles’ private and remote Sandringham estate]]></title>
 <link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
 <pubDate>Sun, 02 Nov 2025 06:15:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
+<link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
+<pubDate>Sun, 02 Nov 2025 09:26:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Catholics honor All Saints’ Day with family gatherings and cemetery visits across Poland]]></title>
+<link>https://apnews.com/article/all-saints-day-poland-catholics-e3c1ae6591145e7082ee99556decfdd2</link>
+<pubDate>Sun, 02 Nov 2025 09:20:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ohtani and Yamamoto make Japan proud helping Dodgers repeat as World Series champions]]></title>
 <link>https://apnews.com/article/world-series-japan-ohtani-yamamoto-834b4abbe9566e5514076f8a833c4686</link>
 <pubDate>Sun, 02 Nov 2025 08:12:26 -0000</pubDate>
@@ -182,12 +188,6 @@
 <title><![CDATA[Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured]]></title>
 <link>https://apnews.com/article/mexico-store-fire-explosion-hermosillo-9d4f7ead04fbfaa435ff77cb0c1e3768</link>
 <pubDate>Sun, 02 Nov 2025 06:05:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
-<link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
-<pubDate>Sun, 02 Nov 2025 05:00:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +254,12 @@
 <title><![CDATA[Andrew’s royal exit is the latest crisis for Britain’s monarchy]]></title>
 <link>https://apnews.com/article/uk-royals-crisis-andrew-harry-diana-1d0364650f733640588a76691c47a650</link>
 <pubDate>Sun, 02 Nov 2025 05:50:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A drone sighting temporarily suspends air travel at the Berlin airport]]></title>
+<link>https://apnews.com/article/berlin-airport-drone-germany-233028211d399bbbbbca72a08a767ef3</link>
+<pubDate>Sun, 02 Nov 2025 09:05:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
