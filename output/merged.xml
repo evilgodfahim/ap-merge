@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 03:34:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 04:14:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel puts off signing $35 billion gas deal with Egypt, prompts US energy secretary to cancel visit]]></title>
 <link>https://apnews.com/article/israel-egypt-gas-deal-us-energy-secretary-c5ae862a3f9898a6b1b225196181ab71</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea calls for greater Chinese efforts to bring North Korea back to talks]]></title>
+<link>https://apnews.com/article/apec-south-korea-trump-xi-0b9c657bd8b45f4c780b534fdf100201</link>
+<pubDate>Sun, 02 Nov 2025 04:08:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US urges ASEAN to be firm in countering China in the South China Sea]]></title>
 <link>https://apnews.com/article/china-us-asean-south-china-sea-cb665d76fbb965eb616f9209c410fbaa</link>
 <pubDate>Sat, 01 Nov 2025 10:19:21 -0000</pubDate>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘King of K-pop’ Lee Soo Man on his career, a global industry and what’s next]]></title>
-<link>https://apnews.com/article/lee-soo-man-kpop-asian-hall-fame-2e9ab24db475755f6c7167ff316df6dc</link>
-<pubDate>Sat, 01 Nov 2025 10:00:29 -0000</pubDate>
+<title><![CDATA[US carries out new strike in Caribbean, killing 3 alleged drug smugglers]]></title>
+<link>https://apnews.com/article/us-military-strike-drug-smugglers-caribbean-44e98087294f015dc77e17025ecbb5e8</link>
+<pubDate>Sun, 02 Nov 2025 03:53:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Argentina’s chief of staff resigns, heralding change for President Milei after election win]]></title>
 <link>https://apnews.com/article/argentina-politics-guillermo-francos-milei-498529fa796d4705bb5ed052785a48bb</link>
 <pubDate>Sat, 01 Nov 2025 02:31:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canadian PM Carney says he told Ontario’s premier not to run anti-tariff ad that upset Trump]]></title>
-<link>https://apnews.com/article/carney-canada-trump-tariff-ad-81450969892ac525d4ce21942f3fe973</link>
-<pubDate>Sat, 01 Nov 2025 18:30:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘King of K-pop’ Lee Soo Man on his career, a global industry and what’s next]]></title>
+<link>https://apnews.com/article/lee-soo-man-kpop-asian-hall-fame-2e9ab24db475755f6c7167ff316df6dc</link>
+<pubDate>Sat, 01 Nov 2025 10:00:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?]]></title>
 <link>https://apnews.com/article/trump-tariffs-terry-cycling-lawsui-supreme-court-b3215d8ca2edfb40b58ad374bd580d1f</link>
 <pubDate>Sat, 01 Nov 2025 06:33:27 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[China’s Shenzhou 21 docks with space station, sets the country’s own speed record]]></title>
 <link>https://apnews.com/article/china-space-station-shenzhou-launch-mice-55db8a37059086663fd0c2cbf992a03b</link>
 <pubDate>Fri, 31 Oct 2025 22:40:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
-<link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
-<pubDate>Fri, 31 Oct 2025 12:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +335,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Floods kill 13 in Central Vietnam as rescue operations push forward]]></title>
-<link>https://apnews.com/article/vietnam-floods-danang-41ea9fdfe6121d1dff276a586f7ffb50</link>
-<pubDate>Fri, 31 Oct 2025 18:22:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A solid gold toilet is up for auction with a $10 million starting price]]></title>
-<link>https://apnews.com/article/golden-toilet-cattelan-auction-sothebys-new-york-fc605c4b6b9f5f2c3e8d3b2c9f7ebd78</link>
-<pubDate>Fri, 31 Oct 2025 11:53:26 -0000</pubDate>
+<title><![CDATA[Xi and Carney, meeting in South Korea, try to rebuild China-Canada relations]]></title>
+<link>https://apnews.com/article/china-canada-xi-carney-apec-ace80262b0e54460f6994bf48322abed</link>
+<pubDate>Sun, 02 Nov 2025 03:39:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +440,6 @@
 <title><![CDATA[Federal Reserve cuts key rate yet Powell says future reductions are not locked in]]></title>
 <link>https://apnews.com/article/federal-reserve-cut-inflation-jobs-e689e1397856aa24ffebdaaefa9762a2</link>
 <pubDate>Wed, 29 Oct 2025 21:20:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea calls for greater Chinese efforts to bring North Korea back to talks]]></title>
-<link>https://apnews.com/article/apec-south-korea-trump-xi-0b9c657bd8b45f4c780b534fdf100201</link>
-<pubDate>Sat, 01 Nov 2025 11:47:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
