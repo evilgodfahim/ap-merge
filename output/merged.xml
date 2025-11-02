@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 07:09:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 07:32:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian students return to schools stripped bare by conflict]]></title>
+<link>https://apnews.com/article/syria-schools-rebuilding-idlib-unicef-8976fac6649c000a2c9a4876e734a82f</link>
+<pubDate>Sun, 02 Nov 2025 07:19:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel puts off signing $35 billion gas deal with Egypt, prompts US energy secretary to cancel visit]]></title>
 <link>https://apnews.com/article/israel-egypt-gas-deal-us-energy-secretary-c5ae862a3f9898a6b1b225196181ab71</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s military prosecutor admits she leaked video of soldiers assaulting a Palestinian detainee]]></title>
-<link>https://apnews.com/article/military-prosecutor-resignation-leak-sde-teiman-abuse-tomer-304deb724067c3644a02dcc0590e703a</link>
-<pubDate>Sat, 01 Nov 2025 21:28:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police say 10 people in hospital after train stabbing attack, 9 with life-threatening injuries]]></title>
-<link>https://apnews.com/article/britain-train-stabbing-arrests-a3de4c7dffe4e27a89470f885a0917f7</link>
-<pubDate>Sun, 02 Nov 2025 03:04:08 -0000</pubDate>
+<title><![CDATA[UK police detain 2 suspects after train stabbings leave 9 people with life-threatening injuries]]></title>
+<link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
+<pubDate>Sun, 02 Nov 2025 07:04:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
-<link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
-<pubDate>Sat, 01 Nov 2025 08:55:31 -0000</pubDate>
+<title><![CDATA[Lebanon’s president calls for mutual talks to end continued Israeli strikes]]></title>
+<link>https://apnews.com/article/lebanon-israel-ceasefire-hezbollah-germany-bd6c573d958eba9036841f6700ed1789</link>
+<pubDate>Sat, 01 Nov 2025 20:33:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
 <link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
 <pubDate>Sun, 02 Nov 2025 05:00:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK police say 10 people in hospital after train stabbing attack, 9 with life-threatening injuries]]></title>
+<link>https://apnews.com/article/britain-train-stabbing-arrests-a3de4c7dffe4e27a89470f885a0917f7</link>
+<pubDate>Sun, 02 Nov 2025 06:54:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +323,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel’s military prosecutor admits she leaked video of soldiers assaulting a Palestinian detainee]]></title>
+<link>https://apnews.com/article/military-prosecutor-resignation-leak-sde-teiman-abuse-tomer-304deb724067c3644a02dcc0590e703a</link>
+<pubDate>Sun, 02 Nov 2025 06:09:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
+<link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
+<pubDate>Sat, 01 Nov 2025 22:16:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan says it seeks no further escalation but urges Afghanistan to act against militants]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-easing-tensions-refugees-return-56470e5f60aa5ecb6293e07b46fe6f67</link>
 <pubDate>Sat, 01 Nov 2025 00:51:45 -0000</pubDate>
@@ -329,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon’s president calls for mutual talks to end continued Israeli strikes]]></title>
-<link>https://apnews.com/article/lebanon-israel-ceasefire-hezbollah-germany-bd6c573d958eba9036841f6700ed1789</link>
-<pubDate>Sat, 01 Nov 2025 22:01:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces]]></title>
 <link>https://apnews.com/article/russia-ukraine-drone-fuel-pipeline-8a66ccb8bf59f1dc045266a088efe67e</link>
 <pubDate>Sat, 01 Nov 2025 10:37:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police detain 2 suspects after train stabbings leave 9 people with life-threatening injuries]]></title>
-<link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
-<pubDate>Sun, 02 Nov 2025 07:09:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
