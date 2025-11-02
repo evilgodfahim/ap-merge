@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 12:17:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 12:57:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US envoy calls Lebanon a ‘failed state’ as Syria expected to join anti-IS coalition]]></title>
 <link>https://apnews.com/article/lebanon-barrack-syria-israel-hezbollah-ac094d1a19a5063b2f130c90f55db441</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about a stabbing attack aboard a train in Britain]]></title>
+<link>https://apnews.com/article/uk-train-stabbings-what-to-know-b167cc0b87ae4d442dbe9bafd6966b62</link>
+<pubDate>Sun, 02 Nov 2025 12:39:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[2 people killed in Ukraine’s Odesa region as Russia continues to blast power grid]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-drones-energy-power-infrastructure-odesa-d4da17ce7fbb0a7b58c62bc290eedaf7</link>
 <pubDate>Sun, 02 Nov 2025 08:23:18 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says]]></title>
 <link>https://apnews.com/article/louvre-crown-jewels-heist-investigation-france-86a12fdeddc1b20e7b3418bff63687a1</link>
 <pubDate>Sun, 02 Nov 2025 11:32:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Andrew will be banished from royal premises to King Charles’ private and remote Sandringham estate]]></title>
-<link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
-<pubDate>Sun, 02 Nov 2025 10:00:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Uncertainty over federal food aid grows as the shutdown fight reaches a crisis point]]></title>
+<link>https://apnews.com/article/food-aid-snap-health-care-government-shutdown-41f4bb2b838c738e0d56e620bf396c8f</link>
+<pubDate>Sun, 02 Nov 2025 12:24:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ohio panel and Virginia lawmakers move forward with congressional redistricting plans]]></title>
 <link>https://apnews.com/article/virginia-ohio-congressional-redistricting-trump-midterm-election-6c617a08c84f453eacc1727f9be9ef52</link>
 <pubDate>Fri, 31 Oct 2025 16:38:09 -0000</pubDate>
@@ -122,12 +128,6 @@
 <title><![CDATA[Furloughed federal workers face delays getting unemployment pay during shutdown]]></title>
 <link>https://apnews.com/article/furlough-federal-workers-unemployment-government-shutdown-e0c73357aab61c7a6162cfb26c659c03</link>
 <pubDate>Sat, 01 Nov 2025 13:30:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Joyful Day of the Dead commemorations rally US Latino communities despite immigration raid fears]]></title>
-<link>https://apnews.com/article/day-of-dead-immigration-minneapolis-chicago-0ba9af27a290a34f6a03a83cf86ba1ef</link>
-<pubDate>Sat, 01 Nov 2025 20:58:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,6 +179,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Macedonia votes in second round of local election with ruling conservatives leading]]></title>
+<link>https://apnews.com/article/north-macedonia-skopje-elections-garbage-dd75ea46c71d02e1b19df34873b20b32</link>
+<pubDate>Sun, 02 Nov 2025 12:36:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[5 German mountaineers die in northern Italy after being hit by avalanche]]></title>
 <link>https://apnews.com/article/italy-tyrol-german-mountaineers-avalanche-deaths-b3c6247e12dfea078c91e2426063a4e9</link>
 <pubDate>Sun, 02 Nov 2025 11:31:01 -0000</pubDate>
@@ -203,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the British king’s remote private estate that will be Andrew’s new home]]></title>
+<link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
+<pubDate>Sun, 02 Nov 2025 12:21:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
 <link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
 <pubDate>Sun, 02 Nov 2025 05:00:39 -0000</pubDate>
@@ -218,6 +230,12 @@
 <title><![CDATA[Photos show Japan’s fascination with baseball superstar Shohei Ohtani]]></title>
 <link>https://apnews.com/photo-gallery/shohei-ohtani-baseball-world-series-07a09c712fb5cc271ee35effa34303ca</link>
 <pubDate>Sat, 01 Nov 2025 21:25:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Joyful Day of the Dead commemorations rally US Latino communities despite immigration raid fears]]></title>
+<link>https://apnews.com/article/day-of-dead-immigration-minneapolis-chicago-0ba9af27a290a34f6a03a83cf86ba1ef</link>
+<pubDate>Sun, 02 Nov 2025 12:06:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,33 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of Prince Andrew’s royal life before his fall from grace]]></title>
-<link>https://apnews.com/photo-gallery/prince-andrew-royal-photos-def05e37c52ba5c6d67a4f804c4ee2cd</link>
-<pubDate>Fri, 31 Oct 2025 19:27:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US national intelligence director says former American strategy of ‘regime change’ is over]]></title>
-<link>https://apnews.com/article/gabbard-trump-foreign-policy-bahrain-manama-dialogue-f06d1bcfb12c054ded2298e1ad07f78c</link>
-<pubDate>Sat, 01 Nov 2025 22:16:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police say 2 people remain in life-threatening condition after a stabbing attack on a train]]></title>
+<title><![CDATA[Police rule out terrorism in stabbing attack on UK train after 2 men are arrested]]></title>
 <link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
-<pubDate>Sun, 02 Nov 2025 11:52:06 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 12:56:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tariffs are Trump’s favorite foreign policy tool. The Supreme Court could change how he uses them]]></title>
+<link>https://apnews.com/article/trump-tariffs-supreme-court-foreign-policy-21337d2c11e629da3f187cdeb381d58b</link>
+<pubDate>Sun, 02 Nov 2025 12:41:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Canada and Philippines sign a defense pact to boost drills and deter China’s aggression]]></title>
 <link>https://apnews.com/article/canada-philippines-status-of-visiting-forces-agreement-south-china-sea-63b1796609b632da86eabbe89cd622b6</link>
 <pubDate>Sun, 02 Nov 2025 10:22:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane Melissa deals another heavy blow to Jamaica’s farmers and fishers]]></title>
-<link>https://apnews.com/article/hurricane-melissa-farmers-jamaica-cuba-haiti-wfp-880f6182c6054f8b65a34872d9e211cc</link>
-<pubDate>Sun, 02 Nov 2025 10:07:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,21 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel puts off signing $35 billion gas deal with Egypt, prompts US energy secretary to cancel visit]]></title>
-<link>https://apnews.com/article/israel-egypt-gas-deal-us-energy-secretary-c5ae862a3f9898a6b1b225196181ab71</link>
-<pubDate>Fri, 31 Oct 2025 11:12:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump threatens Nigeria with potential military action and escalates claim of Christian persecution]]></title>
 <link>https://apnews.com/article/nigeria-christian-genocide-trump-9e09e52e33e7efe2d2d27360d3695ef5</link>
 <pubDate>Sun, 02 Nov 2025 11:22:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Uncertainty over federal food aid grows as the shutdown fight reaches a crisis point]]></title>
-<link>https://apnews.com/article/food-aid-snap-health-care-government-shutdown-41f4bb2b838c738e0d56e620bf396c8f</link>
-<pubDate>Sat, 01 Nov 2025 13:20:23 -0000</pubDate>
+<title><![CDATA[East Wing ballroom donations by corporate owners create awkward moments for news outlets]]></title>
+<link>https://apnews.com/article/white-house-media-east-wing-renovation-donors-b019e9077c60a3adbdd2037cc3c49270</link>
+<pubDate>Sun, 02 Nov 2025 12:26:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
