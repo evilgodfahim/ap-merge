@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 19:32:20 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Israel says the latest remains returned from Gaza by Hamas are not of hostages]]></title>
-<link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
-<pubDate>Sun, 02 Nov 2025 18:59:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 02 Nov 2025 20:10:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump to host al-Sharaa in first-ever visit by a Syrian president to White House, official says]]></title>
 <link>https://apnews.com/article/trump-syria-alsharaa-white-house-visit-efafdc05652c2c7256e0a42e7dedb096</link>
 <pubDate>Sun, 02 Nov 2025 17:56:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands of bicycles take over Dubai’s busiest highway as part of a fitness challenge]]></title>
+<link>https://apnews.com/article/dubai-ride-bicycles-sheikh-zayed-road-7756658632c6e2255bf6a123d9b438f3</link>
+<pubDate>Sun, 02 Nov 2025 16:53:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured]]></title>
 <link>https://apnews.com/article/mexico-store-fire-explosion-hermosillo-9d4f7ead04fbfaa435ff77cb0c1e3768</link>
 <pubDate>Sun, 02 Nov 2025 15:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[With pharaoh-like fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization]]></title>
-<link>https://apnews.com/article/egypt-antiquities-museum-pyramids-tutankhamun-1ead2ce683277e613a3aaebb9944d729</link>
-<pubDate>Sun, 02 Nov 2025 16:38:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the 4 suspects in the Louvre crown jewels heist]]></title>
+<link>https://apnews.com/article/louvre-crown-jewels-heist-suspects-36134e7d6a6e7bd7f94ca880dfdcd600</link>
+<pubDate>Sun, 02 Nov 2025 20:10:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Obiri sets women’s NYC Marathon course record, Kipruto wins men’s race by a fraction of a second]]></title>
 <link>https://apnews.com/article/nyc-marathon-dd6bfdbc52875af31c69e6cd3b09dbf6</link>
 <pubDate>Sun, 02 Nov 2025 18:40:55 -0000</pubDate>
@@ -197,9 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Macedonia votes in second round of local election with ruling conservatives leading]]></title>
+<title><![CDATA[North Macedonia holds second round of local election with ruling conservatives leading]]></title>
 <link>https://apnews.com/article/north-macedonia-skopje-elections-garbage-dd75ea46c71d02e1b19df34873b20b32</link>
-<pubDate>Sun, 02 Nov 2025 12:36:33 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 19:55:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,12 +218,6 @@
 <title><![CDATA[Ohtani and Yamamoto make Japan proud helping Dodgers repeat as World Series champions]]></title>
 <link>https://apnews.com/article/world-series-japan-ohtani-yamamoto-834b4abbe9566e5514076f8a833c4686</link>
 <pubDate>Sun, 02 Nov 2025 08:12:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the British king’s remote private estate that will be Andrew’s new home]]></title>
-<link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
-<pubDate>Sun, 02 Nov 2025 12:21:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +335,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[With pharaoh-like fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization]]></title>
+<link>https://apnews.com/article/egypt-antiquities-museum-pyramids-tutankhamun-1ead2ce683277e613a3aaebb9944d729</link>
+<pubDate>Sun, 02 Nov 2025 17:04:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How Mexico’s Day of the Dead turns skulls into joyful sugar treats]]></title>
 <link>https://apnews.com/article/day-of-dead-sugar-skulls-mexico-altars-offerings-4b1934f2c380322b2b434f2b4f052ece</link>
 <pubDate>Sat, 01 Nov 2025 06:14:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK police say a man arrested over train stabbings is released without charge]]></title>
+<title><![CDATA[UK police release 1 of 2 men arrested over train stabbings and laud ‘heroic’ rail worker]]></title>
 <link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
-<pubDate>Sun, 02 Nov 2025 18:40:55 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 19:57:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the 4 suspects in the Louvre crown jewels heist]]></title>
-<link>https://apnews.com/article/louvre-crown-jewels-heist-suspects-36134e7d6a6e7bd7f94ca880dfdcd600</link>
-<pubDate>Sun, 02 Nov 2025 17:04:22 -0000</pubDate>
+<title><![CDATA[Israel says it received the remains of 3 hostages from Gaza as fragile ceasefire holds]]></title>
+<link>https://apnews.com/article/israel-hamas-hostages-red-cross-8ca13d2df82395aec0b7d5cc4d996fd8</link>
+<pubDate>Sun, 02 Nov 2025 19:42:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,6 +398,12 @@
 <title><![CDATA[Billionaire Sylvan Adams donates $100M to rebuild Israeli hospital struck by Iranian missile]]></title>
 <link>https://apnews.com/article/israel-iran-soroka-missile-attack-negev-hospital-fcf6eee7a7796263179f593a83cbae7b</link>
 <pubDate>Sun, 02 Nov 2025 16:19:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says the latest remains returned from Gaza by Hamas are not of hostages]]></title>
+<link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
+<pubDate>Sat, 01 Nov 2025 20:33:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
