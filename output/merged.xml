@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 05:38:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 06:15:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel puts off signing $35 billion gas deal with Egypt, prompts US energy secretary to cancel visit]]></title>
 <link>https://apnews.com/article/israel-egypt-gas-deal-us-energy-secretary-c5ae862a3f9898a6b1b225196181ab71</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Andrew’s royal exit is the latest crisis for Britain’s monarchy]]></title>
-<link>https://apnews.com/article/uk-royals-crisis-andrew-harry-diana-1d0364650f733640588a76691c47a650</link>
-<pubDate>Sat, 01 Nov 2025 12:07:54 -0000</pubDate>
+<title><![CDATA[Andrew will head into exile at King Charles’ private and remote Sandringham estate]]></title>
+<link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
+<pubDate>Sun, 02 Nov 2025 06:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Despair spreads across historic seaport in Jamaica that Hurricane Melissa demolished]]></title>
-<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-black-river-a65ece21d7c68d93086634bea1d28c61</link>
-<pubDate>Sat, 01 Nov 2025 17:12:20 -0000</pubDate>
+<title><![CDATA[Hurricane Melissa deals another heavy blow to Jamaica’s farmers and fishers]]></title>
+<link>https://apnews.com/article/hurricane-melissa-farmers-jamaica-cuba-haiti-wfp-880f6182c6054f8b65a34872d9e211cc</link>
+<pubDate>Sun, 02 Nov 2025 06:00:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Argentina’s chief of staff resigns, heralding change for President Milei after election win]]></title>
-<link>https://apnews.com/article/argentina-politics-guillermo-francos-milei-498529fa796d4705bb5ed052785a48bb</link>
-<pubDate>Sat, 01 Nov 2025 02:31:45 -0000</pubDate>
+<title><![CDATA[Despair spreads across historic seaport in Jamaica that Hurricane Melissa demolished]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-black-river-a65ece21d7c68d93086634bea1d28c61</link>
+<pubDate>Sat, 01 Nov 2025 17:12:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured]]></title>
+<link>https://apnews.com/article/mexico-store-fire-explosion-hermosillo-9d4f7ead04fbfaa435ff77cb0c1e3768</link>
+<pubDate>Sun, 02 Nov 2025 06:05:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
 <link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
 <pubDate>Sun, 02 Nov 2025 05:00:39 -0000</pubDate>
@@ -224,6 +230,12 @@
 <title><![CDATA[With bombs and bravado, Trump puts his own stamp on Reagan’s ‘peace through strength’ mantle]]></title>
 <link>https://apnews.com/article/trump-peacemaker-wars-legacy-7017f99ef27c15aac727928395c853c1</link>
 <pubDate>Sat, 01 Nov 2025 16:50:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Andrew’s royal exit is the latest crisis for Britain’s monarchy]]></title>
+<link>https://apnews.com/article/uk-royals-crisis-andrew-harry-diana-1d0364650f733640588a76691c47a650</link>
+<pubDate>Sun, 02 Nov 2025 05:50:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protests and grief as Serbia marks anniversary of tragedy that killed 16. Here’s what to know]]></title>
-<link>https://apnews.com/article/serbia-anniversary-station-novi-sad-protest-vucic-6d886ed2b10591834144b209ceb83ccf</link>
-<pubDate>Fri, 31 Oct 2025 13:47:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish court sentences hotel owner and 10 others to life for deadly fire that killed 78]]></title>
-<link>https://apnews.com/article/turkey-deadly-ski-resort-fire-trial-sentences-6a4dda7ad84983541a57ff4b1e0e72f4</link>
-<pubDate>Fri, 31 Oct 2025 13:32:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces]]></title>
 <link>https://apnews.com/article/russia-ukraine-drone-fuel-pipeline-8a66ccb8bf59f1dc045266a088efe67e</link>
 <pubDate>Sat, 01 Nov 2025 10:37:44 -0000</pubDate>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[With pharaoh-fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization]]></title>
+<title><![CDATA[With pharaoh-like fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization]]></title>
 <link>https://apnews.com/article/egypt-antiquities-museum-pyramids-tutankhamun-1ead2ce683277e613a3aaebb9944d729</link>
-<pubDate>Sat, 01 Nov 2025 14:01:41 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 06:01:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
