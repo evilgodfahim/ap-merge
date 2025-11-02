@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 17:08:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 17:34:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Thousands of bicycles take over Dubai’s busiest highway as part of a fitness challenge]]></title>
 <link>https://apnews.com/article/dubai-ride-bicycles-sheikh-zayed-road-7756658632c6e2255bf6a123d9b438f3</link>
@@ -173,12 +173,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian inquiry finds most allegations of kidnapped Alawite women are false]]></title>
-<link>https://apnews.com/article/syria-kidnapped-alawite-women-committee-fdcbfb70d70f6e0c43d47906f2d9b4c5</link>
-<pubDate>Sun, 02 Nov 2025 14:47:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[AI song generator Udio offers brief window for downloads after Universal settlement upsets users]]></title>
 <link>https://apnews.com/article/udio-universal-music-settlement-ai-song-downloads-774138b81d73f0652fcd1c19af165057</link>
 <pubDate>Sun, 02 Nov 2025 13:42:05 -0000</pubDate>
@@ -305,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US and China agree to set up direct military communication channels, Hegseth says]]></title>
+<link>https://apnews.com/article/china-us-asean-south-china-sea-cb665d76fbb965eb616f9209c410fbaa</link>
+<pubDate>Sun, 02 Nov 2025 17:19:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A drone sighting temporarily suspends air travel at the Berlin airport]]></title>
 <link>https://apnews.com/article/berlin-airport-drone-germany-233028211d399bbbbbca72a08a767ef3</link>
 <pubDate>Sun, 02 Nov 2025 09:05:57 -0000</pubDate>
@@ -341,21 +341,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protesters call for governor’s resignation after Rio’s deadliest police raid]]></title>
-<link>https://apnews.com/article/rio-raid-favela-protest-police-2f88c0c74680776dfe044f17c96f1c95</link>
-<pubDate>Sat, 01 Nov 2025 16:35:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guyana arrests incoming opposition leader following US extradition request]]></title>
-<link>https://apnews.com/article/guyana-azruddin-mohamed-arrested-us-extradition-8b209b01a817189b4e700a93e6dac5a5</link>
-<pubDate>Fri, 31 Oct 2025 22:38:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police rule out terrorism in stabbing attack on UK train after 2 men are arrested]]></title>
+<title><![CDATA[Police rule out terrorism in mass stabbing attack on UK train after 2 men are arrested]]></title>
 <link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
-<pubDate>Sun, 02 Nov 2025 12:56:58 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 17:34:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says China’s Xi has assured him that he won’t take action on Taiwan during Republican’s term]]></title>
+<link>https://apnews.com/article/trump-xi-china-taiwan-853adf6a760375dc2dfc66ea59c8d60c</link>
+<pubDate>Sun, 02 Nov 2025 17:19:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the 4 suspects in the Louvre crown jewels heist]]></title>
+<link>https://apnews.com/article/louvre-crown-jewels-heist-suspects-36134e7d6a6e7bd7f94ca880dfdcd600</link>
+<pubDate>Sun, 02 Nov 2025 17:04:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump to host al-Sharaa in first-ever visit by a Syrian president to White House, official says]]></title>
-<link>https://apnews.com/article/trump-syria-alsharaa-white-house-visit-efafdc05652c2c7256e0a42e7dedb096</link>
-<pubDate>Sun, 02 Nov 2025 09:52:00 -0000</pubDate>
+<title><![CDATA[Syrian inquiry finds most allegations of kidnapped Alawite women are false]]></title>
+<link>https://apnews.com/article/syria-kidnapped-alawite-women-committee-fdcbfb70d70f6e0c43d47906f2d9b4c5</link>
+<pubDate>Sun, 02 Nov 2025 16:49:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraq’s foreign minister calls for disarmament of ‘PKK elements’ in the north]]></title>
+<link>https://apnews.com/article/iraq-turkey-pkk-kurds-disarmament-494c5c1feb2dd9ea970fb7b7f0aea7fd</link>
+<pubDate>Sun, 02 Nov 2025 16:34:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Billionaire Sylvan Adams donates $100M to rebuild Israeli hospital struck by Iranian missile]]></title>
+<link>https://apnews.com/article/israel-iran-soroka-missile-attack-negev-hospital-fcf6eee7a7796263179f593a83cbae7b</link>
+<pubDate>Sun, 02 Nov 2025 16:19:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says the latest remains returned from Gaza by Hamas are not of hostages]]></title>
+<link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
+<pubDate>Sat, 01 Nov 2025 20:33:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian students return to schools stripped bare by conflict]]></title>
-<link>https://apnews.com/article/syria-schools-rebuilding-idlib-unicef-8976fac6649c000a2c9a4876e734a82f</link>
-<pubDate>Fri, 31 Oct 2025 06:16:36 -0000</pubDate>
+<title><![CDATA[What to know as Nigeria rejects US military threat over alleged Christian killings]]></title>
+<link>https://apnews.com/article/nigeria-trumo-christians-persecution-2aa6ffc42eeedc260122021bf51b0028</link>
+<pubDate>Sun, 02 Nov 2025 16:04:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
