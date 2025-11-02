@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 11:07:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 11:32:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US envoy calls Lebanon a ‘failed state’ as Syria expected to join anti-IS coalition]]></title>
 <link>https://apnews.com/article/lebanon-barrack-syria-israel-hezbollah-ac094d1a19a5063b2f130c90f55db441</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paris prosecutor: 2 Louvre heist suspects had prior theft conviction together]]></title>
+<title><![CDATA[Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says]]></title>
 <link>https://apnews.com/article/louvre-crown-jewels-heist-investigation-france-86a12fdeddc1b20e7b3418bff63687a1</link>
-<pubDate>Sun, 02 Nov 2025 10:15:55 -0000</pubDate>
+<pubDate>Sun, 02 Nov 2025 11:32:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Andrew will be banished from royal premises to King Charles’ private and remote Sandringham estate]]></title>
 <link>https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854</link>
 <pubDate>Sun, 02 Nov 2025 10:00:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[9 dead, dozens injured in crowd surge at Hindu temple in southern India]]></title>
+<link>https://apnews.com/article/stampede-swami-venkateswara-temple-andhra-pradesh-f8dee5b4bc65fd851e40f74ddfc05d37</link>
+<pubDate>Sun, 02 Nov 2025 11:17:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[US and China agree to set up direct military communication channels, Hegseth says]]></title>
 <link>https://apnews.com/article/china-us-asean-south-china-sea-cb665d76fbb965eb616f9209c410fbaa</link>
 <pubDate>Sun, 02 Nov 2025 05:10:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan partially reopens Torkham border crossing to allow Afghan refugees to leave]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-torkham-crossing-81b8dad2d70062c5bf4bdcdc5eee9c00</link>
-<pubDate>Sat, 01 Nov 2025 14:15:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -155,6 +155,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Josh Hazlewood’s three-wicket haul sets up Australia’s win over India in second T20]]></title>
+<link>https://apnews.com/article/india-cricket-australia-mcg-a7cb2d2e907d25d0bbc6ef979f2e530a</link>
+<pubDate>Sun, 02 Nov 2025 11:02:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US defense chief vows to ‘stoutly defend’ Indo-Pacific interests in talks with China]]></title>
 <link>https://apnews.com/article/malaysia-asean-defense-ministers-3812513e1e73f062046b0514f9f1ac2c</link>
 <pubDate>Sat, 01 Nov 2025 09:45:29 -0000</pubDate>
@@ -173,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rain washes out Twenty20 series opener between Australia and India]]></title>
-<link>https://apnews.com/article/australia-india-cricket-t20-6f2cf8daae7397cc06ef1e94d9e19a22</link>
-<pubDate>Wed, 29 Oct 2025 15:35:22 -0000</pubDate>
+<title><![CDATA[5 German mountaineers die in northern Italy after being hit by avalanche]]></title>
+<link>https://apnews.com/article/italy-tyrol-german-mountaineers-avalanche-deaths-b3c6247e12dfea078c91e2426063a4e9</link>
+<pubDate>Sun, 02 Nov 2025 11:31:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +200,12 @@
 <title><![CDATA[Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured]]></title>
 <link>https://apnews.com/article/mexico-store-fire-explosion-hermosillo-9d4f7ead04fbfaa435ff77cb0c1e3768</link>
 <pubDate>Sun, 02 Nov 2025 06:05:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil]]></title>
+<link>https://apnews.com/article/prince-william-earthshot-prize-environment-cop-brazil-06f13ed16d5e1477923f3456d1ff284d</link>
+<pubDate>Sun, 02 Nov 2025 05:00:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan partially reopens Torkham border crossing to allow Afghan refugees to leave]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-torkham-crossing-81b8dad2d70062c5bf4bdcdc5eee9c00</link>
+<pubDate>Sun, 02 Nov 2025 11:16:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How Mexico’s Day of the Dead turns skulls into joyful sugar treats]]></title>
 <link>https://apnews.com/article/day-of-dead-sugar-skulls-mexico-altars-offerings-4b1934f2c380322b2b434f2b4f052ece</link>
 <pubDate>Sat, 01 Nov 2025 06:14:19 -0000</pubDate>
@@ -335,27 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says it seeks no further escalation but urges Afghanistan to act against militants]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-easing-tensions-refugees-return-56470e5f60aa5ecb6293e07b46fe6f67</link>
-<pubDate>Sat, 01 Nov 2025 00:51:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Top photos of Halloween celebrated around the world]]></title>
-<link>https://apnews.com/photo-gallery/halloween-pumpkins-photos-white-house-bash-costumes-143f76966dbd715ae2ad4b5be9a06f57</link>
-<pubDate>Sat, 01 Nov 2025 04:06:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[UK police detain 2 suspects after train stabbings leave 9 people with life-threatening injuries]]></title>
 <link>https://apnews.com/article/britain-train-stabbings-victims-investigation-2493176af723564c142fb5b9f1e9a10c</link>
 <pubDate>Sun, 02 Nov 2025 07:09:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says]]></title>
-<link>https://apnews.com/article/louvre-crown-jewels-heist-investigation-france-86a12fdeddc1b20e7b3418bff63687a1</link>
-<pubDate>Sun, 02 Nov 2025 10:37:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[9 dead, dozens injured in crowd surge at Hindu temple in southern India]]></title>
-<link>https://apnews.com/article/stampede-swami-venkateswara-temple-andhra-pradesh-f8dee5b4bc65fd851e40f74ddfc05d37</link>
-<pubDate>Sat, 01 Nov 2025 14:16:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Aid efforts struggle to bring relief to parts of hurricane-stricken Jamaica]]></title>
 <link>https://apnews.com/article/jamaica-tropical-weather-melissa-aid-cabf24c0584ef934b8f6ce19f101e4f4</link>
 <pubDate>Sat, 01 Nov 2025 17:58:03 -0000</pubDate>
@@ -476,12 +470,6 @@
 <title><![CDATA[Serbia marks anniversary of deadly train station disaster with large rally]]></title>
 <link>https://apnews.com/article/serbia-canopy-collapse-protest-students-d50af39bb3c30df3a302ada9dc9ea3a9</link>
 <pubDate>Sat, 01 Nov 2025 17:43:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Josh Hazlewood’s three-wicket haul sets up Australia’s win over India in second T20]]></title>
-<link>https://apnews.com/article/india-cricket-australia-mcg-a7cb2d2e907d25d0bbc6ef979f2e530a</link>
-<pubDate>Fri, 31 Oct 2025 12:18:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
