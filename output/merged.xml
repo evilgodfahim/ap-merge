@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Nov 2025 13:44:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 14:11:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iraq’s foreign minister calls for disarmament of ‘PKK elements’ in the north]]></title>
+<link>https://apnews.com/article/iraq-turkey-pkk-kurds-disarmament-494c5c1feb2dd9ea970fb7b7f0aea7fd</link>
+<pubDate>Sun, 02 Nov 2025 13:44:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Billionaire Sylvan Adams donates $100M to rebuild Israeli hospital struck by Iranian missile]]></title>
 <link>https://apnews.com/article/israel-iran-soroka-missile-attack-negev-hospital-fcf6eee7a7796263179f593a83cbae7b</link>
 <pubDate>Mon, 03 Nov 2025 05:31:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel says the latest remains returned from Gaza by Hamas are not of hostages]]></title>
-<link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
-<pubDate>Sun, 02 Nov 2025 18:59:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[World Cup hype collides with the reality of cartel violence in the Mexican state of Jalisco]]></title>
+<link>https://apnews.com/article/mexico-world-cup-2026-jalisco-cartel-violence-9cb1f127f8287cdd342bd8ecbfe4a1da</link>
+<pubDate>Mon, 03 Nov 2025 05:01:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured]]></title>
 <link>https://apnews.com/article/mexico-store-fire-explosion-hermosillo-9d4f7ead04fbfaa435ff77cb0c1e3768</link>
 <pubDate>Sun, 02 Nov 2025 15:35:55 -0000</pubDate>
@@ -65,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Aid efforts struggle to bring relief to parts of hurricane-stricken Jamaica]]></title>
-<link>https://apnews.com/article/jamaica-tropical-weather-melissa-aid-cabf24c0584ef934b8f6ce19f101e4f4</link>
-<pubDate>Sun, 02 Nov 2025 22:07:50 -0000</pubDate>
+<title><![CDATA[Africa’s latest elections end with crackdowns on opposition and disputed results]]></title>
+<link>https://apnews.com/article/tanzania-cameroon-ivory-coast-elections-protests-democracy-83eb611f706c9568c24a0198055812e5</link>
+<pubDate>Mon, 03 Nov 2025 13:57:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tanzania’s President Hassan sworn in after disputed election that sparked deadly protests]]></title>
+<title><![CDATA[Tanzania’s president blames foreigners for deadly protests after disputed election]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-44d070fe41edae4bc8bd9e2c19e7e992</link>
-<pubDate>Mon, 03 Nov 2025 12:38:30 -0000</pubDate>
+<pubDate>Mon, 03 Nov 2025 13:42:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,21 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kenyan landslide death toll rises to 26 as flash floods hamper search for survivors]]></title>
-<link>https://apnews.com/article/kenya-landslides-chesongoch-elgeyo-marakwet-rift-valley-2aeb458b69b0fd0418cc9f135363f258</link>
-<pubDate>Sun, 02 Nov 2025 16:08:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Judge again bars Trump administration from deploying troops to Portland]]></title>
 <link>https://apnews.com/article/oregon-national-guard-deployment-trump-judge-61aa5de05e761af70868842cdcb25609</link>
 <pubDate>Mon, 03 Nov 2025 04:01:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration faces a deadline to tell judges whether it will use contingency funds for SNAP]]></title>
+<title><![CDATA[The Trump administration faces a Monday deadline to tell judges if it will fully fund SNAP]]></title>
 <link>https://apnews.com/article/snap-government-shutdown-court-order-b354aa0b596dcb8bfc6dc59a3382e811</link>
-<pubDate>Mon, 03 Nov 2025 04:16:19 -0000</pubDate>
+<pubDate>Mon, 03 Nov 2025 13:27:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -248,6 +248,12 @@
 <title><![CDATA[What to know about the 4 suspects in the Louvre crown jewels heist]]></title>
 <link>https://apnews.com/article/louvre-crown-jewels-heist-suspects-36134e7d6a6e7bd7f94ca880dfdcd600</link>
 <pubDate>Sun, 02 Nov 2025 20:10:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kenyan landslide death toll rises to 26 as flash floods hamper search for survivors]]></title>
+<link>https://apnews.com/article/kenya-landslides-chesongoch-elgeyo-marakwet-rift-valley-2aeb458b69b0fd0418cc9f135363f258</link>
+<pubDate>Mon, 03 Nov 2025 12:59:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +452,12 @@
 <title><![CDATA[Mexican mayor killed during Day of the Dead celebrations]]></title>
 <link>https://apnews.com/article/mexico-mayor-michoacan-killed-4a5234dd0f5ceb31d2e4e3325bc88f44</link>
 <pubDate>Sun, 02 Nov 2025 22:02:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says the latest remains returned from Gaza by Hamas are not of hostages]]></title>
+<link>https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840</link>
+<pubDate>Sat, 01 Nov 2025 20:33:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
