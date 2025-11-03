@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Nov 2025 22:10:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 22:38:46 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Fears grow for thousands trapped in Sudan’s el-Fasher as few reach safety]]></title>
-<link>https://apnews.com/article/sudan-rsf-elfasher-darfur-refugees-d7a0692c680f97c0c489e8635373df59</link>
-<pubDate>Mon, 03 Nov 2025 16:05:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian inquiry finds most allegations of kidnapped Alawite women are false]]></title>
-<link>https://apnews.com/article/syria-kidnapped-alawite-women-committee-fdcbfb70d70f6e0c43d47906f2d9b4c5</link>
-<pubDate>Mon, 03 Nov 2025 15:50:20 -0000</pubDate>
+<title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
+<link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
+<pubDate>Mon, 03 Nov 2025 22:24:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +65,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Guinea’s junta leader decides to run for president 4 years after leading a coup]]></title>
+<link>https://apnews.com/article/guinea-election-mamadi-doumbouya-junta-military-ca2e860d57ab049f05a9c6e0e9162574</link>
+<pubDate>Mon, 03 Nov 2025 22:09:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Africa’s latest elections end with crackdowns on opposition and disputed results]]></title>
+<link>https://apnews.com/article/tanzania-cameroon-ivory-coast-elections-protests-democracy-83eb611f706c9568c24a0198055812e5</link>
+<pubDate>Mon, 03 Nov 2025 13:57:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mining giant Anglo American faces class action appeal over alleged lead poisoning in Zambia]]></title>
 <link>https://apnews.com/article/anglo-american-mining-zambia-lead-pollution-class-action-1ab1de582337b15b431e2330cf98d7bf</link>
 <pubDate>Mon, 03 Nov 2025 17:56:25 -0000</pubDate>
@@ -80,18 +86,6 @@
 <title><![CDATA[Tanzania’s president blames foreigners for deadly protests after disputed election]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-44d070fe41edae4bc8bd9e2c19e7e992</link>
 <pubDate>Mon, 03 Nov 2025 13:42:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know as Nigeria rejects US military threat over alleged Christian killings]]></title>
-<link>https://apnews.com/article/nigeria-trumo-christians-persecution-2aa6ffc42eeedc260122021bf51b0028</link>
-<pubDate>Mon, 03 Nov 2025 09:59:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dutch court tries an Eritrean man accused of brutal migrant smuggling]]></title>
-<link>https://apnews.com/article/eritrea-migrants-smuggling-netherlands-court-22706583fd928dcb3451c9b7dfd67769</link>
-<pubDate>Mon, 03 Nov 2025 12:23:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What’s on the ballot in the first general election since Donald Trump became president]]></title>
-<link>https://apnews.com/article/virginia-new-jersey-new-york-california-election-d5fe9ff4175bba3af0ff8f2811b75b34</link>
-<pubDate>Mon, 03 Nov 2025 04:46:19 -0000</pubDate>
+<title><![CDATA[Republicans seek to tap into Trump energy on eve of Election Day in New Jersey, Virginia]]></title>
+<link>https://apnews.com/article/trump-new-jersey-virginia-governors-dd89da11b680ab562d385ae972c340be</link>
+<pubDate>Mon, 03 Nov 2025 21:54:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,12 +197,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After mistaken deportation, Abrego Garcia fights smuggling charges. Here’s what to know]]></title>
-<link>https://apnews.com/article/kilmar-abrego-garcia-mistaken-deportation-smuggling-27c2822466b717f10318c3268127a518</link>
-<pubDate>Mon, 03 Nov 2025 13:44:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A major question for the Supreme Court: Will it treat Trump as it did Biden?]]></title>
 <link>https://apnews.com/article/supreme-court-tariffs-7c44eedbf32bec35fc638e9953db2aeb</link>
 <pubDate>Mon, 03 Nov 2025 12:21:41 -0000</pubDate>
@@ -221,9 +209,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers in Rome struggle to reach worker trapped in medieval tower after partial collapse]]></title>
+<title><![CDATA[Rescuers race to save man trapped in partially collapsed medieval tower in Rome]]></title>
 <link>https://apnews.com/article/italy-rome-medieval-tower-collapse-6c32b3d3cf38f5da5a503529080f0d5e</link>
-<pubDate>Mon, 03 Nov 2025 21:34:57 -0000</pubDate>
+<pubDate>Mon, 03 Nov 2025 22:38:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dutch court tries an Eritrean man accused of brutal migrant smuggling]]></title>
+<link>https://apnews.com/article/eritrea-migrants-smuggling-netherlands-court-22706583fd928dcb3451c9b7dfd67769</link>
+<pubDate>Mon, 03 Nov 2025 21:19:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Fears grow for thousands trapped in Sudan’s el-Fasher as few reach safety]]></title>
+<link>https://apnews.com/article/sudan-rsf-elfasher-darfur-refugees-d7a0692c680f97c0c489e8635373df59</link>
+<pubDate>Mon, 03 Nov 2025 22:23:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kenyan landslide death toll rises to 26 as flash floods hamper search for survivors]]></title>
 <link>https://apnews.com/article/kenya-landslides-chesongoch-elgeyo-marakwet-rift-valley-2aeb458b69b0fd0418cc9f135363f258</link>
 <pubDate>Mon, 03 Nov 2025 12:59:57 -0000</pubDate>
@@ -308,6 +308,18 @@
 <title><![CDATA[Obiri sets women’s NYC Marathon course record, Kipruto wins men’s race by a fraction of a second]]></title>
 <link>https://apnews.com/article/nyc-marathon-dd6bfdbc52875af31c69e6cd3b09dbf6</link>
 <pubDate>Sun, 02 Nov 2025 18:40:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know as Nigeria rejects US military threat over alleged Christian killings]]></title>
+<link>https://apnews.com/article/nigeria-trumo-christians-persecution-2aa6ffc42eeedc260122021bf51b0028</link>
+<pubDate>Mon, 03 Nov 2025 21:04:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian inquiry finds most allegations of kidnapped Alawite women are false]]></title>
+<link>https://apnews.com/article/syria-kidnapped-alawite-women-committee-fdcbfb70d70f6e0c43d47906f2d9b4c5</link>
+<pubDate>Sun, 02 Nov 2025 14:47:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
