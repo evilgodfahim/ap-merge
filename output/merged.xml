@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Nov 2025 17:39:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 18:15:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fears grow for thousands trapped in Sudan’s el-Fasher as few reach safety]]></title>
 <link>https://apnews.com/article/sudan-rsf-elfasher-darfur-refugees-d7a0692c680f97c0c489e8635373df59</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jamaica rushes to prepare for peak tourism season as it digs out from Hurricane Melissa]]></title>
+<link>https://apnews.com/article/hurricane-melissa-jamaica-tourism-hotels-airport-0bba7d98f406e82bdfef05f3eff9ee01</link>
+<pubDate>Mon, 03 Nov 2025 18:11:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[World Cup hype collides with the reality of cartel violence in the Mexican state of Jalisco]]></title>
 <link>https://apnews.com/article/mexico-world-cup-2026-jalisco-cartel-violence-9cb1f127f8287cdd342bd8ecbfe4a1da</link>
 <pubDate>Mon, 03 Nov 2025 05:01:19 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hurricane Melissa deals another heavy blow to Jamaica’s farmers and fishers]]></title>
-<link>https://apnews.com/article/hurricane-melissa-farmers-jamaica-cuba-haiti-wfp-880f6182c6054f8b65a34872d9e211cc</link>
-<pubDate>Sun, 02 Nov 2025 06:00:11 -0000</pubDate>
+<title><![CDATA[Mining giant Anglo American faces class action appeal over alleged lead poisoning in Zambia]]></title>
+<link>https://apnews.com/article/anglo-american-mining-zambia-lead-pollution-class-action-1ab1de582337b15b431e2330cf98d7bf</link>
+<pubDate>Mon, 03 Nov 2025 17:56:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge again bars Trump administration from deploying troops to Portland]]></title>
-<link>https://apnews.com/article/oregon-national-guard-deployment-trump-judge-61aa5de05e761af70868842cdcb25609</link>
-<pubDate>Mon, 03 Nov 2025 04:01:19 -0000</pubDate>
+<title><![CDATA[Hearings to focus on National Guard deployments in the nation’s capital and Memphis, Tennessee]]></title>
+<link>https://apnews.com/article/trump-national-guard-deployment-memphis-washington-f285c5a0f1ce2e23543f447f85ebf16e</link>
+<pubDate>Mon, 03 Nov 2025 17:41:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Trump administration faces a Monday deadline to tell judges if it will fully fund SNAP]]></title>
-<link>https://apnews.com/article/snap-government-shutdown-court-order-b354aa0b596dcb8bfc6dc59a3382e811</link>
-<pubDate>Mon, 03 Nov 2025 13:27:33 -0000</pubDate>
+<title><![CDATA[Judge again bars Trump administration from deploying troops to Portland]]></title>
+<link>https://apnews.com/article/oregon-national-guard-deployment-trump-judge-61aa5de05e761af70868842cdcb25609</link>
+<pubDate>Mon, 03 Nov 2025 04:01:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,12 +164,6 @@
 <title><![CDATA[Josh Hazlewood’s three-wicket haul sets up Australia’s win over India in second T20]]></title>
 <link>https://apnews.com/article/india-cricket-australia-mcg-a7cb2d2e907d25d0bbc6ef979f2e530a</link>
 <pubDate>Sun, 02 Nov 2025 11:02:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mining giant Anglo American faces class action appeal over alleged lead poisoning in Zambia]]></title>
-<link>https://apnews.com/article/anglo-american-mining-zambia-lead-pollution-class-action-1ab1de582337b15b431e2330cf98d7bf</link>
-<pubDate>Mon, 03 Nov 2025 17:38:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Famine spreads to two more areas in Sudan, global hunger authority says]]></title>
+<title><![CDATA[Famine is gripping two regions of war-torn Sudan, a global hunger authority says]]></title>
 <link>https://apnews.com/article/sudan-famine-darfur-ipc-elfasher-e4816f40ac2b2852b0b70c85e8f741d1</link>
-<pubDate>Mon, 03 Nov 2025 14:36:19 -0000</pubDate>
+<pubDate>Mon, 03 Nov 2025 17:43:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hearings to focus on National Guard deployments in the nation’s capital and Memphis, Tennessee]]></title>
-<link>https://apnews.com/article/trump-national-guard-deployment-memphis-washington-f285c5a0f1ce2e23543f447f85ebf16e</link>
-<pubDate>Mon, 03 Nov 2025 10:44:29 -0000</pubDate>
+<title><![CDATA[Trump administration says SNAP will be partially funded after judges’ rulings]]></title>
+<link>https://apnews.com/article/snap-government-shutdown-court-order-b354aa0b596dcb8bfc6dc59a3382e811</link>
+<pubDate>Mon, 03 Nov 2025 17:28:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
