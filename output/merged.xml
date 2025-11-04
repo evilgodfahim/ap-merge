@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Nov 2025 03:52:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 04:13:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran arrests 3 government critics and summons another]]></title>
 <link>https://apnews.com/article/iran-arrests-3-critics-summons-more-3e80957c81ce3a8846d9ab8bfa88534a</link>
@@ -482,6 +482,12 @@
 <title><![CDATA[Starbucks sells 60% stake in China business in $4 billion deal]]></title>
 <link>https://apnews.com/article/starbucks-china-stake-boyu-capital-coffee-290006ba2eec33168b42985eb6576818</link>
 <pubDate>Mon, 03 Nov 2025 22:41:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A camel fair in India’s desert town of Pushkar draws traders and tourists, in photos]]></title>
+<link>https://apnews.com/photo-gallery/india-camel-fair-pushkar-photos-8619f6eea1cff399a78d556b8abed9d0</link>
+<pubDate>Tue, 04 Nov 2025 04:07:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
