@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Nov 2025 02:25:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 03:28:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran arrests 3 government critics and summons another]]></title>
+<link>https://apnews.com/article/iran-arrests-3-critics-summons-more-3e80957c81ce3a8846d9ab8bfa88534a</link>
+<pubDate>Tue, 04 Nov 2025 02:36:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Abu Dhabi hosts oil summit as OPEC+ halts production hikes planned for first quarter of 2026]]></title>
 <link>https://apnews.com/article/uae-oil-summit-adipec-opec-production-us-790431afcabf60aad64075c4979ab606</link>
 <pubDate>Mon, 03 Nov 2025 23:27:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
-<link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
-<pubDate>Mon, 03 Nov 2025 22:24:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More than 150,000 evacuate in the Philippines as typhoon approaches]]></title>
-<link>https://apnews.com/article/typhoon-kalmaegi-tino-philippines-east-samar-70e9ba69c261f1a984f4078fd64329c8</link>
-<pubDate>Mon, 03 Nov 2025 15:01:37 -0000</pubDate>
+<title><![CDATA[Hegseth visits inter-Korean border ahead of security talks with South Korean officials]]></title>
+<link>https://apnews.com/article/south-north-korea-defense-hegseth-dmz-2fad27997da1d0a471e068aa584c71c0</link>
+<pubDate>Mon, 03 Nov 2025 10:44:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,12 +182,6 @@
 <title><![CDATA[Faith leaders condemn a Pennsylvania Halloween parade float with an Auschwitz sign]]></title>
 <link>https://apnews.com/article/auschwitz-holocaust-halloween-parade-float-hanover-pennsylvania-b32ddffbdd7949c1fb16d678cbec5061</link>
 <pubDate>Mon, 03 Nov 2025 20:12:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mayors pledge coordinated climate action ahead of UN conference in Brazil]]></title>
-<link>https://apnews.com/article/brazil-climate-cop-30-rio-c40-mayors-67d62c171c9bf37606eda86c732493f0</link>
-<pubDate>Tue, 04 Nov 2025 00:10:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,21 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel hands over bodies of 45 Palestinians after Hamas returns the remains of 3 soldiers]]></title>
-<link>https://apnews.com/article/israel-hamas-hostages-gaza-5b6743d9791fcc271eb65b39e192726f</link>
-<pubDate>Mon, 03 Nov 2025 13:34:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Powerful 6.3 earthquake hits northern Afghanistan, killing 20 and damaging historic Blue Mosque]]></title>
-<link>https://apnews.com/article/afghanistan-earthquake-khulm-699b73baa4229caee834179c91444c65</link>
-<pubDate>Mon, 03 Nov 2025 13:51:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Famine is gripping two regions of war-torn Sudan, a global hunger authority says]]></title>
-<link>https://apnews.com/article/sudan-famine-darfur-ipc-elfasher-e4816f40ac2b2852b0b70c85e8f741d1</link>
-<pubDate>Mon, 03 Nov 2025 17:43:39 -0000</pubDate>
+<title><![CDATA[Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases]]></title>
+<link>https://apnews.com/article/openai-safety-chatgpt-zico-kolter-3f1522b08268ec2e87d9932dc42b4d80</link>
+<pubDate>Sun, 02 Nov 2025 13:27:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel rocked by scandal as top military lawyer resigns, goes missing, is found and thrown into jail]]></title>
-<link>https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d</link>
-<pubDate>Mon, 03 Nov 2025 21:53:00 -0000</pubDate>
+<title><![CDATA[Israel hands over bodies of 45 Palestinians after Hamas returns the remains of 3 soldiers]]></title>
+<link>https://apnews.com/article/israel-hamas-hostages-gaza-5b6743d9791fcc271eb65b39e192726f</link>
+<pubDate>Mon, 03 Nov 2025 13:34:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Famine is gripping two regions of war-torn Sudan, a global hunger authority says]]></title>
+<link>https://apnews.com/article/sudan-famine-darfur-ipc-elfasher-e4816f40ac2b2852b0b70c85e8f741d1</link>
+<pubDate>Mon, 03 Nov 2025 17:43:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Typhoon Kalmaegi moves across central Philippines, leaving at least 1 dead and setting off floods]]></title>
+<link>https://apnews.com/article/typhoon-kalmaegi-tino-philippines-east-samar-70e9ba69c261f1a984f4078fd64329c8</link>
+<pubDate>Tue, 04 Nov 2025 02:49:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Skeletons become neighbors as Palestinians displaced by Israeli strikes make a cemetery their home]]></title>
+<link>https://apnews.com/article/gaza-palestinians-cemeteries-displaced-war-ceasefire-israel-1aef88caee6b2aa861c709f35b1dce6d</link>
+<pubDate>Mon, 03 Nov 2025 10:11:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Libyan delegation in Beirut seeks release of the son of late Libyan leader Moammar Gadhafi]]></title>
 <link>https://apnews.com/article/lebanon-libya-hannibal-gadhadfi-mousa-alsadr-release-063b692b6594e230c55c47b0e6d044ca</link>
 <pubDate>Mon, 03 Nov 2025 16:41:26 -0000</pubDate>
@@ -404,12 +404,6 @@
 <title><![CDATA[Concern grows for South Sudanese political pundit detained in Dubai]]></title>
 <link>https://apnews.com/article/south-sudan-uae-detained-pundit-0c1dcf5104dd87480ea20451f0415267</link>
 <pubDate>Mon, 03 Nov 2025 16:26:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran arrests 3 government critics and summons another]]></title>
-<link>https://apnews.com/article/iran-arrests-3-critics-summons-more-3e80957c81ce3a8846d9ab8bfa88534a</link>
-<pubDate>Mon, 03 Nov 2025 21:38:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +452,12 @@
 <title><![CDATA[Brazil dismantles hundreds of illegal dredges in major Amazon mining crackdown]]></title>
 <link>https://apnews.com/article/interpol-amazon-crackdown-police-environment-crime-basin-gold-mining-brazil-ad1d237c2ff2f225c4233ca4ce6479af</link>
 <pubDate>Mon, 03 Nov 2025 19:48:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at the hostages left in Gaza, by the numbers]]></title>
+<link>https://apnews.com/article/hostages-israel-hamas-war-released-rescued-ceasefire-517c4684c7554823c4f1257ca7e56c99</link>
+<pubDate>Mon, 03 Nov 2025 11:14:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
