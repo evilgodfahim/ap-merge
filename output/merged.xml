@@ -3,19 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Nov 2025 09:41:02 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Libyan delegation in Beirut seeks release of the son of late Libyan leader Moammar Gadhafi]]></title>
-<link>https://apnews.com/article/lebanon-libya-hannibal-gadhadfi-mousa-alsadr-release-063b692b6594e230c55c47b0e6d044ca</link>
-<pubDate>Tue, 04 Nov 2025 08:56:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Concern grows for South Sudanese political pundit detained in Dubai]]></title>
-<link>https://apnews.com/article/south-sudan-uae-detained-pundit-0c1dcf5104dd87480ea20451f0415267</link>
-<pubDate>Tue, 04 Nov 2025 07:52:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 04 Nov 2025 10:13:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US seeks humanitarian truce in Sudan while ICC looks at el-Fasher rampage]]></title>
 <link>https://apnews.com/article/icc-sudan-darfur-elfasher-rsf-c0c4f64d31c7d8d518cfa47d3fb14566</link>
@@ -23,15 +11,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine gets more US-made air defense systems to counter deadly Russian attacks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-patriots-drones-missiles-facc290c820961f25cda6c7fd689baf3</link>
-<pubDate>Mon, 03 Nov 2025 17:08:51 -0000</pubDate>
+<title><![CDATA[Libyan delegation in Beirut seeks release of the son of late Libyan leader Moammar Gadhafi]]></title>
+<link>https://apnews.com/article/lebanon-libya-hannibal-gadhadfi-mousa-alsadr-release-063b692b6594e230c55c47b0e6d044ca</link>
+<pubDate>Tue, 04 Nov 2025 08:56:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Centrist D66 party takes home win in Dutch election]]></title>
-<link>https://apnews.com/article/netherlands-election-wilders-jetten-d66-coalition-a0c90665f4e85b63754a30b8d5fe4f83</link>
-<pubDate>Tue, 04 Nov 2025 08:41:04 -0000</pubDate>
+<title><![CDATA[Britain’s Treasury chief prepares the ground for a tax-hiking budget]]></title>
+<link>https://apnews.com/article/uk-economy-rachel-reeves-budget-tax-3c2fcdbf0ada3016a5cf5f1765dcdf41</link>
+<pubDate>Tue, 04 Nov 2025 09:58:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine gets more US-made air defense systems to counter deadly Russian attacks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-patriots-drones-missiles-facc290c820961f25cda6c7fd689baf3</link>
+<pubDate>Mon, 03 Nov 2025 17:08:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Abu Dhabi hosts oil summit as OPEC+ halts production hikes planned for first quarter of 2026]]></title>
-<link>https://apnews.com/article/uae-oil-summit-adipec-opec-production-us-790431afcabf60aad64075c4979ab606</link>
-<pubDate>Mon, 03 Nov 2025 23:27:30 -0000</pubDate>
+<title><![CDATA[Iran arrests 3 government critics and summons another]]></title>
+<link>https://apnews.com/article/iran-arrests-3-critics-summons-more-3e80957c81ce3a8846d9ab8bfa88534a</link>
+<pubDate>Tue, 04 Nov 2025 02:36:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tanzania’s president blames foreigners for deadly protests after disputed election]]></title>
-<link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-44d070fe41edae4bc8bd9e2c19e7e992</link>
-<pubDate>Mon, 03 Nov 2025 13:42:33 -0000</pubDate>
+<title><![CDATA[Concern grows for South Sudanese political pundit detained in Dubai]]></title>
+<link>https://apnews.com/article/south-sudan-uae-detained-pundit-0c1dcf5104dd87480ea20451f0415267</link>
+<pubDate>Tue, 04 Nov 2025 07:52:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Centrist D66 party takes home win in Dutch election]]></title>
+<link>https://apnews.com/article/netherlands-election-wilders-jetten-d66-coalition-a0c90665f4e85b63754a30b8d5fe4f83</link>
+<pubDate>Tue, 04 Nov 2025 09:41:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rescuers in Nepal search for climbers’ bodies after deadly avalanche]]></title>
 <link>https://apnews.com/article/nepal-mountain-avalanche-mountaineers-killed-27bdcc8b3bdd042b133fe7ae1417f889</link>
 <pubDate>Tue, 04 Nov 2025 06:56:12 -0000</pubDate>
@@ -194,12 +194,6 @@
 <title><![CDATA[Buckingham Palace will stage the largest-ever display of Queen Elizabeth II’s fashion next year]]></title>
 <link>https://apnews.com/article/queen-elizabeth-ii-fashion-exhibition-buckingham-palace-a9b486f5c18d87864a4e29dd7f9b0e54</link>
 <pubDate>Tue, 04 Nov 2025 00:25:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran arrests 3 government critics and summons another]]></title>
-<link>https://apnews.com/article/iran-arrests-3-critics-summons-more-3e80957c81ce3a8846d9ab8bfa88534a</link>
-<pubDate>Tue, 04 Nov 2025 09:26:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tanzania’s president blames foreigners for deadly protests after disputed election]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-44d070fe41edae4bc8bd9e2c19e7e992</link>
+<pubDate>Tue, 04 Nov 2025 09:11:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Vietnam flood death toll rises to 37 as a new typhoon threatens to worsen devastation]]></title>
 <link>https://apnews.com/article/vietnam-floods-typhoon-rains-1d0f0ed7931f6e06a3d5b63375d25eaa</link>
 <pubDate>Tue, 04 Nov 2025 04:41:37 -0000</pubDate>
@@ -314,6 +314,12 @@
 <title><![CDATA[Typhoon Kalmaegi moves across central Philippines, leaving at least 1 dead and setting off floods]]></title>
 <link>https://apnews.com/article/typhoon-kalmaegi-tino-philippines-east-samar-70e9ba69c261f1a984f4078fd64329c8</link>
 <pubDate>Tue, 04 Nov 2025 04:26:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Abu Dhabi hosts oil summit as OPEC+ halts production hikes planned for first quarter of 2026]]></title>
+<link>https://apnews.com/article/uae-oil-summit-adipec-opec-production-us-790431afcabf60aad64075c4979ab606</link>
+<pubDate>Tue, 04 Nov 2025 08:00:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
