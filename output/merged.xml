@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Nov 2025 20:40:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 21:10:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Skeletons become neighbors as Palestinians displaced by Israeli strikes make a cemetery their home]]></title>
 <link>https://apnews.com/article/gaza-palestinians-cemeteries-displaced-war-ceasefire-israel-1aef88caee6b2aa861c709f35b1dce6d</link>
@@ -164,6 +164,12 @@
 <title><![CDATA[India notches easy five-wicket win against Australia in third T20]]></title>
 <link>https://apnews.com/article/india-cricket-australia-t20-hobart-6947e8dd1feac8c576f10d302041d906</link>
 <pubDate>Mon, 03 Nov 2025 09:29:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Paris prosecutor’s office investigates TikTok over youth suicide content]]></title>
+<link>https://apnews.com/article/france-tiktok-suicide-children-investigation-3d8691d1cbc04d13b9d6b97af5e08699</link>
+<pubDate>Tue, 04 Nov 2025 21:10:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Christmas harvest begins in Germany, where some say decorating trees began]]></title>
-<link>https://apnews.com/article/germany-christmas-tree-cutting-harvest-a71e344c3135f3c46de1b9b057b5ff53</link>
-<pubDate>Mon, 03 Nov 2025 15:58:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel says the remains of a hostage have been turned over in Gaza]]></title>
 <link>https://apnews.com/article/gaza-palestinians-israel-war-hamas-hostages-d378f996e9159815302fea377f3c5ec0</link>
 <pubDate>Tue, 04 Nov 2025 19:46:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US suggests UN Security Council authorize Gaza stabilization force for 2 years]]></title>
+<link>https://apnews.com/article/international-stabilization-force-gaza-united-nations-trump-464cfda6fbec02b8553a9df9d093df06</link>
+<pubDate>Tue, 04 Nov 2025 20:48:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,12 +374,6 @@
 <title><![CDATA[UN secretary-general says Sudan’s war is ‘spiraling out of control’]]></title>
 <link>https://apnews.com/article/sudan-fasher-rsf-war-un-279868664dabe63d88ccf4a506eb1499</link>
 <pubDate>Tue, 04 Nov 2025 13:29:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[On eve of UN climate talks in Brazil, a call for less talking and more doing]]></title>
-<link>https://apnews.com/article/cop30-climate-change-belem-brazil-united-nations-15450d92285d8c92973589fd9037e69d</link>
-<pubDate>Tue, 04 Nov 2025 14:32:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,6 +461,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[On eve of UN climate talks in Brazil, a call for less talking and more doing]]></title>
+<link>https://apnews.com/article/cop30-climate-change-belem-brazil-united-nations-15450d92285d8c92973589fd9037e69d</link>
+<pubDate>Tue, 04 Nov 2025 14:32:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tanzanian opposition claims security forces are secretly dumping bodies after election violence]]></title>
 <link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-internet-shutdown-ed57beb80faff2f9737804217d057cec</link>
 <pubDate>Tue, 04 Nov 2025 10:06:58 -0000</pubDate>
@@ -476,6 +482,12 @@
 <title><![CDATA[Trump administration and private investors sign off on $1.4 billion deal with rare earth startups]]></title>
 <link>https://apnews.com/article/vulcan-reelement-rare-earths-us-government-investment-17647d7219ab8b8098fce5fc66975fdd</link>
 <pubDate>Tue, 04 Nov 2025 19:31:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan fast bowler Rauf banned for 2 matches for violating ICC code of conduct in Asia Cup]]></title>
+<link>https://apnews.com/article/pakistan-india-asia-cup-rauf-f12923e18799fd0c44b50a995b8d68d8</link>
+<pubDate>Tue, 04 Nov 2025 20:33:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
