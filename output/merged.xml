@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 19:32:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 20:12:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian artists transform bombed-out house into a mural of remembrance, in photos]]></title>
 <link>https://apnews.com/photo-gallery/syria-murals-art-war-4623393143499a24b09657b46459ae10</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo calls for ‘deep reflection’ about treatment of detained migrants in the United States]]></title>
-<link>https://apnews.com/article/vatican-pope-migrants-us-441229638a27420cad3de1e07f73a494</link>
-<pubDate>Wed, 05 Nov 2025 08:41:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Prince William to spotlight environmental solutions in Rio de Janeiro with Earthshot Prize awards]]></title>
 <link>https://apnews.com/article/brazil-prince-william-earthshot-prize-rio-52e1946b197696689ef27266b1effa42</link>
 <pubDate>Wed, 05 Nov 2025 18:42:48 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[Bolivian top court annuls former interim president sentence and orders her immediate release]]></title>
 <link>https://apnews.com/article/bolivia-anez-supreme-court-sentence-401a5c1f8e13f9a86f6b4a02deb6b13d</link>
 <pubDate>Wed, 05 Nov 2025 14:47:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico President Sheinbaum presses charges after street groping incident]]></title>
+<link>https://apnews.com/article/mexico-sheinbaum-women-harassment-f98a1bdcfe613256a1485164557b7202</link>
+<pubDate>Wed, 05 Nov 2025 19:46:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[California Republicans sue over new US House map approved by voters]]></title>
+<link>https://apnews.com/article/california-redistricting-legal-challenges-republican-7148dda9a171a0e279010d1eaf0d22d2</link>
+<pubDate>Wed, 05 Nov 2025 19:31:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UPS plane crashes and explodes at a Kentucky airport, leaving at least 9 dead and others missing]]></title>
 <link>https://apnews.com/article/ups-cargo-plane-explosion-louisville-deaths-af12da7f8611bad0bf0cb664de189250</link>
 <pubDate>Wed, 05 Nov 2025 14:13:52 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Mamdani’s historic win as New York City’s mayor sparks excitement and hope among many US Muslims]]></title>
 <link>https://apnews.com/article/zohran-mamdani-new-york-mayor-muslims-islamaphobia-67479134ed2c3365d08974d2b5005e5e</link>
 <pubDate>Wed, 05 Nov 2025 18:27:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What’s next in the national redistricting fight after California approved a new US House map]]></title>
-<link>https://apnews.com/article/redistricting-congress-trump-california-8033414da22c409a8419ffb385caf579</link>
-<pubDate>Wed, 05 Nov 2025 12:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Latest: Trump promotes his economic agenda after Democratic election victories]]></title>
+<link>https://apnews.com/article/trump-shutdown-economy-election-immigration-tariffs-a4f46e4b920b5a9ca68ef9dc9665c895</link>
+<pubDate>Wed, 05 Nov 2025 19:16:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan fast bowler Rauf banned for 2 matches for violating ICC code of conduct in Asia Cup]]></title>
 <link>https://apnews.com/article/pakistan-india-asia-cup-rauf-f12923e18799fd0c44b50a995b8d68d8</link>
 <pubDate>Wed, 05 Nov 2025 14:17:33 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Women’s cricket headed for ‘stratosphere’ in India after long-awaited first World Cup victory]]></title>
 <link>https://apnews.com/article/india-cricket-world-cup-win-f5765aabc8ece536e28d4eeb3454292a</link>
 <pubDate>Tue, 04 Nov 2025 03:24:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Truck rams into bus in southern India, killing at least 20 people]]></title>
-<link>https://apnews.com/article/india-rajasthan-phalodi-jodhpur-bus-accident-4b885ea01f3f9474dbe752e6fceaf5ac</link>
-<pubDate>Mon, 03 Nov 2025 16:53:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,9 +287,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France moves to suspend access to Shein platform over firearms and sex dolls found on its site]]></title>
+<title><![CDATA[France moves to suspend Shein’s online market over listings for illegal firearms and sex dolls]]></title>
 <link>https://apnews.com/article/shein-department-store-paris-e034b3016b77cdd6c30d640d37a8fd78</link>
-<pubDate>Wed, 05 Nov 2025 18:02:17 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 20:12:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -302,6 +302,12 @@
 <title><![CDATA[Germany cracks down on Muslim groups viewed as threats to its constitutional order]]></title>
 <link>https://apnews.com/article/germany-raids-muslim-group-banned-6cebdda84a6e543cee15f7f6b6bd9d92</link>
 <pubDate>Wed, 05 Nov 2025 10:03:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo calls for ‘deep reflection’ about treatment of detained migrants in the United States]]></title>
+<link>https://apnews.com/article/vatican-pope-migrants-us-441229638a27420cad3de1e07f73a494</link>
+<pubDate>Wed, 05 Nov 2025 17:47:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel returns bodies of 15 Palestinians to Gaza as exchanges outlined in fragile ceasefire proceed]]></title>
+<title><![CDATA[Israel says Hamas hands over additional remains believed to be of a hostage]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-israel-3c7c6fb8649b5a4dfce91114d209b09d</link>
-<pubDate>Wed, 05 Nov 2025 12:22:12 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 20:12:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
