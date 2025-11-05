@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 15:12:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 15:38:59 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Mona Ziade, who helped shape the AP’s Middle East coverage in the 1980s and ‘90s, dies at age 65]]></title>
-<link>https://apnews.com/article/mona-ziade-dies-beirut-associated-press-journalist-9a3de771cc003a8451d486ea1461ef6d</link>
-<pubDate>Tue, 04 Nov 2025 19:28:04 -0000</pubDate>
+<title><![CDATA[Syrian artists transform bombed-out house into a mural of remembrance, in photos]]></title>
+<link>https://apnews.com/photo-gallery/syria-murals-art-war-4623393143499a24b09657b46459ae10</link>
+<pubDate>Wed, 05 Nov 2025 15:32:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Skeletons become neighbors as Palestinians displaced by Israeli strikes make a cemetery their home]]></title>
-<link>https://apnews.com/article/gaza-palestinians-cemeteries-displaced-war-ceasefire-israel-1aef88caee6b2aa861c709f35b1dce6d</link>
-<pubDate>Tue, 04 Nov 2025 17:21:45 -0000</pubDate>
+<title><![CDATA[Israel hands over bodies of 45 Palestinians after Hamas returns the remains of 3 soldiers]]></title>
+<link>https://apnews.com/article/israel-hamas-hostages-gaza-5b6743d9791fcc271eb65b39e192726f</link>
+<pubDate>Wed, 05 Nov 2025 15:17:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian drones reach deep inside Russia as battle for key city rages on]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-pokrovsk-1fba1a2c49fbbcb71c48627374409d76</link>
+<pubDate>Wed, 05 Nov 2025 15:02:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Louvre heist suspect’s trial in a separate case postponed due to high media profile]]></title>
 <link>https://apnews.com/article/louvre-heist-suspect-trial-lawyers-229c9e95f0ec5cc3d98ab7911329020b</link>
 <pubDate>Wed, 05 Nov 2025 13:25:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU agrees on new emissions targets before global climate summit in Brazil]]></title>
-<link>https://apnews.com/article/climate-emissions-european-union-cop30-a1a911e28cb9aa658b5b1e9fddc91935</link>
-<pubDate>Wed, 05 Nov 2025 12:06:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[On eve of UN climate talks in Brazil, a call for less talking and more doing]]></title>
-<link>https://apnews.com/article/cop30-climate-change-belem-brazil-united-nations-15450d92285d8c92973589fd9037e69d</link>
-<pubDate>Wed, 05 Nov 2025 05:46:55 -0000</pubDate>
+<title><![CDATA[Bolivian top court annuls former interim president sentence and orders her immediate release]]></title>
+<link>https://apnews.com/article/bolivia-anez-supreme-court-sentence-401a5c1f8e13f9a86f6b4a02deb6b13d</link>
+<pubDate>Wed, 05 Nov 2025 14:47:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the deadly UPS plane crash in Kentucky]]></title>
+<title><![CDATA[What to know about the deadly UPS plane crash in Louisville, Kentucky]]></title>
 <link>https://apnews.com/article/kentucky-louisville-plane-crash-ups-d7cf751a9a05d9a72e63ec7dfe87cf10</link>
-<pubDate>Wed, 05 Nov 2025 10:50:34 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 14:32:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +137,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China blames Netherlands for chip supply tensions amid Nexperia standoff]]></title>
-<link>https://apnews.com/article/nexperia-wingtech-chips-netherlands-china-ea07d6f972523a6f31aa05d468e2e018</link>
-<pubDate>Tue, 04 Nov 2025 14:58:59 -0000</pubDate>
+<title><![CDATA[On eve of UN climate talks in Brazil, a call for less talking and more doing]]></title>
+<link>https://apnews.com/article/cop30-climate-change-belem-brazil-united-nations-15450d92285d8c92973589fd9037e69d</link>
+<pubDate>Wed, 05 Nov 2025 05:46:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan fast bowler Rauf banned for 2 matches for violating ICC code of conduct in Asia Cup]]></title>
+<link>https://apnews.com/article/pakistan-india-asia-cup-rauf-f12923e18799fd0c44b50a995b8d68d8</link>
+<pubDate>Wed, 05 Nov 2025 14:17:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,12 +164,6 @@
 <title><![CDATA[Truck rams into bus in southern India, killing at least 20 people]]></title>
 <link>https://apnews.com/article/india-rajasthan-phalodi-jodhpur-bus-accident-4b885ea01f3f9474dbe752e6fceaf5ac</link>
 <pubDate>Mon, 03 Nov 2025 16:53:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India notches easy five-wicket win against Australia in third T20]]></title>
-<link>https://apnews.com/article/india-cricket-australia-t20-hobart-6947e8dd1feac8c576f10d302041d906</link>
-<pubDate>Mon, 03 Nov 2025 09:29:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -212,6 +212,12 @@
 <title><![CDATA[Cyberattack on Marks & Spencer slices profits by more than a half]]></title>
 <link>https://apnews.com/article/britain-cyberattack-marks-spencer-56e221ce55984cb18f52f84353c5a2d3</link>
 <pubDate>Wed, 05 Nov 2025 12:21:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[EU agrees on new emissions targets before global climate summit in Brazil]]></title>
+<link>https://apnews.com/article/climate-emissions-european-union-cop30-a1a911e28cb9aa658b5b1e9fddc91935</link>
+<pubDate>Wed, 05 Nov 2025 13:57:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian drones reach deep inside Russia as battle for key city rages on]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-pokrovsk-1fba1a2c49fbbcb71c48627374409d76</link>
-<pubDate>Tue, 04 Nov 2025 09:36:58 -0000</pubDate>
+<title><![CDATA[Putin tells officials to submit plans for possibly resuming nuclear tests after Trump’s remarks]]></title>
+<link>https://apnews.com/article/russia-putin-nuclear-tests-trump-9cc3d24ebd0ac0ed238420f5a1312b25</link>
+<pubDate>Wed, 05 Nov 2025 15:30:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +389,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranians commemorate anniversary of 1979 US embassy takeover at time of tensions]]></title>
+<link>https://apnews.com/article/iran-us-embassy-takeover-anniversary-53cec021beb9a7f6d8c022800fd136fa</link>
+<pubDate>Tue, 04 Nov 2025 18:43:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sudan’s paramilitary kills at least 40 people as fighting spreads into Kordofan region]]></title>
+<link>https://apnews.com/article/sudan-kordofan-darfur-war-rsf-army-181c12ded100933c2ec9ce23a89f97b5</link>
+<pubDate>Wed, 05 Nov 2025 15:15:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN secretary-general says Sudan’s war is ‘spiraling out of control’]]></title>
 <link>https://apnews.com/article/sudan-fasher-rsf-war-un-279868664dabe63d88ccf4a506eb1499</link>
 <pubDate>Tue, 04 Nov 2025 13:29:52 -0000</pubDate>
@@ -395,21 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian artists transform bombed-out house into a mural of remembrance, in photos]]></title>
-<link>https://apnews.com/photo-gallery/syria-murals-art-war-4623393143499a24b09657b46459ae10</link>
-<pubDate>Tue, 04 Nov 2025 16:22:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel hands over bodies of 45 Palestinians after Hamas returns the remains of 3 soldiers]]></title>
-<link>https://apnews.com/article/israel-hamas-hostages-gaza-5b6743d9791fcc271eb65b39e192726f</link>
-<pubDate>Mon, 03 Nov 2025 13:34:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street dips as markets take in more earnings ahead of Supreme Court hearing on Trump’s tariffs]]></title>
+<title><![CDATA[Wall Street holds steady as earnings reports flow in]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-tech-ai-trump-0206035d2877de30454b7376904f1e9b</link>
-<pubDate>Wed, 05 Nov 2025 14:28:18 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 15:00:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Famine is gripping two regions of war-torn Sudan, a global hunger authority says]]></title>
-<link>https://apnews.com/article/sudan-famine-darfur-ipc-elfasher-e4816f40ac2b2852b0b70c85e8f741d1</link>
-<pubDate>Mon, 03 Nov 2025 17:43:39 -0000</pubDate>
+<title><![CDATA[Mona Ziade, who helped shape the AP’s Middle East coverage in the 1980s and ‘90s, dies at age 65]]></title>
+<link>https://apnews.com/article/mona-ziade-dies-beirut-associated-press-journalist-9a3de771cc003a8451d486ea1461ef6d</link>
+<pubDate>Tue, 04 Nov 2025 09:51:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan fast bowler Rauf banned for 2 matches for violating ICC code of conduct in Asia Cup]]></title>
-<link>https://apnews.com/article/pakistan-india-asia-cup-rauf-f12923e18799fd0c44b50a995b8d68d8</link>
-<pubDate>Tue, 04 Nov 2025 20:33:25 -0000</pubDate>
+<title><![CDATA[Fit-again Rishabh Pant returns for India-South Africa test series]]></title>
+<link>https://apnews.com/article/india-south-africa-rishabh-pant-71a50f1ece2c9472c5177ba5120941a8</link>
+<pubDate>Wed, 05 Nov 2025 14:45:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
