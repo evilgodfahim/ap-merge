@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 08:46:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 09:12:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mona Ziade, who helped shape the AP’s Middle East coverage in the 1980s and ‘90s, dies at age 65]]></title>
 <link>https://apnews.com/article/mona-ziade-dies-beirut-associated-press-journalist-9a3de771cc003a8451d486ea1461ef6d</link>
@@ -41,15 +41,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hegseth praises South Korea’s plans to raise its military spending and boost defense capabilities]]></title>
-<link>https://apnews.com/article/us-south-korea-hegseth-military-1ab1d56e81073bde4661ea72959885f2</link>
-<pubDate>Wed, 05 Nov 2025 02:52:23 -0000</pubDate>
+<title><![CDATA[Prosecutors in Asia seize yachts, luxury cars and cash from man accused of running cyberscams]]></title>
+<link>https://apnews.com/article/taiwan-singapore-hong-kong-cyberscams-prince-group-seizures-0eb4ce83eb040860332a6140de1912da</link>
+<pubDate>Wed, 05 Nov 2025 09:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s new leader is praised for an ‘energetic’ diplomatic debut hosting Trump]]></title>
-<link>https://apnews.com/article/japan-politics-takaichi-trump-parliament-94a2b69b5248cdb48da3d7ccc1c6bd73</link>
-<pubDate>Tue, 04 Nov 2025 15:58:59 -0000</pubDate>
+<title><![CDATA[Malaysian rapper Namewee detained in murder investigation of Taiwanese influencer]]></title>
+<link>https://apnews.com/article/malaysia-taiwan-murder-rapper-influencer-9011ff2f80f93f2d5f71f30cbc33c237</link>
+<pubDate>Wed, 05 Nov 2025 08:56:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo calls for ‘deep reflection’ about treatment of detained migrants in the United States]]></title>
+<link>https://apnews.com/article/vatican-pope-migrants-us-441229638a27420cad3de1e07f73a494</link>
+<pubDate>Wed, 05 Nov 2025 08:41:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Hurricane death toll rises to 43 in Haiti as aid pours in across the northern Caribbean]]></title>
 <link>https://apnews.com/article/melissa-haiti-jamaica-hurricane-storm-caribbean-bbc009020e6a2a8150ccecc5b6370833</link>
 <pubDate>Tue, 04 Nov 2025 20:17:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Climate-fighting efforts show slight gain but still fall far short, UN says]]></title>
-<link>https://apnews.com/article/climate-change-trump-usa-pollution-extreme-weather-123b935413307fcfad96f8f6e1ec8a16</link>
-<pubDate>Tue, 04 Nov 2025 20:02:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China blames Netherlands for chip supply tensions amid Nexperia standoff]]></title>
-<link>https://apnews.com/article/nexperia-wingtech-chips-netherlands-china-ea07d6f972523a6f31aa05d468e2e018</link>
-<pubDate>Tue, 04 Nov 2025 14:58:59 -0000</pubDate>
+<title><![CDATA[Japan’s new leader is praised for an ‘energetic’ diplomatic debut hosting Trump]]></title>
+<link>https://apnews.com/article/japan-politics-takaichi-trump-parliament-94a2b69b5248cdb48da3d7ccc1c6bd73</link>
+<pubDate>Tue, 04 Nov 2025 15:58:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[G2 or not G2: Trump’s new favorite term for US-China relations carries a lot of history’s baggage]]></title>
-<link>https://apnews.com/article/china-united-states-trump-xi-g2-b6a79a6b81d56fb3a29c7a66a3391636</link>
-<pubDate>Tue, 04 Nov 2025 22:42:24 -0000</pubDate>
+<title><![CDATA[China blames Netherlands for chip supply tensions amid Nexperia standoff]]></title>
+<link>https://apnews.com/article/nexperia-wingtech-chips-netherlands-china-ea07d6f972523a6f31aa05d468e2e018</link>
+<pubDate>Tue, 04 Nov 2025 14:58:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,6 +338,12 @@
 <title><![CDATA[Nintendo reports zooming sales and profit on its hit Switch 2 machine]]></title>
 <link>https://apnews.com/article/nintendo-games-japan-earnings-mario-sales-72d9b565b3f1c79191b2aa93144db419</link>
 <pubDate>Wed, 05 Nov 2025 08:16:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hegseth praises South Korea’s plans to raise its military spending and boost defense capabilities]]></title>
+<link>https://apnews.com/article/us-south-korea-hegseth-military-1ab1d56e81073bde4661ea72959885f2</link>
+<pubDate>Wed, 05 Nov 2025 08:01:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
