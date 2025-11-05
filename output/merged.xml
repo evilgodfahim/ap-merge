@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 03:30:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 04:14:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mona Ziade, who helped shape the AP’s Middle East coverage in the 1980s and ‘90s, dies at age 65]]></title>
 <link>https://apnews.com/article/mona-ziade-dies-beirut-associated-press-journalist-9a3de771cc003a8451d486ea1461ef6d</link>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Passenger train collides with cargo train in central India, killing at least 8 people]]></title>
-<link>https://apnews.com/article/india-train-crash-bilaspur-fatalities-14dea2aaf55b2fee62d9839569a6ec84</link>
-<pubDate>Tue, 04 Nov 2025 20:32:00 -0000</pubDate>
+<title><![CDATA[Vietnam rethinks its flood strategy as climate change drives storms and devastation]]></title>
+<link>https://apnews.com/article/vietnam-climate-storms-disaster-floods-bc9a27d709c17db2d02be30e689f4b98</link>
+<pubDate>Wed, 05 Nov 2025 03:55:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Transportation Secretary Sean Duffy warns of ‘mass chaos’ in skies if shutdown continues]]></title>
-<link>https://apnews.com/article/government-shutdown-air-traffic-controllers-duffy-delays-9afedfa9e5000510c77465808404c830</link>
-<pubDate>Tue, 04 Nov 2025 23:27:24 -0000</pubDate>
+<title><![CDATA[Texas voters pass measure to block noncitizens from voting as Maine rejects voter ID requirements]]></title>
+<link>https://apnews.com/article/voter-id-noncitizen-voting-maine-texas-a209dec2c8bf92615434bb00df7a7ae1</link>
+<pubDate>Wed, 05 Nov 2025 03:40:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Border Patrol official behind Chicago immigration crackdown defends tactics as Trump cheers]]></title>
-<link>https://apnews.com/article/immigration-chicago-arrests-police-federal-5c21bcb2cd890fcb086480469c1a3a96</link>
-<pubDate>Wed, 05 Nov 2025 00:31:22 -0000</pubDate>
+<title><![CDATA[Transportation Secretary Sean Duffy warns of ‘mass chaos’ in skies if shutdown continues]]></title>
+<link>https://apnews.com/article/government-shutdown-air-traffic-controllers-duffy-delays-9afedfa9e5000510c77465808404c830</link>
+<pubDate>Tue, 04 Nov 2025 23:27:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Passenger train collides with cargo train in central India, killing at least 8 people]]></title>
+<link>https://apnews.com/article/india-train-crash-bilaspur-fatalities-14dea2aaf55b2fee62d9839569a6ec84</link>
+<pubDate>Tue, 04 Nov 2025 20:32:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A camel fair in India’s desert town of Pushkar draws traders and tourists, in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-camel-fair-pushkar-photos-8619f6eea1cff399a78d556b8abed9d0</link>
 <pubDate>Tue, 04 Nov 2025 19:32:00 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Truck rams into bus in southern India, killing at least 20 people]]></title>
 <link>https://apnews.com/article/india-rajasthan-phalodi-jodhpur-bus-accident-4b885ea01f3f9474dbe752e6fceaf5ac</link>
 <pubDate>Mon, 03 Nov 2025 16:53:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India notches easy five-wicket win against Australia in third T20]]></title>
-<link>https://apnews.com/article/india-cricket-australia-t20-hobart-6947e8dd1feac8c576f10d302041d906</link>
-<pubDate>Mon, 03 Nov 2025 09:29:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 3 dead, 11 injured in UPS plane crash in Kentucky and governor says numbers likely to grow]]></title>
+<title><![CDATA[At least 7 dead, 11 injured in UPS plane crash and explosion at Kentucky airport]]></title>
 <link>https://apnews.com/article/kentucky-louisville-plane-crash-report-71dd124d1971a22f122590e72cc2c73a</link>
-<pubDate>Wed, 05 Nov 2025 00:44:38 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 04:06:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
