@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 14:11:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 14:42:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mona Ziade, who helped shape the AP’s Middle East coverage in the 1980s and ‘90s, dies at age 65]]></title>
 <link>https://apnews.com/article/mona-ziade-dies-beirut-associated-press-journalist-9a3de771cc003a8451d486ea1461ef6d</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As world leaders enter climate talks, people in poverty have the most at stake]]></title>
+<link>https://apnews.com/article/cop30-un-belem-brazil-climate-change-talks-21cf1cdf247ff5119e84db836015569f</link>
+<pubDate>Wed, 05 Nov 2025 14:28:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope Leo calls for ‘deep reflection’ about treatment of detained migrants in the United States]]></title>
 <link>https://apnews.com/article/vatican-pope-migrants-us-441229638a27420cad3de1e07f73a494</link>
 <pubDate>Wed, 05 Nov 2025 08:41:31 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[On eve of UN climate talks in Brazil, a call for less talking and more doing]]></title>
 <link>https://apnews.com/article/cop30-climate-change-belem-brazil-united-nations-15450d92285d8c92973589fd9037e69d</link>
 <pubDate>Wed, 05 Nov 2025 05:46:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hurricane death toll rises to 43 in Haiti as aid pours in across the northern Caribbean]]></title>
-<link>https://apnews.com/article/melissa-haiti-jamaica-hurricane-storm-caribbean-bbc009020e6a2a8150ccecc5b6370833</link>
-<pubDate>Tue, 04 Nov 2025 20:17:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Massive fireball erupts as UPS plane crashes at Kentucky airport, leaving 7 dead and some missing]]></title>
+<title><![CDATA[UPS plane crashes and explodes at a Kentucky airport, leaving at least 9 dead and others missing]]></title>
 <link>https://apnews.com/article/ups-cargo-plane-explosion-louisville-deaths-af12da7f8611bad0bf0cb664de189250</link>
-<pubDate>Wed, 05 Nov 2025 13:10:55 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 14:13:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares retreat after losses for Big Tech pull US stocks lower]]></title>
+<title><![CDATA[Wall Street dips as markets take in more earnings ahead of Supreme Court hearing on Trump’s tariffs]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-tech-ai-trump-0206035d2877de30454b7376904f1e9b</link>
-<pubDate>Wed, 05 Nov 2025 09:16:22 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 14:28:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As world leaders enter climate talks, people in poverty have the most at stake]]></title>
-<link>https://apnews.com/article/cop30-un-belem-brazil-climate-change-talks-21cf1cdf247ff5119e84db836015569f</link>
-<pubDate>Wed, 05 Nov 2025 05:53:45 -0000</pubDate>
+<title><![CDATA[A decade after Brazil’s deadly dam collapse, Indigenous peoples demand justice on the eve of COP30]]></title>
+<link>https://apnews.com/article/brazil-disaster-mariana-dam-minas-samarco-vale-bhp-killing-contamination-cop30-6b5beb1f901bf305d1b2bc5d78d3a1b4</link>
+<pubDate>Wed, 05 Nov 2025 14:13:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Beacon of hope': Ugandans find inspiration in Mamdani’s win and ask if they can do the same]]></title>
+<title><![CDATA[Mamdani’s win inspires Ugandans who see hope in youth joining politics]]></title>
 <link>https://apnews.com/article/uganda-zohran-mamdani-2fa1e5ce2f9d6e4f185227b882add2b1</link>
-<pubDate>Wed, 05 Nov 2025 11:52:12 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 13:58:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
