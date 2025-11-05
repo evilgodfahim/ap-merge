@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 16:14:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 16:47:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian artists transform bombed-out house into a mural of remembrance, in photos]]></title>
 <link>https://apnews.com/photo-gallery/syria-murals-art-war-4623393143499a24b09657b46459ae10</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tanzanian opposition claims security forces are secretly dumping bodies after election violence]]></title>
-<link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-internet-shutdown-ed57beb80faff2f9737804217d057cec</link>
-<pubDate>Wed, 05 Nov 2025 11:51:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Moroccan court sentences man accused of trafficking people to scam compound in Asia]]></title>
 <link>https://apnews.com/article/morocco-scam-centers-prison-trafficking-dbcd643dd39d013409796257c421b9d5</link>
 <pubDate>Tue, 04 Nov 2025 21:34:34 -0000</pubDate>
@@ -92,6 +86,12 @@
 <title><![CDATA[Parts of Cameroon deserted as opposition calls for a lockdown to protest election results]]></title>
 <link>https://apnews.com/article/cameroon-paul-biya-tchrioma-lockdown-8225f2b2f2dfd329dbac90cedf17d80b</link>
 <pubDate>Tue, 04 Nov 2025 18:43:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Famine is gripping two regions of war-torn Sudan, a global hunger authority says]]></title>
+<link>https://apnews.com/article/sudan-famine-darfur-ipc-elfasher-e4816f40ac2b2852b0b70c85e8f741d1</link>
+<pubDate>Tue, 04 Nov 2025 11:02:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US proposes that the UN authorize a Gaza stabilization force for 2 years]]></title>
-<link>https://apnews.com/article/international-stabilization-force-gaza-united-nations-trump-464cfda6fbec02b8553a9df9d093df06</link>
-<pubDate>Tue, 04 Nov 2025 21:51:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan deploys the military to counter a surge in bear attacks]]></title>
 <link>https://apnews.com/article/japan-bear-attack-army-12a2a3233790deeefd9ec379d0121f33</link>
 <pubDate>Wed, 05 Nov 2025 13:26:02 -0000</pubDate>
@@ -368,6 +362,18 @@
 <title><![CDATA[Putin tells officials to submit plans for possibly resuming nuclear tests after Trump’s remarks]]></title>
 <link>https://apnews.com/article/russia-putin-nuclear-tests-trump-9cc3d24ebd0ac0ed238420f5a1312b25</link>
 <pubDate>Wed, 05 Nov 2025 15:30:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘Badhai!’ In India, a celebration for Zohran Mamdani’s New York mayoral win and his roots]]></title>
+<link>https://apnews.com/article/india-zohran-mamdani-new-york-mayor-mira-nair-e5970914ee8c7022bcf07ca34de8205b</link>
+<pubDate>Wed, 05 Nov 2025 16:32:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mamdani’s win inspires Ugandans who see hope in youth joining politics]]></title>
+<link>https://apnews.com/article/uganda-zohran-mamdani-2fa1e5ce2f9d6e4f185227b882add2b1</link>
+<pubDate>Wed, 05 Nov 2025 13:58:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,15 +419,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street holds steady as earnings reports flow in]]></title>
+<title><![CDATA[Wall Street gains ground amid steady flow of earnings reports, upbeat economic updates]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-tech-ai-trump-0206035d2877de30454b7376904f1e9b</link>
-<pubDate>Wed, 05 Nov 2025 15:00:26 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 16:17:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court weighs Trump tariffs in a trillion-dollar test of executive power]]></title>
+<title><![CDATA[Supreme Court weighing Trump tariffs in a trillion-dollar test of executive power]]></title>
 <link>https://apnews.com/article/trump-tariffs-supreme-court-bc89f3a1f5fd66e5b59f6e5330a5c0ca</link>
-<pubDate>Wed, 05 Nov 2025 11:20:13 -0000</pubDate>
+<pubDate>Wed, 05 Nov 2025 16:02:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mamdani’s win inspires Ugandans who see hope in youth joining politics]]></title>
-<link>https://apnews.com/article/uganda-zohran-mamdani-2fa1e5ce2f9d6e4f185227b882add2b1</link>
-<pubDate>Wed, 05 Nov 2025 13:58:18 -0000</pubDate>
+<title><![CDATA[Tanzanian opposition claims security forces are secretly dumping bodies after election violence]]></title>
+<link>https://apnews.com/article/tanzania-election-samia-suluhu-hassan-internet-shutdown-ed57beb80faff2f9737804217d057cec</link>
+<pubDate>Tue, 04 Nov 2025 10:06:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
