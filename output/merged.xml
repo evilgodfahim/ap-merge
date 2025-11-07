@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 07 Nov 2025 11:33:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 12:20:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN approves US-backed effort to lift sanctions on Syria’s president]]></title>
 <link>https://apnews.com/article/united-nations-syria-alsharaa-sanctions-us-trump-951e02a0c9e9384d944d838d4a2f540e</link>
@@ -29,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean and Russian military officials discuss further cooperation in Pyongyang]]></title>
-<link>https://apnews.com/article/north-korea-russia-military-ukraine-troops-10b2bf40d0ba85fe6d24bf689336c4e2</link>
-<pubDate>Fri, 07 Nov 2025 06:01:42 -0000</pubDate>
+<title><![CDATA[Drone sightings halt flights at major European cargo airport in Belgium]]></title>
+<link>https://apnews.com/article/belgium-drones-airport-closure-russia-6895b5cfb723971c2e5af7070bd4805b</link>
+<pubDate>Fri, 07 Nov 2025 12:20:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Multiple explosions shake a mosque in an Indonesian high school and injure 54]]></title>
-<link>https://apnews.com/article/indonesia-explosions-mosque-high-school-students-366d88d30e28bac9a5b2ac3b43de9b4f</link>
-<pubDate>Fri, 07 Nov 2025 11:02:46 -0000</pubDate>
+<title><![CDATA[What to know about China’s newest aircraft carrier, the Fujian]]></title>
+<link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-launch-be690c6135070f5e9ec48a6e09d6e2f6</link>
+<pubDate>Fri, 07 Nov 2025 12:05:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Outside powers’ reported backing for Sudan’s warring sides helps fuel fighting as atrocities mount]]></title>
+<title><![CDATA[Sudan’s paramilitary group agrees on truce proposed by US-led mediator group]]></title>
+<link>https://apnews.com/article/sudan-talks-paramilitaries-agrees-truce-c95d461ffb963f6a0214cb717b11c488</link>
+<pubDate>Fri, 07 Nov 2025 11:50:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As alarm mounts over Sudan’s war, combatants fight on thanks to foreign backers]]></title>
 <link>https://apnews.com/article/sudan-war-uae-egypt-f1cb024e79c9b35aa10db7dd348ede4f</link>
-<pubDate>Fri, 07 Nov 2025 05:31:42 -0000</pubDate>
+<pubDate>Fri, 07 Nov 2025 11:35:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,12 +107,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attackers board a ship off the coast of Somalia after firing rocket-propelled grenades]]></title>
-<link>https://apnews.com/article/somalia-pirates-d33f12accae30b57afc0f0ac860abc43</link>
-<pubDate>Thu, 06 Nov 2025 17:54:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Crews are working to fix Alaska Native villages devastated by flooding. But will residents return?]]></title>
 <link>https://apnews.com/article/halong-kipnuk-kwigillingok-flood-evacuation-b741508b131c3a4944a814b0ca45ac6e</link>
 <pubDate>Fri, 07 Nov 2025 05:16:42 -0000</pubDate>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-NBA player Damon Jones pleads not guilty to selling injury secrets, profiting from rigged poker]]></title>
-<link>https://apnews.com/article/damon-jones-nba-poker-betting-lebron-james-79148fc3641a3a648a1eeb1824767443</link>
-<pubDate>Fri, 07 Nov 2025 04:46:42 -0000</pubDate>
+<title><![CDATA[Federal judge orders Trump administration to fully fund SNAP benefits in November]]></title>
+<link>https://apnews.com/article/snap-benefit-november-shutdown-086c15b0818e0cafae85090b34f44ba3</link>
+<pubDate>Thu, 06 Nov 2025 23:18:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[Fit-again Rishabh Pant returns for India-South Africa test series]]></title>
 <link>https://apnews.com/article/india-south-africa-rishabh-pant-71a50f1ece2c9472c5177ba5120941a8</link>
 <pubDate>Thu, 06 Nov 2025 06:52:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[6 migrants die in crash after police try to stop a van in Bulgaria]]></title>
+<link>https://apnews.com/article/bulgaria-migrants-deaths-van-crash-police-c6b9f31a88de72877a9542968a35c587</link>
+<pubDate>Fri, 07 Nov 2025 11:46:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Boeing won’t face criminal charge over 737 Max crashes that killed hundreds of people]]></title>
-<link>https://apnews.com/article/boeing-737-max-crash-criminal-case-2fda6bd5226b042787c5bec3c02b78d3</link>
-<pubDate>Thu, 06 Nov 2025 17:24:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China seeks to project power far beyond its coast with the new Fujian aircraft carrier]]></title>
 <link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-4fef26ed44a48932fc31ad5b1ef0793a</link>
 <pubDate>Fri, 07 Nov 2025 08:10:40 -0000</pubDate>
@@ -377,21 +377,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korean and Russian military officials discuss further cooperation in Pyongyang]]></title>
+<link>https://apnews.com/article/north-korea-russia-military-ukraine-troops-10b2bf40d0ba85fe6d24bf689336c4e2</link>
+<pubDate>Fri, 07 Nov 2025 02:42:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil stumps up billions of dollars for its ambitious rainforest fund at UN climate summit]]></title>
 <link>https://apnews.com/article/brazil-cop30-fund-forests-forever-norway-c0d5a0e16441f85bce469b7de8cf7f44</link>
 <pubDate>Fri, 07 Nov 2025 06:52:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women in Mexico City react to President Sheinbaum’s harassment incident]]></title>
-<link>https://apnews.com/video/women-in-mexico-city-react-to-president-sheinbaums-harassment-incident-9a05057de19747959695f3fea9342d55</link>
-<pubDate>Fri, 07 Nov 2025 01:54:49 -0000</pubDate>
+<title><![CDATA[Pope Leo discusses Gaza aid and two-state solution with Palestinian President Abbas]]></title>
+<link>https://apnews.com/video/pope-leo-discusses-gaza-aid-and-two-state-solution-with-palestinian-president-abbas-a21a9fbe04a2464081156b98115cde1f</link>
+<pubDate>Fri, 07 Nov 2025 12:18:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israelis in Jerusalem react to Zohran Mamdani’s win in New York mayor election]]></title>
-<link>https://apnews.com/video/israelis-in-jerusalem-react-to-zohran-mamdanis-win-in-new-york-mayor-election-1674546ed6a24091aa8036765e8f250b</link>
-<pubDate>Wed, 05 Nov 2025 22:39:02 -0000</pubDate>
+<title><![CDATA[Philippines president declares state of emergency after many killed in Typhoon Kalmaegi]]></title>
+<link>https://apnews.com/video/philippines-president-declares-state-of-emergency-after-many-killed-in-typhoon-kalmaegi-c9312b4b09a0458f9defe00c91a140c1</link>
+<pubDate>Fri, 07 Nov 2025 12:03:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about China’s newest aircraft carrier, the Fujian]]></title>
-<link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-launch-be690c6135070f5e9ec48a6e09d6e2f6</link>
-<pubDate>Fri, 07 Nov 2025 07:10:40 -0000</pubDate>
+<title><![CDATA[Multiple explosions shake a mosque in an Indonesian high school and injure 55]]></title>
+<link>https://apnews.com/article/indonesia-explosions-mosque-high-school-students-366d88d30e28bac9a5b2ac3b43de9b4f</link>
+<pubDate>Fri, 07 Nov 2025 11:48:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,15 +473,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s paramilitary group agrees on truce proposed by US-led mediator group]]></title>
-<link>https://apnews.com/article/sudan-talks-paramilitaries-agrees-truce-c95d461ffb963f6a0214cb717b11c488</link>
-<pubDate>Thu, 06 Nov 2025 16:31:02 -0000</pubDate>
+<title><![CDATA[Sudanese army intercepts RSF drones targeting 2 cities]]></title>
+<link>https://apnews.com/article/sudan-rsf-drone-strikes-e1f5a14c8cfdf0efab2c295a81a5a7b6</link>
+<pubDate>Fri, 07 Nov 2025 11:33:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The FAA’s order to cut flights nationwide due to the government shutdown is set to take effect]]></title>
+<title><![CDATA[The FAA’s order to cut flights nationwide due to the government shutdown is in effect]]></title>
 <link>https://apnews.com/article/flight-cuts-government-shutdown-airlines-c21ffa6c3d55e3d2fe7f53702112727b</link>
-<pubDate>Fri, 07 Nov 2025 05:20:49 -0000</pubDate>
+<pubDate>Fri, 07 Nov 2025 11:18:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
