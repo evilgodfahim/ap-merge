@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 08:41:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 09:09:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns]]></title>
 <link>https://apnews.com/article/iran-president-water-crisis-rain-evacuation-da5f9ccd264d525ed16aa53ea76dcf8a</link>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Russian drone strike at a tower block in eastern Ukraine kills a woman and injures 11 people]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-attacks-civilians-74750e88cda59c26c7e56da6c5614bf2</link>
+<pubDate>Sat, 08 Nov 2025 09:09:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The latest hostage remains returned from Gaza are of an Israeli man killed at the start of war]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
 <pubDate>Sat, 08 Nov 2025 08:06:30 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
 <link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
 <pubDate>Sat, 08 Nov 2025 05:59:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Supreme Court panel unanimously rejects Bolsonaro’s appeal, upholding 27-year sentence]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-appeal-supreme-court-322bc216ba662253cc5b619ea6fad69e</link>
-<pubDate>Fri, 07 Nov 2025 21:40:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,12 +437,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France mourns its stolen crown jewels as their uncomfortable colonial past returns to view]]></title>
-<link>https://apnews.com/article/jewels-crown-louvre-1fc9ced982798bc5c292a2f58d075275</link>
-<pubDate>Fri, 07 Nov 2025 06:37:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China seeks to project power far beyond its coast with the new Fujian aircraft carrier]]></title>
 <link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-4fef26ed44a48932fc31ad5b1ef0793a</link>
 <pubDate>Fri, 07 Nov 2025 08:10:40 -0000</pubDate>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European Union vessel reaches ship raided by pirates off Somalia; all 24 crew on board safe]]></title>
-<link>https://apnews.com/article/somalia-pirates-hellas-aphrodite-tanker-a2c3fb0a172194c6702621da3d6632d2</link>
-<pubDate>Fri, 07 Nov 2025 14:22:23 -0000</pubDate>
+<title><![CDATA[Tanzania charges hundreds with treason and issues arrest warrants for more opposition figures]]></title>
+<link>https://apnews.com/article/tanzania-election-protests-opposition-treason-charges-aba45579e7e2d37b268f902510734399</link>
+<pubDate>Sat, 08 Nov 2025 08:54:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Biofuel pledge at climate summit highlights India’s ethanol blending debate]]></title>
-<link>https://apnews.com/article/ethanol-belem-cop30-climate-change-india-brazil-069776a758cd22d037866b8701df6d9a</link>
-<pubDate>Fri, 07 Nov 2025 15:10:00 -0000</pubDate>
+<title><![CDATA[Australia wins toss, sends India in to bat in T20 series decider]]></title>
+<link>https://apnews.com/article/india-cricket-australia-t20-1e487cd64fcf93d7977fe6cb9d219fda</link>
+<pubDate>Sat, 08 Nov 2025 08:39:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
