@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 14:36:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 15:09:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
+<link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
+<pubDate>Fri, 07 Nov 2025 13:42:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns]]></title>
 <link>https://apnews.com/article/iran-president-water-crisis-rain-evacuation-da5f9ccd264d525ed16aa53ea76dcf8a</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN approves US-backed effort to lift sanctions on Syria’s president]]></title>
-<link>https://apnews.com/article/united-nations-syria-alsharaa-sanctions-us-trump-951e02a0c9e9384d944d838d4a2f540e</link>
-<pubDate>Fri, 07 Nov 2025 10:12:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US government shutdown forces local workers at some overseas bases to go without pay]]></title>
+<title><![CDATA[US government shutdown forces some overseas bases to stop paying workers]]></title>
 <link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
-<pubDate>Sat, 08 Nov 2025 12:57:20 -0000</pubDate>
+<pubDate>Sat, 08 Nov 2025 15:09:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazilian environmentalist gets funded by DiCaprio after false forest fire accusation by Bolsonaro]]></title>
+<link>https://apnews.com/article/cop30-brazil-ngo-amazon-dicaprio-funding-c73b2d89af67f926435352abbb7aca9e</link>
+<pubDate>Sat, 08 Nov 2025 14:54:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Supreme Court panel unanimously rejects Bolsonaro’s appeal, upholding 27-year sentence]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-appeal-supreme-court-322bc216ba662253cc5b619ea6fad69e</link>
 <pubDate>Sat, 08 Nov 2025 09:34:02 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexico and France announce plan to boost economic and cultural ties after leaders meet]]></title>
 <link>https://apnews.com/article/mexico-france-strengthen-trade-relations-sheinbaum-macron-90774c3b7db6065b5dfc9e6a3f17f735</link>
 <pubDate>Sat, 08 Nov 2025 05:37:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Climate summit hears from countries suffering from harms, destruction linked to global warming]]></title>
-<link>https://apnews.com/article/brazil-cop30-forests-finland-amazon-1c03ba4012acf7b0da457b8453688786</link>
-<pubDate>Fri, 07 Nov 2025 23:33:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some states now require public schools to teach kids about gun safety]]></title>
-<link>https://apnews.com/article/gun-safety-public-schools-722340e1e0d7291abaf80ec30bbd6ad7</link>
-<pubDate>Sat, 08 Nov 2025 08:12:52 -0000</pubDate>
+<title><![CDATA[Washington’s struggling economy takes another economic hit from the government shutdown]]></title>
+<link>https://apnews.com/article/government-shutdown-washington-economy-trump-food-bank-0f54be181fcaca70161a12b869cb619b</link>
+<pubDate>Sat, 08 Nov 2025 14:39:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about China’s newest aircraft carrier, the Fujian]]></title>
-<link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-launch-be690c6135070f5e9ec48a6e09d6e2f6</link>
-<pubDate>Fri, 07 Nov 2025 12:05:28 -0000</pubDate>
+<title><![CDATA[Climate summit hears from countries suffering from harms, destruction linked to global warming]]></title>
+<link>https://apnews.com/article/brazil-cop30-forests-finland-amazon-1c03ba4012acf7b0da457b8453688786</link>
+<pubDate>Fri, 07 Nov 2025 23:33:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s exports fall 1.1% in October, hit by a 25% drop in shipments to the US]]></title>
-<link>https://apnews.com/article/china-trade-tariffs-trump-exports-75f570114f56c5b64209a039ab539ebb</link>
-<pubDate>Sat, 08 Nov 2025 04:37:22 -0000</pubDate>
+<title><![CDATA[What to know about China’s newest aircraft carrier, the Fujian]]></title>
+<link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-launch-be690c6135070f5e9ec48a6e09d6e2f6</link>
+<pubDate>Fri, 07 Nov 2025 12:05:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +404,6 @@
 <title><![CDATA[Protesters disrupt an Israeli Philharmonic concert in Paris. 4 people are detained]]></title>
 <link>https://apnews.com/article/israeli-philharmonic-protest-paris-e75480309b8cb3bf32db2ac26e9c1e57</link>
 <pubDate>Fri, 07 Nov 2025 18:17:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
-<link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
-<pubDate>Thu, 06 Nov 2025 14:25:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
