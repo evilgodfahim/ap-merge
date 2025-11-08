@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 17:07:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 17:34:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
 <link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
@@ -14,12 +14,6 @@
 <title><![CDATA[Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns]]></title>
 <link>https://apnews.com/article/iran-president-water-crisis-rain-evacuation-da5f9ccd264d525ed16aa53ea76dcf8a</link>
 <pubDate>Fri, 07 Nov 2025 15:11:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US government shutdown forces some overseas bases to stop paying workers]]></title>
-<link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
-<pubDate>Sat, 08 Nov 2025 15:09:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +29,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
+<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
+<pubDate>Sat, 08 Nov 2025 11:42:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian police investigate ties between a mosque attack suspect and hate groups]]></title>
 <link>https://apnews.com/article/indonesia-explosions-mosque-school-156c29c591648335bb20d2be13022f2d</link>
 <pubDate>Sat, 08 Nov 2025 16:11:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Taiwan’s vice president calls for closer EU ties in rare address to international lawmakers]]></title>
+<link>https://apnews.com/article/taiwan-eu-europe-vice-president-hsiao-bikhim-b3ef3a0e47779c2e6ae51b627e94689e</link>
+<pubDate>Fri, 07 Nov 2025 17:22:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,27 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Multiple explosions shake a mosque in an Indonesian high school and injure 54]]></title>
-<link>https://apnews.com/article/indonesia-explosions-mosque-high-school-students-366d88d30e28bac9a5b2ac3b43de9b4f</link>
-<pubDate>Fri, 07 Nov 2025 11:02:46 -0000</pubDate>
+<title><![CDATA[Powerful tornado in Brazil kills 6 people and injures more than 400 others]]></title>
+<link>https://apnews.com/article/brazil-tornado-parana-lula-3971b89a390cabf9dc74462000470ec4</link>
+<pubDate>Sat, 08 Nov 2025 17:34:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sexual harassment in Mexico drives women to look for rides with other women]]></title>
+<link>https://apnews.com/article/mexico-sheinbaum-groping-gender-violence-38b76d8eecea83ce982ce2cdc70ea8f2</link>
+<pubDate>Sat, 08 Nov 2025 17:19:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Brazilian environmentalist gets funded by DiCaprio after false forest fire accusation by Bolsonaro]]></title>
 <link>https://apnews.com/article/cop30-brazil-ngo-amazon-dicaprio-funding-c73b2d89af67f926435352abbb7aca9e</link>
 <pubDate>Sat, 08 Nov 2025 14:54:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Supreme Court panel unanimously rejects Bolsonaro’s appeal, upholding 27-year sentence]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-appeal-supreme-court-322bc216ba662253cc5b619ea6fad69e</link>
-<pubDate>Sat, 08 Nov 2025 09:34:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico and France announce plan to boost economic and cultural ties after leaders meet]]></title>
-<link>https://apnews.com/article/mexico-france-strengthen-trade-relations-sheinbaum-macron-90774c3b7db6065b5dfc9e6a3f17f735</link>
-<pubDate>Sat, 08 Nov 2025 05:37:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,21 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Washington’s struggling economy takes another economic hit from the government shutdown]]></title>
+<title><![CDATA[Washington’s struggling economy takes another hit from the government shutdown]]></title>
 <link>https://apnews.com/article/government-shutdown-washington-economy-trump-food-bank-0f54be181fcaca70161a12b869cb619b</link>
-<pubDate>Sat, 08 Nov 2025 14:39:01 -0000</pubDate>
+<pubDate>Sat, 08 Nov 2025 17:04:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump pardons ex-NYPD officer who was convicted of helping China stalk an expat]]></title>
 <link>https://apnews.com/article/china-nypd-michael-mcmahon-trump-pardon-01d4479986dfc799a1809b6d773021be</link>
 <pubDate>Sat, 08 Nov 2025 00:02:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan’s vice president calls for closer EU ties in rare address to international lawmakers]]></title>
-<link>https://apnews.com/article/taiwan-eu-europe-vice-president-hsiao-bikhim-b3ef3a0e47779c2e6ae51b627e94689e</link>
-<pubDate>Fri, 07 Nov 2025 17:22:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,6 +134,12 @@
 <title><![CDATA[What to know about China’s newest aircraft carrier, the Fujian]]></title>
 <link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-launch-be690c6135070f5e9ec48a6e09d6e2f6</link>
 <pubDate>Fri, 07 Nov 2025 12:05:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s exports fall 1.1% in October, hit by a 25% drop in shipments to the US]]></title>
+<link>https://apnews.com/article/china-trade-tariffs-trump-exports-75f570114f56c5b64209a039ab539ebb</link>
+<pubDate>Sat, 08 Nov 2025 04:37:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Powerful tornado in Brazil kills 6 people and injures more than 400 others]]></title>
-<link>https://apnews.com/article/brazil-tornado-parana-lula-3971b89a390cabf9dc74462000470ec4</link>
-<pubDate>Sat, 08 Nov 2025 16:11:16 -0000</pubDate>
+<title><![CDATA[Björn Werner is the ‘German Pat McAfee’ bringing the NFL, Colts and Bromania to the masses]]></title>
+<link>https://apnews.com/article/bjorn-werner-colts-germany-nfl-mcafee-berlin-0b00af926c4c91abe5f16e7365793f09</link>
+<pubDate>Sat, 08 Nov 2025 17:34:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
-<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
-<pubDate>Sat, 08 Nov 2025 12:57:21 -0000</pubDate>
+<title><![CDATA[US government shutdown forces some overseas bases to stop paying workers]]></title>
+<link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
+<pubDate>Sat, 08 Nov 2025 17:19:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Rare footage shows sucker fish as they whale-surf in the ocean’s wildest joyride]]></title>
 <link>https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588</link>
 <pubDate>Sat, 08 Nov 2025 15:56:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico and France announce plan to boost economic and cultural ties after leaders meet]]></title>
+<link>https://apnews.com/article/mexico-france-strengthen-trade-relations-sheinbaum-macron-90774c3b7db6065b5dfc9e6a3f17f735</link>
+<pubDate>Sat, 08 Nov 2025 17:04:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +224,12 @@
 <title><![CDATA[Trump accuses foreign-owned meat packers of inflating US beef prices and calls for investigation]]></title>
 <link>https://apnews.com/article/trump-beef-justice-department-c6c57effee6ef1a8c1088d4e5edcc60a</link>
 <pubDate>Fri, 07 Nov 2025 21:40:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Supreme Court panel unanimously rejects Bolsonaro’s appeal, upholding 27-year sentence]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-appeal-supreme-court-322bc216ba662253cc5b619ea6fad69e</link>
+<pubDate>Sat, 08 Nov 2025 16:49:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico president’s rivals cry foul as she uses groping incident to address gender violence]]></title>
-<link>https://apnews.com/article/mexico-president-sheinbaum-groping-0a3b89ace86b071bc68ca63d3e3e26f8</link>
-<pubDate>Sat, 08 Nov 2025 09:16:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel says another set of remains of a hostage has been turned over in Gaza]]></title>
-<link>https://apnews.com/article/israel-funeral-military-officer-returned-hostage-b37223aca8d3b901fb98f2b08aa5e928</link>
-<pubDate>Sat, 08 Nov 2025 08:11:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strikes hit an apartment block and energy sites in Ukraine, killing 4]]></title>
+<title><![CDATA[Russian strikes hit an apartment building and energy sites in Ukraine, killing 4]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-strikes-attacks-civilians-74750e88cda59c26c7e56da6c5614bf2</link>
-<pubDate>Sat, 08 Nov 2025 13:01:17 -0000</pubDate>
+<pubDate>Sat, 08 Nov 2025 17:26:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sexual harassment in Mexico drives women to look for rides with other women]]></title>
-<link>https://apnews.com/article/mexico-sheinbaum-groping-gender-violence-38b76d8eecea83ce982ce2cdc70ea8f2</link>
-<pubDate>Sat, 08 Nov 2025 04:14:54 -0000</pubDate>
+<title><![CDATA[Rodrigo Paz sworn in as Bolivia’s new president, ending 20 years of one-party rule]]></title>
+<link>https://apnews.com/article/bolivia-conservative-president-paz-morales-715b05e9a77b78dbf7d82ab0e890ce02</link>
+<pubDate>Sat, 08 Nov 2025 17:11:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
