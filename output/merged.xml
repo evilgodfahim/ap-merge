@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 12:17:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 12:57:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns]]></title>
 <link>https://apnews.com/article/iran-president-water-crisis-rain-evacuation-da5f9ccd264d525ed16aa53ea76dcf8a</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US government shutdown forces local workers at some overseas bases to go without pay]]></title>
+<link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
+<pubDate>Sat, 08 Nov 2025 12:57:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France mourns its stolen crown jewels as their uncomfortable colonial past returns to view]]></title>
 <link>https://apnews.com/article/jewels-crown-louvre-1fc9ced982798bc5c292a2f58d075275</link>
 <pubDate>Fri, 07 Nov 2025 06:16:42 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukraine’s army fights to hold Pokrovsk in a battle for territory and narratives]]></title>
 <link>https://apnews.com/article/pokrovsk-russia-ukraine-war-trump-zelenskyy-putin-e5fbe91c87036f6cd11d17f512c2ba35</link>
 <pubDate>Fri, 07 Nov 2025 17:37:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
-<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
-<pubDate>Sat, 08 Nov 2025 11:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Indians who fled a Myanmar cyberscam center are being flown home from Thailand]]></title>
 <link>https://apnews.com/article/cybercrime-myanmar-thailand-india-scams-eab962e87b297130e426be13f7dd5761</link>
 <pubDate>Thu, 06 Nov 2025 06:19:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
+<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
+<pubDate>Sat, 08 Nov 2025 12:57:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[UK police arrest 10 around a soccer match between Aston Villa and Israeli club Maccabi Tel Aviv]]></title>
 <link>https://apnews.com/article/aston-villa-maccabi-tel-aviv-match-arrests-714ff9809c0d1a328148fb8e9ab98733</link>
 <pubDate>Fri, 07 Nov 2025 14:41:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Van is chased by police in Bulgaria and crashes, killing six migrants]]></title>
-<link>https://apnews.com/article/bulgaria-migrants-deaths-van-crash-police-c6b9f31a88de72877a9542968a35c587</link>
-<pubDate>Fri, 07 Nov 2025 16:52:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
