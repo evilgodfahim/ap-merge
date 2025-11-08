@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 07:32:43 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
-<link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
-<pubDate>Fri, 07 Nov 2025 13:42:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 08 Nov 2025 08:12:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns]]></title>
 <link>https://apnews.com/article/iran-president-water-crisis-rain-evacuation-da5f9ccd264d525ed16aa53ea76dcf8a</link>
 <pubDate>Fri, 07 Nov 2025 15:11:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN approves US-backed effort to lift sanctions on Syria’s president]]></title>
+<link>https://apnews.com/article/united-nations-syria-alsharaa-sanctions-us-trump-951e02a0c9e9384d944d838d4a2f540e</link>
+<pubDate>Fri, 07 Nov 2025 10:12:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the 6 hostages whose remains are still in Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
-<pubDate>Fri, 07 Nov 2025 07:23:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nigeria’s army chief promises to step up anti-terror operations]]></title>
 <link>https://apnews.com/article/nigeria-genocide-trump-military-threat-terrorist-9ae0c94c915f540dffe6ef118a76a938</link>
 <pubDate>Fri, 07 Nov 2025 23:18:02 -0000</pubDate>
@@ -119,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some states are requiring gun safety lessons in schools that teach kids ‘stop, don’t touch’]]></title>
+<title><![CDATA[Some states now require public schools to teach kids about gun safety]]></title>
 <link>https://apnews.com/article/gun-safety-public-schools-722340e1e0d7291abaf80ec30bbd6ad7</link>
-<pubDate>Sat, 08 Nov 2025 04:52:22 -0000</pubDate>
+<pubDate>Sat, 08 Nov 2025 08:12:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The latest hostage remains returned from Gaza are of an Israeli man killed at the start of war]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
+<pubDate>Sat, 08 Nov 2025 08:06:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US skips human rights review by UN body as countries appeal for its return next year]]></title>
 <link>https://apnews.com/article/united-states-human-rights-trump-aclu-un-20eacfbff499b7bb41f88322fb81c99e</link>
 <pubDate>Fri, 07 Nov 2025 19:34:53 -0000</pubDate>
@@ -389,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What’s at stake in Iraq’s parliamentary election]]></title>
-<link>https://apnews.com/article/iraq-election-iran-parliament-sudani-ccd93913b12253f0eaf742696bfce617</link>
-<pubDate>Sat, 08 Nov 2025 05:44:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
 <pubDate>Thu, 06 Nov 2025 18:36:42 -0000</pubDate>
@@ -410,6 +404,12 @@
 <title><![CDATA[Protesters disrupt an Israeli Philharmonic concert in Paris. 4 people are detained]]></title>
 <link>https://apnews.com/article/israeli-philharmonic-protest-paris-e75480309b8cb3bf32db2ac26e9c1e57</link>
 <pubDate>Fri, 07 Nov 2025 18:17:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
+<link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
+<pubDate>Thu, 06 Nov 2025 14:25:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN approves US-backed effort to lift sanctions on Syria’s president]]></title>
-<link>https://apnews.com/article/united-nations-syria-alsharaa-sanctions-us-trump-951e02a0c9e9384d944d838d4a2f540e</link>
-<pubDate>Thu, 06 Nov 2025 21:44:23 -0000</pubDate>
+<title><![CDATA[What to know about the 5 hostages whose remains are still in Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostages-remains-45a076b9f999ce79cc0041485acff2f8</link>
+<pubDate>Sat, 08 Nov 2025 07:51:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
