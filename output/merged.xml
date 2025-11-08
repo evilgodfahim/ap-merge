@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 16:11:17 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 16:40:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
 <link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
@@ -347,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinian death toll in Gaza tops 69,000, local health officials say as more bodies are exchanged]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
-<pubDate>Sat, 08 Nov 2025 13:16:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian strikes hit an apartment block and energy sites in Ukraine, killing 4]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-strikes-attacks-civilians-74750e88cda59c26c7e56da6c5614bf2</link>
 <pubDate>Sat, 08 Nov 2025 13:01:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gaza death toll tops 69,000 as Israel and militants again exchange remains]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
+<pubDate>Sat, 08 Nov 2025 16:23:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +440,12 @@
 <title><![CDATA[Scam centers in southeast Asia are on the rise despite crackdowns to root out the illegal industry]]></title>
 <link>https://apnews.com/article/southeast-asia-scam-centers-kk-park-d6f433a67cc6abcfbe7a6da1d2f6eae2</link>
 <pubDate>Sat, 08 Nov 2025 04:29:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Women make inroads in Pakistan as they become firefighters and barriers slowly fall]]></title>
+<link>https://apnews.com/article/pakistan-women-join-challenging-frontline-firefighting-force-c074ed4d55bec78b51027ee9017de56d</link>
+<pubDate>Sat, 08 Nov 2025 09:24:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
