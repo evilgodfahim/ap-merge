@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 02:28:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 03:31:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Divided Jewish leaders react with warnings and hope as New York elects Zohran Mamdani as mayor]]></title>
 <link>https://apnews.com/article/mamdani-new-york-city-mayor-jewish-community-50fb5de2325f8e00e7cf7c9cd4e26117</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Women make inroads in Pakistan as they become firefighters and barriers slowly fall]]></title>
+<link>https://apnews.com/article/pakistan-women-join-challenging-frontline-firefighting-force-c074ed4d55bec78b51027ee9017de56d</link>
+<pubDate>Sat, 08 Nov 2025 05:52:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian police investigate ties between a mosque attack suspect and hate groups]]></title>
 <link>https://apnews.com/article/indonesia-explosions-mosque-school-156c29c591648335bb20d2be13022f2d</link>
 <pubDate>Sat, 08 Nov 2025 16:11:16 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Taiwan’s vice president calls for closer EU ties in rare address to international lawmakers]]></title>
 <link>https://apnews.com/article/taiwan-eu-europe-vice-president-hsiao-bikhim-b3ef3a0e47779c2e6ae51b627e94689e</link>
 <pubDate>Fri, 07 Nov 2025 17:22:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China seeks to project power far beyond its coast with the new Fujian aircraft carrier]]></title>
-<link>https://apnews.com/article/china-fujian-aircraft-carrier-commission-4fef26ed44a48932fc31ad5b1ef0793a</link>
-<pubDate>Sat, 08 Nov 2025 15:56:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[People in some states get SNAP food aid while others still wait for their November benefits]]></title>
+<title><![CDATA[SNAP food aid gets to people in some states while others remain in limbo amid court battles]]></title>
 <link>https://apnews.com/article/snap-food-government-shutdown-trump-4a6edf5a6dbdf18049f1585bf7b61687</link>
-<pubDate>Sat, 08 Nov 2025 05:07:22 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 03:31:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan–Afghanistan peace talks in Istanbul fail amid rising border tensions]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-talks-turkey-8839bbbe2b0c737c0c79ca7e14b36b1d</link>
-<pubDate>Sat, 08 Nov 2025 09:39:57 -0000</pubDate>
+<title><![CDATA[Super typhoon threatens the Philippines, still reeling from recent storm that killed more than 200]]></title>
+<link>https://apnews.com/article/super-typhoon-fungwong-philippines-kalmaegi-evacuations-4c56c28db715e11af779e04893128c63</link>
+<pubDate>Sun, 09 Nov 2025 02:51:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women make inroads in Pakistan as they become firefighters and barriers slowly fall]]></title>
-<link>https://apnews.com/article/pakistan-women-join-challenging-frontline-firefighting-force-c074ed4d55bec78b51027ee9017de56d</link>
-<pubDate>Sat, 08 Nov 2025 09:24:57 -0000</pubDate>
+<title><![CDATA[Pakistan–Afghanistan peace talks in Istanbul fail amid rising border tensions]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-talks-turkey-8839bbbe2b0c737c0c79ca7e14b36b1d</link>
+<pubDate>Sat, 08 Nov 2025 09:39:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
