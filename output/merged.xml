@@ -3,11 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 11:32:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 12:18:08 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Protesters disrupt an Israeli Philharmonic concert in Paris. 4 people are detained]]></title>
-<link>https://apnews.com/article/israeli-philharmonic-protest-paris-e75480309b8cb3bf32db2ac26e9c1e57</link>
-<pubDate>Sun, 09 Nov 2025 11:12:54 -0000</pubDate>
+<title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
+<pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon lifts travel ban on Gadhafi’s son and reduces bail to $900,000 paving way for his release]]></title>
+<link>https://apnews.com/article/lebanon-libya-hannibal-gadhafi-mousa-alsadr-bail-travel-ban-5c15a2a9c8dbd5d1d597c58a7d169346</link>
+<pubDate>Sun, 09 Nov 2025 12:03:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK sends military experts and equipment to Belgium after drone sightings near airports]]></title>
+<link>https://apnews.com/article/uk-military-belgium-airport-drones-63436aebe672f4db3c7213ac296d25f4</link>
+<pubDate>Sun, 09 Nov 2025 11:48:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
-<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
-<pubDate>Sat, 08 Nov 2025 11:42:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A boat from Myanmar with hundreds of migrants capsizes off Malaysia, 1 body found and 10 rescued]]></title>
-<link>https://apnews.com/article/malaysia-boat-capsize-myanmar-rohingya-079983285bd5f902372693fb8b376662</link>
-<pubDate>Sun, 09 Nov 2025 09:54:58 -0000</pubDate>
+<title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></title>
+<link>https://apnews.com/article/super-typhoon-fung-wong-storm-climate-photo-89347244edef215b27f6263e5204a734</link>
+<pubDate>Sun, 09 Nov 2025 11:33:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,15 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[King Charles III leads Britain’s Remembrance Sunday ceremony for war dead]]></title>
+<link>https://apnews.com/article/uk-remembrance-sunday-king-charles-4fd0898203ebb836796d36960a1c3e22</link>
+<pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[3 dead and 15 injured in tidal surge on Spain’s Canary Islands]]></title>
 <link>https://apnews.com/article/storm-surge-deaths-tenerife-canary-islands-86539457241ce2296015e1278cdb8994</link>
 <pubDate>Sun, 09 Nov 2025 09:48:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Powerful quake strikes off the coast of Japan, tsunami advisory issued]]></title>
+<title><![CDATA[Powerful quake strikes off the coast of Japan, tsunami advisory lifted after 3 hours]]></title>
 <link>https://apnews.com/article/japan-earthquake-tsunami-62344ef5cc944482343933127ea81312</link>
-<pubDate>Sun, 09 Nov 2025 09:33:20 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 12:03:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Teen behind the Louvre heist ‘Fedora Man’ photo embraces his mystery moment]]></title>
+<title><![CDATA[Fedora man unmasked: Meet the teen behind the Louvre mystery photo]]></title>
 <link>https://apnews.com/article/louvre-fedora-man-ap-photo-c0d59847ef5f836a0c5ac49de8bff441</link>
-<pubDate>Sun, 09 Nov 2025 06:14:59 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 11:48:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +236,12 @@
 <title><![CDATA[US government shutdown forces some overseas bases to stop paying workers]]></title>
 <link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
 <pubDate>Sat, 08 Nov 2025 17:19:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bulgaria moves to prevent shutdown of its only oil refinery ahead of US sanctions]]></title>
+<link>https://apnews.com/article/bulgaria-lukoil-refinery-shutdown-russia-sanctions-11eff472c05a533eb64749cd598c8187</link>
+<pubDate>Sat, 08 Nov 2025 12:57:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[K-pop, The Weeknd, Timothée Chalamet, Billie Eilish: All the 2026 Grammy nom snubs and surprises]]></title>
-<link>https://apnews.com/article/2026-grammy-awards-nominations-snubs-surprises-71fc9a830662602d17d6caa14e1a8c56</link>
-<pubDate>Fri, 07 Nov 2025 17:37:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FAA scales back flights at 40 airports. See the impact in photos]]></title>
-<link>https://apnews.com/photo-gallery/faa-40-airports-shutdown-flight-delays-cancellations-8261af6d6972b39426b06d5c1e678c99</link>
-<pubDate>Fri, 07 Nov 2025 17:22:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hamas says it will hand over an Israeli soldier whose body has been held in Gaza since 2014]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-09-2025-54a4f07644bb15621950a23187a8c758</link>
 <pubDate>Sun, 09 Nov 2025 11:12:23 -0000</pubDate>
@@ -359,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
-<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
-<pubDate>Sat, 08 Nov 2025 05:59:54 -0000</pubDate>
+<title><![CDATA[A boat from Myanmar with hundreds of migrants capsizes off Malaysia, 1 body found and 10 rescued]]></title>
+<link>https://apnews.com/article/malaysia-boat-capsize-myanmar-rohingya-079983285bd5f902372693fb8b376662</link>
+<pubDate>Sun, 09 Nov 2025 12:14:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza death toll tops 69,000 as Israel and militants again exchange remains]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
+<pubDate>Sat, 08 Nov 2025 16:23:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands flee to overcrowded camps after Sudan’s paramilitary captures el-Fasher]]></title>
 <link>https://apnews.com/article/sudan-war-displaced-rsf-elfasher-darfur-87dc10d8535ea039406cdf8a45011018</link>
 <pubDate>Sun, 09 Nov 2025 10:57:23 -0000</pubDate>
@@ -389,15 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
-<pubDate>Thu, 06 Nov 2025 18:36:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon lifts travel ban on Gadhafi’s son and reduces bail to $900,000 paving way for his release]]></title>
-<link>https://apnews.com/article/lebanon-libya-hannibal-gadhafi-mousa-alsadr-bail-travel-ban-5c15a2a9c8dbd5d1d597c58a7d169346</link>
-<pubDate>Thu, 06 Nov 2025 17:33:49 -0000</pubDate>
+<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
+<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
+<pubDate>Sat, 08 Nov 2025 05:59:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
