@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 14:08:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 14:34:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Powerful tornado in Brazil kills 6 people and injures hundreds more]]></title>
+<link>https://apnews.com/article/brazil-tornado-parana-lula-3971b89a390cabf9dc74462000470ec4</link>
+<pubDate>Sat, 08 Nov 2025 20:10:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rodrigo Paz sworn in as Bolivia’s new president, ending 20 years of one-party rule]]></title>
 <link>https://apnews.com/article/bolivia-conservative-president-paz-morales-715b05e9a77b78dbf7d82ab0e890ce02</link>
 <pubDate>Sun, 09 Nov 2025 02:22:53 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Sexual harassment in Mexico drives women to look for rides with other women]]></title>
 <link>https://apnews.com/article/mexico-sheinbaum-groping-gender-violence-38b76d8eecea83ce982ce2cdc70ea8f2</link>
 <pubDate>Sat, 08 Nov 2025 17:19:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about COP30, this year’s UN climate talks]]></title>
-<link>https://apnews.com/article/united-nations-climate-talks-cop30-belem-brazil-db51b818a4579f49da1c1161927f06c2</link>
-<pubDate>Sun, 09 Nov 2025 09:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about COP30, this year’s UN climate talks]]></title>
+<link>https://apnews.com/article/united-nations-climate-talks-cop30-belem-brazil-db51b818a4579f49da1c1161927f06c2</link>
+<pubDate>Sun, 09 Nov 2025 14:34:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US government shutdown forces some overseas bases to stop paying workers]]></title>
 <link>https://apnews.com/article/us-government-shutdown-europe-military-bases-ad614d5a9214bccf3343aba74a3b90f4</link>
 <pubDate>Sat, 08 Nov 2025 17:19:16 -0000</pubDate>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former British soldier fighting extradition to Kenya in death of woman]]></title>
-<link>https://apnews.com/article/kenya-british-army-murder-agnes-wanjiru-purkiss-ba87d6507447ba728e931f1cead4616d</link>
-<pubDate>Sat, 08 Nov 2025 09:31:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Red Cross receives body of a hostage in Gaza that Hamas claims is Israeli soldier Hadar Goldin]]></title>
+<title><![CDATA[Israel receives body of a hostage in Gaza that Hamas claims is Israeli soldier Hadar Goldin]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-09-2025-54a4f07644bb15621950a23187a8c758</link>
-<pubDate>Sun, 09 Nov 2025 13:17:37 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 14:19:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Super Typhoon Fung-wong leaves 2 dead and forces more than 1 million to evacuate in Philippines]]></title>
+<title><![CDATA[Super Typhoon Fung-wong slams into Philippines after already killing 2 and displacing 1 million]]></title>
 <link>https://apnews.com/article/super-typhoon-fungwong-philippines-kalmaegi-evacuations-4c56c28db715e11af779e04893128c63</link>
-<pubDate>Sun, 09 Nov 2025 13:02:37 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 14:04:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +440,6 @@
 <title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></title>
 <link>https://apnews.com/article/super-typhoon-fung-wong-storm-climate-photo-89347244edef215b27f6263e5204a734</link>
 <pubDate>Sun, 09 Nov 2025 12:47:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Powerful tornado in Brazil kills 6 people and injures hundreds more]]></title>
-<link>https://apnews.com/article/brazil-tornado-parana-lula-3971b89a390cabf9dc74462000470ec4</link>
-<pubDate>Sun, 09 Nov 2025 00:44:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
