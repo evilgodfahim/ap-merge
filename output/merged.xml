@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 12:57:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 13:21:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
@@ -23,21 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[King Charles III leads Britain’s Remembrance Sunday ceremony for war dead]]></title>
+<link>https://apnews.com/article/uk-remembrance-sunday-king-charles-4fd0898203ebb836796d36960a1c3e22</link>
+<pubDate>Sun, 09 Nov 2025 13:21:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli survivors of Kristallnacht mark 87th anniversary of Nazi riots amid rising antisemitism]]></title>
 <link>https://apnews.com/article/israel-holocaust-germany-kristallnacht-anniversary-survivors-nazis-8c9727af30c8cef04759960ad15a1779</link>
 <pubDate>Sun, 09 Nov 2025 10:09:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why France’s ex-President Sarkozy may be released from prison after just 20 days]]></title>
-<link>https://apnews.com/article/sarkozy-prison-release-appeal-4846eabe30544ca216d31a897d38e8a9</link>
-<pubDate>Sun, 09 Nov 2025 08:39:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></title>
-<link>https://apnews.com/article/super-typhoon-fung-wong-storm-climate-photo-89347244edef215b27f6263e5204a734</link>
-<pubDate>Sun, 09 Nov 2025 11:33:07 -0000</pubDate>
+<title><![CDATA[A boat from Myanmar with hundreds of migrants capsizes off Malaysia, 1 body found and 10 rescued]]></title>
+<link>https://apnews.com/article/malaysia-boat-capsize-myanmar-rohingya-079983285bd5f902372693fb8b376662</link>
+<pubDate>Sun, 09 Nov 2025 09:54:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[King Charles III leads Britain’s Remembrance Sunday ceremony for war dead]]></title>
-<link>https://apnews.com/article/uk-remembrance-sunday-king-charles-4fd0898203ebb836796d36960a1c3e22</link>
-<pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[3 dead and 15 injured in tidal surge on Spain’s Canary Islands]]></title>
 <link>https://apnews.com/article/storm-surge-deaths-tenerife-canary-islands-86539457241ce2296015e1278cdb8994</link>
 <pubDate>Sun, 09 Nov 2025 09:48:20 -0000</pubDate>
@@ -188,6 +182,12 @@
 <title><![CDATA[Guinea’s supreme court releases provisional list of presidential candidates]]></title>
 <link>https://apnews.com/article/guinea-election-president-junta-doumbouya-f886c4d739e2a157db9e980c6d683dde</link>
 <pubDate>Sun, 09 Nov 2025 08:24:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why France’s ex-President Sarkozy may be released from prison after just 20 days]]></title>
+<link>https://apnews.com/article/sarkozy-prison-release-appeal-4846eabe30544ca216d31a897d38e8a9</link>
+<pubDate>Sun, 09 Nov 2025 13:21:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas says it will hand over an Israeli soldier whose body has been held in Gaza since 2014]]></title>
+<title><![CDATA[Red Cross receives body of a hostage in Gaza that Hamas claims is Israeli soldier Hadar Goldin]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-09-2025-54a4f07644bb15621950a23187a8c758</link>
-<pubDate>Sun, 09 Nov 2025 11:12:23 -0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 13:17:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A boat from Myanmar with hundreds of migrants capsizes off Malaysia, 1 body found and 10 rescued]]></title>
-<link>https://apnews.com/article/malaysia-boat-capsize-myanmar-rohingya-079983285bd5f902372693fb8b376662</link>
-<pubDate>Sun, 09 Nov 2025 12:14:14 -0000</pubDate>
+<title><![CDATA[Super Typhoon Fung-wong leaves 2 dead and forces more than 1 million to evacuate in Philippines]]></title>
+<link>https://apnews.com/article/super-typhoon-fungwong-philippines-kalmaegi-evacuations-4c56c28db715e11af779e04893128c63</link>
+<pubDate>Sun, 09 Nov 2025 13:02:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More than a million people evacuate as Super Typhoon Fung-wong threatens the Philippines]]></title>
-<link>https://apnews.com/article/super-typhoon-fungwong-philippines-kalmaegi-evacuations-4c56c28db715e11af779e04893128c63</link>
-<pubDate>Sun, 09 Nov 2025 08:04:13 -0000</pubDate>
+<title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></title>
+<link>https://apnews.com/article/super-typhoon-fung-wong-storm-climate-photo-89347244edef215b27f6263e5204a734</link>
+<pubDate>Sun, 09 Nov 2025 12:47:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
