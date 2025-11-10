@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Nov 2025 12:21:20 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 13:05:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Gaza death toll tops 69,000 as Israel and militants again exchange remains]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
+<pubDate>Mon, 10 Nov 2025 12:42:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Thousands flee to overcrowded camps after Sudan’s paramilitary captures el-Fasher]]></title>
 <link>https://apnews.com/article/sudan-war-displaced-rsf-elfasher-darfur-87dc10d8535ea039406cdf8a45011018</link>
 <pubDate>Mon, 10 Nov 2025 08:35:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What’s at stake in Iraq’s parliamentary election]]></title>
-<link>https://apnews.com/article/iraq-election-iran-parliament-sudani-ccd93913b12253f0eaf742696bfce617</link>
-<pubDate>Mon, 10 Nov 2025 05:31:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,15 +65,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU, Latin America and Caribbean nations hold summit overshadowed by US military operation]]></title>
-<link>https://apnews.com/article/colombia-celac-petro-trump-boat-strikes-eu-858c6288268f892faee227a1d62613b2</link>
-<pubDate>Sun, 09 Nov 2025 18:59:22 -0000</pubDate>
+<title><![CDATA[Ecuador prison riot leaves 4 inmates dead and dozens injured]]></title>
+<link>https://apnews.com/article/ecuador-prison-riot-violence-machala-drug-trafficking-e5eba46aabaad6bd49ad8f6d189c9fce</link>
+<pubDate>Mon, 10 Nov 2025 12:27:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
-<pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
+<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
+<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
+<pubDate>Mon, 10 Nov 2025 04:28:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kenyan activists released from Ugandan detention after Museveni confirms arrest]]></title>
+<link>https://apnews.com/article/uganda-kenyan-activists-museveni-142d6e10223d026e685f28b520d332db</link>
+<pubDate>Mon, 10 Nov 2025 12:12:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[European Union vessel reaches ship raided by pirates off Somalia; all 24 crew on board safe]]></title>
 <link>https://apnews.com/article/somalia-pirates-hellas-aphrodite-tanker-a2c3fb0a172194c6702621da3d6632d2</link>
 <pubDate>Sat, 08 Nov 2025 09:19:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria’s army chief promises to step up anti-terror operations]]></title>
-<link>https://apnews.com/article/nigeria-genocide-trump-military-threat-terrorist-9ae0c94c915f540dffe6ef118a76a938</link>
-<pubDate>Fri, 07 Nov 2025 23:18:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladeshi workers protest in Malaysia over unpaid wages and mistreatment claims]]></title>
+<title><![CDATA[Murder trial of suspect in Christmas market car-ramming attack opens in Germany]]></title>
+<link>https://apnews.com/article/germany-magdeburg-christmas-market-attack-trial-1b777139469cbc1ad09e3202d4e4de23</link>
+<pubDate>Mon, 10 Nov 2025 12:48:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladeshi workers protest over unpaid wages and mistreatment claims]]></title>
 <link>https://apnews.com/article/bangladesh-malaysia-protest-workers-wages-46778e8886839c5a4932e95eb0e6773a</link>
-<pubDate>Mon, 10 Nov 2025 11:46:22 -0000</pubDate>
+<pubDate>Mon, 10 Nov 2025 12:33:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ecuador prison riot leaves 4 inmates dead and dozens injured]]></title>
-<link>https://apnews.com/article/ecuador-prison-riot-violence-machala-drug-trafficking-e5eba46aabaad6bd49ad8f6d189c9fce</link>
-<pubDate>Sun, 09 Nov 2025 21:05:56 -0000</pubDate>
+<title><![CDATA[EU, Latin America and Caribbean nations hold summit overshadowed by US military operation]]></title>
+<link>https://apnews.com/article/colombia-celac-petro-trump-boat-strikes-eu-858c6288268f892faee227a1d62613b2</link>
+<pubDate>Mon, 10 Nov 2025 12:18:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -236,6 +242,12 @@
 <title><![CDATA[King Charles III leads Britain’s Remembrance Sunday ceremony for war dead]]></title>
 <link>https://apnews.com/article/uk-remembrance-sunday-king-charles-4fd0898203ebb836796d36960a1c3e22</link>
 <pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel confirms receiving the remains of a soldier killed in Gaza in 2014]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-09-2025-54a4f07644bb15621950a23187a8c758</link>
+<pubDate>Mon, 10 Nov 2025 12:03:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strikes hit an apartment building and energy sites in Ukraine, killing 4]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-attacks-civilians-74750e88cda59c26c7e56da6c5614bf2</link>
-<pubDate>Mon, 10 Nov 2025 11:31:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A fire at a perfume depot in northwestern Turkey kills 6 people]]></title>
-<link>https://apnews.com/article/turkey-fire-depot-perfume-fbe77867e333016d3edb60d29e2bb7c2</link>
-<pubDate>Sat, 08 Nov 2025 08:41:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel confirms receiving the remains of a soldier killed in Gaza in 2014]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-09-2025-54a4f07644bb15621950a23187a8c758</link>
-<pubDate>Sun, 09 Nov 2025 20:10:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Top BBC bosses resign after criticism of the broadcaster’s editing of a Trump speech]]></title>
 <link>https://apnews.com/article/bbc-director-resigns-trump-speech-editing-3aab83138d58c92db1bb00e77e568876</link>
 <pubDate>Mon, 10 Nov 2025 04:57:07 -0000</pubDate>
@@ -371,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza health officials say Israel handed over the bodies of 15 Palestinians]]></title>
+<title><![CDATA[US officials in Israel to press truce forward as first phase of Israel-Hamas ceasefire wanes]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-news-11-10-2025-65f4d6a58b70ee77cf0fa2119a05c780</link>
-<pubDate>Mon, 10 Nov 2025 11:29:24 -0000</pubDate>
+<pubDate>Mon, 10 Nov 2025 12:29:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,12 +404,6 @@
 <title><![CDATA[Photos show Iraqi security forces and displaced people voting early in parliamentary election]]></title>
 <link>https://apnews.com/photo-gallery/photos-iraq-elections-9bb21bc90079259e380558f827c47926</link>
 <pubDate>Mon, 10 Nov 2025 08:12:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza death toll tops 69,000 as Israel and militants again exchange remains]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
-<pubDate>Sat, 08 Nov 2025 16:23:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,15 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
-<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
-<pubDate>Sat, 08 Nov 2025 05:59:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyan activists released from Ugandan detention after Museveni confirms arrest]]></title>
-<link>https://apnews.com/article/uganda-kenyan-activists-museveni-142d6e10223d026e685f28b520d332db</link>
-<pubDate>Sun, 09 Nov 2025 09:09:58 -0000</pubDate>
+<title><![CDATA[Protesters disrupt the soft opening of a new museum in Nigeria that was to house returned artifacts]]></title>
+<link>https://apnews.com/article/nigeria-west-africa-art-museum-bbb4dd8e1c04a677aad3ca6397055a5b</link>
+<pubDate>Mon, 10 Nov 2025 12:14:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
