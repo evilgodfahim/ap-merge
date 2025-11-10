@@ -3,11 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Nov 2025 04:18:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 04:44:55 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Lebanon lifts travel ban on Gadhafi’s son and reduces bail to $900,000 paving way for his release]]></title>
-<link>https://apnews.com/article/lebanon-libya-hannibal-gadhafi-mousa-alsadr-bail-travel-ban-5c15a2a9c8dbd5d1d597c58a7d169346</link>
-<pubDate>Sun, 09 Nov 2025 12:03:07 -0000</pubDate>
+<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
+<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
+<pubDate>Mon, 10 Nov 2025 04:28:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
+<pubDate>Sun, 09 Nov 2025 12:18:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian strikes disrupt power and heating to 2 major cities in Russia]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-blackout-731788c7974d2ddb63af41dc618ccb99</link>
+<pubDate>Mon, 10 Nov 2025 04:13:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -17,21 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top BBC bosses resign after criticism of the broadcaster’s editing of a Trump speech]]></title>
-<link>https://apnews.com/article/bbc-director-resigns-trump-speech-editing-3aab83138d58c92db1bb00e77e568876</link>
-<pubDate>Sun, 09 Nov 2025 21:18:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[King Charles III leads Britain’s Remembrance Sunday ceremony for war dead]]></title>
 <link>https://apnews.com/article/uk-remembrance-sunday-king-charles-4fd0898203ebb836796d36960a1c3e22</link>
 <pubDate>Sun, 09 Nov 2025 13:21:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></title>
-<link>https://apnews.com/article/super-typhoon-fung-wong-storm-climate-photo-89347244edef215b27f6263e5204a734</link>
-<pubDate>Sun, 09 Nov 2025 11:33:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,6 +44,12 @@
 <title><![CDATA[Pakistan–Afghanistan peace talks in Istanbul fail amid rising border tensions]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-talks-turkey-8839bbbe2b0c737c0c79ca7e14b36b1d</link>
 <pubDate>Sun, 09 Nov 2025 06:14:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Women make inroads in Pakistan as they become firefighters and barriers slowly fall]]></title>
+<link>https://apnews.com/article/pakistan-women-join-challenging-frontline-firefighting-force-c074ed4d55bec78b51027ee9017de56d</link>
+<pubDate>Sat, 08 Nov 2025 05:52:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,12 +293,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women make inroads in Pakistan as they become firefighters and barriers slowly fall]]></title>
-<link>https://apnews.com/article/pakistan-women-join-challenging-frontline-firefighting-force-c074ed4d55bec78b51027ee9017de56d</link>
-<pubDate>Sun, 09 Nov 2025 16:53:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Rare footage shows sucker fish as they whale-surf in the ocean’s wildest joyride]]></title>
 <link>https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588</link>
 <pubDate>Sat, 08 Nov 2025 15:56:16 -0000</pubDate>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian strikes disrupt power and heating to 2 major cities in Russia]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-blackout-731788c7974d2ddb63af41dc618ccb99</link>
-<pubDate>Sun, 09 Nov 2025 10:09:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iraq’s displaced Yazidis and security forces cast ballots in early voting in parliament election]]></title>
 <link>https://apnews.com/article/iraq-election-parliament-displaced-yazidis-pmf-1f285d96345306420631b2401a59c833</link>
 <pubDate>Sun, 09 Nov 2025 19:55:29 -0000</pubDate>
@@ -392,18 +386,6 @@
 <title><![CDATA[What’s at stake in Iraq’s parliamentary election]]></title>
 <link>https://apnews.com/article/iraq-election-iran-parliament-sudani-ccd93913b12253f0eaf742696bfce617</link>
 <pubDate>Sat, 08 Nov 2025 05:44:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Israel, Mamdani’s win in New York stirs alarm over shifting US attitudes]]></title>
-<link>https://apnews.com/article/netanyahu-mamdani-socialist-gaza-hamas-jews-israel-ee114e57ad0b593f03ac5a1e94301941</link>
-<pubDate>Sat, 08 Nov 2025 05:59:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli jets strike southern Lebanon towns, escalating near-daily attacks]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-a144881947fcaaef772ef689372cf3f3</link>
-<pubDate>Thu, 06 Nov 2025 18:36:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
