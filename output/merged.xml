@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 04:42:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 05:11:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq’s displaced Yazidis and security forces cast ballots in early voting in parliament election]]></title>
 <link>https://apnews.com/article/iraq-election-parliament-displaced-yazidis-pmf-1f285d96345306420631b2401a59c833</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former French President Sarkozy released from prison pending appeal in conspiracy case]]></title>
-<link>https://apnews.com/article/sarkozy-prison-release-france-63fb4cb3e68c6fef393f7f62213d25b7</link>
-<pubDate>Mon, 10 Nov 2025 14:47:04 -0000</pubDate>
+<title><![CDATA[African migrants assert a Europe-funded program abandons them after returning them home]]></title>
+<link>https://apnews.com/article/africa-migration-iom-european-union-502a2a496dfd8ca5291f13382758b090</link>
+<pubDate>Tue, 11 Nov 2025 05:09:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Storm approaches Taiwan after causing 18 deaths and destruction in the Philippines]]></title>
+<link>https://apnews.com/article/typhoon-fungwong-philippines-kalmaegi-evacuations-taiwan-027a3a79f6f99d46b373b8712e2b2087</link>
+<pubDate>Tue, 11 Nov 2025 04:54:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand will remove police from gun licensing but near-total semiautomatics ban to remain]]></title>
-<link>https://apnews.com/article/christchurch-shooting-guns-new-zealand-semiautomatic-ban-f370885a43616f652410fe6d94768ef2</link>
-<pubDate>Tue, 11 Nov 2025 03:06:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan and China exchange barbs after PM Takaichi’s remarks over Taiwan]]></title>
-<link>https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d</link>
-<pubDate>Mon, 10 Nov 2025 15:48:32 -0000</pubDate>
+<title><![CDATA[Prabowo Subianto to visit Australia for the first time as Indonesia’s president]]></title>
+<link>https://apnews.com/article/australia-indonesia-anthony-albanese-prabowo-subianto-60e6d76e4c16ca9266f6f7b4e9812084</link>
+<pubDate>Tue, 11 Nov 2025 04:39:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Trump’s support for a white minority group in South Africa led to a US boycott of the G20 summit]]></title>
+<link>https://apnews.com/article/trump-us-south-africa-g20-boycott-afrikaner-2239a58546965d1af41c3bc599e9b0f0</link>
+<pubDate>Mon, 10 Nov 2025 17:06:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protesters in Nigeria disrupt opening of major West African art museum]]></title>
 <link>https://apnews.com/article/nigeria-west-africa-art-museum-bbb4dd8e1c04a677aad3ca6397055a5b</link>
 <pubDate>Mon, 10 Nov 2025 16:51:44 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[South Africa’s apartheid-era crimes inquiry is delayed over legal objections]]></title>
 <link>https://apnews.com/article/south-africa-apartheid-era-crimes-inquiry-1244c2741237eae71753a3f68acd49e1</link>
 <pubDate>Mon, 10 Nov 2025 18:37:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyan activists released from Ugandan detention after Museveni confirms arrest]]></title>
-<link>https://apnews.com/article/uganda-kenyan-activists-museveni-142d6e10223d026e685f28b520d332db</link>
-<pubDate>Mon, 10 Nov 2025 12:12:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan and China exchange barbs after PM Takaichi’s remarks over Taiwan]]></title>
+<link>https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d</link>
+<pubDate>Mon, 10 Nov 2025 15:48:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A crisis at chipmaker Nexperia sent automakers scrambling. Here’s what to know]]></title>
 <link>https://apnews.com/article/china-netherlands-nexperia-chips-semiconductors-df33017565dc09cada05b06cc25705dc</link>
 <pubDate>Mon, 10 Nov 2025 20:25:33 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Taiwan’s vice president calls for closer EU ties in rare address to international lawmakers]]></title>
 <link>https://apnews.com/article/taiwan-eu-europe-vice-president-hsiao-bikhim-b3ef3a0e47779c2e6ae51b627e94689e</link>
 <pubDate>Fri, 07 Nov 2025 17:22:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Climate summit hears from countries suffering from harms, destruction linked to global warming]]></title>
-<link>https://apnews.com/article/brazil-cop30-forests-finland-amazon-1c03ba4012acf7b0da457b8453688786</link>
-<pubDate>Fri, 07 Nov 2025 23:33:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,6 +365,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Former French President Sarkozy released from prison pending appeal in conspiracy case]]></title>
+<link>https://apnews.com/article/sarkozy-prison-release-france-63fb4cb3e68c6fef393f7f62213d25b7</link>
+<pubDate>Mon, 10 Nov 2025 14:57:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada loses measles elimination status after ongoing outbreaks]]></title>
 <link>https://apnews.com/article/canada-loses-measles-elimination-status-1ac3a4bdc7546fac5d8e111bf5196e1e</link>
 <pubDate>Tue, 11 Nov 2025 03:33:18 -0000</pubDate>
@@ -443,12 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storm approaches Taiwan after causing 18 deaths and destruction in the Philippines]]></title>
-<link>https://apnews.com/article/typhoon-fungwong-philippines-kalmaegi-evacuations-taiwan-027a3a79f6f99d46b373b8712e2b2087</link>
-<pubDate>Tue, 11 Nov 2025 04:42:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[At UN climate talks in Brazil, the only sign of the United States is an empty chair]]></title>
 <link>https://apnews.com/article/climate-brazil-trump-disasters-cooperation-cop30-ae09566d32a8a97a954b2cef831de503</link>
 <pubDate>Tue, 11 Nov 2025 03:03:18 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[Gaza death toll tops 69,000 as Israel and militants again exchange remains]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-netanyahu-ceasefire-hostage-d262329a0122ab65dc27787c4b43159c</link>
 <pubDate>Sat, 08 Nov 2025 16:23:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Trump’s support for a white minority group in South Africa led to a US boycott of the G20 summit]]></title>
-<link>https://apnews.com/article/trump-us-south-africa-g20-boycott-afrikaner-2239a58546965d1af41c3bc599e9b0f0</link>
-<pubDate>Mon, 10 Nov 2025 16:16:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
