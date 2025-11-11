@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 17:10:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 17:39:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What’s at stake in Iraq’s parliamentary election]]></title>
 <link>https://apnews.com/article/iraq-election-iran-parliament-sudani-ccd93913b12253f0eaf742696bfce617</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK government is caught up in a feud between Trump and the BBC]]></title>
-<link>https://apnews.com/article/trump-bbc-lawsuit-uk-government-445f1506b34b61f326d6ec1989461502</link>
-<pubDate>Tue, 11 Nov 2025 13:25:13 -0000</pubDate>
+<title><![CDATA[Trump’s $1B lawsuit threat casts shadow over the BBC, but it could also be a bluff]]></title>
+<link>https://apnews.com/article/trump-bbc-legal-threat-litigation-lawsuit-a12558769faa1063e8c7e0dfd6d8c333</link>
+<pubDate>Tue, 11 Nov 2025 17:31:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan evacuates thousands ahead of tropical storm Fung-wong which left 25 dead in the Philippines]]></title>
-<link>https://apnews.com/article/typhoon-fungwong-philippines-taiwan-9e1e11220779b25af27b7c8e2d24a3d5</link>
-<pubDate>Tue, 11 Nov 2025 13:10:13 -0000</pubDate>
+<title><![CDATA[An Indonesian teen suspected in mosque attack built bombs alone at home, police say]]></title>
+<link>https://apnews.com/article/indonesia-teen-bombs-school-mosque-a5ed606c9203698d3d49cc58878cc421</link>
+<pubDate>Tue, 11 Nov 2025 17:16:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from capsized boat with Myanmar migrants climbs to 27 as more bodies recovered]]></title>
-<link>https://apnews.com/article/malaysia-thailand-boat-capsizes-myanmar-rohingya-f15a36e304974b89b9d754581cbd5467</link>
-<pubDate>Tue, 11 Nov 2025 12:55:13 -0000</pubDate>
+<title><![CDATA[Taiwan evacuates thousands ahead of tropical storm Fung-wong which left 25 dead in the Philippines]]></title>
+<link>https://apnews.com/article/typhoon-fungwong-philippines-taiwan-9e1e11220779b25af27b7c8e2d24a3d5</link>
+<pubDate>Tue, 11 Nov 2025 13:10:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Speaker Johnson shuttered the House and amassed quiet power with Trump]]></title>
+<link>https://apnews.com/article/government-shutdown-house-speaker-mike-johnson-b69060bdf5f0ee5062fd3eb02c89ea4a</link>
+<pubDate>Tue, 11 Nov 2025 17:01:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air travelers face frustration as FAA increases flight cuts during the government shutdown]]></title>
 <link>https://apnews.com/article/flight-cancellations-faa-government-shutdown-2535828689edac07e693c2e54a2f5f16</link>
 <pubDate>Tue, 11 Nov 2025 14:59:19 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Judge adopts Utah congressional map creating a Democratic-leaning district for 2026]]></title>
 <link>https://apnews.com/article/utah-redistricting-congressional-map-democrats-a443a6584fad0adeeb5eadcc336a4390</link>
 <pubDate>Tue, 11 Nov 2025 11:50:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Carolina court rejects death row appeal days before execution]]></title>
-<link>https://apnews.com/article/stephen-bryant-firing-squad-execution-south-carolina-a336195e7c09f959e6dc5d9417eff901</link>
-<pubDate>Tue, 11 Nov 2025 16:00:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +218,18 @@
 <title><![CDATA[Turkish military plane with 20 on board crashes in Georgia]]></title>
 <link>https://apnews.com/article/turkey-plane-azerbaijan-georgia-crash-military-cargo-bcc35b26c66287f55b73cc11139dd3b4</link>
 <pubDate>Tue, 11 Nov 2025 14:37:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK government is caught up in a feud between Trump and the BBC]]></title>
+<link>https://apnews.com/article/trump-bbc-lawsuit-uk-government-445f1506b34b61f326d6ec1989461502</link>
+<pubDate>Tue, 11 Nov 2025 16:28:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Death toll from capsized boat with Myanmar migrants climbs to 27 as more bodies recovered]]></title>
+<link>https://apnews.com/article/malaysia-thailand-boat-capsizes-myanmar-rohingya-f15a36e304974b89b9d754581cbd5467</link>
+<pubDate>Tue, 11 Nov 2025 16:13:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thieves steal ancient Roman-era statues from Syria’s national museum]]></title>
+<title><![CDATA[Thieves steal Roman statues from Syria’s national museum]]></title>
 <link>https://apnews.com/article/syria-stolen-antiquities-museum-damascus-7fd83c4e63666f2ecd018845ecac9376</link>
-<pubDate>Tue, 11 Nov 2025 15:19:47 -0000</pubDate>
+<pubDate>Tue, 11 Nov 2025 17:21:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
