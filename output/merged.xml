@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 03:33:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 04:15:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq’s displaced Yazidis and security forces cast ballots in early voting in parliament election]]></title>
 <link>https://apnews.com/article/iraq-election-parliament-displaced-yazidis-pmf-1f285d96345306420631b2401a59c833</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s ‘Singles’ Day’ shopping festival a gauge of Beijing’s effort to get consumers to spend more]]></title>
+<link>https://apnews.com/article/china-singles-day-shopping-festival-465d289a49916633773cf67835912f4e</link>
+<pubDate>Tue, 11 Nov 2025 04:08:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New Zealand will remove police from gun licensing but near-total semiautomatics ban to remain]]></title>
 <link>https://apnews.com/article/christchurch-shooting-guns-new-zealand-semiautomatic-ban-f370885a43616f652410fe6d94768ef2</link>
 <pubDate>Tue, 11 Nov 2025 03:06:08 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Japan and China exchange barbs after PM Takaichi’s remarks over Taiwan]]></title>
 <link>https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d</link>
 <pubDate>Mon, 10 Nov 2025 15:48:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand threatens to suspend truce with Cambodia after a land mine injures troops]]></title>
-<link>https://apnews.com/article/thailand-cambodia-land-mine-border-b2783683c22e9db45fdedd3cb2b606b4</link>
-<pubDate>Tue, 11 Nov 2025 02:51:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Families accuse Camp Mystic of ignoring risks in Texas lawsuit over flood deaths]]></title>
-<link>https://apnews.com/article/camp-mystic-texas-floods-lawsuit-facb4e132c4503fa08d025efe15b42af</link>
-<pubDate>Tue, 11 Nov 2025 02:03:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[After mistaken deportation, US asks judge to let it send Kilmar Abrego Garcia to Liberia]]></title>
 <link>https://apnews.com/article/kilmar-abrego-garcia-deportation-liberia-el-salvador-3d9b99836fd99d373a8ae130e439111d</link>
 <pubDate>Tue, 11 Nov 2025 01:03:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Suburban Chicago dad headed to store with toddler says they were pepper-sprayed by federal agents]]></title>
+<link>https://apnews.com/article/immigration-chicago-pepper-spray-90effb7970339902682dc9c9fda8e1d8</link>
+<pubDate>Mon, 10 Nov 2025 21:27:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
