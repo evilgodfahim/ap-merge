@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 11:09:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 11:34:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Treasury official says US pushes Lebanon to crack down on Hezbollah funding ahead of elections]]></title>
 <link>https://apnews.com/article/lebanon-treasury-hezbollah-funding-5684aed3a386d0a1108221132200d79e</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Intense fighting in central Sudan displaces 2,000 people in just days, a UN agency says]]></title>
 <link>https://apnews.com/article/sudan-war-fighting-displaced-darfur-kordofan-c9d5f6215a1a46af4e43d92c5c78bc57</link>
 <pubDate>Tue, 11 Nov 2025 08:00:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands of Africans returned home through an EU program. Many say they’ve been abandoned]]></title>
+<link>https://apnews.com/article/africa-migration-iom-european-union-502a2a496dfd8ca5291f13382758b090</link>
+<pubDate>Tue, 11 Nov 2025 11:20:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,21 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens to sue BBC over edited speech that sparked resignations by news bosses]]></title>
-<link>https://apnews.com/article/britain-bbc-crisis-trump-panorama-a392fb275af25216ea23537c6f4347e4</link>
-<pubDate>Tue, 11 Nov 2025 08:32:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Taiwan evacuates thousands ahead of tropical storm Fung-wong after deaths in the Philippines]]></title>
 <link>https://apnews.com/article/typhoon-fungwong-philippines-taiwan-9e1e11220779b25af27b7c8e2d24a3d5</link>
 <pubDate>Tue, 11 Nov 2025 08:17:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan’s interior minister says a suicide bomber struck outside the Islamabad court, killing 12]]></title>
+<title><![CDATA[A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says]]></title>
 <link>https://apnews.com/article/pakkistan-militants-attacked-cadet-college-northwest-afghanistan-2e3bac61594df30ea14ae97facda37d0</link>
-<pubDate>Tue, 11 Nov 2025 10:19:36 -0000</pubDate>
+<pubDate>Tue, 11 Nov 2025 11:05:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shutdown to leave mark on US economy from lost paychecks, canceled flights]]></title>
-<link>https://apnews.com/article/economy-impact-shutdown-snap-flights-trump-826406b1083b262cad78338bc99f103b</link>
-<pubDate>Tue, 11 Nov 2025 05:56:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Air travelers face frustration as FAA’s further drop in flights takes effect]]></title>
 <link>https://apnews.com/article/flight-cancellations-faa-government-shutdown-2535828689edac07e693c2e54a2f5f16</link>
 <pubDate>Tue, 11 Nov 2025 05:41:42 -0000</pubDate>
@@ -125,21 +119,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China announces restrictions on chemicals after deal with Trump on fentanyl tariffs]]></title>
-<link>https://apnews.com/article/fentanyl-china-trump-tariffs-export-restrictions-dee0989539d866b04b129574e63b3635</link>
-<pubDate>Tue, 11 Nov 2025 07:02:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan and China exchange barbs after PM Takaichi’s remarks over Taiwan]]></title>
 <link>https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d</link>
 <pubDate>Mon, 10 Nov 2025 15:48:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China rolls out its version of the H-1B visa to attract foreign tech workers]]></title>
+<link>https://apnews.com/article/china-us-talent-tech-visa-h1b-4c5792cf1b9fec9a846ca002f9e383ae</link>
+<pubDate>Tue, 11 Nov 2025 10:50:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A crisis at chipmaker Nexperia sent automakers scrambling. Here’s what to know]]></title>
 <link>https://apnews.com/article/china-netherlands-nexperia-chips-semiconductors-df33017565dc09cada05b06cc25705dc</link>
 <pubDate>Mon, 10 Nov 2025 20:25:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump pardons ex-NYPD officer who was convicted of helping China stalk an expat]]></title>
+<link>https://apnews.com/article/china-nypd-michael-mcmahon-trump-pardon-01d4479986dfc799a1809b6d773021be</link>
+<pubDate>Sat, 08 Nov 2025 00:02:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[African migrants assert a Europe-funded program abandons them after returning them home]]></title>
-<link>https://apnews.com/article/africa-migration-iom-european-union-502a2a496dfd8ca5291f13382758b090</link>
-<pubDate>Tue, 11 Nov 2025 05:47:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Furor over editing of Trump speech sparks ‘existential crisis’ at the BBC]]></title>
 <link>https://apnews.com/article/britain-bbc-trump-panorama-resignations-5f1351093a493c637124d8ea758260b9</link>
 <pubDate>Mon, 10 Nov 2025 19:16:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tens of thousands of Israelis attend funeral of soldier whose remains were held in Gaza for 11 years]]></title>
+<title><![CDATA[Tens of thousands attend funeral of Israeli soldier whose remains were held in Gaza for 11 years]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-news-war-hostages-11-11-2025-e3ea718f836871dda451b66265a9b536</link>
-<pubDate>Tue, 11 Nov 2025 10:12:43 -0000</pubDate>
+<pubDate>Tue, 11 Nov 2025 11:16:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,33 +407,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China rolls out its version of the H-1B visa to attract foreign tech workers]]></title>
-<link>https://apnews.com/article/china-us-talent-tech-visa-h1b-4c5792cf1b9fec9a846ca002f9e383ae</link>
-<pubDate>Mon, 10 Nov 2025 07:57:48 -0000</pubDate>
+<title><![CDATA[China’s car sales slow in October as some trade-in subsidies, tax breaks are phased out]]></title>
+<link>https://apnews.com/article/china-autos-byd-tesla-tradein-627253e9bc0302d081c2fb7463e22947</link>
+<pubDate>Tue, 11 Nov 2025 09:42:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rallies for Nvidia and Big Tech help Wall Street nearly erase last week’s loss]]></title>
-<link>https://apnews.com/article/stocks-markets-ai-earnings-trump-f2bee27796f9401e5cd8d88c06785f93</link>
-<pubDate>Mon, 10 Nov 2025 21:56:03 -0000</pubDate>
+<title><![CDATA[Shutdown leaves a mark on an already-struggling economy, from lost paychecks to canceled flights]]></title>
+<link>https://apnews.com/article/economy-impact-shutdown-snap-flights-trump-826406b1083b262cad78338bc99f103b</link>
+<pubDate>Tue, 11 Nov 2025 11:01:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean solar firm cuts pay and hours for Georgia workers as US officials detain imports]]></title>
-<link>https://apnews.com/article/georgia-solar-plant-qcells-furloughs-china-labor-f49d0579e0584d689f1feec36ff16ad1</link>
-<pubDate>Sat, 08 Nov 2025 00:32:23 -0000</pubDate>
+<title><![CDATA[World shares are mixed as US Senate votes to end the government shutdown]]></title>
+<link>https://apnews.com/article/stocks-markets-shutdown-trump-rates-e6aea0a5dcacc6087c492a0537ed6c40</link>
+<pubDate>Tue, 11 Nov 2025 10:46:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Flight cuts from government shutdown strain a supply chain that’s already stretched thin]]></title>
-<link>https://apnews.com/article/government-shutdown-airlines-shipping-cfeecb272743298e2e522eb351a28e31</link>
-<pubDate>Mon, 10 Nov 2025 07:27:48 -0000</pubDate>
+<title><![CDATA[Sony’s profit soars on success of ‘Demon Slayer’ animation]]></title>
+<link>https://apnews.com/article/earnings-japan-sony-films-animation-electronics-c7909a40dee07cac06011f3bf3ddece6</link>
+<pubDate>Tue, 11 Nov 2025 10:31:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean foreign minister urges Cambodia’s leader to fight online scams]]></title>
-<link>https://apnews.com/article/cambodia-south-korea-cybercrime-scams-22ce57789560d4c4d7625cae98a60e69</link>
-<pubDate>Mon, 10 Nov 2025 11:14:24 -0000</pubDate>
+<title><![CDATA[Ukraine’s nuclear energy company says operations unaffected by $100M graft probe]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-corruption-nuclear-energy-ef1839d090f7c96e4716c0299ed587fa</link>
+<pubDate>Tue, 11 Nov 2025 10:01:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -470,12 +464,6 @@
 <title><![CDATA[Supreme Court rejects call to overturn its decision legalizing same-sex marriage nationwide]]></title>
 <link>https://apnews.com/article/supreme-court-same-sex-marriage-50eb4ad421911696e742d8c4fb4962fd</link>
 <pubDate>Mon, 10 Nov 2025 21:41:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s car sales slow in October as some trade-in subsidies, tax breaks are phased out]]></title>
-<link>https://apnews.com/article/china-autos-byd-tesla-tradein-627253e9bc0302d081c2fb7463e22947</link>
-<pubDate>Tue, 11 Nov 2025 09:42:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
