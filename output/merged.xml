@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 11:34:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 12:20:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Treasury official says US pushes Lebanon to crack down on Hezbollah funding ahead of elections]]></title>
 <link>https://apnews.com/article/lebanon-treasury-hezbollah-funding-5684aed3a386d0a1108221132200d79e</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The specter of new conflict haunts memorials around World War I’s end]]></title>
-<link>https://apnews.com/article/europe-armistice-day-world-war-d1e401d1c8286f799ea45a74a30e8da2</link>
-<pubDate>Tue, 11 Nov 2025 08:47:47 -0000</pubDate>
+<title><![CDATA[Exiled Syrian opens up about death-defying smuggling operation that showed proof of Assad’s cruelty]]></title>
+<link>https://apnews.com/article/caesar-files-syria-assad-c2cbebe6712c3ea81bef5dc6a8c724f1</link>
+<pubDate>Tue, 11 Nov 2025 12:20:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What we know about the car explosion in Delhi that killed 8 people]]></title>
+<link>https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3</link>
+<pubDate>Tue, 11 Nov 2025 06:11:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says]]></title>
-<link>https://apnews.com/article/pakkistan-militants-attacked-cadet-college-northwest-afghanistan-2e3bac61594df30ea14ae97facda37d0</link>
-<pubDate>Tue, 11 Nov 2025 11:05:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s ‘Singles’ Day’ shopping festival a gauge of Beijing’s effort to get consumers to spend more]]></title>
-<link>https://apnews.com/article/china-singles-day-shopping-festival-465d289a49916633773cf67835912f4e</link>
-<pubDate>Tue, 11 Nov 2025 04:08:11 -0000</pubDate>
+<title><![CDATA[Death toll from capsized boat with Myanmar migrants climbs to 26 as more bodies recovered]]></title>
+<link>https://apnews.com/article/malaysia-thailand-boat-capsizes-myanmar-rohingya-f15a36e304974b89b9d754581cbd5467</link>
+<pubDate>Tue, 11 Nov 2025 12:05:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Supreme Court is expected to say whether full SNAP food payments can resume]]></title>
-<link>https://apnews.com/article/government-shutdown-food-aid-024906c49fec6126585900ef916698f8</link>
-<pubDate>Tue, 11 Nov 2025 05:26:42 -0000</pubDate>
+<title><![CDATA[Supreme Court rejects call to overturn its decision legalizing same-sex marriage nationwide]]></title>
+<link>https://apnews.com/article/supreme-court-same-sex-marriage-50eb4ad421911696e742d8c4fb4962fd</link>
+<pubDate>Mon, 10 Nov 2025 18:22:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge adopts Utah congressional map creating a Democrat-leaning district for 2026]]></title>
+<title><![CDATA[Judge adopts Utah congressional map creating a Democratic-leaning district for 2026]]></title>
 <link>https://apnews.com/article/utah-redistricting-congressional-map-democrats-a443a6584fad0adeeb5eadcc336a4390</link>
-<pubDate>Tue, 11 Nov 2025 10:04:36 -0000</pubDate>
+<pubDate>Tue, 11 Nov 2025 11:50:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[WWII nurses who dodged bullets and saved lives deserve Congressional honor, lawmakers say]]></title>
 <link>https://apnews.com/article/world-war-ii-nurses-congressional-gold-medal-0e49532dc7633c25484c8011fdd368c7</link>
 <pubDate>Tue, 11 Nov 2025 05:11:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China announces restrictions on chemicals after deal with Trump on fentanyl tariffs]]></title>
+<link>https://apnews.com/article/fentanyl-china-trump-tariffs-export-restrictions-dee0989539d866b04b129574e63b3635</link>
+<pubDate>Tue, 11 Nov 2025 07:02:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[A crisis at chipmaker Nexperia sent automakers scrambling. Here’s what to know]]></title>
 <link>https://apnews.com/article/china-netherlands-nexperia-chips-semiconductors-df33017565dc09cada05b06cc25705dc</link>
 <pubDate>Mon, 10 Nov 2025 20:25:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump pardons ex-NYPD officer who was convicted of helping China stalk an expat]]></title>
-<link>https://apnews.com/article/china-nypd-michael-mcmahon-trump-pardon-01d4479986dfc799a1809b6d773021be</link>
-<pubDate>Sat, 08 Nov 2025 00:02:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s stranded astronauts ‘in good condition’ after space debris delays planned return]]></title>
+<link>https://apnews.com/article/china-astronauts-return-earth-1c39be8ca0d2670d07aa76df5472d9e7</link>
+<pubDate>Tue, 11 Nov 2025 11:43:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man arrested on suspicion of calling for attacks on German politicians and publishing hit lists]]></title>
 <link>https://apnews.com/article/germany-suspect-attacks-politicians-arrest-709c8de2b439548be3009e3602fd60c9</link>
 <pubDate>Tue, 11 Nov 2025 10:41:29 -0000</pubDate>
@@ -176,12 +182,6 @@
 <title><![CDATA[Romania finds possible drone fragments after Russian strikes on Ukrainian ports]]></title>
 <link>https://apnews.com/article/romania-drone-fragments-russia-ukraine-daa57cb972d1c6f7eb7b8cb7fb3fa93a</link>
 <pubDate>Tue, 11 Nov 2025 08:36:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s SoftBank says it has sold its shares in Nvidia for $5.8 billion, turning its focus to OpenAI]]></title>
-<link>https://apnews.com/article/japan-softbank-son-nvidia-ai-chips-d8a10172850628c317a214280a4d94c9</link>
-<pubDate>Tue, 11 Nov 2025 10:26:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,15 +431,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s nuclear energy company says operations unaffected by $100M graft probe]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-corruption-nuclear-energy-ef1839d090f7c96e4716c0299ed587fa</link>
-<pubDate>Tue, 11 Nov 2025 10:01:35 -0000</pubDate>
+<title><![CDATA[Japan’s SoftBank says it has sold its shares in Nvidia for $5.8 billion, turning its focus to OpenAI]]></title>
+<link>https://apnews.com/article/japan-softbank-son-nvidia-ai-chips-d8a10172850628c317a214280a4d94c9</link>
+<pubDate>Tue, 11 Nov 2025 10:16:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What we know about the car explosion in Delhi that killed 8 people]]></title>
-<link>https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3</link>
-<pubDate>Tue, 11 Nov 2025 06:46:28 -0000</pubDate>
+<title><![CDATA[Ukraine’s nuclear energy company says operations unaffected by $100M graft probe]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-corruption-nuclear-energy-ef1839d090f7c96e4716c0299ed587fa</link>
+<pubDate>Tue, 11 Nov 2025 10:01:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court rejects call to overturn its decision legalizing same-sex marriage nationwide]]></title>
-<link>https://apnews.com/article/supreme-court-same-sex-marriage-50eb4ad421911696e742d8c4fb4962fd</link>
-<pubDate>Mon, 10 Nov 2025 21:41:03 -0000</pubDate>
+<title><![CDATA[China’s ‘Singles’ Day’ shopping festival a gauge of Beijing’s effort to get consumers to spend more]]></title>
+<link>https://apnews.com/article/china-singles-day-shopping-festival-465d289a49916633773cf67835912f4e</link>
+<pubDate>Tue, 11 Nov 2025 09:46:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
