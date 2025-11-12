@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 10:13:01 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 10:44:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Exiled Syrian opens up about death-defying smuggling operation that showed proof of Assad’s cruelty]]></title>
 <link>https://apnews.com/article/caesar-files-syria-assad-c2cbebe6712c3ea81bef5dc6a8c724f1</link>
@@ -359,6 +359,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
+<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
+<pubDate>Wed, 12 Nov 2025 10:39:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Colombia to suspend intelligence cooperation with US over strikes on drug vessels]]></title>
 <link>https://apnews.com/article/colombia-trump-drug-strikes-intelligence-2424e84a97f3a584a491143627dfdaa7</link>
 <pubDate>Wed, 12 Nov 2025 01:25:51 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[All 20 Turkish military personnel on the cargo plane that crashed in Georgia were killed]]></title>
 <link>https://apnews.com/article/turkey-georgia-plane-crash-c01502b6b0cabe74407ef8e748e9696d</link>
 <pubDate>Wed, 12 Nov 2025 07:37:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan investigates suicide bombing that killed 12 outside an Islamabad court]]></title>
-<link>https://apnews.com/article/pakistan-islamabad-suicide-bombing-army-cadets-81876cfe4747401adbe2c2f0aa69cdc3</link>
-<pubDate>Wed, 12 Nov 2025 08:39:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,6 +392,12 @@
 <title><![CDATA[Women riding the streets of Tehran on motorbikes is the latest sign of Iran’s societal change]]></title>
 <link>https://apnews.com/article/iran-women-motorbikes-hijab-rights-7f5fc4e0ce6fe0991ace53e22546d23e</link>
 <pubDate>Wed, 12 Nov 2025 05:46:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranian president orders probe after man dies from self-immolation in food stand dispute]]></title>
+<link>https://apnews.com/article/iran-selfimmolation-food-stand-president-8331bb056f169b9267b0902a8b4641e8</link>
+<pubDate>Wed, 12 Nov 2025 10:24:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +443,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan evacuates 8,300 and shuts schools before tropical storm brushes island]]></title>
-<link>https://apnews.com/article/tropical-storm-fungwong-taiwan-philippines-7132e0f350bb0b84a4e6c7a0e1642a0d</link>
-<pubDate>Wed, 12 Nov 2025 04:41:34 -0000</pubDate>
+<title><![CDATA[Pakistan investigates the suicide bombing that killed 12 outside an Islamabad court]]></title>
+<link>https://apnews.com/article/pakistan-islamabad-suicide-bombing-army-cadets-81876cfe4747401adbe2c2f0aa69cdc3</link>
+<pubDate>Wed, 12 Nov 2025 10:09:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Death toll from Hurricane Melissa rises to 45 in Jamaica, with 15 others still missing]]></title>
 <link>https://apnews.com/article/jamaica-hurricane-melissa-haiti-cuba-killed-deaths-77db005a55d415ae84b74f6680769273</link>
 <pubDate>Wed, 12 Nov 2025 01:10:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thieves steal Roman statues from Syria’s national museum]]></title>
+<link>https://apnews.com/article/syria-stolen-antiquities-museum-damascus-7fd83c4e63666f2ecd018845ecac9376</link>
+<pubDate>Tue, 11 Nov 2025 17:21:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-NY governors’ aide set for trial on charges she sold influence to China, got kickbacks for masks]]></title>
-<link>https://apnews.com/article/new-york-governor-aide-china-ppe-2094653df5270c51da04b2a38ab1f1f2</link>
-<pubDate>Wed, 12 Nov 2025 05:01:48 -0000</pubDate>
+<title><![CDATA[Thailand extradites a suspect in illegal gambling operations to China]]></title>
+<link>https://apnews.com/article/china-thailand-extradition-gambling-scams-f19793e355e46b54f5df0a5398027eaf</link>
+<pubDate>Wed, 12 Nov 2025 09:54:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
