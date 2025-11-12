@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 10:44:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 11:09:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Exiled Syrian opens up about death-defying smuggling operation that showed proof of Assad’s cruelty]]></title>
 <link>https://apnews.com/article/caesar-files-syria-assad-c2cbebe6712c3ea81bef5dc6a8c724f1</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Iraq holds parliamentary election boycotted by a major political group]]></title>
 <link>https://apnews.com/article/iraq-election-boycott-sadr-parliament-9254f80e8b53b7786f15c93926b21095</link>
 <pubDate>Wed, 12 Nov 2025 05:52:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
+<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
+<pubDate>Wed, 12 Nov 2025 11:00:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan evacuates 8,300 and shuts schools before tropical storm brushes island]]></title>
+<link>https://apnews.com/article/tropical-storm-fungwong-taiwan-philippines-7132e0f350bb0b84a4e6c7a0e1642a0d</link>
+<pubDate>Wed, 12 Nov 2025 10:45:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia and Australia are close to signing a new defense treaty]]></title>
 <link>https://apnews.com/article/australia-indonesia-prodowo-albanese-defense-treaty-ad4ee442a775b93b07699f16578a8607</link>
 <pubDate>Wed, 12 Nov 2025 05:07:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia’s top court rejects Russia’s challenge to embassy eviction]]></title>
-<link>https://apnews.com/article/australia-russia-court-embassy-evicted-d0f290b2d9dbe00f8f58db167a9fe5bb</link>
-<pubDate>Wed, 12 Nov 2025 04:52:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Japan’s Northern Alps, residents battle monkeys to protect homes and farms]]></title>
-<link>https://apnews.com/article/japan-monkeys-macaques-chasers-2952ea0502b57f5120c9c631910a43b7</link>
-<pubDate>Wed, 12 Nov 2025 07:25:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar military takes delivery of helicopters and aircraft from Russia and China]]></title>
+<link>https://apnews.com/article/myanmar-russia-china-helicopters-aircraft-fd8c51047093d286c193766297f1a536</link>
+<pubDate>Wed, 12 Nov 2025 10:30:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ex-NY governors’ aide set for trial on charges she sold influence to China, got kickbacks for masks]]></title>
+<link>https://apnews.com/article/new-york-governor-aide-china-ppe-2094653df5270c51da04b2a38ab1f1f2</link>
+<pubDate>Wed, 12 Nov 2025 10:15:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s car sales slow in October as some trade-in subsidies, tax breaks are phased out]]></title>
 <link>https://apnews.com/article/china-autos-byd-tesla-tradein-627253e9bc0302d081c2fb7463e22947</link>
 <pubDate>Wed, 12 Nov 2025 08:41:31 -0000</pubDate>
@@ -134,18 +146,6 @@
 <title><![CDATA[Taiwan evacuates thousands ahead of tropical storm Fung-wong which left 25 dead in the Philippines]]></title>
 <link>https://apnews.com/article/typhoon-fungwong-philippines-taiwan-9e1e11220779b25af27b7c8e2d24a3d5</link>
 <pubDate>Tue, 11 Nov 2025 13:10:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[WWII nurses who dodged bullets and saved lives deserve Congressional honor, lawmakers say]]></title>
-<link>https://apnews.com/article/world-war-ii-nurses-congressional-gold-medal-0e49532dc7633c25484c8011fdd368c7</link>
-<pubDate>Tue, 11 Nov 2025 05:11:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s ‘Singles’ Day’ shopping festival a gauge of Beijing’s effort to get consumers to spend more]]></title>
-<link>https://apnews.com/article/china-singles-day-shopping-festival-465d289a49916633773cf67835912f4e</link>
-<pubDate>Tue, 11 Nov 2025 04:08:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian police detain suspects in Kashmir after deadly New Delhi car blast]]></title>
-<link>https://apnews.com/article/india-car-blast-red-fort-1ce382e2c514561759f464182d82d4e2</link>
-<pubDate>Wed, 12 Nov 2025 09:45:07 -0000</pubDate>
+<title><![CDATA[Bagpipers claim world record with AC/DC’s ‘It’s a Long Way to the Top’]]></title>
+<link>https://apnews.com/article/australia-bagpipes-world-record-acdc-78d64553759cfcbfb482c2b7b4e6f9f2</link>
+<pubDate>Wed, 12 Nov 2025 10:48:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK Cabinet minister denies plotting to oust embattled leader Starmer]]></title>
+<link>https://apnews.com/article/uk-politics-starmer-leadership-labour-6f98bda720518a67149aee38a97ea718</link>
+<pubDate>Wed, 12 Nov 2025 10:33:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-222112c38165ad14c1d027d79ca82176</link>
 <pubDate>Wed, 12 Nov 2025 08:42:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Australia’s top court rejects Russia’s challenge to embassy eviction]]></title>
+<link>https://apnews.com/article/australia-russia-court-embassy-evicted-d0f290b2d9dbe00f8f58db167a9fe5bb</link>
+<pubDate>Wed, 12 Nov 2025 10:18:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[In Japan’s Northern Alps, residents battle monkeys to protect homes and farms]]></title>
+<link>https://apnews.com/article/japan-monkeys-macaques-chasers-2952ea0502b57f5120c9c631910a43b7</link>
+<pubDate>Wed, 12 Nov 2025 05:33:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,33 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s stranded astronauts ‘in good condition’ after space debris delays planned return]]></title>
-<link>https://apnews.com/article/china-astronauts-return-earth-1c39be8ca0d2670d07aa76df5472d9e7</link>
-<pubDate>Tue, 11 Nov 2025 11:43:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand demands apology from Cambodia for land mine explosion that injured soldiers]]></title>
-<link>https://apnews.com/article/thailand-cambodia-truce-suspension-land-mine-injuries-fad446db6cf8c5f91b0150b7f5aadfab</link>
-<pubDate>Tue, 11 Nov 2025 12:15:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man arrested on suspicion of calling for attacks on German politicians and publishing hit lists]]></title>
-<link>https://apnews.com/article/germany-suspect-attacks-politicians-arrest-709c8de2b439548be3009e3602fd60c9</link>
-<pubDate>Tue, 11 Nov 2025 10:41:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
 <link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
 <pubDate>Wed, 12 Nov 2025 06:16:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
-<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
-<pubDate>Wed, 12 Nov 2025 10:39:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -476,6 +470,12 @@
 <title><![CDATA[Thailand extradites a suspect in illegal gambling operations to China]]></title>
 <link>https://apnews.com/article/china-thailand-extradition-gambling-scams-f19793e355e46b54f5df0a5398027eaf</link>
 <pubDate>Wed, 12 Nov 2025 09:54:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indian police detain suspects in Kashmir after deadly New Delhi car blast]]></title>
+<link>https://apnews.com/article/india-car-blast-red-fort-1ce382e2c514561759f464182d82d4e2</link>
+<pubDate>Wed, 12 Nov 2025 09:39:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
