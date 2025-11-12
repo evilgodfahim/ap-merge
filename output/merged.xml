@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 02:26:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 03:31:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan relief operations are on the brink of collapse, UN agency warns]]></title>
 <link>https://apnews.com/article/sudan-fasher-rsf-war-un-bbb86d02696b4e8b710cc16587a8393f</link>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What we know about the car explosion in Delhi that killed 8 people]]></title>
+<link>https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3</link>
+<pubDate>Tue, 11 Nov 2025 06:11:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Car blast near New Delhi’s historic Red Fort kills at least 8 people, India’s police say]]></title>
 <link>https://apnews.com/article/deadly-car-blast-red-fort-new-delhi-9350a370b80bd5df2da1fd559c527c5c</link>
 <pubDate>Wed, 12 Nov 2025 01:15:14 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[India clinches 2-1 T20 series victory over Australia after another washout]]></title>
 <link>https://apnews.com/article/india-cricket-australia-t20-1e487cd64fcf93d7977fe6cb9d219fda</link>
 <pubDate>Mon, 10 Nov 2025 13:00:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Biofuel pledge at climate summit highlights India’s ethanol blending debate]]></title>
-<link>https://apnews.com/article/ethanol-belem-cop30-climate-change-india-brazil-069776a758cd22d037866b8701df6d9a</link>
-<pubDate>Fri, 07 Nov 2025 14:56:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suicide bomber kills 12 outside Islamabad court as Pakistan violence rises]]></title>
-<link>https://apnews.com/article/pakkistan-militants-attacked-cadet-college-northwest-afghanistan-2e3bac61594df30ea14ae97facda37d0</link>
-<pubDate>Wed, 12 Nov 2025 01:40:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen’s Houthi rebels signal that they’ve stopped attacks on Israel and Red Sea shipping]]></title>
-<link>https://apnews.com/article/mideast-wars-yemen-houthis-red-sea-ee7be23641e9e3fd227d2c1677e03472</link>
-<pubDate>Tue, 11 Nov 2025 07:31:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Exiled Syrian opens up about death-defying smuggling operation that showed proof of Assad’s cruelty]]></title>
-<link>https://apnews.com/article/caesar-files-syria-assad-c2cbebe6712c3ea81bef5dc6a8c724f1</link>
-<pubDate>Tue, 11 Nov 2025 12:32:18 -0000</pubDate>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-10-2025-9e5c735fac297e37e2f9f34ca038c7be</link>
+<pubDate>Mon, 10 Nov 2025 22:10:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from Hurricane Melissa rises to 45 in Jamaica, with 15 others still missing]]></title>
-<link>https://apnews.com/article/jamaica-hurricane-melissa-haiti-cuba-killed-deaths-77db005a55d415ae84b74f6680769273</link>
-<pubDate>Wed, 12 Nov 2025 01:10:51 -0000</pubDate>
+<title><![CDATA[Suicide bomber kills 12 outside Islamabad court as Pakistan violence rises]]></title>
+<link>https://apnews.com/article/pakkistan-militants-attacked-cadet-college-northwest-afghanistan-2e3bac61594df30ea14ae97facda37d0</link>
+<pubDate>Wed, 12 Nov 2025 01:40:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Masked Israeli settlers attack 2 Palestinian villages in the West Bank]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-news-war-hostages-11-11-2025-e3ea718f836871dda451b66265a9b536</link>
+<pubDate>Wed, 12 Nov 2025 03:31:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +374,12 @@
 <title><![CDATA[Trump accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced]]></title>
 <link>https://apnews.com/video/trump-accused-boat-crews-of-being-narco-terrorists-the-truth-ap-found-is-more-nuanced-e6d7eda4f78843e180759d658667f955</link>
 <pubDate>Mon, 10 Nov 2025 09:28:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Exiled Syrian opens up about death-defying smuggling operation that showed proof of Assad’s cruelty]]></title>
+<link>https://apnews.com/article/caesar-files-syria-assad-c2cbebe6712c3ea81bef5dc6a8c724f1</link>
+<pubDate>Tue, 11 Nov 2025 12:32:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +398,6 @@
 <title><![CDATA[Thieves steal Roman statues from Syria’s national museum]]></title>
 <link>https://apnews.com/article/syria-stolen-antiquities-museum-damascus-7fd83c4e63666f2ecd018845ecac9376</link>
 <pubDate>Tue, 11 Nov 2025 17:21:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After brutal torture and 2.5 years of captivity, Israeli-Russian researcher is grateful to survive]]></title>
-<link>https://apnews.com/article/israelirussian-researcher-iraq-tsurkov-hostage-militia-32b77a5b593a84ab82fb24bda562d0ae</link>
-<pubDate>Tue, 11 Nov 2025 06:02:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indigenous groups get the spotlight at UN climate talks, but some say visibility isn’t power]]></title>
-<link>https://apnews.com/article/united-nations-cop30-belem-brazil-climate-indigenous-8b7279db13eb9353d815735d150ce1c0</link>
-<pubDate>Tue, 11 Nov 2025 20:12:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What’s at stake in Iraq’s parliamentary election]]></title>
-<link>https://apnews.com/article/iraq-election-iran-parliament-sudani-ccd93913b12253f0eaf742696bfce617</link>
-<pubDate>Sat, 08 Nov 2025 05:44:54 -0000</pubDate>
+<title><![CDATA[Death toll from Hurricane Melissa rises to 45 in Jamaica, with 15 others still missing]]></title>
+<link>https://apnews.com/article/jamaica-hurricane-melissa-haiti-cuba-killed-deaths-77db005a55d415ae84b74f6680769273</link>
+<pubDate>Wed, 12 Nov 2025 01:10:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What we know about the car explosion in Delhi that killed 8 people]]></title>
-<link>https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3</link>
-<pubDate>Tue, 11 Nov 2025 06:46:28 -0000</pubDate>
+<title><![CDATA[India’s Sumit Nagal appeals to Chinese officials after visa denied for Grand Slam tennis qualifier]]></title>
+<link>https://apnews.com/article/nagal-china-india-tennis-d74cd88cc32211d2ff2084a9fcc39504</link>
+<pubDate>Wed, 12 Nov 2025 02:46:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
