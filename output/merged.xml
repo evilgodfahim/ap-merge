@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 22:10:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 22:45:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[European Union and Indian navies take over ship used by pirates off Somalia to seize tanker]]></title>
 <link>https://apnews.com/article/somalia-piracy-hellas-aphrodite-tanker-d4599ec26d60283e70755194cd2ea12c</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China and Spain sign agreements to strengthen cooperation on Spanish king’s visit]]></title>
+<link>https://apnews.com/article/china-spain-king-felipe-visit-a790cccbd51ec47c5643b45c9e46cbbc</link>
+<pubDate>Wed, 12 Nov 2025 08:56:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indian government calls deadly car blast a terror attack by ‘anti-national forces’]]></title>
 <link>https://apnews.com/article/india-car-blast-red-fort-1ce382e2c514561759f464182d82d4e2</link>
 <pubDate>Wed, 12 Nov 2025 16:54:03 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pakistan’s prime minister offers talks to Afghanistan after deadly militant attacks]]></title>
 <link>https://apnews.com/article/pakistan-islamabad-suicide-bombing-army-cadets-81876cfe4747401adbe2c2f0aa69cdc3</link>
 <pubDate>Wed, 12 Nov 2025 21:16:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kazakhstan’s parliament passes law restricting LGBTQ+ content]]></title>
-<link>https://apnews.com/article/kazakhstan-lgbtq-parliament-ban-content-9f32b38b7481e97f7cb9255a6b2387f1</link>
-<pubDate>Wed, 12 Nov 2025 18:09:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,33 +89,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands of Africans returned home through an EU program. Many say they’ve been abandoned]]></title>
-<link>https://apnews.com/article/africa-migration-iom-european-union-502a2a496dfd8ca5291f13382758b090</link>
-<pubDate>Tue, 11 Nov 2025 11:20:52 -0000</pubDate>
+<title><![CDATA[Gabon court sentences former first lady and president’s son to 20 years in prison]]></title>
+<link>https://apnews.com/article/gabon-bongo-family-trial-d8e0205edc0f86b31558ce6e61f8fd50</link>
+<pubDate>Wed, 12 Nov 2025 11:31:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[There’s no timeline on when flight cuts will ease up after the government shutdown ends]]></title>
-<link>https://apnews.com/article/flight-cancellations-faa-government-shutdown-2535828689edac07e693c2e54a2f5f16</link>
-<pubDate>Tue, 11 Nov 2025 19:03:46 -0000</pubDate>
+<title><![CDATA[Chicagoans buy out street vendors amid a federal immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-illinois-immigration-ice-c24537965e31860fb07ba83e79de4f4b</link>
+<pubDate>Wed, 12 Nov 2025 22:18:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Record-low temperatures shock the Southeast US while snowfall blankets parts of the Northeast]]></title>
-<link>https://apnews.com/article/cold-weather-alabama-florida-georgia-great-lakes-ff67c3121bbe65dedad53282594afa42</link>
-<pubDate>Tue, 11 Nov 2025 18:33:05 -0000</pubDate>
+<title><![CDATA[Appeals court weighs arguments on law cutting Medicaid funds to Planned Parenthood]]></title>
+<link>https://apnews.com/article/planned-parenthood-medicaid-trump-7d9d6844ca8aca499e50b6db6aa679ea</link>
+<pubDate>Wed, 12 Nov 2025 22:03:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Newsom tells AP the eight senators who struck the shutdown deal aren’t alarmed enough about Trump]]></title>
-<link>https://apnews.com/article/newsom-shutdown-trump-democrats-senators-2f92850ab659b0b7972502aa96aedd69</link>
-<pubDate>Tue, 11 Nov 2025 18:03:05 -0000</pubDate>
+<title><![CDATA[By the Numbers: The government shutdown’s toll on air travel in the US]]></title>
+<link>https://apnews.com/article/government-shutdown-airlines-b708727c3a548ba14635e0dfa42274f8</link>
+<pubDate>Wed, 12 Nov 2025 21:48:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shutdown leaves a mark on an already-struggling economy, from lost paychecks to canceled flights]]></title>
-<link>https://apnews.com/article/economy-impact-shutdown-snap-flights-trump-826406b1083b262cad78338bc99f103b</link>
-<pubDate>Wed, 12 Nov 2025 20:31:30 -0000</pubDate>
+<title><![CDATA[US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled]]></title>
+<link>https://apnews.com/article/us-mint-treasury-department-penny-end-production-86139df5644ef0885a9baf98e9677380</link>
+<pubDate>Wed, 12 Nov 2025 21:33:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-12-2025-1752b4d203958dc02dc7343468fdd8fe</link>
+<pubDate>Wed, 12 Nov 2025 22:21:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Riot at Greek migrant detention center leaves 2 police injured, 30 migrants arrested]]></title>
 <link>https://apnews.com/article/migration-greece-riot-crete-eu-fb9fdcea1b5cfc9fc6fdf0c7eef21d27</link>
 <pubDate>Wed, 12 Nov 2025 21:18:28 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[Sri Lanka to continue cricket tour of Pakistan despite players raising security concerns]]></title>
 <link>https://apnews.com/article/cricket-pakistan-sri-lanka-security-0143b04a867a84226873413f2959171b</link>
 <pubDate>Wed, 12 Nov 2025 19:57:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kazakhstan’s parliament passes law restricting LGBTQ+ content]]></title>
+<link>https://apnews.com/article/kazakhstan-lgbtq-parliament-ban-content-9f32b38b7481e97f7cb9255a6b2387f1</link>
+<pubDate>Wed, 12 Nov 2025 22:06:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,12 +287,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gabon court sentences former first lady and president’s son to 20 years in prison]]></title>
-<link>https://apnews.com/article/gabon-bongo-family-trial-d8e0205edc0f86b31558ce6e61f8fd50</link>
-<pubDate>Wed, 12 Nov 2025 11:50:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bagpipers claim world record with AC/DC’s ‘It’s a Long Way to the Top’]]></title>
 <link>https://apnews.com/article/australia-bagpipes-world-record-acdc-78d64553759cfcbfb482c2b7b4e6f9f2</link>
 <pubDate>Wed, 12 Nov 2025 10:48:53 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Security becomes top issue for Chileans ahead of presidential elections]]></title>
 <link>https://apnews.com/article/chile-elections-security-boric-jara-kast-942f4a7022208b4fda236cb33613c62d</link>
 <pubDate>Wed, 12 Nov 2025 16:05:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters confront security at main venue of UN climate talks]]></title>
-<link>https://apnews.com/article/cop30-belem-brazil-un-climate-talks-protest-74af534a7bc1711a5e0518adde59a173</link>
-<pubDate>Wed, 12 Nov 2025 01:08:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
