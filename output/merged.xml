@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 05:11:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 05:40:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Theft of Roman statues from Syria’s main museum believed to be the work of an individual]]></title>
+<link>https://apnews.com/article/syria-damascus-museum-statues-stolen-roman-era-theft-51a041b63de8c25e9506ba2cf50ac5a9</link>
+<pubDate>Thu, 13 Nov 2025 05:27:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
 <link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
 <pubDate>Thu, 13 Nov 2025 02:25:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranian president orders probe after man dies from self-immolation in food stand dispute]]></title>
-<link>https://apnews.com/article/iran-selfimmolation-food-stand-president-8331bb056f169b9267b0902a8b4641e8</link>
-<pubDate>Thu, 13 Nov 2025 02:10:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
-<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
-<pubDate>Wed, 12 Nov 2025 20:46:30 -0000</pubDate>
+<title><![CDATA[European Union and Indian navies take over ship used by pirates off Somalia to seize tanker]]></title>
+<link>https://apnews.com/article/somalia-piracy-hellas-aphrodite-tanker-d4599ec26d60283e70755194cd2ea12c</link>
+<pubDate>Wed, 12 Nov 2025 20:12:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge signals hundreds of people detained in Chicago immigration crackdown could be released on bond]]></title>
-<link>https://apnews.com/article/chicago-arrests-immigration-judge-07b0c0ec90495141e4c9a0ccc5deccab</link>
-<pubDate>Wed, 12 Nov 2025 23:19:43 -0000</pubDate>
+<title><![CDATA[Trial of former Congolese rebel leader Lumbala over wartime atrocities opens in Paris]]></title>
+<link>https://apnews.com/article/lumbala-trial-paris-congo-crimes-against-humanity-7f56e11b8b7ec81bac77421ee1d8f876</link>
+<pubDate>Wed, 12 Nov 2025 19:42:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeals court weighs arguments on law cutting Medicaid funds to Planned Parenthood]]></title>
-<link>https://apnews.com/article/planned-parenthood-medicaid-trump-7d9d6844ca8aca499e50b6db6aa679ea</link>
-<pubDate>Wed, 12 Nov 2025 22:03:25 -0000</pubDate>
+<title><![CDATA[Building apartment projects near public transit helps address housing crisis, combat climate change]]></title>
+<link>https://apnews.com/article/housing-shortage-public-transit-massachusetts-california-b2a727ab4c570fff1e549e726ea801e0</link>
+<pubDate>Thu, 13 Nov 2025 05:12:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The timeline for SNAP benefits remains uncertain, even as the government is set to reopen]]></title>
-<link>https://apnews.com/article/snap-shutdown-reopening-food-aid-a11b6c83934d9c718cc413fc1f9435d3</link>
-<pubDate>Thu, 13 Nov 2025 03:41:50 -0000</pubDate>
+<title><![CDATA[Ex-aide to California governor indicted for alleged theft of campaign funds from ex-health secretary]]></title>
+<link>https://apnews.com/article/dana-williamson-indicted-california-campaign-funds-914ab93a598f8a7c4cf4d7c205c38e41</link>
+<pubDate>Thu, 13 Nov 2025 04:57:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Appeals court weighs arguments on law cutting Medicaid funds to Planned Parenthood]]></title>
+<link>https://apnews.com/article/planned-parenthood-medicaid-trump-7d9d6844ca8aca499e50b6db6aa679ea</link>
+<pubDate>Wed, 12 Nov 2025 22:03:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranian president orders probe after man dies from self-immolation in food stand dispute]]></title>
+<link>https://apnews.com/article/iran-selfimmolation-food-stand-president-8331bb056f169b9267b0902a8b4641e8</link>
+<pubDate>Thu, 13 Nov 2025 05:25:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-222112c38165ad14c1d027d79ca82176</link>
 <pubDate>Wed, 12 Nov 2025 08:42:01 -0000</pubDate>
@@ -332,18 +344,6 @@
 <title><![CDATA[In Japan’s Northern Alps, residents battle monkeys to protect homes and farms]]></title>
 <link>https://apnews.com/article/japan-monkeys-macaques-chasers-2952ea0502b57f5120c9c631910a43b7</link>
 <pubDate>Wed, 12 Nov 2025 05:33:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Diverse and resilient energy production is needed to meet future demand, global report says]]></title>
-<link>https://apnews.com/article/climate-world-energy-outlook-cop-renewable-coal-b0a5c5d31bfe76632067c1c631d63849</link>
-<pubDate>Wed, 12 Nov 2025 05:18:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia and Australia are close to signing a new defense treaty]]></title>
-<link>https://apnews.com/article/australia-indonesia-prodowo-albanese-defense-treaty-ad4ee442a775b93b07699f16578a8607</link>
-<pubDate>Wed, 12 Nov 2025 16:35:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,12 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Theft of Roman statues from Syria’s main museum believed to be the work of an individual]]></title>
-<link>https://apnews.com/article/syria-damascus-museum-statues-stolen-roman-era-theft-51a041b63de8c25e9506ba2cf50ac5a9</link>
-<pubDate>Wed, 12 Nov 2025 19:43:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Top diplomats from G7 countries meet in Canada as trade tensions rise with Trump]]></title>
 <link>https://apnews.com/article/g7-foreign-ministers-canada-rubio-anand-d3930ff857c8956e2dea5e6487c52ae5</link>
 <pubDate>Tue, 11 Nov 2025 22:38:54 -0000</pubDate>
@@ -449,15 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European Union and Indian navies take over ship used by pirates off Somalia to seize tanker]]></title>
-<link>https://apnews.com/article/somalia-piracy-hellas-aphrodite-tanker-d4599ec26d60283e70755194cd2ea12c</link>
-<pubDate>Wed, 12 Nov 2025 00:55:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ex-aide to California governor indicted for alleged theft of campaign funds from ex-health secretary]]></title>
-<link>https://apnews.com/article/dana-williamson-indicted-california-campaign-funds-914ab93a598f8a7c4cf4d7c205c38e41</link>
-<pubDate>Wed, 12 Nov 2025 21:40:46 -0000</pubDate>
+<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
+<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
+<pubDate>Thu, 13 Nov 2025 04:30:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
