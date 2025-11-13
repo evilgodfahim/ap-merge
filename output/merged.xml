@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 06:17:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 06:49:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Theft of Roman statues from Syria’s main museum believed to be the work of an individual]]></title>
 <link>https://apnews.com/article/syria-damascus-museum-statues-stolen-roman-era-theft-51a041b63de8c25e9506ba2cf50ac5a9</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
-<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
-<pubDate>Wed, 12 Nov 2025 11:00:19 -0000</pubDate>
+<title><![CDATA[France honors the victims of the Paris attacks’ night of terror 10 years on]]></title>
+<link>https://apnews.com/article/bataclan-paris-attacks-10-years-commemorations-1f5982f90c96ad55d467e1c19ae6e639</link>
+<pubDate>Thu, 13 Nov 2025 06:29:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[UN watchdog hasn’t been able to verify Iran’s stockpile of near-weapons grade uranium in months]]></title>
 <link>https://apnews.com/article/iran-nuclear-iaea-uranium-stockpile-weapon-364d3ce5f8ec54e1c188a17ff04559ce</link>
 <pubDate>Wed, 12 Nov 2025 13:49:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladesh braces for disruptions as former ruling party calls for lockdown to protest Hasina trial]]></title>
+<link>https://apnews.com/article/bangladesh-hasina-yunus-verdict-protests-9a49d8d71b633da22fe7e87de3d39ee7</link>
+<pubDate>Thu, 13 Nov 2025 06:14:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Myanmar military takes delivery of helicopters and aircraft from Russia and China]]></title>
 <link>https://apnews.com/article/myanmar-russia-china-helicopters-aircraft-fd8c51047093d286c193766297f1a536</link>
 <pubDate>Wed, 12 Nov 2025 10:30:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lankan freshwater fishers keen to turn invasive species threat into an opportunity]]></title>
-<link>https://apnews.com/photo-gallery/sri-lanka-invasive-fresh-water-fishing-snakehead-ec53bc5cefdfb2ce0234949d8c6236e8</link>
-<pubDate>Thu, 13 Nov 2025 04:26:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s decision that the US boycott the G20 summit is ‘their loss,’ South African president says]]></title>
+<link>https://apnews.com/article/trump-g20-us-boycott-south-africa-1c85da17d22e2c945d5aab7dc7847cf3</link>
+<pubDate>Thu, 13 Nov 2025 05:59:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
+<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
+<pubDate>Wed, 12 Nov 2025 20:46:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Court hears case to disqualify Central African Republic’s president from December election]]></title>
 <link>https://apnews.com/article/central-african-republic-presidential-election-touadera-3299795ccff94f5b8fc44d0bf910e229</link>
 <pubDate>Wed, 12 Nov 2025 19:27:42 -0000</pubDate>
@@ -86,18 +98,6 @@
 <title><![CDATA[As drug resistance grows, 2 new malaria treatments show promise]]></title>
 <link>https://apnews.com/article/malaria-treatments-novartis-3085b59336560df65a729828a33983b4</link>
 <pubDate>Thu, 13 Nov 2025 03:56:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Algeria pardons French-Algerian author Sansal after yearlong imprisonment]]></title>
-<link>https://apnews.com/article/algeria-author-pardoned-sansal-07681fada5fadd15840eeaa40a485f9e</link>
-<pubDate>Wed, 12 Nov 2025 15:37:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trial of former Congolese rebel leader Lumbala over wartime atrocities opens in Paris]]></title>
-<link>https://apnews.com/article/lumbala-trial-paris-congo-crimes-against-humanity-7f56e11b8b7ec81bac77421ee1d8f876</link>
-<pubDate>Wed, 12 Nov 2025 19:42:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s car sales slow in October as some trade-in subsidies, tax breaks are phased out]]></title>
-<link>https://apnews.com/article/china-autos-byd-tesla-tradein-627253e9bc0302d081c2fb7463e22947</link>
-<pubDate>Wed, 12 Nov 2025 08:41:31 -0000</pubDate>
+<title><![CDATA[Taiwan evacuates 8,300 and shuts schools before tropical storm brushes island]]></title>
+<link>https://apnews.com/article/tropical-storm-fungwong-taiwan-philippines-7132e0f350bb0b84a4e6c7a0e1642a0d</link>
+<pubDate>Wed, 12 Nov 2025 10:45:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Truck crash in South Korea market kills 2 people and injures 18, officials say]]></title>
+<link>https://apnews.com/article/south-korea-market-crash-bucheon-17db8dbefe786cc499ece6ee59395a3b</link>
+<pubDate>Thu, 13 Nov 2025 06:44:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asian shares are mixed after Wall Street drifted around its records]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-government-shutdown-c388d97a4e4acf5cca538fd901e46b2d</link>
 <pubDate>Thu, 13 Nov 2025 04:38:42 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[More rain falls in Taiwan after tropical depression causes flooding]]></title>
 <link>https://apnews.com/article/rain-taiwan-flooding-fungwong-a71f6705ef5f2a5489be6a2ea3c7c74b</link>
 <pubDate>Thu, 13 Nov 2025 04:23:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sri Lankan freshwater fishers keen to turn invasive species threat into an opportunity]]></title>
+<link>https://apnews.com/photo-gallery/sri-lanka-invasive-fresh-water-fishing-snakehead-ec53bc5cefdfb2ce0234949d8c6236e8</link>
+<pubDate>Thu, 13 Nov 2025 05:40:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Algeria pardons French-Algerian author Sansal after yearlong imprisonment]]></title>
+<link>https://apnews.com/article/algeria-author-pardoned-sansal-07681fada5fadd15840eeaa40a485f9e</link>
+<pubDate>Thu, 13 Nov 2025 06:29:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Global tuberculosis diagnoses rise to a record, but deaths fall, WHO reports]]></title>
 <link>https://apnews.com/article/tuberculosis-cases-2024-globally-who-report-f4b7c7ca37d5afc8b1a2fcc8740c3581</link>
 <pubDate>Wed, 12 Nov 2025 15:00:10 -0000</pubDate>
@@ -278,6 +296,12 @@
 <title><![CDATA[At least 42 migrants presumed dead after boat capsizes off Libya, says U.N.]]></title>
 <link>https://apnews.com/article/libya-migrant-boat-capzise-missing-survivors-ff872082e6fc539ce644b2830a774c45</link>
 <pubDate>Thu, 13 Nov 2025 02:33:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trial of former Congolese rebel leader Lumbala over wartime atrocities opens in Paris]]></title>
+<link>https://apnews.com/article/lumbala-trial-paris-congo-crimes-against-humanity-7f56e11b8b7ec81bac77421ee1d8f876</link>
+<pubDate>Thu, 13 Nov 2025 02:18:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,39 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian president orders probe after man dies from self-immolation in food stand dispute]]></title>
-<link>https://apnews.com/article/iran-selfimmolation-food-stand-president-8331bb056f169b9267b0902a8b4641e8</link>
-<pubDate>Thu, 13 Nov 2025 05:25:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-222112c38165ad14c1d027d79ca82176</link>
-<pubDate>Wed, 12 Nov 2025 08:42:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia’s top court rejects Russia’s challenge to embassy eviction]]></title>
-<link>https://apnews.com/article/australia-russia-court-embassy-evicted-d0f290b2d9dbe00f8f58db167a9fe5bb</link>
-<pubDate>Wed, 12 Nov 2025 10:18:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Japan’s Northern Alps, residents battle monkeys to protect homes and farms]]></title>
-<link>https://apnews.com/article/japan-monkeys-macaques-chasers-2952ea0502b57f5120c9c631910a43b7</link>
-<pubDate>Wed, 12 Nov 2025 05:33:05 -0000</pubDate>
+<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
+<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
+<pubDate>Thu, 13 Nov 2025 06:14:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
 <pubDate>Wed, 12 Nov 2025 20:39:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s decision that the US boycott the G20 summit is ‘their loss,’ South African president says]]></title>
-<link>https://apnews.com/article/trump-g20-us-boycott-south-africa-1c85da17d22e2c945d5aab7dc7847cf3</link>
-<pubDate>Wed, 12 Nov 2025 18:43:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
-<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
-<pubDate>Thu, 13 Nov 2025 04:30:54 -0000</pubDate>
+<title><![CDATA[Iranian president orders probe after man dies from self-immolation in food stand dispute]]></title>
+<link>https://apnews.com/article/iran-selfimmolation-food-stand-president-8331bb056f169b9267b0902a8b4641e8</link>
+<pubDate>Wed, 12 Nov 2025 10:24:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zanzibar’s ‘solar mamas’ are trained as technicians to help light up communities]]></title>
+<link>https://apnews.com/article/tanzania-solar-women-engineers-zanzibar-electricity-7d9eaa24c97e820f1f1f243512a5dd55</link>
+<pubDate>Thu, 13 Nov 2025 06:31:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
