@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 18:15:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 18:46:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British commentator Sami Hamdi mulling possibility of taking legal action against US over detention]]></title>
 <link>https://apnews.com/article/hamdi-britain-trump-detention-gaza-us-immigration-d15203cde3ce2adb377d6f3990c925d8</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[10 years after Bataclan massacre, Paris is still scarred by Islamic State attacks]]></title>
+<title><![CDATA[10 years after the Bataclan massacre, Paris is still scarred by that night of terror]]></title>
 <link>https://apnews.com/article/bataclan-paris-attacks-10-years-commemorations-1f5982f90c96ad55d467e1c19ae6e639</link>
-<pubDate>Thu, 13 Nov 2025 14:26:42 -0000</pubDate>
+<pubDate>Thu, 13 Nov 2025 18:46:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
+<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
+<pubDate>Wed, 12 Nov 2025 21:01:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Juan Ponce Enrile, architect of Philippine martial law era who helped oust Marcos, dies at 101]]></title>
 <link>https://apnews.com/article/philippines-obit-juan-ponce-enrile-defense-chief-6218438c36ef79fb055054e2c599eda4</link>
 <pubDate>Thu, 13 Nov 2025 16:45:00 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[Photos show Indigenous participants at the People’s Summit held alongside the COP30 climate meeting]]></title>
 <link>https://apnews.com/photo-gallery/people-summit-cop30-climate-conference-photos-44056d99df3617bae8ba24d80232c9a3</link>
 <pubDate>Thu, 13 Nov 2025 04:11:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Climate change is in the news during COP30. We’ve got tips to tackle your climate anxiety]]></title>
-<link>https://apnews.com/article/climate-anxiety-mental-health-cop30-community-action-ce23690ac9e6597e222ab9c9de0d0673</link>
-<pubDate>Wed, 12 Nov 2025 17:39:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,27 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Researchers try bold new approach in a race to better treat autoimmune diseases]]></title>
-<link>https://apnews.com/article/autoimmune-diseases-cart-mrna-lupus-diabetes-a4204dc6920a219f27eded2df32d0b8b</link>
-<pubDate>Thu, 13 Nov 2025 15:28:51 -0000</pubDate>
+<title><![CDATA[States scramble to send full SNAP food benefits to millions of people after government shutdown ends]]></title>
+<link>https://apnews.com/article/government-shutdown-snap-food-states-6cef598c92000bdff8384a9da1bfd23c</link>
+<pubDate>Thu, 13 Nov 2025 18:31:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal workers question whether the longest government shutdown was worth their sacrifice]]></title>
+<link>https://apnews.com/article/government-shutdown-federal-workers-health-care-b05ab519c57743ae2da10424f8fb50b6</link>
+<pubDate>Thu, 13 Nov 2025 18:16:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ammonia gas leak from a tanker truck in Oklahoma sickens dozens and forces evacuations]]></title>
+<link>https://apnews.com/article/ammonia-gas-leak-oklahoma-81319108b4556f17a5a324f5f29be1f6</link>
+<pubDate>Thu, 13 Nov 2025 18:01:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Oklahoma governor spares the life of inmate just before he was to be executed]]></title>
 <link>https://apnews.com/article/oklahoma-execution-tremane-wood-96eea36ff43eb7e28f3e69bec3579a63</link>
 <pubDate>Thu, 13 Nov 2025 17:31:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Families of two babies sickened by infantile botulism sue ByHeart over recalled formula]]></title>
-<link>https://apnews.com/article/byheart-baby-formula-recall-botulism-679c822667df767a278b166c7142e68f</link>
-<pubDate>Thu, 13 Nov 2025 17:16:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The body of a coal miner has been found in a flooded West Virginia mine, the governor says]]></title>
-<link>https://apnews.com/article/flooded-mine-west-virginia-e491ae52eaa0a814481d43ddf9d6677c</link>
-<pubDate>Thu, 13 Nov 2025 13:56:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan says Afghan nationals carried out this week’s suicide attacks]]></title>
+<link>https://apnews.com/article/pakistan-afghans-nationals-behind-suicide-attacks-5ffe092756632759c13dcfc34897c656</link>
+<pubDate>Thu, 13 Nov 2025 18:31:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
 <pubDate>Wed, 12 Nov 2025 20:39:53 -0000</pubDate>
@@ -356,12 +362,6 @@
 <title><![CDATA[EU renews demand that Ukraine crack down on corruption in wake of major energy scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-pokrovsk-a25b76c6c9830baafcf16ac5648bdd4c</link>
 <pubDate>Thu, 13 Nov 2025 17:39:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
-<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
-<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
-<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
-<pubDate>Thu, 13 Nov 2025 04:45:54 -0000</pubDate>
+<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
+<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
+<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal workers question whether the longest government shutdown was worth their sacrifice]]></title>
-<link>https://apnews.com/article/government-shutdown-federal-workers-health-care-b05ab519c57743ae2da10424f8fb50b6</link>
-<pubDate>Thu, 13 Nov 2025 12:48:07 -0000</pubDate>
+<title><![CDATA[Airlines are optimistic about a quick recovery ahead of Thanksgiving once FAA ends flight cuts]]></title>
+<link>https://apnews.com/article/government-shutdown-faa-airlines-flight-cancellations-delays-448c28a07c167408e859657377300954</link>
+<pubDate>Thu, 13 Nov 2025 18:16:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
