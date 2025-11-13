@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 02:29:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 03:34:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
 <link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
-<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
-<pubDate>Wed, 12 Nov 2025 11:00:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia makes gains in southern Ukraine as it expands front-line attacks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-front-zaporizhzhia-d35f629768d525338434eb777ea06647</link>
 <pubDate>Wed, 12 Nov 2025 19:57:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France honors victims 10 years after attacks at Bataclan concert hall, cafes and national stadium]]></title>
+<link>https://apnews.com/article/paris-attacks-november-13-bataclan-commemoration-ceremony-2aa1237b0a4d9d87ca3844a6f6fda410</link>
+<pubDate>Wed, 12 Nov 2025 11:00:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +251,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[At least 42 migrants presumed dead after boat capsizes off Libya, says U.N.]]></title>
+<link>https://apnews.com/article/libya-migrant-boat-capzise-missing-survivors-ff872082e6fc539ce644b2830a774c45</link>
+<pubDate>Thu, 13 Nov 2025 02:33:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trial of former Congolese rebel leader Lumbala over wartime atrocities opens in Paris]]></title>
+<link>https://apnews.com/article/lumbala-trial-paris-congo-crimes-against-humanity-7f56e11b8b7ec81bac77421ee1d8f876</link>
+<pubDate>Thu, 13 Nov 2025 02:18:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UK’s Starmer refuses to say whether he will urge Trump to drop his $1 billion BBC threat]]></title>
 <link>https://apnews.com/article/bbc-trump-starmer-panorama-davie-0805f9c6bf526c8a83c2ac9a56871842</link>
 <pubDate>Wed, 12 Nov 2025 13:56:31 -0000</pubDate>
@@ -329,27 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia to suspend intelligence cooperation with US over strikes on drug vessels]]></title>
-<link>https://apnews.com/article/colombia-trump-drug-strikes-intelligence-2424e84a97f3a584a491143627dfdaa7</link>
-<pubDate>Thu, 13 Nov 2025 01:30:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-11-2025-ddc958ac389c21acff4002dd22f162f2</link>
-<pubDate>Wed, 12 Nov 2025 01:23:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s president says ‘shocking’ settler violence against Palestinians must end]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-palestinians-west-bank-cc98f37d31a6510b08e767366ca8038e</link>
-<pubDate>Wed, 12 Nov 2025 15:12:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
-<link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
-<pubDate>Wed, 12 Nov 2025 06:16:48 -0000</pubDate>
+<title><![CDATA[European Union and Indian navies take over ship used by pirates off Somalia to seize tanker]]></title>
+<link>https://apnews.com/article/somalia-piracy-hellas-aphrodite-tanker-d4599ec26d60283e70755194cd2ea12c</link>
+<pubDate>Thu, 13 Nov 2025 02:03:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,6 +356,12 @@
 <title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
 <pubDate>Wed, 12 Nov 2025 20:39:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s president says ‘shocking’ settler violence against Palestinians must end]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-palestinians-west-bank-cc98f37d31a6510b08e767366ca8038e</link>
+<pubDate>Wed, 12 Nov 2025 15:12:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump urges Israel to pardon Netanyahu, sparking concerns over US influence]]></title>
+<title><![CDATA[Women riding the streets of Tehran on motorbikes is the latest sign of Iran’s societal change]]></title>
+<link>https://apnews.com/article/iran-women-motorbikes-hijab-rights-7f5fc4e0ce6fe0991ace53e22546d23e</link>
+<pubDate>Wed, 12 Nov 2025 05:46:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump urges Israel to pardon Netanyahu in corruption case, sparking concerns over US influence]]></title>
 <link>https://apnews.com/article/israel-netanyahu-trump-politics-letter-trial-36cfeeacf4fa038e784f43f31a56fe4e</link>
-<pubDate>Wed, 12 Nov 2025 20:24:53 -0000</pubDate>
+<pubDate>Thu, 13 Nov 2025 02:43:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
