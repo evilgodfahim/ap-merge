@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 13:06:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 13:48:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump urges Israel to pardon Netanyahu in corruption case, sparking concerns over US influence]]></title>
 <link>https://apnews.com/article/israel-netanyahu-trump-politics-letter-trial-36cfeeacf4fa038e784f43f31a56fe4e</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France marks 10 years since Paris’ deadliest peacetime attacks in silence and ceremony]]></title>
+<title><![CDATA[France marks 10 years since Bataclan massacre and other Islamic State attacks that still scar Paris]]></title>
 <link>https://apnews.com/article/bataclan-paris-attacks-10-years-commemorations-1f5982f90c96ad55d467e1c19ae6e639</link>
-<pubDate>Thu, 13 Nov 2025 12:38:50 -0000</pubDate>
+<pubDate>Thu, 13 Nov 2025 13:40:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
+<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
+<pubDate>Wed, 12 Nov 2025 21:01:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show Indigenous participants at the People’s Summit held alongside the COP30 climate meeting]]></title>
 <link>https://apnews.com/photo-gallery/people-summit-cop30-climate-conference-photos-44056d99df3617bae8ba24d80232c9a3</link>
 <pubDate>Thu, 13 Nov 2025 04:11:50 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Climate change is in the news during COP30. We’ve got tips to tackle your climate anxiety]]></title>
 <link>https://apnews.com/article/climate-anxiety-mental-health-cop30-community-action-ce23690ac9e6597e222ab9c9de0d0673</link>
 <pubDate>Wed, 12 Nov 2025 17:39:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Relentless rise in carbon pollution from fossil fuels slightly dampens climate-fighting hopes]]></title>
-<link>https://apnews.com/article/emissions-climate-change-cop30-fossil-fuels-2993926965fae133bbdc7b9e290d2a47</link>
-<pubDate>Thu, 13 Nov 2025 01:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
-<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
-<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Al-Sharaa meets Syrian diaspora in Washington ahead of talks with Trump]]></title>
 <link>https://apnews.com/video/al-sharaa-meets-syrian-diaspora-in-washington-ahead-of-talks-with-trump-2c9221d7d1c340e1984f68cbf883579f</link>
 <pubDate>Wed, 12 Nov 2025 18:13:10 -0000</pubDate>
@@ -407,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mostly higher after Trump signs bill ending US government shutdown]]></title>
+<title><![CDATA[Wall Street inches down modestly in premarket after Trump signs bill ending US government shutdown]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-government-shutdown-c388d97a4e4acf5cca538fd901e46b2d</link>
-<pubDate>Thu, 13 Nov 2025 09:10:07 -0000</pubDate>
+<pubDate>Thu, 13 Nov 2025 13:33:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
-<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
-<pubDate>Thu, 13 Nov 2025 04:45:54 -0000</pubDate>
+<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
+<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
+<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
