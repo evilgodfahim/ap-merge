@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 15:38:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 16:13:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Women riding the streets of Tehran on motorbikes is the latest sign of Iran’s societal change]]></title>
 <link>https://apnews.com/article/iran-women-motorbikes-hijab-rights-7f5fc4e0ce6fe0991ace53e22546d23e</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
-<pubDate>Thu, 13 Nov 2025 11:37:50 -0000</pubDate>
+<title><![CDATA[Paris remembers the victims of the 2015 attacks, in photos]]></title>
+<link>https://apnews.com/photo-gallery/france-paris-attacks-photos-ca62263f807e741072ba76bd4f2b08ae</link>
+<pubDate>Thu, 13 Nov 2025 15:43:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN watchdog hasn’t been able to verify Iran’s stockpile of near-weapons grade uranium in months]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-uranium-stockpile-weapon-364d3ce5f8ec54e1c188a17ff04559ce</link>
-<pubDate>Wed, 12 Nov 2025 13:49:40 -0000</pubDate>
+<title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
+<pubDate>Thu, 13 Nov 2025 11:37:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Researchers try bold new approach in a race to better treat autoimmune diseases]]></title>
+<link>https://apnews.com/article/autoimmune-diseases-cart-mrna-lupus-diabetes-a4204dc6920a219f27eded2df32d0b8b</link>
+<pubDate>Thu, 13 Nov 2025 15:28:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The timeline for SNAP benefits remains uncertain, even as the government is set to reopen]]></title>
 <link>https://apnews.com/article/snap-shutdown-reopening-food-aid-a11b6c83934d9c718cc413fc1f9435d3</link>
 <pubDate>Thu, 13 Nov 2025 03:41:50 -0000</pubDate>
@@ -122,12 +128,6 @@
 <title><![CDATA[Judge signals hundreds of people detained in Chicago immigration crackdown could be released on bond]]></title>
 <link>https://apnews.com/article/chicago-arrests-immigration-judge-07b0c0ec90495141e4c9a0ccc5deccab</link>
 <pubDate>Wed, 12 Nov 2025 23:19:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The body of a coal miner has been found in a flooded West Virginia mine, the governor says]]></title>
-<link>https://apnews.com/article/flooded-mine-west-virginia-e491ae52eaa0a814481d43ddf9d6677c</link>
-<pubDate>Thu, 13 Nov 2025 13:56:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,30 @@
 <title><![CDATA[What we know about the car explosion in Delhi that killed 8 people]]></title>
 <link>https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3</link>
 <pubDate>Tue, 11 Nov 2025 06:11:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Body of missing priest found in central Mexico]]></title>
+<link>https://apnews.com/article/mexico-priest-killed-catholic-d624097474b22c8e932a0e5f486dbe27</link>
+<pubDate>Thu, 13 Nov 2025 16:11:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[AP Interview: Security guard who foiled Stade de France bomber recounts traumatic night]]></title>
+<link>https://apnews.com/article/paris-terror-attacks-security-guard-stadium-afc82fbd32dfbc80549a31c673b80ac9</link>
+<pubDate>Thu, 13 Nov 2025 15:56:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s new ambassador Guilfoyle visits head of Greece’s Orthodox Church]]></title>
+<link>https://apnews.com/article/greece-guilfoyle-ambassador-archbishop-0e676658d33c962603ba10632ad85861</link>
+<pubDate>Thu, 13 Nov 2025 15:41:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ethiopia investigates possible outbreak of new viral hemorrhagic fever after 8 people are infected]]></title>
+<link>https://apnews.com/article/ethiopia-viral-hemorrhagic-fever-outbreak-who-1fa0713d682110ed7965bc0f3def5166</link>
+<pubDate>Thu, 13 Nov 2025 15:26:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,21 +353,129 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Algeria pardons French-Algerian author Sansal after yearlong imprisonment]]></title>
-<link>https://apnews.com/article/algeria-author-pardoned-sansal-07681fada5fadd15840eeaa40a485f9e</link>
-<pubDate>Thu, 13 Nov 2025 06:29:37 -0000</pubDate>
+<title><![CDATA[Truck hits pedestrians in South Korea market, killing 2 people and injuring 18]]></title>
+<link>https://apnews.com/article/south-korea-market-crash-bucheon-17db8dbefe786cc499ece6ee59395a3b</link>
+<pubDate>Thu, 13 Nov 2025 09:40:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Global tuberculosis diagnoses rise to a record, but deaths fall, WHO reports]]></title>
-<link>https://apnews.com/article/tuberculosis-cases-2024-globally-who-report-f4b7c7ca37d5afc8b1a2fcc8740c3581</link>
-<pubDate>Wed, 12 Nov 2025 15:00:10 -0000</pubDate>
+<title><![CDATA[EU demands continuing graft crackdown in Ukraine as Zelenskyy confronts kickback scandal]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-pokrovsk-a25b76c6c9830baafcf16ac5648bdd4c</link>
+<pubDate>Thu, 13 Nov 2025 15:58:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cambodia and Thailand’s border conflict heats up again as Cambodian villager is reported killed]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-conflict-ceasefire-5b4c71e8bccb49520478e2b54e0ad640</link>
-<pubDate>Wed, 12 Nov 2025 14:45:10 -0000</pubDate>
+<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
+<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
+<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Al-Sharaa meets Syrian diaspora in Washington ahead of talks with Trump]]></title>
+<link>https://apnews.com/video/al-sharaa-meets-syrian-diaspora-in-washington-ahead-of-talks-with-trump-2c9221d7d1c340e1984f68cbf883579f</link>
+<pubDate>Wed, 12 Nov 2025 18:13:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dapper French teen behind Louvre heist ‘Fedora Man’ photo embraces his mystery moment]]></title>
+<link>https://apnews.com/video/dapper-french-teen-behind-louvre-heist-fedora-man-photo-embraces-his-mystery-moment-6fc38ce886574ff1aad6757308a1f8b6</link>
+<pubDate>Sun, 09 Nov 2025 09:24:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced]]></title>
+<link>https://apnews.com/video/trump-accused-boat-crews-of-being-narco-terrorists-the-truth-ap-found-is-more-nuanced-e6d7eda4f78843e180759d658667f955</link>
+<pubDate>Mon, 10 Nov 2025 09:28:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages despite official condemnation]]></title>
+<link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
+<pubDate>Thu, 13 Nov 2025 15:43:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
+<link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
+<pubDate>Wed, 12 Nov 2025 06:16:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show Israeli soldiers struggling to heal from trauma after years of war]]></title>
+<link>https://apnews.com/photo-gallery/israel-soldiers-mental-health-suicide-gaza-war-photos-b0f3651375b78aac168d0287879cb481</link>
+<pubDate>Thu, 13 Nov 2025 09:25:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN watchdog hasn’t been able to verify Iran’s stockpile of near-weapons grade uranium in months]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-uranium-stockpile-weapon-364d3ce5f8ec54e1c188a17ff04559ce</link>
+<pubDate>Wed, 12 Nov 2025 13:32:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The US stock market slips as Nvidia and AI superstars keep swinging]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-government-shutdown-c388d97a4e4acf5cca538fd901e46b2d</link>
+<pubDate>Thu, 13 Nov 2025 15:28:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[President Trump signs government funding bill, ending shutdown after a record 43-day disruption]]></title>
+<link>https://apnews.com/article/government-shutdown-reopen-update-house-returns-5771f2befb15f4ab45e327369f2e98d9</link>
+<pubDate>Thu, 13 Nov 2025 08:55:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[California revokes 17,000 commercial driver’s licenses for immigrants]]></title>
+<link>https://apnews.com/article/duffy-newsom-commercial-drivers-license-immigrant-trucking-c0f3064e329a00f19aecbd1404dd393d</link>
+<pubDate>Thu, 13 Nov 2025 08:40:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Waymo is hitting the highway. Here’s what to know about the robotaxi’s expanded service]]></title>
+<link>https://apnews.com/article/waymo-autonomous-driverless-cars-california-freeways-00c52a015f370ff76355716e70e99cb9</link>
+<pubDate>Thu, 13 Nov 2025 08:25:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Building more apartments near public transit can help address the housing crisis and climate change]]></title>
+<link>https://apnews.com/article/housing-shortage-public-transit-massachusetts-california-b2a727ab4c570fff1e549e726ea801e0</link>
+<pubDate>Thu, 13 Nov 2025 15:13:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladesh braces for disruptions as former ruling party calls for lockdown to protest Hasina trial]]></title>
+<link>https://apnews.com/article/bangladesh-hasina-yunus-verdict-protests-9a49d8d71b633da22fe7e87de3d39ee7</link>
+<pubDate>Thu, 13 Nov 2025 07:55:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
+<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
+<pubDate>Thu, 13 Nov 2025 04:45:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zanzibar’s ‘solar mamas’ are trained as technicians to help light up communities]]></title>
+<link>https://apnews.com/article/tanzania-solar-women-engineers-zanzibar-electricity-7d9eaa24c97e820f1f1f243512a5dd55</link>
+<pubDate>Thu, 13 Nov 2025 06:31:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal workers question whether the longest government shutdown was worth their sacrifice]]></title>
+<link>https://apnews.com/article/government-shutdown-federal-workers-health-care-b05ab519c57743ae2da10424f8fb50b6</link>
+<pubDate>Thu, 13 Nov 2025 12:48:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
+<link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
+<pubDate>Thu, 13 Nov 2025 07:40:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India faces a stern test in two-match home series against South Africa]]></title>
+<link>https://apnews.com/article/cricket-india-south-africa-test-dc35cec0fb61da408da283bbb5e69e89</link>
+<pubDate>Thu, 13 Nov 2025 01:12:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
