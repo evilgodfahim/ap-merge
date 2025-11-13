@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 10:12:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 10:43:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump urges Israel to pardon Netanyahu in corruption case, sparking concerns over US influence]]></title>
+<link>https://apnews.com/article/israel-netanyahu-trump-politics-letter-trial-36cfeeacf4fa038e784f43f31a56fe4e</link>
+<pubDate>Thu, 13 Nov 2025 10:35:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Prime minister’s coalition makes a strong showing in Iraqi elections, but no single bloc dominates]]></title>
 <link>https://apnews.com/article/iraq-election-results-ff11f449fa718f89a78145481956e9c0</link>
 <pubDate>Thu, 13 Nov 2025 09:34:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of the first female conductor to lead a Tehran Symphony Orchestra performance]]></title>
-<link>https://apnews.com/photo-gallery/iran-tehran-symphony-orchestra-performance-photos-7d1cf8b94064c3653c4af9ecc0d380f2</link>
-<pubDate>Thu, 13 Nov 2025 09:19:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
-<link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
-<pubDate>Thu, 13 Nov 2025 02:25:01 -0000</pubDate>
+<title><![CDATA[Theft of Roman statues from Syria’s main museum believed to be the work of an individual]]></title>
+<link>https://apnews.com/article/syria-damascus-museum-statues-stolen-roman-era-theft-51a041b63de8c25e9506ba2cf50ac5a9</link>
+<pubDate>Thu, 13 Nov 2025 05:27:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,12 +257,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Theft of Roman statues from Syria’s main museum believed to be the work of an individual]]></title>
-<link>https://apnews.com/article/syria-damascus-museum-statues-stolen-roman-era-theft-51a041b63de8c25e9506ba2cf50ac5a9</link>
-<pubDate>Thu, 13 Nov 2025 09:37:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Algeria pardons French-Algerian author Sansal after yearlong imprisonment]]></title>
 <link>https://apnews.com/article/algeria-author-pardoned-sansal-07681fada5fadd15840eeaa40a485f9e</link>
 <pubDate>Thu, 13 Nov 2025 06:29:37 -0000</pubDate>
@@ -389,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages after condemnation from military leaders]]></title>
+<link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
+<pubDate>Thu, 13 Nov 2025 10:43:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
 <link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
 <pubDate>Wed, 12 Nov 2025 06:16:48 -0000</pubDate>
@@ -404,12 +404,6 @@
 <title><![CDATA[Women riding the streets of Tehran on motorbikes is the latest sign of Iran’s societal change]]></title>
 <link>https://apnews.com/article/iran-women-motorbikes-hijab-rights-7f5fc4e0ce6fe0991ace53e22546d23e</link>
 <pubDate>Wed, 12 Nov 2025 05:46:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump urges Israel to pardon Netanyahu in corruption case, sparking concerns over US influence]]></title>
-<link>https://apnews.com/article/israel-netanyahu-trump-politics-letter-trial-36cfeeacf4fa038e784f43f31a56fe4e</link>
-<pubDate>Thu, 13 Nov 2025 02:43:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,6 +449,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of the first female conductor to lead a Tehran Symphony Orchestra performance]]></title>
+<link>https://apnews.com/photo-gallery/iran-tehran-symphony-orchestra-performance-photos-7d1cf8b94064c3653c4af9ecc0d380f2</link>
+<pubDate>Thu, 13 Nov 2025 10:28:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zanzibar’s ‘solar mamas’ are trained as technicians to help light up communities]]></title>
 <link>https://apnews.com/article/tanzania-solar-women-engineers-zanzibar-electricity-7d9eaa24c97e820f1f1f243512a5dd55</link>
 <pubDate>Thu, 13 Nov 2025 06:31:11 -0000</pubDate>
@@ -464,6 +464,12 @@
 <title><![CDATA[Judge signals hundreds of people detained in Chicago immigration crackdown could be released on bond]]></title>
 <link>https://apnews.com/article/chicago-arrests-immigration-judge-07b0c0ec90495141e4c9a0ccc5deccab</link>
 <pubDate>Thu, 13 Nov 2025 05:30:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
+<link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
+<pubDate>Thu, 13 Nov 2025 07:40:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
