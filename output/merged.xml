@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 22:39:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 23:10:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British commentator Sami Hamdi mulling possibility of taking legal action against US over detention]]></title>
 <link>https://apnews.com/article/hamdi-britain-trump-detention-gaza-us-immigration-d15203cde3ce2adb377d6f3990c925d8</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia makes gains in southern Ukraine as it expands front-line attacks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-front-zaporizhzhia-d35f629768d525338434eb777ea06647</link>
-<pubDate>Wed, 12 Nov 2025 19:57:42 -0000</pubDate>
+<title><![CDATA[Turkey-registered plane crashes in Croatia reportedly killing the pilot]]></title>
+<link>https://apnews.com/article/croatia-turkey-plane-crash-deff8e655093997d2bf7bda9b2243208</link>
+<pubDate>Thu, 13 Nov 2025 22:50:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Top economists call on world leaders to set up an international panel on inequality]]></title>
+<link>https://apnews.com/article/global-inequality-wealth-g20-347e08555b43a4c0c568e44ea69982fc</link>
+<pubDate>Thu, 13 Nov 2025 22:35:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s decision that the US boycott the G20 summit is ‘their loss,’ South African president says]]></title>
 <link>https://apnews.com/article/trump-g20-us-boycott-south-africa-1c85da17d22e2c945d5aab7dc7847cf3</link>
 <pubDate>Thu, 13 Nov 2025 05:59:09 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Rights groups dispute Cameroon’s death toll from postelection protests and claim at least 30 killed]]></title>
 <link>https://apnews.com/article/cameroon-election-violence-protests-biya-tchiroma-32aed152d6d7228d58f438ce64cb7cf8</link>
 <pubDate>Thu, 13 Nov 2025 16:15:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
-<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
-<pubDate>Wed, 12 Nov 2025 20:46:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s next immigration crackdown will target Charlotte, North Carolina, a sheriff says]]></title>
-<link>https://apnews.com/article/federal-immigration-enforcement-north-carolina-trump-8d2bd5e73b2028dbdb6d6426087d5416</link>
-<pubDate>Thu, 13 Nov 2025 20:49:27 -0000</pubDate>
+<title><![CDATA[Toxic ammonia cloud from tanker sweeps through Oklahoma town and sends dozens to hospitals]]></title>
+<link>https://apnews.com/article/ammonia-gas-leak-oklahoma-81319108b4556f17a5a324f5f29be1f6</link>
+<pubDate>Thu, 13 Nov 2025 19:33:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,12 +194,6 @@
 <title><![CDATA[Trump administration designates 4 left-wing European networks as terrorist organizations]]></title>
 <link>https://apnews.com/article/trump-terror-designations-europe-antifa-a4f0b5f733e9a105101107b0c80d482e</link>
 <pubDate>Thu, 13 Nov 2025 19:54:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey-registered plane crashes in Croatia reportedly killing the pilot]]></title>
-<link>https://apnews.com/article/croatia-turkey-plane-crash-deff8e655093997d2bf7bda9b2243208</link>
-<pubDate>Thu, 13 Nov 2025 19:21:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sudan’s worsening situation leaves 2 out of every 3 people in need of aid, UN official says]]></title>
+<link>https://apnews.com/article/sudan-rsf-army-darfur-aid-workers-un-c74efc275e4351a0aa3ba73d48f3d2ac</link>
+<pubDate>Thu, 13 Nov 2025 22:14:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US aircraft carrier nears Venezuela in flex of American military power]]></title>
 <link>https://apnews.com/article/venezuela-ford-aircraft-carrier-drugs-military-trump-a86ddc6f5f51e12c87cbd9c55978c911</link>
 <pubDate>Thu, 13 Nov 2025 20:24:23 -0000</pubDate>
@@ -464,6 +464,12 @@
 <title><![CDATA[Top adviser to Sudan’s paramilitary leader says Rubio’s comments hinder truce efforts]]></title>
 <link>https://apnews.com/article/sudan-rubio-rsf-paramilitary-fighters-a01141f71b33e07a14318844300098cd</link>
 <pubDate>Thu, 13 Nov 2025 17:09:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s next immigration crackdown will target Charlotte, North Carolina, a sheriff says]]></title>
+<link>https://apnews.com/article/federal-immigration-enforcement-north-carolina-trump-8d2bd5e73b2028dbdb6d6426087d5416</link>
+<pubDate>Thu, 13 Nov 2025 21:55:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
