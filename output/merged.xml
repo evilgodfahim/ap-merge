@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Nov 2025 11:33:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 12:21:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show Israeli soldiers struggling to heal from trauma after years of war]]></title>
 <link>https://apnews.com/photo-gallery/israel-soldiers-mental-health-suicide-gaza-war-photos-b0f3651375b78aac168d0287879cb481</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hungary to mount court challenge to EU’s planned phase-out of Russian energy, Orbán says]]></title>
+<link>https://apnews.com/article/hungary-russian-energy-challenge-eu-court-4d8a7b3daa58a23433bad7eecd0c5f4c</link>
+<pubDate>Fri, 14 Nov 2025 12:15:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Poland’s new president nods to the far right in his first 100 days]]></title>
 <link>https://apnews.com/article/poland-president-nawrocki-far-right-100-days-69fcffbd0e93becaf4323e5c324ac0ae</link>
 <pubDate>Fri, 14 Nov 2025 07:06:18 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[London judge finds global mining giant BHP Group liable in Brazil’s worst environmental disaster]]></title>
 <link>https://apnews.com/article/brazil-bhp-dam-collapse-london-court-ruling-samarco-d6fab2f4c1a9f6d11fbabf5e68290230</link>
 <pubDate>Fri, 14 Nov 2025 11:12:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[German government to subsidize industry’s energy prices in bid to revitalize economy]]></title>
-<link>https://apnews.com/article/germany-economy-industry-electricity-price-subsidy-9c2f4f6d8f98b2d134ad4997ff80d620</link>
-<pubDate>Fri, 14 Nov 2025 10:11:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China cracks down on exports of ‘zero mileage’ new cars exported as used]]></title>
+<link>https://apnews.com/article/china-autos-evs-crackdown-exports-a3d7a6e4b298bfe225d8c3239e3bceb1</link>
+<pubDate>Fri, 14 Nov 2025 12:08:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Overburdened power cable behind Bosnia retirement home fire that killed 15]]></title>
 <link>https://apnews.com/article/bosnia-fire-death-toll-28fb99e22fbb73b047d30fd04adbc459</link>
 <pubDate>Fri, 14 Nov 2025 11:04:49 -0000</pubDate>
@@ -251,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syria reopens embassy in London after more than a decade]]></title>
+<link>https://apnews.com/article/syria-embassy-london-uk-britain-6628b4a7b644e24e4beafb28ef44ca27</link>
+<pubDate>Fri, 14 Nov 2025 10:01:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel says militants have returned remains of 1 of the last 4 hostages in Gaza]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-gaza-palestinians-hostages-e4e35ec6edd6216431a17d60173cce46</link>
 <pubDate>Fri, 14 Nov 2025 09:49:49 -0000</pubDate>
@@ -278,12 +290,6 @@
 <title><![CDATA[Juan Ponce Enrile, architect of Philippine martial law era who helped oust Marcos, dies at 101]]></title>
 <link>https://apnews.com/article/philippines-obit-juan-ponce-enrile-defense-chief-6218438c36ef79fb055054e2c599eda4</link>
 <pubDate>Fri, 14 Nov 2025 09:34:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘I can’t take any more of this,’ then-Prince Andrew wrote during Epstein scandal, emails reveal]]></title>
-<link>https://apnews.com/article/prince-andrew-epstein-emails-mountbatten-08e9298ca7a8ad9c51459c520fc3a405</link>
-<pubDate>Thu, 13 Nov 2025 19:39:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian drone and missile attack on Kyiv kills 4 people, injures at least 34]]></title>
+<title><![CDATA[Russian drone and missile attack on Kyiv kills 5 people and injures at least 34]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
-<pubDate>Fri, 14 Nov 2025 10:54:20 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 12:15:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Druze groups and Syrian forces exchange ceasefire violation claims as clashes in Sweida resume]]></title>
+<link>https://apnews.com/article/syrian-ceasefire-violation-clashes-sweida-e85c20d540d98a8c8e9c454cac730b8a</link>
+<pubDate>Fri, 14 Nov 2025 12:00:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the 3 hostages whose remains are still in Gaza]]></title>
 <link>https://apnews.com/article/mideast-wars-deceased-hostages-a9b84d9d496a5ec0c9485b1f918ef2c4</link>
 <pubDate>Fri, 14 Nov 2025 10:24:20 -0000</pubDate>
@@ -413,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares fall, tracking Wall Street’s tumble on worries about AI stocks and interest rates]]></title>
+<title><![CDATA[World shares skid, following Wall Street’s retreat fueled by worries over AI and interest rates]]></title>
 <link>https://apnews.com/article/us-stocks-ai-china-japan-6edce247294508cd84c941b8ad55d8da</link>
-<pubDate>Fri, 14 Nov 2025 07:27:41 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 11:45:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa is 105-3 at lunch on the 1st day of the 1st cricket test against India]]></title>
+<title><![CDATA[Bumrah shines as India skittles South Africa for 159 on Day 1 of Kolkata test]]></title>
 <link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
-<pubDate>Fri, 14 Nov 2025 06:49:18 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 11:30:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
