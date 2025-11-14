@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Nov 2025 06:16:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 06:49:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British commentator Sami Hamdi mulling possibility of taking legal action against US over detention]]></title>
 <link>https://apnews.com/article/hamdi-britain-trump-detention-gaza-us-immigration-d15203cde3ce2adb377d6f3990c925d8</link>
@@ -347,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US aircraft carrier nears Venezuela in flex of American military power]]></title>
-<link>https://apnews.com/article/venezuela-ford-aircraft-carrier-drugs-military-trump-a86ddc6f5f51e12c87cbd9c55978c911</link>
-<pubDate>Thu, 13 Nov 2025 20:24:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia attacks Kyiv with fires, injuries, and ongoing strikes reported]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
 <pubDate>Fri, 14 Nov 2025 02:34:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US aircraft carrier nears Venezuela in flex of American military power]]></title>
+<link>https://apnews.com/article/venezuela-ford-aircraft-carrier-drugs-military-trump-a86ddc6f5f51e12c87cbd9c55978c911</link>
+<pubDate>Thu, 13 Nov 2025 20:24:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa wins the toss and will bat in first cricket test against India]]></title>
+<title><![CDATA[South Africa is 105-3 at lunch on the 1st day of the 1st cricket test against India]]></title>
 <link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
-<pubDate>Fri, 14 Nov 2025 04:41:39 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 06:49:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
