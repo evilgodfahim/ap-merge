@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Nov 2025 13:03:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 13:44:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show Israeli soldiers struggling to heal from trauma after years of war]]></title>
 <link>https://apnews.com/photo-gallery/israel-soldiers-mental-health-suicide-gaza-war-photos-b0f3651375b78aac168d0287879cb481</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
+<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
+<pubDate>Fri, 14 Nov 2025 00:40:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[COP30 starts in Brazil and more top photos this week from the Caribbean and Latin America]]></title>
 <link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-61e447909bc57ca948bf1d6111e960b8</link>
 <pubDate>Fri, 14 Nov 2025 04:32:45 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Bad Bunny wins album of the year at the 2025 Latin Grammys, capping an electric night]]></title>
 <link>https://apnews.com/article/latin-grammys-2025-42dc4af01c917740b60fe585c09f6d1b</link>
 <pubDate>Fri, 14 Nov 2025 04:17:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A flotilla kicks off the People’s Summit for activists at UN climate talks]]></title>
-<link>https://apnews.com/article/united-nations-climate-talks-peoples-summit-indigenous-538fe43de6ebd52c63a6921563e2a70a</link>
-<pubDate>Wed, 12 Nov 2025 21:01:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the BBC’s latest crisis after its apology to Trump]]></title>
+<link>https://apnews.com/article/britain-bbc-trump-edit-apology-lawsuit-9319ebe19abb39e6bd66d580f8bf16e1</link>
+<pubDate>Fri, 14 Nov 2025 13:10:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China cracks down on exports of ‘zero mileage’ new cars exported as used]]></title>
 <link>https://apnews.com/article/china-autos-evs-crackdown-exports-a3d7a6e4b298bfe225d8c3239e3bceb1</link>
 <pubDate>Fri, 14 Nov 2025 12:08:10 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[Pakistan says it has arrests 4 militants over involvement in suicide bombing at Islamabad court]]></title>
 <link>https://apnews.com/article/pakistan-militant-arrests-islamabad-bombing-afghanistan-dc923d4e2e27ed3afca938d0ee990ff2</link>
 <pubDate>Fri, 14 Nov 2025 10:49:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[German government to subsidize industry’s energy prices in bid to revitalize economy]]></title>
+<link>https://apnews.com/article/germany-economy-industry-electricity-price-subsidy-9c2f4f6d8f98b2d134ad4997ff80d620</link>
+<pubDate>Fri, 14 Nov 2025 12:55:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says Afghan nationals carried out this week’s suicide attacks]]></title>
-<link>https://apnews.com/article/pakistan-afghans-nationals-behind-suicide-attacks-5ffe092756632759c13dcfc34897c656</link>
-<pubDate>Thu, 13 Nov 2025 14:52:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Latest: Federal offices reopen as the government shutdown ends]]></title>
-<link>https://apnews.com/article/president-donald-trump-government-shutdown-b3310df445ac5ee3bd41a40bc8bd9ccc</link>
-<pubDate>Thu, 13 Nov 2025 19:24:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bodies of 15 Palestinians returned by Israel, health officials in Gaza say]]></title>
 <link>https://apnews.com/article/israel-palestine-gaza-bodies-returned-ce2ab3a56d38bf4e7a07a3240ad50268</link>
 <pubDate>Fri, 14 Nov 2025 11:09:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian drone and missile attack on Kyiv kills 5 people and injures at least 34]]></title>
+<title><![CDATA[Russian drone and missile attack on Kyiv kills 6 people and injures at least 35]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
-<pubDate>Fri, 14 Nov 2025 12:15:29 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 13:20:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese astronauts return from space station after delay blamed on space debris damage]]></title>
-<link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
-<pubDate>Fri, 14 Nov 2025 08:32:21 -0000</pubDate>
+<title><![CDATA[Protesters block entrance to COP30 climate talks in Brazil]]></title>
+<link>https://apnews.com/article/climate-change-cop30-brazil-protest-indigenous-8b3e00085110627a989357434805f920</link>
+<pubDate>Fri, 14 Nov 2025 13:05:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US aircraft carrier nears Venezuela in flex of American military power]]></title>
-<link>https://apnews.com/article/venezuela-ford-aircraft-carrier-drugs-military-trump-a86ddc6f5f51e12c87cbd9c55978c911</link>
-<pubDate>Thu, 13 Nov 2025 20:24:23 -0000</pubDate>
+<title><![CDATA[Chinese astronauts return from space station after delay blamed on space debris damage]]></title>
+<link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
+<pubDate>Fri, 14 Nov 2025 08:32:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,15 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Parents search for children missing since a volcanic eruption in Colombia 40 years ago]]></title>
-<link>https://apnews.com/article/colombia-volcano-armero-missing-kids-search-14c8e284266bc680a6057af6a58460bd</link>
-<pubDate>Thu, 13 Nov 2025 05:45:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN human rights body holds special session on Sudan after hundreds killed in Darfur’s el-Fasher]]></title>
+<title><![CDATA[UN human rights body holds session on Sudan after killings by paramilitary in Darfur]]></title>
 <link>https://apnews.com/article/sudan-human-rights-geneva-united-nations-68d005faa960841d2977b386ea0a259b</link>
-<pubDate>Fri, 14 Nov 2025 09:21:51 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 12:35:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
