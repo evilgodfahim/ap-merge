@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Nov 2025 03:32:33 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 04:14:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British commentator Sami Hamdi mulling possibility of taking legal action against US over detention]]></title>
 <link>https://apnews.com/article/hamdi-britain-trump-detention-gaza-us-immigration-d15203cde3ce2adb377d6f3990c925d8</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Landslides in Indonesia’s Java island leaves 2 dead and 21 missing]]></title>
+<link>https://apnews.com/article/indonesia-cilacap-java-island-landslide-f32bcb85c7881852cecad404f275e583</link>
+<pubDate>Fri, 14 Nov 2025 04:00:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cambodia evacuates a village on disputed border with Thailand as tensions rise]]></title>
+<link>https://apnews.com/article/cambodia-thailand-border-shooting-ac8659b858329a4fb45e3649759cbeae</link>
+<pubDate>Thu, 13 Nov 2025 09:04:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan says Afghan nationals carried out this week’s suicide attacks]]></title>
 <link>https://apnews.com/article/pakistan-afghans-nationals-behind-suicide-attacks-5ffe092756632759c13dcfc34897c656</link>
 <pubDate>Fri, 14 Nov 2025 01:26:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s stranded astronauts to return from space station on spacecraft that brought new crew]]></title>
-<link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
-<pubDate>Fri, 14 Nov 2025 00:55:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Juan Ponce Enrile, architect of Philippine martial law era who helped oust Marcos, dies at 101]]></title>
-<link>https://apnews.com/article/philippines-obit-juan-ponce-enrile-defense-chief-6218438c36ef79fb055054e2c599eda4</link>
-<pubDate>Thu, 13 Nov 2025 16:45:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Indigenous participants at the People’s Summit held alongside the COP30 climate meeting]]></title>
-<link>https://apnews.com/photo-gallery/people-summit-cop30-climate-conference-photos-44056d99df3617bae8ba24d80232c9a3</link>
-<pubDate>Thu, 13 Nov 2025 04:11:50 -0000</pubDate>
+<title><![CDATA[Juan Ponce Enrile, architect of Philippine martial law era who helped oust Marcos, dies at 101]]></title>
+<link>https://apnews.com/article/philippines-obit-juan-ponce-enrile-defense-chief-6218438c36ef79fb055054e2c599eda4</link>
+<pubDate>Thu, 13 Nov 2025 16:45:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As China cracks down on stories about men in love, female fans mourn the idealized romances]]></title>
+<link>https://apnews.com/article/china-censorship-danmei-same-sex-romance-stories-women-a2c768222090049769386ab923db2416</link>
+<pubDate>Thu, 13 Nov 2025 07:30:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan’s foreign minister says closer ties with Israel align with the island’s interests]]></title>
 <link>https://apnews.com/article/taiwan-foreign-minister-lin-chialung-israel-1c1820f2255b2eb33d7897e7b56b5deb</link>
 <pubDate>Thu, 13 Nov 2025 02:25:01 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Thailand extradites a suspect in illegal gambling operations to China]]></title>
 <link>https://apnews.com/article/china-thailand-extradition-gambling-scams-f19793e355e46b54f5df0a5398027eaf</link>
 <pubDate>Wed, 12 Nov 2025 12:47:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar military takes delivery of helicopters and aircraft from Russia and China]]></title>
-<link>https://apnews.com/article/myanmar-russia-china-helicopters-aircraft-fd8c51047093d286c193766297f1a536</link>
-<pubDate>Wed, 12 Nov 2025 10:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,12 +200,6 @@
 <title><![CDATA[Boeing defense workers ratify new contract to end 3-month strike in the Midwest]]></title>
 <link>https://apnews.com/article/boeing-strike-labor-raises-7204451fd0c4aaf61adf751771dd57ab</link>
 <pubDate>Thu, 13 Nov 2025 20:09:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration designates 4 left-wing European networks as terrorist organizations]]></title>
-<link>https://apnews.com/article/trump-terror-designations-europe-antifa-a4f0b5f733e9a105101107b0c80d482e</link>
-<pubDate>Thu, 13 Nov 2025 19:54:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,9 +311,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bad Bunny wins first award at the 2025 Latin Grammys, which open with Maluma and Santana]]></title>
+<title><![CDATA[Bad Bunny wins big at the 2025 Latin Grammys, Raphael warms hearts everywhere]]></title>
 <link>https://apnews.com/article/latin-grammys-2025-42dc4af01c917740b60fe585c09f6d1b</link>
-<pubDate>Fri, 14 Nov 2025 02:26:42 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 03:44:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show Indigenous participants at the People’s Summit held alongside the COP30 climate meeting]]></title>
+<link>https://apnews.com/photo-gallery/people-summit-cop30-climate-conference-photos-44056d99df3617bae8ba24d80232c9a3</link>
+<pubDate>Thu, 13 Nov 2025 20:56:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cambodia evacuates a village on disputed border with Thailand as tensions rise]]></title>
-<link>https://apnews.com/article/cambodia-thailand-border-shooting-ac8659b858329a4fb45e3649759cbeae</link>
-<pubDate>Fri, 14 Nov 2025 01:30:08 -0000</pubDate>
+<title><![CDATA[South Korean growers sue state power utility, blaming climate change for crop damage]]></title>
+<link>https://apnews.com/article/south-korea-farmers-climate-suit-state-utility-ccba7b8ed6598895023a75edb1fb75c7</link>
+<pubDate>Fri, 14 Nov 2025 03:40:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As China cracks down on stories about men in love, female fans mourn the idealized romances]]></title>
-<link>https://apnews.com/article/china-censorship-danmei-same-sex-romance-stories-women-a2c768222090049769386ab923db2416</link>
-<pubDate>Fri, 14 Nov 2025 01:15:08 -0000</pubDate>
+<title><![CDATA[China’s stranded astronauts to return from space station on spacecraft that brought new crew]]></title>
+<link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
+<pubDate>Fri, 14 Nov 2025 03:25:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
