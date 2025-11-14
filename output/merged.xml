@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Nov 2025 02:26:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 03:32:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British commentator Sami Hamdi mulling possibility of taking legal action against US over detention]]></title>
 <link>https://apnews.com/article/hamdi-britain-trump-detention-gaza-us-immigration-d15203cde3ce2adb377d6f3990c925d8</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[10 years after the Bataclan massacre, Paris is still scarred by that night of terror]]></title>
+<link>https://apnews.com/article/bataclan-paris-attacks-10-years-commemorations-1f5982f90c96ad55d467e1c19ae6e639</link>
+<pubDate>Thu, 13 Nov 2025 18:46:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[AP Interview: Security guard who foiled Stade de France bomber recounts traumatic night]]></title>
 <link>https://apnews.com/article/paris-terror-attacks-security-guard-stadium-afc82fbd32dfbc80549a31c673b80ac9</link>
 <pubDate>Fri, 14 Nov 2025 01:56:24 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Russia makes gains in southern Ukraine as it expands front-line attacks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-front-zaporizhzhia-d35f629768d525338434eb777ea06647</link>
 <pubDate>Wed, 12 Nov 2025 19:57:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cyberattack on car manufacturer hits UK growth in Q3 ahead of crucial budget]]></title>
-<link>https://apnews.com/article/britain-economy-growth-budget-f45402aefef4c59f8ee322dd8b689918</link>
-<pubDate>Fri, 14 Nov 2025 01:41:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia attacks Kyiv with fires, injuries, and ongoing strikes reported]]></title>
-<link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
-<pubDate>Fri, 14 Nov 2025 01:38:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump administration says it has trade frameworks with Argentina, Ecuador, El Salvador and Guatemala]]></title>
 <link>https://apnews.com/article/trump-tariffs-argentina-ecuador-el-salvador-guatemala-f3b389b49aaa046767544c4857b41a87</link>
 <pubDate>Thu, 13 Nov 2025 23:33:04 -0000</pubDate>
@@ -299,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cyberattack on car manufacturer hits UK growth in Q3 ahead of crucial budget]]></title>
+<link>https://apnews.com/article/britain-economy-growth-budget-f45402aefef4c59f8ee322dd8b689918</link>
+<pubDate>Thu, 13 Nov 2025 14:22:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Powerful politicians will be in jail by Christmas for corruption scandal, Philippine president says]]></title>
 <link>https://apnews.com/article/flood-control-corruption-philippines-ferdinand-marcos-jr-3972804a08eb6b06a74c12a4b3ae8335</link>
 <pubDate>Thu, 13 Nov 2025 09:52:48 -0000</pubDate>
@@ -311,15 +311,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh braces for disruptions as former ruling party calls for lockdown to protest Hasina trial]]></title>
+<title><![CDATA[Disruptions hit Bangladesh after former ruling party calls for lockdown to protest Hasina trial]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-yunus-verdict-protests-9a49d8d71b633da22fe7e87de3d39ee7</link>
-<pubDate>Fri, 14 Nov 2025 01:23:48 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 02:41:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bad Bunny wins first award at the 2025 Latin Grammys, which open with Miguel and Santana]]></title>
+<title><![CDATA[Bad Bunny wins first award at the 2025 Latin Grammys, which open with Maluma and Santana]]></title>
 <link>https://apnews.com/article/latin-grammys-2025-42dc4af01c917740b60fe585c09f6d1b</link>
-<pubDate>Fri, 14 Nov 2025 01:08:48 -0000</pubDate>
+<pubDate>Fri, 14 Nov 2025 02:26:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +341,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As drug resistance grows, 2 new malaria treatments show promise]]></title>
+<link>https://apnews.com/article/malaria-treatments-novartis-3085b59336560df65a729828a33983b4</link>
+<pubDate>Thu, 13 Nov 2025 14:07:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US aircraft carrier nears Venezuela in flex of American military power]]></title>
 <link>https://apnews.com/article/venezuela-ford-aircraft-carrier-drugs-military-trump-a86ddc6f5f51e12c87cbd9c55978c911</link>
 <pubDate>Thu, 13 Nov 2025 20:24:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia attacks Kyiv with fires, injuries, and ongoing strikes reported]]></title>
+<link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
+<pubDate>Fri, 14 Nov 2025 02:34:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +374,6 @@
 <title><![CDATA[BBC apologizes to Trump over its misleading edit, but says there’s no basis for a defamation claim]]></title>
 <link>https://apnews.com/article/britain-bbc-misleading-edit-trump-lawsuit-73a613283de952f5af08fa8ec4d0ca67</link>
 <pubDate>Thu, 13 Nov 2025 21:09:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU renews demand that Ukraine crack down on corruption in wake of major energy scandal]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-pokrovsk-a25b76c6c9830baafcf16ac5648bdd4c</link>
-<pubDate>Thu, 13 Nov 2025 17:39:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
