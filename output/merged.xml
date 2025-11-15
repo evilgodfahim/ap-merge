@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 06:14:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 06:44:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages despite official condemnation]]></title>
 <link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
 <link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
 <pubDate>Fri, 14 Nov 2025 14:19:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Aficionados fret as Trump moves to make pasta great again]]></title>
+<link>https://apnews.com/article/italy-trump-pasta-prices-tariffs-94032b5c7cf964d9d2369ab2f06fa6ed</link>
+<pubDate>Sat, 15 Nov 2025 06:44:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Financial markets grow fretful after reports of UK government abandoning income tax hike]]></title>
-<link>https://apnews.com/article/britain-budget-bonds-pound-reeves-tax-6ca571a9d5e7a239c37b1f5529bfe407</link>
-<pubDate>Fri, 14 Nov 2025 18:25:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fresh off commissioning new aircraft carrier, China starts sea trials of amphibious assault ship]]></title>
 <link>https://apnews.com/article/china-amphibious-assault-ship-carrier-navy-sichuan-523451ce91a7b7d730cf8412407a8ed1</link>
 <pubDate>Fri, 14 Nov 2025 13:49:32 -0000</pubDate>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 8 killed in huge blast at a police station in Indian-controlled Kashmir]]></title>
+<title><![CDATA[At least 9 killed and 32 injured in an explosion at Kashmir police station]]></title>
 <link>https://apnews.com/article/kashmir-india-police-blast-08270165746d64343cc4318eeebcbee1</link>
-<pubDate>Sat, 15 Nov 2025 05:28:43 -0000</pubDate>
+<pubDate>Sat, 15 Nov 2025 06:29:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why a centuries-old Mexica myth became Mexico’s enduring symbol]]></title>
+<link>https://apnews.com/article/mexico-eagle-snake-emblem-exhibition-mexica-aztec-c82e3cbd69d0604cdcca8c35b903205a</link>
+<pubDate>Sat, 15 Nov 2025 06:14:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Climate leaders are talking about ‘overshoot’ into warming danger zone. Here’s what it means]]></title>
 <link>https://apnews.com/article/un-cop30-climate-talks-belem-brazil-c387cf773ece4c60cd6039be1ffb70ef</link>
 <pubDate>Fri, 14 Nov 2025 17:24:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[London judge finds global mining company BHP Group liable in Brazil’s worst environmental disaster]]></title>
-<link>https://apnews.com/article/brazil-bhp-dam-collapse-london-court-ruling-samarco-d6fab2f4c1a9f6d11fbabf5e68290230</link>
-<pubDate>Fri, 14 Nov 2025 23:33:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
+<link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
+<pubDate>Sat, 15 Nov 2025 05:59:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bumrah shines as India skittles South Africa for 159 on Day 1 of Kolkata test]]></title>
 <link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
 <pubDate>Fri, 14 Nov 2025 13:19:32 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[India faces a stern test in two-match home series against South Africa]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-test-dc35cec0fb61da408da283bbb5e69e89</link>
 <pubDate>Thu, 13 Nov 2025 21:05:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indian government calls deadly car blast a terror attack by ‘anti-national forces’]]></title>
-<link>https://apnews.com/article/india-car-blast-red-fort-1ce382e2c514561759f464182d82d4e2</link>
-<pubDate>Wed, 12 Nov 2025 16:54:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,6 +359,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Once a shadowy dealmaker, one-time Zelenskyy associate is accused in Ukrainian corruption scandal]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-tymur-mindich-4b6940ca6521193fadfc263e4c6d51f4</link>
+<pubDate>Sat, 15 Nov 2025 06:34:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Palestinian leader Abbas turns 90, weakened by Israel and deeply unpopular]]></title>
+<link>https://apnews.com/article/palestinians-abbas-israel-gaza-strip-ffcff2f8e9e69ab6f9f8e850f3e75b53</link>
+<pubDate>Sat, 15 Nov 2025 06:19:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Modi’s ruling coalition leads in key election in the Indian state of Bihar]]></title>
 <link>https://apnews.com/video/modis-ruling-coalition-leads-in-key-election-in-the-indian-state-of-bihar-685dc2e3aebf478bbfce7af831964712</link>
 <pubDate>Fri, 14 Nov 2025 15:28:58 -0000</pubDate>
@@ -443,12 +455,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Israeli soldiers struggling to heal from trauma after years of war]]></title>
-<link>https://apnews.com/photo-gallery/israel-soldiers-mental-health-suicide-gaza-war-photos-b0f3651375b78aac168d0287879cb481</link>
-<pubDate>Thu, 13 Nov 2025 09:25:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Central African Republic leader cleared for third term in key vote followed closely by Russia]]></title>
 <link>https://apnews.com/article/central-african-republic-touadera-russia-wagner-41891691b35cb17fac75159b78aa0d3e</link>
 <pubDate>Fri, 14 Nov 2025 14:28:58 -0000</pubDate>
@@ -464,12 +470,6 @@
 <title><![CDATA[USDA data casts doubt on China’s soybean purchase promises touted by Trump]]></title>
 <link>https://apnews.com/article/china-trump-xi-soybean-farmers-brazil-72ded79cdd71ce61e93337b8984e6f69</link>
 <pubDate>Sat, 15 Nov 2025 00:06:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
-<link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
-<pubDate>Fri, 14 Nov 2025 18:44:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
