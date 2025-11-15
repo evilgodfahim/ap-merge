@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 07:32:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 08:12:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages despite official condemnation]]></title>
 <link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinian leader Abbas turns 90, weakened by Israel and deeply unpopular]]></title>
+<title><![CDATA[The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza]]></title>
 <link>https://apnews.com/article/palestinians-abbas-israel-gaza-strip-ffcff2f8e9e69ab6f9f8e850f3e75b53</link>
-<pubDate>Sat, 15 Nov 2025 06:19:37 -0000</pubDate>
+<pubDate>Sat, 15 Nov 2025 07:39:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -470,6 +470,12 @@
 <title><![CDATA[USDA data casts doubt on China’s soybean purchase promises touted by Trump]]></title>
 <link>https://apnews.com/article/china-trump-xi-soybean-farmers-brazil-72ded79cdd71ce61e93337b8984e6f69</link>
 <pubDate>Sat, 15 Nov 2025 00:06:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Africa hits back on second day of 1st test against India as hosts are 138-4 at lunch]]></title>
+<link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
+<pubDate>Sat, 15 Nov 2025 07:24:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
