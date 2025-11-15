@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 12:58:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 13:22:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rocket attack in Syria’s capital wounds 1 person and causes damage]]></title>
 <link>https://apnews.com/article/syria-explosion-mazzeh-damascus-fd4eb682c769cc3eabeae1c8340524e9</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
+<link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
+<pubDate>Sat, 15 Nov 2025 13:17:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Displaced Alaska Native children find familiarity in an uncommon program, in photos]]></title>
 <link>https://apnews.com/photo-gallery/alaska-native-yupik-education-anchorage-photo-6644389f8c93a9d62c8dcd86705f353e</link>
 <pubDate>Sat, 15 Nov 2025 09:07:37 -0000</pubDate>
@@ -176,12 +182,6 @@
 <title><![CDATA[Naturalized US citizens thought they were safe. Trump’s immigration policies are shaking that belief]]></title>
 <link>https://apnews.com/article/naturalized-citizens-immigration-fears-116b8bb3dd4444abf4bdcbc266bed48c</link>
 <pubDate>Sat, 15 Nov 2025 05:59:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[German Baumkuchen ‘tree cake’ survived a disaster and world wars to become a Japanese favorite]]></title>
-<link>https://apnews.com/article/japan-germany-juchheim-baumkuchen-cake-ninoshima-hiroshima-20fd5232225c07a04eb950813abfdbc1</link>
-<pubDate>Sat, 15 Nov 2025 05:44:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A minibus carrying Chinese tourists crashes in Bali, killing 5 passengers]]></title>
-<link>https://apnews.com/article/indonesia-bali-minibus-crash-chinese-tourists-cc47e32c3ed2e02a5fce631fbbc9982e</link>
-<pubDate>Fri, 14 Nov 2025 08:44:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel returns 15 Palestinian bodies to Gaza, where displaced families endure winter rains]]></title>
 <link>https://apnews.com/article/israel-palestine-gaza-bodies-returned-ce2ab3a56d38bf4e7a07a3240ad50268</link>
 <pubDate>Fri, 14 Nov 2025 17:38:15 -0000</pubDate>
@@ -437,12 +431,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese astronauts return from space station after delay blamed on space debris damage]]></title>
-<link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
-<pubDate>Fri, 14 Nov 2025 08:32:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fears over migration and crime push Chile’s presidential race to the right]]></title>
 <link>https://apnews.com/article/chile-election-immigration-conservatives-right-96226f5e4b94779e97e6d079813c46f3</link>
 <pubDate>Fri, 14 Nov 2025 17:08:15 -0000</pubDate>
@@ -473,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa hits back on second day of 1st test against India as hosts are 138-4 at lunch]]></title>
+<title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
-<pubDate>Sat, 15 Nov 2025 07:24:33 -0000</pubDate>
+<pubDate>Sat, 15 Nov 2025 12:48:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
