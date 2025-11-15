@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 11:32:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 12:18:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Rocket attack in Syria’s capital wounds 1 person and causes damage]]></title>
+<link>https://apnews.com/article/syria-explosion-mazzeh-damascus-fd4eb682c769cc3eabeae1c8340524e9</link>
+<pubDate>Sat, 15 Nov 2025 11:54:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages despite official condemnation]]></title>
 <link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
 <pubDate>Fri, 14 Nov 2025 21:30:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
-<link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
-<pubDate>Fri, 14 Nov 2025 14:19:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran seizes tanker in Strait of Hormuz, US official says, as tensions remain high in region]]></title>
-<link>https://apnews.com/article/iran-tanker-mideast-tensions-1762f491e9eb1912cb8b8bd9a1a634d8</link>
-<pubDate>Fri, 14 Nov 2025 10:39:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Once a shadowy dealmaker, former Zelenskyy associate is accused in Ukrainian corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-tymur-mindich-4b6940ca6521193fadfc263e4c6d51f4</link>
 <pubDate>Sat, 15 Nov 2025 10:53:49 -0000</pubDate>
@@ -389,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran confirms seizure of oil tanker in the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-seizure-oil-tanker-2fcbcce29def8cd0a7fef7b1315d69b2</link>
+<pubDate>Sat, 15 Nov 2025 11:43:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Druze groups and Syrian forces exchange ceasefire violation claims as clashes in Sweida resume]]></title>
 <link>https://apnews.com/article/syrian-ceasefire-violation-clashes-sweida-e85c20d540d98a8c8e9c454cac730b8a</link>
 <pubDate>Fri, 14 Nov 2025 12:00:29 -0000</pubDate>
@@ -404,12 +404,6 @@
 <title><![CDATA[What to know about the 3 hostages whose remains are still in Gaza]]></title>
 <link>https://apnews.com/article/mideast-wars-deceased-hostages-a9b84d9d496a5ec0c9485b1f918ef2c4</link>
 <pubDate>Fri, 14 Nov 2025 10:24:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rocket attack in Syria’s capital wounds 1 person and causes damage]]></title>
-<link>https://apnews.com/article/syria-explosion-mazzeh-damascus-fd4eb682c769cc3eabeae1c8340524e9</link>
-<pubDate>Fri, 14 Nov 2025 21:57:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,6 +446,12 @@
 <title><![CDATA[Fears over migration and crime push Chile’s presidential race to the right]]></title>
 <link>https://apnews.com/article/chile-election-immigration-conservatives-right-96226f5e4b94779e97e6d079813c46f3</link>
 <pubDate>Fri, 14 Nov 2025 17:08:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
+<link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
+<pubDate>Wed, 12 Nov 2025 06:16:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
