@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 05:38:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 06:14:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers torch a mosque and scrawl hateful messages despite official condemnation]]></title>
 <link>https://apnews.com/article/israel-settlers-radical-west-bank-netanyahu-herzog-46127028ea1c06cf7cb57a81816b3ded</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Israel’s longest war is leaving a trail of traumatized soldiers, with suicides also on the rise]]></title>
 <link>https://apnews.com/article/israel-soldiers-mental-health-suicide-gaza-war-d4f3b7a26c9ce0bce861c090afb101ea</link>
 <pubDate>Fri, 14 Nov 2025 14:19:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian drone and missile attack on Kyiv kills 6 people and injures at least 35]]></title>
+<link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
+<pubDate>Sat, 15 Nov 2025 05:43:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Poland’s new president nods to the far right in his first 100 days]]></title>
-<link>https://apnews.com/article/poland-president-nawrocki-far-right-100-days-69fcffbd0e93becaf4323e5c324ac0ae</link>
-<pubDate>Fri, 14 Nov 2025 07:06:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fresh off commissioning new aircraft carrier, China starts sea trials of amphibious assault ship]]></title>
 <link>https://apnews.com/article/china-amphibious-assault-ship-carrier-navy-sichuan-523451ce91a7b7d730cf8412407a8ed1</link>
 <pubDate>Fri, 14 Nov 2025 13:49:32 -0000</pubDate>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German Baumkuchen ‘tree cake’ survived a disaster and world wars to become a Japanese favorite]]></title>
-<link>https://apnews.com/article/japan-germany-juchheim-baumkuchen-cake-ninoshima-hiroshima-20fd5232225c07a04eb950813abfdbc1</link>
-<pubDate>Sat, 15 Nov 2025 04:42:02 -0000</pubDate>
+<title><![CDATA[At least 8 killed in huge blast at a police station in Indian-controlled Kashmir]]></title>
+<link>https://apnews.com/article/kashmir-india-police-blast-08270165746d64343cc4318eeebcbee1</link>
+<pubDate>Sat, 15 Nov 2025 05:28:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New prosecutor takes on the Georgia election case against Trump and others]]></title>
-<link>https://apnews.com/article/georgia-trump-election-indictment-fani-willis-b91064d57b2ea26f78e771618e5847a9</link>
-<pubDate>Fri, 14 Nov 2025 16:54:17 -0000</pubDate>
+<title><![CDATA[An uncommon program helps children displaced by flooding that devastated Alaska villages]]></title>
+<link>https://apnews.com/article/alaska-native-yupik-immersion-program-education-anchorage-f06695ea15f338898ee5b883e6a8086a</link>
+<pubDate>Sat, 15 Nov 2025 05:13:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump to welcome the Saudi crown prince with arrival ceremony, deal signings and lavish dinner]]></title>
-<link>https://apnews.com/article/donald-trump-mohammed-bin-salman-saudi-arabia-4722241c65e1792691d09f3680ca33fe</link>
-<pubDate>Fri, 14 Nov 2025 19:12:06 -0000</pubDate>
+<title><![CDATA[Future data centers are driving up forecasts for energy demand. States want proof they’ll get built]]></title>
+<link>https://apnews.com/article/artificial-intelligence-energy-texas-ohio-pennsylvania-ferc-data-centers-5061f62a504297b6c384ee513ac47928</link>
+<pubDate>Sat, 15 Nov 2025 04:58:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Naturalized US citizens thought they were safe. Trump’s immigration policies are shaking that belief]]></title>
+<link>https://apnews.com/article/naturalized-citizens-immigration-fears-116b8bb3dd4444abf4bdcbc266bed48c</link>
+<pubDate>Sat, 15 Nov 2025 05:59:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[German Baumkuchen ‘tree cake’ survived a disaster and world wars to become a Japanese favorite]]></title>
+<link>https://apnews.com/article/japan-germany-juchheim-baumkuchen-cake-ninoshima-hiroshima-20fd5232225c07a04eb950813abfdbc1</link>
+<pubDate>Sat, 15 Nov 2025 05:44:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he ‘stopped a war’ by preserving a ceasefire between Cambodia and Thailand]]></title>
+<link>https://apnews.com/article/trump-war-cambodia-thailand-ceasefire-1d92ae7aa857d19ad025707cdf98637d</link>
+<pubDate>Sat, 15 Nov 2025 05:29:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Haitian police destroy helicopter, kill 7 in gang shootout]]></title>
 <link>https://apnews.com/article/haiti-police-helicopter-crash-gangs-b74d77a5097007a0fb51ed101501f2c7</link>
 <pubDate>Sat, 15 Nov 2025 00:42:29 -0000</pubDate>
@@ -203,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump to welcome the Saudi crown prince with arrival ceremony, deal signings and lavish dinner]]></title>
+<link>https://apnews.com/article/donald-trump-mohammed-bin-salman-saudi-arabia-4722241c65e1792691d09f3680ca33fe</link>
+<pubDate>Sat, 15 Nov 2025 04:56:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ethiopia confirms first Marburg outbreak as WHO lauds country’s fast action]]></title>
 <link>https://apnews.com/article/ethiopia-marburg-virus-who-20682503020fbf7f7c8c7bff491fe48f</link>
 <pubDate>Fri, 14 Nov 2025 18:25:03 -0000</pubDate>
@@ -218,6 +242,12 @@
 <title><![CDATA[Switzerland to boost US investment as deal struck to lower US tariffs on Swiss goods to 15%]]></title>
 <link>https://apnews.com/article/switzerland-us-tariffs-7e8ad830a5cea40d4a40d4a8b69ed0d5</link>
 <pubDate>Fri, 14 Nov 2025 17:07:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A bus crashes into a bus stop in Stockholm, killing 3 people and injuring 3]]></title>
+<link>https://apnews.com/article/sweden-deadly-bus-crash-stockholm-ac3ba221e0b16e1201ed7866770ecf51</link>
+<pubDate>Fri, 14 Nov 2025 20:16:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,33 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dune of Dreams: Baseball league in Dubai begins with novel rules and camels]]></title>
-<link>https://apnews.com/article/uae-baseball-united-opening-day-mideast-ce5d9d06374b9273666425fc414fe232</link>
-<pubDate>Fri, 14 Nov 2025 19:46:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Shohei Ohtani’s 4th MVP award sparks celebrations in Japan]]></title>
-<link>https://apnews.com/article/ohtani-japan-mvp-tokyo-04d1beb1333b5284bf48812d27629884</link>
-<pubDate>Fri, 14 Nov 2025 10:19:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[COP30 continues in Brazil and more top photos this week from the Caribbean and Latin America]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-61e447909bc57ca948bf1d6111e960b8</link>
-<pubDate>Fri, 14 Nov 2025 16:37:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Landslides in Indonesia’s Java island leave 3 dead and 20 missing]]></title>
-<link>https://apnews.com/article/indonesia-cilacap-java-island-landslide-f32bcb85c7881852cecad404f275e583</link>
-<pubDate>Fri, 14 Nov 2025 10:04:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration says it has trade frameworks with Argentina, Ecuador, El Salvador and Guatemala]]></title>
-<link>https://apnews.com/article/trump-tariffs-argentina-ecuador-el-salvador-guatemala-f3b389b49aaa046767544c4857b41a87</link>
-<pubDate>Thu, 13 Nov 2025 23:33:04 -0000</pubDate>
+<title><![CDATA[Poland’s new president nods to the far right in his first 100 days]]></title>
+<link>https://apnews.com/article/poland-president-nawrocki-far-right-100-days-69fcffbd0e93becaf4323e5c324ac0ae</link>
+<pubDate>Sat, 15 Nov 2025 05:14:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,27 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian drone and missile attack on Kyiv kills 6 people and injures at least 35]]></title>
-<link>https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18</link>
-<pubDate>Fri, 14 Nov 2025 13:20:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran seizes tanker in Strait of Hormuz, US official says, as tensions remain high in region]]></title>
 <link>https://apnews.com/article/iran-tanker-mideast-tensions-1762f491e9eb1912cb8b8bd9a1a634d8</link>
 <pubDate>Fri, 14 Nov 2025 10:39:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A bus crashes into a bus stop in Stockholm, killing 3 people and injuring 3]]></title>
-<link>https://apnews.com/article/sweden-deadly-bus-crash-stockholm-ac3ba221e0b16e1201ed7866770ecf51</link>
-<pubDate>Fri, 14 Nov 2025 23:02:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he ‘stopped a war’ by preserving a ceasefire between Cambodia and Thailand]]></title>
-<link>https://apnews.com/article/trump-war-cambodia-thailand-ceasefire-1d92ae7aa857d19ad025707cdf98637d</link>
-<pubDate>Sat, 15 Nov 2025 02:15:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
