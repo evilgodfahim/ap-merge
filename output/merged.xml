@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 08:41:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 09:10:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Jordan’s king and Indonesia’s leader hold talks on economic ties and Gaza]]></title>
 <link>https://apnews.com/article/indonesia-jordan-king-abdullah-visit-investment-danantara-c259b8b75f4724519d4505d410048bd9</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelenskyy says Ukraine is working on prisoner exchange with Russia]]></title>
+<link>https://apnews.com/article/ukraine-russia-prisoner-exchange-zelenskyy-istanbul-drones-b66ea7f9ad1ae4072861b732437b301a</link>
+<pubDate>Sun, 16 Nov 2025 09:10:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Once a shadowy dealmaker, former Zelenskyy associate is accused in Ukrainian corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-tymur-mindich-4b6940ca6521193fadfc263e4c6d51f4</link>
 <pubDate>Sun, 16 Nov 2025 06:45:53 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[A peek inside the Colonna Palace, Rome’s most exclusive tourist site]]></title>
 <link>https://apnews.com/article/rome-colonna-palace-palazzo-art-tourism-italy-14e6fed8dbd2a6fcb844bdd86ccbc251</link>
 <pubDate>Sun, 16 Nov 2025 06:30:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of the treasures in Rome’s exclusive Colonna Palace]]></title>
-<link>https://apnews.com/photo-gallery/rome-colonna-palace-art-tourism-italy-photos-b1794cb0b5de86ccaa0c904a93875ce2</link>
-<pubDate>Sun, 16 Nov 2025 07:59:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of the treasures in Rome’s exclusive Colonna Palace]]></title>
+<link>https://apnews.com/photo-gallery/rome-colonna-palace-art-tourism-italy-photos-b1794cb0b5de86ccaa0c904a93875ce2</link>
+<pubDate>Sun, 16 Nov 2025 09:05:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech Republic plans $19 billion nuclear expansion to double output and end fossil fuel reliance]]></title>
 <link>https://apnews.com/article/czech-nuclear-energy-expansion-cef8a1757ac1221cb9c258a312cf2683</link>
 <pubDate>Sun, 16 Nov 2025 08:04:48 -0000</pubDate>
@@ -257,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope returns 62 artifacts to Indigenous peoples from Canada as part of reckoning with colonial past]]></title>
+<link>https://apnews.com/article/vatican-canada-indigenous-artifacts-pope-37194143ef3b0d9648dda61e44d7065a</link>
+<pubDate>Sun, 16 Nov 2025 08:50:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Displaced Alaska Native children find familiarity in an uncommon program, in photos]]></title>
 <link>https://apnews.com/photo-gallery/alaska-native-yupik-education-anchorage-photo-6644389f8c93a9d62c8dcd86705f353e</link>
 <pubDate>Sat, 15 Nov 2025 09:07:37 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s top court backs putting Bolsonaro’s son on trial over obstruction charges]]></title>
-<link>https://apnews.com/article/brazil-jair-bolsonaro-son-eduardo-bolsonaro-indictment-78b851bc27040b04259008550f8b4594</link>
-<pubDate>Fri, 14 Nov 2025 20:31:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ethiopia confirms first Marburg outbreak as WHO lauds country’s fast action]]></title>
-<link>https://apnews.com/article/ethiopia-marburg-virus-who-20682503020fbf7f7c8c7bff491fe48f</link>
-<pubDate>Fri, 14 Nov 2025 18:25:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Finland’s president urges Europe to hold its nerve as he warns no ceasefire likely soon in Ukraine]]></title>
 <link>https://apnews.com/article/stubb-finland-trump-ukraine-putin-russia-europe-8bdbd76ed7c04b5ff6af8abafc7b837c</link>
 <pubDate>Sun, 16 Nov 2025 06:25:05 -0000</pubDate>
@@ -362,12 +362,6 @@
 <title><![CDATA[The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza]]></title>
 <link>https://apnews.com/article/palestinians-abbas-israel-gaza-strip-ffcff2f8e9e69ab6f9f8e850f3e75b53</link>
 <pubDate>Sat, 15 Nov 2025 07:39:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope returns 62 artifacts to Indigenous peoples from Canada as part of reckoning with colonial past]]></title>
-<link>https://apnews.com/article/vatican-canada-indigenous-artifacts-pope-37194143ef3b0d9648dda61e44d7065a</link>
-<pubDate>Sat, 15 Nov 2025 11:58:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
