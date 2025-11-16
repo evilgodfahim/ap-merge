@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 13:38:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 14:08:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran confirms seizure of oil tanker in the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-seizure-oil-tanker-2fcbcce29def8cd0a7fef7b1315d69b2</link>
+<pubDate>Sun, 16 Nov 2025 14:08:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Druze groups and Syrian forces exchange ceasefire violation claims as clashes in Sweida resume]]></title>
 <link>https://apnews.com/article/syrian-ceasefire-violation-clashes-sweida-e85c20d540d98a8c8e9c454cac730b8a</link>
 <pubDate>Sun, 16 Nov 2025 11:32:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jordan’s king and Indonesia’s leader hold talks on economic ties and Gaza]]></title>
-<link>https://apnews.com/article/indonesia-jordan-king-abdullah-visit-investment-danantara-c259b8b75f4724519d4505d410048bd9</link>
-<pubDate>Sat, 15 Nov 2025 18:01:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As nations push for more ambition at climate talks, chairman says they may get it]]></title>
+<link>https://apnews.com/article/climate-change-united-nations-cop30-belem-brazil-3fa18962a3ae82d53b7d373b0f123f6a</link>
+<pubDate>Sun, 16 Nov 2025 13:53:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In this Brazilian state, a new push to track cattle is key to slowing deforestation]]></title>
 <link>https://apnews.com/article/climate-change-cattle-tracking-deforestation-brazil-cop30-53aaa3a2e1bfc85acdabc3143aa18be3</link>
 <pubDate>Sun, 16 Nov 2025 12:38:44 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentum]]></title>
 <link>https://apnews.com/article/mexico-generation-z-protest-9b0a8b1461a1ec47cce696d25e04feb5</link>
 <pubDate>Sun, 16 Nov 2025 12:23:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A town in southern Haiti mourns its own as it staggers from Hurricane Melissa’s blow]]></title>
-<link>https://apnews.com/article/hurricane-melissa-haiti-petit-goave-killed-funeral-586600389b1491108efe3d670b58f36f</link>
-<pubDate>Sun, 16 Nov 2025 03:14:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[MAGA rift grows as Trump feuds with Greene before key 2026 midterm elections]]></title>
-<link>https://apnews.com/article/trump-marjorie-taylor-greene-republicans-maga-feud-f4b0dffe06440dfed16d336d08a05422</link>
-<pubDate>Sat, 15 Nov 2025 21:05:40 -0000</pubDate>
+<title><![CDATA[US students studying housing, health outcomes and sustainability win 2026 Rhodes scholarships]]></title>
+<link>https://apnews.com/article/rhodes-scholars-yale-harvard-mit-oxford-military-2dc91143872c714c5efeee3741cf450f</link>
+<pubDate>Sun, 16 Nov 2025 13:38:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Homeland Security agents surge into North Carolina’s largest city. Here’s what to know]]></title>
-<link>https://apnews.com/article/border-patrol-immigration-charlotte-north-carolina-7964f6b76a6718ff52865f2c5b92351e</link>
-<pubDate>Sun, 16 Nov 2025 04:16:42 -0000</pubDate>
+<title><![CDATA[South Carolina looks at most restrictive abortion bill in the US as opponents keep pushing limits]]></title>
+<link>https://apnews.com/article/abortion-strict-restrictions-south-carolina-bill-9032d596637c4d44fe65ced069851cc3</link>
+<pubDate>Sun, 16 Nov 2025 13:23:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +206,12 @@
 <title><![CDATA[Suspected Haitian gang members exchange fire with Marines protecting US Embassy in Port-au-Prince]]></title>
 <link>https://apnews.com/article/haiti-embassy-attack-gangs-7c3b602a5ea0b1211a8e5c29c9096e7d</link>
 <pubDate>Sat, 15 Nov 2025 23:48:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A town in southern Haiti mourns its own as it staggers from Hurricane Melissa’s blow]]></title>
+<link>https://apnews.com/article/hurricane-melissa-haiti-petit-goave-killed-funeral-586600389b1491108efe3d670b58f36f</link>
+<pubDate>Sun, 16 Nov 2025 12:37:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +404,6 @@
 <title><![CDATA[South Africa investigates mystery of a plane that arrived with more than 150 Palestinians from Gaza]]></title>
 <link>https://apnews.com/article/palestinians-israel-gaza-refugee-asyslum-south-africa-7d5dcbacae38e3564f77e0576a9eaaa1</link>
 <pubDate>Sat, 15 Nov 2025 13:38:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran confirms seizure of oil tanker in the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-seizure-oil-tanker-2fcbcce29def8cd0a7fef7b1315d69b2</link>
-<pubDate>Sat, 15 Nov 2025 11:43:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
