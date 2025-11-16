@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 15:34:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 16:11:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran confirms seizure of oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-2fcbcce29def8cd0a7fef7b1315d69b2</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A peek inside the Colonna Palace, Rome’s most exclusive tourist site]]></title>
-<link>https://apnews.com/article/rome-colonna-palace-palazzo-art-tourism-italy-14e6fed8dbd2a6fcb844bdd86ccbc251</link>
-<pubDate>Sun, 16 Nov 2025 06:30:53 -0000</pubDate>
+<title><![CDATA[UK government poised to overhaul its asylum system as a political storm brews over migration]]></title>
+<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-d680b1749238b336dc7b8c5063bf904f</link>
+<pubDate>Sun, 16 Nov 2025 16:11:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
+<link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
+<pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
-<pubDate>Sat, 15 Nov 2025 13:42:05 -0000</pubDate>
+<title><![CDATA[Aircraft carrier arrives in the Caribbean in major buildup near Venezuela]]></title>
+<link>https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9</link>
+<pubDate>Sun, 16 Nov 2025 15:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[In this Brazilian state, a new push to track cattle is key to slowing deforestation]]></title>
 <link>https://apnews.com/article/climate-change-cattle-tracking-deforestation-brazil-cop30-53aaa3a2e1bfc85acdabc3143aa18be3</link>
 <pubDate>Sun, 16 Nov 2025 12:38:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentum]]></title>
-<link>https://apnews.com/article/mexico-generation-z-protest-9b0a8b1461a1ec47cce696d25e04feb5</link>
-<pubDate>Sun, 16 Nov 2025 12:23:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[USDA data casts doubt on China’s soybean purchase promises touted by Trump]]></title>
+<link>https://apnews.com/article/china-trump-xi-soybean-farmers-brazil-72ded79cdd71ce61e93337b8984e6f69</link>
+<pubDate>Sun, 16 Nov 2025 15:26:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s Xi and Thai King Vajiralongkorn pledge closer ties during landmark visit]]></title>
 <link>https://apnews.com/article/thailand-china-xi-vajiralongkorn-visit-476ec25ad9887f4e329b97825c76ac30</link>
 <pubDate>Fri, 14 Nov 2025 08:54:54 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Chinese astronauts return from space station after delay blamed on space debris damage]]></title>
 <link>https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761</link>
 <pubDate>Sat, 15 Nov 2025 13:27:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US proposal at the UN for Gaza stabilization force faces concerns from Russia, China and Arabs]]></title>
-<link>https://apnews.com/article/gaza-ceasefire-stabilization-force-united-nations-f8a0088cae56fc79226f0352ebcbb065</link>
-<pubDate>Fri, 14 Nov 2025 23:18:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A peek inside the Colonna Palace, Rome’s most exclusive tourist site]]></title>
+<link>https://apnews.com/article/rome-colonna-palace-palazzo-art-tourism-italy-14e6fed8dbd2a6fcb844bdd86ccbc251</link>
+<pubDate>Sun, 16 Nov 2025 16:11:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech Republic plans $19 billion nuclear expansion to double output and end fossil fuel reliance]]></title>
 <link>https://apnews.com/article/czech-nuclear-energy-expansion-cef8a1757ac1221cb9c258a312cf2683</link>
 <pubDate>Sun, 16 Nov 2025 08:04:48 -0000</pubDate>
@@ -224,6 +230,12 @@
 <title><![CDATA[Lula’s former human rights minister formally accused of sexual misconduct]]></title>
 <link>https://apnews.com/article/brazil-sexual-misconduct-lula-silvio-almeida-562a731df4b9977208da35386d67ec51</link>
 <pubDate>Sun, 16 Nov 2025 02:56:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentum]]></title>
+<link>https://apnews.com/article/mexico-generation-z-protest-9b0a8b1461a1ec47cce696d25e04feb5</link>
+<pubDate>Sat, 15 Nov 2025 22:45:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Haitian police destroy helicopter, kill 7 in gang shootout]]></title>
-<link>https://apnews.com/article/haiti-police-helicopter-crash-gangs-b74d77a5097007a0fb51ed101501f2c7</link>
-<pubDate>Sat, 15 Nov 2025 00:42:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US presses for approval of UN resolution on Gaza as Russia offers rival proposal]]></title>
-<link>https://apnews.com/article/gaza-ceasefire-un-trump-russia-e701750e61968110b873e90372b9f2e7</link>
-<pubDate>Fri, 14 Nov 2025 23:38:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s foreign minister says the nation is no longer enriching uranium at any site in the country]]></title>
 <link>https://apnews.com/article/iran-nuclear-enrichment-c0079c38746a896e2967a9a9cc2799d5</link>
 <pubDate>Sun, 16 Nov 2025 11:32:13 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu insists on no Palestinian state ahead of UN vote]]></title>
+<title><![CDATA[Israeli leader insists there can be no Palestinian state, ahead of UN vote leaving that door open]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
-<pubDate>Sun, 16 Nov 2025 14:40:28 -0000</pubDate>
+<pubDate>Sun, 16 Nov 2025 16:11:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[USDA data casts doubt on China’s soybean purchase promises touted by Trump]]></title>
-<link>https://apnews.com/article/china-trump-xi-soybean-farmers-brazil-72ded79cdd71ce61e93337b8984e6f69</link>
-<pubDate>Sat, 15 Nov 2025 00:06:20 -0000</pubDate>
+<title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
+<link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
+<pubDate>Sun, 16 Nov 2025 15:56:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
