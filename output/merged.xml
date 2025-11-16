@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 14:36:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 15:09:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran confirms seizure of oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-2fcbcce29def8cd0a7fef7b1315d69b2</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Samsung and other South Korean firms pledge larger domestic investments after US tariff deal]]></title>
+<link>https://apnews.com/article/south-korea-samsung-investment-tariffs-bc743b84babd293a207e42337445e2c5</link>
+<pubDate>Sun, 16 Nov 2025 15:09:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[At least 9 killed and 32 injured in an explosion at an Indian-controlled Kashmir police station]]></title>
 <link>https://apnews.com/article/kashmir-india-police-blast-08270165746d64343cc4318eeebcbee1</link>
 <pubDate>Sat, 15 Nov 2025 10:37:47 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
 <pubDate>Sat, 15 Nov 2025 13:42:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[SS Rajamouli unveils time-travel adventure film ‘Varanasi,’ with elements of Hindu mythology]]></title>
-<link>https://apnews.com/article/rajamouli-varanasi-movie-tollywood-17b96848fbd8a5551ca7066d75c227af</link>
-<pubDate>Sat, 15 Nov 2025 20:04:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump, like Biden before him, finds there’s no quick fix on inflation]]></title>
-<link>https://apnews.com/article/trump-biden-high-prices-inflation-angry-voters-e6e65165deaf9dfc8dbb986f43b1a61a</link>
-<pubDate>Sat, 15 Nov 2025 15:44:32 -0000</pubDate>
+<title><![CDATA[Trump’s Republican Party insists there’s no affordability crisis and dismisses election losses]]></title>
+<link>https://apnews.com/article/trump-economy-midterms-republicans-affordability-election-losses-0e15f928cdbb01eee41eadfb477cb981</link>
+<pubDate>Sun, 16 Nov 2025 14:54:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[SS Rajamouli unveils time-travel adventure film ‘Varanasi,’ with elements of Hindu mythology]]></title>
+<link>https://apnews.com/article/rajamouli-varanasi-movie-tollywood-17b96848fbd8a5551ca7066d75c227af</link>
+<pubDate>Sat, 15 Nov 2025 20:04:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
@@ -161,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeal successful: India’s Sumit Nagal gets Chinese visa for Grand Slam tennis qualifier]]></title>
-<link>https://apnews.com/article/india-china-tennis-sumit-nagal-a91bee21c28b42ab0bf5ff7baa436299</link>
-<pubDate>Fri, 14 Nov 2025 03:47:45 -0000</pubDate>
+<title><![CDATA[Holocaust survivors group urges German auction house to halt sale of artifacts]]></title>
+<link>https://apnews.com/article/holocaust-auschwitz-auction-felzmann-germany-9f127f2235ca000b62aa566c9cc35059</link>
+<pubDate>Sun, 16 Nov 2025 15:09:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arizona fugitive convicted in US sex crimes case arrested in France after years on the run]]></title>
-<link>https://apnews.com/article/american-fugitive-france-arizona-a1d1485e2124686472a65d9d79085969</link>
-<pubDate>Fri, 14 Nov 2025 23:23:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s foreign minister says the nation is no longer enriching uranium at any site in the country]]></title>
 <link>https://apnews.com/article/iran-nuclear-enrichment-c0079c38746a896e2967a9a9cc2799d5</link>
 <pubDate>Sun, 16 Nov 2025 11:32:13 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
-<pubDate>Sun, 16 Nov 2025 13:37:47 -0000</pubDate>
+<title><![CDATA[Netanyahu insists on no Palestinian state ahead of UN vote]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
+<pubDate>Sun, 16 Nov 2025 14:40:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[First strong winter rains soak Gaza’s makeshift shelters]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-palestinians-hostages-news-11-15-2025-dc960607780de14a0abca4bd9593e391</link>
-<pubDate>Sat, 15 Nov 2025 17:24:24 -0000</pubDate>
+<title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
+<pubDate>Sun, 16 Nov 2025 13:37:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -386,6 +386,12 @@
 <title><![CDATA[Dapper French teen behind Louvre heist ‘Fedora Man’ photo embraces his mystery moment]]></title>
 <link>https://apnews.com/video/dapper-french-teen-behind-louvre-heist-fedora-man-photo-embraces-his-mystery-moment-6fc38ce886574ff1aad6757308a1f8b6</link>
 <pubDate>Sun, 09 Nov 2025 09:24:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza]]></title>
+<link>https://apnews.com/article/palestinians-abbas-israel-gaza-strip-ffcff2f8e9e69ab6f9f8e850f3e75b53</link>
+<pubDate>Sat, 15 Nov 2025 07:39:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
