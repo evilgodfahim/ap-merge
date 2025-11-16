@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 18:13:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 18:43:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Africa investigates mystery of a plane that arrived with more than 150 Palestinians from Gaza]]></title>
 <link>https://apnews.com/article/palestinians-israel-gaza-refugee-asyslum-south-africa-7d5dcbacae38e3564f77e0576a9eaaa1</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Aircraft carrier arrives in the Caribbean in major buildup near Venezuela]]></title>
-<link>https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9</link>
-<pubDate>Sun, 16 Nov 2025 15:41:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[As nations push for more ambition at climate talks, chairman says they may get it]]></title>
 <link>https://apnews.com/article/climate-change-united-nations-cop30-belem-brazil-3fa18962a3ae82d53b7d373b0f123f6a</link>
 <pubDate>Sun, 16 Nov 2025 13:53:34 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[In this Brazilian state, a new push to track cattle is key to slowing deforestation]]></title>
 <link>https://apnews.com/article/climate-change-cattle-tracking-deforestation-brazil-cop30-53aaa3a2e1bfc85acdabc3143aa18be3</link>
 <pubDate>Sun, 16 Nov 2025 12:38:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentum]]></title>
+<link>https://apnews.com/article/mexico-generation-z-protest-9b0a8b1461a1ec47cce696d25e04feb5</link>
+<pubDate>Sun, 16 Nov 2025 12:23:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Immigration enforcement surge begins in Charlotte, North Carolina, officials confirm]]></title>
-<link>https://apnews.com/article/north-carolina-charlotte-immigration-federal-33e2339744cd3b2fa3999099c509f90a</link>
-<pubDate>Sun, 16 Nov 2025 12:08:44 -0000</pubDate>
+<title><![CDATA[Immigration crackdown inspires uniquely Chicago pushback that’s now a model for other cities]]></title>
+<link>https://apnews.com/article/chicago-immigration-protest-arrests-agent-police-whistles-df72b2ba4e57befc085d692d227363b8</link>
+<pubDate>Sun, 16 Nov 2025 18:41:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Bumrah shines as India skittles South Africa for 159 on Day 1 of Kolkata test]]></title>
 <link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
 <pubDate>Fri, 14 Nov 2025 13:19:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ecuadorian drug gang leader captured in Spain years after faking his death]]></title>
+<link>https://apnews.com/article/ecuador-gang-leader-captured-chavarria-55716eea001e522adbd72bbb4ebe09b1</link>
+<pubDate>Sun, 16 Nov 2025 18:43:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Search ends for crew member who fell overboard from UK Royal Fleet Auxiliary tanker]]></title>
+<link>https://apnews.com/article/royal-fleet-auxiliary-sailor-overboard-ireland-uk-f5a4c8b2fbe8c246513f88c397e1d186</link>
+<pubDate>Sun, 16 Nov 2025 18:28:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Naturalized US citizens thought they were safe. Trump’s immigration policies are shaking that belief]]></title>
-<link>https://apnews.com/article/naturalized-citizens-immigration-fears-116b8bb3dd4444abf4bdcbc266bed48c</link>
-<pubDate>Sat, 15 Nov 2025 05:59:02 -0000</pubDate>
+<title><![CDATA[Israeli leader insists there can be no Palestinian state, ahead of UN vote leaving that door open]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
+<pubDate>Sun, 16 Nov 2025 16:11:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German Baumkuchen ‘tree cake’ survived a disaster and world wars to become a Japanese favorite]]></title>
-<link>https://apnews.com/article/japan-germany-juchheim-baumkuchen-cake-ninoshima-hiroshima-20fd5232225c07a04eb950813abfdbc1</link>
-<pubDate>Sat, 15 Nov 2025 05:44:02 -0000</pubDate>
+<title><![CDATA[Chile votes in a presidential poll pitting a communist against the far right]]></title>
+<link>https://apnews.com/article/chile-elections-kast-kaiser-jara-boric-migration-86be2d5930cdcefec7248e2b450ca0f8</link>
+<pubDate>Sun, 16 Nov 2025 11:02:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
+<pubDate>Sun, 16 Nov 2025 13:37:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -356,18 +374,6 @@
 <title><![CDATA[Finland’s president urges Europe to hold its nerve as he warns no ceasefire likely soon in Ukraine]]></title>
 <link>https://apnews.com/article/stubb-finland-trump-ukraine-putin-russia-europe-8bdbd76ed7c04b5ff6af8abafc7b837c</link>
 <pubDate>Sun, 16 Nov 2025 06:25:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli leader insists there can be no Palestinian state, ahead of UN vote leaving that door open]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
-<pubDate>Sun, 16 Nov 2025 16:11:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
-<pubDate>Sun, 16 Nov 2025 13:37:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chile votes in a presidential poll pitting a communist against the far right]]></title>
-<link>https://apnews.com/article/chile-elections-kast-kaiser-jara-boric-migration-86be2d5930cdcefec7248e2b450ca0f8</link>
-<pubDate>Sun, 16 Nov 2025 11:02:13 -0000</pubDate>
+<title><![CDATA[US aircraft carrier arrives in the Caribbean in major buildup near Venezuela]]></title>
+<link>https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9</link>
+<pubDate>Sun, 16 Nov 2025 18:35:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Immigration crackdown inspires uniquely Chicago pushback that’s now a model for other cities]]></title>
-<link>https://apnews.com/article/chicago-immigration-protest-arrests-agent-police-whistles-df72b2ba4e57befc085d692d227363b8</link>
-<pubDate>Sun, 16 Nov 2025 13:22:47 -0000</pubDate>
+<title><![CDATA[Border Patrol commander touts dozens of North Carolina arrests leaving residents ‘overwhelmed’]]></title>
+<link>https://apnews.com/article/immigration-arrests-federal-agents-trump-0e143aa0161c998997e33fc1f52656d9</link>
+<pubDate>Sun, 16 Nov 2025 18:20:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
