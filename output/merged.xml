@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 19:32:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 20:12:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Netanyahu vows to oppose any attempt to establish a Palestinian state ahead of a UN vote on Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
 <pubDate>Mon, 17 Nov 2025 14:42:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK asylum reforms spark backlash within Labour Party, support from rivals]]></title>
+<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-cfab08ca50b137c9a7d87a4f015d3f56</link>
+<pubDate>Mon, 17 Nov 2025 19:59:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -20,12 +26,6 @@
 <title><![CDATA[The German government says it’s lifting restrictions on exports of military equipment to Israel]]></title>
 <link>https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78</link>
 <pubDate>Mon, 17 Nov 2025 11:35:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Election campaign in Hungary heats up as Orbán challenger Péter Magyar gains rural support]]></title>
-<link>https://apnews.com/article/hungary-orban-election-campaign-challenger-1da1467e8e57e5049fbdb57b32f9dc62</link>
-<pubDate>Mon, 17 Nov 2025 10:02:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,27 +83,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds of National Guard troops deployed to Portland and Chicago are being sent home]]></title>
+<link>https://apnews.com/article/national-guard-portland-chicago-los-angeles-cd6e585615422461d7088b8ed04bb974</link>
+<pubDate>Mon, 17 Nov 2025 19:44:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Homeland Security agents make arrest dozens in North Carolina’s largest city. Here’s what to know]]></title>
+<link>https://apnews.com/article/charlotte-north-carolina-immigration-arrests-trump-1b8443ff94e8d79573a15a42257689f7</link>
+<pubDate>Mon, 17 Nov 2025 19:29:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indiana homeowner charged in fatal shooting of house cleaner who showed up at the wrong door]]></title>
+<link>https://apnews.com/article/house-cleaner-shot-indiana-homeowner-charges-9c268f962710cd442298a2f72eb764e0</link>
+<pubDate>Mon, 17 Nov 2025 19:14:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tribal college leaders are uneasy about US financial commitments despite a funding increase]]></title>
 <link>https://apnews.com/article/government-shutdown-tribal-colleges-funding-cuts-28045034bd3d1bc5a1dda84f0c4bdf2b</link>
 <pubDate>Mon, 17 Nov 2025 14:12:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[One issue is uniting Americans in a time of polarization, according to a new poll]]></title>
-<link>https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c</link>
-<pubDate>Mon, 17 Nov 2025 13:57:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Immigrant student enrollment is dwindling at schools across the US amid immigration crackdowns]]></title>
-<link>https://apnews.com/article/immigrant-student-enrollment-trump-82faaaec6d9246e24a09cbc837bedb67</link>
-<pubDate>Mon, 17 Nov 2025 15:19:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man charged with killing 4 in rural Tennessee to make first court appearance since indictment]]></title>
-<link>https://apnews.com/article/four-killed-tennessee-abandoned-baby-5c4bfee4397f3804b8dc408784879847</link>
-<pubDate>Mon, 17 Nov 2025 18:55:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -152,6 +152,12 @@
 <title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
 <link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
 <pubDate>Sat, 15 Nov 2025 05:59:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Slovaks protest populist leader Fico on anniversary of Velvet Revolution]]></title>
+<link>https://apnews.com/article/slovakia-fico-protests-velvet-revolution-russia-d863adf788277b111b90676914f4efd3</link>
+<pubDate>Mon, 17 Nov 2025 19:50:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +251,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Election campaign in Hungary heats up as Orbán challenger Péter Magyar gains rural support]]></title>
+<link>https://apnews.com/article/hungary-orban-election-campaign-challenger-1da1467e8e57e5049fbdb57b32f9dc62</link>
+<pubDate>Mon, 17 Nov 2025 19:35:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-november-16-2025-7f43117dffc80548dedaea0657036492</link>
 <pubDate>Mon, 17 Nov 2025 02:27:55 -0000</pubDate>
@@ -323,18 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
-<pubDate>Mon, 17 Nov 2025 18:32:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In this Brazilian state, a new push to track cattle is key to slowing deforestation]]></title>
-<link>https://apnews.com/article/climate-change-cattle-tracking-deforestation-brazil-cop30-53aaa3a2e1bfc85acdabc3143aa18be3</link>
-<pubDate>Mon, 17 Nov 2025 09:13:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Takeaways from AP’s report on a surge in Palestinian deaths in Israeli custody]]></title>
 <link>https://apnews.com/article/israel-prison-deaths-palestinians-6da95374213f35f6e6ef30802d970d1e</link>
 <pubDate>Mon, 17 Nov 2025 11:09:52 -0000</pubDate>
@@ -356,12 +356,6 @@
 <title><![CDATA[Supreme Court will review an old policy used to turn away asylum seekers at the US border]]></title>
 <link>https://apnews.com/article/supreme-court-asylum-mexico-trump-fd8a994df598731d1647c9df7f949959</link>
 <pubDate>Mon, 17 Nov 2025 18:32:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh’s ousted leader Sheikh Hasina sentenced to death for crackdown on student uprising]]></title>
-<link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
-<pubDate>Mon, 17 Nov 2025 16:15:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
