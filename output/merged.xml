@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 11:09:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 11:35:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Members of Syria’s security forces and military detained over sectarian violence in Sweida]]></title>
 <link>https://apnews.com/article/syria-sweida-druze-violence-sectarian-killings-10ee66c7fcb33b7291b137a2bdbeb57b</link>
 <pubDate>Mon, 17 Nov 2025 10:17:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The German government says it’s lifting restrictions on exports of military equipment to Israel]]></title>
+<link>https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78</link>
+<pubDate>Mon, 17 Nov 2025 11:35:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK government poised to overhaul its asylum system as a political storm brews over migration]]></title>
-<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-d680b1749238b336dc7b8c5063bf904f</link>
-<pubDate>Sun, 16 Nov 2025 16:11:11 -0000</pubDate>
+<title><![CDATA[Landslide strikes bus on mountain pass in Vietnam, killing 6, as heavy rain persists]]></title>
+<link>https://apnews.com/article/vietnam-landslide-weather-climate-dcb52de6b66cdb00bf9aa4a05ab6ba90</link>
+<pubDate>Mon, 17 Nov 2025 11:20:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Hundreds of thousands rally in Manila against flood-control corruption scandal]]></title>
 <link>https://apnews.com/article/philippines-flood-control-corruption-protests-d390012c4eb5c37fc906b4fdc53e14fb</link>
 <pubDate>Mon, 17 Nov 2025 06:06:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
-<link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
-<pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Immigration crackdown inspires uniquely Chicago pushback that’s now a model for other cities]]></title>
-<link>https://apnews.com/article/chicago-immigration-protest-arrests-agent-police-whistles-df72b2ba4e57befc085d692d227363b8</link>
-<pubDate>Sun, 16 Nov 2025 18:41:58 -0000</pubDate>
+<title><![CDATA[Off-duty pilot who tried to cut a flight’s engines midair to be sentenced in federal case]]></title>
+<link>https://apnews.com/article/pilot-mushrooms-alaska-airlines-horizon-air-flight-510e76580bbc658419e26f1c09c26136</link>
+<pubDate>Mon, 17 Nov 2025 11:05:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa beats India by 30 runs in first cricket test, leads two-match series 1-0]]></title>
+<link>https://apnews.com/article/india-south-africa-cricket-e02cc424d4b5e291be7904a83fe2bd9e</link>
+<pubDate>Mon, 17 Nov 2025 10:50:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
@@ -161,15 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeal successful: India’s Sumit Nagal gets Chinese visa for Grand Slam tennis qualifier]]></title>
-<link>https://apnews.com/article/india-china-tennis-sumit-nagal-a91bee21c28b42ab0bf5ff7baa436299</link>
-<pubDate>Fri, 14 Nov 2025 03:47:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Palestinian deaths in Israeli custody have surged. A prison guard describes rampant abuse]]></title>
-<link>https://apnews.com/article/middle-east-0000019a7a12df13a9fa7a174fb50000</link>
-<pubDate>Mon, 17 Nov 2025 10:13:01 -0000</pubDate>
+<link>https://apnews.com/article/israel-prison-deaths-palestinians-de4bf5ba8b06554af4498ccdf1e53b0f</link>
+<pubDate>Mon, 17 Nov 2025 11:35:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Many pilgrims believed to have been killed in Saudi bus accident, Indian officials say]]></title>
+<title><![CDATA[Dozens of Indian pilgrims killed in bus accident in Saudi Arabia, officials say]]></title>
 <link>https://apnews.com/article/india-saudi-bus-accident-casualties-7a196114925e6a8a49f776eae4b2eb7b</link>
-<pubDate>Mon, 17 Nov 2025 09:43:01 -0000</pubDate>
+<pubDate>Mon, 17 Nov 2025 11:20:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +230,12 @@
 <title><![CDATA[Ecuadorian voters reject proposals to host foreign military bases and rewrite the constitution]]></title>
 <link>https://apnews.com/article/ecuador-referendum-military-bases-d250526a60e5d638e946b83f1f8df6f7</link>
 <pubDate>Mon, 17 Nov 2025 07:23:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK government poised to overhaul its asylum system as a political storm brews over migration]]></title>
+<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-d680b1749238b336dc7b8c5063bf904f</link>
+<pubDate>Mon, 17 Nov 2025 11:05:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,12 +407,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The German government says it’s lifting restrictions on exports of military equipment to Israel]]></title>
-<link>https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78</link>
-<pubDate>Mon, 17 Nov 2025 09:22:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s foreign minister says the nation is no longer enriching uranium at any site in the country]]></title>
 <link>https://apnews.com/article/iran-nuclear-enrichment-c0079c38746a896e2967a9a9cc2799d5</link>
 <pubDate>Sun, 16 Nov 2025 11:32:13 -0000</pubDate>
@@ -443,12 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Landslide strikes bus on mountain pass in Vietnam, killing 6, as heavy rain persists]]></title>
-<link>https://apnews.com/article/vietnam-landslide-weather-climate-dcb52de6b66cdb00bf9aa4a05ab6ba90</link>
-<pubDate>Mon, 17 Nov 2025 04:57:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Chile’s hard-right holds the upper hand as presidential election goes to a tense runoff]]></title>
 <link>https://apnews.com/article/chile-elections-jose-antonio-kast-jara-gabriel-boric-trump-e09ac673bfa15364251a5d324b97dc41</link>
 <pubDate>Mon, 17 Nov 2025 07:37:21 -0000</pubDate>
@@ -470,12 +464,6 @@
 <title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
 <pubDate>Sun, 16 Nov 2025 15:56:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa beats India by 30 runs in first cricket test, leads two-match series 1-0]]></title>
-<link>https://apnews.com/article/india-south-africa-cricket-e02cc424d4b5e291be7904a83fe2bd9e</link>
-<pubDate>Sun, 16 Nov 2025 09:14:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
