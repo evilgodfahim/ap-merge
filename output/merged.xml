@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 14:11:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 14:42:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Netanyahu vows to oppose any attempt to establish a Palestinian state ahead of a UN vote on Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-west-bank-news-11-16-2025-197194a1016a848eeb30e8542b36072b</link>
+<pubDate>Mon, 17 Nov 2025 14:42:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
@@ -29,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea offers talks with North to prevent accidental armed clash at border]]></title>
-<link>https://apnews.com/article/north-south-korea-border-tensions-talks-6af983af56c925fba2e583a020f07dab</link>
-<pubDate>Mon, 17 Nov 2025 12:39:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Indonesian rescuers search for nearly three dozen people after landslides killed at least 18 people]]></title>
 <link>https://apnews.com/article/indonesia-landslides-central-java-rescue-operation-c08377f2102bcd125e84628cea3b5e12</link>
 <pubDate>Mon, 17 Nov 2025 13:27:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Landslide strikes bus on mountain pass in Vietnam, killing 6, as heavy rain persists]]></title>
+<title><![CDATA[Heavy rain triggers landslides and floods in central Vietnam, killing 7]]></title>
 <link>https://apnews.com/article/vietnam-landslide-weather-climate-dcb52de6b66cdb00bf9aa4a05ab6ba90</link>
-<pubDate>Mon, 17 Nov 2025 11:20:18 -0000</pubDate>
+<pubDate>Mon, 17 Nov 2025 14:27:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[SS Rajamouli unveils time-travel adventure film ‘Varanasi,’ with elements of Hindu mythology]]></title>
+<link>https://apnews.com/article/rajamouli-varanasi-movie-tollywood-17b96848fbd8a5551ca7066d75c227af</link>
+<pubDate>Sat, 15 Nov 2025 20:04:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[There’s an issue that people in big cities and rural areas agree on, according to a new poll]]></title>
+<title><![CDATA[Tribal college leaders are uneasy about US financial commitments despite a funding increase]]></title>
+<link>https://apnews.com/article/government-shutdown-tribal-colleges-funding-cuts-28045034bd3d1bc5a1dda84f0c4bdf2b</link>
+<pubDate>Mon, 17 Nov 2025 14:12:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[One issue is uniting Americans in a time of polarization, according to a new poll]]></title>
 <link>https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c</link>
-<pubDate>Mon, 17 Nov 2025 12:09:34 -0000</pubDate>
+<pubDate>Mon, 17 Nov 2025 13:57:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -104,12 +116,6 @@
 <title><![CDATA[Immigrant student enrollment is dwindling at schools across the US]]></title>
 <link>https://apnews.com/article/immigrant-student-enrollment-trump-82faaaec6d9246e24a09cbc837bedb67</link>
 <pubDate>Mon, 17 Nov 2025 05:03:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Foreign enrollment at US colleges holds steady, for now, despite Trump’s visa crackdown]]></title>
-<link>https://apnews.com/article/international-students-decrease-foreign-india-china-0f58c61b2e4efe46b4f2066abd24848d</link>
-<pubDate>Mon, 17 Nov 2025 04:48:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +149,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[SS Rajamouli unveils time-travel adventure film ‘Varanasi,’ with elements of Hindu mythology]]></title>
-<link>https://apnews.com/article/rajamouli-varanasi-movie-tollywood-17b96848fbd8a5551ca7066d75c227af</link>
-<pubDate>Sat, 15 Nov 2025 20:04:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
@@ -158,6 +158,12 @@
 <title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
 <link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
 <pubDate>Sat, 15 Nov 2025 05:59:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bumrah shines as India skittles South Africa for 159 on Day 1 of Kolkata test]]></title>
+<link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
+<pubDate>Fri, 14 Nov 2025 13:19:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
