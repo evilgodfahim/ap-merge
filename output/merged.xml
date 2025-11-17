@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 23:10:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 23:35:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
 <link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
@@ -158,6 +158,12 @@
 <title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
 <link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
 <pubDate>Sat, 15 Nov 2025 05:59:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lawsuit filed over 2 deaths in January air ambulance crash in Philadelphia]]></title>
+<link>https://apnews.com/article/philadelphia-plane-crash-mexico-med-jet-b1595c135f8eb322f45e6f57edad92fe</link>
+<pubDate>Mon, 17 Nov 2025 23:35:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,9 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK government poised to overhaul its asylum system as a political storm brews over migration]]></title>
-<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-d680b1749238b336dc7b8c5063bf904f</link>
-<pubDate>Mon, 17 Nov 2025 11:05:19 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV calls for urgent climate action and says God’s creation is ‘crying out’]]></title>
+<link>https://apnews.com/article/pope-climate-talk-video-climate-change-0b33de0843ee2fe7c19e13aeeb6e6d93</link>
+<pubDate>Mon, 17 Nov 2025 23:35:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN approves US plan authorizing an international stabilization force in Gaza]]></title>
+<title><![CDATA[UN approves the Trump administration plan for Gaza’s future]]></title>
 <link>https://apnews.com/article/united-nations-gaza-ceasefire-us-resolution-russia-107e44e276fe04a5365ff6d914545718</link>
-<pubDate>Mon, 17 Nov 2025 21:55:34 -0000</pubDate>
+<pubDate>Mon, 17 Nov 2025 23:20:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
