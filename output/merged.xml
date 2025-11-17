@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 12:21:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 13:05:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea offers talks with North to prevent accidental armed clash at border]]></title>
+<link>https://apnews.com/article/north-south-korea-border-tensions-talks-6af983af56c925fba2e583a020f07dab</link>
+<pubDate>Mon, 17 Nov 2025 12:39:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Landslide strikes bus on mountain pass in Vietnam, killing 6, as heavy rain persists]]></title>
 <link>https://apnews.com/article/vietnam-landslide-weather-climate-dcb52de6b66cdb00bf9aa4a05ab6ba90</link>
 <pubDate>Mon, 17 Nov 2025 11:20:18 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[SS Rajamouli unveils time-travel adventure film ‘Varanasi,’ with elements of Hindu mythology]]></title>
 <link>https://apnews.com/article/rajamouli-varanasi-movie-tollywood-17b96848fbd8a5551ca7066d75c227af</link>
 <pubDate>Sat, 15 Nov 2025 20:04:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds of thousands rally in Manila against flood-control corruption scandal]]></title>
-<link>https://apnews.com/article/philippines-flood-control-corruption-protests-d390012c4eb5c37fc906b4fdc53e14fb</link>
-<pubDate>Mon, 17 Nov 2025 06:06:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ICC prosecutors seek life sentence for Janjaweed leader convicted of Darfur crimes]]></title>
+<link>https://apnews.com/article/icc-court-darfur-sudan-sentence-2cbbbf029bc2cbe7535b8161bba5dd3b</link>
+<pubDate>Mon, 17 Nov 2025 12:24:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congo and M23 rebels sign framework for peace deal in latest bid to end decades-long conflict]]></title>
 <link>https://apnews.com/article/congo-m23-peace-framework-agreement-2fdafd8b1f12b55e6311d9619fa42884</link>
 <pubDate>Mon, 17 Nov 2025 05:51:15 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN human rights body holds session on Sudan after killings by paramilitary in Darfur]]></title>
-<link>https://apnews.com/article/sudan-human-rights-geneva-united-nations-68d005faa960841d2977b386ea0a259b</link>
-<pubDate>Fri, 14 Nov 2025 15:05:54 -0000</pubDate>
+<title><![CDATA[There’s an issue that people in big cities and rural areas agree on, according to a new poll]]></title>
+<link>https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c</link>
+<pubDate>Mon, 17 Nov 2025 12:09:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -110,12 +116,6 @@
 <title><![CDATA[Foreign enrollment at US colleges holds steady, for now, despite Trump’s visa crackdown]]></title>
 <link>https://apnews.com/article/international-students-decrease-foreign-india-china-0f58c61b2e4efe46b4f2066abd24848d</link>
 <pubDate>Mon, 17 Nov 2025 04:48:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Off-duty pilot who tried to cut a flight’s engines midair to be sentenced in federal case]]></title>
-<link>https://apnews.com/article/pilot-mushrooms-alaska-airlines-horizon-air-flight-510e76580bbc658419e26f1c09c26136</link>
-<pubDate>Mon, 17 Nov 2025 11:05:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Bumrah shines as India skittles South Africa for 159 on Day 1 of Kolkata test]]></title>
 <link>https://apnews.com/article/cricket-south-africa-india-test-a7db818500c76677419dc26a6dfacf1b</link>
 <pubDate>Fri, 14 Nov 2025 13:19:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gunmen abduct 25 girls from a high school in Nigeria and kill one of the staff]]></title>
+<link>https://apnews.com/article/nigeria-girls-abducted-school-9d288758bf1a57f3390c962f0a68596b</link>
+<pubDate>Mon, 17 Nov 2025 13:05:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Olympic gold-medalist Rowdy Gaines has tips for older swimmers, or if you’re returning to the pool]]></title>
+<link>https://apnews.com/article/swim-tips-rowdy-gaines-olympics-c01a6fe207e7afea131b97993e87fe3c</link>
+<pubDate>Mon, 17 Nov 2025 12:50:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds of thousands rally in Manila against flood-control corruption scandal]]></title>
+<link>https://apnews.com/article/philippines-flood-control-corruption-protests-d390012c4eb5c37fc906b4fdc53e14fb</link>
+<pubDate>Mon, 17 Nov 2025 12:35:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech Republic plans $19 billion nuclear expansion to double output and end fossil fuel reliance]]></title>
 <link>https://apnews.com/article/czech-nuclear-energy-expansion-cef8a1757ac1221cb9c258a312cf2683</link>
 <pubDate>Sun, 16 Nov 2025 08:04:48 -0000</pubDate>
@@ -326,24 +344,6 @@
 <title><![CDATA[Colombian officials say 7 children were killed in an airstrike against a rebel group this week]]></title>
 <link>https://apnews.com/article/colombia-bombing-children-153536dcf040b3d009f534b5b6614f7d</link>
 <pubDate>Sat, 15 Nov 2025 22:30:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After Assad’s fall, Syrians and EU officials hold rare meeting in Damascus]]></title>
-<link>https://apnews.com/article/syria-eu-civil-society-conference-damascus-32573da8f01ec1fdba7cf455afd7eb76</link>
-<pubDate>Mon, 17 Nov 2025 08:58:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[British ship crew member missing off Ireland’s northwest coast]]></title>
-<link>https://apnews.com/article/crew-overboard-uk-royal-fleet-auxiliary-ireland-09606a875b3b22249d9e3d645c86117d</link>
-<pubDate>Sat, 15 Nov 2025 17:31:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Driver in Sweden released after questioning over crash into Stockholm bus stop that killed 3]]></title>
-<link>https://apnews.com/article/sweden-deadly-bus-crash-stockholm-a4b79ecbb853051c45244d0c0d3e6014</link>
-<pubDate>Sat, 15 Nov 2025 16:27:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +440,6 @@
 <title><![CDATA[A slowing wartime economy pushes the Kremlin to tap consumers for revenue]]></title>
 <link>https://apnews.com/article/russia-economy-war-putin-vat-tax-e561969931082a65741f0161dfd946fa</link>
 <pubDate>Mon, 17 Nov 2025 05:12:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea offers talks with North to prevent accidental armed clash at border]]></title>
-<link>https://apnews.com/article/north-south-korea-border-tensions-talks-6af983af56c925fba2e583a020f07dab</link>
-<pubDate>Mon, 17 Nov 2025 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
