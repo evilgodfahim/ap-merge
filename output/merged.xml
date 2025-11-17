@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Nov 2025 11:35:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 12:21:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f</link>
@@ -359,6 +359,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine signs a letter of intent to buy up to 100 Rafale warplanes from France]]></title>
+<link>https://apnews.com/article/france-ukraine-warplanes-rafale-1ac56c0377a9d40fd28462df1b1acd63</link>
+<pubDate>Mon, 17 Nov 2025 10:09:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bangladesh tribunal sentences ousted leader Sheikh Hasina to death for crimes against humanity]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
 <pubDate>Mon, 17 Nov 2025 10:07:17 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
 <pubDate>Mon, 17 Nov 2025 04:44:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea offers talks with North to prevent accidental armed clash at border]]></title>
-<link>https://apnews.com/article/north-south-korea-border-tensions-talks-6af983af56c925fba2e583a020f07dab</link>
-<pubDate>Mon, 17 Nov 2025 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Emirates announces order of 65 Boeing 777-9s with list price of $38 billion at Dubai Air Show]]></title>
+<title><![CDATA[Emirates announces an order of 65 Boeing 777-9s with list price of $38 billion at Dubai Air Show]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-emirates-flydubai-ca30a6ba8d90dee5b2cf4ba1c3fd43db</link>
-<pubDate>Mon, 17 Nov 2025 09:37:17 -0000</pubDate>
+<pubDate>Mon, 17 Nov 2025 12:21:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,6 +425,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[New analysis shows more US consumers are falling behind on their utility bills]]></title>
+<link>https://apnews.com/article/trump-inflation-utility-bills-16cf846b44369b5b9660238be7112a4d</link>
+<pubDate>Mon, 17 Nov 2025 12:06:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Samsung and other South Korean firms pledge larger domestic investments after US tariff deal]]></title>
 <link>https://apnews.com/article/south-korea-samsung-investment-tariffs-bc743b84babd293a207e42337445e2c5</link>
 <pubDate>Mon, 17 Nov 2025 05:27:26 -0000</pubDate>
@@ -437,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine signs a letter of intent to buy up to 100 Rafale warplanes from France]]></title>
-<link>https://apnews.com/article/france-ukraine-warplanes-rafale-1ac56c0377a9d40fd28462df1b1acd63</link>
-<pubDate>Mon, 17 Nov 2025 10:09:52 -0000</pubDate>
+<title><![CDATA[South Korea offers talks with North to prevent accidental armed clash at border]]></title>
+<link>https://apnews.com/article/north-south-korea-border-tensions-talks-6af983af56c925fba2e583a020f07dab</link>
+<pubDate>Mon, 17 Nov 2025 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,6 +470,12 @@
 <title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
 <pubDate>Sun, 16 Nov 2025 15:56:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
+<link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
+<pubDate>Mon, 17 Nov 2025 11:51:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
