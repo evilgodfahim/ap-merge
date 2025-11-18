@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 17:11:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 17:39:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
 <link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[MacArthur Foundation awards $100M to outbreak surveillance network, a boost amid global health cuts]]></title>
+<link>https://apnews.com/article/macarthur-foundation-pandemic-prevention-c9b51121ffc5a0968cb4675cff05ad56</link>
+<pubDate>Tue, 18 Nov 2025 17:39:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Microsoft partners with Anthropic and Nvidia in cloud infrastructure deal]]></title>
 <link>https://apnews.com/article/microsoft-ignite-anthropic-nvidia-a3e4d6ba75f475eb130d91c81e522f93</link>
 <pubDate>Tue, 18 Nov 2025 16:14:31 -0000</pubDate>
@@ -317,9 +323,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Homeland Security agents arrest dozens in North Carolina’s largest city. Here’s what to know]]></title>
+<title><![CDATA[Homeland Security is likely to expand immigration arrests in North Carolina. Here’s what to know]]></title>
 <link>https://apnews.com/article/charlotte-north-carolina-immigration-arrests-trump-1b8443ff94e8d79573a15a42257689f7</link>
-<pubDate>Tue, 18 Nov 2025 03:14:58 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 17:24:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Louvre Museum closes offices and a gallery over structural fragility concerns]]></title>
 <link>https://apnews.com/article/france-louvre-offices-closed-0018a6218978ad1812a9eea2a6e4ba71</link>
 <pubDate>Mon, 17 Nov 2025 17:39:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about abductions of schoolchildren in Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
-<pubDate>Tue, 18 Nov 2025 13:25:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A global sell-off for stocks whips back around to Wall Street as Nvidia and other stars keep falling]]></title>
+<title><![CDATA[Wall Street drops again as Nvidia, bitcoin and other stars keep swinging]]></title>
 <link>https://apnews.com/article/stock-markets-nvidia-rates-ai-trump-31160bebd7ab48cdb8e26aa0ad9a3dc8</link>
-<pubDate>Tue, 18 Nov 2025 15:44:32 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 17:23:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge approves opioid settlement for Purdue Pharma and Sackler family members who own the company]]></title>
+<title><![CDATA[Here’s what’s in the opioid settlement against OxyContin maker Purdue and the Sackler family]]></title>
 <link>https://apnews.com/article/purdue-pharma-sackler-oxycontin-settlement-judge-e664099eb656ebc7713d8803c4f14191</link>
-<pubDate>Tue, 18 Nov 2025 15:29:32 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 17:08:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistani forces kill 15 militants in raids on their hideouts in northwestern province]]></title>
+<title><![CDATA[Pakistani forces kill 38 militants in raids on their hideouts in northwestern province]]></title>
 <link>https://apnews.com/article/pakistan-security-raids-militants-killed-northwest-4afd66f63cc825fa34902f228659b971</link>
-<pubDate>Tue, 18 Nov 2025 13:25:57 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 16:53:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
