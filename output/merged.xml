@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 09:12:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 09:40:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[FlyDubai orders 150 Airbus A321neo aircraft, expanding its fleet beyond Boeing for the first time]]></title>
 <link>https://apnews.com/article/dubai-air-show-etihad-airbus-boeing-f241cc8b7e9667fd73e34a35eeefdd9b</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Emirates announces an order of 65 Boeing 777-9s with list price of $38 billion at Dubai Air Show]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-emirates-flydubai-ca30a6ba8d90dee5b2cf4ba1c3fd43db</link>
 <pubDate>Tue, 18 Nov 2025 06:32:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PHOTO ESSAY: Energy workers risk their lives to keep Ukraine’s lights on as Russia attacks]]></title>
+<link>https://apnews.com/photo-essay/war-russia-ukraine-energy-strikes-bombs-d24f25f8d42f238097f6ac1a139f6035</link>
+<pubDate>Tue, 18 Nov 2025 09:40:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK asylum reforms spark backlash within Labour Party, support from rivals]]></title>
-<link>https://apnews.com/article/britain-uk-asylum-reform-denmark-refugee-mahmood-cfab08ca50b137c9a7d87a4f015d3f56</link>
-<pubDate>Mon, 17 Nov 2025 19:59:59 -0000</pubDate>
+<title><![CDATA[Philippine President Ferdinand Marcos Jr. rejects his sister’s accusation he uses cocaine]]></title>
+<link>https://apnews.com/article/philippines-president-ferdinand-marcos-jr-drugs-sister-25214d708796404afcd3f281fbcb4a1d</link>
+<pubDate>Tue, 18 Nov 2025 09:25:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Chinese ship jams communications as Filipino forces deliver supplies to Philippines-occupied shoal]]></title>
 <link>https://apnews.com/article/philippines-china-south-china-sea-disputed-shoal-supplies-76f0a6408a0bcbb676310b15ea3d2aa1</link>
 <pubDate>Tue, 18 Nov 2025 05:47:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australian prisoner sues for right to eat Vegemite]]></title>
-<link>https://apnews.com/article/australia-prison-vegemite-ban-court-victoria-e46084defadc9757c8ecf2f53027d215</link>
-<pubDate>Tue, 18 Nov 2025 08:24:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
+<link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
+<pubDate>Tue, 18 Nov 2025 02:19:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
 <pubDate>Sat, 15 Nov 2025 13:42:05 -0000</pubDate>
@@ -131,15 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Xi and Thai King Vajiralongkorn pledge closer ties during landmark visit]]></title>
-<link>https://apnews.com/article/thailand-china-xi-vajiralongkorn-visit-476ec25ad9887f4e329b97825c76ac30</link>
-<pubDate>Fri, 14 Nov 2025 08:54:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fresh off commissioning new aircraft carrier, China starts sea trials of amphibious assault ship]]></title>
-<link>https://apnews.com/article/china-amphibious-assault-ship-carrier-navy-sichuan-523451ce91a7b7d730cf8412407a8ed1</link>
-<pubDate>Fri, 14 Nov 2025 13:49:32 -0000</pubDate>
+<title><![CDATA[Anthropic warns of AI-driven hacking campaign linked to China]]></title>
+<link>https://apnews.com/article/ai-cyber-china-hacking-artificial-intelligence-anthropic-4e7e5b1a7df946169c72c1df58f90295</link>
+<pubDate>Tue, 18 Nov 2025 09:10:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,18 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[PHOTO ESSAY: Energy workers risk their lives to keep Ukraine’s lights on as Russia attacks]]></title>
-<link>https://apnews.com/photo-essay/war-russia-ukraine-energy-strikes-bombs-d24f25f8d42f238097f6ac1a139f6035</link>
-<pubDate>Tue, 18 Nov 2025 05:16:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Philippine President Ferdinand Marcos Jr. rejects his sister’s accusation he uses cocaine]]></title>
-<link>https://apnews.com/article/philippines-president-ferdinand-marcos-jr-drugs-sister-25214d708796404afcd3f281fbcb4a1d</link>
-<pubDate>Tue, 18 Nov 2025 02:11:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Chile’s most polarized presidential race in decades boosts the right and divides immigrants]]></title>
 <link>https://apnews.com/article/chile-elections-kast-jara-boric-trump-immigration-57d95c1471ebbd828da4f82e57e9acf6</link>
 <pubDate>Tue, 18 Nov 2025 05:01:54 -0000</pubDate>
@@ -476,12 +464,6 @@
 <title><![CDATA[Federal immigration agents will expand enforcement action in North Carolina to Raleigh, mayor says]]></title>
 <link>https://apnews.com/article/charlotte-north-carolina-immigration-arrests-trump-6b53bb45813edbbc28433739763aebbe</link>
 <pubDate>Tue, 18 Nov 2025 08:45:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
-<pubDate>Mon, 17 Nov 2025 04:44:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
