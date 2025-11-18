@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 12:21:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 13:05:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
 <link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Takeaways from AP’s report on the violence in northern Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-violence-christian-muslim-trump-killings-0126b44bd81f415dfefcb0e6fed807f8</link>
+<pubDate>Tue, 18 Nov 2025 12:50:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show scenes from Nigeria, where widespread violence affects both Christians and Muslims]]></title>
 <link>https://apnews.com/photo-gallery/nigeria-christian-muslim-killings-kidnapping-photos-67ee28b115c7ed07c6242e412de4df0d</link>
 <pubDate>Tue, 18 Nov 2025 04:59:37 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[What to know about abductions of schoolchildren in Nigeria]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
 <pubDate>Mon, 17 Nov 2025 21:02:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen abduct 25 girls from a high school in northwestern Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-girls-abducted-school-9d288758bf1a57f3390c962f0a68596b</link>
-<pubDate>Tue, 18 Nov 2025 04:44:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Treasury Secretary Larry Summers steps down from public commitments after Epstein emails]]></title>
+<title><![CDATA[Epstein emails prompt Larry Summers to step down from public commitments]]></title>
 <link>https://apnews.com/article/larry-summers-jeffrey-epstein-emails-f6692249871db293adbbb1ebddb78037</link>
-<pubDate>Tue, 18 Nov 2025 11:03:12 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 12:35:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One of 25 abducted Nigerian girls escapes captivity]]></title>
-<link>https://apnews.com/article/nigeria-school-abduction-73e7706ac03c8f7a97f351f47d011f86</link>
-<pubDate>Tue, 18 Nov 2025 11:35:41 -0000</pubDate>
+<title><![CDATA[UK intelligence agency warns lawmakers that Chinese spies are trying to reach them via LinkedIn]]></title>
+<link>https://apnews.com/article/uk-parliament-china-spying-mi5-c2d7bebe2be0589c9adb08b6474eccda</link>
+<pubDate>Tue, 18 Nov 2025 13:05:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Roblox steps up age checks and groups younger users into age-based chats]]></title>
+<link>https://apnews.com/article/roblox-age-verification-kids-messaging-ee210a8a0c24a558e15d4d18774ab562</link>
+<pubDate>Tue, 18 Nov 2025 12:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,27 +341,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Olympic gold-medalist Rowdy Gaines has tips for older swimmers, or if you’re returning to the pool]]></title>
-<link>https://apnews.com/article/swim-tips-rowdy-gaines-olympics-c01a6fe207e7afea131b97993e87fe3c</link>
-<pubDate>Mon, 17 Nov 2025 12:50:50 -0000</pubDate>
+<title><![CDATA[Gunmen abduct 25 girls from a high school in northwestern Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-girls-abducted-school-9d288758bf1a57f3390c962f0a68596b</link>
+<pubDate>Mon, 17 Nov 2025 16:54:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICC prosecutors seek life sentence for Janjaweed leader convicted of Darfur crimes]]></title>
-<link>https://apnews.com/article/icc-court-darfur-sudan-sentence-2cbbbf029bc2cbe7535b8161bba5dd3b</link>
-<pubDate>Tue, 18 Nov 2025 05:31:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Zelenskyy will visit Turkey in a new bid to end the Russia-Ukraine war]]></title>
+<title><![CDATA[Zelenskyy will visit Turkey in a new bid to jump-start talks with Russia over the war in Ukraine]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-turkey-negotiations-spain-france-6a739b523cb926d92f2bf44b24dfc3c3</link>
-<pubDate>Tue, 18 Nov 2025 10:13:35 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 13:05:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu applauds UN adoption of Trump’s Gaza plan and Hamas rejects it]]></title>
+<title><![CDATA[1 Israeli killed and 3 wounded in West Bank attack]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-trump-11-18-2025-b4cc39532d7f100299ff3aa23c2143f1</link>
-<pubDate>Tue, 18 Nov 2025 11:17:39 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 12:50:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares sink, tracking a tech-led sell-off on Wall Street]]></title>
+<title><![CDATA[AI doubts extend Wall Street sell-off and Home Depot profit falls short for 3rd time]]></title>
 <link>https://apnews.com/article/stock-markets-nvidia-rates-ai-trump-31160bebd7ab48cdb8e26aa0ad9a3dc8</link>
-<pubDate>Tue, 18 Nov 2025 09:43:35 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 12:35:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from AP’s report on the violence in northern Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-violence-christian-muslim-trump-killings-0126b44bd81f415dfefcb0e6fed807f8</link>
-<pubDate>Tue, 18 Nov 2025 04:31:54 -0000</pubDate>
+<title><![CDATA[Schoolgirl escapes as search continues for 24 others abducted in Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-school-abduction-73e7706ac03c8f7a97f351f47d011f86</link>
+<pubDate>Tue, 18 Nov 2025 12:20:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
