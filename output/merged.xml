@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 00:51:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 02:26:22 GMT</lastBuildDate>
+<item>
+<title><![CDATA[The German government says it’s lifting restrictions on exports of military equipment to Israel]]></title>
+<link>https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78</link>
+<pubDate>Mon, 17 Nov 2025 11:35:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
 <link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
 <pubDate>Mon, 17 Nov 2025 23:10:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s foreign minister says the nation is no longer enriching uranium at any site in the country]]></title>
-<link>https://apnews.com/article/iran-nuclear-enrichment-c0079c38746a896e2967a9a9cc2799d5</link>
-<pubDate>Mon, 17 Nov 2025 22:06:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The German government says it’s lifting restrictions on exports of military equipment to Israel]]></title>
-<link>https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78</link>
-<pubDate>Mon, 17 Nov 2025 11:35:18 -0000</pubDate>
+<title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
+<link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
+<pubDate>Tue, 18 Nov 2025 02:19:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,12 +47,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine President Marcos Jr rejects drug use accusations by his sister]]></title>
-<link>https://apnews.com/article/philippines-president-ferdinand-marcos-jr-drugs-sister-25214d708796404afcd3f281fbcb4a1d</link>
-<pubDate>Mon, 17 Nov 2025 16:51:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump leaves military action against Venezuela on the table but floats possible talks]]></title>
 <link>https://apnews.com/article/venezuela-maduro-us-trump-drugs-strikes-negotiations-70e6017cdde101d06ebbc15cbb5a44fd</link>
 <pubDate>Mon, 17 Nov 2025 22:55:16 -0000</pubDate>
@@ -65,21 +59,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US may have discussions with Maduro as aircraft carrier arrives in Caribbean, Trump says]]></title>
-<link>https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9</link>
-<pubDate>Mon, 17 Nov 2025 09:32:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about abductions of schoolchildren in Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
-<pubDate>Mon, 17 Nov 2025 21:02:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Timbuktu’s famed manuscripts escaped al-Qaida but the threat remains]]></title>
-<link>https://apnews.com/article/mali-timbuktu-manuscripts-extremism-culture-islam-5d67428058eeaadd9445a4d460fa78d2</link>
-<pubDate>Mon, 17 Nov 2025 16:21:37 -0000</pubDate>
+<title><![CDATA[Methane pollution still rises, but UN reports hope for near future reductions]]></title>
+<link>https://apnews.com/article/climate-change-cop30-methane-warming-belem-brazil-932737ef496809928c815a72d8ca8453</link>
+<pubDate>Tue, 18 Nov 2025 01:16:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,9 +71,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Homeland Security agents make arrest dozens in North Carolina’s largest city. Here’s what to know]]></title>
+<title><![CDATA[Congo and M23 rebels sign framework for peace deal in latest bid to end decades-long conflict]]></title>
+<link>https://apnews.com/article/congo-m23-peace-framework-agreement-2fdafd8b1f12b55e6311d9619fa42884</link>
+<pubDate>Mon, 17 Nov 2025 05:51:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[More than 130 arrested in North Carolina as governor says immigration crackdown is ‘stoking fear’]]></title>
+<link>https://apnews.com/article/charlotte-north-carolina-immigration-arrests-trump-989b5f9428a65b9cd669244f79723edf</link>
+<pubDate>Tue, 18 Nov 2025 01:01:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Homeland Security agents arrest dozens in North Carolina’s largest city. Here’s what to know]]></title>
 <link>https://apnews.com/article/charlotte-north-carolina-immigration-arrests-trump-1b8443ff94e8d79573a15a42257689f7</link>
-<pubDate>Mon, 17 Nov 2025 19:29:59 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 00:46:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -104,12 +98,6 @@
 <title><![CDATA[Fed’s Cook blasts mortgage fraud allegations against her as ‘baseless’ in letter to AG Bondi]]></title>
 <link>https://apnews.com/article/lisa-cook-trump-fed-independence-firing-d06dfb46fbd300195c3cedc8cb5adadb</link>
 <pubDate>Mon, 17 Nov 2025 22:25:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Off-duty pilot who tried to cut a flight’s engines midair won’t serve prison time, judge rules]]></title>
-<link>https://apnews.com/article/pilot-mushrooms-alaska-airlines-horizon-air-flight-510e76580bbc658419e26f1c09c26136</link>
-<pubDate>Mon, 17 Nov 2025 20:32:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +167,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Leo XIV calls for urgent climate action and says God’s creation is ‘crying out’]]></title>
+<link>https://apnews.com/article/pope-climate-talk-video-climate-change-0b33de0843ee2fe7c19e13aeeb6e6d93</link>
+<pubDate>Tue, 18 Nov 2025 02:26:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Carney’s Liberals win budget vote and avoid election in Canada]]></title>
 <link>https://apnews.com/article/carney-budget-canada-election-2d05c2e0dcd2f1736b61afe154477887</link>
 <pubDate>Tue, 18 Nov 2025 00:07:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[President Donald Trump unveils ‘FIFA Pass’ to help World Cup travelers get their visas faster]]></title>
+<link>https://apnews.com/article/donald-trump-world-cup-gianni-infantino-bec7ef05ef038e8dabd83b08b476003d</link>
+<pubDate>Tue, 18 Nov 2025 02:11:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Islamic State group militants claim capture and execution of a Nigerian brigadier general]]></title>
 <link>https://apnews.com/article/nigeria-general-killed-islamic-state-iswap-ccc2ffb35ebe82f65128f33609a87d46</link>
 <pubDate>Mon, 17 Nov 2025 21:09:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he will sell F-35s to Saudi Arabia on eve of crown prince’s Washington visit]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-crown-prince-f35-77edbfa2f257805d43a501cd4808648a</link>
+<pubDate>Tue, 18 Nov 2025 01:56:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,39 +329,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ecuadorian drug gang leader captured in Spain years after faking his death]]></title>
-<link>https://apnews.com/article/ecuador-gang-leader-captured-chavarria-55716eea001e522adbd72bbb4ebe09b1</link>
-<pubDate>Sun, 16 Nov 2025 18:43:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Search ends for crew member who fell overboard from UK Royal Fleet Auxiliary tanker]]></title>
-<link>https://apnews.com/article/royal-fleet-auxiliary-sailor-overboard-ireland-uk-f5a4c8b2fbe8c246513f88c397e1d186</link>
-<pubDate>Sun, 16 Nov 2025 18:28:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Members of Syria’s security forces and military detained over sectarian violence in Sweida]]></title>
-<link>https://apnews.com/article/syria-sweida-druze-violence-sectarian-killings-10ee66c7fcb33b7291b137a2bdbeb57b</link>
-<pubDate>Mon, 17 Nov 2025 13:41:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[UN approves the Trump administration’s plan for the future of Gaza]]></title>
 <link>https://apnews.com/article/united-nations-gaza-ceasefire-us-resolution-russia-107e44e276fe04a5365ff6d914545718</link>
 <pubDate>Tue, 18 Nov 2025 00:46:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh’s ousted leader Sheikh Hasina sentenced to death for crackdown on student uprising]]></title>
+<title><![CDATA[Former Bangladesh leader Hasina sentenced to death for crackdown on uprising that ousted her]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
-<pubDate>Mon, 17 Nov 2025 16:15:02 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 02:26:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Gunmen abduct 25 girls from a high school in northwestern Nigeria]]></title>
 <link>https://apnews.com/article/nigeria-girls-abducted-school-9d288758bf1a57f3390c962f0a68596b</link>
 <pubDate>Mon, 17 Nov 2025 20:24:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about abductions of schoolchildren in Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
+<pubDate>Mon, 17 Nov 2025 17:39:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +437,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
-<pubDate>Mon, 17 Nov 2025 04:44:34 -0000</pubDate>
+<title><![CDATA[Philippine President Ferdinand Marcos Jr. rejects his sister’s accusation he uses cocaine]]></title>
+<link>https://apnews.com/article/philippines-president-ferdinand-marcos-jr-drugs-sister-25214d708796404afcd3f281fbcb4a1d</link>
+<pubDate>Tue, 18 Nov 2025 02:11:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Hard-right former lawmaker José Antonio Kast leads in Chile’s polarizing presidential runoff]]></title>
 <link>https://apnews.com/article/chile-elections-jose-antonio-kast-jara-gabriel-boric-trump-e09ac673bfa15364251a5d324b97dc41</link>
 <pubDate>Mon, 17 Nov 2025 17:24:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s foreign minister says the nation is no longer enriching uranium at any site in the country]]></title>
+<link>https://apnews.com/article/iran-nuclear-enrichment-c0079c38746a896e2967a9a9cc2799d5</link>
+<pubDate>Sun, 16 Nov 2025 11:32:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Timbuktu’s famed manuscripts escaped al-Qaida but the threat remains]]></title>
+<link>https://apnews.com/article/mali-timbuktu-manuscripts-extremism-culture-islam-5d67428058eeaadd9445a4d460fa78d2</link>
+<pubDate>Mon, 17 Nov 2025 04:42:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
