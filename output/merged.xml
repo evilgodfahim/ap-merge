@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 20:12:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 22:10:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syria opens first public trial over deadly coastal violence]]></title>
+<link>https://apnews.com/article/syria-coastal-attacks-trial-suspects-6e9efc4c35c94caecc213ad652aba481</link>
+<pubDate>Tue, 18 Nov 2025 21:13:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Humanitarian officials race to reopen Gaza schools, in photos]]></title>
 <link>https://apnews.com/photo-gallery/gaza-israel-schools-war-children-photos-a1cbe6d4dd29e8105d9a9281375eb00b</link>
 <pubDate>Tue, 18 Nov 2025 20:10:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
-<link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
-<pubDate>Mon, 17 Nov 2025 23:10:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-18-2025-f66ceaf8033826bb484b14efb7d63cc9</link>
+<pubDate>Tue, 18 Nov 2025 21:41:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A monument to answered prayer begins to rise in a secularizing England]]></title>
+<link>https://apnews.com/article/england-christianity-eternal-wall-monument-2c777c457801e6ffcfdc2cccefeea778</link>
+<pubDate>Tue, 18 Nov 2025 21:26:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s central bank shuts down $16-billion bank following federal fraud investigation]]></title>
 <link>https://apnews.com/article/brazil-banco-master-shut-down-fraud-investigation-2c09a5978bf793018359e8ff40eca3f6</link>
 <pubDate>Tue, 18 Nov 2025 20:12:49 -0000</pubDate>
@@ -317,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza]]></title>
+<link>https://apnews.com/article/south-africa-palestinians-israel-gaza-34a92c3fe86b43a3c6de9e0f3c19a4d0</link>
+<pubDate>Tue, 18 Nov 2025 06:01:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Carney’s Liberals win budget vote and avoid election in Canada]]></title>
 <link>https://apnews.com/article/carney-budget-canada-election-2d05c2e0dcd2f1736b61afe154477887</link>
 <pubDate>Tue, 18 Nov 2025 00:07:41 -0000</pubDate>
@@ -329,27 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Islamic State group militants claim capture and execution of a Nigerian brigadier general]]></title>
-<link>https://apnews.com/article/nigeria-general-killed-islamic-state-iswap-ccc2ffb35ebe82f65128f33609a87d46</link>
-<pubDate>Mon, 17 Nov 2025 21:09:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he will sell F-35s to Saudi Arabia on eve of crown prince’s Washington visit]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-crown-prince-f35-77edbfa2f257805d43a501cd4808648a</link>
-<pubDate>Tue, 18 Nov 2025 01:56:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-17-2025-0e55c4ed360eefff514edbb68d5ac251</link>
-<pubDate>Mon, 17 Nov 2025 20:54:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Zelenskyy will visit Turkey in a new bid to jump-start talks to end Russia’s invasion]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-turkey-negotiations-spain-france-6a739b523cb926d92f2bf44b24dfc3c3</link>
-<pubDate>Tue, 18 Nov 2025 16:14:32 -0000</pubDate>
+<title><![CDATA[Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist]]></title>
+<link>https://apnews.com/article/trump-saudi-crown-prince-mbs-505b32527e58d4bd49d5bc917efb4936</link>
+<pubDate>Tue, 18 Nov 2025 19:42:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico rejects Trump’s offer of military strikes against cartels — again]]></title>
-<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
-<pubDate>Tue, 18 Nov 2025 19:57:50 -0000</pubDate>
+<title><![CDATA[Zelenskyy will visit Turkey in a new bid to jump-start talks to end Russia’s invasion]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-turkey-negotiations-spain-france-6a739b523cb926d92f2bf44b24dfc3c3</link>
+<pubDate>Tue, 18 Nov 2025 16:14:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump welcomes Saudi crown prince at White House, in photos]]></title>
-<link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
-<pubDate>Tue, 18 Nov 2025 18:49:01 -0000</pubDate>
+<title><![CDATA[Mexico rejects Trump’s offer of military strikes against cartels — again]]></title>
+<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
+<pubDate>Tue, 18 Nov 2025 19:57:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist]]></title>
-<link>https://apnews.com/article/trump-saudi-crown-prince-mbs-505b32527e58d4bd49d5bc917efb4936</link>
-<pubDate>Tue, 18 Nov 2025 19:42:50 -0000</pubDate>
+<title><![CDATA[Israeli airstrike on a Palestinian refugee camp in Lebanon kills 11 people, Lebanese ministry says]]></title>
+<link>https://apnews.com/article/lebanon-israeli-airstrike-palestinian-refugee-camp-3150371f4076d26ea211c460b6ae2b68</link>
+<pubDate>Tue, 18 Nov 2025 21:18:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
+<link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
+<pubDate>Tue, 18 Nov 2025 21:03:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria opens first public trial over deadly coastal violence]]></title>
-<link>https://apnews.com/article/syria-coastal-attacks-trial-suspects-6e9efc4c35c94caecc213ad652aba481</link>
-<pubDate>Tue, 18 Nov 2025 11:02:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street drops again as Nvidia, bitcoin and other stars keep swinging]]></title>
+<title><![CDATA[Stocks fall in another jarring day as worries about too-high prices keep dogging Nvidia, bitcoin]]></title>
 <link>https://apnews.com/article/stock-markets-nvidia-rates-ai-trump-31160bebd7ab48cdb8e26aa0ad9a3dc8</link>
-<pubDate>Tue, 18 Nov 2025 17:23:36 -0000</pubDate>
+<pubDate>Tue, 18 Nov 2025 20:48:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
