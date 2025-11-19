@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 09:12:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 09:40:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
 <link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
@@ -341,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian barrage kills 10 in Ukraine as Zelenskyy heads for talks with Turkish leader]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-a8c310e868905ea8905334ffb3869fcb</link>
+<pubDate>Wed, 19 Nov 2025 09:40:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people, Lebanese ministry says]]></title>
 <link>https://apnews.com/article/lebanon-israeli-airstrike-palestinian-refugee-camp-3150371f4076d26ea211c460b6ae2b68</link>
 <pubDate>Tue, 18 Nov 2025 22:39:35 -0000</pubDate>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican President Claudia Sheinbaum rejects Trump’s offer of military intervention against cartels]]></title>
-<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
-<pubDate>Wed, 19 Nov 2025 00:15:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[‘Trump doesn’t give a fist bump:' Trump rips Biden for fist-bumping the Saudi prince]]></title>
 <link>https://apnews.com/video/trump-doesnt-give-a-fist-bump-trump-rips-biden-for-fist-bumping-the-saudi-prince-2b20016f299b42cfbc057643a6aa84e0</link>
 <pubDate>Wed, 19 Nov 2025 01:56:36 -0000</pubDate>
@@ -389,9 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dubai air travel hub on track for another record year, underscoring plans for second airport]]></title>
+<title><![CDATA[1 Israeli killed and 3 wounded in West Bank stabbing as UN approves Trump’s Gaza plan]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-trump-11-18-2025-b4cc39532d7f100299ff3aa23c2143f1</link>
+<pubDate>Tue, 18 Nov 2025 15:12:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in a deal estimated at $13 billion]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-airport-1d57cec64aaafe56a4341b25d52c1776</link>
-<pubDate>Wed, 19 Nov 2025 07:11:45 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 09:25:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +410,6 @@
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
 <pubDate>Tue, 18 Nov 2025 21:03:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Takeaways from AP’s report on a surge in Palestinian deaths in Israeli custody]]></title>
-<link>https://apnews.com/article/israel-prison-deaths-palestinians-6da95374213f35f6e6ef30802d970d1e</link>
-<pubDate>Mon, 17 Nov 2025 11:09:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,21 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy will visit Turkey in a new bid to jump-start talks to end Russia’s invasion]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-turkey-negotiations-spain-france-6a739b523cb926d92f2bf44b24dfc3c3</link>
-<pubDate>Tue, 18 Nov 2025 16:14:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bangladesh remains calm a day after tribunal issues death sentence for ousted prime minister]]></title>
 <link>https://apnews.com/article/bangladesh-prime-minister-sheikh-hasina-sentence-yunus-93489bb15d122309d64c08caea6c08b2</link>
 <pubDate>Wed, 19 Nov 2025 01:26:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Supreme Court sentences military officials for planning to kill Lula]]></title>
-<link>https://apnews.com/article/brazil-coup-bolsonaro-prison-b43ad0f4b338931e4d195615232b43b0</link>
-<pubDate>Tue, 18 Nov 2025 21:54:35 -0000</pubDate>
+<title><![CDATA[Mexican President Claudia Sheinbaum rejects Trump’s offer of military intervention against cartels]]></title>
+<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
+<pubDate>Wed, 19 Nov 2025 00:15:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand.]]></title>
+<title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand]]></title>
 <link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
-<pubDate>Wed, 19 Nov 2025 05:51:08 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 09:10:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
