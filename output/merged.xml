@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 05:40:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 06:16:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
 <link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tanzania’s leader says election violence could hurt access to international funding]]></title>
+<link>https://apnews.com/article/tanzania-election-protest-violence-hassan-loans-24b2b6c443d0c690c67cce4b81d32937</link>
+<pubDate>Wed, 19 Nov 2025 06:16:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[MacArthur Foundation awards $100M to outbreak surveillance network, a boost amid global health cuts]]></title>
 <link>https://apnews.com/article/macarthur-foundation-pandemic-prevention-c9b51121ffc5a0968cb4675cff05ad56</link>
 <pubDate>Tue, 18 Nov 2025 17:39:38 -0000</pubDate>
@@ -242,12 +248,6 @@
 <title><![CDATA[Microsoft partners with Anthropic and Nvidia in cloud infrastructure deal]]></title>
 <link>https://apnews.com/article/microsoft-ignite-anthropic-nvidia-a3e4d6ba75f475eb130d91c81e522f93</link>
 <pubDate>Tue, 18 Nov 2025 16:14:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany’s Kessler twins, who became dance stars in the 50s and 60s, die at 89]]></title>
-<link>https://apnews.com/article/germany-ellen-alice-kessler-twins-dead-8f94890e1fa5fcbe538a6a22fbc7cccb</link>
-<pubDate>Tue, 18 Nov 2025 15:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Africa hosts its first G20 and urges the rich world to do more against climate disasters]]></title>
+<link>https://apnews.com/article/climate-flooding-disaster-weather-g20-south-africa-f8fd136ab610f106b232de41d6783646</link>
+<pubDate>Wed, 19 Nov 2025 06:06:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[DHS plans to deploy 250 border agents to Louisiana in major immigration sweep, AP sources say]]></title>
 <link>https://apnews.com/article/new-orleans-border-patrol-swamp-sweep-1d30a524e80fa25912a38c3aea79832b</link>
 <pubDate>Tue, 18 Nov 2025 21:39:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand.]]></title>
+<link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
+<pubDate>Wed, 19 Nov 2025 05:51:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
