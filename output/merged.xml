@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 18:15:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 18:46:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nvidia earnings will shed a light on whether Big Tech is fueling an AI boom or bubble]]></title>
+<link>https://apnews.com/article/nvidia-earnings-artificial-intelligence-boom-bubble-6feaf871d527436f98fbd8d228377b30</link>
+<pubDate>Wed, 19 Nov 2025 18:42:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Haiti’s troubles fade briefly as it revels in World Cup qualification]]></title>
 <link>https://apnews.com/article/haiti-world-cup-qualifier-nicaragua-1fa07a3775a76465b47938f479efc40b</link>
 <pubDate>Wed, 19 Nov 2025 17:39:05 -0000</pubDate>
@@ -257,9 +263,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK defense secretary warns Russia it is ready to deal with any incursions after spy ship spotted]]></title>
+<title><![CDATA[UK warns Russia it’s ready to deal with any incursion after spy ship is spotted]]></title>
 <link>https://apnews.com/article/britain-defense-russia-spy-ship-20874e9d695dc651caf96088be29c34c</link>
-<pubDate>Wed, 19 Nov 2025 11:51:25 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 18:27:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people, Lebanese ministry says]]></title>
-<link>https://apnews.com/article/lebanon-israeli-airstrike-palestinian-refugee-camp-3150371f4076d26ea211c460b6ae2b68</link>
-<pubDate>Wed, 19 Nov 2025 10:39:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-corruption-scandal-6e33b63b8071f46140956d4d23ab00de</link>
 <pubDate>Wed, 12 Nov 2025 20:39:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s military carries out airstrikes in Lebanon after warning people to evacuate]]></title>
+<title><![CDATA[Israel’s military carries out strikes in Lebanon and Gaza, killing dozens of people]]></title>
 <link>https://apnews.com/article/lebanon-israel-airstrike-84a26c919c2636e6bd8d0a86ae166b3a</link>
-<pubDate>Wed, 19 Nov 2025 14:57:25 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 18:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The US plan for Gaza won UN backing. Carrying it out could be far more difficult]]></title>
-<link>https://apnews.com/article/gaza-un-us-plan-israel-45c3a49cf3c135821a7c1722354b5b94</link>
-<pubDate>Tue, 18 Nov 2025 20:12:50 -0000</pubDate>
+<title><![CDATA[Nominee for US deputy ambassador to UN calls for reforms at ‘ineffective’ global body]]></title>
+<link>https://apnews.com/article/us-un-bruce-confirmation-senate-reform-trump-71a33a4100a715235236befeceb6519f</link>
+<pubDate>Wed, 19 Nov 2025 18:31:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,6 +392,12 @@
 <title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in deal worth $13 billion as Emirates buys Airbus A350s]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-airport-1d57cec64aaafe56a4341b25d52c1776</link>
 <pubDate>Wed, 19 Nov 2025 10:13:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The US plan for Gaza won UN backing. Carrying it out could be far more difficult]]></title>
+<link>https://apnews.com/article/gaza-un-us-plan-israel-45c3a49cf3c135821a7c1722354b5b94</link>
+<pubDate>Tue, 18 Nov 2025 20:12:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +452,12 @@
 <title><![CDATA[Mexican President Claudia Sheinbaum rejects Trump’s offer of military intervention against cartels]]></title>
 <link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
 <pubDate>Wed, 19 Nov 2025 00:15:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
+<link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
+<pubDate>Mon, 17 Nov 2025 09:52:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
