@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 10:12:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 10:43:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Takeaways from AP’s report on a surge in Palestinian deaths in Israeli custody]]></title>
 <link>https://apnews.com/article/israel-prison-deaths-palestinians-6da95374213f35f6e6ef30802d970d1e</link>
@@ -341,9 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people, Lebanese ministry says]]></title>
-<link>https://apnews.com/article/lebanon-israeli-airstrike-palestinian-refugee-camp-3150371f4076d26ea211c460b6ae2b68</link>
-<pubDate>Tue, 18 Nov 2025 22:39:35 -0000</pubDate>
+<title><![CDATA[Israeli airstrike kills 1 and wounds 11 including students in southern Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-israel-airstrike-84a26c919c2636e6bd8d0a86ae166b3a</link>
+<pubDate>Wed, 19 Nov 2025 10:43:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Poland to shut last Russian consulate in the country after railway sabotage]]></title>
+<link>https://apnews.com/article/poland-railway-sabotage-ukraine-russia-consulate-gdansk-475619da2228aee03bfe90e75565f229</link>
+<pubDate>Wed, 19 Nov 2025 10:28:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -356,12 +362,6 @@
 <title><![CDATA[Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist]]></title>
 <link>https://apnews.com/article/trump-saudi-crown-prince-mbs-505b32527e58d4bd49d5bc917efb4936</link>
 <pubDate>Tue, 18 Nov 2025 19:42:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fire burning in southwestern Japan damages 170 homes and forces evacuations]]></title>
-<link>https://apnews.com/article/japan-oita-kyushu-fire-431f48b937f47143f28edac20796a0cb</link>
-<pubDate>Wed, 19 Nov 2025 02:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,15 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[1 Israeli killed and 3 wounded in West Bank stabbing as UN approves Trump’s Gaza plan]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-trump-11-18-2025-b4cc39532d7f100299ff3aa23c2143f1</link>
-<pubDate>Tue, 18 Nov 2025 15:12:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in a deal estimated at $13 billion]]></title>
+<title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in deal worth $13 billion as Emirates buys Airbus A350s]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-airport-1d57cec64aaafe56a4341b25d52c1776</link>
-<pubDate>Wed, 19 Nov 2025 09:25:18 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 10:13:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,21 +401,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks drop after another jarring day as worries about too-high prices keep dogging Nvidia, bitcoin]]></title>
-<link>https://apnews.com/article/stock-markets-nvidia-rates-ai-trump-31160bebd7ab48cdb8e26aa0ad9a3dc8</link>
-<pubDate>Tue, 18 Nov 2025 22:09:35 -0000</pubDate>
+<title><![CDATA[Global shares retreat in cautious trading ahead of Nvidia’s profit report]]></title>
+<link>https://apnews.com/article/stock-markets-earnings-nvidia-inflation-87556dbd8addfe1f2156beed6f79d20a</link>
+<pubDate>Wed, 19 Nov 2025 09:58:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Here’s what’s in the opioid settlement against OxyContin maker Purdue and the Sackler family]]></title>
-<link>https://apnews.com/article/purdue-pharma-sackler-oxycontin-settlement-judge-e664099eb656ebc7713d8803c4f14191</link>
-<pubDate>Tue, 18 Nov 2025 17:08:36 -0000</pubDate>
+<title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand]]></title>
+<link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
+<pubDate>Wed, 19 Nov 2025 09:10:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Appeals court pauses California law requiring companies to report climate-related financial risk]]></title>
+<link>https://apnews.com/article/california-climate-disclosure-law-paused-court-appeal-42708d5fc7ed15001f4ac5a870eb105d</link>
+<pubDate>Wed, 19 Nov 2025 09:43:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal Reserve releases new guidance for bank oversight in move praised by industry]]></title>
+<link>https://apnews.com/article/banks-regulation-federal-reserve-56f2524d1e28adcd39ea3f179e4ec099</link>
+<pubDate>Wed, 19 Nov 2025 09:28:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[New analysis shows more US consumers are falling behind on their utility bills]]></title>
 <link>https://apnews.com/article/trump-inflation-utility-bills-16cf846b44369b5b9660238be7112a4d</link>
 <pubDate>Mon, 17 Nov 2025 12:06:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fire burning in southwestern Japan damages 170 homes and forces evacuations]]></title>
+<link>https://apnews.com/article/japan-oita-kyushu-fire-431f48b937f47143f28edac20796a0cb</link>
+<pubDate>Wed, 19 Nov 2025 02:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand]]></title>
-<link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
-<pubDate>Wed, 19 Nov 2025 09:10:18 -0000</pubDate>
+<title><![CDATA[What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia]]></title>
+<link>https://apnews.com/article/f35-fighter-jet-saudis-trump-deal-299b47534e121923851e18fd02a57799</link>
+<pubDate>Wed, 19 Nov 2025 01:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
