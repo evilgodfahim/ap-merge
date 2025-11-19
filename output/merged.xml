@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 08:45:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 09:12:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
 <link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
@@ -29,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What former leader Sheikh Hasina’s death sentence means for Bangladesh]]></title>
+<link>https://apnews.com/article/bangladesh-hasina-yunus-election-verdict-59c81f60710ac893608001fd8ef733d2</link>
+<pubDate>Wed, 19 Nov 2025 08:50:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How a top New Zealand police officer’s downfall provoked public fury and scrutiny of police powers]]></title>
 <link>https://apnews.com/article/mcskimming-police-sexual-misconduct-new-zealand-748f0239a1eace0d5f9daa6cf028dcca</link>
 <pubDate>Wed, 19 Nov 2025 01:28:08 -0000</pubDate>
@@ -38,12 +44,6 @@
 <title><![CDATA[MI5 warns UK lawmakers that Chinese spies are trying to reach them via LinkedIn]]></title>
 <link>https://apnews.com/article/uk-parliament-china-spying-mi5-c2d7bebe2be0589c9adb08b6474eccda</link>
 <pubDate>Tue, 18 Nov 2025 17:03:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistani forces kill 38 militants in raids on their hideouts in northwestern province]]></title>
-<link>https://apnews.com/article/pakistan-security-raids-militants-killed-northwest-4afd66f63cc825fa34902f228659b971</link>
-<pubDate>Wed, 19 Nov 2025 01:13:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,6 +137,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
+<link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
+<pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Africa beats India by 30 runs in first cricket test, leads two-match series 1-0]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-e02cc424d4b5e291be7904a83fe2bd9e</link>
 <pubDate>Mon, 17 Nov 2025 10:50:18 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Modi’s ruling coalition secures landslide victory in a key state election]]></title>
-<link>https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4</link>
-<pubDate>Sat, 15 Nov 2025 05:59:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -476,6 +476,12 @@
 <title><![CDATA[China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand.]]></title>
 <link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
 <pubDate>Wed, 19 Nov 2025 05:51:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistani forces kill 38 militants in raids on their hideouts in northwestern province]]></title>
+<link>https://apnews.com/article/pakistan-security-raids-militants-killed-northwest-4afd66f63cc825fa34902f228659b971</link>
+<pubDate>Tue, 18 Nov 2025 16:53:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
