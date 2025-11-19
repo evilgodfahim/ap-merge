@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Nov 2025 23:32:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 00:51:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syria opens first public trial over deadly coastal violence]]></title>
 <link>https://apnews.com/article/syria-coastal-attacks-trial-suspects-6e9efc4c35c94caecc213ad652aba481</link>
@@ -113,6 +113,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese ship jams communications as Filipino forces deliver supplies to Philippines-occupied shoal]]></title>
+<link>https://apnews.com/article/philippines-china-south-china-sea-disputed-shoal-supplies-76f0a6408a0bcbb676310b15ea3d2aa1</link>
+<pubDate>Tue, 18 Nov 2025 05:47:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Top US admiral says he’s watching China’s rapid naval buildup closely]]></title>
 <link>https://apnews.com/article/japan-us-admiral-china-south-korea-69eb982440c8ee70a0cf8638b6a5acfd</link>
 <pubDate>Tue, 18 Nov 2025 05:17:36 -0000</pubDate>
@@ -128,12 +134,6 @@
 <title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
 <pubDate>Sat, 15 Nov 2025 13:42:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[USDA data casts doubt on China’s soybean purchase promises touted by Trump]]></title>
-<link>https://apnews.com/article/china-trump-xi-soybean-farmers-brazil-72ded79cdd71ce61e93337b8984e6f69</link>
-<pubDate>Sun, 16 Nov 2025 15:26:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,6 +158,18 @@
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Historic town in Haiti fights off gangs as country celebrates decisive 1803 battle]]></title>
+<link>https://apnews.com/article/haiti-gang-violence-arcahaie-battle-vertieres-2c0ba54f816b3c4e74a7eedc733caf17</link>
+<pubDate>Wed, 19 Nov 2025 00:33:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rapper Nicki Minaj calls for protections for Christians in Nigeria at UN event]]></title>
+<link>https://apnews.com/article/nicki-minaj-nigeria-christians-trump-be7b03a3f1d4e43747fa26e600be5d3f</link>
+<pubDate>Wed, 19 Nov 2025 00:18:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,18 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Human rights office calls on Colombia to suspend airstrikes after confirming 5 deaths of children]]></title>
-<link>https://apnews.com/article/colombia-airstrikes-minors-killed-suspension-petro-7ed1bffaf66479b524475c2444b92c8f</link>
-<pubDate>Tue, 18 Nov 2025 00:37:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New coin honors Freddie Mercury and his 4-octave range]]></title>
-<link>https://apnews.com/article/freddie-mercury-uk-commemorative-coin-be735242cd26869ecc591f4feee97636</link>
-<pubDate>Tue, 18 Nov 2025 03:29:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist]]></title>
 <link>https://apnews.com/article/trump-saudi-crown-prince-mbs-505b32527e58d4bd49d5bc917efb4936</link>
 <pubDate>Tue, 18 Nov 2025 19:42:50 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico rejects Trump’s offer of military strikes against cartels — again]]></title>
+<title><![CDATA[Mexican President Claudia Sheinbaum rejects Trump’s offer of military intervention against cartels]]></title>
 <link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-ae2fe54f63d72b887cbd8f2ae565a081</link>
-<pubDate>Tue, 18 Nov 2025 19:57:50 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 00:15:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,12 +464,6 @@
 <title><![CDATA[DHS plans to deploy 250 border agents to Louisiana in major immigration sweep, AP sources say]]></title>
 <link>https://apnews.com/article/new-orleans-border-patrol-swamp-sweep-1d30a524e80fa25912a38c3aea79832b</link>
 <pubDate>Tue, 18 Nov 2025 21:39:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese ship jams communications as Filipino forces deliver supplies to Philippines-occupied shoal]]></title>
-<link>https://apnews.com/article/philippines-china-south-china-sea-disputed-shoal-supplies-76f0a6408a0bcbb676310b15ea3d2aa1</link>
-<pubDate>Tue, 18 Nov 2025 10:47:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
