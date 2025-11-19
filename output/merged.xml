@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 05:11:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 05:40:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
 <link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
@@ -65,27 +65,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says Christians are being persecuted in Nigeria. The reality is more complicated]]></title>
+<link>https://apnews.com/article/nigeria-christian-muslim-killings-kidnapping-trump-af57834a1ce47488397bf07931b5cf51</link>
+<pubDate>Wed, 19 Nov 2025 05:40:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN estimates over 2,000 Sudanese pregnant women have fled el-Fasher to escape conflict]]></title>
 <link>https://apnews.com/article/sudan-pregnant-women-rsf-army-2c852d74ffd44a8d72acddf1826c4f77</link>
 <pubDate>Tue, 18 Nov 2025 18:53:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One of 25 abducted students in Nigeria escapes as the search continues for the missing girls]]></title>
+<title><![CDATA[Student escapes as authorities search for 24 other girls abducted in Nigeria]]></title>
 <link>https://apnews.com/article/nigeria-school-abduction-73e7706ac03c8f7a97f351f47d011f86</link>
-<pubDate>Tue, 18 Nov 2025 16:48:59 -0000</pubDate>
+<pubDate>Wed, 19 Nov 2025 05:25:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Eswatini is the first African country to get twice-yearly HIV prevention shot]]></title>
 <link>https://apnews.com/article/africa-hiv-drug-lenacapavir-eswatini-8f2ecc312d32d1d760e9baa425f013e4</link>
 <pubDate>Tue, 18 Nov 2025 14:11:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tanzania’s leader says election violence could hurt access to international funding]]></title>
-<link>https://apnews.com/article/tanzania-election-protest-violence-hassan-loans-24b2b6c443d0c690c67cce4b81d32937</link>
-<pubDate>Tue, 18 Nov 2025 17:51:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bipartisan bill aims to pay air traffic controllers during future shutdowns]]></title>
-<link>https://apnews.com/article/government-shutdown-air-traffic-controllers-pay-bill-52f388efa485ac5f255d4a16963c9143</link>
-<pubDate>Wed, 19 Nov 2025 00:58:08 -0000</pubDate>
+<title><![CDATA[For conservative media, New York City Mayor-elect Zohran Mamdani quickly becomes attack target]]></title>
+<link>https://apnews.com/article/mamdani-conservative-media-mayor-new-york-city-8125af48ca46f3145fdc11893f459291</link>
+<pubDate>Wed, 19 Nov 2025 05:10:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Democratic state election officials demand answers on Justice Department’s requests for voter data]]></title>
-<link>https://apnews.com/article/justice-department-homeland-security-voters-noncitizens-9ad3293b2f188b8a5b0bc166a61c225c</link>
-<pubDate>Wed, 19 Nov 2025 00:43:08 -0000</pubDate>
+<title><![CDATA[Trump’s congressional gerrymandering push is getting complicated for the GOP]]></title>
+<link>https://apnews.com/article/trump-redistricting-gerrymandering-congress-texas-california-2c5587f38df6428953c15ed43d631e53</link>
+<pubDate>Wed, 19 Nov 2025 04:55:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia]]></title>
+<link>https://apnews.com/article/f35-fighter-jet-saudis-trump-deal-299b47534e121923851e18fd02a57799</link>
+<pubDate>Wed, 19 Nov 2025 04:40:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -128,12 +134,6 @@
 <title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
 <pubDate>Tue, 18 Nov 2025 02:19:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan protests China’s travel advisory over Taiwan remarks]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d</link>
-<pubDate>Sat, 15 Nov 2025 13:42:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,21 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Christians are being persecuted in Nigeria. The reality is more complicated]]></title>
-<link>https://apnews.com/article/nigeria-christian-muslim-killings-kidnapping-trump-af57834a1ce47488397bf07931b5cf51</link>
-<pubDate>Tue, 18 Nov 2025 09:58:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[DHS plans to deploy 250 border agents to Louisiana in major immigration sweep, AP sources say]]></title>
 <link>https://apnews.com/article/new-orleans-border-patrol-swamp-sweep-1d30a524e80fa25912a38c3aea79832b</link>
 <pubDate>Tue, 18 Nov 2025 21:39:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia]]></title>
-<link>https://apnews.com/article/f35-fighter-jet-saudis-trump-deal-299b47534e121923851e18fd02a57799</link>
-<pubDate>Wed, 19 Nov 2025 01:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
