@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Nov 2025 10:43:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Nov 2025 11:09:26 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Takeaways from AP’s report on a surge in Palestinian deaths in Israeli custody]]></title>
-<link>https://apnews.com/article/israel-prison-deaths-palestinians-6da95374213f35f6e6ef30802d970d1e</link>
-<pubDate>Wed, 19 Nov 2025 09:54:16 -0000</pubDate>
+<title><![CDATA[Most of Gaza’s schools are destroyed and hundreds of thousands of children cannot go back to class]]></title>
+<link>https://apnews.com/article/gaza-israel-schools-war-children-0ed9ac47e5273258c69ed46d724d0f33</link>
+<pubDate>Wed, 19 Nov 2025 03:36:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US has warned others to avoid loans from Chinese state banks. But it’s the biggest recipient of all]]></title>
-<link>https://apnews.com/article/china-state-financing-investments-us-loans-offshore-ee522dae29f60b00e62ceac70730b8f6</link>
-<pubDate>Wed, 19 Nov 2025 09:24:16 -0000</pubDate>
+<title><![CDATA[Chinese premier’s visit to Zambia focuses on reviving a Cold War-era railway to help mineral access]]></title>
+<link>https://apnews.com/article/zambia-china-critical-minerals-mining-us-2a74961247a3af62a6db9e49a9b01805</link>
+<pubDate>Wed, 19 Nov 2025 10:56:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US has warned others to avoid loans from Chinese state banks. But it’s the biggest recipient of all]]></title>
+<link>https://apnews.com/article/china-state-financing-investments-us-loans-offshore-ee522dae29f60b00e62ceac70730b8f6</link>
+<pubDate>Wed, 19 Nov 2025 09:24:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Chinese ship jams communications as Filipino forces deliver supplies to Philippines-occupied shoal]]></title>
 <link>https://apnews.com/article/philippines-china-south-china-sea-disputed-shoal-supplies-76f0a6408a0bcbb676310b15ea3d2aa1</link>
 <pubDate>Tue, 18 Nov 2025 05:47:36 -0000</pubDate>
@@ -128,12 +134,6 @@
 <title><![CDATA[Top US admiral says he’s watching China’s rapid naval buildup closely]]></title>
 <link>https://apnews.com/article/japan-us-admiral-china-south-korea-69eb982440c8ee70a0cf8638b6a5acfd</link>
 <pubDate>Tue, 18 Nov 2025 05:17:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A spat over Taiwan is threatening China-Japan ties]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-ed8b812ab6f3bcc9ada2f49d9df1a479</link>
-<pubDate>Tue, 18 Nov 2025 02:19:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,6 +158,18 @@
 <title><![CDATA[India takes control of 1st test vs. South Africa as 15 wickets fall on Day 2]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-a86c47775e69c53ede130ae0ab49a150</link>
 <pubDate>Sun, 16 Nov 2025 06:00:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK inflation drops to 4-month low, paving way for December rate cut]]></title>
+<link>https://apnews.com/article/britain-economy-inflation-interest-rates-budget-e035cdbf1568f9787ad3e3fd43912032</link>
+<pubDate>Wed, 19 Nov 2025 11:09:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Roger Federer elected to International Tennis Hall of Fame in 1st year of eligibility]]></title>
+<link>https://apnews.com/article/roger-federer-tennis-hall-fame-b6077e1a3aefa50dc2d946631bdbc727</link>
+<pubDate>Wed, 19 Nov 2025 10:54:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +218,12 @@
 <title><![CDATA[A monument to answered prayer begins to rise in a secularizing England]]></title>
 <link>https://apnews.com/article/england-christianity-eternal-wall-monument-2c777c457801e6ffcfdc2cccefeea778</link>
 <pubDate>Tue, 18 Nov 2025 21:26:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people, Lebanese ministry says]]></title>
+<link>https://apnews.com/article/lebanon-israeli-airstrike-palestinian-refugee-camp-3150371f4076d26ea211c460b6ae2b68</link>
+<pubDate>Wed, 19 Nov 2025 10:39:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,27 +335,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FlyDubai orders 150 Airbus A321neo aircraft, expanding its fleet beyond Boeing for the first time]]></title>
-<link>https://apnews.com/article/dubai-air-show-etihad-airbus-boeing-f241cc8b7e9667fd73e34a35eeefdd9b</link>
-<pubDate>Wed, 19 Nov 2025 09:52:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 charged over hundreds of thefts from mausoleums and cemeteries in Ontario]]></title>
-<link>https://apnews.com/article/toronto-ontario-mausoleum-cemetery-thefts-cdd86e2f7acd7b2e0ab29ae68206f22b</link>
-<pubDate>Tue, 18 Nov 2025 07:17:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Global Anglican ties are under stress. It’s unclear if they’re at the breaking point]]></title>
-<link>https://apnews.com/article/anglican-communion-divisions-lgbtq-woman-archbishop-canterbury-e0f3d5a6640a948581961a1b86bee967</link>
-<pubDate>Tue, 18 Nov 2025 14:12:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How a top New Zealand police officer’s downfall provoked public fury and scrutiny of police powers]]></title>
-<link>https://apnews.com/article/mcskimming-police-sexual-misconduct-new-zealand-748f0239a1eace0d5f9daa6cf028dcca</link>
-<pubDate>Wed, 19 Nov 2025 09:37:42 -0000</pubDate>
+<title><![CDATA[1 Israeli killed and 3 wounded in West Bank stabbing as UN approves Trump’s Gaza plan]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-trump-11-18-2025-b4cc39532d7f100299ff3aa23c2143f1</link>
+<pubDate>Wed, 19 Nov 2025 10:24:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,6 +398,12 @@
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
 <pubDate>Tue, 18 Nov 2025 21:03:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from AP’s report on a surge in Palestinian deaths in Israeli custody]]></title>
+<link>https://apnews.com/article/israel-prison-deaths-palestinians-6da95374213f35f6e6ef30802d970d1e</link>
+<pubDate>Mon, 17 Nov 2025 11:09:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
