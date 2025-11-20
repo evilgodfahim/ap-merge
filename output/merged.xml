@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 14:10:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 14:40:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Sudan resumes oil exports after drone attack in neighboring Sudan]]></title>
 <link>https://apnews.com/article/south-sudan-oil-exports-drone-attack-dcd4de45180fdb4224f9683b0e4ea30a</link>
@@ -65,9 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia’s Petro releases bank records to counter US drug claims, sparking backlash over spending]]></title>
-<link>https://apnews.com/article/petro-bank-accounts-usa-expenses-e1ce89e7e3732787febbf2743ac00c75</link>
-<pubDate>Wed, 19 Nov 2025 21:12:59 -0000</pubDate>
+<title><![CDATA[K-pop fans’ environmental activism comes to UN climate talks]]></title>
+<link>https://apnews.com/article/kpop-korean-music-climate-change-brazil-adeb3e9d000c1b9232a9c4cb010e39a8</link>
+<pubDate>Thu, 20 Nov 2025 14:19:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Leaders press on with G20 summit in South Africa that won’t have US and Trump]]></title>
+<link>https://apnews.com/article/south-africa-trump-g20-summit-johannesburg-fdf9ded7217e3e72050113eb0270cc06</link>
+<pubDate>Thu, 20 Nov 2025 14:04:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[South Africa deploys 3,500 extra police officers and braces for protests around the G20 summit]]></title>
 <link>https://apnews.com/article/g20-preparations-protests-police-johannesburg-599771e0c8083b6aad0aab80a0a28e92</link>
 <pubDate>Wed, 19 Nov 2025 18:00:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Africa hosts its first G20 and urges the rich world to do more against climate disasters]]></title>
-<link>https://apnews.com/article/climate-flooding-disaster-weather-g20-south-africa-f8fd136ab610f106b232de41d6783646</link>
-<pubDate>Wed, 19 Nov 2025 11:30:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +260,12 @@
 <title><![CDATA[Trump says allowing skilled immigrants to train US workers ‘is MAGA’]]></title>
 <link>https://apnews.com/article/trump-maga-foreign-workers-training-americans-4eef9dbcbff4f4447105f52f50e33a9c</link>
 <pubDate>Thu, 20 Nov 2025 00:35:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Colombia’s Petro releases bank records to counter US drug claims, sparking backlash over spending]]></title>
+<link>https://apnews.com/article/petro-bank-accounts-usa-expenses-e1ce89e7e3732787febbf2743ac00c75</link>
+<pubDate>Wed, 19 Nov 2025 22:04:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
