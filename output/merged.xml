@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 13:04:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 13:44:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[South Sudan resumes oil exports after drone attack in neighboring Sudan]]></title>
 <link>https://apnews.com/article/south-sudan-oil-exports-drone-attack-dcd4de45180fdb4224f9683b0e4ea30a</link>
@@ -107,15 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Funerals at Washington’s National Cathedral tell the story of a nation]]></title>
-<link>https://apnews.com/article/washington-church-religion-funeral-cheney-d11870c1ed3bef6a272cd394ca3d9308</link>
-<pubDate>Thu, 20 Nov 2025 10:58:30 -0000</pubDate>
+<title><![CDATA[The Ten Commandments are up in Texas schools. They’re also being taken down]]></title>
+<link>https://apnews.com/article/ten-commandments-texas-schools-f16713552035212c4c5430e988dfcf82</link>
+<pubDate>Thu, 20 Nov 2025 13:16:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Larry Summers takes leave from teaching at Harvard after release of Epstein emails]]></title>
-<link>https://apnews.com/article/epstein-larry-summers-openai-302a596efd87ab8e725ba8f72eeef84b</link>
-<pubDate>Thu, 20 Nov 2025 10:07:57 -0000</pubDate>
+<title><![CDATA[Descendants obtain works of enslaved potter in landmark restitution deal]]></title>
+<link>https://apnews.com/article/david-drake-pottery-slavery-museum-c6f3576b538ee7420766bfd38bde4bd8</link>
+<pubDate>Thu, 20 Nov 2025 13:01:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Missouri seeks federal help in pressing China for $25 billion in COVID damages]]></title>
+<link>https://apnews.com/article/china-missouri-lawsuit-covid-pandemic-d05e3387b158f7c506d35c429479ec61</link>
+<pubDate>Thu, 20 Nov 2025 12:46:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s diesel trucks are shifting to electric. That could change global LNG and diesel demand]]></title>
 <link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
 <pubDate>Thu, 20 Nov 2025 07:31:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia]]></title>
-<link>https://apnews.com/article/f35-fighter-jet-saudis-trump-deal-299b47534e121923851e18fd02a57799</link>
-<pubDate>Wed, 19 Nov 2025 04:40:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN atomic agency board urges Iran to provide full information about its nuclear stockpile]]></title>
+<title><![CDATA[UN atomic agency demands Iran provide full information about its nuclear stockpile]]></title>
 <link>https://apnews.com/article/iran-nuclear-iaea-resolution-inspectors-uranium-d66a8ab6147e43bc7f544c76e063db80</link>
-<pubDate>Thu, 20 Nov 2025 11:51:14 -0000</pubDate>
+<pubDate>Thu, 20 Nov 2025 13:44:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,15 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares and US futures surge as Nvidia’s strong earnings restore confidence in AI]]></title>
+<title><![CDATA[Nvidia’s strong earnings boost US futures while markets await long-delayed September jobs report]]></title>
 <link>https://apnews.com/article/asia-nvidia-earnings-us-stocks-71372f3476dd13c33d316819bf902b17</link>
-<pubDate>Thu, 20 Nov 2025 10:27:33 -0000</pubDate>
+<pubDate>Thu, 20 Nov 2025 13:29:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Late-arriving September jobs report likely shows that hiring was sluggish but layoffs few]]></title>
+<title><![CDATA[U.S. employers added surprisingly solid 119,000 jobs in September, government says in delayed report]]></title>
 <link>https://apnews.com/article/jobs-unemployment-economy-trump-tariff-bf603d63e13d6dc1083e9a6616c7ffee</link>
-<pubDate>Thu, 20 Nov 2025 07:30:50 -0000</pubDate>
+<pubDate>Thu, 20 Nov 2025 13:14:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,21 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Leaders press on with G20 summit in South Africa that won’t have US and Trump]]></title>
-<link>https://apnews.com/article/south-africa-trump-g20-summit-johannesburg-fdf9ded7217e3e72050113eb0270cc06</link>
-<pubDate>Thu, 20 Nov 2025 04:31:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[More than 250 arrested in immigration crackdown across North Carolina]]></title>
 <link>https://apnews.com/article/new-orleans-charlotte-immigration-arrests-trump-84bc76392705dad1ea7d1cfef29ec380</link>
 <pubDate>Thu, 20 Nov 2025 11:21:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Missouri seeks federal help in pressing China for $25 billion in COVID damages]]></title>
-<link>https://apnews.com/article/china-missouri-lawsuit-covid-pandemic-d05e3387b158f7c506d35c429479ec61</link>
-<pubDate>Wed, 19 Nov 2025 21:53:47 -0000</pubDate>
+<title><![CDATA[GE Appliances bolsters ties with US suppliers as it moves production from China to Kentucky]]></title>
+<link>https://apnews.com/article/ge-appliances-suppliers-contracts-18ac7405d9ee25e983c28c64cd211789</link>
+<pubDate>Thu, 20 Nov 2025 12:44:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
