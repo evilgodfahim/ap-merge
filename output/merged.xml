@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 15:11:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 15:40:54 GMT</lastBuildDate>
+<item>
+<title><![CDATA[The US plan for Gaza won UN backing. Carrying it out could be far more difficult]]></title>
+<link>https://apnews.com/article/gaza-un-us-plan-israel-45c3a49cf3c135821a7c1722354b5b94</link>
+<pubDate>Thu, 20 Nov 2025 15:23:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[South Sudan resumes oil exports after drone attack in neighboring Sudan]]></title>
 <link>https://apnews.com/article/south-sudan-oil-exports-drone-attack-dcd4de45180fdb4224f9683b0e4ea30a</link>
 <pubDate>Thu, 20 Nov 2025 11:09:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist]]></title>
-<link>https://apnews.com/article/trump-saudi-crown-prince-mbs-505b32527e58d4bd49d5bc917efb4936</link>
-<pubDate>Thu, 20 Nov 2025 10:54:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Multicultural New Orleans awaits arrival of ‘Swamp Sweep’ immigration crackdown]]></title>
-<link>https://apnews.com/article/federal-immigration-crackdown-new-orleans-55119a4cf4e6da418e38287cb20c0ef4</link>
-<pubDate>Thu, 20 Nov 2025 09:54:56 -0000</pubDate>
+<title><![CDATA[More than 250 arrested in immigration crackdown across North Carolina]]></title>
+<link>https://apnews.com/article/new-orleans-charlotte-immigration-arrests-trump-84bc76392705dad1ea7d1cfef29ec380</link>
+<pubDate>Thu, 20 Nov 2025 15:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[GE Appliances bolsters ties with US suppliers as it moves production from China to Kentucky]]></title>
+<link>https://apnews.com/article/ge-appliances-suppliers-contracts-18ac7405d9ee25e983c28c64cd211789</link>
+<pubDate>Thu, 20 Nov 2025 14:53:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Missouri seeks federal help in pressing China for $25 billion in COVID damages]]></title>
 <link>https://apnews.com/article/china-missouri-lawsuit-covid-pandemic-d05e3387b158f7c506d35c429479ec61</link>
 <pubDate>Thu, 20 Nov 2025 12:46:30 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Dutch government relinquishes control of Chinese-owned chipmaker Nexperia]]></title>
 <link>https://apnews.com/article/nexperia-china-dutch-chipmaker-c90f7080702b92dd1108cd5e46b0a666</link>
 <pubDate>Wed, 19 Nov 2025 22:01:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s diesel trucks are shifting to electric. That could change global LNG and diesel demand]]></title>
-<link>https://apnews.com/article/china-truck-lng-ev-diesel-transport-70f3d612de4b45b6f954a7f557f7f741</link>
-<pubDate>Thu, 20 Nov 2025 07:31:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,12 +407,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The US plan for Gaza won UN backing. Carrying it out could be far more difficult]]></title>
-<link>https://apnews.com/article/gaza-un-us-plan-israel-45c3a49cf3c135821a7c1722354b5b94</link>
-<pubDate>Tue, 18 Nov 2025 20:12:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump’s economy depends on AI for growth, a reality made clear in Saudi crown prince’s US visit]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-artificial-intelligence-data-a36f65bd1c524b2e7ce456e63adaa696</link>
 <pubDate>Thu, 20 Nov 2025 08:15:50 -0000</pubDate>
@@ -458,6 +452,12 @@
 <title><![CDATA[Nigerian court convicts separatist leader Nnamdi Kanu of terrorism-related charges]]></title>
 <link>https://apnews.com/article/nigeria-nnamdi-kanu-9708d396efd89ac07b90b77d02fd96ff</link>
 <pubDate>Thu, 20 Nov 2025 12:59:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Multicultural New Orleans awaits arrival of ‘Swamp Sweep’ immigration crackdown]]></title>
+<link>https://apnews.com/article/federal-immigration-crackdown-new-orleans-55119a4cf4e6da418e38287cb20c0ef4</link>
+<pubDate>Thu, 20 Nov 2025 14:41:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
