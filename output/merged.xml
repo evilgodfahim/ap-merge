@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 08:46:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 09:11:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Beirut to file complaint against Israel for a wall that Lebanon says is inside its territory]]></title>
 <link>https://apnews.com/article/lebanon-israel-unifil-wall-lebanon-yaroun-ced86f02f515be7425cd15a42e9e98f4</link>
 <pubDate>Wed, 19 Nov 2025 23:34:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trains collide in the Czech Republic, leaving dozens of people injured]]></title>
+<link>https://apnews.com/article/czech-train-crash-8cd94b43ce95bab8a0277e9854a18c22</link>
+<pubDate>Thu, 20 Nov 2025 09:04:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos after a deadly Russian drone and missile attack on Ukraine’s Ternopil]]></title>
-<link>https://apnews.com/photo-gallery/russia-attack-ukraine-ternopil-photos-985350f1e5070ea5f642f39253c7f62b</link>
-<pubDate>Wed, 19 Nov 2025 16:12:49 -0000</pubDate>
+<title><![CDATA[On the world’s coldest stage, a military musician plays with a plastic horn and double gloves]]></title>
+<link>https://apnews.com/article/antarctica-navy-musician-scott-base-new-zealand-d7a9f6eb2c0bbe769a5087871752feaf</link>
+<pubDate>Thu, 20 Nov 2025 06:59:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Volcano eruption forces the rescue of more than 170 climbers on Indonesia’s Mount Semeru]]></title>
 <link>https://apnews.com/article/indonesia-mount-semeru-volcano-eruption-climbers-569bcb33f108fce7075b483b5fda53ef</link>
 <pubDate>Thu, 20 Nov 2025 07:46:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military says it detained foreigners in raid on a second major online scam center]]></title>
-<link>https://apnews.com/article/myanmar-thailand-scam-cybercrime-china-4f218e449b5993b37f20705061766bdf</link>
-<pubDate>Thu, 20 Nov 2025 05:56:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,12 +164,6 @@
 <title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
 <link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
 <pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trains collide in the Czech Republic, leaving dozens of people injured]]></title>
-<link>https://apnews.com/article/czech-train-crash-8cd94b43ce95bab8a0277e9854a18c22</link>
-<pubDate>Thu, 20 Nov 2025 08:15:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -290,6 +284,12 @@
 <title><![CDATA[Railway project in the Amazon raises questions over Brazil’s efforts to stop deforestation]]></title>
 <link>https://apnews.com/article/railway-brazil-amazon-soybeans-indigenous-cop30-37a277ec72216c392c86338db85d1517</link>
 <pubDate>Wed, 19 Nov 2025 15:59:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar’s military says it detained foreigners in raid on a second major online scam center]]></title>
+<link>https://apnews.com/article/myanmar-thailand-scam-cybercrime-china-4f218e449b5993b37f20705061766bdf</link>
+<pubDate>Thu, 20 Nov 2025 08:00:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
