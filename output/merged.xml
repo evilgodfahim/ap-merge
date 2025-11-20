@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 09:39:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 10:12:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Larry Summers takes leave from teaching at Harvard after release of Epstein emails]]></title>
+<link>https://apnews.com/article/epstein-larry-summers-openai-302a596efd87ab8e725ba8f72eeef84b</link>
+<pubDate>Thu, 20 Nov 2025 10:07:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Arrests now top 250 in immigration crackdown across North Carolina]]></title>
 <link>https://apnews.com/article/new-orleans-charlotte-immigration-arrests-trump-84bc76392705dad1ea7d1cfef29ec380</link>
 <pubDate>Wed, 19 Nov 2025 17:45:58 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Federal terrorism charge filed against a man who allegedly set a woman on fire on Chicago train]]></title>
 <link>https://apnews.com/article/chicago-woman-burned-train-4e43a526e3b93c217beca1d150c5ec1d</link>
 <pubDate>Wed, 19 Nov 2025 22:16:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Speculation intensifies in the death of a Florida high schooler on a cruise]]></title>
-<link>https://apnews.com/article/cruise-carnival-ship-miami-death-passenger-80263bc77c988b5c71bc522e988f76f7</link>
-<pubDate>Wed, 19 Nov 2025 20:57:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,12 +464,6 @@
 <title><![CDATA[An anti-migrant group in South Africa is blocking foreigners from health clinics]]></title>
 <link>https://apnews.com/article/south-africa-health-migration-hospitals-dudula-24aa36cade936d51f7f7be74b261df42</link>
 <pubDate>Thu, 20 Nov 2025 02:24:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Larry Summers takes leave from teaching at Harvard after release of Epstein emails]]></title>
-<link>https://apnews.com/article/epstein-larry-summers-openai-302a596efd87ab8e725ba8f72eeef84b</link>
-<pubDate>Thu, 20 Nov 2025 02:09:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
