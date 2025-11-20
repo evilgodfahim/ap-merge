@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 22:36:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 23:10:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in deal worth $13 billion as Emirates buys Airbus A350s]]></title>
 <link>https://apnews.com/article/dubai-air-show-boeing-airbus-airport-1d57cec64aaafe56a4341b25d52c1776</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazilian president appoints ally Jorge Messias to country’s Supreme Court]]></title>
+<link>https://apnews.com/article/brazil-supreme-court-jorge-messias-cf64c2df0fdbfe13bab07f2ab1ff2fb4</link>
+<pubDate>Thu, 20 Nov 2025 22:45:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands of US hazardous sites are at risk of flooding because of sea level rise, study finds]]></title>
 <link>https://apnews.com/article/climate-change-sea-level-rise-toxic-sites-flooding-f1bb62bcfb15c34fe0fa1a495a7479a5</link>
 <pubDate>Thu, 20 Nov 2025 10:24:56 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[K-pop fans’ environmental activism comes to UN climate talks]]></title>
 <link>https://apnews.com/article/kpop-korean-music-climate-change-brazil-adeb3e9d000c1b9232a9c4cb010e39a8</link>
 <pubDate>Thu, 20 Nov 2025 14:19:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Frida Kahlo self-portrait poised to shatter auction records]]></title>
-<link>https://apnews.com/article/frida-kahlo-painting-auction-fec1533c6feed232f50eb1ae2376da87</link>
-<pubDate>Thu, 20 Nov 2025 19:36:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal immigration crackdown ends in Charlotte, North Carolina, sheriff says]]></title>
+<title><![CDATA[Homeland Security says Charlotte immigration crackdown goes on despite sheriff saying operation over]]></title>
 <link>https://apnews.com/article/charlotte-immigration-arrests-new-orleans-trump-dc93314147e67a7642a429b228676766</link>
-<pubDate>Thu, 20 Nov 2025 19:21:30 -0000</pubDate>
+<pubDate>Thu, 20 Nov 2025 22:30:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -308,6 +308,12 @@
 <title><![CDATA[1,700 years ago, bishops and an emperor wrote a creed. Millions still recite it in church]]></title>
 <link>https://apnews.com/article/nicene-creed-history-pope-leo-xiv-turkey-1c403e4739e0821f7d11aa6b833f9a43</link>
 <pubDate>Thu, 20 Nov 2025 07:11:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Frida Kahlo self-portrait poised to shatter auction records]]></title>
+<link>https://apnews.com/article/frida-kahlo-painting-auction-fec1533c6feed232f50eb1ae2376da87</link>
+<pubDate>Thu, 20 Nov 2025 05:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
