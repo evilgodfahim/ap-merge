@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Nov 2025 09:11:56 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 09:39:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump welcomes Saudi Crown Prince Mohammed bin Salman at the White House, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-salman-saudi-prince-khashoggi-96c043eaaade557119e60e4cd5151c05</link>
@@ -164,6 +164,18 @@
 <title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
 <link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
 <pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian hacking suspect wanted by the FBI arrested on Thai resort island]]></title>
+<link>https://apnews.com/article/thailand-fbi-russian-hacking-suspect-phuket-arrested-bfb231e44f544f8030185ab8e1a5aaec</link>
+<pubDate>Thu, 20 Nov 2025 09:39:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[One Tech Tip: Do’s and don’ts of using AI to help with schoolwork]]></title>
+<link>https://apnews.com/article/chatgpt-ai-school-university-college-education-9059f4cfecd68dc80bd4863315f6a283</link>
+<pubDate>Thu, 20 Nov 2025 09:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean ferry carrying about 270 people runs aground and injures 3]]></title>
-<link>https://apnews.com/article/south-korea-ferry-run-aground-3b1e4bd4d3f6ccd07a1f8337d28cbbee</link>
-<pubDate>Wed, 19 Nov 2025 23:34:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel’s military carries out strikes in Lebanon and Gaza, killing dozens of people]]></title>
 <link>https://apnews.com/article/lebanon-israel-airstrike-84a26c919c2636e6bd8d0a86ae166b3a</link>
 <pubDate>Wed, 19 Nov 2025 18:46:15 -0000</pubDate>
@@ -437,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine court convicts dismissed town mayor, allegedly a Chinese, of human trafficking charges]]></title>
+<title><![CDATA[Philippine court convicts former mayor of human trafficking]]></title>
 <link>https://apnews.com/article/philippines-online-scam-convictions-alice-guo-0193403684842b8858e2ef5cb3c2f604</link>
-<pubDate>Thu, 20 Nov 2025 07:15:50 -0000</pubDate>
+<pubDate>Thu, 20 Nov 2025 09:24:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
