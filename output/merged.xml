@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 03:54:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 04:14:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran releases Marshall Islands-flagged tanker and crew it seized last week]]></title>
 <link>https://apnews.com/article/iran-marshall-islands-tanker-1c977441551b4e22ae7ec57a434cb392</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A night bus from Cambodia’s top tourist destination plunges off a bridge, killing 13 passengers]]></title>
+<title><![CDATA[Pakistani forces step up raids near the Afghan border, killing 23 militants]]></title>
+<link>https://apnews.com/article/pakistan-security-forces-killed-militants-afghanistan-a8afa748dcc24bb8d9a793a138baca87</link>
+<pubDate>Thu, 20 Nov 2025 08:01:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A night bus from Cambodia’s top tourist destination plunges off a bridge, killing 16 passengers]]></title>
 <link>https://apnews.com/article/cambodia-bus-crash-angkor-wat-efa30668d300d3cfa1b277e28fe73e10</link>
-<pubDate>Thu, 20 Nov 2025 11:28:30 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 04:01:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine court convicts former mayor of human trafficking]]></title>
-<link>https://apnews.com/article/philippines-online-scam-convictions-alice-guo-0193403684842b8858e2ef5cb3c2f604</link>
-<pubDate>Thu, 20 Nov 2025 10:39:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[On the world’s coldest stage, a military musician plays with a plastic horn and double gloves]]></title>
-<link>https://apnews.com/article/antarctica-navy-musician-scott-base-new-zealand-d7a9f6eb2c0bbe769a5087871752feaf</link>
-<pubDate>Thu, 20 Nov 2025 06:59:03 -0000</pubDate>
+<title><![CDATA[‘Rental Family’ spotlights real-life Japanese businesses that offer fill-in relatives, friends]]></title>
+<link>https://apnews.com/article/japan-rental-family-loneliness-hikikomori-mental-c366de36b1ff0498791ebda88ed7c0f0</link>
+<pubDate>Fri, 21 Nov 2025 03:46:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[No 2026 World Cup spot but China is experiencing a grassroots soccer revival]]></title>
+<link>https://apnews.com/article/china-soccer-revival-domestic-leagues-132440b0dd38395068def9cc88a91eeb</link>
+<pubDate>Fri, 21 Nov 2025 03:31:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New study shows global luxury shoppers are spurning high-end brands over steep price hikes]]></title>
 <link>https://apnews.com/article/italy-global-luxury-sales-146e0833e20efded9b3cf772f6d2c722</link>
 <pubDate>Fri, 21 Nov 2025 01:10:01 -0000</pubDate>
@@ -137,18 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese premier’s visit to Zambia focuses on reviving a Cold War-era railway to help mineral access]]></title>
-<link>https://apnews.com/article/zambia-china-critical-minerals-mining-us-2a74961247a3af62a6db9e49a9b01805</link>
-<pubDate>Wed, 19 Nov 2025 10:56:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India delays climate pledge, pressures rich nations on funding at UN climate talks]]></title>
-<link>https://apnews.com/article/climate-change-cop30-india-pollution-global-warming-cbf0e66e2aca48a5b4c2bc3c3e91bff9</link>
-<pubDate>Thu, 20 Nov 2025 00:38:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What former leader Sheikh Hasina’s death sentence means for Bangladesh]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-yunus-election-verdict-59c81f60710ac893608001fd8ef733d2</link>
 <pubDate>Wed, 19 Nov 2025 08:50:52 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[Former Bangladesh leader Hasina sentenced to death for crackdown on uprising that ousted her]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
 <pubDate>Thu, 20 Nov 2025 04:53:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India arrests suspect in New Delhi car blast that killed 10]]></title>
+<link>https://apnews.com/article/india-car-blast-red-fort-74379c9de0032c28a994beeebb196a64</link>
+<pubDate>Sun, 16 Nov 2025 15:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -308,6 +308,12 @@
 <title><![CDATA[One Tech Tip: Do’s and don’ts of using AI to help with schoolwork]]></title>
 <link>https://apnews.com/article/chatgpt-ai-school-university-college-education-9059f4cfecd68dc80bd4863315f6a283</link>
 <pubDate>Thu, 20 Nov 2025 09:24:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Philippine court convicts former mayor of human trafficking]]></title>
+<link>https://apnews.com/article/philippines-online-scam-convictions-alice-guo-0193403684842b8858e2ef5cb3c2f604</link>
+<pubDate>Fri, 21 Nov 2025 03:15:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[No 2026 World Cup spot but China is experiencing a grassroots soccer revival]]></title>
-<link>https://apnews.com/article/china-soccer-revival-domestic-leagues-132440b0dd38395068def9cc88a91eeb</link>
-<pubDate>Fri, 21 Nov 2025 01:27:09 -0000</pubDate>
+<title><![CDATA[India delays climate pledge, pressures rich nations on funding at UN climate talks]]></title>
+<link>https://apnews.com/article/climate-change-cop30-india-pollution-global-warming-cbf0e66e2aca48a5b4c2bc3c3e91bff9</link>
+<pubDate>Wed, 19 Nov 2025 19:41:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
