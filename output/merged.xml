@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 19:32:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 20:12:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
 <link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Proposed peace plan for Ukraine leaves country in a delicate position between US and Russia]]></title>
+<link>https://apnews.com/article/ukraine-russia-peace-trump-e51319da741e5b3e83ae9e99953637f0</link>
+<pubDate>Fri, 21 Nov 2025 19:51:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine’s president is under growing pressure. Here are 5 things to know]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-zelenskyy-yermak-0c277365a6fd8c0f4996e54c6ceb95e9</link>
 <pubDate>Fri, 21 Nov 2025 06:07:50 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[UK politician sentenced to over 10 years for accepting bribes to make pro-Russia statements]]></title>
 <link>https://apnews.com/article/britain-politician-reform-bribery-sentence-372e14bfb629aa413814154d6321736f</link>
 <pubDate>Fri, 21 Nov 2025 14:34:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fixing a politicized judicial system isn’t easy, as Poland is finding out]]></title>
-<link>https://apnews.com/article/poland-judicial-independence-democracy-tusk-law-justice-2634a3045e09b2cf77b495c1eed54fb5</link>
-<pubDate>Fri, 21 Nov 2025 10:05:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nations and environmental groups slam proposals at UN climate talks, calling them too weak]]></title>
+<link>https://apnews.com/article/brazil-cop30-c2c66ea017db8984102702320142ce76</link>
+<pubDate>Fri, 21 Nov 2025 19:36:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN General Assembly chief says curbing climate change would make world more peaceful and safer]]></title>
 <link>https://apnews.com/article/climate-change-un-baerbock-brazil-peace-interview-9422cc51c71252bc09f77e4236d4aecd</link>
 <pubDate>Fri, 21 Nov 2025 14:19:27 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Border Patrol is monitoring US drivers and detaining those with ‘suspicious’ travel patterns]]></title>
-<link>https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd</link>
-<pubDate>Thu, 20 Nov 2025 05:41:26 -0000</pubDate>
+<title><![CDATA[South African women stage lie-down protest against gender-based violence ahead of G20 summit]]></title>
+<link>https://apnews.com/article/women-south-africa-g20-protest-violence-gender-d729680eebe7750bc54119c32b78a8a4</link>
+<pubDate>Fri, 21 Nov 2025 19:21:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[White House hits out at South African leader for ‘running his mouth’ over US boycott of G20]]></title>
-<link>https://apnews.com/article/g20-south-africa-united-states-trump-e41ad9d725d08590d3d9b66244d1b2a3</link>
-<pubDate>Thu, 20 Nov 2025 20:39:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Torrential rains return to Southern California, prompting new flash flood fears, threat of mudslides]]></title>
 <link>https://apnews.com/article/southern-california-los-angeles-flooding-9fdda82865ec6a8ed26048baf28a96a5</link>
 <pubDate>Fri, 21 Nov 2025 17:45:05 -0000</pubDate>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-Georgia deputies cleared of murder in death of Black man shocked at least 15 times]]></title>
-<link>https://apnews.com/article/georgia-deputies-taser-eulie-martin-ab3c1bd98a6730e16c8377e883bfad08</link>
-<pubDate>Fri, 21 Nov 2025 17:15:05 -0000</pubDate>
+<title><![CDATA[Judge’s blistering opinion details use of force in Chicago-area immigration crackdown]]></title>
+<link>https://apnews.com/article/chicago-ice-border-patrol-immigration-80e4a8c89850288e22cdc0b6b89d2c79</link>
+<pubDate>Fri, 21 Nov 2025 19:06:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin says US plan for Ukraine could form the basis for a final peace settlement]]></title>
+<title><![CDATA[Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-bomb-apartment-block-zaporizhzhia-0f90db569cf222e80cfb2c1eb5ea07e1</link>
-<pubDate>Fri, 21 Nov 2025 18:43:43 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 20:12:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +362,6 @@
 <title><![CDATA[Iran rejects UN atomic agency’s resolution and threatens more reprisal actions]]></title>
 <link>https://apnews.com/article/iran-nuclear-iaea-resolution-un-reprisal-actions-ba9d12f8fb843aca51330a9ad4e94ffb</link>
 <pubDate>Fri, 21 Nov 2025 10:26:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South African women stage lie-down protest against gender-based violence ahead of G20 summit]]></title>
-<link>https://apnews.com/article/women-south-africa-g20-protest-violence-gender-d729680eebe7750bc54119c32b78a8a4</link>
-<pubDate>Fri, 21 Nov 2025 16:34:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nations and environmental groups slam proposals at UN climate talks, calling them too weak]]></title>
-<link>https://apnews.com/article/brazil-cop30-c2c66ea017db8984102702320142ce76</link>
-<pubDate>Fri, 21 Nov 2025 13:03:02 -0000</pubDate>
+<title><![CDATA[Brazil’s former President Jair Bolsonaro seeks house arrest for prison time citing health issues]]></title>
+<link>https://apnews.com/article/brazil-jair-bolsonaro-prison-sentence-house-arrest-a931e54dcf287e15b206358dbba8eecd</link>
+<pubDate>Fri, 21 Nov 2025 19:42:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
