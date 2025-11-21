@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 11:32:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 12:20:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN atomic agency demands Iran provide full information about its nuclear stockpile]]></title>
 <link>https://apnews.com/article/iran-nuclear-iaea-resolution-inspectors-uranium-d66a8ab6147e43bc7f544c76e063db80</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Radio Free Europe’s Hungarian service shuts down after Trump funding cuts]]></title>
+<link>https://apnews.com/article/hungary-radio-free-europe-shut-down-trump-349e0df0aa8d94c00fa7b15e40d223eb</link>
+<pubDate>Fri, 21 Nov 2025 11:46:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Armed men abduct children and staff at a Catholic school in Nigeria, days after latest abduction]]></title>
 <link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
 <pubDate>Fri, 21 Nov 2025 09:38:52 -0000</pubDate>
@@ -206,12 +212,6 @@
 <title><![CDATA[World stocks track Wall Street’s drop, erasing previous day’s gains]]></title>
 <link>https://apnews.com/article/asia-us-ai-japan-trump-6eda7d4af2b4b5be2f96af1f37a57661</link>
 <pubDate>Fri, 21 Nov 2025 10:26:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show the daily struggle to breathe in New Delhi’s dense winter smog]]></title>
-<link>https://apnews.com/photo-gallery/new-delhi-air-pollution-photos-cde1e5671579a65a326c8c7002f85b14</link>
-<pubDate>Fri, 21 Nov 2025 10:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[K-pop fans’ environmental activism comes to UN climate talks]]></title>
-<link>https://apnews.com/article/kpop-korean-music-climate-change-brazil-adeb3e9d000c1b9232a9c4cb010e39a8</link>
-<pubDate>Fri, 21 Nov 2025 01:40:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine would cede territory to Russia in draft of Trump peace plan obtained by AP]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-europe-witkoff-33545b140c5bfbbc5e9061a739802e54</link>
-<pubDate>Fri, 21 Nov 2025 01:57:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ukraine’s president is under growing pressure. Here are 5 things to know]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-zelenskyy-yermak-0c277365a6fd8c0f4996e54c6ceb95e9</link>
 <pubDate>Fri, 21 Nov 2025 05:51:51 -0000</pubDate>
@@ -371,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian combat aircraft crashes during a demonstration at the Dubai Air Show]]></title>
-<link>https://apnews.com/article/dubai-air-show-plane-crash-9df3d47f6220c7772a1d24762b0e2836</link>
-<pubDate>Fri, 21 Nov 2025 10:11:37 -0000</pubDate>
+<title><![CDATA[Why schoolchildren are often abducted in Nigeria and who the usual kidnappers are]]></title>
+<link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
+<pubDate>Fri, 21 Nov 2025 11:42:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indian combat aircraft crashes during a demonstration at Dubai Air Show, killing the pilot]]></title>
+<link>https://apnews.com/article/dubai-air-show-plane-crash-9df3d47f6220c7772a1d24762b0e2836</link>
+<pubDate>Fri, 21 Nov 2025 11:12:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
 <pubDate>Thu, 20 Nov 2025 12:21:14 -0000</pubDate>
@@ -410,12 +404,6 @@
 <title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
 <pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
-<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
-<pubDate>Thu, 20 Nov 2025 11:36:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A boiler explosion at a glue-making factory in eastern Pakistan kills 15 workers]]></title>
+<title><![CDATA[A boiler explosion at a glue-making factory in eastern Pakistan kills 18 people]]></title>
 <link>https://apnews.com/article/pakistan-chemical-factory-boiler-explosion-punjab-afd487d71c4e5f5c70631d6adf25f300</link>
-<pubDate>Fri, 21 Nov 2025 08:16:08 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 10:57:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,6 +452,12 @@
 <title><![CDATA[What to know about this weekend’s G20 summit in South Africa that Trump is boycotting]]></title>
 <link>https://apnews.com/article/g20-south-africa-climate-trump-us-e52a49ebd7cb0d2d690e64af5552659c</link>
 <pubDate>Fri, 21 Nov 2025 03:30:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Chicago street vendor couple has a defiant response to immigration arrests: Stick to the routine]]></title>
+<link>https://apnews.com/article/chicago-immigration-crackdown-vendors-bovino-border-patrol-3156f43dffc240ba732e1da14456f946</link>
+<pubDate>Fri, 21 Nov 2025 10:42:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
