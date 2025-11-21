@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 13:03:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 13:42:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
+<pubDate>Fri, 21 Nov 2025 13:31:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
 <link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN atomic agency demands Iran provide full information about its nuclear stockpile]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-resolution-inspectors-uranium-d66a8ab6147e43bc7f544c76e063db80</link>
-<pubDate>Fri, 21 Nov 2025 11:24:23 -0000</pubDate>
+<title><![CDATA[Ukraine’s president is under growing pressure. Here are 5 things to know]]></title>
+<link>https://apnews.com/article/ukraine-russia-war-zelenskyy-yermak-0c277365a6fd8c0f4996e54c6ceb95e9</link>
+<pubDate>Fri, 21 Nov 2025 06:07:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian glide bomb hits an apartment block and kills 5 in southern Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-bomb-apartment-block-zaporizhzhia-0f90db569cf222e80cfb2c1eb5ea07e1</link>
-<pubDate>Fri, 21 Nov 2025 10:54:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rural Greece struggles to cope with predator comeback]]></title>
-<link>https://apnews.com/article/wildlife-conservation-bears-wolves-boar-attacks-greece-17643359603619c1eb87d944d6f57570</link>
-<pubDate>Fri, 21 Nov 2025 09:17:46 -0000</pubDate>
+<title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
+<link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
+<pubDate>Fri, 21 Nov 2025 13:16:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 5.5 magnitude earthquake in central Bangladesh kills at least 6 people]]></title>
+<title><![CDATA[A 5.5 magnitude earthquake in central Bangladesh kills at least 8 people]]></title>
 <link>https://apnews.com/article/earthquake-bangladesh-dhaka-narsingdi-80b8f4024afd7313a320f6a8bcb955bb</link>
-<pubDate>Fri, 21 Nov 2025 09:02:46 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 13:01:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[MAHA idealism meets political reality as RFK Jr. attempts to wrangle a growing movement]]></title>
-<link>https://apnews.com/article/rfk-jr-maha-trump-health-care-vaccines-75df844c9995aaa92645393321eecd8c</link>
-<pubDate>Fri, 21 Nov 2025 11:57:44 -0000</pubDate>
+<title><![CDATA[Rep. Eric Swalwell announces his bid for California governor]]></title>
+<link>https://apnews.com/article/swalwell-california-governor-election-kimmel-db2646b82324a023982c478ba260708e</link>
+<pubDate>Fri, 21 Nov 2025 12:46:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court meets to weigh Trump’s birthright citizenship restrictions, blocked by lower courts]]></title>
-<link>https://apnews.com/article/supreme-court-immigration-trump-birthright-citizenship-83f70d58636219c0ff98c7d765ab2b4d</link>
-<pubDate>Fri, 21 Nov 2025 11:42:44 -0000</pubDate>
+<title><![CDATA[MAHA idealism meets political reality as RFK Jr. attempts to wrangle a growing movement]]></title>
+<link>https://apnews.com/article/rfk-jr-maha-trump-health-care-vaccines-75df844c9995aaa92645393321eecd8c</link>
+<pubDate>Fri, 21 Nov 2025 11:57:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +218,12 @@
 <title><![CDATA[Grizzly attacks schoolchildren and teachers on a walking trail in Canada, injuring 11]]></title>
 <link>https://apnews.com/article/british-columbia-canada-grizzly-school-30d355b3997cca3388ac9f2baca94a6e</link>
 <pubDate>Fri, 21 Nov 2025 08:16:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rural Greece struggles to cope with predator comeback]]></title>
+<link>https://apnews.com/article/wildlife-conservation-bears-wolves-boar-attacks-greece-17643359603619c1eb87d944d6f57570</link>
+<pubDate>Fri, 21 Nov 2025 11:48:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s president is under growing pressure. Here are 5 things to know]]></title>
-<link>https://apnews.com/article/ukraine-russia-war-zelenskyy-yermak-0c277365a6fd8c0f4996e54c6ceb95e9</link>
-<pubDate>Fri, 21 Nov 2025 05:51:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Netanyahu meets with his cabinet to discuss rising Israeli settler violence in the West Bank]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
 <pubDate>Fri, 21 Nov 2025 10:41:37 -0000</pubDate>
@@ -392,12 +392,6 @@
 <title><![CDATA[Indian fighter jet crashes during a demonstration flight at Dubai Air Show, killing the pilot]]></title>
 <link>https://apnews.com/article/dubai-air-show-plane-crash-9df3d47f6220c7772a1d24762b0e2836</link>
 <pubDate>Fri, 21 Nov 2025 12:48:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
-<link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
-<pubDate>Fri, 21 Nov 2025 12:33:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,6 +446,12 @@
 <title><![CDATA[Border Patrol is monitoring US drivers and detaining those with ‘suspicious’ travel patterns]]></title>
 <link>https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd</link>
 <pubDate>Thu, 20 Nov 2025 07:00:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN atomic agency demands Iran provide full information about its nuclear stockpile]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-resolution-inspectors-uranium-d66a8ab6147e43bc7f544c76e063db80</link>
+<pubDate>Thu, 20 Nov 2025 13:44:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
