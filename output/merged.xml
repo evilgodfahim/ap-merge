@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 15:34:03 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
-<pubDate>Fri, 21 Nov 2025 13:31:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Fri, 21 Nov 2025 16:13:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
 <link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
 <pubDate>Fri, 21 Nov 2025 12:27:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN atomic agency demands Iran provide full information about its nuclear stockpile]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-resolution-inspectors-uranium-d66a8ab6147e43bc7f544c76e063db80</link>
+<pubDate>Fri, 21 Nov 2025 11:24:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan OKs $135 billion stimulus package to help revive its sluggish economy]]></title>
-<link>https://apnews.com/article/japan-economy-takaichi-trump-stimulus-a5b913d98c422540a837397ea8fd676d</link>
-<pubDate>Fri, 21 Nov 2025 08:47:46 -0000</pubDate>
+<title><![CDATA[WHO declares end of Indonesia’s poliovirus outbreak following yearslong vaccination campaign]]></title>
+<link>https://apnews.com/article/indonesia-who-polio-outbreak-bce218d8d8a29db546d73464a5e9e3ac</link>
+<pubDate>Fri, 21 Nov 2025 15:37:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[Border Patrol is monitoring US drivers and detaining those with ‘suspicious’ travel patterns]]></title>
 <link>https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd</link>
 <pubDate>Thu, 20 Nov 2025 05:41:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why schoolchildren are often abducted in Nigeria and who the usual kidnappers are]]></title>
+<link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
+<pubDate>Fri, 21 Nov 2025 15:22:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +251,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan OKs $135 billion stimulus package to help revive its sluggish economy]]></title>
+<link>https://apnews.com/article/japan-economy-takaichi-trump-stimulus-a5b913d98c422540a837397ea8fd676d</link>
+<pubDate>Fri, 21 Nov 2025 13:49:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Archaeologists lift the lid on a 1,700-year-old Roman sarcophagus hidden beneath Budapest]]></title>
 <link>https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54</link>
 <pubDate>Fri, 21 Nov 2025 09:23:52 -0000</pubDate>
@@ -392,6 +404,12 @@
 <title><![CDATA[Israel plans to seize historical site in the West Bank as a new settlement appears]]></title>
 <link>https://apnews.com/article/west-bank-israel-refugee-camps-hrw-79d231fd15170ef095afdf6090197fc2</link>
 <pubDate>Fri, 21 Nov 2025 00:35:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
+<pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
