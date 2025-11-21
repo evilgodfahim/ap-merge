@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 21:34:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Nov 2025 22:10:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel plans to seize historical site in the West Bank as a new settlement appears]]></title>
+<link>https://apnews.com/article/west-bank-israel-refugee-camps-hrw-79d231fd15170ef095afdf6090197fc2</link>
+<pubDate>Fri, 21 Nov 2025 21:58:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
 <pubDate>Fri, 21 Nov 2025 13:31:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
-<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
-<pubDate>Fri, 21 Nov 2025 12:27:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[WHO declares end of Indonesia’s poliovirus outbreak following yearslong vaccination campaign]]></title>
+<title><![CDATA[WHO declares end of Indonesia’s polio outbreak following yearslong vaccination campaign]]></title>
 <link>https://apnews.com/article/indonesia-who-polio-outbreak-bce218d8d8a29db546d73464a5e9e3ac</link>
-<pubDate>Fri, 21 Nov 2025 15:37:37 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 21:43:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil hails US tariff rollback as ‘significant progress’ and seeks more exemptions]]></title>
+<link>https://apnews.com/article/brazil-us-tariffs-coffee-beef-trump-7241778cfdfae17e36ffdd15d8a36652</link>
+<pubDate>Fri, 21 Nov 2025 21:28:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nations and environmental groups slam proposals at UN climate talks, calling them too weak]]></title>
+<title><![CDATA[Dispute over fossil fuel phaseout upsets UN climate talks, and overtime looks likely]]></title>
 <link>https://apnews.com/article/brazil-cop30-c2c66ea017db8984102702320142ce76</link>
-<pubDate>Fri, 21 Nov 2025 19:36:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN General Assembly chief says curbing climate change would make world more peaceful and safer]]></title>
-<link>https://apnews.com/article/climate-change-un-baerbock-brazil-peace-interview-9422cc51c71252bc09f77e4236d4aecd</link>
-<pubDate>Fri, 21 Nov 2025 14:19:27 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 21:13:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,12 +191,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s US tariff reversal hailed as victory by Brazilian coffee exporters]]></title>
-<link>https://apnews.com/article/brazil-us-tariffs-coffee-beef-trump-7241778cfdfae17e36ffdd15d8a36652</link>
-<pubDate>Fri, 21 Nov 2025 15:04:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ex-French President Sarkozy to publish prison memoir as appeal looms]]></title>
 <link>https://apnews.com/article/sarkozy-french-president-prison-book-e1541b1c476584408dd4802e0aba7d96</link>
 <pubDate>Fri, 21 Nov 2025 14:49:01 -0000</pubDate>
@@ -206,6 +200,18 @@
 <title><![CDATA[Israel-Premier Tech is rebranding as NSN Cycling Team from 2026 with new base in Spain]]></title>
 <link>https://apnews.com/article/israel-premier-tech-rebranding-nsn-85f6df503726a6d2a82c591aee3e9d91</link>
 <pubDate>Fri, 21 Nov 2025 14:34:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[At UN climate conference, some activists and scientists want more talk on reforming agriculture]]></title>
+<link>https://apnews.com/article/climate-change-food-agriculture-cop30-belem-brazil-ba29d1e46a075dbe1b53e079f1541f9f</link>
+<pubDate>Fri, 21 Nov 2025 22:10:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN General Assembly chief says curbing climate change would make world more peaceful and safer]]></title>
+<link>https://apnews.com/article/climate-change-un-baerbock-brazil-peace-interview-9422cc51c71252bc09f77e4236d4aecd</link>
+<pubDate>Fri, 21 Nov 2025 21:55:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,9 +317,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More swings rock Wall Street, but this time stocks are leaping toward a stellar day]]></title>
+<title><![CDATA[More swings hit Wall Street, but this time stocks finish higher]]></title>
 <link>https://apnews.com/article/asia-us-ai-japan-trump-6eda7d4af2b4b5be2f96af1f37a57661</link>
-<pubDate>Fri, 21 Nov 2025 19:24:26 -0000</pubDate>
+<pubDate>Fri, 21 Nov 2025 21:40:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Mexican woman gets 20 years for robbery with violence in surfers’ killings]]></title>
 <link>https://apnews.com/article/mexico-australia-surfers-baja-california-woman-sentence-41e872135e7087d4cd72e2553cedd4d3</link>
 <pubDate>Fri, 21 Nov 2025 05:30:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2026 World Cup: Coach Arnold feels Iraq’s passion to pass final playoff test after 40-year wait]]></title>
-<link>https://apnews.com/article/world-cup-qualifying-playoffs-iraq-arnold-c2d2e354d07f14b6352657c275e4c818</link>
-<pubDate>Fri, 21 Nov 2025 02:10:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[Authorities arrest 7 bodyguards in connection with a Mexican mayor’s assassination]]></title>
 <link>https://apnews.com/article/mexico-mayor-michoacan-sheinbaum-cartel-c264ef6b7847a53062bed7448837190f</link>
 <pubDate>Fri, 21 Nov 2025 20:44:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
+<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
+<pubDate>Thu, 20 Nov 2025 11:36:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
