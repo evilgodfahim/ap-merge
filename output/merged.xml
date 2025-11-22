@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Nov 2025 23:34:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 00:48:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel plans to seize historical site in the West Bank as a new settlement appears]]></title>
 <link>https://apnews.com/article/west-bank-israel-refugee-camps-hrw-79d231fd15170ef095afdf6090197fc2</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
+<link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
+<pubDate>Sat, 22 Nov 2025 00:03:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South African women stage lie-down protest against gender-based violence ahead of G20 summit]]></title>
 <link>https://apnews.com/article/women-south-africa-g20-protest-violence-gender-d729680eebe7750bc54119c32b78a8a4</link>
 <pubDate>Fri, 21 Nov 2025 19:21:32 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[What to know about this weekend’s G20 summit in South Africa that Trump is boycotting]]></title>
 <link>https://apnews.com/article/g20-south-africa-climate-trump-us-e52a49ebd7cb0d2d690e64af5552659c</link>
 <pubDate>Fri, 21 Nov 2025 12:12:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria separatists say they are committed to peaceful self-determination after leaders sentenced]]></title>
-<link>https://apnews.com/article/nigeria-separatist-biafra-kanu-b2ecad8687886f248ad1bb91eec757c6</link>
-<pubDate>Fri, 21 Nov 2025 10:39:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Former Bangladesh leader Hasina sentenced to death for crackdown on uprising that ousted her]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
 <pubDate>Thu, 20 Nov 2025 04:53:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal prosecutors say 2 Texas men made plans to take over a Haitian island]]></title>
+<link>https://apnews.com/article/texas-men-federal-charges-haiti-island-takeover-cabca1715e3c2dd5a3e425f4b5aca61f</link>
+<pubDate>Sat, 22 Nov 2025 00:48:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,9 +269,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine police will arrest 18 suspects in a major corruption scandal, president says]]></title>
+<title><![CDATA[Philippine police deployed to arrest 18 suspects in a corruption scandal that has sparked outrage]]></title>
 <link>https://apnews.com/article/philippines-flood-control-corruption-zaldy-co-8eb573f422425a862d69ff84fce0e18b</link>
-<pubDate>Fri, 21 Nov 2025 12:18:01 -0000</pubDate>
+<pubDate>Sat, 22 Nov 2025 00:33:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nigeria separatists say they are committed to peaceful self-determination after leaders sentenced]]></title>
+<link>https://apnews.com/article/nigeria-separatist-biafra-kanu-b2ecad8687886f248ad1bb91eec757c6</link>
+<pubDate>Fri, 21 Nov 2025 23:00:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,12 +344,6 @@
 <title><![CDATA[OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US]]></title>
 <link>https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe</link>
 <pubDate>Fri, 21 Nov 2025 04:41:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Rental Family’ spotlights real-life Japanese businesses that offer fill-in relatives and friends]]></title>
-<link>https://apnews.com/article/japan-rental-family-loneliness-hikikomori-mental-c366de36b1ff0498791ebda88ed7c0f0</link>
-<pubDate>Fri, 21 Nov 2025 09:56:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
-<link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
-<pubDate>Fri, 21 Nov 2025 12:18:02 -0000</pubDate>
+<title><![CDATA[Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school]]></title>
+<link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
+<pubDate>Sat, 22 Nov 2025 00:26:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
