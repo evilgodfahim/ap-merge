@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Nov 2025 09:10:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 09:35:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Africa’s first G20 summit opens with an ambitious agenda and a US boycott]]></title>
-<link>https://apnews.com/article/g20-south-africa-summit-johannesburg-trump-995b8771ae64f874b74f0e01a70f8e78</link>
-<pubDate>Sat, 22 Nov 2025 08:11:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
 <link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
 <pubDate>Sat, 22 Nov 2025 00:03:21 -0000</pubDate>
@@ -92,6 +86,12 @@
 <title><![CDATA[Why schoolchildren are often abducted in Nigeria and who the usual kidnappers are]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
 <pubDate>Fri, 21 Nov 2025 15:22:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about this weekend’s G20 summit in South Africa that Trump is boycotting]]></title>
+<link>https://apnews.com/article/g20-south-africa-climate-trump-us-e52a49ebd7cb0d2d690e64af5552659c</link>
+<pubDate>Fri, 21 Nov 2025 12:12:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school]]></title>
+<link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
+<pubDate>Fri, 21 Nov 2025 19:54:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan OKs $135 billion stimulus package to help revive its sluggish economy]]></title>
 <link>https://apnews.com/article/japan-economy-takaichi-trump-stimulus-a5b913d98c422540a837397ea8fd676d</link>
 <pubDate>Fri, 21 Nov 2025 13:49:01 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Haiti qualifies for World Cup and more top photos this week from the Caribbean and Latin America]]></title>
 <link>https://apnews.com/photo-gallery/latin-america-caribbean-top-photos-week-b33a9efe95d54b6c36c6e30a0796e2ca</link>
 <pubDate>Fri, 21 Nov 2025 06:00:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[More swings hit Wall Street, but this time stocks finish higher]]></title>
-<link>https://apnews.com/article/asia-us-ai-japan-trump-6eda7d4af2b4b5be2f96af1f37a57661</link>
-<pubDate>Fri, 21 Nov 2025 21:40:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +458,12 @@
 <title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
 <pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Africa’s first G20 summit opens with an ambitious agenda and a US boycott]]></title>
+<link>https://apnews.com/article/g20-south-africa-summit-johannesburg-trump-995b8771ae64f874b74f0e01a70f8e78</link>
+<pubDate>Sat, 22 Nov 2025 07:26:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
