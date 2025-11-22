@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Nov 2025 03:47:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 04:12:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
+<link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
+<pubDate>Sat, 22 Nov 2025 04:12:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel plans to seize historical site in the West Bank as a new settlement appears]]></title>
 <link>https://apnews.com/article/west-bank-israel-refugee-camps-hrw-79d231fd15170ef095afdf6090197fc2</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
-<pubDate>Fri, 21 Nov 2025 13:31:39 -0000</pubDate>
+<title><![CDATA[Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-bomb-apartment-block-zaporizhzhia-0f90db569cf222e80cfb2c1eb5ea07e1</link>
+<pubDate>Sat, 22 Nov 2025 03:57:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukraine’s president is under growing pressure. Here are 5 things to know]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-zelenskyy-yermak-0c277365a6fd8c0f4996e54c6ceb95e9</link>
 <pubDate>Fri, 21 Nov 2025 06:07:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK politician sentenced to over 10 years for accepting bribes to make pro-Russia statements]]></title>
-<link>https://apnews.com/article/britain-politician-reform-bribery-sentence-372e14bfb629aa413814154d6321736f</link>
-<pubDate>Fri, 21 Nov 2025 14:34:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
+<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
+<pubDate>Fri, 21 Nov 2025 12:27:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Africa’s first G20 summit opens with an ambitious agenda and tries to move on from Trump’s boycott]]></title>
+<link>https://apnews.com/article/g20-south-africa-summit-johannesburg-trump-995b8771ae64f874b74f0e01a70f8e78</link>
+<pubDate>Sat, 22 Nov 2025 03:42:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
 <link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
 <pubDate>Sat, 22 Nov 2025 00:03:21 -0000</pubDate>
@@ -86,12 +98,6 @@
 <title><![CDATA[Why schoolchildren are often abducted in Nigeria and who the usual kidnappers are]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-bandits-boko-haram-527d72882b7692de8c806d784661590e</link>
 <pubDate>Fri, 21 Nov 2025 15:22:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about this weekend’s G20 summit in South Africa that Trump is boycotting]]></title>
-<link>https://apnews.com/article/g20-south-africa-climate-trump-us-e52a49ebd7cb0d2d690e64af5552659c</link>
-<pubDate>Fri, 21 Nov 2025 12:12:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistani forces step up raids near the Afghan border, killing 23 militants]]></title>
+<link>https://apnews.com/article/pakistan-security-forces-killed-militants-afghanistan-a8afa748dcc24bb8d9a793a138baca87</link>
+<pubDate>Thu, 20 Nov 2025 08:01:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India delays climate pledge, pressures rich nations on funding at UN climate talks]]></title>
 <link>https://apnews.com/article/climate-change-cop30-india-pollution-global-warming-cbf0e66e2aca48a5b4c2bc3c3e91bff9</link>
 <pubDate>Thu, 20 Nov 2025 00:38:17 -0000</pubDate>
@@ -158,12 +170,6 @@
 <title><![CDATA[Pakistani forces kill 38 militants in raids on their hideouts in northwestern province]]></title>
 <link>https://apnews.com/article/pakistan-security-raids-militants-killed-northwest-4afd66f63cc825fa34902f228659b971</link>
 <pubDate>Wed, 19 Nov 2025 01:13:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Bangladesh leader Hasina sentenced to death for crackdown on uprising that ousted her]]></title>
-<link>https://apnews.com/article/bangladesh-hasina-verdict-yunus-security-c1eec828e68460bae66824601a94eaca</link>
-<pubDate>Thu, 20 Nov 2025 04:53:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-bomb-apartment-block-zaporizhzhia-0f90db569cf222e80cfb2c1eb5ea07e1</link>
-<pubDate>Fri, 21 Nov 2025 20:12:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Netanyahu convenes cabinet on settler violence in the West Bank that continues unabated]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
 <pubDate>Fri, 21 Nov 2025 14:10:52 -0000</pubDate>
@@ -398,12 +398,6 @@
 <title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
 <link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
 <pubDate>Fri, 21 Nov 2025 12:33:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
-<link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
-<pubDate>Thu, 20 Nov 2025 12:21:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,12 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
-<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
-<pubDate>Thu, 20 Nov 2025 11:36:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school]]></title>
 <link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
 <pubDate>Sat, 22 Nov 2025 00:26:05 -0000</pubDate>
@@ -470,12 +458,6 @@
 <title><![CDATA[Christian pastor’s daughter urges US lawmakers to help free her father in China]]></title>
 <link>https://apnews.com/article/trump-china-christian-leaders-detained-nigeria-babd324066dfee9d9c3065675f9f8c01</link>
 <pubDate>Fri, 21 Nov 2025 20:29:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistani forces step up raids near the Afghan border, killing 23 militants]]></title>
-<link>https://apnews.com/article/pakistan-security-forces-killed-militants-afghanistan-a8afa748dcc24bb8d9a793a138baca87</link>
-<pubDate>Thu, 20 Nov 2025 11:06:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
