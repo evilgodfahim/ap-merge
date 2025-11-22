@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Nov 2025 11:32:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 12:17:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
 <link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
@@ -359,9 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s former President Bolsonaro arrested days before starting his 27-year prison sentence]]></title>
+<title><![CDATA[Brazil’s judge orders Bolsonaro’s arrest for allegedly plotting escape ahead of prison term]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-prison-arrest-d68ae43b99762c577efe7e6ba20b0542</link>
-<pubDate>Sat, 22 Nov 2025 11:11:09 -0000</pubDate>
+<pubDate>Sat, 22 Nov 2025 12:17:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Key elements in Trump’s 28-point peace proposal and why much of it is unacceptable for Ukraine]]></title>
+<link>https://apnews.com/article/ukraine-russia-peace-trump-e51319da741e5b3e83ae9e99953637f0</link>
+<pubDate>Sat, 22 Nov 2025 12:02:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +449,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Britain’s Daily Mail publisher enters exclusive talks to buy Telegraph Media Group for $654 million]]></title>
+<link>https://apnews.com/article/britain-daily-mail-telegraph-deal-ec5512e7b40aa16c9573d25d083e82ae</link>
+<pubDate>Sat, 22 Nov 2025 11:47:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A boiler explosion at a glue-making factory in eastern Pakistan kills 18 people]]></title>
 <link>https://apnews.com/article/pakistan-chemical-factory-boiler-explosion-punjab-afd487d71c4e5f5c70631d6adf25f300</link>
 <pubDate>Fri, 21 Nov 2025 10:57:05 -0000</pubDate>
@@ -479,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa loses late wicket in 1st session of the 2nd test against India after winning the toss]]></title>
+<title><![CDATA[Yadav’s 3-48 restricts South Africa to 247-6 on 1st day of 2nd test against India]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-68fe880066a440ce5c5eca3f46feb5e4</link>
-<pubDate>Sat, 22 Nov 2025 07:15:58 -0000</pubDate>
+<pubDate>Sat, 22 Nov 2025 11:32:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
