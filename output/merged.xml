@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Nov 2025 04:12:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 04:40:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
@@ -257,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK politician sentenced to over 10 years for accepting bribes to make pro-Russia statements]]></title>
+<link>https://apnews.com/article/britain-politician-reform-bribery-sentence-372e14bfb629aa413814154d6321736f</link>
+<pubDate>Fri, 21 Nov 2025 13:55:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[2 robbers overpower a guard and steal dozens of ancient gold coins from a Swiss museum]]></title>
 <link>https://apnews.com/article/switzerland-roman-museum-f8eb8d0244aed60c7979ef36daf76334</link>
 <pubDate>Fri, 21 Nov 2025 13:40:51 -0000</pubDate>
@@ -347,21 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More swings hit Wall Street, but this time stocks finish higher]]></title>
-<link>https://apnews.com/article/asia-us-ai-japan-trump-6eda7d4af2b4b5be2f96af1f37a57661</link>
-<pubDate>Fri, 21 Nov 2025 21:40:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The fallout of Epstein’s crimes spans the globe. Here’s a look at some of those paying the cost]]></title>
 <link>https://apnews.com/article/epstein-trump-summers-andrew-elite-cb9ea7854da0582f7f5ddb2efd5fca6a</link>
 <pubDate>Fri, 21 Nov 2025 21:29:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu convenes cabinet on settler violence in the West Bank that continues unabated]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
-<pubDate>Fri, 21 Nov 2025 14:10:52 -0000</pubDate>
+<title><![CDATA[Frustrations grow in Russia over cellphone internet outages that disrupt daily life]]></title>
+<link>https://apnews.com/article/russia-internet-outage-cellphone-apps-crackdown-7db0c44772b70c08890009508db5ec94</link>
+<pubDate>Sat, 22 Nov 2025 04:40:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +380,12 @@
 <title><![CDATA[Putin says US’ Ukraine peace plan ‘could form the basis’ of settlement, accuses Kyiv of opposing it]]></title>
 <link>https://apnews.com/video/putin-says-us-ukraine-peace-plan-could-form-the-basis-of-settlement-accuses-kyiv-of-opposing-it-66d38101125642d28d45882ae9f49f5f</link>
 <pubDate>Sat, 22 Nov 2025 01:50:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran rejects UN atomic agency’s resolution and threatens more reprisal actions]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-resolution-un-reprisal-actions-ba9d12f8fb843aca51330a9ad4e94ffb</link>
+<pubDate>Fri, 21 Nov 2025 10:26:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +449,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
+<pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school]]></title>
 <link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
 <pubDate>Sat, 22 Nov 2025 00:26:05 -0000</pubDate>
@@ -458,6 +470,12 @@
 <title><![CDATA[Christian pastor’s daughter urges US lawmakers to help free her father in China]]></title>
 <link>https://apnews.com/article/trump-china-christian-leaders-detained-nigeria-babd324066dfee9d9c3065675f9f8c01</link>
 <pubDate>Fri, 21 Nov 2025 20:29:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Leading the 2-test series 1-0, South Africa wins the toss and bats 1st against India]]></title>
+<link>https://apnews.com/article/cricket-india-south-africa-68fe880066a440ce5c5eca3f46feb5e4</link>
+<pubDate>Sat, 22 Nov 2025 04:25:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
