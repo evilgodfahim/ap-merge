@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Nov 2025 08:13:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 08:41:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire’s start]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-07ff40fa5efeed4a944050fec55b279b</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil hails US tariff rollback as ‘significant progress’ and seeks more exemptions]]></title>
-<link>https://apnews.com/article/brazil-us-tariffs-coffee-beef-trump-7241778cfdfae17e36ffdd15d8a36652</link>
-<pubDate>Fri, 21 Nov 2025 21:28:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Brazil’s former President Jair Bolsonaro seeks house arrest for prison time citing health issues]]></title>
 <link>https://apnews.com/article/brazil-jair-bolsonaro-prison-sentence-house-arrest-a931e54dcf287e15b206358dbba8eecd</link>
 <pubDate>Fri, 21 Nov 2025 20:55:08 -0000</pubDate>
@@ -71,9 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Africa’s first G20 summit opens with an ambitious agenda and tries to move on from Trump’s boycott]]></title>
+<title><![CDATA[UN human rights rapporteur calls on United States to lift sanctions on Cuba]]></title>
+<link>https://apnews.com/article/cuba-united-nations-sanctions-lifted-9a39a7a29744aca40edab10f15663652</link>
+<pubDate>Sat, 22 Nov 2025 08:26:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Africa’s first G20 summit opens with an ambitious agenda and a US boycott]]></title>
 <link>https://apnews.com/article/g20-south-africa-summit-johannesburg-trump-995b8771ae64f874b74f0e01a70f8e78</link>
-<pubDate>Sat, 22 Nov 2025 03:42:22 -0000</pubDate>
+<pubDate>Sat, 22 Nov 2025 08:11:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New study shows global luxury shoppers are spurning high-end brands over steep price hikes]]></title>
-<link>https://apnews.com/article/italy-global-luxury-sales-146e0833e20efded9b3cf772f6d2c722</link>
-<pubDate>Fri, 21 Nov 2025 01:10:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[GE Appliances bolsters ties with US suppliers as it moves production from China to Kentucky]]></title>
 <link>https://apnews.com/article/ge-appliances-suppliers-contracts-18ac7405d9ee25e983c28c64cd211789</link>
 <pubDate>Thu, 20 Nov 2025 14:53:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Missouri seeks federal help in pressing China for $25 billion in COVID damages]]></title>
+<link>https://apnews.com/article/china-missouri-lawsuit-covid-pandemic-d05e3387b158f7c506d35c429479ec61</link>
+<pubDate>Thu, 20 Nov 2025 12:46:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,6 +365,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Number of children abducted in Nigerian school attack raised to more than 300]]></title>
+<link>https://apnews.com/article/nigeria-school-abductions-dc3eaa3f1b9d910211e4a2af959ee7a9</link>
+<pubDate>Sat, 22 Nov 2025 08:41:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘He’s going to have to approve it.’ Trump says Zelenskyy needs to come to terms on new US peace plan]]></title>
 <link>https://apnews.com/video/hes-going-to-have-to-approve-it-trump-says-zelenskyy-needs-to-come-to-terms-on-new-us-peace-plan-ff60df1215f64d9695225119ffc67176</link>
 <pubDate>Sat, 22 Nov 2025 02:20:06 -0000</pubDate>
@@ -407,33 +413,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s economy depends on AI for growth, a reality made clear in Saudi crown prince’s US visit]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-artificial-intelligence-data-a36f65bd1c524b2e7ce456e63adaa696</link>
-<pubDate>Thu, 20 Nov 2025 08:15:50 -0000</pubDate>
+<title><![CDATA[Bubble fears ease but investors still waiting for AI to live up to its promise]]></title>
+<link>https://apnews.com/article/nvidia-artificial-intelligence-bubble-boom-earnings-77269f1931911dd2a92538b44285a039</link>
+<pubDate>Sat, 22 Nov 2025 08:26:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nvidia earnings clear lofty hurdle set by analysts amid fears about an AI bubble]]></title>
-<link>https://apnews.com/article/nvidia-earnings-artificial-intelligence-boom-bubble-6feaf871d527436f98fbd8d228377b30</link>
-<pubDate>Thu, 20 Nov 2025 08:00:50 -0000</pubDate>
+<title><![CDATA[New study shows global luxury shoppers are spurning high-end brands over steep price hikes]]></title>
+<link>https://apnews.com/article/italy-global-luxury-sales-146e0833e20efded9b3cf772f6d2c722</link>
+<pubDate>Thu, 20 Nov 2025 14:26:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big swings keep rocking Wall Street as US stocks drop sharply after erasing a morning surge]]></title>
-<link>https://apnews.com/article/asia-nvidia-earnings-us-stocks-71372f3476dd13c33d316819bf902b17</link>
-<pubDate>Thu, 20 Nov 2025 21:10:27 -0000</pubDate>
+<title><![CDATA[France will investigate Musk’s Grok chatbot after Holocaust denial claims]]></title>
+<link>https://apnews.com/article/france-ai-musk-grok-holocaust-e8c952c5d878226aa917d7a65836ed88</link>
+<pubDate>Sat, 22 Nov 2025 08:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FlyDubai orders 75 Boeing 737 MAX aircraft in deal worth $13 billion as Emirates buys Airbus A350s]]></title>
-<link>https://apnews.com/article/dubai-air-show-boeing-airbus-airport-1d57cec64aaafe56a4341b25d52c1776</link>
-<pubDate>Wed, 19 Nov 2025 10:13:28 -0000</pubDate>
+<title><![CDATA[Brazil hails US tariff rollback as ‘significant progress’ and seeks more exemptions]]></title>
+<link>https://apnews.com/article/brazil-us-tariffs-coffee-beef-trump-7241778cfdfae17e36ffdd15d8a36652</link>
+<pubDate>Sat, 22 Nov 2025 07:56:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[U.S. employers added surprisingly solid 119,000 jobs in September, government says in delayed report]]></title>
-<link>https://apnews.com/article/jobs-unemployment-economy-trump-tariff-bf603d63e13d6dc1083e9a6616c7ffee</link>
-<pubDate>Thu, 20 Nov 2025 13:14:29 -0000</pubDate>
+<title><![CDATA[OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US]]></title>
+<link>https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe</link>
+<pubDate>Sat, 22 Nov 2025 07:41:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +458,6 @@
 <title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
 <link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
 <pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school]]></title>
-<link>https://apnews.com/article/nigeria-abductions-catholic-school-children-157834ff945cc4efde47d37bb6ed4a88</link>
-<pubDate>Sat, 22 Nov 2025 00:26:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
