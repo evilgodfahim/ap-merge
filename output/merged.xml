@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Nov 2025 08:13:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 08:41:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanon ready to negotiate to reach an agreement that would end Israeli strikes, president says]]></title>
+<link>https://apnews.com/article/lebanon-israel-joseph-aoun-independance-speech-withdrawal-a7b497c99042ce9ca1279f7153763ce2</link>
+<pubDate>Sun, 23 Nov 2025 08:34:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Families of Yemeni aid workers detained by Houthi rebels despair for their fate]]></title>
 <link>https://apnews.com/article/yemen-houthis-rebels-detentions-ngo-aid-dc072defb260f4312e6915b79403c9c0</link>
 <pubDate>Sat, 22 Nov 2025 23:08:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
-<link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
-<pubDate>Fri, 21 Nov 2025 13:16:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brussels hosts talks on Gaza reconstruction, security and governance]]></title>
-<link>https://apnews.com/article/gaza-donors-plan-palestinian-authority-europe-dd42120dc167e3f1b55d0a2925c4d7d4</link>
-<pubDate>Fri, 21 Nov 2025 12:27:44 -0000</pubDate>
+<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
+<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
+<pubDate>Fri, 21 Nov 2025 13:31:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea-Bissau’s president seeks second term in close race marked by tensions]]></title>
+<title><![CDATA[Guinea-Bissau votes as president seeks second term and main opposition party is barred]]></title>
 <link>https://apnews.com/article/guinea-bissau-presidential-election-umaro-sissoco-embalo-7f482e3d8b56246820e4ced91cb9856e</link>
-<pubDate>Sun, 23 Nov 2025 05:10:45 -0000</pubDate>
+<pubDate>Sun, 23 Nov 2025 08:19:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel launches strikes in Gaza ceasefire’s latest test as hospitals say 24 killed]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-news-535e21d36eea41fb9bba645ee7db014c</link>
+<pubDate>Sat, 22 Nov 2025 17:08:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Netanyahu convenes cabinet on settler violence in the West Bank that continues unabated]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
 <pubDate>Fri, 21 Nov 2025 14:10:52 -0000</pubDate>
@@ -416,12 +422,6 @@
 <title><![CDATA[The EU sanctions a Sudanese paramilitary leader after atrocities by his forces in Darfur]]></title>
 <link>https://apnews.com/article/sudan-eu-rapid-support-forces-darfur-3228e17ff980f74639bd20a26d399aad</link>
 <pubDate>Fri, 21 Nov 2025 21:14:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon ready to negotiate to reach an agreement that would end Israeli strikes, president says]]></title>
-<link>https://apnews.com/article/lebanon-israel-joseph-aoun-independance-speech-withdrawal-a7b497c99042ce9ca1279f7153763ce2</link>
-<pubDate>Fri, 21 Nov 2025 20:59:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-detained-american-8c98f75556016cb885d7f18e8331e1d6</link>
-<pubDate>Thu, 20 Nov 2025 18:32:53 -0000</pubDate>
+<title><![CDATA[Eurovision plans changes to voting, security after allegations of Israeli government ‘interference’]]></title>
+<link>https://apnews.com/article/eurovision-israel-voting-changes-3513b0b10b21050335b9049b079e1272</link>
+<pubDate>Fri, 21 Nov 2025 12:33:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
