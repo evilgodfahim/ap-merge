@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Nov 2025 22:10:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 22:38:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The EU sanctions a Sudanese paramilitary leader after atrocities by his forces in Darfur]]></title>
 <link>https://apnews.com/article/sudan-eu-rapid-support-forces-darfur-3228e17ff980f74639bd20a26d399aad</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Many hoped UN climate talks in Brazil would be historic. They may be remembered as a flop]]></title>
+<link>https://apnews.com/article/climate-cop30-deteriorating-process-57457213dc5591dd0bb930f38f007152</link>
+<pubDate>Sun, 23 Nov 2025 22:38:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[An ancient Maya myth finds new life in a Mexican circus company’s performance]]></title>
 <link>https://apnews.com/article/mexico-maya-myth-xibalba-popol-vuh-circus-2803602739c6a3a1462f4cb7508aef7e</link>
 <pubDate>Sun, 23 Nov 2025 14:52:55 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Brazil’s Bolsonaro says ‘hallucinations’ led him to violate ankle monitoring and cause his arrest]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-jail-wife-visit-d80883b34c0fbdc0d9120df46077c033</link>
 <pubDate>Sun, 23 Nov 2025 19:41:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bolsonaro’s conviction brings vindication for some Brazilians who lost loved ones to COVID-19]]></title>
-<link>https://apnews.com/article/brazil-jair-bolsonaro-trial-prison-covid-eb425ff365ed28833038820ebed998e1</link>
-<pubDate>Sun, 23 Nov 2025 11:12:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing]]></title>
+<link>https://apnews.com/article/brazil-pride-lgbt-bolsonaro-e4dfa3dade5cb487cbc688d150a79c06</link>
+<pubDate>Sun, 23 Nov 2025 22:38:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan ‘crossed a red line’ with Taiwan military intervention remarks, Chinese foreign minister says]]></title>
 <link>https://apnews.com/article/china-japan-wang-yi-sanae-takaichi-taiwan-5e219ac2ffb3052bdd8bf4b4adc7c187</link>
 <pubDate>Sun, 23 Nov 2025 14:08:51 -0000</pubDate>
@@ -185,15 +191,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Slovenians vote in a referendum on assisted dying for terminally ill patients]]></title>
+<title><![CDATA[Slovenians reject in a referendum a law on assisted dying for terminally ill patients]]></title>
 <link>https://apnews.com/article/slovenia-referendum-assisted-dying-47e7c1b01a5b813eb63d1a6fb9f44a41</link>
-<pubDate>Sun, 23 Nov 2025 15:56:31 -0000</pubDate>
+<pubDate>Sun, 23 Nov 2025 22:23:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Bosnian Serbs vote to choose president after separatist leader Dodik was removed from office]]></title>
 <link>https://apnews.com/article/bosnia-serbs-election-president-dodik-89004aad3fb11eb8cf0f05ce465e9a0c</link>
 <pubDate>Sun, 23 Nov 2025 18:44:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bolsonaro’s conviction brings vindication for some Brazilians who lost loved ones to COVID-19]]></title>
+<link>https://apnews.com/article/brazil-jair-bolsonaro-trial-prison-covid-eb425ff365ed28833038820ebed998e1</link>
+<pubDate>Sun, 23 Nov 2025 22:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FAA warns all pilots of risks of flying over Venezuela over ‘worsening security situation’]]></title>
-<link>https://apnews.com/article/venezuela-airline-pilots-warning-trump-military-1a612d86f5271c2f99ee9446680a2198</link>
-<pubDate>Fri, 21 Nov 2025 23:15:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Authorities arrest 7 bodyguards in connection with a Mexican mayor’s assassination]]></title>
-<link>https://apnews.com/article/mexico-mayor-michoacan-sheinbaum-cartel-c264ef6b7847a53062bed7448837190f</link>
-<pubDate>Sun, 23 Nov 2025 11:02:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel says it killed a senior Hezbollah official in first strike on Beirut in months]]></title>
 <link>https://apnews.com/article/israel-hezbollah-militant-attack-beirut-70397fba60b5cf504043a7dc7e4e403b</link>
 <pubDate>Sun, 23 Nov 2025 18:44:22 -0000</pubDate>
@@ -446,12 +446,6 @@
 <title><![CDATA[Cargo ship fire in Los Angeles nearly contained after shelter-in-place order lifted]]></title>
 <link>https://apnews.com/article/los-angeles-container-ship-fire-49a427006992bb237e43bc0f0a101b89</link>
 <pubDate>Sat, 22 Nov 2025 22:55:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Many hoped UN climate talks in Brazil would be historic. They may be remembered as a flop]]></title>
-<link>https://apnews.com/article/climate-cop30-deteriorating-process-57457213dc5591dd0bb930f38f007152</link>
-<pubDate>Sun, 23 Nov 2025 15:09:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
