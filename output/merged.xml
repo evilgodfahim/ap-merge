@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 21:10:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 21:36:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire teams rescue 15-year-old stuck on crane over high-rise building in Jerusalem]]></title>
-<link>https://apnews.com/article/jerusalem-crane-israel-teenager-fire-rescue-745b49f0666e16b39c2fb847d8b7ab89</link>
-<pubDate>Mon, 24 Nov 2025 17:56:42 -0000</pubDate>
+<title><![CDATA[Photos show mourners in Tehran honoring the unknown soldiers killed in the 1980’s Iran-Iraq war]]></title>
+<link>https://apnews.com/photo-gallery/unknown-soldiers-funeral-tehran-iran-iraq-war-0f8a4176d340bf6a3718ea278ff89005</link>
+<pubDate>Mon, 24 Nov 2025 21:36:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sectarian tensions flare in Syria’s Homs after the killing of a Bedouin couple]]></title>
-<link>https://apnews.com/article/syria-homs-sectarian-tensions-f3e920ced4cde90f15552b768d720e7d</link>
-<pubDate>Mon, 24 Nov 2025 13:06:56 -0000</pubDate>
+<title><![CDATA[Houthi court in Yemen hands down death sentences to 17 people accused of spying]]></title>
+<link>https://apnews.com/article/yemen-houthis-sentences-crackdown-court-civil-war-bb7e10145bdd000f7cc43738cbd0e930</link>
+<pubDate>Mon, 24 Nov 2025 15:12:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A guide to Thanksgiving travel after the government shutdown]]></title>
-<link>https://apnews.com/article/thanksgiving-travel-flights-after-shutdown-75b7e70a055655425ddf576a17c6dc76</link>
-<pubDate>Mon, 24 Nov 2025 15:42:20 -0000</pubDate>
+<title><![CDATA[Lawmakers question legality of Border Patrol license plate reader program]]></title>
+<link>https://apnews.com/article/border-patrol-surveillance-license-plate-readers-immigration-5daca3741b28c55374912d8eebeec8db</link>
+<pubDate>Mon, 24 Nov 2025 21:21:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French President Emmanuel Macron visits Gabon, in photos]]></title>
+<link>https://apnews.com/photo-gallery/macron-france-gabon-nguema-photos-2a28f3e70e0a75d0def78116867452d6</link>
+<pubDate>Mon, 24 Nov 2025 21:36:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-24-2025-53410ef3c6966c9c986588f9061ca8f8</link>
+<pubDate>Mon, 24 Nov 2025 21:21:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkish delegation holds rare peace talks with jailed Kurdish leader Abdullah Ocalan]]></title>
 <link>https://apnews.com/article/turkey-pkk-ocalan-legislator-peace-talks-e8214abbb62e39640101f18f74473114</link>
 <pubDate>Mon, 24 Nov 2025 18:47:54 -0000</pubDate>
@@ -194,6 +206,12 @@
 <title><![CDATA[Top US military adviser visits Caribbean as Trump ramps up pressure on Venezuela]]></title>
 <link>https://apnews.com/article/caine-caribbean-military-venezuela-boat-strikes-02073d27c1d264deb0fb1afd03cc1971</link>
 <pubDate>Mon, 24 Nov 2025 17:39:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fire teams rescue 15-year-old stuck on crane over high-rise building in Jerusalem]]></title>
+<link>https://apnews.com/article/jerusalem-crane-israel-teenager-fire-rescue-745b49f0666e16b39c2fb847d8b7ab89</link>
+<pubDate>Mon, 24 Nov 2025 21:06:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sectarian tensions flare in Syria’s Homs after the killing of a Bedouin couple]]></title>
+<link>https://apnews.com/article/syria-homs-sectarian-tensions-f3e920ced4cde90f15552b768d720e7d</link>
+<pubDate>Mon, 24 Nov 2025 15:12:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope calls on kidnappers in Nigeria to free 265 students and teachers after some pupils escape]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-27b48d3b2e83c3822ef1e40a6a270639</link>
 <pubDate>Mon, 24 Nov 2025 19:57:31 -0000</pubDate>
@@ -326,24 +350,6 @@
 <title><![CDATA[Israel says it killed a senior Hezbollah official in its first strike on Beirut in months]]></title>
 <link>https://apnews.com/article/israel-hezbollah-militant-attack-beirut-70397fba60b5cf504043a7dc7e4e403b</link>
 <pubDate>Mon, 24 Nov 2025 14:57:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in Vietnam floods reaches 90]]></title>
-<link>https://apnews.com/article/vietnam-flood-rains-landslides-casualties-af29727651f5611fc2273f115a50416b</link>
-<pubDate>Sun, 23 Nov 2025 12:56:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Prince Andrew should testify in US investigation into Jeffrey Epstein, UK leader suggests]]></title>
-<link>https://apnews.com/article/andrew-mountbatten-windsor-prince-epstein-808239319d507fdb4334ae24f3b73341</link>
-<pubDate>Sun, 23 Nov 2025 12:41:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Slovenians reject in a referendum a law on assisted dying for terminally ill patients]]></title>
-<link>https://apnews.com/article/slovenia-referendum-assisted-dying-47e7c1b01a5b813eb63d1a6fb9f44a41</link>
-<pubDate>Sun, 23 Nov 2025 22:23:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
