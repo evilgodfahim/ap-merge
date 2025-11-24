@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 19:32:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 20:12:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll climbs in Southeast Asia as heavy rains cause floods and landslides]]></title>
+<link>https://apnews.com/article/vietnam-thailand-malaysia-flood-landslide-death-rain-843880c3b08548b973bb4ed2fc233b7d</link>
+<pubDate>Mon, 24 Nov 2025 20:12:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Philippine president says 7 suspects in corruption scandal have been detained, others being sought]]></title>
 <link>https://apnews.com/article/flood-control-corruption-philippines-president-ferdinand-marcos-jr-52e177fb4f8c2fa75ab3d4b49fc0a096</link>
 <pubDate>Mon, 24 Nov 2025 03:51:54 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Suicide bombers strike security force headquarters in northwestern Pakistan, killing 3 officers]]></title>
 <link>https://apnews.com/article/pakistan-suicide-bombing-security-forces-headquarter-peshawar-0ac97bef791acfa9f46055608f1f32c7</link>
 <pubDate>Mon, 24 Nov 2025 05:48:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean man gets life sentence over blackmail ring that sexually exploited or abused hundreds]]></title>
-<link>https://apnews.com/article/south-korea-life-sentence-sex-crime-telegram-98dec485202947f4cbfc8e4679414bcc</link>
-<pubDate>Mon, 24 Nov 2025 11:24:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Takeaways from the first G20 summit in Africa and a look ahead to the next one at Trump’s golf club]]></title>
+<link>https://apnews.com/article/g20-summit-us-trump-south-africa-9319ab09e72bb7ded49984f71cd591ac</link>
+<pubDate>Mon, 24 Nov 2025 19:57:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A timeline of abductions from schools in Nigeria]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-timeline-bandits-b598297dafa798cb7c18c68073e86a39</link>
 <pubDate>Mon, 24 Nov 2025 14:12:01 -0000</pubDate>
@@ -95,33 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope calls on kidnappers in Nigeria to free 265 students and teachers after some pupils escape]]></title>
-<link>https://apnews.com/article/nigeria-school-abductions-27b48d3b2e83c3822ef1e40a6a270639</link>
-<pubDate>Mon, 24 Nov 2025 01:31:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thousands of arrests by Trump’s crime-fighting task force in Memphis strain crowded jail and courts]]></title>
 <link>https://apnews.com/article/memphis-crime-task-force-trump-jail-courts-a59db72f7f195b7517518e94e9cd20bd</link>
 <pubDate>Mon, 24 Nov 2025 17:11:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stores keep prices down in a tough year for turkeys. Other Thanksgiving foods may cost more]]></title>
-<link>https://apnews.com/article/thanksgiving-turkey-food-prices-2025-5754f2e4c7ca8747b75a4b3efe15297f</link>
-<pubDate>Mon, 24 Nov 2025 05:33:06 -0000</pubDate>
+<title><![CDATA[Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home]]></title>
+<link>https://apnews.com/article/slender-man-stabbing-missing-woman-found-193ba2ceb6ef77a17b3d499e54e095ff</link>
+<pubDate>Mon, 24 Nov 2025 10:54:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pentagon says it’s investigating Sen. Mark Kelly over video urging troops to defy ‘illegal orders’]]></title>
+<link>https://apnews.com/article/pentagon-mark-kelly-troop-investigation-4882f76b05dcdfa3060c284c2c84dd12</link>
+<pubDate>Mon, 24 Nov 2025 19:42:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A guide to Thanksgiving travel after the government shutdown]]></title>
 <link>https://apnews.com/article/thanksgiving-travel-flights-after-shutdown-75b7e70a055655425ddf576a17c6dc76</link>
 <pubDate>Mon, 24 Nov 2025 15:42:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Melania Trump welcomes Christmas tree to the White House]]></title>
-<link>https://apnews.com/article/white-house-christmas-tree-3249c03bec94e4ac99cc6002733a971c</link>
-<pubDate>Mon, 24 Nov 2025 16:56:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,12 +179,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from the first G20 summit in Africa and a look ahead to the next one at Trump’s golf club]]></title>
-<link>https://apnews.com/article/g20-summit-us-trump-south-africa-9319ab09e72bb7ded49984f71cd591ac</link>
-<pubDate>Mon, 24 Nov 2025 18:32:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[6 notable songs from Jimmy Cliff, the reggae star who has died at 81]]></title>
 <link>https://apnews.com/article/jimmy-cliff-notable-songs-fcd4cf1bcd3e358e9994a4c44997c5a6</link>
 <pubDate>Mon, 24 Nov 2025 18:17:54 -0000</pubDate>
@@ -206,12 +200,6 @@
 <title><![CDATA[Lithuanian court convicts man in arson attack on IKEA store last year]]></title>
 <link>https://apnews.com/article/lithuania-ikea-vilnius-arson-attack-trial-russia-aa9c5289401dcb543095137edb0d5a61</link>
 <pubDate>Mon, 24 Nov 2025 16:12:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[BBC leaders to face lawmakers’ grilling over its standards after Trump threatened to sue]]></title>
-<link>https://apnews.com/article/bbc-editing-trump-crisis-13ac71b7b342aac8eed9dda77c7107f8</link>
-<pubDate>Mon, 24 Nov 2025 14:53:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -248,6 +236,12 @@
 <title><![CDATA[Malaysia to ban social media for children under 16 next year]]></title>
 <link>https://apnews.com/article/malaysia-social-media-ban-under-16-1e9e20321c8c83c470ff7489139f10b8</link>
 <pubDate>Mon, 24 Nov 2025 12:21:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korean man gets life sentence over blackmail ring that sexually exploited or abused hundreds]]></title>
+<link>https://apnews.com/article/south-korea-life-sentence-sex-crime-telegram-98dec485202947f4cbfc8e4679414bcc</link>
+<pubDate>Mon, 24 Nov 2025 20:12:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -314,6 +308,12 @@
 <title><![CDATA[Brazil’s Bolsonaro says ‘hallucinations’ led him to violate ankle monitoring and cause his arrest]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-jail-wife-visit-d80883b34c0fbdc0d9120df46077c033</link>
 <pubDate>Mon, 24 Nov 2025 14:08:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope calls on kidnappers in Nigeria to free 265 students and teachers after some pupils escape]]></title>
+<link>https://apnews.com/article/nigeria-school-abductions-27b48d3b2e83c3822ef1e40a6a270639</link>
+<pubDate>Mon, 24 Nov 2025 19:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
