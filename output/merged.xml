@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 12:21:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 13:06:57 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Sectarian tensions flare in Syria’s Homs after the killing of a Bedouin couple]]></title>
+<link>https://apnews.com/article/syria-homs-sectarian-tensions-f3e920ced4cde90f15552b768d720e7d</link>
+<pubDate>Mon, 24 Nov 2025 13:06:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Families of Yemeni aid workers detained by Houthi rebels despair for their fate]]></title>
 <link>https://apnews.com/article/yemen-houthis-rebels-detentions-ngo-aid-dc072defb260f4312e6915b79403c9c0</link>
 <pubDate>Sat, 22 Nov 2025 23:08:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon ready to negotiate to reach an agreement that would end Israeli strikes, president says]]></title>
-<link>https://apnews.com/article/lebanon-israel-joseph-aoun-independance-speech-withdrawal-a7b497c99042ce9ca1279f7153763ce2</link>
-<pubDate>Sun, 23 Nov 2025 08:34:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK navy intercepts Russian corvette and tanker as Moscow steps up naval activity]]></title>
-<link>https://apnews.com/article/royal-navy-yantar-spy-ships-english-channel-4243184fbfe591a38556907923ad50a1</link>
-<pubDate>Sun, 23 Nov 2025 19:56:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
 <pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Germany’s Christmas markets open with festive cheer and tight security]]></title>
+<link>https://apnews.com/article/germany-christmas-markets-security-6696560feb4f3781717eeff76760a93a</link>
+<pubDate>Mon, 24 Nov 2025 12:51:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran rejects UN atomic agency’s resolution and threatens more reprisal actions]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-resolution-un-reprisal-actions-ba9d12f8fb843aca51330a9ad4e94ffb</link>
-<pubDate>Sun, 23 Nov 2025 16:11:31 -0000</pubDate>
+<title><![CDATA[Netanyahu convenes cabinet on settler violence in the West Bank that continues unabated]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
+<pubDate>Mon, 24 Nov 2025 06:18:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK navy intercepts Russian corvette and tanker as Moscow steps up naval activity]]></title>
+<link>https://apnews.com/article/royal-navy-yantar-spy-ships-english-channel-4243184fbfe591a38556907923ad50a1</link>
+<pubDate>Sun, 23 Nov 2025 16:11:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll in Vietnam floods reaches 90]]></title>
 <link>https://apnews.com/article/vietnam-flood-rains-landslides-casualties-af29727651f5611fc2273f115a50416b</link>
 <pubDate>Sun, 23 Nov 2025 12:56:32 -0000</pubDate>
@@ -365,6 +371,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar state television broadcasts army crackdown on scam centers]]></title>
+<link>https://apnews.com/article/myanmar-scam-centers-cybercrime-karen-military-4a54ce7cbfc88d51efa2bc009443c39c</link>
+<pubDate>Mon, 24 Nov 2025 13:06:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
 <pubDate>Mon, 24 Nov 2025 08:33:08 -0000</pubDate>
@@ -455,6 +467,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lebanon ready to negotiate to reach an agreement that would end Israeli strikes, president says]]></title>
+<link>https://apnews.com/article/lebanon-israel-joseph-aoun-independance-speech-withdrawal-a7b497c99042ce9ca1279f7153763ce2</link>
+<pubDate>Fri, 21 Nov 2025 20:59:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cameroon opposition leader flees to Gambia after contested election]]></title>
 <link>https://apnews.com/article/gambia-cameroon-tchiroma-biya-577feffb4f3182906495e42338709f26</link>
 <pubDate>Mon, 24 Nov 2025 09:55:03 -0000</pubDate>
@@ -473,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa takes 4 wickets in 1st session on Day 3 as India struggles in 2nd cricket test]]></title>
+<title><![CDATA[Marco Jansen’s 6-48 helps South Africa to commanding 314-run lead over India in 2nd cricket test]]></title>
 <link>https://apnews.com/article/india-cricket-south-africa-e8362237b7499e2812076a3809489030</link>
-<pubDate>Mon, 24 Nov 2025 06:42:41 -0000</pubDate>
+<pubDate>Mon, 24 Nov 2025 12:51:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
