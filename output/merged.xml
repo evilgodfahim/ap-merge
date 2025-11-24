@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 17:10:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 17:39:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -179,15 +179,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lithuanian court convicts man in arson attack on IKEA store last year]]></title>
-<link>https://apnews.com/article/lithuania-ikea-vilnius-arson-attack-trial-russia-aa9c5289401dcb543095137edb0d5a61</link>
-<pubDate>Mon, 24 Nov 2025 16:12:01 -0000</pubDate>
+<title><![CDATA[Top US military adviser visits Caribbean as Trump ramps up pressure on Venezuela]]></title>
+<link>https://apnews.com/article/caine-caribbean-military-venezuela-boat-strikes-02073d27c1d264deb0fb1afd03cc1971</link>
+<pubDate>Mon, 24 Nov 2025 17:39:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump, Xi spoke on phone Monday to discuss trade, Taiwan and Ukraine, US and Chinese officials say]]></title>
-<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
-<pubDate>Mon, 24 Nov 2025 15:57:01 -0000</pubDate>
+<title><![CDATA[Poland’s foreign minister summons Israeli ambassador over Yad Vashem post]]></title>
+<link>https://apnews.com/article/poland-yad-vashem-nazi-germany-48cef0a5fad71e398bb47d46ee78783c</link>
+<pubDate>Mon, 24 Nov 2025 17:24:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lithuanian court convicts man in arson attack on IKEA store last year]]></title>
+<link>https://apnews.com/article/lithuania-ikea-vilnius-arson-attack-trial-russia-aa9c5289401dcb543095137edb0d5a61</link>
+<pubDate>Mon, 24 Nov 2025 16:12:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,21 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[AP mapping shows France’s poorest regions backing Le Pen’s party as support for Macron wanes]]></title>
-<link>https://apnews.com/article/france-le-pen-macron-poverty-election-maps-c9f07cf760d3930498017f132f95443e</link>
-<pubDate>Mon, 24 Nov 2025 06:18:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bolsonaro’s conviction brings vindication for some Brazilians who lost loved ones to COVID-19]]></title>
-<link>https://apnews.com/article/brazil-jair-bolsonaro-trial-prison-covid-eb425ff365ed28833038820ebed998e1</link>
-<pubDate>Sun, 23 Nov 2025 22:08:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European officials welcome progress in talks on US proposals to end Russia-Ukraine war]]></title>
+<title><![CDATA[Officials cite progress on amending US peace plan for Ukraine but give no details]]></title>
 <link>https://apnews.com/article/russia-ukraine-talks-geneva-82df43cdad38d81cd86b1907b25436da</link>
-<pubDate>Mon, 24 Nov 2025 10:59:06 -0000</pubDate>
+<pubDate>Mon, 24 Nov 2025 17:27:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll climbs in Southeast Asia as heavy rains cause floods and landslides]]></title>
-<link>https://apnews.com/article/vietnam-thailand-malaysia-flood-landslide-death-rain-843880c3b08548b973bb4ed2fc233b7d</link>
-<pubDate>Mon, 24 Nov 2025 08:48:08 -0000</pubDate>
+<title><![CDATA[Trump, Xi spoke on phone Monday to discuss trade, Taiwan and Ukraine, US and Chinese officials say]]></title>
+<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
+<pubDate>Mon, 24 Nov 2025 17:12:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar state television broadcasts army crackdown on scam centers]]></title>
-<link>https://apnews.com/article/myanmar-scam-centers-cybercrime-karen-military-4a54ce7cbfc88d51efa2bc009443c39c</link>
-<pubDate>Mon, 24 Nov 2025 13:06:56 -0000</pubDate>
+<title><![CDATA[Death toll climbs in Southeast Asia as heavy rains cause floods and landslides]]></title>
+<link>https://apnews.com/article/vietnam-thailand-malaysia-flood-landslide-death-rain-843880c3b08548b973bb4ed2fc233b7d</link>
+<pubDate>Mon, 24 Nov 2025 08:48:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,6 +443,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar state television broadcasts army crackdown on scam centers]]></title>
+<link>https://apnews.com/article/myanmar-scam-centers-cybercrime-karen-military-4a54ce7cbfc88d51efa2bc009443c39c</link>
+<pubDate>Mon, 24 Nov 2025 13:06:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s jailing after ankle monitor tampering]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
 <pubDate>Mon, 24 Nov 2025 15:12:41 -0000</pubDate>
@@ -461,9 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands of arrests by Trump’s crime-fighting task force in Memphis strain crowded jail and courts]]></title>
-<link>https://apnews.com/article/memphis-crime-task-force-trump-jail-courts-a59db72f7f195b7517518e94e9cd20bd</link>
-<pubDate>Mon, 24 Nov 2025 05:07:54 -0000</pubDate>
+<title><![CDATA[Pentagon says it’s investigating Sen. Mark Kelly for video urging troops to defy ‘illegal orders’]]></title>
+<link>https://apnews.com/article/pentagon-mark-kelly-troop-investigation-4882f76b05dcdfa3060c284c2c84dd12</link>
+<pubDate>Mon, 24 Nov 2025 16:57:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeoff of China’s flying taxis hits turbulence]]></title>
+<link>https://apnews.com/article/china-flying-cars-drones-evtol-airspace-72e7eb6883bd0b865a05cbb041d505fb</link>
+<pubDate>Mon, 24 Nov 2025 02:24:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
