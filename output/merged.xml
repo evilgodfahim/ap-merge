@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 18:49:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 19:07:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine peace plan darkens the mood across a war-torn nation]]></title>
-<link>https://apnews.com/article/ukraine-russia-bucha-war-trump-peace-plan-c426d6a4bc936e23545778a4c0353dd9</link>
-<pubDate>Sun, 23 Nov 2025 20:11:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
 <pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Poland’s foreign minister summons Israeli ambassador over Yad Vashem post]]></title>
+<link>https://apnews.com/article/poland-yad-vashem-nazi-germany-48cef0a5fad71e398bb47d46ee78783c</link>
+<pubDate>Mon, 24 Nov 2025 19:07:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia detains Lev Tahor sect members and takes 17 children into protective custody]]></title>
+<title><![CDATA[Colombia raids hotel hosting Lev Tahor sect members and takes 17 children into protective custody]]></title>
 <link>https://apnews.com/article/colombia-lev-tahor-ultra-orthodox-jewish-sect-161c2367da894ef5ca45ccbc618283af</link>
-<pubDate>Mon, 24 Nov 2025 17:26:42 -0000</pubDate>
+<pubDate>Mon, 24 Nov 2025 18:52:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Airlines cancel flights to Venezuela after FAA warns of worsening security, military activity]]></title>
-<link>https://apnews.com/article/venezuela-airlines-faa-canceled-maduro-cf4d806bb870f388013af93fc5aada47</link>
-<pubDate>Mon, 24 Nov 2025 14:57:41 -0000</pubDate>
+<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
+<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
+<pubDate>Mon, 24 Nov 2025 18:37:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -296,6 +296,12 @@
 <title><![CDATA[Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing]]></title>
 <link>https://apnews.com/article/brazil-pride-lgbt-bolsonaro-e4dfa3dade5cb487cbc688d150a79c06</link>
 <pubDate>Sun, 23 Nov 2025 22:38:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Airlines cancel flights to Venezuela after FAA warns of worsening security, military activity]]></title>
+<link>https://apnews.com/article/venezuela-airlines-faa-canceled-maduro-cf4d806bb870f388013af93fc5aada47</link>
+<pubDate>Mon, 24 Nov 2025 17:47:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
