@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 11:35:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 12:21:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Families of Yemeni aid workers detained by Houthi rebels despair for their fate]]></title>
 <link>https://apnews.com/article/yemen-houthis-rebels-detentions-ngo-aid-dc072defb260f4312e6915b79403c9c0</link>
@@ -170,6 +170,12 @@
 <title><![CDATA[Pakistani forces step up raids near the Afghan border, killing 23 militants]]></title>
 <link>https://apnews.com/article/pakistan-security-forces-killed-militants-afghanistan-a8afa748dcc24bb8d9a793a138baca87</link>
 <pubDate>Thu, 20 Nov 2025 08:01:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Malaysia to ban social media for children under 16 next year]]></title>
+<link>https://apnews.com/article/malaysia-social-media-ban-under-16-1e9e20321c8c83c470ff7489139f10b8</link>
+<pubDate>Mon, 24 Nov 2025 12:21:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV accepts resignation of Spanish bishop accused of abuse in first known case for pontiff]]></title>
-<link>https://apnews.com/article/vatican-pope-spain-clergy-abuse-fbdf2a2299f7fe3d83c0b55f3eab80be</link>
-<pubDate>Sun, 23 Nov 2025 06:15:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Britain’s Daily Mail publisher enters exclusive talks to buy Telegraph Media Group for $654 million]]></title>
-<link>https://apnews.com/article/britain-daily-mail-telegraph-deal-ec5512e7b40aa16c9573d25d083e82ae</link>
-<pubDate>Sat, 22 Nov 2025 12:56:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[European officials welcome progress in talks on US proposals to end Russia-Ukraine war]]></title>
 <link>https://apnews.com/article/russia-ukraine-talks-geneva-82df43cdad38d81cd86b1907b25436da</link>
 <pubDate>Mon, 24 Nov 2025 10:59:06 -0000</pubDate>
@@ -401,15 +395,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Houthi court in Yemen hands down death sentences to 17 people accused of spying]]></title>
-<link>https://apnews.com/article/yemen-houthis-sentences-crackdown-court-civil-war-bb7e10145bdd000f7cc43738cbd0e930</link>
-<pubDate>Sun, 23 Nov 2025 15:56:32 -0000</pubDate>
+<title><![CDATA[Israel says it killed a senior Hezbollah official in its first strike on Beirut in months]]></title>
+<link>https://apnews.com/article/israel-hezbollah-militant-attack-beirut-70397fba60b5cf504043a7dc7e4e403b</link>
+<pubDate>Mon, 24 Nov 2025 01:19:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sectarian tensions flare in Syria’s Homs after the killing of a Bedouin couple]]></title>
-<link>https://apnews.com/article/syria-homs-sectarian-tensions-f3e920ced4cde90f15552b768d720e7d</link>
-<pubDate>Sun, 23 Nov 2025 16:11:32 -0000</pubDate>
+<title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
+<link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
+<pubDate>Mon, 24 Nov 2025 12:03:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Houthi court in Yemen hands down death sentences to 17 people accused of spying]]></title>
+<link>https://apnews.com/article/yemen-houthis-sentences-crackdown-court-civil-war-bb7e10145bdd000f7cc43738cbd0e930</link>
+<pubDate>Sun, 23 Nov 2025 15:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +452,6 @@
 <title><![CDATA[Airlines cancel flights to Venezuela after FAA warns of worsening security, military activity]]></title>
 <link>https://apnews.com/article/venezuela-airlines-faa-canceled-maduro-cf4d806bb870f388013af93fc5aada47</link>
 <pubDate>Sun, 23 Nov 2025 19:39:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu convenes cabinet on settler violence in the West Bank that continues unabated]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-palestine-west-bank-04a9ec4d55e1e0556428ca23c70efe91</link>
-<pubDate>Fri, 21 Nov 2025 14:10:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
