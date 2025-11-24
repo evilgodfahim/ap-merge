@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 09:43:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 10:13:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Families of Yemeni aid workers detained by Houthi rebels despair for their fate]]></title>
 <link>https://apnews.com/article/yemen-houthis-rebels-detentions-ngo-aid-dc072defb260f4312e6915b79403c9c0</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The G20 summit in South Africa ends with the glaring absence of the US after Trump’s boycott]]></title>
+<link>https://apnews.com/article/g20-south-africa-summit-world-leaders-76e36aa669a8e05ff5ad5495cc1252ed</link>
+<pubDate>Sun, 23 Nov 2025 13:34:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope calls on kidnappers in Nigeria to free 265 students and teachers after some pupils escape]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-27b48d3b2e83c3822ef1e40a6a270639</link>
 <pubDate>Mon, 24 Nov 2025 01:31:58 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Developing nations push for climate action and debt relief at G20 summit in South Africa]]></title>
 <link>https://apnews.com/article/g20-developing-climate-debt-africa-3bd33fcb71b7c43f496d3f08922d56cb</link>
 <pubDate>Sun, 23 Nov 2025 14:22:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US signals broader efforts to protect Nigeria’s Christians following Trump’s military threat]]></title>
-<link>https://apnews.com/article/nigeria-christians-killings-trump-military-575ef1b843680e0b053afc0fbc472f95</link>
-<pubDate>Sun, 23 Nov 2025 14:07:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,15 +137,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports to the world rise, but Trump’s tariffs dent its shipments to the US]]></title>
-<link>https://apnews.com/article/japan-trade-imports-exports-tariffs-trump-3672f49a4114d842b3fa266471687b61</link>
-<pubDate>Fri, 21 Nov 2025 20:40:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[No 2026 World Cup spot but China is experiencing a grassroots soccer revival]]></title>
 <link>https://apnews.com/article/china-soccer-revival-domestic-leagues-132440b0dd38395068def9cc88a91eeb</link>
 <pubDate>Fri, 21 Nov 2025 03:31:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[GE Appliances bolsters ties with US suppliers as it moves production from China to Kentucky]]></title>
+<link>https://apnews.com/article/ge-appliances-suppliers-contracts-18ac7405d9ee25e983c28c64cd211789</link>
+<pubDate>Thu, 20 Nov 2025 14:53:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US signals broader efforts to protect Nigeria’s Christians following Trump’s military threat]]></title>
+<link>https://apnews.com/article/nigeria-christians-killings-trump-military-575ef1b843680e0b053afc0fbc472f95</link>
+<pubDate>Mon, 24 Nov 2025 09:59:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indigenous people reflect on the meaning of their participation in COP30 climate talks]]></title>
 <link>https://apnews.com/article/climate-cop30-indigenous-united-nations-brazil-1470da4984fe75ca8a44b7bc12f29b49</link>
 <pubDate>Sun, 23 Nov 2025 18:29:21 -0000</pubDate>
@@ -344,12 +350,6 @@
 <title><![CDATA[23 children die of malnutrition within a month in Sudan’s Kordofan region]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-kordofan-famine-2ccec8a65d94e40bad2e84315aa2b9ff</link>
 <pubDate>Sun, 23 Nov 2025 11:17:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s ex-president Bolsonaro arrested over alleged plot to escape and avoid 27-year prison term]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-prison-arrest-d68ae43b99762c577efe7e6ba20b0542</link>
-<pubDate>Sun, 23 Nov 2025 06:00:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The G20 summit in South Africa ends with the glaring absence of the US after Trump’s boycott]]></title>
-<link>https://apnews.com/article/g20-south-africa-summit-world-leaders-76e36aa669a8e05ff5ad5495cc1252ed</link>
-<pubDate>Sun, 23 Nov 2025 14:39:34 -0000</pubDate>
+<title><![CDATA[Cameroon opposition leader flees to Gambia after contested election]]></title>
+<link>https://apnews.com/article/gambia-cameroon-tchiroma-biya-577feffb4f3182906495e42338709f26</link>
+<pubDate>Mon, 24 Nov 2025 09:55:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
