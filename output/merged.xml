@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 20:12:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 20:38:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
-<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
-<pubDate>Mon, 24 Nov 2025 18:17:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Officials say progress made on amending US peace plan for Ukraine]]></title>
 <link>https://apnews.com/article/russia-ukraine-talks-geneva-82df43cdad38d81cd86b1907b25436da</link>
 <pubDate>Mon, 24 Nov 2025 19:32:35 -0000</pubDate>
@@ -362,6 +356,12 @@
 <title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
 <link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
 <pubDate>Mon, 24 Nov 2025 16:06:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
+<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
+<pubDate>Mon, 24 Nov 2025 18:17:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +446,6 @@
 <title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s jailing after ankle monitor tampering]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
 <pubDate>Mon, 24 Nov 2025 15:12:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Houthi court in Yemen hands down death sentences to 17 people accused of spying]]></title>
-<link>https://apnews.com/article/yemen-houthis-sentences-crackdown-court-civil-war-bb7e10145bdd000f7cc43738cbd0e930</link>
-<pubDate>Sun, 23 Nov 2025 15:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
