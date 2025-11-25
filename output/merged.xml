@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 07:12:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 07:37:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
 <link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
@@ -305,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Dharmendra, iconic Bollywood actor and Indian cinema’s ‘He-Man,’ dies at 89]]></title>
+<link>https://apnews.com/article/india-obit-dharmendra-bollywood-c5303c0c0ad57f01f4cf10a60fca9a4d</link>
+<pubDate>Tue, 25 Nov 2025 07:30:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll climbs in Southeast Asia as heavy rains cause floods and landslides]]></title>
 <link>https://apnews.com/article/vietnam-thailand-malaysia-flood-landslide-death-rain-843880c3b08548b973bb4ed2fc233b7d</link>
 <pubDate>Tue, 25 Nov 2025 01:58:02 -0000</pubDate>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
-<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
-<pubDate>Mon, 24 Nov 2025 10:10:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia strikes Ukraine’s capital despite US peace push]]></title>
+<title><![CDATA[Russian attacks kill at least 6 in Ukraine while US peace plan is discussed]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
-<pubDate>Tue, 25 Nov 2025 03:10:02 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 07:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
