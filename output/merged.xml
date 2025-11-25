@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 17:40:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 18:17:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
 <link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US push for Russia-Ukraine peace deal gains momentum as attacks on Kyiv kill 7]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
+<pubDate>Tue, 25 Nov 2025 16:57:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel says it receives another set of human remains from militants in Gaza]]></title>
 <link>https://apnews.com/article/gaza-israel-hostage-body-ceasefire-rains-f97bdf2d6212b766e1aa3359f3a33004</link>
 <pubDate>Tue, 25 Nov 2025 17:12:17 -0000</pubDate>
@@ -356,12 +362,6 @@
 <title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
 <link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
 <pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian hackers target US engineering firm because of work done for Ukrainian sister city]]></title>
-<link>https://apnews.com/article/russia-ukraine-trump-kyiv-arctic-wolf-cyberattack-4b1c167746f2c0e7d263be94f0aa94b0</link>
-<pubDate>Tue, 25 Nov 2025 13:43:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Most US stocks rise, but Nvidia’s drop keeps the market in check]]></title>
+<title><![CDATA[US stocks rise, but Nvidia’s drop keeps the market in check]]></title>
 <link>https://apnews.com/article/stocks-rates-alibaba-china-trump-markets-e0f5d3695f77267911406cb119115f6b</link>
-<pubDate>Tue, 25 Nov 2025 16:09:06 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 18:17:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,12 +431,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US push for Russia-Ukraine peace deal gains momentum as attacks on Kyiv kill 7]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
-<pubDate>Tue, 25 Nov 2025 16:57:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistan denies Afghanistan’s claims of airstrikes killing 10 people, mostly children]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-2d5239006f41b3ee94c361715d792c03</link>
 <pubDate>Tue, 25 Nov 2025 13:13:07 -0000</pubDate>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A tornado damages homes near Houston as rain falls in the South and snow comes down in the Midwest]]></title>
-<link>https://apnews.com/article/severe-weather-texas-tornado-travel-ff20367238823f401aba3aeca84b746f</link>
-<pubDate>Tue, 25 Nov 2025 16:42:17 -0000</pubDate>
+<title><![CDATA[Some DACA recipients have been arrested in the Trump’s immigration crackdown]]></title>
+<link>https://apnews.com/article/daca-immigration-trump-texas-f6b4d275e62fa888285fb65004a969c4</link>
+<pubDate>Tue, 25 Nov 2025 18:02:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
