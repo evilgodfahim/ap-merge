@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 09:13:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 09:41:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
 <link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[News from outside disappears in North Korea]]></title>
+<link>https://apnews.com/article/north-korea-radio-internet-foreign-news-aa4b74d9f602437e77d14690f029e474</link>
+<pubDate>Tue, 25 Nov 2025 09:41:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
 <link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
 <pubDate>Tue, 25 Nov 2025 05:48:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3D-printed guns FBI boss Kash Patel gifted to New Zealand officials were toy-inspired revolvers]]></title>
+<title><![CDATA[3D-printed guns that FBI boss Kash Patel gifted to New Zealand officials were toy-inspired revolvers]]></title>
 <link>https://apnews.com/article/kash-patel-guns-new-zealand-pistols-gifts-a2e7146a8423866f837ec372895fef54</link>
-<pubDate>Tue, 25 Nov 2025 03:35:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australian Sen. Pauline Hanson suspended from Parliament for wearing burqa in protest]]></title>
-<link>https://apnews.com/article/australia-pauline-hanson-burqa-ban-senate-2db5e6143fbf3b9c77e1bac14ab32499</link>
-<pubDate>Tue, 25 Nov 2025 08:16:17 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 09:26:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Takeoff of China’s flying taxis hits turbulence]]></title>
+<link>https://apnews.com/article/china-flying-cars-drones-evtol-airspace-72e7eb6883bd0b865a05cbb041d505fb</link>
+<pubDate>Mon, 24 Nov 2025 05:13:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan ‘crossed a red line’ with Taiwan military intervention remarks, Chinese foreign minister says]]></title>
 <link>https://apnews.com/article/china-japan-wang-yi-sanae-takaichi-taiwan-5e219ac2ffb3052bdd8bf4b4adc7c187</link>
 <pubDate>Mon, 24 Nov 2025 01:46:58 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
 <link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
 <pubDate>Sat, 22 Nov 2025 00:03:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[No 2026 World Cup spot but China is experiencing a grassroots soccer revival]]></title>
-<link>https://apnews.com/article/china-soccer-revival-domestic-leagues-132440b0dd38395068def9cc88a91eeb</link>
-<pubDate>Fri, 21 Nov 2025 03:31:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[News from outside disappears in North Korea]]></title>
-<link>https://apnews.com/article/north-korea-radio-internet-foreign-news-aa4b74d9f602437e77d14690f029e474</link>
-<pubDate>Tue, 25 Nov 2025 04:16:17 -0000</pubDate>
+<title><![CDATA[Amnesty accuses Sudanese paramilitary group RSF of committing war crimes in Darfur city of el-Fasher]]></title>
+<link>https://apnews.com/article/sudan-war-amnesty-report-rsf-atrocities-darfur-befe180d6d2c30b563ce87f3b4b6c8f2</link>
+<pubDate>Tue, 25 Nov 2025 09:39:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rights groups slam Trump administration for ending Myanmar deportation protection as civil war rages]]></title>
+<link>https://apnews.com/article/myanmar-us-deportation-protection-civil-war-ce99bb3f8f30aec9745046c41ac7fa1b</link>
+<pubDate>Tue, 25 Nov 2025 09:24:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,33 +413,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bubble fears ease but investors still waiting for AI to live up to its promise]]></title>
-<link>https://apnews.com/article/nvidia-artificial-intelligence-bubble-boom-earnings-77269f1931911dd2a92538b44285a039</link>
-<pubDate>Sat, 22 Nov 2025 08:26:36 -0000</pubDate>
+<title><![CDATA[World shares advance after Wall Street gets a lift from hopes for a Fed rate cut]]></title>
+<link>https://apnews.com/article/stocks-rates-alibaba-china-trump-markets-e0f5d3695f77267911406cb119115f6b</link>
+<pubDate>Tue, 25 Nov 2025 09:09:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New study shows global luxury shoppers are spurning high-end brands over steep price hikes]]></title>
-<link>https://apnews.com/article/italy-global-luxury-sales-146e0833e20efded9b3cf772f6d2c722</link>
-<pubDate>Thu, 20 Nov 2025 14:26:26 -0000</pubDate>
+<title><![CDATA[Lawsuit blames Tesla design flaws for crash that killed Washington state woman, injured her husband]]></title>
+<link>https://apnews.com/article/tesla-lawsuit-design-flaws-fatal-crash-675883f1836999d1317a89d44beb3f03</link>
+<pubDate>Tue, 25 Nov 2025 08:54:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France will investigate Musk’s Grok chatbot after Holocaust denial claims]]></title>
-<link>https://apnews.com/article/france-ai-musk-grok-holocaust-e8c952c5d878226aa917d7a65836ed88</link>
-<pubDate>Sat, 22 Nov 2025 08:11:36 -0000</pubDate>
+<title><![CDATA[Boeing’s troubled capsule won’t carry astronauts on next space station flight]]></title>
+<link>https://apnews.com/article/boeing-starliner-nasa-space-station-cd4981c2c10bc2ddb689fd4c2ef4f571</link>
+<pubDate>Tue, 25 Nov 2025 08:39:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil hails US tariff rollback as ‘significant progress’ and seeks more exemptions]]></title>
-<link>https://apnews.com/article/brazil-us-tariffs-coffee-beef-trump-7241778cfdfae17e36ffdd15d8a36652</link>
-<pubDate>Sat, 22 Nov 2025 07:56:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US]]></title>
-<link>https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe</link>
-<pubDate>Sat, 22 Nov 2025 07:41:36 -0000</pubDate>
+<title><![CDATA[Tyson’s beef plant closure in Nebraska will impact a reliant town and ranchers nationwide]]></title>
+<link>https://apnews.com/article/beef-prices-tyson-plant-closing-a47113754d3a2962970481153657a02f</link>
+<pubDate>Tue, 25 Nov 2025 08:24:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,12 +458,6 @@
 <title><![CDATA[Thousands of arrests by Trump’s crime-fighting task force in Memphis strain crowded jail and courts]]></title>
 <link>https://apnews.com/article/memphis-crime-task-force-trump-jail-courts-a59db72f7f195b7517518e94e9cd20bd</link>
 <pubDate>Mon, 24 Nov 2025 05:07:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Takeoff of China’s flying taxis hits turbulence]]></title>
-<link>https://apnews.com/article/china-flying-cars-drones-evtol-airspace-72e7eb6883bd0b865a05cbb041d505fb</link>
-<pubDate>Mon, 24 Nov 2025 02:24:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
