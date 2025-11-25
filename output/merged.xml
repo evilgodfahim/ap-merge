@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 06:17:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 06:51:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
 <link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
@@ -359,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
-<link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
-<pubDate>Mon, 24 Nov 2025 16:06:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Video shows fireball and smoke as Indian fighter jet crashes at Dubai Air show]]></title>
 <link>https://apnews.com/video/video-shows-fireball-and-smoke-as-indian-fighter-jet-crashes-at-dubai-air-show-b8010b3634254aa5a4986badd07e4a0e</link>
 <pubDate>Tue, 25 Nov 2025 00:45:24 -0000</pubDate>
@@ -380,6 +374,12 @@
 <title><![CDATA[Putin says US’ Ukraine peace plan ‘could form the basis’ of settlement, accuses Kyiv of opposing it]]></title>
 <link>https://apnews.com/video/putin-says-us-ukraine-peace-plan-could-form-the-basis-of-settlement-accuses-kyiv-of-opposing-it-66d38101125642d28d45882ae9f49f5f</link>
 <pubDate>Sat, 22 Nov 2025 01:50:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
+<link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
+<pubDate>Mon, 24 Nov 2025 15:51:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,6 +431,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan says Pakistani airstrikes in east of the country have killed 10 people, mostly children]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-2d5239006f41b3ee94c361715d792c03</link>
+<pubDate>Tue, 25 Nov 2025 06:09:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
+<link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
+<pubDate>Mon, 24 Nov 2025 16:06:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Daughter of ex-South African leader Zuma is accused of luring men to fight in Russia-Ukraine war]]></title>
 <link>https://apnews.com/article/south-africa-zuma-daughter-russia-mercenaries-f3eb0c8fa513610d4e9785037fb7c60b</link>
 <pubDate>Tue, 25 Nov 2025 00:00:24 -0000</pubDate>
@@ -446,6 +458,12 @@
 <title><![CDATA[Takeoff of China’s flying taxis hits turbulence]]></title>
 <link>https://apnews.com/article/china-flying-cars-drones-evtol-airspace-72e7eb6883bd0b865a05cbb041d505fb</link>
 <pubDate>Mon, 24 Nov 2025 02:24:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Africa extends lead to 395 runs on Day 4 of 2nd test against India]]></title>
+<link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
+<pubDate>Tue, 25 Nov 2025 05:39:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
