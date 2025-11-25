@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 05:40:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 06:17:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
+<link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
+<pubDate>Tue, 25 Nov 2025 00:28:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
 <pubDate>Mon, 24 Nov 2025 16:42:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show mourners in Tehran honoring the unknown soldiers killed in the 1980’s Iran-Iraq war]]></title>
-<link>https://apnews.com/photo-gallery/unknown-soldiers-funeral-tehran-iran-iraq-war-0f8a4176d340bf6a3718ea278ff89005</link>
-<pubDate>Mon, 24 Nov 2025 21:36:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Britain’s unpopular government prepares a high-stakes budget and hopes for growth]]></title>
+<link>https://apnews.com/article/uk-budget-rachel-reeves-keir-starmer-tax-a6dcab504d096046cd3241b6dafe0183</link>
+<pubDate>Tue, 25 Nov 2025 06:03:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[BBC leaders grilled by lawmakers over its standards after Trump threatened to sue]]></title>
 <link>https://apnews.com/article/bbc-editing-trump-crisis-13ac71b7b342aac8eed9dda77c7107f8</link>
 <pubDate>Tue, 25 Nov 2025 02:19:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
-<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
-<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
+<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
+<pubDate>Tue, 25 Nov 2025 05:48:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 climbers die and 2 more rescued on New Zealand’s highest peak]]></title>
-<link>https://apnews.com/article/new-zealand-mountain-climbers-aoraki-cook-42435eeb81501b16f9f444389d903653</link>
-<pubDate>Tue, 25 Nov 2025 00:13:07 -0000</pubDate>
+<title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s incarceration after ankle monitor tampering]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
+<pubDate>Tue, 25 Nov 2025 03:20:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
-<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
-<pubDate>Mon, 24 Nov 2025 18:37:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Houthi court in Yemen hands down death sentences to 17 people accused of spying]]></title>
-<link>https://apnews.com/article/yemen-houthis-sentences-crackdown-court-civil-war-bb7e10145bdd000f7cc43738cbd0e930</link>
-<pubDate>Mon, 24 Nov 2025 15:12:41 -0000</pubDate>
+<title><![CDATA[Fire teams rescue 15-year-old stuck on crane over high-rise building in Jerusalem]]></title>
+<link>https://apnews.com/article/jerusalem-crane-israel-teenager-fire-rescue-745b49f0666e16b39c2fb847d8b7ab89</link>
+<pubDate>Mon, 24 Nov 2025 17:56:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canada’s top diplomat says Ottawa is working fast to advance India trade deal]]></title>
+<link>https://apnews.com/article/canada-foreign-minister-canada-india-trump-trade-f0ddd87937c40f6094d3ce81d5bc01ec</link>
+<pubDate>Tue, 25 Nov 2025 05:33:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Marco Jansen’s 6-48 helps South Africa to commanding 314-run lead over India in 2nd cricket test]]></title>
 <link>https://apnews.com/article/india-cricket-south-africa-e8362237b7499e2812076a3809489030</link>
 <pubDate>Tue, 25 Nov 2025 01:34:24 -0000</pubDate>
@@ -167,15 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian fighter jet crashes during a demonstration flight at Dubai Air Show, killing the pilot]]></title>
-<link>https://apnews.com/article/dubai-air-show-plane-crash-9df3d47f6220c7772a1d24762b0e2836</link>
-<pubDate>Mon, 24 Nov 2025 10:39:16 -0000</pubDate>
+<title><![CDATA[China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station]]></title>
+<link>https://apnews.com/article/shenzhou-china-space-astronauts-141c07c6b37b3cebd9765b951fb97aa0</link>
+<pubDate>Tue, 25 Nov 2025 06:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares advance after Wall Street gets a lift from hopes for a Fed rate cut]]></title>
+<link>https://apnews.com/article/stocks-rates-alibaba-china-trump-markets-e0f5d3695f77267911406cb119115f6b</link>
+<pubDate>Tue, 25 Nov 2025 06:02:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump administration plans to review refugees admitted under Biden, memo obtained by The AP says]]></title>
 <link>https://apnews.com/article/trumo-refugees-memo-biden-review-82cdbae263a903c6dcf25c2e04f50684</link>
 <pubDate>Tue, 25 Nov 2025 02:28:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 climbers die and 2 more rescued on New Zealand’s highest peak]]></title>
+<link>https://apnews.com/article/new-zealand-mountain-climbers-aoraki-cook-42435eeb81501b16f9f444389d903653</link>
+<pubDate>Tue, 25 Nov 2025 05:47:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show mourners in Tehran honoring the unknown soldiers killed in the 1980’s Iran-Iraq war]]></title>
+<link>https://apnews.com/photo-gallery/unknown-soldiers-funeral-tehran-iran-iraq-war-0f8a4176d340bf6a3718ea278ff89005</link>
+<pubDate>Tue, 25 Nov 2025 05:32:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkish delegation holds rare peace talks with jailed Kurdish leader Abdullah Ocalan]]></title>
 <link>https://apnews.com/article/turkey-pkk-ocalan-legislator-peace-talks-e8214abbb62e39640101f18f74473114</link>
 <pubDate>Mon, 24 Nov 2025 18:47:54 -0000</pubDate>
@@ -212,18 +236,6 @@
 <title><![CDATA[6 notable songs from Jimmy Cliff, the reggae star who has died at 81]]></title>
 <link>https://apnews.com/article/jimmy-cliff-notable-songs-fcd4cf1bcd3e358e9994a4c44997c5a6</link>
 <pubDate>Mon, 24 Nov 2025 18:17:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Top US military adviser visits Caribbean as Trump ramps up pressure on Venezuela]]></title>
-<link>https://apnews.com/article/caine-caribbean-military-venezuela-boat-strikes-02073d27c1d264deb0fb1afd03cc1971</link>
-<pubDate>Mon, 24 Nov 2025 17:39:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fire teams rescue 15-year-old stuck on crane over high-rise building in Jerusalem]]></title>
-<link>https://apnews.com/article/jerusalem-crane-israel-teenager-fire-rescue-745b49f0666e16b39c2fb847d8b7ab89</link>
-<pubDate>Mon, 24 Nov 2025 21:06:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,33 +335,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine president says 7 suspects in corruption scandal have been detained, others being sought]]></title>
-<link>https://apnews.com/article/flood-control-corruption-philippines-president-ferdinand-marcos-jr-52e177fb4f8c2fa75ab3d4b49fc0a096</link>
-<pubDate>Tue, 25 Nov 2025 00:50:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-23-2025-ef17671d798d36f289936a5f85ddfc79</link>
-<pubDate>Mon, 24 Nov 2025 02:09:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look back at the weekend’s biggest stories]]></title>
-<link>https://apnews.com/article/ukraine-climate-epstein-israel-hezbollah-6a9e11abcf41b1066c78499bbaa4e73b</link>
-<pubDate>Mon, 24 Nov 2025 00:12:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing]]></title>
-<link>https://apnews.com/article/brazil-pride-lgbt-bolsonaro-e4dfa3dade5cb487cbc688d150a79c06</link>
-<pubDate>Sun, 23 Nov 2025 22:38:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Airlines cancel flights to Venezuela after FAA warns of worsening security, military activity]]></title>
-<link>https://apnews.com/article/venezuela-airlines-faa-canceled-maduro-cf4d806bb870f388013af93fc5aada47</link>
-<pubDate>Mon, 24 Nov 2025 17:47:54 -0000</pubDate>
+<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
+<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
+<pubDate>Mon, 24 Nov 2025 10:10:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
+<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
+<pubDate>Mon, 24 Nov 2025 08:18:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
 <pubDate>Mon, 24 Nov 2025 08:03:08 -0000</pubDate>
@@ -404,12 +398,6 @@
 <title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
 <pubDate>Mon, 24 Nov 2025 08:33:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
-<link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
-<pubDate>Tue, 25 Nov 2025 00:15:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,18 +431,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
-<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
-<pubDate>Mon, 24 Nov 2025 18:17:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s incarceration after ankle monitor tampering]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
-<pubDate>Mon, 24 Nov 2025 23:26:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Daughter of ex-South African leader Zuma is accused of luring men to fight in Russia-Ukraine war]]></title>
 <link>https://apnews.com/article/south-africa-zuma-daughter-russia-mercenaries-f3eb0c8fa513610d4e9785037fb7c60b</link>
 <pubDate>Tue, 25 Nov 2025 00:00:24 -0000</pubDate>
@@ -470,12 +446,6 @@
 <title><![CDATA[Takeoff of China’s flying taxis hits turbulence]]></title>
 <link>https://apnews.com/article/china-flying-cars-drones-evtol-airspace-72e7eb6883bd0b865a05cbb041d505fb</link>
 <pubDate>Mon, 24 Nov 2025 02:24:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canada’s top diplomat says Ottawa is working fast to advance India trade deal]]></title>
-<link>https://apnews.com/article/canada-foreign-minister-canada-india-trump-trade-f0ddd87937c40f6094d3ce81d5bc01ec</link>
-<pubDate>Mon, 24 Nov 2025 23:56:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
