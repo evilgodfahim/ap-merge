@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 11:35:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 12:22:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
 <link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
@@ -17,21 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian attacks kill at least 7 in Ukraine as talks on peace plan continue]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
+<pubDate>Tue, 25 Nov 2025 12:22:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The European Union proposes deepening defense industry ties with Ukraine]]></title>
+<link>https://apnews.com/article/europe-ukraine-defense-industry-eu-russia-war-82b65d0a00637afa0630c48680223065</link>
+<pubDate>Tue, 25 Nov 2025 12:07:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zelenskyy faces growing pressures in a crucial week]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-zelenskyy-peace-plan-europe-65b83ecc28b58bfbcf48b6f9e7dbd564</link>
 <pubDate>Tue, 25 Nov 2025 10:43:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Britain’s unpopular government prepares a high-stakes budget and hopes for growth]]></title>
-<link>https://apnews.com/article/uk-budget-rachel-reeves-keir-starmer-tax-a6dcab504d096046cd3241b6dafe0183</link>
-<pubDate>Tue, 25 Nov 2025 06:03:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[BBC leaders grilled by lawmakers over its standards after Trump threatened to sue]]></title>
-<link>https://apnews.com/article/bbc-editing-trump-crisis-13ac71b7b342aac8eed9dda77c7107f8</link>
-<pubDate>Tue, 25 Nov 2025 02:19:24 -0000</pubDate>
+<title><![CDATA[Rights groups slam Trump administration for ending Myanmar deportation protection as civil war rages]]></title>
+<link>https://apnews.com/article/myanmar-us-deportation-protection-civil-war-ce99bb3f8f30aec9745046c41ac7fa1b</link>
+<pubDate>Tue, 25 Nov 2025 11:52:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
 <link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
 <pubDate>Tue, 25 Nov 2025 05:48:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3D-printed guns that FBI boss Kash Patel gifted to New Zealand officials were toy-inspired revolvers]]></title>
-<link>https://apnews.com/article/kash-patel-guns-new-zealand-pistols-gifts-a2e7146a8423866f837ec372895fef54</link>
-<pubDate>Tue, 25 Nov 2025 09:26:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vatican answers African bishops concerned about polygamy with document praising monogamous marriage]]></title>
+<link>https://apnews.com/article/vatican-marriage-polygamy-africa-pope-samesex-monogamy-f64177dd3bb0ce827f7c7ce9bd12268a</link>
+<pubDate>Tue, 25 Nov 2025 11:37:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Daughter of ex-South African leader Zuma is accused of luring men to fight in Russia-Ukraine war]]></title>
+<link>https://apnews.com/article/south-africa-zuma-daughter-russia-mercenaries-f3eb0c8fa513610d4e9785037fb7c60b</link>
+<pubDate>Mon, 24 Nov 2025 15:57:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Takeaways from the first G20 summit in Africa and a look ahead to the next one at Trump’s golf club]]></title>
 <link>https://apnews.com/article/g20-summit-us-trump-south-africa-9319ab09e72bb7ded49984f71cd591ac</link>
 <pubDate>Mon, 24 Nov 2025 19:57:30 -0000</pubDate>
@@ -89,27 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A timeline of abductions from schools in Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-school-abductions-timeline-bandits-b598297dafa798cb7c18c68073e86a39</link>
-<pubDate>Mon, 24 Nov 2025 14:12:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cameroon opposition leader flees to Gambia after contested election]]></title>
-<link>https://apnews.com/article/gambia-cameroon-tchiroma-biya-577feffb4f3182906495e42338709f26</link>
-<pubDate>Mon, 24 Nov 2025 13:57:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home]]></title>
-<link>https://apnews.com/article/slender-man-stabbing-missing-woman-found-193ba2ceb6ef77a17b3d499e54e095ff</link>
-<pubDate>Mon, 24 Nov 2025 10:54:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pentagon says it’s investigating Sen. Mark Kelly over video urging troops to defy ‘illegal orders’]]></title>
-<link>https://apnews.com/article/pentagon-mark-kelly-troop-investigation-4882f76b05dcdfa3060c284c2c84dd12</link>
-<pubDate>Mon, 24 Nov 2025 19:42:30 -0000</pubDate>
+<title><![CDATA[Thousands of arrests by Trump’s crime-fighting task force in Memphis strain crowded jail and courts]]></title>
+<link>https://apnews.com/article/memphis-crime-task-force-trump-jail-courts-a59db72f7f195b7517518e94e9cd20bd</link>
+<pubDate>Mon, 24 Nov 2025 17:11:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +113,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Airport chapels stay on the radar of workers and travelers even as role of faith in public shifts]]></title>
+<link>https://apnews.com/article/holiday-travel-airports-faith-prayer-workers-rights-d577002f9ec84ef6c7c636010bd5a177</link>
+<pubDate>Tue, 25 Nov 2025 11:22:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A guide to Thanksgiving travel after the government shutdown]]></title>
 <link>https://apnews.com/article/thanksgiving-travel-flights-after-shutdown-75b7e70a055655425ddf576a17c6dc76</link>
 <pubDate>Mon, 24 Nov 2025 15:42:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station]]></title>
+<link>https://apnews.com/article/shenzhou-china-space-astronauts-141c07c6b37b3cebd9765b951fb97aa0</link>
+<pubDate>Tue, 25 Nov 2025 11:07:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,12 +146,6 @@
 <title><![CDATA[Christian pastor’s daughter urges US lawmakers to help free her father in China]]></title>
 <link>https://apnews.com/article/trump-china-christian-leaders-detained-nigeria-babd324066dfee9d9c3065675f9f8c01</link>
 <pubDate>Mon, 24 Nov 2025 04:28:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Leaders arrive for a first African G20 summit overshadowed by a rift between the host and the US]]></title>
-<link>https://apnews.com/article/g20-south-africa-us-trump-summit-65208c325cac682d0423b929fbe63349</link>
-<pubDate>Sat, 22 Nov 2025 00:03:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[Australian Sen. Pauline Hanson suspended from Parliament for wearing burqa in protest]]></title>
 <link>https://apnews.com/article/australia-pauline-hanson-burqa-ban-senate-2db5e6143fbf3b9c77e1bac14ab32499</link>
 <pubDate>Tue, 25 Nov 2025 10:12:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[3D-printed guns that FBI boss Kash Patel gifted to New Zealand officials were toy-inspired revolvers]]></title>
+<link>https://apnews.com/article/kash-patel-guns-new-zealand-pistols-gifts-a2e7146a8423866f837ec372895fef54</link>
+<pubDate>Tue, 25 Nov 2025 11:25:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[BBC leaders grilled by lawmakers over its standards after Trump threatened to sue]]></title>
+<link>https://apnews.com/article/bbc-editing-trump-crisis-13ac71b7b342aac8eed9dda77c7107f8</link>
+<pubDate>Tue, 25 Nov 2025 11:10:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[14 people killed near Congo’s capital as violence over land intensifies]]></title>
 <link>https://apnews.com/article/congo-militia-mobondo-attack-945bf4c4ba94660b33502c95952bbd05</link>
 <pubDate>Mon, 24 Nov 2025 13:33:18 -0000</pubDate>
@@ -305,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cameroon opposition leader flees to Gambia after contested election]]></title>
+<link>https://apnews.com/article/gambia-cameroon-tchiroma-biya-577feffb4f3182906495e42338709f26</link>
+<pubDate>Tue, 25 Nov 2025 10:55:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll climbs in Southeast Asia as heavy rains cause floods and landslides]]></title>
 <link>https://apnews.com/article/vietnam-thailand-malaysia-flood-landslide-death-rain-843880c3b08548b973bb4ed2fc233b7d</link>
 <pubDate>Tue, 25 Nov 2025 01:58:02 -0000</pubDate>
@@ -329,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks kill at least 6 in Ukraine as talks on peace plan continue]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
-<pubDate>Tue, 25 Nov 2025 10:44:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US-backed aid company in Gaza shutters operations as Israel’s military and defense minister clash]]></title>
 <link>https://apnews.com/article/gaza-humanitarian-foundation-shuts-down-dce3d8f08c814839bdeef6aed31bfe3d</link>
 <pubDate>Tue, 25 Nov 2025 01:00:24 -0000</pubDate>
@@ -344,12 +356,6 @@
 <title><![CDATA[Amnesty accuses Sudanese paramilitary group RSF of committing war crimes in Darfur city of el-Fasher]]></title>
 <link>https://apnews.com/article/sudan-war-amnesty-report-rsf-atrocities-darfur-befe180d6d2c30b563ce87f3b4b6c8f2</link>
 <pubDate>Tue, 25 Nov 2025 09:39:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rights groups slam Trump administration for ending Myanmar deportation protection as civil war rages]]></title>
-<link>https://apnews.com/article/myanmar-us-deportation-protection-civil-war-ce99bb3f8f30aec9745046c41ac7fa1b</link>
-<pubDate>Tue, 25 Nov 2025 09:24:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Britain’s unpopular government prepares a high-stakes budget and hopes for growth]]></title>
+<link>https://apnews.com/article/uk-budget-rachel-reeves-keir-starmer-tax-a6dcab504d096046cd3241b6dafe0183</link>
+<pubDate>Tue, 25 Nov 2025 06:24:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[World shares advance after Wall Street gets a lift from hopes for a Fed rate cut]]></title>
 <link>https://apnews.com/article/stocks-rates-alibaba-china-trump-markets-e0f5d3695f77267911406cb119115f6b</link>
 <pubDate>Tue, 25 Nov 2025 09:09:46 -0000</pubDate>
@@ -431,27 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Daughter of ex-South African leader Zuma is accused of luring men to fight in Russia-Ukraine war]]></title>
-<link>https://apnews.com/article/south-africa-zuma-daughter-russia-mercenaries-f3eb0c8fa513610d4e9785037fb7c60b</link>
-<pubDate>Tue, 25 Nov 2025 00:00:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of arrests by Trump’s crime-fighting task force in Memphis strain crowded jail and courts]]></title>
-<link>https://apnews.com/article/memphis-crime-task-force-trump-jail-courts-a59db72f7f195b7517518e94e9cd20bd</link>
-<pubDate>Mon, 24 Nov 2025 05:07:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station]]></title>
-<link>https://apnews.com/article/shenzhou-china-space-astronauts-141c07c6b37b3cebd9765b951fb97aa0</link>
-<pubDate>Tue, 25 Nov 2025 08:09:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa extends lead to 395 runs on Day 4 of 2nd test against India]]></title>
+<title><![CDATA[India in trouble on 27-2 at Day 4 stumps after South Africa sets imposing 549-run target in 2nd test]]></title>
 <link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
-<pubDate>Tue, 25 Nov 2025 05:39:48 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 11:03:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
