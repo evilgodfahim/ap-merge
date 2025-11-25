@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 04:17:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 04:44:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s incarceration after ankle monitor tampering]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
-<pubDate>Tue, 25 Nov 2025 03:20:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Here’s what’s next in the fight to curb climate change, now that talks in Brazil have ended]]></title>
 <link>https://apnews.com/article/climate-change-cop30-belem-brazil-united-nations-1e4a535b5416f59deae0303ebd422288</link>
 <pubDate>Mon, 24 Nov 2025 16:12:20 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[Colombia raids hotel hosting Lev Tahor sect members and takes 17 children into protective custody]]></title>
 <link>https://apnews.com/article/colombia-lev-tahor-ultra-orthodox-jewish-sect-161c2367da894ef5ca45ccbc618283af</link>
 <pubDate>Mon, 24 Nov 2025 18:52:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
+<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
+<pubDate>Mon, 24 Nov 2025 18:37:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,12 +323,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Body of Guatemalan woman killed when she went to clean the wrong Indiana house is returned home]]></title>
-<link>https://apnews.com/article/guatemala-us-indiana-cleaner-shot-0f687d4488b49aa85a53b26b929b1423</link>
-<pubDate>Mon, 24 Nov 2025 10:10:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Philippine president says 7 suspects in corruption scandal have been detained, others being sought]]></title>
 <link>https://apnews.com/article/flood-control-corruption-philippines-president-ferdinand-marcos-jr-52e177fb4f8c2fa75ab3d4b49fc0a096</link>
 <pubDate>Tue, 25 Nov 2025 00:50:45 -0000</pubDate>
@@ -350,6 +344,12 @@
 <title><![CDATA[Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing]]></title>
 <link>https://apnews.com/article/brazil-pride-lgbt-bolsonaro-e4dfa3dade5cb487cbc688d150a79c06</link>
 <pubDate>Sun, 23 Nov 2025 22:38:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Airlines cancel flights to Venezuela after FAA warns of worsening security, military activity]]></title>
+<link>https://apnews.com/article/venezuela-airlines-faa-canceled-maduro-cf4d806bb870f388013af93fc5aada47</link>
+<pubDate>Mon, 24 Nov 2025 17:47:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
 <link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
 <pubDate>Mon, 24 Nov 2025 18:17:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazilian Supreme Court upholds Bolsonaro’s incarceration after ankle monitor tampering]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-jailing-supreme-court-b15f8853e122f8135482933ea07561c8</link>
+<pubDate>Mon, 24 Nov 2025 23:26:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
