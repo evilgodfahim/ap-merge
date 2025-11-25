@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 03:35:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 04:17:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
 <link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
@@ -365,9 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Decades-long efforts to send uncensored foreign news into North Korea face major setbacks]]></title>
+<title><![CDATA[News from outside disappears in North Korea]]></title>
 <link>https://apnews.com/article/north-korea-radio-internet-foreign-news-aa4b74d9f602437e77d14690f029e474</link>
-<pubDate>Tue, 25 Nov 2025 02:05:57 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 04:16:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
+<link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
+<pubDate>Mon, 24 Nov 2025 16:06:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +446,6 @@
 <title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
 <link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
 <pubDate>Mon, 24 Nov 2025 18:17:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
-<link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
-<pubDate>Mon, 24 Nov 2025 16:06:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
