@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 16:49:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 17:12:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel says it receives another set of human remains from militants in Gaza]]></title>
+<link>https://apnews.com/article/gaza-israel-hostage-body-ceasefire-rains-f97bdf2d6212b766e1aa3359f3a33004</link>
+<pubDate>Tue, 25 Nov 2025 17:12:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
 <link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
 <pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
@@ -356,12 +362,6 @@
 <title><![CDATA[Russian hackers target US engineering firm because of work done for Ukrainian sister city]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-kyiv-arctic-wolf-cyberattack-4b1c167746f2c0e7d263be94f0aa94b0</link>
 <pubDate>Tue, 25 Nov 2025 13:43:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian attacks kill at least 7 in Ukraine as talks on US peace plan continue]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
-<pubDate>Tue, 25 Nov 2025 14:33:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +380,6 @@
 <title><![CDATA[Putin says US’ Ukraine peace plan ‘could form the basis’ of settlement, accuses Kyiv of opposing it]]></title>
 <link>https://apnews.com/video/putin-says-us-ukraine-peace-plan-could-form-the-basis-of-settlement-accuses-kyiv-of-opposing-it-66d38101125642d28d45882ae9f49f5f</link>
 <pubDate>Sat, 22 Nov 2025 01:50:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
-<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
-<pubDate>Tue, 25 Nov 2025 13:28:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,6 +425,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US push for Russia-Ukraine peace deal gains momentum as attacks on Kyiv kill 7]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
+<pubDate>Tue, 25 Nov 2025 16:57:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan denies Afghanistan’s claims of airstrikes killing 10 people, mostly children]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-2d5239006f41b3ee94c361715d792c03</link>
 <pubDate>Tue, 25 Nov 2025 13:13:07 -0000</pubDate>
@@ -443,21 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Egyptians vote in second phase of parliamentary elections]]></title>
-<link>https://apnews.com/article/egypt-election-parliament-rerun-6c6e86670ff2df30596238c097659c95</link>
-<pubDate>Mon, 24 Nov 2025 12:03:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Vatican answers African bishops concerned about polygamy with document praising monogamous marriage]]></title>
 <link>https://apnews.com/article/vatican-marriage-polygamy-africa-pope-samesex-monogamy-f64177dd3bb0ce827f7c7ce9bd12268a</link>
 <pubDate>Tue, 25 Nov 2025 11:18:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Torn roofs and smashed windows among damage to over 100 homes in a tornado near Houston]]></title>
+<title><![CDATA[A tornado damages homes near Houston as rain falls in the South and snow comes down in the Midwest]]></title>
 <link>https://apnews.com/article/severe-weather-texas-tornado-travel-ff20367238823f401aba3aeca84b746f</link>
-<pubDate>Tue, 25 Nov 2025 12:58:07 -0000</pubDate>
+<pubDate>Tue, 25 Nov 2025 16:42:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
