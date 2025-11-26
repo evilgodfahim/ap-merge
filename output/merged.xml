@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 04:16:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 04:44:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A woman who murdered her 2 children and left them in suitcases is jailed for at least 17 years]]></title>
+<link>https://apnews.com/article/new-zealand-children-killed-suitcases-south-korea-ddee0d75a3bf6a87ae6e0b3b58f47d53</link>
+<pubDate>Wed, 26 Nov 2025 02:13:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Landslides and flash floods on Indonesia’s Sumatra island leave at least 10 dead and 6 missing]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-0cb3c979621269354c92573a88673322</link>
+<pubDate>Wed, 26 Nov 2025 04:44:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[News from outside disappears in North Korea]]></title>
 <link>https://apnews.com/article/north-korea-radio-internet-foreign-news-aa4b74d9f602437e77d14690f029e474</link>
 <pubDate>Tue, 25 Nov 2025 09:41:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan denies Afghanistan’s claims of airstrikes killing 10 people, mostly children]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-2d5239006f41b3ee94c361715d792c03</link>
-<pubDate>Wed, 26 Nov 2025 01:58:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rights groups slam Trump administration for ending Myanmar deportation protection as civil war rages]]></title>
-<link>https://apnews.com/article/myanmar-us-deportation-protection-civil-war-ce99bb3f8f30aec9745046c41ac7fa1b</link>
-<pubDate>Tue, 25 Nov 2025 11:52:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,9 +275,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rights groups slam Trump administration for ending Myanmar deportation protection as civil war rages]]></title>
+<link>https://apnews.com/article/myanmar-us-deportation-protection-civil-war-ce99bb3f8f30aec9745046c41ac7fa1b</link>
+<pubDate>Wed, 26 Nov 2025 02:50:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australian Sen. Pauline Hanson suspended from Parliament for wearing burqa in protest]]></title>
 <link>https://apnews.com/article/australia-pauline-hanson-burqa-ban-senate-2db5e6143fbf3b9c77e1bac14ab32499</link>
 <pubDate>Tue, 25 Nov 2025 10:12:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan denies Afghanistan’s claims of airstrikes killing 10 people, mostly children]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-2d5239006f41b3ee94c361715d792c03</link>
+<pubDate>Wed, 26 Nov 2025 04:44:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +350,6 @@
 <title><![CDATA[6 notable songs from Jimmy Cliff, the reggae star who has died at 81]]></title>
 <link>https://apnews.com/article/jimmy-cliff-notable-songs-fcd4cf1bcd3e358e9994a4c44997c5a6</link>
 <pubDate>Mon, 24 Nov 2025 18:17:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
-<link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
-<pubDate>Tue, 25 Nov 2025 17:47:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A woman who murdered her 2 children and left them in suitcases is jailed for at least 17 years]]></title>
-<link>https://apnews.com/article/new-zealand-children-killed-suitcases-south-korea-ddee0d75a3bf6a87ae6e0b3b58f47d53</link>
-<pubDate>Wed, 26 Nov 2025 03:44:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bolivia’s new president plans to scrap taxes and borrow money to confront economic crisis]]></title>
 <link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-movement-toward-socialism-674a1b047a2bc22758b1234e7d1c8694</link>
 <pubDate>Wed, 26 Nov 2025 00:15:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gunmen attack a Yemeni official’s motorcade, killing 5 security officers]]></title>
+<link>https://apnews.com/article/yemen-taiz-attack-governor-civil-war-houthis-21e4cea738ee74b307db372de9f71435</link>
+<pubDate>Tue, 25 Nov 2025 00:15:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
