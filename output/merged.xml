@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 04:44:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 05:11:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
@@ -365,6 +365,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Army secretary takes unlikely role as key negotiator in push to end Russia-Ukraine war]]></title>
+<link>https://apnews.com/article/driscoll-army-secretary-russia-ukraine-war-talks-38594adbabd1ce6a940e533cc07a505e</link>
+<pubDate>Wed, 26 Nov 2025 05:04:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
 <link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
 <pubDate>Wed, 26 Nov 2025 03:59:51 -0000</pubDate>
@@ -374,12 +380,6 @@
 <title><![CDATA[China’s pressure on Japan is a familiar tactic that could last for some time]]></title>
 <link>https://apnews.com/article/china-japan-takaichi-taiwan-tourism-35660299c8662fb87402d52c44a08688</link>
 <pubDate>Wed, 26 Nov 2025 01:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s former President Jair Bolsonaro begins 27-year prison sentence for coup attempt]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-prison-sentence-4ffc790826dd9dcd008dc666b6b9dda7</link>
-<pubDate>Tue, 25 Nov 2025 19:56:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia’s new president plans to scrap taxes and borrow money to confront economic crisis]]></title>
-<link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-movement-toward-socialism-674a1b047a2bc22758b1234e7d1c8694</link>
-<pubDate>Wed, 26 Nov 2025 00:15:47 -0000</pubDate>
+<title><![CDATA[Taiwan announces special budget of $40 billion for arms purchases to bolster defense]]></title>
+<link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
+<pubDate>Wed, 26 Nov 2025 04:49:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s former President Jair Bolsonaro begins 27-year prison sentence for coup attempt]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-prison-sentence-4ffc790826dd9dcd008dc666b6b9dda7</link>
+<pubDate>Tue, 25 Nov 2025 19:56:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
