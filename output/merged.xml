@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 10:44:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 11:09:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
 <pubDate>Tue, 25 Nov 2025 13:30:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK’s Treasury chief set to raise taxes once again in a high-stakes second budget]]></title>
+<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
+<pubDate>Wed, 26 Nov 2025 11:09:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Army secretary takes unlikely role as key negotiator in push to end Russia-Ukraine war]]></title>
-<link>https://apnews.com/article/driscoll-army-secretary-russia-ukraine-war-talks-38594adbabd1ce6a940e533cc07a505e</link>
-<pubDate>Wed, 26 Nov 2025 07:37:06 -0000</pubDate>
+<title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
+<link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
+<pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Landslides and flash floods on Indonesia’s Sumatra island leave at least 17 dead and 6 missing]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-0cb3c979621269354c92573a88673322</link>
+<pubDate>Wed, 26 Nov 2025 10:39:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trade unions in India stage nationwide protests against new labor codes]]></title>
 <link>https://apnews.com/article/india-labor-codes-unions-protest-f98bbda57216ffcf67ffb0b034525b23</link>
 <pubDate>Wed, 26 Nov 2025 08:46:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A woman who murdered her 2 children and left them in suitcases is jailed for at least 17 years]]></title>
-<link>https://apnews.com/article/new-zealand-children-killed-suitcases-south-korea-ddee0d75a3bf6a87ae6e0b3b58f47d53</link>
-<pubDate>Wed, 26 Nov 2025 02:13:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India protests China’s ‘arbitrary detention’ of citizen at Shanghai airport]]></title>
-<link>https://apnews.com/article/india-china-arunachal-pradesh-zangnan-a6ad9e7d0cbfe445194d3b5fab99cda4</link>
-<pubDate>Wed, 26 Nov 2025 10:03:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Alibaba’s cloud business revenue soars 34% driven by AI boom]]></title>
+<link>https://apnews.com/article/china-alibaba-earnings-artificial-intelligence-eef3f9622961757b4fee9353d9fd3c76</link>
+<pubDate>Wed, 26 Nov 2025 10:24:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France says ‘bon voyage’ to 2 giant pandas as they head back to China]]></title>
 <link>https://apnews.com/article/france-panda-couple-return-china-5e5266988e28b95d9ac97b62d5e18e3e</link>
 <pubDate>Tue, 25 Nov 2025 13:00:25 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station]]></title>
 <link>https://apnews.com/article/shenzhou-china-space-astronauts-141c07c6b37b3cebd9765b951fb97aa0</link>
 <pubDate>Tue, 25 Nov 2025 11:07:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year]]></title>
-<link>https://apnews.com/article/trump-xi-china-taiwan-aab2ec36f55abc9e98d91a5f0d133a92</link>
-<pubDate>Tue, 25 Nov 2025 05:48:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +200,12 @@
 <title><![CDATA[Basketball Australia joins with online safety platform to combat social media abuse]]></title>
 <link>https://apnews.com/article/basketball-australia-online-abuse-fbc07e11734c91f7a875bf39aa4732f5</link>
 <pubDate>Wed, 26 Nov 2025 03:35:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A woman who murdered her 2 children and left them in suitcases is jailed for at least 17 years]]></title>
+<link>https://apnews.com/article/new-zealand-children-killed-suitcases-south-korea-ddee0d75a3bf6a87ae6e0b3b58f47d53</link>
+<pubDate>Wed, 26 Nov 2025 10:44:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Army secretary takes unlikely role as key negotiator in push to end Russia-Ukraine war]]></title>
+<link>https://apnews.com/article/driscoll-army-secretary-russia-ukraine-war-talks-38594adbabd1ce6a940e533cc07a505e</link>
+<pubDate>Wed, 26 Nov 2025 05:04:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan puts $40 billion toward building a defense dome and buying US weapons]]></title>
 <link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
 <pubDate>Wed, 26 Nov 2025 08:15:40 -0000</pubDate>
@@ -431,18 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s Treasury chief set to raise taxes once again in a high-stakes second budget]]></title>
-<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
-<pubDate>Wed, 26 Nov 2025 08:55:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
-<link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
-<pubDate>Wed, 26 Nov 2025 03:59:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Brazil’s former President Jair Bolsonaro begins 27-year prison sentence for coup attempt]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-prison-sentence-4ffc790826dd9dcd008dc666b6b9dda7</link>
 <pubDate>Tue, 25 Nov 2025 19:56:33 -0000</pubDate>
@@ -464,6 +464,12 @@
 <title><![CDATA[Slender Man attacker won’t fight extradition to Wisconsin after fleeing group home]]></title>
 <link>https://apnews.com/article/morgan-geyser-slender-man-escape-10d31a9d07d175ba3e286761b8889de9</link>
 <pubDate>Tue, 25 Nov 2025 19:26:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India protests China’s ‘arbitrary detention’ of citizen at Shanghai airport]]></title>
+<link>https://apnews.com/article/india-china-arunachal-pradesh-zangnan-a6ad9e7d0cbfe445194d3b5fab99cda4</link>
+<pubDate>Wed, 26 Nov 2025 10:29:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
