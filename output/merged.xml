@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 23:35:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 00:52:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia’s new president plans to scrap taxes and borrow money to confront economic crisis]]></title>
-<link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-movement-toward-socialism-674a1b047a2bc22758b1234e7d1c8694</link>
-<pubDate>Tue, 25 Nov 2025 22:10:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Top US military officials are visiting Caribbean leaders as Trump weighs next steps]]></title>
 <link>https://apnews.com/article/hegseth-caine-trump-caribbean-boat-strikes-e710d932b06ac7180d4e5529bb97e837</link>
 <pubDate>Tue, 25 Nov 2025 21:55:31 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[US sanctions high-ranking Haitian official and accuses him of supporting gangs]]></title>
 <link>https://apnews.com/article/haiti-fritz-alphonse-jean-us-sanctions-gangs-5cda1ac0865fe004251d0bdab718aa50</link>
 <pubDate>Tue, 25 Nov 2025 14:13:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se]]></title>
+<link>https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist-f778922c04b4f514092bd29b91e77358</link>
+<pubDate>Tue, 25 Nov 2025 16:14:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show thousands taking to the streets calling an end to violence against women and girls]]></title>
+<title><![CDATA[Photos show thousands demanding an end to violence against women and girls]]></title>
 <link>https://apnews.com/photo-gallery/elimination-of-violence-against-women-photos-89139e122f0308044dd5db219904314d</link>
-<pubDate>Tue, 25 Nov 2025 22:24:43 -0000</pubDate>
+<pubDate>Wed, 26 Nov 2025 00:10:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,12 +206,6 @@
 <title><![CDATA[X’s new feature raises questions about the foreign origins of some popular US political accounts]]></title>
 <link>https://apnews.com/article/x-location-accounts-maga-screenshots-251894a9a5d2290503ce5d726322470d</link>
 <pubDate>Tue, 25 Nov 2025 20:12:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italy now recognizes the crime of femicide and punishes it with life in prison]]></title>
-<link>https://apnews.com/article/italy-femicide-law-crime-gender-violence-women-99e4be4aaba9f6b940d834ed6c7cb4d0</link>
-<pubDate>Tue, 25 Nov 2025 19:57:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Here’s what’s next in the fight to curb climate change, now that talks in Brazil have ended]]></title>
+<link>https://apnews.com/article/climate-change-cop30-belem-brazil-united-nations-1e4a535b5416f59deae0303ebd422288</link>
+<pubDate>Tue, 25 Nov 2025 14:42:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-80f3f5d57c32cc7b91778fdb6b086af9</link>
 <pubDate>Tue, 25 Nov 2025 20:26:33 -0000</pubDate>
@@ -371,27 +371,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s former President Jair Bolsonaro begins 27-year prison sentence for coup attempt]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-prison-sentence-4ffc790826dd9dcd008dc666b6b9dda7</link>
+<pubDate>Tue, 25 Nov 2025 19:56:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[4 more arrested in $102M Louvre jewel heist, Paris prosecutor says]]></title>
 <link>https://apnews.com/article/louvre-jewels-heist-paris-arrest-museum-prosecutor-7d151ce947c868e31b748a78b419f81d</link>
 <pubDate>Tue, 25 Nov 2025 15:03:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows fireball and smoke as Indian fighter jet crashes at Dubai Air show]]></title>
-<link>https://apnews.com/video/video-shows-fireball-and-smoke-as-indian-fighter-jet-crashes-at-dubai-air-show-b8010b3634254aa5a4986badd07e4a0e</link>
-<pubDate>Tue, 25 Nov 2025 00:45:24 -0000</pubDate>
+<title><![CDATA[Thai woman found alive in coffin after being brought in for cremation]]></title>
+<link>https://apnews.com/video/thai-woman-found-alive-in-coffin-after-being-brought-in-for-cremation-754437ae88a44a9dbb8a5fa9bad4fb02</link>
+<pubDate>Wed, 26 Nov 2025 00:45:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Critical moment’ to support Ukraine, Zelenskyy says as US negotiates peace plan]]></title>
-<link>https://apnews.com/video/critical-moment-to-support-ukraine-zelenskyy-says-amid-us-peace-plan-negotiations-d823272eec1249c1b3354ef5465768a2</link>
-<pubDate>Tue, 25 Nov 2025 00:30:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Putin says US’ Ukraine peace plan ‘could form the basis’ of settlement, accuses Kyiv of opposing it]]></title>
-<link>https://apnews.com/video/putin-says-us-ukraine-peace-plan-could-form-the-basis-of-settlement-accuses-kyiv-of-opposing-it-66d38101125642d28d45882ae9f49f5f</link>
-<pubDate>Sat, 22 Nov 2025 01:50:06 -0000</pubDate>
+<title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
+<link>https://apnews.com/video/trump-says-hes-sending-his-envoys-to-see-putin-and-ukrainians-after-fine-tuning-plan-to-end-war-1a0676ff4e7f4300b4948912174becf1</link>
+<pubDate>Wed, 26 Nov 2025 00:30:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s former President Jair Bolsonaro begins 27-year prison sentence for coup attempt]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-prison-sentence-4ffc790826dd9dcd008dc666b6b9dda7</link>
-<pubDate>Tue, 25 Nov 2025 19:56:33 -0000</pubDate>
+<title><![CDATA[Bolivia’s new president plans to scrap taxes and borrow money to confront economic crisis]]></title>
+<link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-movement-toward-socialism-674a1b047a2bc22758b1234e7d1c8694</link>
+<pubDate>Wed, 26 Nov 2025 00:15:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
