@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 13:08:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 13:49:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
@@ -17,21 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s Treasury chief set to raise taxes once again in a high-stakes second budget]]></title>
-<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
-<pubDate>Wed, 26 Nov 2025 11:09:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[As Russia pummels Ukraine’s energy systems, Kyiv hopes US gas will fill the gap]]></title>
 <link>https://apnews.com/article/russia-ukraine-naftogaz-energy-gas-war-infrastructure-ad3bb6660f37bb930adda63cd921e874</link>
 <pubDate>Wed, 26 Nov 2025 06:17:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK’s Treasury chief delivers budget following unprecedented leak that outlined all her plans]]></title>
+<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
+<pubDate>Wed, 26 Nov 2025 13:47:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Report: US envoy coached Putin aide on how Russian leader should pitch Trump on Ukraine peace plan]]></title>
 <link>https://apnews.com/article/trump-witkoff-putin-ukraine-bloomberg-3844a3721d92dd9ae9681547a0814d88</link>
 <pubDate>Wed, 26 Nov 2025 02:28:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A devastating fire destroys a crowded slum and leaves thousands homeless in Bangladesh capital]]></title>
+<link>https://apnews.com/article/bangladesh-fire-korail-slum-1ec0bb8482de77c07fa14babc096a51d</link>
+<pubDate>Wed, 26 Nov 2025 13:32:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
 <link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
 <pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Families in southern Thailand perch on rooftops to escape flooding that has killed at least 33]]></title>
-<link>https://apnews.com/article/thailand-flooding-hat-yai-climate-9fc8e497dd395c77260b0376ef84a490</link>
-<pubDate>Wed, 26 Nov 2025 12:06:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan puts $40 billion toward building a defense dome and buying US weapons]]></title>
-<link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
-<pubDate>Wed, 26 Nov 2025 08:15:40 -0000</pubDate>
+<title><![CDATA[France’s top court upholds Sarkozy’s conviction for illegal campaign financing in 2012]]></title>
+<link>https://apnews.com/article/sarkozy-conviction-prison-france-former-president-e823ed12af9adfd1600275894a66eaa3</link>
+<pubDate>Wed, 26 Nov 2025 13:45:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[13 people killed in fire engulfing Hong Kong high-rise residential buildings, fire services say]]></title>
-<link>https://apnews.com/article/hong-kong-highrise-fire-tai-po-cf40065101b2b6f8ac7bc43d9f228022</link>
-<pubDate>Wed, 26 Nov 2025 12:24:47 -0000</pubDate>
+<title><![CDATA[Taiwan puts $40 billion toward building a defense dome and buying US weapons]]></title>
+<link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
+<pubDate>Wed, 26 Nov 2025 08:15:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A devastating fire destroys a crowded slum and leaves thousands homeless in Bangladesh capital]]></title>
-<link>https://apnews.com/article/bangladesh-fire-korail-slum-1ec0bb8482de77c07fa14babc096a51d</link>
-<pubDate>Wed, 26 Nov 2025 11:54:47 -0000</pubDate>
+<title><![CDATA[13 people killed in fire engulfing Hong Kong high-rise residential buildings, fire services say]]></title>
+<link>https://apnews.com/article/hong-kong-highrise-fire-tai-po-cf40065101b2b6f8ac7bc43d9f228022</link>
+<pubDate>Wed, 26 Nov 2025 12:24:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
