@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 20:37:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 21:09:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
 <link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-november-27-2025-b116e738924b37b3ed00e68280eea356</link>
+<pubDate>Thu, 27 Nov 2025 21:09:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada’s prime minister and Alberta’s premier sign pipeline deal which could reverse oil tanker ban]]></title>
 <link>https://apnews.com/article/canada-oil-pipeline-alberta-oil-british-columbia-carney-bdbd13b337ee12a34a708af0ea63da97</link>
 <pubDate>Thu, 27 Nov 2025 20:05:58 -0000</pubDate>
@@ -182,12 +188,6 @@
 <title><![CDATA[Photos highlight Pope Leo XIV’s first overseas pilgrimage]]></title>
 <link>https://apnews.com/photo-gallery/pope-leo-xivs-first-foreign-trip-photos-turkey-lebanon-38e276ae1e7b8e20554becb2f74bf223</link>
 <pubDate>Thu, 27 Nov 2025 18:30:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
-<link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
-<pubDate>Thu, 27 Nov 2025 17:37:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tunisia summons European Union envoy over alleged protocol breach]]></title>
-<link>https://apnews.com/article/tunisia-eu-envoy-summoned-nobel-prize-15c1950a7cad48fd33c2bfa9b6565a4a</link>
-<pubDate>Thu, 27 Nov 2025 17:22:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pushing an end to the Russia-Ukraine war, Trump looks to his Gaza ceasefire playbook]]></title>
-<link>https://apnews.com/article/trump-putin-gaza-ukraine-israel-russia-zelenskyy-c053b2163409a87e7276c427dd493e5d</link>
-<pubDate>Thu, 27 Nov 2025 02:25:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[At least 83 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
 <pubDate>Thu, 27 Nov 2025 18:54:17 -0000</pubDate>
@@ -365,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea-Bissau soldiers announce general as junta leader, cementing coup days after election]]></title>
-<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
-<pubDate>Thu, 27 Nov 2025 14:35:57 -0000</pubDate>
+<title><![CDATA[Israeli soldiers appear to kill Palestinian men in West Bank after they surrender]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
+<pubDate>Thu, 27 Nov 2025 21:04:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,18 +380,6 @@
 <title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
 <link>https://apnews.com/video/trump-says-hes-sending-his-envoys-to-see-putin-and-ukrainians-after-fine-tuning-plan-to-end-war-1a0676ff4e7f4300b4948912174becf1</link>
 <pubDate>Wed, 26 Nov 2025 00:30:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel returns 15 more Palestinian bodies to Gaza as first phase of ceasefire nears end]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-11-26-2025-5f282ab434207591ca69523d3884ee92</link>
-<pubDate>Wed, 26 Nov 2025 12:39:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
-<link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
-<pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dominican Republic grants US access to restricted areas for its deadly fight against drugs]]></title>
-<link>https://apnews.com/article/dominican-republic-hegseth-us-drugs-deal-4c98841f8b2a1222ff0514014d0baf4f</link>
-<pubDate>Wed, 26 Nov 2025 22:07:03 -0000</pubDate>
+<title><![CDATA[Former Peruvian President Pedro Castillo sentenced for conspiracy]]></title>
+<link>https://apnews.com/article/peru-former-president-pedro-castillo-conspiracy-af153bb322fab6329cd65e1c32a2c881</link>
+<pubDate>Thu, 27 Nov 2025 20:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nigeria’s president declares emergency and beefs up forces following abductions]]></title>
-<link>https://apnews.com/article/nigeria-abductions-emergency-tinubu-2c03f38192703fa7c78bcf2168db9eaf</link>
-<pubDate>Thu, 27 Nov 2025 16:29:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wisconsin seeks to block Morgan Geyser’s conditional release after escape from group home]]></title>
-<link>https://apnews.com/article/morgan-geyser-slender-man-escape-dcf062944fdaaa27c08381903a701cf7</link>
-<pubDate>Thu, 27 Nov 2025 13:01:48 -0000</pubDate>
+<title><![CDATA[Guinea-Bissau soldiers announce general as junta leader, cementing coup days after election]]></title>
+<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
+<pubDate>Thu, 27 Nov 2025 14:35:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
