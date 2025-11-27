@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 11:35:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 12:21:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
 <link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Flooding death toll in southern Thailand rises to more than 80 as water levels fall]]></title>
+<link>https://apnews.com/article/thailand-south-floods-weather-1c5674116b3ea24b1343c90ccb1823e8</link>
+<pubDate>Thu, 27 Nov 2025 12:05:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ousted leader Hasina sentenced in Bangladesh land corruption case]]></title>
 <link>https://apnews.com/article/bangladesh-sheikh-hasina-trial-yunus-ced2a3afaee074549a401d9de73f6cfa</link>
 <pubDate>Thu, 27 Nov 2025 08:01:46 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 49 people]]></title>
 <link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
 <pubDate>Thu, 27 Nov 2025 09:05:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
-<pubDate>Thu, 27 Nov 2025 07:46:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
+<link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
+<pubDate>Thu, 27 Nov 2025 12:21:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A crystal Fabergé egg crafted for Russian royalty is expected to sell for more than $26 million]]></title>
+<link>https://apnews.com/article/faberge-winter-egg-christies-auction-6790b7a6be1a429a7e851dd51b58c6ae</link>
+<pubDate>Thu, 27 Nov 2025 12:06:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US-Russian crew of 3 blasts off to the International Space Station in a Russian Soyuz spacecraft]]></title>
 <link>https://apnews.com/article/international-space-station-launch-russia-united-states-e4aedc39b69ce8983b3c8519fee2eaba</link>
 <pubDate>Thu, 27 Nov 2025 10:12:22 -0000</pubDate>
@@ -182,6 +194,12 @@
 <title><![CDATA[Sydney taekwondo instructor who murdered family of three consumed by fantasies of Olympic glory]]></title>
 <link>https://apnews.com/article/australia-taekwondo-murder-sydney-sentence-0f699ef83032a9b262936999d6ed2da6</link>
 <pubDate>Thu, 27 Nov 2025 08:46:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
+<link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
+<pubDate>Thu, 27 Nov 2025 11:51:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Under a cloud, the Olympic flame begins its journey to the Milan Cortina Winter Olympics]]></title>
-<link>https://apnews.com/article/olympic-torch-relay-flame-lighting-milan-cortina-4e65b3fd17469322dd0023c4df1fb361</link>
-<pubDate>Wed, 26 Nov 2025 11:08:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish-German family of 4 likely poisoned by pesticide gas in Istanbul hotel, report says]]></title>
-<link>https://apnews.com/article/turkey-germany-family-poisoned-pesticide-hotel-istanbul-4a67d75a323fa3e9833c568a46af292d</link>
-<pubDate>Wed, 26 Nov 2025 09:41:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bangkok court issues an arrest warrant for Thai co-owner of Miss Universe pageant]]></title>
-<link>https://apnews.com/article/thailand-universe-mexico-warrant-fraud-723294bca3f682e8846c45544ee61cb0</link>
-<pubDate>Wed, 26 Nov 2025 09:11:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[At least 55 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
 <pubDate>Thu, 27 Nov 2025 11:20:38 -0000</pubDate>
@@ -365,21 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Macron unveils new French voluntary military service]]></title>
+<title><![CDATA[French president unveils new 10-month voluntary military service for volunteers aged 18 and 19]]></title>
 <link>https://apnews.com/article/france-macron-voluntary-military-service-russia-war-b4e718e8f3ddd4f807c503e5425fc018</link>
-<pubDate>Thu, 27 Nov 2025 11:05:38 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 12:21:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Guinea-Bissau soldiers announce Gen. Horta N’Ta as junta leader, cementing coup days after election]]></title>
+<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
+<pubDate>Thu, 27 Nov 2025 12:06:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Political prisoners released in Myanmar mass amnesty]]></title>
 <link>https://apnews.com/article/myanmar-insein-political-prisoners-amnesty-election-a6376a12db8141094a5095dd759af616</link>
 <pubDate>Thu, 27 Nov 2025 07:48:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Soldiers in Guinea-Bissau appear on state television saying they have seized power]]></title>
-<link>https://apnews.com/article/guinea-bissau-presidential-palace-unrest-election-2a1371eb1ceb25596b99c4cc4062bc95</link>
-<pubDate>Wed, 26 Nov 2025 18:52:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,6 +398,12 @@
 <title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
 <link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
 <pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV visits Turkey in his first foreign trip, highlighting religious and political ties]]></title>
+<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
+<pubDate>Thu, 27 Nov 2025 11:51:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +458,6 @@
 <title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
 <link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
 <pubDate>Mon, 24 Nov 2025 15:51:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guinea-Bissau opposition candidate accuses president of staging a coup and claims election victory]]></title>
-<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
-<pubDate>Thu, 27 Nov 2025 08:38:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
