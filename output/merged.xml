@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 23:34:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 00:50:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shark attack in Australia leaves woman dead, man critically injured]]></title>
+<link>https://apnews.com/article/australia-shark-attack-killed-crowdy-bay-52b755f33703466f1d33a744455bb499</link>
+<pubDate>Thu, 27 Nov 2025 00:01:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australia will enforce a social media ban for children under 16 despite a court challenge]]></title>
 <link>https://apnews.com/article/australia-children-social-media-ban-court-challenge-5c85493f58c2869505431f101af17f35</link>
 <pubDate>Wed, 26 Nov 2025 12:21:59 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[South Korea’s largest satellite launched on Nuri rocket in ambitious space mission]]></title>
 <link>https://apnews.com/article/south-korea-nuri-rocket-satellite-launch-space-528a9cdda93ae8774a0863104c31ae0b</link>
 <pubDate>Wed, 26 Nov 2025 17:31:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
-<link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
-<pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,27 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal judge says trial for Wisconsin judge accused of helping immigrant will go on next month]]></title>
-<link>https://apnews.com/article/milwaukee-judge-immigrant-escape-hearing-066d6aa3fab7a8f159bacd2544bf57c8</link>
-<pubDate>Wed, 26 Nov 2025 20:12:17 -0000</pubDate>
+<title><![CDATA[Georgia case against Trump dropped, ending efforts to punish president over 2020 election aftermath]]></title>
+<link>https://apnews.com/article/georgia-trump-election-indictment-fani-willis-b9000b28e65fc8ebe57f6f9cca5cc3ef</link>
+<pubDate>Wed, 26 Nov 2025 23:46:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Slender Man attacker won’t fight extradition to Wisconsin after fleeing group home]]></title>
-<link>https://apnews.com/article/morgan-geyser-slender-man-escape-10d31a9d07d175ba3e286761b8889de9</link>
-<pubDate>Tue, 25 Nov 2025 21:10:14 -0000</pubDate>
+<title><![CDATA[Judges allow North Carolina to use a map drawn in bid to give Republicans another US House seat]]></title>
+<link>https://apnews.com/article/redistricting-north-carolina-map-lawsuit-trump-ce0c6f203eef66a46f1aabb4eaaf32ed</link>
+<pubDate>Wed, 26 Nov 2025 23:31:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death of Florida teenager on Carnival cruise ship ruled a homicide]]></title>
-<link>https://apnews.com/article/miami-florida-carnival-cruise-ship-death-kepner-d5e655acb00e00a3ff7e7c5ba32e8842</link>
-<pubDate>Tue, 25 Nov 2025 23:35:48 -0000</pubDate>
+<title><![CDATA[Trump sent National Guard troops to Washington in August. Some are armed. Some have cleaned parks]]></title>
+<link>https://apnews.com/article/national-guard-washington-deployment-7b6e68871759525bdccb1ed05bd1a806</link>
+<pubDate>Wed, 26 Nov 2025 23:16:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration’s effort to end 1960s school desegregation cases faces a hurdle]]></title>
-<link>https://apnews.com/article/desegregation-school-louisiana-concordia-789b083a875ddfe21e36e5eec4127bfb</link>
-<pubDate>Wed, 26 Nov 2025 22:23:57 -0000</pubDate>
+<title><![CDATA[Court transcripts show Border Patrol official Greg Bovino dodging questions about use of force]]></title>
+<link>https://apnews.com/article/chicago-illinois-ice-immigration-broadview-921c3ac8b1990ba32a65cdf99191ea85</link>
+<pubDate>Wed, 26 Nov 2025 23:01:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
+<link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
+<pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Eruption of long-dormant Ethiopian volcano subsides]]></title>
 <link>https://apnews.com/article/ethiopia-volcano-afar-hayli-gubbi-flights-india-e9b4731d12787d7956f1ffbd16961f2a</link>
 <pubDate>Wed, 26 Nov 2025 05:47:28 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Pakistan and India are drawn in same group of T20 World Cup]]></title>
 <link>https://apnews.com/article/t20-world-cup-india-sri-lanka-6464d1afcc46db4c92d04facf90a3c5a</link>
 <pubDate>Wed, 26 Nov 2025 01:43:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India in trouble on 27-2 at Day 4 stumps after South Africa sets imposing 549-run target in 2nd test]]></title>
-<link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
-<pubDate>Tue, 25 Nov 2025 15:59:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration orders 500 more National Guard troops to DC after shooting of soldiers]]></title>
+<title><![CDATA[2 National Guard members shot in an ambush attack just blocks from the White House]]></title>
 <link>https://apnews.com/article/national-guard-shooting-dc-c5785dd8920d2d1ac7d71fab769faf5f</link>
-<pubDate>Wed, 26 Nov 2025 23:12:26 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 00:31:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
