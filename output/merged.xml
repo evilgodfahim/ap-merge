@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 04:14:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 04:43:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
+<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
+<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
 <pubDate>Wed, 26 Nov 2025 03:29:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
-<pubDate>Tue, 25 Nov 2025 13:30:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands are left homeless by a fire in a Bangladesh slum]]></title>
-<link>https://apnews.com/article/bangladesh-fire-korail-slum-1ec0bb8482de77c07fa14babc096a51d</link>
-<pubDate>Thu, 27 Nov 2025 03:31:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[New Zealand launches major inquiry into case of father who hid his children in a forest for years]]></title>
 <link>https://apnews.com/article/tom-phillips-missing-children-new-zealand-inquiry-2a04f532ecb5e98985fb6de82ac1d332</link>
 <pubDate>Thu, 27 Nov 2025 03:16:14 -0000</pubDate>
@@ -53,21 +47,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar’s military rulers grant a mass amnesty ahead of election]]></title>
+<link>https://apnews.com/article/myanmar-military-amnesty-political-prisoners-76f591d2cfa82398bf6e38c64f22ba72</link>
+<pubDate>Thu, 27 Nov 2025 04:40:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Peru sentences former President Vizcarra to 14 years in prison for corruption]]></title>
 <link>https://apnews.com/article/peru-president-vizcarra-corruption-prison-sentence-a718a4f43843c13765cb23c32d9e0a13</link>
 <pubDate>Wed, 26 Nov 2025 22:38:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Lula sanctions an increase in tax exemptions for low-income people]]></title>
-<link>https://apnews.com/article/lula-brazil-income-tax-7a2da716c0171d659153804adf4ddae9</link>
-<pubDate>Wed, 26 Nov 2025 18:44:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dominican Republic authorizes more flights for tourists rerouted by Hurricane Melissa]]></title>
 <link>https://apnews.com/article/dominican-republic-jamaica-tourism-flights-visitors-8c4f893f7f46568fa3a085589792b6c8</link>
 <pubDate>Thu, 27 Nov 2025 02:46:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands of Cubans struggle without power and water nearly a month after Hurricane Melissa]]></title>
+<link>https://apnews.com/article/cuba-hurricane-melissa-flooding-storm-shelter-6bf9e92bcfff949e30784bb5abe2f281</link>
+<pubDate>Wed, 26 Nov 2025 18:29:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands rally to protest Bulgaria’s 2026 budget]]></title>
+<title><![CDATA[Thousands protest in Bulgaria before budget with steep tax increases gets final approval]]></title>
 <link>https://apnews.com/article/bulgaria-budget-protest-97965b7e78db4428e2259bfef6bbbcfa</link>
-<pubDate>Wed, 26 Nov 2025 21:41:04 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 04:43:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s Lula sanctions an increase in tax exemptions for low-income people]]></title>
+<link>https://apnews.com/article/lula-brazil-income-tax-7a2da716c0171d659153804adf4ddae9</link>
+<pubDate>Thu, 27 Nov 2025 04:28:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pushing an end to the Russia-Ukraine war, Trump looks to his Gaza ceasefire playbook]]></title>
 <link>https://apnews.com/article/trump-putin-gaza-ukraine-israel-russia-zelenskyy-c053b2163409a87e7276c427dd493e5d</link>
 <pubDate>Thu, 27 Nov 2025 02:25:28 -0000</pubDate>
@@ -233,15 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar’s military rulers grant a mass amnesty ahead of election]]></title>
-<link>https://apnews.com/article/myanmar-military-amnesty-political-prisoners-76f591d2cfa82398bf6e38c64f22ba72</link>
-<pubDate>Wed, 26 Nov 2025 15:39:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico unveils plans to build a supercomputer it claims will be Latin America’s most powerful]]></title>
+<title><![CDATA[Mexico plans to build Latin America’s most powerful supercomputer]]></title>
 <link>https://apnews.com/article/mexico-supercomputer-coatlicue-sheinbaum-f57bed10440f0fe0825139d7d792b9fb</link>
-<pubDate>Wed, 26 Nov 2025 19:02:20 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 04:13:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -266,6 +266,12 @@
 <title><![CDATA[Families in southern Thailand perch on rooftops to escape flooding that has killed at least 33]]></title>
 <link>https://apnews.com/article/thailand-flooding-hat-yai-climate-9fc8e497dd395c77260b0376ef84a490</link>
 <pubDate>Wed, 26 Nov 2025 13:56:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands are left homeless by a fire in a Bangladesh slum]]></title>
+<link>https://apnews.com/article/bangladesh-fire-korail-slum-1ec0bb8482de77c07fa14babc096a51d</link>
+<pubDate>Thu, 27 Nov 2025 03:58:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -320,12 +326,6 @@
 <title><![CDATA[France’s top court upholds Sarkozy’s conviction for illegal campaign financing in 2012]]></title>
 <link>https://apnews.com/article/sarkozy-conviction-prison-france-former-president-e823ed12af9adfd1600275894a66eaa3</link>
 <pubDate>Wed, 26 Nov 2025 14:54:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of Cubans struggle without power and water nearly a month after Hurricane Melissa]]></title>
-<link>https://apnews.com/article/cuba-hurricane-melissa-flooding-storm-shelter-6bf9e92bcfff949e30784bb5abe2f281</link>
-<pubDate>Thu, 27 Nov 2025 03:30:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +404,6 @@
 <title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
 <link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
 <pubDate>Mon, 24 Nov 2025 15:51:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
-<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
-<pubDate>Mon, 24 Nov 2025 08:18:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
