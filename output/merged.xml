@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 10:12:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 10:43:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
+<link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
+<pubDate>Thu, 27 Nov 2025 10:43:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
 <link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
@@ -11,27 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
-<link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
-<pubDate>Thu, 27 Nov 2025 08:16:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kremlin confirms US envoy will visit as talks on ending war in Ukraine gain momentum]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-witkoff-d1ebc2d6d2d873f9a397e56918937383</link>
-<pubDate>Thu, 27 Nov 2025 06:50:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As Russia pummels Ukraine’s energy systems, Kyiv hopes US gas will fill the gap]]></title>
-<link>https://apnews.com/article/russia-ukraine-naftogaz-energy-gas-war-infrastructure-ad3bb6660f37bb930adda63cd921e874</link>
-<pubDate>Wed, 26 Nov 2025 06:17:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV opens first foreign trip with visit to Turkey that highlights religious, political ties]]></title>
+<title><![CDATA[Pope Leo XIV visits Turkey in his first foreign trip highlighting religious and political ties]]></title>
 <link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
-<pubDate>Thu, 27 Nov 2025 05:41:05 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 10:28:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
+<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
+<pubDate>Thu, 27 Nov 2025 05:26:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia convicts and hands life sentences to 8 people over attack on a key bridge to Crimea]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-crimea-bridge-bombing-514e799607e6ed0d6603deb741f6710b</link>
+<pubDate>Thu, 27 Nov 2025 10:13:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
-<pubDate>Wed, 26 Nov 2025 03:29:51 -0000</pubDate>
+<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
+<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
+<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,18 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV visits Turkey in his first foreign trip highlighting religious and political ties]]></title>
-<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
-<pubDate>Thu, 27 Nov 2025 10:12:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
-<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
-<pubDate>Thu, 27 Nov 2025 05:40:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
 <link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
 <pubDate>Wed, 26 Nov 2025 12:09:47 -0000</pubDate>
@@ -458,6 +446,12 @@
 <title><![CDATA[Dominican Republic grants US access to restricted areas for its deadly fight against drugs]]></title>
 <link>https://apnews.com/article/dominican-republic-hegseth-us-drugs-deal-4c98841f8b2a1222ff0514014d0baf4f</link>
 <pubDate>Wed, 26 Nov 2025 22:07:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
+<link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
+<pubDate>Mon, 24 Nov 2025 15:51:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
