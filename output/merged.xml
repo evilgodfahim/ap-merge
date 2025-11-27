@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 00:50:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 02:25:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump sent National Guard troops to Washington in August. Some are armed. Some have cleaned parks]]></title>
+<link>https://apnews.com/article/national-guard-washington-deployment-7b6e68871759525bdccb1ed05bd1a806</link>
+<pubDate>Wed, 26 Nov 2025 23:16:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Georgia case against Trump dropped, ending efforts to punish president over 2020 election aftermath]]></title>
 <link>https://apnews.com/article/georgia-trump-election-indictment-fani-willis-b9000b28e65fc8ebe57f6f9cca5cc3ef</link>
 <pubDate>Wed, 26 Nov 2025 23:46:59 -0000</pubDate>
@@ -107,21 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump sent National Guard troops to Washington in August. Some are armed. Some have cleaned parks]]></title>
-<link>https://apnews.com/article/national-guard-washington-deployment-7b6e68871759525bdccb1ed05bd1a806</link>
-<pubDate>Wed, 26 Nov 2025 23:16:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Court transcripts show Border Patrol official Greg Bovino dodging questions about use of force]]></title>
 <link>https://apnews.com/article/chicago-illinois-ice-immigration-broadview-921c3ac8b1990ba32a65cdf99191ea85</link>
 <pubDate>Wed, 26 Nov 2025 23:01:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan puts $40 billion toward buying US weapons and building a defense dome]]></title>
-<link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
-<pubDate>Wed, 26 Nov 2025 17:44:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,6 +134,12 @@
 <title><![CDATA[Japan’s leader says Trump called her as dispute with China doesn’t go away]]></title>
 <link>https://apnews.com/article/japan-us-china-taiwan-trump-xi-takaichi-724675eed2a5457fb171c34b8cb31a39</link>
 <pubDate>Tue, 25 Nov 2025 13:13:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station]]></title>
+<link>https://apnews.com/article/shenzhou-china-space-astronauts-141c07c6b37b3cebd9765b951fb97aa0</link>
+<pubDate>Tue, 25 Nov 2025 11:07:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -212,6 +212,12 @@
 <title><![CDATA[Czech president ready to swear in Babiš as prime minister if conflict of interest is resolved]]></title>
 <link>https://apnews.com/article/czech-babis-new-government-0e9391bfbe8a9319a4a25e6cde9b136a</link>
 <pubDate>Wed, 26 Nov 2025 19:17:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pushing an end to the Russia-Ukraine war, Trump looks to his Gaza ceasefire playbook]]></title>
+<link>https://apnews.com/article/trump-putin-gaza-ukraine-israel-russia-zelenskyy-c053b2163409a87e7276c427dd493e5d</link>
+<pubDate>Thu, 27 Nov 2025 02:25:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Joan Branson, wife of British billionaire Richard Branson, dies at 80]]></title>
-<link>https://apnews.com/article/joan-branson-wife-richard-branson-9faac6930d67293967b46d1027b91c96</link>
-<pubDate>Tue, 25 Nov 2025 22:39:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[3 arrested in Hong Kong, as a high-rise fire leaves at least 44 dead and 279 reported missing]]></title>
 <link>https://apnews.com/article/hong-kong-highrise-fire-tai-po-cf40065101b2b6f8ac7bc43d9f228022</link>
 <pubDate>Wed, 26 Nov 2025 23:27:26 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pushing an end to the Russia-Ukraine war, Trump looks to his Gaza ceasefire playbook]]></title>
-<link>https://apnews.com/article/trump-putin-gaza-ukraine-israel-russia-zelenskyy-c053b2163409a87e7276c427dd493e5d</link>
-<pubDate>Wed, 26 Nov 2025 16:59:04 -0000</pubDate>
+<title><![CDATA[Taiwan puts $40 billion toward buying US weapons and building a defense dome]]></title>
+<link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
+<pubDate>Wed, 26 Nov 2025 15:39:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
