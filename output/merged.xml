@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 07:38:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 08:16:47 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
+<link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
+<pubDate>Thu, 27 Nov 2025 08:16:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
 <pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
-<pubDate>Wed, 26 Nov 2025 03:29:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ousted leader Hasina sentenced in Bangladesh land corruption case]]></title>
+<link>https://apnews.com/article/bangladesh-sheikh-hasina-trial-yunus-ced2a3afaee074549a401d9de73f6cfa</link>
+<pubDate>Thu, 27 Nov 2025 08:01:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
+<link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
+<pubDate>Thu, 27 Nov 2025 07:46:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New Zealand launches major inquiry into case of father who hid his children in a forest for years]]></title>
 <link>https://apnews.com/article/tom-phillips-missing-children-new-zealand-inquiry-2a04f532ecb5e98985fb6de82ac1d332</link>
 <pubDate>Thu, 27 Nov 2025 03:16:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A shark kills a woman and seriously wounds another swimmer at an Australian beach]]></title>
-<link>https://apnews.com/article/australia-shark-attack-killed-crowdy-bay-52b755f33703466f1d33a744455bb499</link>
-<pubDate>Thu, 27 Nov 2025 06:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military rulers grant a mass amnesty ahead of election]]></title>
-<link>https://apnews.com/article/myanmar-military-amnesty-political-prisoners-76f591d2cfa82398bf6e38c64f22ba72</link>
-<pubDate>Thu, 27 Nov 2025 04:40:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s pressure on Japan is a familiar tactic that could last for some time]]></title>
+<link>https://apnews.com/article/china-japan-takaichi-taiwan-tourism-35660299c8662fb87402d52c44a08688</link>
+<pubDate>Thu, 27 Nov 2025 07:31:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Alibaba’s cloud business revenue soars 34% driven by AI boom]]></title>
 <link>https://apnews.com/article/china-alibaba-earnings-artificial-intelligence-eef3f9622961757b4fee9353d9fd3c76</link>
 <pubDate>Wed, 26 Nov 2025 10:24:52 -0000</pubDate>
@@ -134,18 +140,6 @@
 <title><![CDATA[France says ‘bon voyage’ to 2 giant pandas as they head back to China]]></title>
 <link>https://apnews.com/article/france-panda-couple-return-china-5e5266988e28b95d9ac97b62d5e18e3e</link>
 <pubDate>Tue, 25 Nov 2025 13:00:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s leader says Trump called her as dispute with China doesn’t go away]]></title>
-<link>https://apnews.com/article/japan-us-china-taiwan-trump-xi-takaichi-724675eed2a5457fb171c34b8cb31a39</link>
-<pubDate>Tue, 25 Nov 2025 13:13:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
-<link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
-<pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +158,12 @@
 <title><![CDATA[Pakistan and India are drawn in same group of T20 World Cup]]></title>
 <link>https://apnews.com/article/t20-world-cup-india-sri-lanka-6464d1afcc46db4c92d04facf90a3c5a</link>
 <pubDate>Wed, 26 Nov 2025 01:43:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India in trouble on 27-2 at Day 4 stumps after South Africa sets imposing 549-run target in 2nd test]]></title>
+<link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
+<pubDate>Tue, 25 Nov 2025 15:59:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire that killed at least 44 burns in Hong Kong towers for a second day]]></title>
+<title><![CDATA[Honk Kong fire death toll rises to 55 as towers burn for a second day]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
-<pubDate>Thu, 27 Nov 2025 03:45:32 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 08:03:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Soldiers in Guinea-Bissau appear on state television saying they have seized power]]></title>
-<link>https://apnews.com/article/guinea-bissau-presidential-palace-unrest-election-2a1371eb1ceb25596b99c4cc4062bc95</link>
-<pubDate>Wed, 26 Nov 2025 18:52:46 -0000</pubDate>
+<title><![CDATA[Political prisoners released in Myanmar mass amnesty]]></title>
+<link>https://apnews.com/article/myanmar-insein-political-prisoners-amnesty-election-a6376a12db8141094a5095dd759af616</link>
+<pubDate>Thu, 27 Nov 2025 07:48:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
-<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
-<pubDate>Thu, 27 Nov 2025 05:40:19 -0000</pubDate>
+<title><![CDATA[Soldiers in Guinea-Bissau appear on state television saying they have seized power]]></title>
+<link>https://apnews.com/article/guinea-bissau-presidential-palace-unrest-election-2a1371eb1ceb25596b99c4cc4062bc95</link>
+<pubDate>Wed, 26 Nov 2025 18:52:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
+<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
+<pubDate>Thu, 27 Nov 2025 05:40:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
 <link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
 <pubDate>Wed, 26 Nov 2025 12:09:47 -0000</pubDate>
@@ -401,39 +407,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
-<link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
-<pubDate>Mon, 24 Nov 2025 15:51:51 -0000</pubDate>
+<title><![CDATA[Trade unions in India stage nationwide protests against new labor codes]]></title>
+<link>https://apnews.com/article/india-labor-codes-unions-protest-f98bbda57216ffcf67ffb0b034525b23</link>
+<pubDate>Wed, 26 Nov 2025 11:39:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia’s new president plans to scrap taxes and borrow money to confront economic crisis]]></title>
-<link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-movement-toward-socialism-674a1b047a2bc22758b1234e7d1c8694</link>
-<pubDate>Wed, 26 Nov 2025 00:15:47 -0000</pubDate>
+<title><![CDATA[Black Friday arrives with solid momentum despite tariffs and economic uncertainty]]></title>
+<link>https://apnews.com/article/black-friday-shopping-sales-prices-deals-bbefeb75238596fa23ee59c3f647c361</link>
+<pubDate>Thu, 27 Nov 2025 07:03:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada’s top diplomat says Ottawa is working fast to advance India trade deal]]></title>
-<link>https://apnews.com/article/canada-foreign-minister-canada-india-trump-trade-f0ddd87937c40f6094d3ce81d5bc01ec</link>
-<pubDate>Mon, 24 Nov 2025 23:56:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[U.S. stocks rise as Wall Street’s winning streak grows to four days]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-5d75e60a333fa9ba2931804403a77623</link>
-<pubDate>Wed, 26 Nov 2025 22:22:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s pressure on Japan is a familiar tactic that could last for some time]]></title>
-<link>https://apnews.com/article/china-japan-takaichi-taiwan-tourism-35660299c8662fb87402d52c44a08688</link>
-<pubDate>Wed, 26 Nov 2025 01:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ambitious plan to store CO2 beneath the North Sea set to start operations]]></title>
-<link>https://apnews.com/article/carbon-capture-storage-climate-denmark-north-sea-060306c826ba527b2c4b91e41ff57865</link>
-<pubDate>Wed, 26 Nov 2025 07:45:40 -0000</pubDate>
+<title><![CDATA[UK’s unpopular Labour government tries to fight back with a tax-raising budget]]></title>
+<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
+<pubDate>Thu, 27 Nov 2025 06:48:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-ceasefire-11969e025902252540333cd24c4a407b</link>
-<pubDate>Mon, 24 Nov 2025 08:33:08 -0000</pubDate>
+<title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
+<link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
+<pubDate>Mon, 24 Nov 2025 08:03:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trade unions in India stage nationwide protests against new labor codes]]></title>
-<link>https://apnews.com/article/india-labor-codes-unions-protest-f98bbda57216ffcf67ffb0b034525b23</link>
-<pubDate>Wed, 26 Nov 2025 11:39:47 -0000</pubDate>
+<title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
+<link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
+<pubDate>Wed, 26 Nov 2025 07:30:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
