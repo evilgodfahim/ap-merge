@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 17:09:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 17:37:02 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
+<link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
+<pubDate>Thu, 27 Nov 2025 17:37:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
 <link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
 <pubDate>Thu, 27 Nov 2025 10:43:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
-<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
-<pubDate>Thu, 27 Nov 2025 09:20:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,15 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands of Cubans struggle without power and water nearly a month after Hurricane Melissa]]></title>
-<link>https://apnews.com/article/cuba-hurricane-melissa-flooding-storm-shelter-6bf9e92bcfff949e30784bb5abe2f281</link>
-<pubDate>Wed, 26 Nov 2025 18:29:51 -0000</pubDate>
+<title><![CDATA[Brazilian police crack down on $4.8B tax evasion and money laundering scheme]]></title>
+<link>https://apnews.com/article/brazil-tax-evasion-police-raid-db61d609b4e031e577201c219f59c6b8</link>
+<pubDate>Thu, 27 Nov 2025 17:22:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
-<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
-<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
+<link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
+<pubDate>Thu, 27 Nov 2025 17:07:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +92,6 @@
 <title><![CDATA[Soldiers in Guinea-Bissau appear on state television saying they have seized power]]></title>
 <link>https://apnews.com/article/guinea-bissau-presidential-palace-unrest-election-2a1371eb1ceb25596b99c4cc4062bc95</link>
 <pubDate>Thu, 27 Nov 2025 12:21:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tunisia summons European Union envoy over alleged protocol breach]]></title>
-<link>https://apnews.com/article/tunisia-eu-envoy-summoned-nobel-prize-15c1950a7cad48fd33c2bfa9b6565a4a</link>
-<pubDate>Wed, 26 Nov 2025 17:16:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,12 @@
 <title><![CDATA[India in trouble on 27-2 at Day 4 stumps after South Africa sets imposing 549-run target in 2nd test]]></title>
 <link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
 <pubDate>Tue, 25 Nov 2025 15:59:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
+<link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
+<pubDate>Thu, 27 Nov 2025 17:37:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tunisia summons European Union envoy over alleged protocol breach]]></title>
+<link>https://apnews.com/article/tunisia-eu-envoy-summoned-nobel-prize-15c1950a7cad48fd33c2bfa9b6565a4a</link>
+<pubDate>Thu, 27 Nov 2025 17:22:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pushing an end to the Russia-Ukraine war, Trump looks to his Gaza ceasefire playbook]]></title>
 <link>https://apnews.com/article/trump-putin-gaza-ukraine-israel-russia-zelenskyy-c053b2163409a87e7276c427dd493e5d</link>
 <pubDate>Thu, 27 Nov 2025 02:25:28 -0000</pubDate>
@@ -338,18 +344,6 @@
 <title><![CDATA[Russian nationals among 4 people arrested in France over espionage investigation]]></title>
 <link>https://apnews.com/article/france-espionage-russia-arrests-probe-b40acdfdb461411d550b73da8a087e5a</link>
 <pubDate>Wed, 26 Nov 2025 20:37:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military rulers grant a mass amnesty ahead of election]]></title>
-<link>https://apnews.com/article/myanmar-military-amnesty-political-prisoners-76f591d2cfa82398bf6e38c64f22ba72</link>
-<pubDate>Wed, 26 Nov 2025 15:39:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Jessie Buckley and Paul Mescal found the emotional power of ‘Hamnet’]]></title>
-<link>https://apnews.com/article/hamnet-jessie-buckley-paul-mescal-5a20cfb59d10ff70e644269344bbb7c0</link>
-<pubDate>Wed, 26 Nov 2025 15:09:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +398,6 @@
 <title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
 <link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
 <pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
-<link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
-<pubDate>Wed, 26 Nov 2025 12:09:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
