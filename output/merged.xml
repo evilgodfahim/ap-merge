@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 09:12:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 09:40:36 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
+<pubDate>Thu, 27 Nov 2025 09:20:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Thousands mourn Hezbollah commander killed in Israeli airstrike]]></title>
 <link>https://apnews.com/article/lebanon-israel-funeral-hezbollah-tabtabai-c2624870cccca505ef93de7b5f35aac8</link>
 <pubDate>Thu, 27 Nov 2025 08:16:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
-<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
-<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
-<pubDate>Thu, 27 Nov 2025 07:46:46 -0000</pubDate>
+<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 49 people]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
+<pubDate>Thu, 27 Nov 2025 09:05:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand launches major inquiry into case of father who hid his children in a forest for years]]></title>
-<link>https://apnews.com/article/tom-phillips-missing-children-new-zealand-inquiry-2a04f532ecb5e98985fb6de82ac1d332</link>
-<pubDate>Thu, 27 Nov 2025 03:16:14 -0000</pubDate>
+<title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
+<link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
+<pubDate>Thu, 27 Nov 2025 07:46:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN food agency projects northern Nigeria to experience hunger at unprecedented level in 2026]]></title>
-<link>https://apnews.com/article/nigeria-food-insecurity-hunger-united-nations-8a32b8aaf6da872c5fce22549e0ba912</link>
-<pubDate>Tue, 25 Nov 2025 12:45:25 -0000</pubDate>
+<title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
+<link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
+<pubDate>Wed, 26 Nov 2025 03:29:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he’s barring South Africa from participating in next year’s G20 summit near Miami]]></title>
+<link>https://apnews.com/article/trump-g20-summit-south-africa-afrikaners-01daffc399d35b84013693ef652ecc4d</link>
+<pubDate>Thu, 27 Nov 2025 08:50:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +188,12 @@
 <title><![CDATA[More than 30 dead and 14 missing as heavy rains trigger landslides and floods in Sri Lanka]]></title>
 <link>https://apnews.com/article/sri-lanka-weather-landslides-floods-ef3a2354448a7ec58cfe4ac5d8f750d1</link>
 <pubDate>Thu, 27 Nov 2025 08:31:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New Zealand launches major inquiry into case of father who hid his children in a forest for years]]></title>
+<link>https://apnews.com/article/tom-phillips-missing-children-new-zealand-inquiry-2a04f532ecb5e98985fb6de82ac1d332</link>
+<pubDate>Thu, 27 Nov 2025 08:16:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +452,12 @@
 <title><![CDATA[Dominican Republic grants US access to restricted areas for its deadly fight against drugs]]></title>
 <link>https://apnews.com/article/dominican-republic-hegseth-us-drugs-deal-4c98841f8b2a1222ff0514014d0baf4f</link>
 <pubDate>Wed, 26 Nov 2025 22:07:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
+<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
+<pubDate>Mon, 24 Nov 2025 08:18:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
