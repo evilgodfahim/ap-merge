@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 13:06:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 13:47:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
 <link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
-<link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
-<pubDate>Thu, 27 Nov 2025 12:21:16 -0000</pubDate>
+<title><![CDATA[Photos show Indonesia’s search for victims after deadly floods and landslides]]></title>
+<link>https://apnews.com/photo-gallery/indonesia-landslides-photo-gallery-94efdf1d010d709599a85d229f4ece32</link>
+<pubDate>Thu, 27 Nov 2025 13:47:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bulgaria withdraws 2026 budget proposal following street protests]]></title>
+<link>https://apnews.com/article/bulgaria-budget-withdrawal-protests-0cbab601328e57d36a38bc23fb5593d8</link>
+<pubDate>Thu, 27 Nov 2025 13:32:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +203,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 49 people]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
+<pubDate>Thu, 27 Nov 2025 13:17:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
 <pubDate>Thu, 27 Nov 2025 11:51:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ousted leader Hasina sentenced in Bangladesh land corruption case]]></title>
+<link>https://apnews.com/article/bangladesh-sheikh-hasina-trial-yunus-ced2a3afaee074549a401d9de73f6cfa</link>
+<pubDate>Thu, 27 Nov 2025 13:02:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +227,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More than 30 dead and 14 missing as heavy rains trigger landslides and floods in Sri Lanka]]></title>
+<title><![CDATA[Heavy rains trigger landslides and floods in Sri Lanka, leaving more than 40 dead]]></title>
 <link>https://apnews.com/article/sri-lanka-weather-landslides-floods-ef3a2354448a7ec58cfe4ac5d8f750d1</link>
-<pubDate>Thu, 27 Nov 2025 08:31:49 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 12:47:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,27 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia will enforce a social media ban for children under 16 despite a court challenge]]></title>
-<link>https://apnews.com/article/australia-children-social-media-ban-court-challenge-5c85493f58c2869505431f101af17f35</link>
-<pubDate>Wed, 26 Nov 2025 11:53:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish journalist jailed for four years for threatening Erdogan on social media]]></title>
-<link>https://apnews.com/article/turkey-journalist-sentenced-threatening-president-a4b18ec1f797a70fc895cecf7d320ada</link>
-<pubDate>Wed, 26 Nov 2025 11:38:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French media unite to demand release of sports journalist Christophe Gleizes imprisoned in Algeria]]></title>
-<link>https://apnews.com/article/sports-journalist-imprisoned-algeria-france-decd07363104e77edbf8cad440692ecb</link>
-<pubDate>Wed, 26 Nov 2025 11:23:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 55 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
+<title><![CDATA[At least 65 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
-<pubDate>Thu, 27 Nov 2025 11:20:38 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 13:31:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,6 +374,12 @@
 <title><![CDATA[Guinea-Bissau soldiers announce Gen. Horta N’Ta as junta leader, cementing coup days after election]]></title>
 <link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
 <pubDate>Thu, 27 Nov 2025 12:06:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
+<link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
+<pubDate>Thu, 27 Nov 2025 13:16:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,6 +458,12 @@
 <title><![CDATA[Trump says he’s barring South Africa from participating in next year’s G20 summit near Miami]]></title>
 <link>https://apnews.com/article/trump-g20-summit-south-africa-afrikaners-01daffc399d35b84013693ef652ecc4d</link>
 <pubDate>Wed, 26 Nov 2025 20:47:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Wisconsin seeks to block Morgan Geyser’s conditional release after escape from group home]]></title>
+<link>https://apnews.com/article/morgan-geyser-slender-man-escape-dcf062944fdaaa27c08381903a701cf7</link>
+<pubDate>Thu, 27 Nov 2025 13:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
