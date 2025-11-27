@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 06:17:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 06:50:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Photos show Christian landmarks in Lebanon ahead of the pope’s visit]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-pope-leo-xiv-christians-photos-6d40f790089262c52777293245574d9b</link>
 <pubDate>Wed, 26 Nov 2025 03:29:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kremlin confirms US envoy will visit as talks on ending war in Ukraine gain momentum]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-witkoff-d1ebc2d6d2d873f9a397e56918937383</link>
+<pubDate>Thu, 27 Nov 2025 06:50:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,21 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
-<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
-<pubDate>Thu, 27 Nov 2025 05:26:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[New Zealand launches major inquiry into case of father who hid his children in a forest for years]]></title>
 <link>https://apnews.com/article/tom-phillips-missing-children-new-zealand-inquiry-2a04f532ecb5e98985fb6de82ac1d332</link>
 <pubDate>Thu, 27 Nov 2025 03:16:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A shark kills a woman and seriously wounds another swimmer at an Australia beach]]></title>
+<title><![CDATA[A shark kills a woman and seriously wounds another swimmer at an Australian beach]]></title>
 <link>https://apnews.com/article/australia-shark-attack-killed-crowdy-bay-52b755f33703466f1d33a744455bb499</link>
-<pubDate>Thu, 27 Nov 2025 03:01:14 -0000</pubDate>
+<pubDate>Thu, 27 Nov 2025 06:35:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What we do and don’t know about the shooting of 2 National Guard members in DC]]></title>
+<link>https://apnews.com/article/national-guard-washington-shooting-suspect-b37bc92853ba14625678236318f80751</link>
+<pubDate>Thu, 27 Nov 2025 06:20:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump sent National Guard troops to Washington in August. Some are armed. Some have cleaned parks]]></title>
 <link>https://apnews.com/article/national-guard-washington-deployment-7b6e68871759525bdccb1ed05bd1a806</link>
 <pubDate>Wed, 26 Nov 2025 23:16:59 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Macy’s Thanksgiving Day Parade set to kick off in Manhattan]]></title>
 <link>https://apnews.com/article/thanksgiving-macys-parade-nyc-manhattan-f5e832e9975a614b43c1f89992c86058</link>
 <pubDate>Thu, 27 Nov 2025 04:56:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Georgia case against Trump dropped, ending efforts to punish president over 2020 election aftermath]]></title>
-<link>https://apnews.com/article/georgia-trump-election-indictment-fani-willis-b9000b28e65fc8ebe57f6f9cca5cc3ef</link>
-<pubDate>Wed, 26 Nov 2025 23:46:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kremlin confirms US envoy will visit as talks on ending war in Ukraine gain momentum]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-plan-trump-witkoff-d1ebc2d6d2d873f9a397e56918937383</link>
-<pubDate>Wed, 26 Nov 2025 15:54:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thai woman found alive in coffin after being brought in for cremation]]></title>
 <link>https://apnews.com/video/thai-woman-found-alive-in-coffin-after-being-brought-in-for-cremation-754437ae88a44a9dbb8a5fa9bad4fb02</link>
 <pubDate>Wed, 26 Nov 2025 00:45:47 -0000</pubDate>
@@ -380,6 +374,12 @@
 <title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
 <link>https://apnews.com/video/trump-says-hes-sending-his-envoys-to-see-putin-and-ukrainians-after-fine-tuning-plan-to-end-war-1a0676ff4e7f4300b4948912174becf1</link>
 <pubDate>Wed, 26 Nov 2025 00:30:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
+<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
+<pubDate>Thu, 27 Nov 2025 05:40:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
