@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 02:25:18 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
-<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
-<pubDate>Thu, 27 Nov 2025 09:20:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Fri, 28 Nov 2025 03:31:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
 <link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
 <pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
+<link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
+<pubDate>Fri, 28 Nov 2025 03:31:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Floodwaters are subsiding in southern Thailand as deaths exceed 80]]></title>
-<link>https://apnews.com/article/thailand-south-floods-weather-1c5674116b3ea24b1343c90ccb1823e8</link>
-<pubDate>Fri, 28 Nov 2025 01:52:27 -0000</pubDate>
+<title><![CDATA[Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56]]></title>
+<link>https://apnews.com/article/sri-lanka-weather-mudslides-floods-deaths-b82ddbb16ef5962c9157d87d2f27dada</link>
+<pubDate>Fri, 28 Nov 2025 03:16:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 69 people]]></title>
-<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
-<pubDate>Fri, 28 Nov 2025 01:37:27 -0000</pubDate>
+<title><![CDATA[Floodwaters are subsiding in southern Thailand as deaths exceed 80]]></title>
+<link>https://apnews.com/article/thailand-south-floods-weather-1c5674116b3ea24b1343c90ccb1823e8</link>
+<pubDate>Fri, 28 Nov 2025 01:52:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 69 people]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
+<pubDate>Thu, 27 Nov 2025 14:56:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
 <pubDate>Thu, 27 Nov 2025 11:51:16 -0000</pubDate>
@@ -341,33 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Telescope in Chile captures stunning new picture of a cosmic butterfly]]></title>
-<link>https://apnews.com/article/butterfly-nebula-telescope-space-2810ed49f9f4ee3c9a9ab58e878b5b7c</link>
-<pubDate>Wed, 26 Nov 2025 19:32:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 94 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
-<pubDate>Thu, 27 Nov 2025 23:10:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
 <link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
 <pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French president unveils new military program for volunteers aged 18 and 19]]></title>
-<link>https://apnews.com/article/france-macron-voluntary-military-service-russia-war-b4e718e8f3ddd4f807c503e5425fc018</link>
-<pubDate>Thu, 27 Nov 2025 15:24:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Deposed Guinea-Bissau President Embaló arrives in neighboring Senegal as soldiers name junta leader]]></title>
 <link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
 <pubDate>Thu, 27 Nov 2025 22:40:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hong Kong firefighters make final search for survivors after apartment tower blaze kills 94]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
+<pubDate>Fri, 28 Nov 2025 03:31:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
-<link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
-<pubDate>Thu, 27 Nov 2025 05:40:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
 <link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
 <pubDate>Thu, 27 Nov 2025 20:49:03 -0000</pubDate>
@@ -416,6 +404,12 @@
 <title><![CDATA[Photos highlight Pope Leo XIV’s first overseas pilgrimage]]></title>
 <link>https://apnews.com/photo-gallery/pope-leo-xivs-first-foreign-trip-photos-turkey-lebanon-38e276ae1e7b8e20554becb2f74bf223</link>
 <pubDate>Fri, 28 Nov 2025 01:07:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
+<pubDate>Tue, 25 Nov 2025 13:28:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,6 +443,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French president unveils new military program for volunteers aged 18 and 19]]></title>
+<link>https://apnews.com/article/france-macron-voluntary-military-service-russia-war-b4e718e8f3ddd4f807c503e5425fc018</link>
+<pubDate>Thu, 27 Nov 2025 15:24:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the apartment fire in Hong Kong]]></title>
 <link>https://apnews.com/article/hong-kong-taipo-wang-fuk-court-fire-what-to-know-0934334f8304da26a470989486b17cc7</link>
 <pubDate>Thu, 27 Nov 2025 08:53:59 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[Former Peruvian President Pedro Castillo sentenced for conspiracy]]></title>
 <link>https://apnews.com/article/peru-former-president-pedro-castillo-conspiracy-af153bb322fab6329cd65e1c32a2c881</link>
 <pubDate>Thu, 27 Nov 2025 20:34:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
-<link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
-<pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
