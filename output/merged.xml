@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 10:42:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 11:09:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
 <link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
@@ -353,9 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces kill at least 10 in southern Syria raid, residents say]]></title>
+<title><![CDATA[Hungary’s Viktor Orbán meets Russia’s Vladimir Putin in Moscow for energy talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-putin-orban-energy-eca23e36f25c76685c26e96042b39878</link>
+<pubDate>Fri, 28 Nov 2025 11:05:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli forces kill at least 10 in southern Syria raid, officials and residents say]]></title>
 <link>https://apnews.com/article/israel-syria-hamas-gaza-a91d1b457d2540e038d01083a76fe696</link>
-<pubDate>Fri, 28 Nov 2025 10:00:48 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 10:50:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +464,12 @@
 <title><![CDATA[2 National Guard members shot in an ambush attack just blocks from the White House]]></title>
 <link>https://apnews.com/article/national-guard-shooting-dc-c5785dd8920d2d1ac7d71fab769faf5f</link>
 <pubDate>Thu, 27 Nov 2025 00:31:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Afghanistan vows cooperation over cross-border attack that killed 3 Chinese workers in Tajikistan]]></title>
+<link>https://apnews.com/article/afghanistan-china-tajikistan-attack-border-fe42975ecaabd9eb1901d13c92b9aceb</link>
+<pubDate>Fri, 28 Nov 2025 10:35:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
