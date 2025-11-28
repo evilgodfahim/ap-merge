@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 09:38:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 10:12:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
 <link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
@@ -353,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In brief glimpses of Tehran, an AP journalist sees a changing and challenged Iran]]></title>
-<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
-<pubDate>Fri, 28 Nov 2025 05:40:46 -0000</pubDate>
+<title><![CDATA[Israeli forces kill at least 10 in southern Syria raid, residents say]]></title>
+<link>https://apnews.com/article/israel-syria-hamas-gaza-a91d1b457d2540e038d01083a76fe696</link>
+<pubDate>Fri, 28 Nov 2025 10:00:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +380,12 @@
 <title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
 <link>https://apnews.com/video/trump-says-hes-sending-his-envoys-to-see-putin-and-ukrainians-after-fine-tuning-plan-to-end-war-1a0676ff4e7f4300b4948912174becf1</link>
 <pubDate>Wed, 26 Nov 2025 00:30:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
+<pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,21 +437,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll from floods in Thailand reach 145 as receding water reveals widespread damage]]></title>
+<link>https://apnews.com/article/thailand-south-flood-damage-aa127ba2af6a845dc309cfc2fe99d035</link>
+<pubDate>Fri, 28 Nov 2025 09:45:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hondurans to elect new president and Congress even as candidates fan electoral doubt]]></title>
 <link>https://apnews.com/article/honduras-castro-trump-moncada-nasralla-asfura-49924d1e047c7eba7e115ec9733e2098</link>
 <pubDate>Fri, 28 Nov 2025 06:46:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A visit to Somalia’s crumbling hospitals shows the toll of aid cuts and war]]></title>
+<title><![CDATA[The world turns a blind eye as war-torn Somalia’s hospitals crumble]]></title>
 <link>https://apnews.com/article/somalia-health-care-extremism-mogadishu-shabab-8fdbc540700069b620b131e744ad2819</link>
-<pubDate>Fri, 28 Nov 2025 04:36:19 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 09:30:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[2 National Guard members shot in an ambush attack just blocks from the White House]]></title>
 <link>https://apnews.com/article/national-guard-shooting-dc-c5785dd8920d2d1ac7d71fab769faf5f</link>
 <pubDate>Thu, 27 Nov 2025 00:31:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end]]></title>
+<link>https://apnews.com/article/hong-fire-bamboo-disaster-scaffolding-b4f3992fd78c068dbebbfbfbcc499495</link>
+<pubDate>Fri, 28 Nov 2025 09:15:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Epic tales and star power: How Tollywood is reshaping Indian cinema]]></title>
+<link>https://apnews.com/article/tollywood-telegu-cinema-what-is-it-11f634610029566f9ca60071bf3430d5</link>
+<pubDate>Fri, 28 Nov 2025 09:00:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
