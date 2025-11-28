@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 16:13:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 16:43:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
 <link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
@@ -161,6 +161,30 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Gambian-flagged tanker catches fire in Black Sea and crew is safe]]></title>
+<link>https://apnews.com/article/turkey-gambia-tanker-fire-black-sea-d306912f47fd409170f8bf8ca40e58f2</link>
+<pubDate>Fri, 28 Nov 2025 16:43:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[K-pop stars announce flurry of donations to support victims of Hong Kong tower fire]]></title>
+<link>https://apnews.com/article/kpop-stars-donations-hong-kong-fire-aespa-d46e3bd607ab8f77503545f405460574</link>
+<pubDate>Fri, 28 Nov 2025 16:28:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran boycotting World Cup draw citing visa restrictions for soccer officials]]></title>
+<link>https://apnews.com/article/iran-world-cup-draw-boycott-d90d35fc27d90a633a61a772c9071d43</link>
+<pubDate>Fri, 28 Nov 2025 16:13:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia outlaws Human Rights Watch as crackdown on dissent continues]]></title>
+<link>https://apnews.com/article/russia-crackdown-undesirable-organization-human-rights-watch-17cd57227679c9995626e9444fd60ff5</link>
+<pubDate>Fri, 28 Nov 2025 15:58:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Paris prosecutor says arrested man is thought to be 4th member of Louvre heist gang]]></title>
 <link>https://apnews.com/article/france-louvre-robbery-suspect-criminal-record-18728bd9047575ef2dcdcee2630ea0f9</link>
 <pubDate>Fri, 28 Nov 2025 15:37:24 -0000</pubDate>
@@ -197,9 +221,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paris’ Louvre museum to increase ticket price for visitors from outside the European Union]]></title>
+<title><![CDATA[Paris’ Louvre museum to increase ticket price for visitors from outside the EU]]></title>
 <link>https://apnews.com/article/louvre-museum-tickets-hike-non-eu-visitors-67ce7cda9c293455aeb855701dac273c</link>
-<pubDate>Fri, 28 Nov 2025 10:42:07 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 15:43:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,27 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria withdraws 2026 budget proposal following street protests]]></title>
-<link>https://apnews.com/article/bulgaria-budget-withdrawal-protests-0cbab601328e57d36a38bc23fb5593d8</link>
-<pubDate>Thu, 27 Nov 2025 13:32:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
-<link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
-<pubDate>Thu, 27 Nov 2025 12:21:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A crystal Fabergé egg crafted for Russian royalty is expected to sell for more than $26 million]]></title>
-<link>https://apnews.com/article/faberge-winter-egg-christies-auction-6790b7a6be1a429a7e851dd51b58c6ae</link>
-<pubDate>Thu, 27 Nov 2025 12:06:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll rises to 128 in Hong Kong residential fire; 8 more arrested over towers’ renovation]]></title>
+<title><![CDATA[Death toll rises to 128 in Hong Kong residential fire as 8 more arrested over towers’ renovation]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
-<pubDate>Fri, 28 Nov 2025 12:59:02 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 16:29:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces kill at least 13 in southern Syria raid, officials and residents say]]></title>
+<title><![CDATA[Israeli forces kill at least 13 people in southern Syria raid, officials and residents say]]></title>
 <link>https://apnews.com/article/israel-syria-hamas-gaza-a91d1b457d2540e038d01083a76fe696</link>
-<pubDate>Fri, 28 Nov 2025 12:44:02 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 16:14:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea Bissau soldiers announce new prime minister after military takeover]]></title>
+<title><![CDATA[Guinea-Bissau soldiers appoint ally of deposed president as prime minister]]></title>
 <link>https://apnews.com/article/guinea-bissau-military-takeover-ecowas-0d06bcc9cf7eaf29243a1fcf6d7b307a</link>
-<pubDate>Fri, 28 Nov 2025 14:03:06 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 15:59:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
