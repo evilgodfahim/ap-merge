@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 06:17:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 06:50:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
 <link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Former Peruvian President Pedro Castillo sentenced for conspiracy]]></title>
+<link>https://apnews.com/article/peru-former-president-pedro-castillo-conspiracy-af153bb322fab6329cd65e1c32a2c881</link>
+<pubDate>Fri, 28 Nov 2025 06:50:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bolsonaro’s sentence and more top photos this week from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/latin-america-caribbean-top-photos-week-0cc446aa02625244dc1f085faf5360c0</link>
 <pubDate>Fri, 28 Nov 2025 05:19:35 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Dominican Republic grants US access to restricted areas for its deadly fight against drugs]]></title>
 <link>https://apnews.com/article/dominican-republic-hegseth-us-drugs-deal-4c98841f8b2a1222ff0514014d0baf4f</link>
 <pubDate>Thu, 27 Nov 2025 20:57:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Peru sentences former President Vizcarra to 14 years in prison for corruption]]></title>
-<link>https://apnews.com/article/peru-president-vizcarra-corruption-prison-sentence-a718a4f43843c13765cb23c32d9e0a13</link>
-<pubDate>Wed, 26 Nov 2025 22:38:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India protests China’s ‘arbitrary detention’ of citizen at Shanghai airport]]></title>
+<link>https://apnews.com/article/india-china-arunachal-pradesh-zangnan-a6ad9e7d0cbfe445194d3b5fab99cda4</link>
+<pubDate>Wed, 26 Nov 2025 10:03:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan puts $40 billion toward buying US weapons and building a defense dome]]></title>
 <link>https://apnews.com/article/taiwan-defense-budget-arms-purchases-spending-c1f34ad69a12b9599f4a356abd3b31c4</link>
 <pubDate>Wed, 26 Nov 2025 17:44:51 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Alibaba’s cloud business revenue soars 34% driven by AI boom]]></title>
 <link>https://apnews.com/article/china-alibaba-earnings-artificial-intelligence-eef3f9622961757b4fee9353d9fd3c76</link>
 <pubDate>Wed, 26 Nov 2025 10:24:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France says ‘bon voyage’ to 2 giant pandas as they head back to China]]></title>
-<link>https://apnews.com/article/france-panda-couple-return-china-5e5266988e28b95d9ac97b62d5e18e3e</link>
-<pubDate>Tue, 25 Nov 2025 13:00:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Peruvian President Pedro Castillo sentenced for conspiracy]]></title>
-<link>https://apnews.com/article/peru-former-president-pedro-castillo-conspiracy-af153bb322fab6329cd65e1c32a2c881</link>
-<pubDate>Thu, 27 Nov 2025 20:34:03 -0000</pubDate>
+<title><![CDATA[Hondurans to elect new president and Congress even as candidates fan electoral doubt]]></title>
+<link>https://apnews.com/article/honduras-castro-trump-moncada-nasralla-asfura-49924d1e047c7eba7e115ec9733e2098</link>
+<pubDate>Fri, 28 Nov 2025 06:46:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India protests China’s ‘arbitrary detention’ of citizen at Shanghai airport]]></title>
-<link>https://apnews.com/article/india-china-arunachal-pradesh-zangnan-a6ad9e7d0cbfe445194d3b5fab99cda4</link>
-<pubDate>Wed, 26 Nov 2025 10:29:23 -0000</pubDate>
+<title><![CDATA[Military-run Myanmar plays host to goodwill visit by Belarusian leader]]></title>
+<link>https://apnews.com/article/myanmar-belarus-lukashenko-election-allies-f28c7b3d4ba46684da7a3fe2ebbff038</link>
+<pubDate>Fri, 28 Nov 2025 06:31:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
