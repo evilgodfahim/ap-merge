@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 00:50:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 02:25:18 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Israel returns 15 more Palestinian bodies to Gaza as first phase of ceasefire nears end]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-11-26-2025-5f282ab434207591ca69523d3884ee92</link>
-<pubDate>Thu, 27 Nov 2025 21:27:34 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
+<pubDate>Thu, 27 Nov 2025 09:20:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
-<link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
-<pubDate>Thu, 27 Nov 2025 21:12:34 -0000</pubDate>
+<title><![CDATA[Optimism ahead of pope’s visit to Turkey for reopening of Istanbul’s Greek Orthodox seminary]]></title>
+<link>https://apnews.com/article/turkey-pope-leo-xiv-orthodox-halki-seminary-b577a12b0094307c479f31b6796ec85f</link>
+<pubDate>Mon, 24 Nov 2025 06:03:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for stability and peace as he opens first foreign trip]]></title>
+<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
 <link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
-<pubDate>Thu, 27 Nov 2025 15:11:21 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 02:07:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Flooding death toll in southern Thailand rises to more than 80 as water levels fall]]></title>
+<title><![CDATA[Floodwaters are subsiding in southern Thailand as deaths exceed 80]]></title>
 <link>https://apnews.com/article/thailand-south-floods-weather-1c5674116b3ea24b1343c90ccb1823e8</link>
-<pubDate>Thu, 27 Nov 2025 12:05:52 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 01:52:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Political prisoners released in Myanmar mass amnesty]]></title>
-<link>https://apnews.com/article/myanmar-insein-political-prisoners-amnesty-election-a6376a12db8141094a5095dd759af616</link>
-<pubDate>Thu, 27 Nov 2025 12:36:04 -0000</pubDate>
+<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 69 people]]></title>
+<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
+<pubDate>Fri, 28 Nov 2025 01:37:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nigeria’s president declares emergency and beefs up forces following abductions]]></title>
-<link>https://apnews.com/article/nigeria-abductions-emergency-tinubu-2c03f38192703fa7c78bcf2168db9eaf</link>
-<pubDate>Thu, 27 Nov 2025 20:42:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Guinea-Bissau marks another coup in Africa. Here is a look at other military takeovers]]></title>
 <link>https://apnews.com/article/africa-coups-guineabissau-d4f5e04bbbaebcf396cd41f657ab838c</link>
 <pubDate>Thu, 27 Nov 2025 17:07:01 -0000</pubDate>
@@ -95,27 +89,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Soldiers in Guinea-Bissau appear on state television saying they have seized power]]></title>
+<link>https://apnews.com/article/guinea-bissau-presidential-palace-unrest-election-2a1371eb1ceb25596b99c4cc4062bc95</link>
+<pubDate>Thu, 27 Nov 2025 12:21:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Refugee groups worry about backlash after shooting of National Guard soldiers in DC]]></title>
+<link>https://apnews.com/article/national-guard-shooting-refugee-reactions-368d69586a28dabf47bf8e7025946068</link>
+<pubDate>Fri, 28 Nov 2025 01:22:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump criticizes the program that brought Afghan refugees to the US who fought the Taliban]]></title>
+<link>https://apnews.com/article/national-guard-shooting-afghan-operation-allies-welcome-b11c48fb0b807e8f519c266e2a004d8e</link>
+<pubDate>Fri, 28 Nov 2025 01:07:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What we do and don’t know about the shooting of 2 National Guard members in DC]]></title>
 <link>https://apnews.com/article/national-guard-washington-shooting-suspect-b37bc92853ba14625678236318f80751</link>
 <pubDate>Thu, 27 Nov 2025 06:20:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lake effect snow piles up in Great Lakes region, impacting Thanksgiving travel]]></title>
-<link>https://apnews.com/article/lake-effect-snow-thanksgiving-great-lakes-40451827d9615ec33f0f89bd1b6e3b49</link>
-<pubDate>Thu, 27 Nov 2025 20:10:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Santa Fe tackles rental rates with first-in-US minimum wage approach]]></title>
-<link>https://apnews.com/article/santa-fe-living-wage-rent-prices-9215167e87e8e168a487304fcdefd626</link>
-<pubDate>Thu, 27 Nov 2025 20:27:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Macy’s Thanksgiving Day Parade brings Pac-Man and Labubu to Manhattan]]></title>
-<link>https://apnews.com/article/thanksgiving-macys-parade-nyc-manhattan-f5e832e9975a614b43c1f89992c86058</link>
-<pubDate>Thu, 27 Nov 2025 18:22:56 -0000</pubDate>
+<title><![CDATA[Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season]]></title>
+<link>https://apnews.com/article/ups-md11-planes-crash-louisville-13dbb6ec286ddc966c6bd1c9f3b3627c</link>
+<pubDate>Fri, 28 Nov 2025 00:52:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[India in trouble on 27-2 at Day 4 stumps after South Africa sets imposing 549-run target in 2nd test]]></title>
 <link>https://apnews.com/article/india-cricket-south-africa-a7cc478c2154fef68c37240e8a536d96</link>
 <pubDate>Tue, 25 Nov 2025 15:59:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican Attorney General Gertz Manero resigns to become ambassador]]></title>
+<link>https://apnews.com/article/mexico-attorney-general-gertz-manero-resignation-5b39bd98fa7e595cc65b353b08c51436</link>
+<pubDate>Fri, 28 Nov 2025 01:56:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,12 +257,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesia intensifies search for victims after floods and landslides kill 69 people]]></title>
-<link>https://apnews.com/article/indonesia-north-sumatra-flash-floods-landslides-597ff97a28340f5df52036fedf1aea7e</link>
-<pubDate>Thu, 27 Nov 2025 14:56:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Militants kill 3 police officers in attack on checkpoint in northwest Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-militants-attacked-police-checkpoint-northwest-afghanistan-c2612447c0cd3404e910398031b3f805</link>
 <pubDate>Thu, 27 Nov 2025 11:51:16 -0000</pubDate>
@@ -266,6 +266,12 @@
 <title><![CDATA[Ousted leader Hasina sentenced in Bangladesh land corruption case]]></title>
 <link>https://apnews.com/article/bangladesh-sheikh-hasina-trial-yunus-ced2a3afaee074549a401d9de73f6cfa</link>
 <pubDate>Thu, 27 Nov 2025 13:02:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Political prisoners released in Myanmar mass amnesty]]></title>
+<link>https://apnews.com/article/myanmar-insein-political-prisoners-amnesty-election-a6376a12db8141094a5095dd759af616</link>
+<pubDate>Fri, 28 Nov 2025 00:49:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -284,6 +290,12 @@
 <title><![CDATA[Trump says lax migration policies are top national security threat after National Guard members shot]]></title>
 <link>https://apnews.com/article/trump-national-guard-washington-shooting-6548fbcba4b6efce59a38eeed32b4865</link>
 <pubDate>Thu, 27 Nov 2025 20:39:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos from Hong Kong’s deadliest fire in decades]]></title>
+<link>https://apnews.com/photo-gallery/hong-kong-fire-tai-po-photos-391d9bc268191fdacdf843579ca17367</link>
+<pubDate>Fri, 28 Nov 2025 01:41:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Czech president ready to swear in Babiš as prime minister if conflict of interest is resolved]]></title>
-<link>https://apnews.com/article/czech-babis-new-government-0e9391bfbe8a9319a4a25e6cde9b136a</link>
-<pubDate>Wed, 26 Nov 2025 19:17:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[At least 94 dead as Hong Kong firefighters battle burning towers for a second day]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-d3da6740dd2c90f08d28dcd889db0c30</link>
 <pubDate>Thu, 27 Nov 2025 23:10:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the apartment fire in Hong Kong]]></title>
-<link>https://apnews.com/article/hong-kong-taipo-wang-fuk-court-fire-what-to-know-0934334f8304da26a470989486b17cc7</link>
-<pubDate>Thu, 27 Nov 2025 08:53:59 -0000</pubDate>
+<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
+<pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
-<pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
+<title><![CDATA[Deposed Guinea-Bissau President Embaló arrives in neighboring Senegal as soldiers name junta leader]]></title>
+<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
+<pubDate>Thu, 27 Nov 2025 22:40:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +401,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon and Cyprus finalize sea border agreement after an almost 20-year impasse]]></title>
-<link>https://apnews.com/article/lebanon-cyprus-maritime-border-gas-8c3124c682321f6cf9e1c7b0af146224</link>
-<pubDate>Wed, 26 Nov 2025 12:09:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
 <link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
 <pubDate>Thu, 27 Nov 2025 20:49:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
+<link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
+<pubDate>Fri, 28 Nov 2025 01:22:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos highlight Pope Leo XIV’s first overseas pilgrimage]]></title>
+<link>https://apnews.com/photo-gallery/pope-leo-xivs-first-foreign-trip-photos-turkey-lebanon-38e276ae1e7b8e20554becb2f74bf223</link>
+<pubDate>Fri, 28 Nov 2025 01:07:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos from Hong Kong’s deadliest fire in decades]]></title>
-<link>https://apnews.com/photo-gallery/hong-kong-fire-tai-po-photos-391d9bc268191fdacdf843579ca17367</link>
-<pubDate>Thu, 27 Nov 2025 03:30:32 -0000</pubDate>
+<title><![CDATA[What to know about the apartment fire in Hong Kong]]></title>
+<link>https://apnews.com/article/hong-kong-taipo-wang-fuk-court-fire-what-to-know-0934334f8304da26a470989486b17cc7</link>
+<pubDate>Thu, 27 Nov 2025 08:53:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon]]></title>
-<link>https://apnews.com/article/lebanon-pope-leo-visit-turkey-cc821e4f89ad9c7c0da359798eba7b7e</link>
-<pubDate>Tue, 25 Nov 2025 13:28:07 -0000</pubDate>
+<title><![CDATA[‘Everything is soaked': Winter rains in Gaza bring new misery for Palestinians]]></title>
+<link>https://apnews.com/article/gaza-palestinians-weather-rain-929c8cecd6dbe2b112770e361105b097</link>
+<pubDate>Tue, 25 Nov 2025 14:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Deposed Guinea-Bissau President Embaló arrives in neighboring Senegal as soldiers name junta leader]]></title>
-<link>https://apnews.com/article/guinea-bissau-coup-west-africa-embalo-dias-e4f934094d4c96730473dd16bc8f0259</link>
-<pubDate>Thu, 27 Nov 2025 22:40:01 -0000</pubDate>
+<title><![CDATA[Nigeria’s president declares emergency and beefs up forces following abductions]]></title>
+<link>https://apnews.com/article/nigeria-abductions-emergency-tinubu-2c03f38192703fa7c78bcf2168db9eaf</link>
+<pubDate>Thu, 27 Nov 2025 16:29:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
