@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 13:04:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 13:44:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
 <link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from floods and landslides on Indonesia’s Sumatra rises to 174]]></title>
+<title><![CDATA[Death toll from floods and landslides on Indonesia’s Sumatra rises to 164]]></title>
 <link>https://apnews.com/article/indonesia-sumatra-island-floods-landslides-63a2c98e991c036a78f47cee095e812f</link>
-<pubDate>Fri, 28 Nov 2025 11:50:53 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 13:44:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,12 +89,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump vows to ‘permanently pause’ migration from poor nations in anti-immigrant social media screed]]></title>
-<link>https://apnews.com/article/trump-national-guard-shooting-migration-17bc0655f4544cc702623574ed08eb62</link>
-<pubDate>Fri, 28 Nov 2025 04:49:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Refugee groups worry about backlash after shooting of National Guard soldiers in DC]]></title>
 <link>https://apnews.com/article/national-guard-shooting-refugee-reactions-368d69586a28dabf47bf8e7025946068</link>
 <pubDate>Fri, 28 Nov 2025 01:22:27 -0000</pubDate>
@@ -110,6 +104,12 @@
 <title><![CDATA[What we do and don’t know about the shooting of 2 National Guard members in DC]]></title>
 <link>https://apnews.com/article/national-guard-washington-shooting-suspect-b37bc92853ba14625678236318f80751</link>
 <pubDate>Thu, 27 Nov 2025 06:20:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season]]></title>
+<link>https://apnews.com/article/ups-md11-planes-crash-louisville-13dbb6ec286ddc966c6bd1c9f3b3627c</link>
+<pubDate>Fri, 28 Nov 2025 00:52:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +341,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV receives enthusiastic welcome from Turkey’s Catholics as he opens key day in first trip]]></title>
+<title><![CDATA[Pope joins patriarchs at historic Christian site in Turkey to commemorate creed and pray for unity]]></title>
 <link>https://apnews.com/article/pope-turkey-orthodox-christian-841635be753e7ec904ec00f1d4c2e93b</link>
-<pubDate>Fri, 28 Nov 2025 07:51:42 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 13:14:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dozens more bodies recovered after Hong Kong blaze, raising death toll to 128]]></title>
+<title><![CDATA[Death toll rises to 128 in Hong Kong residential fire; 8 more arrested over towers’ renovation]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
-<pubDate>Fri, 28 Nov 2025 08:55:51 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 12:59:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces kill at least 10 in southern Syria raid, officials and residents say]]></title>
+<title><![CDATA[Israeli forces kill at least 13 in southern Syria raid, officials and residents say]]></title>
 <link>https://apnews.com/article/israel-syria-hamas-gaza-a91d1b457d2540e038d01083a76fe696</link>
-<pubDate>Fri, 28 Nov 2025 10:50:42 -0000</pubDate>
+<pubDate>Fri, 28 Nov 2025 12:44:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 National Guard members shot in an ambush attack just blocks from the White House]]></title>
-<link>https://apnews.com/article/national-guard-shooting-dc-c5785dd8920d2d1ac7d71fab769faf5f</link>
-<pubDate>Thu, 27 Nov 2025 00:31:45 -0000</pubDate>
+<title><![CDATA[Trump says he want to ‘permanently pause’ migration to the US from poorer countries]]></title>
+<link>https://apnews.com/article/trump-national-guard-shooting-migration-17bc0655f4544cc702623574ed08eb62</link>
+<pubDate>Fri, 28 Nov 2025 12:29:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
