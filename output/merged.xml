@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 05:10:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 05:39:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll rises to 128 in Hong Kong residential fire as 8 more arrested over towers’ renovation]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
-<pubDate>Fri, 28 Nov 2025 16:29:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence]]></title>
 <link>https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651</link>
 <pubDate>Fri, 28 Nov 2025 22:55:23 -0000</pubDate>
@@ -362,6 +356,12 @@
 <title><![CDATA[Hungary’s Orbán seeks more Russian oil and gas at Kremlin talks with Putin]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-putin-orban-energy-eca23e36f25c76685c26e96042b39878</link>
 <pubDate>Fri, 28 Nov 2025 12:09:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Authorities probe corruption and negligence in Hong Kong’s deadliest fire in decades]]></title>
+<link>https://apnews.com/article/hong-kong-apartment-complex-fire-474954d3b788cb1cddf6680cb7252c07</link>
+<pubDate>Sat, 29 Nov 2025 05:24:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from floods in Thailand reaches 145 as receding water reveals widespread damage]]></title>
-<link>https://apnews.com/article/thailand-south-flood-damage-aa127ba2af6a845dc309cfc2fe99d035</link>
-<pubDate>Fri, 28 Nov 2025 15:23:31 -0000</pubDate>
+<title><![CDATA[Death toll from floods and landslides on Indonesia’s Sumatra island rises to 248, authorities say]]></title>
+<link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
+<pubDate>Sat, 29 Nov 2025 05:09:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
