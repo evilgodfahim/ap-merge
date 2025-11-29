@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 07:34:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 08:14:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
 <link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary’s Orbán seeks more Russian oil and gas at Kremlin talks with Putin]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-orban-energy-eca23e36f25c76685c26e96042b39878</link>
-<pubDate>Fri, 28 Nov 2025 12:20:53 -0000</pubDate>
+<title><![CDATA[Russian attacks kill 2 in Kyiv as diplomatic efforts to end the war in Ukraine gain momentum]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-drone-missile-attack-5dff09ee3d56ae715f16d227df3b7cfe</link>
+<pubDate>Sat, 29 Nov 2025 08:14:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hondurans to elect new president and Congress even as candidates fan electoral doubt]]></title>
+<link>https://apnews.com/article/honduras-castro-trump-moncada-nasralla-asfura-49924d1e047c7eba7e115ec9733e2098</link>
+<pubDate>Sat, 29 Nov 2025 07:59:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Peru to declare a state of emergency as migrants leaving Chile trigger backlash]]></title>
 <link>https://apnews.com/article/chile-peru-jose-jari-gabriel-boric-venezuela-511ce16ff599d5e48f8f03584ae37f69</link>
 <pubDate>Fri, 28 Nov 2025 19:49:30 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Former Peruvian President Pedro Castillo sentenced for conspiracy]]></title>
 <link>https://apnews.com/article/peru-former-president-pedro-castillo-conspiracy-af153bb322fab6329cd65e1c32a2c881</link>
 <pubDate>Fri, 28 Nov 2025 06:50:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[One of world’s longest serving democratic leaders loses election in St. Vincent and the Grenadines]]></title>
-<link>https://apnews.com/article/st-vincent-grenadines-gonsalves-godwin-friday-election-19dae7a73c91ccad643ade4b1ed08cba</link>
-<pubDate>Fri, 28 Nov 2025 14:38:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds of children separated from families while fleeing violence in Sudan’s west Darfur]]></title>
-<link>https://apnews.com/article/sudan-darfur-fasher-children-families-unicef-32291a70a9371a778fb6feb9bab91b21</link>
-<pubDate>Fri, 28 Nov 2025 10:27:06 -0000</pubDate>
+<title><![CDATA[An archaeologist is racing to preserve Sudan’s heritage as war threatens to erase its cultural past]]></title>
+<link>https://apnews.com/article/sudan-museums-artefacts-war-archaeology-shadia-abdrabo-fa3849af561dd96f0612e395e75b84d8</link>
+<pubDate>Sat, 29 Nov 2025 07:44:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South African ex-leader’s daughter quits Parliament over Russian mercenary allegations]]></title>
-<link>https://apnews.com/article/south-africa-zuma-daughter-russia-mercenaries-duduzile-f4306706e158e542198d22e658793f17</link>
-<pubDate>Fri, 28 Nov 2025 14:23:51 -0000</pubDate>
+<title><![CDATA[Hundreds of children separated from families while fleeing violence in Sudan’s west Darfur]]></title>
+<link>https://apnews.com/article/sudan-darfur-fasher-children-families-unicef-32291a70a9371a778fb6feb9bab91b21</link>
+<pubDate>Fri, 28 Nov 2025 10:27:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,6 +359,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hungary’s Orbán seeks more Russian oil and gas at Kremlin talks with Putin]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-putin-orban-energy-eca23e36f25c76685c26e96042b39878</link>
+<pubDate>Fri, 28 Nov 2025 12:09:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Authorities probe corruption and negligence in Hong Kong’s deadliest fire in decades]]></title>
 <link>https://apnews.com/article/hong-kong-apartment-complex-fire-474954d3b788cb1cddf6680cb7252c07</link>
 <pubDate>Sat, 29 Nov 2025 05:24:03 -0000</pubDate>
@@ -452,12 +458,6 @@
 <title><![CDATA[Death toll from floods and landslides on Indonesia’s Sumatra island rises to 248, authorities say]]></title>
 <link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
 <pubDate>Sat, 29 Nov 2025 05:09:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hondurans to elect new president and Congress even as candidates fan electoral doubt]]></title>
-<link>https://apnews.com/article/honduras-castro-trump-moncada-nasralla-asfura-49924d1e047c7eba7e115ec9733e2098</link>
-<pubDate>Fri, 28 Nov 2025 06:46:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
