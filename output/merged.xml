@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 07:09:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 07:34:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
 <link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Turkish official says Black Sea tankers may have been hit by mines, missiles or drones]]></title>
+<link>https://apnews.com/article/tankers-russia-sanctions-shadow-fleet-mines-drones-black-sea-76dce005c40a0bf38faf2fbf8be71e38</link>
+<pubDate>Sat, 29 Nov 2025 07:18:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congo and Rwanda presidents to meet in the US to sign peace deal]]></title>
 <link>https://apnews.com/article/congo-rwanda-peace-agreement-washington-4bef4ad8367ed421edf1c06fce60e085</link>
 <pubDate>Fri, 28 Nov 2025 20:38:31 -0000</pubDate>
@@ -230,12 +236,6 @@
 <title><![CDATA[Sweden promises action against illegal sex doll sales]]></title>
 <link>https://apnews.com/article/sweden-online-vendors-illegal-sex-doll-f1a046354b1c0129319f8f1ba0bda86a</link>
 <pubDate>Fri, 28 Nov 2025 13:04:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Armani fashion group appoints new board to guide company after designer’s death]]></title>
-<link>https://apnews.com/article/italy-armani-fashion-board-succession-sale-17070773c0fc1d1ffd9c7a7cfb364d0b</link>
-<pubDate>Fri, 28 Nov 2025 12:49:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,15 +323,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada’s prime minister and Alberta’s premier sign pipeline deal that could reverse oil tanker ban]]></title>
-<link>https://apnews.com/article/canada-oil-pipeline-alberta-oil-british-columbia-carney-bdbd13b337ee12a34a708af0ea63da97</link>
-<pubDate>Thu, 27 Nov 2025 22:10:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US man found dead in Tobago and suspect in custody, police report]]></title>
 <link>https://apnews.com/article/tourist-death-trinidad-a3f81b575b928df83fc1bf6ea1560d5a</link>
 <pubDate>Thu, 27 Nov 2025 18:45:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos highlight Pope Leo XIV’s first overseas pilgrimage]]></title>
+<link>https://apnews.com/photo-gallery/pope-leo-xivs-first-foreign-trip-photos-turkey-lebanon-38e276ae1e7b8e20554becb2f74bf223</link>
+<pubDate>Thu, 27 Nov 2025 18:30:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK government welcomes sharp fall in net migration but says more needs to be done]]></title>
+<link>https://apnews.com/article/britain-migration-statistics-22b1e2b86dd08d2a0f81320cd5df7183</link>
+<pubDate>Fri, 28 Nov 2025 06:41:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Drone attack on a northern Iraq gas field triggers widespread power outages]]></title>
+<link>https://apnews.com/article/iraq-drone-strike-gas-erbil-kormor-electricity-308ea919660a3f5b50c6cdc3f3ec8494</link>
+<pubDate>Thu, 27 Nov 2025 17:37:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli forces kill at least 13 people in southern Syria raid, officials and residents say]]></title>
+<link>https://apnews.com/article/israel-syria-hamas-gaza-a91d1b457d2540e038d01083a76fe696</link>
+<pubDate>Fri, 28 Nov 2025 16:14:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanese army boosts its presence along border with Israel, dismantling Hezbollah posts]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-disarmament-litani-army-tunnels-0609615ca1f875a59bdece3581b68f06</link>
 <pubDate>Fri, 28 Nov 2025 22:40:23 -0000</pubDate>
@@ -395,27 +413,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico plans to build Latin America’s most powerful supercomputer]]></title>
-<link>https://apnews.com/article/mexico-supercomputer-coatlicue-sheinbaum-f57bed10440f0fe0825139d7d792b9fb</link>
-<pubDate>Thu, 27 Nov 2025 07:33:37 -0000</pubDate>
+<title><![CDATA[Venezuelans worried about economic turmoil shun Black Friday deals]]></title>
+<link>https://apnews.com/article/venezuela-black-friday-maduro-trump-drug-strikes-dcca2242e7326865419d45eb48a0ca1b</link>
+<pubDate>Sat, 29 Nov 2025 07:34:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mixed, tracking Wall Street’s winning streak, as US markets close for Thanksgiving]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-trump-nvidia-0953f5a8782704b3fa06f3f1be230e4a</link>
-<pubDate>Thu, 27 Nov 2025 10:50:38 -0000</pubDate>
+<title><![CDATA[Canada’s prime minister and Alberta’s premier sign pipeline deal that could reverse oil tanker ban]]></title>
+<link>https://apnews.com/article/canada-oil-pipeline-alberta-oil-british-columbia-carney-bdbd13b337ee12a34a708af0ea63da97</link>
+<pubDate>Sat, 29 Nov 2025 07:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Black Friday arrives with solid momentum despite tariffs and economic uncertainty]]></title>
-<link>https://apnews.com/article/black-friday-shopping-sales-prices-deals-bbefeb75238596fa23ee59c3f647c361</link>
-<pubDate>Thu, 27 Nov 2025 07:03:37 -0000</pubDate>
+<title><![CDATA[JetBlue scare has aviation experts calling for a global software fix]]></title>
+<link>https://apnews.com/article/airbus-airlines-software-fix-flight-delays-d7b3c6a1315fef77d5cf1b5a588c72a3</link>
+<pubDate>Sat, 29 Nov 2025 07:04:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s unpopular Labour government tries to fight back with a tax-raising budget]]></title>
-<link>https://apnews.com/article/britain-budget-economy-reeves-tax-2e5c135606f6c9774693b725da504758</link>
-<pubDate>Thu, 27 Nov 2025 06:48:37 -0000</pubDate>
+<title><![CDATA[Armani fashion group appoints new board to guide company after designer’s death]]></title>
+<link>https://apnews.com/article/italy-armani-fashion-board-succession-sale-17070773c0fc1d1ffd9c7a7cfb364d0b</link>
+<pubDate>Sat, 29 Nov 2025 06:49:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Natural diamonds lost their sparkle, hitting some African nations hard]]></title>
+<link>https://apnews.com/article/diamonds-botswana-africa-economy-mining-3f2f2e50d21d1a84f0ce86fa0b78d1fe</link>
+<pubDate>Sat, 29 Nov 2025 06:34:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope visits Istanbul’s Blue Mosque at start of day of meetings with Turkey’s religious leaders]]></title>
+<link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
+<pubDate>Sat, 29 Nov 2025 06:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -428,6 +458,12 @@
 <title><![CDATA[Hondurans to elect new president and Congress even as candidates fan electoral doubt]]></title>
 <link>https://apnews.com/article/honduras-castro-trump-moncada-nasralla-asfura-49924d1e047c7eba7e115ec9733e2098</link>
 <pubDate>Fri, 28 Nov 2025 06:46:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
+<link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
+<pubDate>Thu, 27 Nov 2025 20:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
