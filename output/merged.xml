@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 10:10:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 10:39:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
 <link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
@@ -35,15 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australian prime minister Albanese becomes the first ever to marry in office]]></title>
-<link>https://apnews.com/article/australia-prime-minister-albanese-married-5bf1856c29fe135a2023d1fcd97d0fa4</link>
-<pubDate>Sat, 29 Nov 2025 09:21:29 -0000</pubDate>
+<title><![CDATA[Thai prime minister acknowledges flood response failures as death toll rises to 162]]></title>
+<link>https://apnews.com/article/thailand-south-flood-damage-recovery-2586c3102fd32a95a1d0f5dc9a6ea322</link>
+<pubDate>Sat, 29 Nov 2025 10:39:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from floods in Thailand reaches 145 as receding water reveals widespread damage]]></title>
-<link>https://apnews.com/article/thailand-south-flood-damage-aa127ba2af6a845dc309cfc2fe99d035</link>
-<pubDate>Sat, 29 Nov 2025 06:07:17 -0000</pubDate>
+<title><![CDATA[Australian prime minister Albanese becomes the first ever to marry in office]]></title>
+<link>https://apnews.com/article/australia-prime-minister-albanese-married-5bf1856c29fe135a2023d1fcd97d0fa4</link>
+<pubDate>Sat, 29 Nov 2025 09:21:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +254,12 @@
 <title><![CDATA[Paris’ Louvre museum to increase ticket price for visitors from outside the EU]]></title>
 <link>https://apnews.com/article/louvre-museum-tickets-hike-non-eu-visitors-67ce7cda9c293455aeb855701dac273c</link>
 <pubDate>Fri, 28 Nov 2025 15:43:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Death toll from floods in Thailand reaches 145 as receding water reveals widespread damage]]></title>
+<link>https://apnews.com/article/thailand-south-flood-damage-aa127ba2af6a845dc309cfc2fe99d035</link>
+<pubDate>Sat, 29 Nov 2025 10:10:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
