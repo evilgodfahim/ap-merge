@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 11:32:14 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
-<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
-<pubDate>Fri, 28 Nov 2025 02:07:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 29 Nov 2025 12:18:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -17,9 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks kill 2 in Kyiv as diplomatic efforts to end the war in Ukraine gain momentum]]></title>
+<title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
+<link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
+<pubDate>Thu, 27 Nov 2025 10:43:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian attacks kill 3 as diplomatic efforts to end the war in Ukraine gain momentum]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-drone-missile-attack-5dff09ee3d56ae715f16d227df3b7cfe</link>
-<pubDate>Sat, 29 Nov 2025 08:14:08 -0000</pubDate>
+<pubDate>Sat, 29 Nov 2025 11:41:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy’s chief of staff resigns after anti-corruption investigators search home]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-yermak-corruption-3a58193bcb3f7816a715dee9e60e4541</link>
-<pubDate>Fri, 28 Nov 2025 17:37:29 -0000</pubDate>
+<title><![CDATA[Airlines work to fix software glitch on A320 aircraft and some flights are disrupted]]></title>
+<link>https://apnews.com/article/airbus-airlines-software-fix-flight-delays-a8caca9054ed3007560df90f8a6cd732</link>
+<pubDate>Sat, 29 Nov 2025 11:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[An archaeologist is racing to preserve Sudan’s heritage as war threatens to erase its cultural past]]></title>
+<link>https://apnews.com/article/sudan-museums-artefacts-war-archaeology-shadia-abdrabo-fa3849af561dd96f0612e395e75b84d8</link>
+<pubDate>Sat, 29 Nov 2025 07:44:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Parents of abducted children plead with the Nigerian government for news of rescue]]></title>
 <link>https://apnews.com/article/nigeria-school-abductions-parents-c7c17fbff5530765239653afbaffc91c</link>
 <pubDate>Fri, 28 Nov 2025 19:34:30 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[The world turns a blind eye as war-torn Somalia’s hospitals crumble]]></title>
 <link>https://apnews.com/article/somalia-health-care-extremism-mogadishu-shabab-8fdbc540700069b620b131e744ad2819</link>
 <pubDate>Fri, 28 Nov 2025 11:20:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An archaeologist is racing to preserve Sudan’s heritage as war threatens to erase its cultural past]]></title>
-<link>https://apnews.com/article/sudan-museums-artefacts-war-archaeology-shadia-abdrabo-fa3849af561dd96f0612e395e75b84d8</link>
-<pubDate>Sat, 29 Nov 2025 07:44:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkish official says Black Sea tankers may have been hit by mines, missiles or drones]]></title>
+<title><![CDATA[Land mine explosion that wounded Chinese man on Cambodia-Thailand border provokes concerns]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-land-mines-a37d279cdf80ce9070efab495865cefa</link>
+<pubDate>Sat, 29 Nov 2025 12:18:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Christmas tree in Mexico carries the faces of loved ones who never came home]]></title>
+<link>https://apnews.com/article/mexico-disappeared-christmas-tree-b8af7f77ea0afd5dcf0020ab53e7ab75</link>
+<pubDate>Sat, 29 Nov 2025 12:03:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Black Sea tankers may have been hit by mines, missiles or drones, a Turkish official says]]></title>
 <link>https://apnews.com/article/tankers-russia-sanctions-shadow-fleet-mines-drones-black-sea-76dce005c40a0bf38faf2fbf8be71e38</link>
-<pubDate>Sat, 29 Nov 2025 07:18:27 -0000</pubDate>
+<pubDate>Sat, 29 Nov 2025 11:48:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Guinea-Bissau soldiers appoint ally of deposed president as prime minister]]></title>
+<link>https://apnews.com/article/guinea-bissau-military-takeover-ecowas-0d06bcc9cf7eaf29243a1fcf6d7b307a</link>
+<pubDate>Sat, 29 Nov 2025 11:33:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Paris’ Louvre museum to increase ticket price for visitors from outside the EU]]></title>
 <link>https://apnews.com/article/louvre-museum-tickets-hike-non-eu-visitors-67ce7cda9c293455aeb855701dac273c</link>
 <pubDate>Fri, 28 Nov 2025 15:43:49 -0000</pubDate>
@@ -278,12 +296,6 @@
 <title><![CDATA[Sons of Virginia Giuffre, who accused Andrew and Epstein of abuse, seek control of her estate]]></title>
 <link>https://apnews.com/article/virginia-giuffre-australia-estate-epstein-court-28f7725b1fe01d68840f2719f471eabd</link>
 <pubDate>Fri, 28 Nov 2025 08:16:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope joins patriarchs from East and West at historic Christian site in Turkey to pray for unity]]></title>
-<link>https://apnews.com/article/pope-turkey-orthodox-christian-841635be753e7ec904ec00f1d4c2e93b</link>
-<pubDate>Sat, 29 Nov 2025 10:57:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican Attorney General Gertz Manero resigns to become ambassador]]></title>
-<link>https://apnews.com/article/mexico-attorney-general-gertz-manero-resignation-5b39bd98fa7e595cc65b353b08c51436</link>
-<pubDate>Fri, 28 Nov 2025 01:56:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the week by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/photos-week-global-gallery-national-guard-ukraine-hong-kong-fire-pope-58181bf1beb3959d06985bd5eb279384</link>
-<pubDate>Thu, 27 Nov 2025 23:34:39 -0000</pubDate>
+<title><![CDATA[Grateful to be alive, residents who escaped the Hong Kong apartment blaze wonder what comes next]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-fe38347d45017a803cf7c55b7a3c29ab</link>
+<pubDate>Sat, 29 Nov 2025 08:39:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Grateful to be alive, residents who escaped the Hong Kong apartment blaze wonder what comes next]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-fe38347d45017a803cf7c55b7a3c29ab</link>
-<pubDate>Sat, 29 Nov 2025 08:39:18 -0000</pubDate>
+<title><![CDATA[Israeli fire kills 2 Palestinian children in the latest test of Gaza ceasefire]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-ceasefire-a83bba11bc506771aa7233326ab97e42</link>
+<pubDate>Sat, 29 Nov 2025 11:52:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian rescuers search for survivors as the death toll from floods and landslides rises to 279]]></title>
-<link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
-<pubDate>Sat, 29 Nov 2025 10:47:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian attacks kill 3 as diplomatic efforts to end the war in Ukraine gain momentum]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kyiv-drone-missile-attack-5dff09ee3d56ae715f16d227df3b7cfe</link>
-<pubDate>Sat, 29 Nov 2025 10:32:44 -0000</pubDate>
+<title><![CDATA[Pope joins patriarchs from East and West at historic Christian site in Turkey to pray for unity]]></title>
+<link>https://apnews.com/article/pope-turkey-orthodox-christian-841635be753e7ec904ec00f1d4c2e93b</link>
+<pubDate>Fri, 28 Nov 2025 14:18:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
+<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
+<pubDate>Fri, 28 Nov 2025 03:16:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuelans worried about economic turmoil shun Black Friday deals]]></title>
 <link>https://apnews.com/article/venezuela-black-friday-maduro-trump-drug-strikes-dcca2242e7326865419d45eb48a0ca1b</link>
 <pubDate>Sat, 29 Nov 2025 07:34:08 -0000</pubDate>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from floods and mudslides in Sri Lanka rises to 123, with 130 people still missing]]></title>
-<link>https://apnews.com/article/sri-lanka-rain-floods-mudslides-death-toll-e3b937e22ca3932ea71e3baa0818734e</link>
-<pubDate>Sat, 29 Nov 2025 08:09:18 -0000</pubDate>
+<title><![CDATA[Indonesian rescuers search for survivors as the death toll from floods and landslides rises to 279]]></title>
+<link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
+<pubDate>Sat, 29 Nov 2025 10:47:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran adds new gasoline price tier starting in December]]></title>
-<link>https://apnews.com/article/iran-gasoline-price-fuel-subsidies-f86235ce71107d7e2adf0e1ce98547d4</link>
-<pubDate>Thu, 27 Nov 2025 20:49:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guinea-Bissau soldiers appoint ally of deposed president as prime minister]]></title>
-<link>https://apnews.com/article/guinea-bissau-military-takeover-ecowas-0d06bcc9cf7eaf29243a1fcf6d7b307a</link>
-<pubDate>Fri, 28 Nov 2025 15:59:11 -0000</pubDate>
+<title><![CDATA[African Union suspends Guinea-Bissau after military coup]]></title>
+<link>https://apnews.com/article/guineabissau-african-union-coup-4b9c1c983ec563534cab435436f2ebad</link>
+<pubDate>Sat, 29 Nov 2025 11:37:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
