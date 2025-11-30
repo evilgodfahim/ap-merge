@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 10:10:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 10:39:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[5 dead in house fire in eastern France]]></title>
+<link>https://apnews.com/article/france-home-blaze-477e383a45cf4bcfa02d6692ea64c68e</link>
+<pubDate>Sun, 30 Nov 2025 10:39:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkey condemns Ukrainian strikes on Russian oil tankers off Black Sea coast]]></title>
 <link>https://apnews.com/article/black-sea-keceli-drones-russian-oil-tankers-2bccbd2dea8df7db7f8eca3912514b77</link>
 <pubDate>Sun, 30 Nov 2025 09:35:08 -0000</pubDate>
@@ -236,12 +242,6 @@
 <title><![CDATA[Land mine explosion that wounded Chinese man on Cambodia-Thailand border provokes concerns]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-land-mines-a37d279cdf80ce9070efab495865cefa</link>
 <pubDate>Sat, 29 Nov 2025 12:18:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Christmas tree in Mexico carries the faces of loved ones who never came home]]></title>
-<link>https://apnews.com/article/mexico-disappeared-christmas-tree-b8af7f77ea0afd5dcf0020ab53e7ab75</link>
-<pubDate>Sat, 29 Nov 2025 12:03:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in Hong Kong blaze rises to 146 after more bodies found in apartment complex]]></title>
+<title><![CDATA[Death toll in Hong Kong apartment complex blaze rises to 146 as the city mourns]]></title>
 <link>https://apnews.com/article/hong-kong-apartment-complex-fire-9b466e2965d71cc21fe3bce5ad863f74</link>
-<pubDate>Sun, 30 Nov 2025 09:27:51 -0000</pubDate>
+<pubDate>Sun, 30 Nov 2025 10:32:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
