@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 08:13:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 08:41:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV to pray at Armenian cathedral in Istanbul during Turkish-Armenian reconciliation]]></title>
+<title><![CDATA[Pope Leo XIV prays at Armenian cathedral in Istanbul as Turkey and Armenia attempt reconciliation]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-armenia-church-f3a82d0b09af1825e0988eafa426117c</link>
-<pubDate>Sun, 30 Nov 2025 06:16:07 -0000</pubDate>
+<pubDate>Sun, 30 Nov 2025 08:41:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sumatra residents loot for food and water after deadly floods]]></title>
+<title><![CDATA[Indonesian residents hunt for food and water after deadly floods; 193 dead in Sri Lanka]]></title>
 <link>https://apnews.com/article/indonesia-sumatra-flashfloods-landslides-9c4f4fb118406c2c526e3caa14cbdfa8</link>
-<pubDate>Sun, 30 Nov 2025 07:16:21 -0000</pubDate>
+<pubDate>Sun, 30 Nov 2025 08:26:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Epic tales and star power: How Tollywood is reshaping Indian cinema]]></title>
+<link>https://apnews.com/article/tollywood-telegu-cinema-what-is-it-11f634610029566f9ca60071bf3430d5</link>
+<pubDate>Sun, 30 Nov 2025 08:11:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trade unions in India stage nationwide protests against new labor codes]]></title>
 <link>https://apnews.com/article/india-labor-codes-unions-protest-f98bbda57216ffcf67ffb0b034525b23</link>
 <pubDate>Wed, 26 Nov 2025 08:46:29 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
 <link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
 <pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Eruption of long-dormant Ethiopian volcano subsides]]></title>
-<link>https://apnews.com/article/ethiopia-volcano-afar-hayli-gubbi-flights-india-e9b4731d12787d7956f1ffbd16961f2a</link>
-<pubDate>Wed, 26 Nov 2025 05:47:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Epic tales and star power: How Tollywood is reshaping Indian cinema]]></title>
-<link>https://apnews.com/article/tollywood-telegu-cinema-what-is-it-11f634610029566f9ca60071bf3430d5</link>
-<pubDate>Fri, 28 Nov 2025 09:00:48 -0000</pubDate>
+<title><![CDATA[India loses 19th consecutive toss as South Africa elects to field in 1st ODI]]></title>
+<link>https://apnews.com/article/india-south-africa-first-odi-f8f54ba03117b4e8ad5b3c58188f2d5a</link>
+<pubDate>Sun, 30 Nov 2025 08:22:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
