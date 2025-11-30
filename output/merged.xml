@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 02:54:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 03:53:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -125,12 +125,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll rises to 128 in Hong Kong residential fire as 8 more arrested over towers’ renovation]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
-<pubDate>Sat, 29 Nov 2025 05:22:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end]]></title>
 <link>https://apnews.com/article/hong-fire-bamboo-disaster-scaffolding-b4f3992fd78c068dbebbfbfbcc499495</link>
 <pubDate>Fri, 28 Nov 2025 04:42:53 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[India intensifies crackdown in disputed Kashmir after New Delhi bombing]]></title>
 <link>https://apnews.com/article/india-kashmir-new-delhi-blast-crackdown-33ff9ab5d89f934a99f903362edeb3c8</link>
 <pubDate>Wed, 26 Nov 2025 10:54:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Eruption of long-dormant Ethiopian volcano subsides]]></title>
+<link>https://apnews.com/article/ethiopia-volcano-afar-hayli-gubbi-flights-india-e9b4731d12787d7956f1ffbd16961f2a</link>
+<pubDate>Wed, 26 Nov 2025 05:47:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +458,12 @@
 <title><![CDATA[US halts all asylum decisions after shooting of National Guard members]]></title>
 <link>https://apnews.com/article/asylum-decisions-paused-national-guard-shooting-3459a0a773cfa40c90751b43e38f5db6</link>
 <pubDate>Sat, 29 Nov 2025 13:32:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s factory activity contracts for 8th month in November despite trade war truce]]></title>
+<link>https://apnews.com/article/china-factory-economy-us-trade-c8b0e57bfa20d26447865db4a6fecaa5</link>
+<pubDate>Sun, 30 Nov 2025 03:00:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
