@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 13:00:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 13:28:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope wraps up Turkey visit and heads to Beirut to try to give Lebanese hope after years of crises]]></title>
 <link>https://apnews.com/article/pope-turkey-lebanon-4a42813fdb443837688cfc9f07956284</link>
@@ -23,6 +23,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thousands in Philippines protest corruption and demand return of stolen funds from flood projects]]></title>
+<link>https://apnews.com/article/philippines-flood-control-corruption-ferdinand-marcos-jr-578589ef17d66dfd93e0f843f3c7789c</link>
+<pubDate>Sun, 30 Nov 2025 13:28:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian residents hunt for food and water after deadly floods. 193 dead in Sri Lanka]]></title>
 <link>https://apnews.com/article/indonesia-sumatra-flashfloods-landslides-9c4f4fb118406c2c526e3caa14cbdfa8</link>
 <pubDate>Sun, 30 Nov 2025 12:18:45 -0000</pubDate>
@@ -35,18 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from floods and mudslides in Sri Lanka rises to 132, with 176 people still missing]]></title>
-<link>https://apnews.com/article/sri-lanka-rain-floods-mudslides-death-toll-e3b937e22ca3932ea71e3baa0818734e</link>
-<pubDate>Sat, 29 Nov 2025 14:09:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hondurans to elect new president in close race under the shadow of Trump’s surprise intervention]]></title>
-<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
-<pubDate>Sun, 30 Nov 2025 04:56:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dictatorship-era army officers and supporters rally in Argentina in latest sign of political shift]]></title>
 <link>https://apnews.com/article/argentina-military-junta-dictatorship-javier-milei-plaza-de-mayo-6122d6d7541141badaf78522efd42fd9</link>
 <pubDate>Sun, 30 Nov 2025 02:39:05 -0000</pubDate>
@@ -56,6 +50,12 @@
 <title><![CDATA[A Christmas tree in Mexico carries the faces of loved ones who never came home]]></title>
 <link>https://apnews.com/article/mexico-disappeared-christmas-tree-b8af7f77ea0afd5dcf0020ab53e7ab75</link>
 <pubDate>Sat, 29 Nov 2025 18:30:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence]]></title>
+<link>https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651</link>
+<pubDate>Sat, 29 Nov 2025 18:15:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Swiss voters consider whether women, like all male citizens, must do national service]]></title>
+<title><![CDATA[Swiss voters reject mandatory national service for women and new inheritance tax]]></title>
 <link>https://apnews.com/article/switzerland-national-service-44e23e7d0579058f2bc69dd9ce7e655d</link>
-<pubDate>Sun, 30 Nov 2025 06:48:20 -0000</pubDate>
+<pubDate>Sun, 30 Nov 2025 13:28:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll from floods and mudslides in Sri Lanka rises to 132, with 176 people still missing]]></title>
+<link>https://apnews.com/article/sri-lanka-rain-floods-mudslides-death-toll-e3b937e22ca3932ea71e3baa0818734e</link>
+<pubDate>Sun, 30 Nov 2025 13:13:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine’s naval drones strike Russian oil tankers in the Black Sea off the Turkish coast]]></title>
 <link>https://apnews.com/article/tankers-russia-sanctions-shadow-fleet-mines-drones-black-sea-76dce005c40a0bf38faf2fbf8be71e38</link>
 <pubDate>Sun, 30 Nov 2025 05:25:01 -0000</pubDate>
@@ -278,12 +284,6 @@
 <title><![CDATA[Indonesian rescuers search for survivors as the death toll from floods and landslides tops 300]]></title>
 <link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
 <pubDate>Sun, 30 Nov 2025 06:33:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence]]></title>
-<link>https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651</link>
-<pubDate>Sun, 30 Nov 2025 02:39:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +440,6 @@
 <title><![CDATA[Rubio and Witkoff are meeting with Ukraine’s negotiators as Trump pushes to broker an end to the war]]></title>
 <link>https://apnews.com/article/trump-ukraine-russia-rubio-witkoff-de0fe08a5f472e130f46aa0bf3338b43</link>
 <pubDate>Sun, 30 Nov 2025 12:25:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands in Philippines protest corruption and demand return of stolen funds from flood projects]]></title>
-<link>https://apnews.com/article/philippines-flood-control-corruption-ferdinand-marcos-jr-578589ef17d66dfd93e0f843f3c7789c</link>
-<pubDate>Sun, 30 Nov 2025 06:14:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
