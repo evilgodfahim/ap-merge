@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 04:50:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 05:11:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Pope Leo XIV’s trip to Turkey and Lebanon, the first of his pontificate]]></title>
 <link>https://apnews.com/article/pope-trip-lebanon-turkey-what-to-know-dc46cfacc945eb02b893dcd813703517</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope wraps up Turkey visit and heads to Beirut to try to give Lebanese hope after years of crises]]></title>
+<link>https://apnews.com/article/pope-turkey-lebanon-4a42813fdb443837688cfc9f07956284</link>
+<pubDate>Sun, 30 Nov 2025 05:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russian attacks kill 3 as diplomatic efforts to end the war in Ukraine gain momentum]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-drone-missile-attack-5dff09ee3d56ae715f16d227df3b7cfe</link>
 <pubDate>Sat, 29 Nov 2025 11:41:09 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukraine’s naval drones strike Russian oil tankers in the Black Sea off the Turkish coast]]></title>
 <link>https://apnews.com/article/tankers-russia-sanctions-shadow-fleet-mines-drones-black-sea-76dce005c40a0bf38faf2fbf8be71e38</link>
 <pubDate>Sat, 29 Nov 2025 16:11:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tom Stoppard, sparkling playwright who won an Oscar for ‘Shakespeare In Love,’ dies at 88]]></title>
-<link>https://apnews.com/article/stoppard-obit-britain-playwright-2721a8178c7e9691fdbd84e8fc9c0736</link>
-<pubDate>Sat, 29 Nov 2025 21:08:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hondurans to elect new president in close race under the shadow of Trump’s surprise intervention]]></title>
+<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
+<pubDate>Sun, 30 Nov 2025 04:56:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s pardon of ex-Honduran president Hernández injects wild card into election]]></title>
 <link>https://apnews.com/article/honduras-trump-election-hernandez-pardon-9cd64d1055c3a60bca9390f4474efdd2</link>
 <pubDate>Sat, 29 Nov 2025 20:53:59 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Dictatorship-era army officers and supporters rally in Argentina in latest sign of political shift]]></title>
 <link>https://apnews.com/article/argentina-military-junta-dictatorship-javier-milei-plaza-de-mayo-6122d6d7541141badaf78522efd42fd9</link>
 <pubDate>Sun, 30 Nov 2025 02:39:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Christmas tree in Mexico carries the faces of loved ones who never came home]]></title>
-<link>https://apnews.com/article/mexico-disappeared-christmas-tree-b8af7f77ea0afd5dcf0020ab53e7ab75</link>
-<pubDate>Sat, 29 Nov 2025 18:30:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +347,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tom Stoppard, sparkling playwright who won an Oscar for ‘Shakespeare In Love,’ dies at 88]]></title>
+<link>https://apnews.com/article/stoppard-obit-britain-playwright-2721a8178c7e9691fdbd84e8fc9c0736</link>
+<pubDate>Sat, 29 Nov 2025 20:31:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Grateful to be alive, residents who escaped the Hong Kong apartment blaze wonder what comes next]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-fe38347d45017a803cf7c55b7a3c29ab</link>
 <pubDate>Sat, 29 Nov 2025 08:39:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Authorities probe corruption and negligence in Hong Kong’s deadliest fire in decades]]></title>
-<link>https://apnews.com/article/hong-kong-apartment-complex-fire-474954d3b788cb1cddf6680cb7252c07</link>
-<pubDate>Sat, 29 Nov 2025 05:24:03 -0000</pubDate>
+<title><![CDATA[Hong Kong mourns as deadly fire claims 128 lives and sparks safety crackdown]]></title>
+<link>https://apnews.com/article/hong-kong-apartment-complex-fire-9b466e2965d71cc21fe3bce5ad863f74</link>
+<pubDate>Sun, 30 Nov 2025 04:54:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rubio and Witkoff are meeting with Ukraine’s negotiators in Florida as Trump pushes to broker a deal]]></title>
+<link>https://apnews.com/article/trump-ukraine-russia-rubio-witkoff-de0fe08a5f472e130f46aa0bf3338b43</link>
+<pubDate>Sun, 30 Nov 2025 04:39:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
