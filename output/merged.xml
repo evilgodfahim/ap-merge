@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 05:46:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 06:18:47 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanese army boosts its presence along border with Israel, dismantling Hezbollah posts]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-disarmament-litani-army-tunnels-0609615ca1f875a59bdece3581b68f06</link>
+<pubDate>Mon, 01 Dec 2025 05:55:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
 <link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
 <pubDate>Mon, 01 Dec 2025 00:28:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
-<pubDate>Mon, 01 Dec 2025 00:13:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV prays at Armenian cathedral in Istanbul as Turkey and Armenia attempt reconciliation]]></title>
-<link>https://apnews.com/article/pope-leo-turkey-armenia-church-f3a82d0b09af1825e0988eafa426117c</link>
-<pubDate>Sun, 30 Nov 2025 08:41:02 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
+<link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
+<pubDate>Mon, 01 Dec 2025 05:40:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,27 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Post-Thanksgiving travelers in Chicago see hundreds of flights canceled and delayed after snowstorm]]></title>
+<link>https://apnews.com/article/winter-weather-snow-iowa-airport-wisconsin-michigan-091b12c4d6b68e8db63b97c65745f92b</link>
+<pubDate>Mon, 01 Dec 2025 05:25:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump issues White House invitation to families of the two National Guard members who were shot]]></title>
 <link>https://apnews.com/article/shooting-national-guard-vigil-a61debcd27bde91419215cdf77f16584</link>
 <pubDate>Sun, 30 Nov 2025 23:10:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indiana lawmakers in state House to convene session with redistricting top of mind]]></title>
+<link>https://apnews.com/article/indiana-redistricting-state-house-special-session-5d6343ba3e9f36251c4a5d08b94afdab</link>
+<pubDate>Mon, 01 Dec 2025 05:10:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Border Patrol-led immigration crackdown is coming to southeast Louisiana. Here’s what to know]]></title>
 <link>https://apnews.com/article/louisiana-swamp-sweep-border-patrol-immigration-f95c4dd5904e3e825a1e084d3c0cce69</link>
 <pubDate>Sun, 30 Nov 2025 14:22:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US halts all asylum decisions after shooting of National Guard members]]></title>
-<link>https://apnews.com/article/asylum-decisions-paused-national-guard-shooting-3459a0a773cfa40c90751b43e38f5db6</link>
-<pubDate>Sun, 30 Nov 2025 05:46:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump officials and judge face off over flights to El Salvador in rare, high-stakes contempt probe]]></title>
-<link>https://apnews.com/article/trump-judge-flights-el-salvador-contempt-probe-e40a0249ba747668957ef66ffd63d5ae</link>
-<pubDate>Sat, 29 Nov 2025 05:52:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
 <pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US futures slip and Asian stocks are mixed, while oil prices surge more than $1 a barrel]]></title>
+<link>https://apnews.com/article/stocks-markets-retail-cyber-china-trump-0aa282f748415283dceb569216c78a8d</link>
+<pubDate>Mon, 01 Dec 2025 06:18:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +230,18 @@
 <title><![CDATA[Swiss voters reject mandatory national service for women and new inheritance tax]]></title>
 <link>https://apnews.com/article/switzerland-national-service-44e23e7d0579058f2bc69dd9ce7e655d</link>
 <pubDate>Sun, 30 Nov 2025 13:28:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV prays at Armenian cathedral in Istanbul as Turkey and Armenia attempt reconciliation]]></title>
+<link>https://apnews.com/article/pope-leo-turkey-armenia-church-f3a82d0b09af1825e0988eafa426117c</link>
+<pubDate>Mon, 01 Dec 2025 05:48:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vote count under way in Honduras to elect new president in a close race after Trump’s intervention]]></title>
+<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
+<pubDate>Mon, 01 Dec 2025 05:33:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,30 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s naval drones strike Russian oil tankers in the Black Sea off the Turkish coast]]></title>
-<link>https://apnews.com/article/tankers-russia-sanctions-shadow-fleet-mines-drones-black-sea-76dce005c40a0bf38faf2fbf8be71e38</link>
-<pubDate>Sun, 30 Nov 2025 05:25:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Authorities probe corruption and negligence in Hong Kong’s deadliest fire in decades]]></title>
-<link>https://apnews.com/article/hong-kong-apartment-complex-fire-474954d3b788cb1cddf6680cb7252c07</link>
-<pubDate>Sun, 30 Nov 2025 05:10:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian rescuers search for survivors as the death toll from floods and landslides tops 300]]></title>
-<link>https://apnews.com/article/landslide-indonesia-tsunami-deadly-rescuers-sumatra-cc00799f15b4a6630bc9eec46e4534ee</link>
-<pubDate>Sun, 30 Nov 2025 06:33:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence]]></title>
-<link>https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651</link>
-<pubDate>Sun, 30 Nov 2025 02:39:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about this week’s diplomatic efforts to end the war in Ukraine]]></title>
 <link>https://apnews.com/article/russia-ukraine-peace-plan-negotiations-diplomacy-6a3de7850018c24b3232c4ceea0c9703</link>
 <pubDate>Mon, 01 Dec 2025 04:45:20 -0000</pubDate>
@@ -401,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
-<link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
-<pubDate>Mon, 01 Dec 2025 05:31:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
 <pubDate>Sat, 29 Nov 2025 14:02:01 -0000</pubDate>
@@ -452,6 +440,12 @@
 <title><![CDATA[Trump’s pardon promise offers yet another life to Honduras’ imprisoned ex-president]]></title>
 <link>https://apnews.com/article/honduras-trump-hernandez-pardon-drugs-e858428426bcae1df8eef3341e2fcd20</link>
 <pubDate>Sun, 30 Nov 2025 18:30:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
+<pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
