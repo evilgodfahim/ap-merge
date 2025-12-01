@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 15:12:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 15:41:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Move to strip former Israeli leader’s name from a Dublin park sparks an outcry in Ireland]]></title>
+<link>https://apnews.com/article/ireland-dublin-herzog-park-israel-gaza-12e280b3e60ac734beeb485047862005</link>
+<pubDate>Mon, 01 Dec 2025 15:39:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
 <pubDate>Mon, 01 Dec 2025 09:09:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanese army boosts its presence along border with Israel, dismantling Hezbollah posts]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-disarmament-litani-army-tunnels-0609615ca1f875a59bdece3581b68f06</link>
-<pubDate>Mon, 01 Dec 2025 05:55:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gangs launch large-scale attack in Haiti’s central region]]></title>
+<link>https://apnews.com/article/haiti-gangs-attack-pont-sonde-bercy-gran-grif-4a3a091383202babec7939b630c1691e</link>
+<pubDate>Mon, 01 Dec 2025 15:24:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s pardon promise offers yet another life to Honduras’ imprisoned ex-president]]></title>
 <link>https://apnews.com/article/honduras-trump-hernandez-pardon-drugs-e858428426bcae1df8eef3341e2fcd20</link>
 <pubDate>Mon, 01 Dec 2025 12:07:21 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lawmakers voice support for congressional reviews of Trump’s military strikes on boats]]></title>
-<link>https://apnews.com/article/military-strikes-boats-drugs-caribbean-hegseth-congress-93c513e28f38688f5582150c7675c072</link>
-<pubDate>Sun, 30 Nov 2025 19:02:20 -0000</pubDate>
+<title><![CDATA[A South African radio presenter is arrested on suspicion of recruiting fighters for Russia]]></title>
+<link>https://apnews.com/article/south-africa-russia-ukraine-mercenary-soldiers-ccd056e16af26e6417f838aa3042b20a</link>
+<pubDate>Mon, 01 Dec 2025 15:09:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[African Union suspends Guinea-Bissau after coup and former president flees to Republic of Congo]]></title>
 <link>https://apnews.com/article/guineabissau-african-union-coup-4b9c1c983ec563534cab435436f2ebad</link>
 <pubDate>Sun, 30 Nov 2025 21:09:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An archaeologist is racing to preserve Sudan’s heritage as war threatens to erase its cultural past]]></title>
-<link>https://apnews.com/article/sudan-museums-artefacts-war-archaeology-shadia-abdrabo-fa3849af561dd96f0612e395e75b84d8</link>
-<pubDate>Sat, 29 Nov 2025 07:44:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,36 @@
 <title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
 <pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A controversial infant Jesus is stolen from a Belgian Nativity scene]]></title>
+<link>https://apnews.com/article/belgium-nativity-jesus-brussels-theft-grand-place-c691abdb7dc3c19d300b9c88cf738260</link>
+<pubDate>Mon, 01 Dec 2025 15:41:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A very royal Christmas. King Charles III’s charity auctions stockings made from monarch’s drapes]]></title>
+<link>https://apnews.com/article/king-charles-iii-stockings-auction-charity-9bfd7fa8f2cb64a4f87427558c9c8261</link>
+<pubDate>Mon, 01 Dec 2025 15:26:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ebola outbreak in Congo is over, health minister says]]></title>
+<link>https://apnews.com/article/congo-ebola-outbreak-update-minister-2fdefab2c0f004955e7f8e30029fa471</link>
+<pubDate>Mon, 01 Dec 2025 15:11:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Election observers warn that freedoms in Kyrgyzstan are ‘increasingly restricted’]]></title>
+<link>https://apnews.com/article/kyrgyzstan-parlimentary-election-freedom-repression-crackdown-ffde0c2275dafd574e8eef3c898c01a8</link>
+<pubDate>Mon, 01 Dec 2025 14:56:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Swiss prosecutors target Credit Suisse, now part of UBS, over Mozambique money laundering case]]></title>
+<link>https://apnews.com/article/ubs-credit-suisse-switzerland-mozambique-money-laundering-681d3c9ac4f9afba3bf210a70d9977c6</link>
+<pubDate>Mon, 01 Dec 2025 14:41:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -314,36 +344,6 @@
 <title><![CDATA[Vote count under way in Honduras to elect new president in a close race after Trump’s intervention]]></title>
 <link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
 <pubDate>Mon, 01 Dec 2025 05:33:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dictatorship-era army officers and supporters rally in Argentina in latest sign of political shift]]></title>
-<link>https://apnews.com/article/argentina-military-junta-dictatorship-javier-milei-plaza-de-mayo-6122d6d7541141badaf78522efd42fd9</link>
-<pubDate>Sun, 30 Nov 2025 19:46:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[International rights group chief says Syria’s reforms are promising but democracy is still lacking]]></title>
-<link>https://apnews.com/article/syria-human-rights-amnesty-reforms-agnes-callamard-d646f0d4fba23d61fadf925d1f000957</link>
-<pubDate>Sat, 29 Nov 2025 22:09:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says Venezuelan airspace should be viewed as closed. Maduro government slams ‘colonial threat’]]></title>
-<link>https://apnews.com/article/trump-venezuela-airspace-faa-maduro-pressure-campaign-39d624a0f5d5422cdfb62826a5a56373</link>
-<pubDate>Mon, 01 Dec 2025 11:03:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tom Stoppard, sparkling playwright who won an Oscar for ‘Shakespeare In Love,’ dies at 88]]></title>
-<link>https://apnews.com/article/stoppard-obit-britain-playwright-2721a8178c7e9691fdbd84e8fc9c0736</link>
-<pubDate>Sun, 30 Nov 2025 12:18:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Governments endorse greater protections for sharks amid concerns about overfishing]]></title>
-<link>https://apnews.com/article/sharks-cites-fin-trade-e132d56b5121eca0b1318c8164318cc1</link>
-<pubDate>Sun, 30 Nov 2025 05:40:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
