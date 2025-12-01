@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 22:39:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 23:10:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
@@ -29,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shooting of National Guard members prompts flurry of US immigration restrictions]]></title>
+<link>https://apnews.com/article/immigration-border-trump-afghan-asylum-refugee-710973fb9bce4a83a9d979852865cdab</link>
+<pubDate>Mon, 01 Dec 2025 23:10:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Over 800 people are still missing after flooding in Indonesia, Sri Lanka and Thailand]]></title>
 <link>https://apnews.com/article/indonesia-sri-lanka-thailand-floods-landslides-2734bed820a79a63c801914b75a28609</link>
 <pubDate>Mon, 01 Dec 2025 14:34:25 -0000</pubDate>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in Hong Kong apartment complex blaze rises to 146 as the city mourns]]></title>
-<link>https://apnews.com/article/hong-kong-apartment-complex-fire-9b466e2965d71cc21fe3bce5ad863f74</link>
-<pubDate>Mon, 01 Dec 2025 06:15:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in deal with prosecutors]]></title>
+<title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in a plea deal]]></title>
 <link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
-<pubDate>Mon, 01 Dec 2025 21:05:48 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 22:55:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[GOP-led states settle lawsuit against federal government over checking citizenship status of voters]]></title>
-<link>https://apnews.com/article/voting-noncitizens-dhs-florida-indiana-iowa-ohio-fd202f16765456a33661e031c259f3b5</link>
-<pubDate>Mon, 01 Dec 2025 21:39:36 -0000</pubDate>
+<title><![CDATA[Luigi Mangione fights to exclude evidence from his trial in the killing of UnitedHealthcare’s CEO]]></title>
+<link>https://apnews.com/article/mangione-unitedhealthcare-killing-evidence-hearing-77d3b2add7f95341de179f31559eaba1</link>
+<pubDate>Mon, 01 Dec 2025 17:15:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A California family was about to cut the cake when gunfire erupted at a toddler’s birthday party]]></title>
 <link>https://apnews.com/article/california-shooting-stockton-party-b5694f32ae71d2e6d874641a78f65f4f</link>
 <pubDate>Mon, 01 Dec 2025 20:35:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Death toll in Hong Kong apartment complex blaze rises to 146 as the city mourns]]></title>
+<link>https://apnews.com/article/hong-kong-apartment-complex-fire-9b466e2965d71cc21fe3bce5ad863f74</link>
+<pubDate>Mon, 01 Dec 2025 06:15:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -128,12 +134,6 @@
 <title><![CDATA[Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end]]></title>
 <link>https://apnews.com/article/hong-fire-bamboo-disaster-scaffolding-b4f3992fd78c068dbebbfbfbcc499495</link>
 <pubDate>Fri, 28 Nov 2025 04:42:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Macy’s Thanksgiving Day Parade brings Pac-Man and Labubu to Manhattan]]></title>
-<link>https://apnews.com/article/thanksgiving-macys-parade-nyc-manhattan-f5e832e9975a614b43c1f89992c86058</link>
-<pubDate>Thu, 27 Nov 2025 18:22:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +161,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bolivia eases visa requirements for US and Israeli travelers]]></title>
+<link>https://apnews.com/article/bolivia-rodrigo-paz-evo-morales-luis-arce-tourism-us-israel-visas-1d5e3c5ed458a0188f8b61ba2da420dc</link>
+<pubDate>Mon, 01 Dec 2025 23:04:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada joins EU defense fund as the country pivots away from the US]]></title>
 <link>https://apnews.com/article/canada-eu-defense-fund-3ea41b8e57020579745c3c2dc8152c59</link>
 <pubDate>Mon, 01 Dec 2025 22:01:50 -0000</pubDate>
@@ -173,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Babson College supports student deported flying home for Thanksgiving surprise]]></title>
+<title><![CDATA[Babson College offers supports to student deported trying to fly home for Thanksgiving surprise]]></title>
 <link>https://apnews.com/article/babson-college-student-deported-honduras-immigration-e92399a78c1cb1d46be21146f7e4ebd9</link>
-<pubDate>Mon, 01 Dec 2025 21:46:50 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 22:49:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,12 +338,6 @@
 <title><![CDATA[Turkey condemns Ukrainian strikes on Russian oil tankers off Black Sea coast]]></title>
 <link>https://apnews.com/article/black-sea-keceli-drones-russian-oil-tankers-2bccbd2dea8df7db7f8eca3912514b77</link>
 <pubDate>Sun, 30 Nov 2025 09:35:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Polish ‘magicians of glass’ who create Christmas baubles for clients worldwide]]></title>
-<link>https://apnews.com/article/poland-christmas-baubles-handmade-jewelry-harrods-04dc35abcd137d9a9c8d3f89b3e74c9d</link>
-<pubDate>Sun, 30 Nov 2025 08:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
