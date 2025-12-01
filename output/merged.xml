@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Nov 2025 23:35:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 01:02:42 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
-<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
-<pubDate>Fri, 28 Nov 2025 02:07:27 -0000</pubDate>
+<title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
+<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
+<pubDate>Mon, 01 Dec 2025 00:28:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
+<pubDate>Mon, 01 Dec 2025 00:13:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian residents hunt for food and water after deadly floods. 193 dead in Sri Lanka]]></title>
-<link>https://apnews.com/article/indonesia-sumatra-flashfloods-landslides-9c4f4fb118406c2c526e3caa14cbdfa8</link>
-<pubDate>Sun, 30 Nov 2025 12:18:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Kyrgyzstan holds snap parliamentary vote as opposition faces crackdown]]></title>
 <link>https://apnews.com/article/parliamentary-elections-kyrgyzstan-crackdown-central-asia-603c32e1dbc1006dc1c3dee10a428856</link>
 <pubDate>Sun, 30 Nov 2025 07:01:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hondurans vote to elect new president in a close race under shadow of Trump’s surprise intervention]]></title>
-<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
-<pubDate>Sun, 30 Nov 2025 16:37:51 -0000</pubDate>
+<title><![CDATA[Grateful to be alive, residents who escaped the Hong Kong apartment blaze wonder what comes next]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-fe38347d45017a803cf7c55b7a3c29ab</link>
+<pubDate>Sun, 30 Nov 2025 23:58:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,6 +62,12 @@
 <title><![CDATA[Trump says Venezuelan airspace should be viewed as closed. Maduro government slams ‘colonial threat’]]></title>
 <link>https://apnews.com/article/trump-venezuela-airspace-faa-maduro-pressure-campaign-39d624a0f5d5422cdfb62826a5a56373</link>
 <pubDate>Sun, 30 Nov 2025 18:47:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dictatorship-era army officers and supporters rally in Argentina in latest sign of political shift]]></title>
+<link>https://apnews.com/article/argentina-military-junta-dictatorship-javier-milei-plaza-de-mayo-6122d6d7541141badaf78522efd42fd9</link>
+<pubDate>Sun, 30 Nov 2025 02:39:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Report says world’s biggest arms producers increased revenue by 5.9% last year to record level]]></title>
+<link>https://apnews.com/article/global-arms-sales-2024-sipri-ukraine-gaza-3bd387ecc7523004140d2fcaa681ae0e</link>
+<pubDate>Sun, 30 Nov 2025 23:59:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A look back at the weekend’s biggest stories]]></title>
 <link>https://apnews.com/article/russia-ukraine-national-guard-hong-kong-rubio-stoppard-511caf312a741473ad1e9316b2cca118</link>
 <pubDate>Sun, 30 Nov 2025 21:52:43 -0000</pubDate>
@@ -206,12 +218,6 @@
 <title><![CDATA[Swiss voters reject mandatory national service for women and new inheritance tax]]></title>
 <link>https://apnews.com/article/switzerland-national-service-44e23e7d0579058f2bc69dd9ce7e655d</link>
 <pubDate>Sun, 30 Nov 2025 13:28:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dictatorship-era army officers and supporters rally in Argentina in latest sign of political shift]]></title>
-<link>https://apnews.com/article/argentina-military-junta-dictatorship-javier-milei-plaza-de-mayo-6122d6d7541141badaf78522efd42fd9</link>
-<pubDate>Sun, 30 Nov 2025 19:46:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Netanyahu’s request for a pardon in corruption trial]]></title>
-<link>https://apnews.com/article/israel-netanyahu-trial-pardon-president-corruption-charges-f4dfb2e78c2b9ef265324d2d5bfa7518</link>
-<pubDate>Sun, 30 Nov 2025 17:36:28 -0000</pubDate>
+<title><![CDATA[Rubio says US-Ukraine talks on Russia war were productive but much work remains in search of a deal]]></title>
+<link>https://apnews.com/article/trump-ukraine-russia-rubio-witkoff-de0fe08a5f472e130f46aa0bf3338b43</link>
+<pubDate>Sun, 30 Nov 2025 21:09:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hondurans vote to elect new president in a close race under shadow of Trump’s surprise intervention]]></title>
+<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-5c9bc8331d1f586c0f200f6f6303127a</link>
+<pubDate>Sun, 30 Nov 2025 13:42:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Grateful to be alive, residents who escaped the Hong Kong apartment blaze wonder what comes next]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-fe38347d45017a803cf7c55b7a3c29ab</link>
-<pubDate>Sat, 29 Nov 2025 08:39:18 -0000</pubDate>
+<title><![CDATA[Indonesian residents hunt for food and water after deadly floods. 193 dead in Sri Lanka]]></title>
+<link>https://apnews.com/article/indonesia-sumatra-flashfloods-landslides-9c4f4fb118406c2c526e3caa14cbdfa8</link>
+<pubDate>Mon, 01 Dec 2025 00:45:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,18 +413,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
-<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
-<pubDate>Fri, 28 Nov 2025 21:51:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli forces kill Palestinian men in West Bank after they appear to surrender]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-gaza-11-27-2025-7facef5a4a34f70fea8b2ea0b920002f</link>
-<pubDate>Thu, 27 Nov 2025 22:55:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuelans worried about economic turmoil shun Black Friday deals]]></title>
 <link>https://apnews.com/article/venezuela-black-friday-maduro-trump-drug-strikes-dcca2242e7326865419d45eb48a0ca1b</link>
 <pubDate>Sat, 29 Nov 2025 07:34:08 -0000</pubDate>
@@ -443,12 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio says US-Ukraine talks on Russia war were productive but much work remains in search of a deal]]></title>
-<link>https://apnews.com/article/trump-ukraine-russia-rubio-witkoff-de0fe08a5f472e130f46aa0bf3338b43</link>
-<pubDate>Sun, 30 Nov 2025 21:09:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Death toll in Hong Kong apartment complex blaze rises to 146 as the city mourns]]></title>
 <link>https://apnews.com/article/hong-kong-apartment-complex-fire-9b466e2965d71cc21fe3bce5ad863f74</link>
 <pubDate>Sun, 30 Nov 2025 10:32:46 -0000</pubDate>
@@ -461,9 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[African nations push to recognize crimes of colonialism in Algeria]]></title>
+<title><![CDATA[Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip]]></title>
+<link>https://apnews.com/article/vatican-pope-visit-turkey-erdogan-ukraine-gaza-c3973164519f1523b60bef4b90b10243</link>
+<pubDate>Fri, 28 Nov 2025 03:16:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[African nations push for recognition of colonial crimes and reparations]]></title>
 <link>https://apnews.com/article/africa-colonialism-algeria-african-union-11ab3969da31ff863ab9bb83f220acd1</link>
-<pubDate>Sun, 30 Nov 2025 20:54:13 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 00:15:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
