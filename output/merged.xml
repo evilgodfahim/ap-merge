@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 20:37:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 21:09:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in deal with prosecutors]]></title>
+<link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
+<pubDate>Mon, 01 Dec 2025 21:05:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gangs launch large-scale attack in Haiti’s central region as hundreds flee gunfire and burning homes]]></title>
 <link>https://apnews.com/article/haiti-gangs-attack-pont-sonde-bercy-gran-grif-4a3a091383202babec7939b630c1691e</link>
 <pubDate>Mon, 01 Dec 2025 16:43:19 -0000</pubDate>
@@ -59,15 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s pardon promise offers yet another life to Honduras’ imprisoned ex-president]]></title>
-<link>https://apnews.com/article/honduras-trump-hernandez-pardon-drugs-e858428426bcae1df8eef3341e2fcd20</link>
-<pubDate>Mon, 01 Dec 2025 12:07:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[West African bloc delegation says talks with Guinea-Bissau coup leaders will continue]]></title>
+<title><![CDATA[A West African bloc delegation says talks with Guinea-Bissau coup leaders will continue]]></title>
 <link>https://apnews.com/article/guineabissau-coup-ecowas-talks-0b4b745cea6c30f97e0c34258fbd4a6c</link>
-<pubDate>Mon, 01 Dec 2025 17:45:49 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 20:50:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,21 +95,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A California family was about to cut the cake when gunfire erupted at a toddler’s birthday party]]></title>
+<link>https://apnews.com/article/california-shooting-stockton-party-b5694f32ae71d2e6d874641a78f65f4f</link>
+<pubDate>Mon, 01 Dec 2025 20:35:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal review finds 44% of US trucking schools don’t comply with government rules]]></title>
+<link>https://apnews.com/article/commercial-drivers-license-trucking-california-pennsylvania-96fee86df4f9bfb0ef65af20da878a57</link>
+<pubDate>Mon, 01 Dec 2025 20:20:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Luigi Mangione fights to exclude evidence from his trial in the killing of UnitedHealthcare’s CEO]]></title>
 <link>https://apnews.com/article/mangione-unitedhealthcare-killing-evidence-hearing-77d3b2add7f95341de179f31559eaba1</link>
 <pubDate>Mon, 01 Dec 2025 17:15:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Massachusetts man goes on trial in death of wife who disappeared more than 2 years ago]]></title>
-<link>https://apnews.com/article/brian-walshe-trial-wife-3d290aed2d1a0f1999b7f52601f30bf3</link>
-<pubDate>Mon, 01 Dec 2025 17:00:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indiana lawmakers in state House to convene session with redistricting top of mind]]></title>
-<link>https://apnews.com/article/indiana-redistricting-state-house-special-session-5d6343ba3e9f36251c4a5d08b94afdab</link>
-<pubDate>Mon, 01 Dec 2025 05:10:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +161,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-1-2025-1e36dc8abffd7fa86935f86c0f39f02f</link>
+<pubDate>Mon, 01 Dec 2025 20:59:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UK and US agree zero-tariff deal on pharmaceuticals]]></title>
 <link>https://apnews.com/article/uk-us-pharmaceuticals-tariff-deal-ea38985e971bf9aedd73f9def7985462</link>
 <pubDate>Mon, 01 Dec 2025 16:46:47 -0000</pubDate>
@@ -185,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ebola outbreak in Congo is over, health minister says]]></title>
+<title><![CDATA[Congo declares its latest Ebola outbreak over, after 43 deaths]]></title>
 <link>https://apnews.com/article/congo-ebola-outbreak-update-minister-2fdefab2c0f004955e7f8e30029fa471</link>
-<pubDate>Mon, 01 Dec 2025 15:11:52 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 20:44:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s pardon promise offers yet another life to Honduras’ imprisoned ex-president]]></title>
+<link>https://apnews.com/article/honduras-trump-hernandez-pardon-drugs-e858428426bcae1df8eef3341e2fcd20</link>
+<pubDate>Mon, 01 Dec 2025 20:29:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A long-lost Rubens painting depicting Crucifixion sells for $2.7 million]]></title>
 <link>https://apnews.com/article/france-rubens-painting-auction-d98f7cdc1a538d99d24b5c2bc378ab4d</link>
 <pubDate>Mon, 01 Dec 2025 03:09:03 -0000</pubDate>
@@ -326,18 +338,6 @@
 <title><![CDATA[Kyrgyzstan holds snap parliamentary vote as opposition faces crackdown]]></title>
 <link>https://apnews.com/article/parliamentary-elections-kyrgyzstan-crackdown-central-asia-603c32e1dbc1006dc1c3dee10a428856</link>
 <pubDate>Mon, 01 Dec 2025 06:03:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian residents hunt for food and water after deadly floods. 193 dead in Sri Lanka]]></title>
-<link>https://apnews.com/article/indonesia-sumatra-flashfloods-landslides-9c4f4fb118406c2c526e3caa14cbdfa8</link>
-<pubDate>Mon, 01 Dec 2025 06:51:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Swiss voters reject mandatory national service for women and new inheritance tax]]></title>
-<link>https://apnews.com/article/switzerland-national-service-44e23e7d0579058f2bc69dd9ce7e655d</link>
-<pubDate>Sun, 30 Nov 2025 13:28:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
