@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 13:09:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 13:50:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh’s ex-leader Hasina and niece, British lawmaker Tulip Siddiq, found guilty of corruption]]></title>
+<title><![CDATA[Bangladesh’s ex-leader Hasina and her British lawmaker niece both found guilty of corruption]]></title>
 <link>https://apnews.com/article/bangladesh-hasina-tulip-siddiq-1929bc5f3ef62959067a6da1f105605e</link>
-<pubDate>Mon, 01 Dec 2025 07:00:14 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 13:30:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
 <pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cameroon’s top opposition leader dies after weeks of detention]]></title>
+<link>https://apnews.com/article/cameroon-ekane-death-detention-opposition-biya-02e756ecf21a2e06835f123029ad5404</link>
+<pubDate>Mon, 01 Dec 2025 13:38:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 20 dead, several missing after boat capsizes in northwestern Congo]]></title>
-<link>https://apnews.com/article/congo-boat-capsizes-5a990203ff7a3c92455d01f48821d1f6</link>
-<pubDate>Sat, 29 Nov 2025 15:08:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy meets with Macron in Paris as U.S.-led peace negotiations advance]]></title>
 <link>https://apnews.com/article/zelenskyy-paris-macron-russia-ukraine-war-704d68a36c36495f6dada056b729fac3</link>
 <pubDate>Mon, 01 Dec 2025 12:22:22 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu requests a pardon to end his ongoing corruption trial in Israel]]></title>
-<link>https://apnews.com/article/mideast-wars-netanyahu-pardon-5dbc2461b440c8edc8d82d31650cdbe8</link>
-<pubDate>Sun, 30 Nov 2025 18:45:10 -0000</pubDate>
+<title><![CDATA[Pope in Lebanon prays for peace at tomb of saint revered by Christians and Muslims alike]]></title>
+<link>https://apnews.com/article/pope-lebanon-mideast-d62da731a8edbf7cd7df7794f8a9c485</link>
+<pubDate>Mon, 01 Dec 2025 13:28:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Netanyahu requests a pardon to end his ongoing corruption trial in Israel]]></title>
+<link>https://apnews.com/article/mideast-wars-netanyahu-pardon-5dbc2461b440c8edc8d82d31650cdbe8</link>
+<pubDate>Sun, 30 Nov 2025 18:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about Netanyahu’s request for a pardon in corruption trial]]></title>
 <link>https://apnews.com/article/israel-netanyahu-trial-pardon-president-corruption-charges-f4dfb2e78c2b9ef265324d2d5bfa7518</link>
 <pubDate>Sun, 30 Nov 2025 17:36:28 -0000</pubDate>
@@ -413,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares and US futures slip, while oil prices surge more than $1 a barrel]]></title>
+<title><![CDATA[US stock futures dip as crypto takes another beating and oil prices surge]]></title>
 <link>https://apnews.com/article/stocks-markets-retail-cyber-china-trump-0aa282f748415283dceb569216c78a8d</link>
-<pubDate>Mon, 01 Dec 2025 10:30:56 -0000</pubDate>
+<pubDate>Mon, 01 Dec 2025 13:13:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[African nations push for recognition of colonial crimes and reparations]]></title>
-<link>https://apnews.com/article/africa-colonialism-algeria-african-union-11ab3969da31ff863ab9bb83f220acd1</link>
-<pubDate>Mon, 01 Dec 2025 00:15:37 -0000</pubDate>
+<title><![CDATA[West African bloc delegation arrives in Guinea-Bissau for talks with military coup leaders]]></title>
+<link>https://apnews.com/article/guineabissau-coup-ecowas-talks-0b4b745cea6c30f97e0c34258fbd4a6c</link>
+<pubDate>Mon, 01 Dec 2025 12:58:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
