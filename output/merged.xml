@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 17:15:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 17:43:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Germany sends a Libyan man suspected of war crimes to the ICC to face justice]]></title>
+<link>https://apnews.com/article/icc-court-libya-germany-war-crimes-6e2bc06e06edcbdd394544e48c26e9db</link>
+<pubDate>Tue, 02 Dec 2025 17:39:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
 <link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
 <pubDate>Mon, 01 Dec 2025 05:40:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Move to strip former Israeli leader’s name from a Dublin park sparks an outcry in Ireland]]></title>
-<link>https://apnews.com/article/ireland-dublin-herzog-park-israel-gaza-12e280b3e60ac734beeb485047862005</link>
-<pubDate>Mon, 01 Dec 2025 15:39:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV sends message of support to southern Lebanon as he ends 1st foreign trip]]></title>
-<link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
-<pubDate>Tue, 02 Dec 2025 12:15:07 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV shares his thoughts on the conclave, reflects on spirituality and future travels]]></title>
+<link>https://apnews.com/article/pope-leo-conclave-election-turkey-lebanon-a05aa3b72e8c509af4d6775ba0a0b7be</link>
+<pubDate>Tue, 02 Dec 2025 17:24:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nigeria’s president nominates ex-military chief for defense minister weeks after he was forced out]]></title>
+<link>https://apnews.com/article/nigeria-defense-minister-tinubu-8e11770298afba4d4e5fa13f60b5e2eb</link>
+<pubDate>Tue, 02 Dec 2025 17:09:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A South African radio presenter is arrested on suspicion of recruiting fighters for Russia]]></title>
 <link>https://apnews.com/article/south-africa-russia-ukraine-mercenary-soldiers-ccd056e16af26e6417f838aa3042b20a</link>
 <pubDate>Mon, 01 Dec 2025 15:09:13 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[2 former South African apartheid police officers are convicted of killing an activist 38 years ago]]></title>
 <link>https://apnews.com/article/apartheid-south-africa-killing-police-nyoka-04238d3bdd85cc29a6a993ee089cfe3c</link>
 <pubDate>Tue, 02 Dec 2025 15:30:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A West African bloc delegation says talks with Guinea-Bissau coup leaders will continue]]></title>
-<link>https://apnews.com/article/guineabissau-coup-ecowas-talks-0b4b745cea6c30f97e0c34258fbd4a6c</link>
-<pubDate>Mon, 01 Dec 2025 20:50:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,12 +188,6 @@
 <title><![CDATA[Venezuela to continue accepting deported migrants despite Trump’s airspace closure assertion]]></title>
 <link>https://apnews.com/article/venezuela-maduro-us-trump-deportation-flights-c8de53d34483533ec8e58a165f5f63fd</link>
 <pubDate>Tue, 02 Dec 2025 16:50:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria’s president nominates ex-military chief for defense minister weeks after he was forced out]]></title>
-<link>https://apnews.com/article/nigeria-defense-minister-tinubu-8e11770298afba4d4e5fa13f60b5e2eb</link>
-<pubDate>Tue, 02 Dec 2025 14:50:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Leo XIV sends message of support to southern Lebanon as he ends 1st foreign trip]]></title>
+<link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
+<pubDate>Tue, 02 Dec 2025 12:39:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran sentences acclaimed director Jafar Panahi in absentia to a year in prison]]></title>
 <link>https://apnews.com/article/iran-director-jafar-panahi-prison-e0680ecdf4889ee9312d4971b5ec35dc</link>
 <pubDate>Tue, 02 Dec 2025 12:09:02 -0000</pubDate>
@@ -446,6 +446,12 @@
 <title><![CDATA[Honduras election officials say ‘technical problems’ crashed vote count site]]></title>
 <link>https://apnews.com/article/honduras-election-trump-vote-count-54881250f5c07df520c9c4e5b1ea6137</link>
 <pubDate>Tue, 02 Dec 2025 15:45:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Move to strip former Israeli leader’s name from a Dublin park sparks an outcry in Ireland]]></title>
+<link>https://apnews.com/article/ireland-dublin-herzog-park-israel-gaza-12e280b3e60ac734beeb485047862005</link>
+<pubDate>Mon, 01 Dec 2025 17:12:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
