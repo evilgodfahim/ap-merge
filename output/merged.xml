@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 14:12:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 14:45:33 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
+<link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
+<pubDate>Mon, 01 Dec 2025 05:40:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Move to strip former Israeli leader’s name from a Dublin park sparks an outcry in Ireland]]></title>
 <link>https://apnews.com/article/ireland-dublin-herzog-park-israel-gaza-12e280b3e60ac734beeb485047862005</link>
 <pubDate>Mon, 01 Dec 2025 15:39:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Netanyahu’s request for a pardon in corruption trial]]></title>
-<link>https://apnews.com/article/israel-netanyahu-trial-pardon-president-corruption-charges-f4dfb2e78c2b9ef265324d2d5bfa7518</link>
-<pubDate>Tue, 02 Dec 2025 11:10:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s impact is debated in Honduras, where conservatives lead the presidential vote tallies]]></title>
+<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-results-99e15bb759ab9a91e0aea94e09519607</link>
+<pubDate>Tue, 02 Dec 2025 14:25:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in a plea deal]]></title>
 <link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
 <pubDate>Mon, 01 Dec 2025 22:55:34 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shooting of National Guard members prompts flurry of US immigration restrictions]]></title>
-<link>https://apnews.com/article/immigration-border-trump-afghan-asylum-refugee-710973fb9bce4a83a9d979852865cdab</link>
-<pubDate>Mon, 01 Dec 2025 23:10:34 -0000</pubDate>
+<title><![CDATA[Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak]]></title>
+<link>https://apnews.com/article/congo-measles-vaccinations-rebels-3af68025ee9190d106a1089545778ebd</link>
+<pubDate>Tue, 02 Dec 2025 14:10:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[African nations push for recognition of colonial crimes and reparations]]></title>
-<link>https://apnews.com/article/africa-colonialism-algeria-african-union-11ab3969da31ff863ab9bb83f220acd1</link>
-<pubDate>Mon, 01 Dec 2025 14:19:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A California family was about to cut the cake when gunfire erupted at a toddler’s birthday party]]></title>
 <link>https://apnews.com/article/california-shooting-stockton-party-b5694f32ae71d2e6d874641a78f65f4f</link>
 <pubDate>Mon, 01 Dec 2025 20:35:48 -0000</pubDate>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Northeast prepares for first major snowstorm of season]]></title>
-<link>https://apnews.com/article/winter-weather-snow-new-england-thanksgiving-71e3707f522a7da0cb9f288e50990c03</link>
-<pubDate>Tue, 02 Dec 2025 09:55:29 -0000</pubDate>
+<title><![CDATA[The Associated Press’ top photos of 2025 from the US]]></title>
+<link>https://apnews.com/photo-gallery/ap-us-photos-of-year-2025-b862a8bb768f645475eff24e5e6992d4</link>
+<pubDate>Tue, 02 Dec 2025 13:55:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[USA Gymnastics and Olympic sports watchdog failed to stop coach’s sexual abuse, lawsuits allege]]></title>
-<link>https://apnews.com/article/usa-gymnastics-safesport-gardner-chow-sex-abuse-ef927fb1d1813070d5cc820c6882fc44</link>
-<pubDate>Tue, 02 Dec 2025 05:10:52 -0000</pubDate>
+<title><![CDATA[Northeast prepares for first major snowstorm of season]]></title>
+<link>https://apnews.com/article/winter-weather-snow-new-england-thanksgiving-71e3707f522a7da0cb9f288e50990c03</link>
+<pubDate>Tue, 02 Dec 2025 09:55:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,30 @@
 <title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
 <pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lithuania accuses Belarus of ‘cynical hybrid attack’ as balloons disrupt airport]]></title>
+<link>https://apnews.com/article/lithuania-belarus-balloons-cigarettes-smuggling-russia-1b83e24a303f828011be0ca773ca3b99</link>
+<pubDate>Tue, 02 Dec 2025 14:45:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[St. Lucia prime minister secures a second term after a decisive win at the polls]]></title>
+<link>https://apnews.com/article/st-lucia-election-philip-pierre-56d56031ade620596291ad9d1992ed4e</link>
+<pubDate>Tue, 02 Dec 2025 14:30:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z and millennials embrace sustainable alternatives to imported fresh flowers]]></title>
+<link>https://apnews.com/article/climate-sustainable-flowers-wedding-carbon-emissions-9fd86a978247475e875b552c9ba222fd</link>
+<pubDate>Tue, 02 Dec 2025 14:15:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK government plans to scrap some jury trials in an attempt to clear a court backlog]]></title>
+<link>https://apnews.com/article/britain-courts-backlog-jury-trial-5ab3ca6a768c0df56354b510e56390df</link>
+<pubDate>Tue, 02 Dec 2025 14:00:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,30 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cameroon’s top opposition leader dies after weeks of detention]]></title>
-<link>https://apnews.com/article/cameroon-ekane-death-detention-opposition-biya-02e756ecf21a2e06835f123029ad5404</link>
-<pubDate>Mon, 01 Dec 2025 13:38:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[ICC president vows to resist US and Russian pressure despite sanctions and threats]]></title>
-<link>https://apnews.com/article/icc-court-trump-sanctions-russia-6f8a0c911bccaaa9551529fc03b3dcc0</link>
-<pubDate>Mon, 01 Dec 2025 12:36:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK leader Starmer backs Treasury chief over claims she misled the public about the economy]]></title>
-<link>https://apnews.com/article/uk-budget-starmer-reeves-labour-tax-forecast-4e869abcae7e7b2e8169f3ed272f10e3</link>
-<pubDate>Mon, 01 Dec 2025 16:16:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police officer killed in suicide bombing in northwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-militants-attack-balochistan-472772006fa28edab81878bb9eddf115</link>
-<pubDate>Mon, 01 Dec 2025 10:30:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US envoy Witkoff and Trump’s son-in-law will meet Putin over a Ukraine peace proposal]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1</link>
 <pubDate>Tue, 02 Dec 2025 13:51:31 -0000</pubDate>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
-<link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
-<pubDate>Mon, 01 Dec 2025 05:31:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Resilient in face of Trump tariffs, world economy is forecast to grow 3.2% this year, OECD says]]></title>
 <link>https://apnews.com/article/world-economy-tariffs-trade-inflation-oecd-36d49da64d52710d698348c89be79725</link>
 <pubDate>Tue, 02 Dec 2025 09:27:50 -0000</pubDate>
@@ -434,18 +428,6 @@
 <title><![CDATA[Hong Kong to form independent committee to probe cause of deadly fire as public pressure mounts]]></title>
 <link>https://apnews.com/article/hong-kong-lee-inquiry-commission-deadly-fire-87daad67e218e842a88c040c6d7a4aa9</link>
 <pubDate>Tue, 02 Dec 2025 08:27:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s impact is debated in Honduras, where conservatives lead the presidential vote tallies]]></title>
-<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-results-99e15bb759ab9a91e0aea94e09519607</link>
-<pubDate>Tue, 02 Dec 2025 02:30:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak]]></title>
-<link>https://apnews.com/article/congo-measles-vaccinations-rebels-3af68025ee9190d106a1089545778ebd</link>
-<pubDate>Tue, 02 Dec 2025 13:21:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
