@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 00:53:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 02:30:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians]]></title>
 <link>https://apnews.com/article/pope-leo-turkey-visit-blue-mosque-christian-0774b9b59eb773a535e01390e2efe6eb</link>
@@ -47,12 +47,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in a plea deal]]></title>
-<link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
-<pubDate>Mon, 01 Dec 2025 22:55:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gangs launch large-scale attack in Haiti’s central region as hundreds flee gunfire and burning homes]]></title>
 <link>https://apnews.com/article/haiti-gangs-attack-pont-sonde-bercy-gran-grif-4a3a091383202babec7939b630c1691e</link>
 <pubDate>Mon, 01 Dec 2025 16:43:19 -0000</pubDate>
@@ -62,6 +56,12 @@
 <title><![CDATA[Colombian prosecutors charge 2 ex-Cabinet members of bribing lawmakers for their votes]]></title>
 <link>https://apnews.com/article/colombia-gustavo-petro-vote-buying-scheme-2c8259cec390ee549901aa39558562cc</link>
 <pubDate>Tue, 02 Dec 2025 00:21:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Experts explain what the law says about killing survivors of a boat strike]]></title>
+<link>https://apnews.com/article/boat-strikes-survivors-hegseth-72b0a498ca08615b2589c772a1d9e642</link>
+<pubDate>Mon, 01 Dec 2025 22:09:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +179,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Babson College offers supports to student deported trying to fly home for Thanksgiving surprise]]></title>
+<title><![CDATA[Babson College offers support to student deported trying to fly home for Thanksgiving surprise]]></title>
 <link>https://apnews.com/article/babson-college-student-deported-honduras-immigration-e92399a78c1cb1d46be21146f7e4ebd9</link>
-<pubDate>Mon, 01 Dec 2025 22:49:35 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 01:08:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK and US agree zero-tariff deal on pharmaceuticals]]></title>
+<title><![CDATA[UK will increase its spending on medicine under a zero-tariff deal with the US]]></title>
 <link>https://apnews.com/article/uk-us-pharmaceuticals-tariff-deal-ea38985e971bf9aedd73f9def7985462</link>
-<pubDate>Mon, 01 Dec 2025 16:46:47 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 00:53:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A very royal Christmas. King Charles III’s charity auctions stockings made from Sandringham drapes]]></title>
+<title><![CDATA[King Charles III’s charity auctions Christmas stockings made from Sandringham drapes]]></title>
 <link>https://apnews.com/article/king-charles-iii-stockings-auction-charity-9bfd7fa8f2cb64a4f87427558c9c8261</link>
-<pubDate>Mon, 01 Dec 2025 19:56:40 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 02:11:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,27 +365,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s impact is debated in Honduras, where conservatives lead the presidential vote tallies]]></title>
+<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-results-99e15bb759ab9a91e0aea94e09519607</link>
+<pubDate>Tue, 02 Dec 2025 02:30:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo tells Lebanon’s youth they can change the course of history]]></title>
+<link>https://apnews.com/video/pope-leo-tells-lebanons-youth-they-can-change-the-course-of-history-30ba32380c864ebdb2a0ad401acb5e3f</link>
+<pubDate>Tue, 02 Dec 2025 02:15:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy arrives at Elysee Palace for talks with Macron on Ukraine peace proposals]]></title>
+<link>https://apnews.com/video/zelenskyy-arrives-at-elysee-palace-for-talks-with-macron-on-ukraine-peace-proposals-100f72fbf9a746c3a5fb75fc7fe65389</link>
+<pubDate>Tue, 02 Dec 2025 02:00:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australian Senator Pauline Hanson barred from Parliament for wearing burqa in protest]]></title>
 <link>https://apnews.com/video/australian-senator-pauline-hanson-barred-from-parliament-for-wearing-burqa-in-protest-6077995891c0478a807324c4458e709e</link>
 <pubDate>Thu, 27 Nov 2025 15:09:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Residents wade through submerged roads as severe flooding hits Thailand, killing 33]]></title>
-<link>https://apnews.com/video/residents-wade-through-submerged-roads-as-severe-flooding-hits-thailand-killing-33-09a93929e45147d58a4bc19fcd164057</link>
-<pubDate>Thu, 27 Nov 2025 14:54:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thai woman found alive in coffin after being brought in for cremation]]></title>
-<link>https://apnews.com/video/thai-woman-found-alive-in-coffin-after-being-brought-in-for-cremation-754437ae88a44a9dbb8a5fa9bad4fb02</link>
-<pubDate>Wed, 26 Nov 2025 00:45:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he’s sending his envoys to see Putin and Ukrainians after fine-tuning plan to end war]]></title>
-<link>https://apnews.com/video/trump-says-hes-sending-his-envoys-to-see-putin-and-ukrainians-after-fine-tuning-plan-to-end-war-1a0676ff4e7f4300b4948912174becf1</link>
-<pubDate>Wed, 26 Nov 2025 00:30:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conservatives ahead of governing party in Honduras presidential vote, as Trump effect debated]]></title>
-<link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-results-99e15bb759ab9a91e0aea94e09519607</link>
-<pubDate>Mon, 01 Dec 2025 20:10:56 -0000</pubDate>
+<title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in a plea deal]]></title>
+<link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
+<pubDate>Tue, 02 Dec 2025 01:45:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
