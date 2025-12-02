@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 16:15:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 16:50:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
 <link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV sends message of support to southern Lebanon as he ends 1st foreign trip]]></title>
-<link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
-<pubDate>Tue, 02 Dec 2025 12:15:07 -0000</pubDate>
+<title><![CDATA[NATO chief dismisses concerns about US commitment to the alliance ahead of Ukraine meeting]]></title>
+<link>https://apnews.com/article/nato-us-trump-ukraine-rubio-russia-b14aca1b1cfb8a4b09a42fd178cb22a5</link>
+<pubDate>Tue, 02 Dec 2025 16:34:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia and the US threatened to resume nuclear testing after several decades. Here is why it matters]]></title>
-<link>https://apnews.com/article/nuclear-test-ban-monitoring-network-treaty-ab9a80d523bfb6cc3591b0decfb7527d</link>
-<pubDate>Tue, 02 Dec 2025 08:59:45 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV sends message of support to southern Lebanon as he ends 1st foreign trip]]></title>
+<link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
+<pubDate>Tue, 02 Dec 2025 12:15:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Haiti’s transitional government adopts key law to hold a general election for first time since 2016]]></title>
+<link>https://apnews.com/article/haiti-election-law-approved-council-5e6d1473f08cbfa59ef57cdcb038faad</link>
+<pubDate>Tue, 02 Dec 2025 16:19:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s impact is debated in Honduras, where conservatives lead the presidential vote tallies]]></title>
 <link>https://apnews.com/article/honduras-election-trump-moncada-nasralla-asfura-results-99e15bb759ab9a91e0aea94e09519607</link>
 <pubDate>Tue, 02 Dec 2025 14:25:42 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in a plea deal]]></title>
 <link>https://apnews.com/article/chicago-el-chapo-chapitos-joaquin-guzman-lopez-9d0168ae881e42d6b595411360606ba9</link>
 <pubDate>Mon, 01 Dec 2025 22:55:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gangs launch large-scale attack in Haiti’s central region as hundreds flee gunfire and burning homes]]></title>
-<link>https://apnews.com/article/haiti-gangs-attack-pont-sonde-bercy-gran-grif-4a3a091383202babec7939b630c1691e</link>
-<pubDate>Mon, 01 Dec 2025 16:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Northeast prepares for first major snowstorm of season]]></title>
+<title><![CDATA[The first big snowstorm of the winter hits the Northeast]]></title>
 <link>https://apnews.com/article/winter-weather-snow-new-england-thanksgiving-71e3707f522a7da0cb9f288e50990c03</link>
-<pubDate>Tue, 02 Dec 2025 09:55:29 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 16:04:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela to continue accepting deported migrants despite Trump’s airspace closure suggestion]]></title>
+<title><![CDATA[Venezuela to continue accepting deported migrants despite Trump’s airspace closure assertion]]></title>
 <link>https://apnews.com/article/venezuela-maduro-us-trump-deportation-flights-c8de53d34483533ec8e58a165f5f63fd</link>
-<pubDate>Tue, 02 Dec 2025 15:05:19 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 16:50:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +260,12 @@
 <title><![CDATA[Gunmen kill a government official and 3 others after vehicle ambush in northwestern Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-gunmen-killed-government-administrator-northwest-afghanistan-d59593ed50a51102bd98b4e59f7b3c44</link>
 <pubDate>Tue, 02 Dec 2025 09:34:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia and the US threatened to resume nuclear testing after several decades. Here is why it matters]]></title>
+<link>https://apnews.com/article/nuclear-test-ban-monitoring-network-treaty-ab9a80d523bfb6cc3591b0decfb7527d</link>
+<pubDate>Tue, 02 Dec 2025 16:35:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Founder of Swiss accompanied suicide group Ludwig Minelli is dead at 92]]></title>
 <link>https://apnews.com/article/switzerland-ludwig-minelli-assisted-dying-suicide-obituary-c081232e8bb6668e795d59f583c1d0fb</link>
 <pubDate>Mon, 01 Dec 2025 16:31:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A controversial infant Jesus is stolen from a Belgian Nativity scene]]></title>
-<link>https://apnews.com/article/belgium-nativity-jesus-brussels-theft-grand-place-c691abdb7dc3c19d300b9c88cf738260</link>
-<pubDate>Mon, 01 Dec 2025 15:41:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -434,12 +434,6 @@
 <title><![CDATA[Hong Kong to form independent committee to probe cause of deadly fire as public pressure mounts]]></title>
 <link>https://apnews.com/article/hong-kong-lee-inquiry-commission-deadly-fire-87daad67e218e842a88c040c6d7a4aa9</link>
 <pubDate>Tue, 02 Dec 2025 08:27:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Haiti’s transitional government adopts key law to hold a general election for first time since 2016]]></title>
-<link>https://apnews.com/article/haiti-election-law-approved-council-5e6d1473f08cbfa59ef57cdcb038faad</link>
-<pubDate>Tue, 02 Dec 2025 14:12:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
