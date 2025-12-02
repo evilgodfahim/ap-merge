@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 08:49:45 GMT</lastBuildDate>
-<item>
-<title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
-<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
-<pubDate>Mon, 01 Dec 2025 00:28:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 02 Dec 2025 09:16:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV doubles down on insistence for 2-state solution to resolve Israeli-Palestinian conflict]]></title>
 <link>https://apnews.com/article/pope-leo-xiv-israel-palestinians-ukraine-lebanon-f9eb70f97b948a6da9e9e2e46ecaa241</link>
 <pubDate>Sun, 30 Nov 2025 15:47:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia and the US threatened to resume nuclear testing after several decades. Here is why it matters]]></title>
+<link>https://apnews.com/article/nuclear-test-ban-monitoring-network-treaty-ab9a80d523bfb6cc3591b0decfb7527d</link>
+<pubDate>Tue, 02 Dec 2025 08:59:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +26,6 @@
 <title><![CDATA[Ukrainian troops near the front doubt the proposed pact with Russia will bring lasting peace]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-front-donetsk-64804ba18903bd88ebf3e7a8e2684872</link>
 <pubDate>Tue, 02 Dec 2025 05:40:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Land and security are the main sticking points as Russia and Ukraine mull Trump’s peace proposal]]></title>
-<link>https://apnews.com/article/russia-ukraine-peace-plan-negotiations-diplomacy-6a3de7850018c24b3232c4ceea0c9703</link>
-<pubDate>Mon, 01 Dec 2025 12:22:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia and the US threatened to resume nuclear testing after several decades. Here is why it matters]]></title>
-<link>https://apnews.com/article/nuclear-test-ban-monitoring-network-treaty-ab9a80d523bfb6cc3591b0decfb7527d</link>
-<pubDate>Tue, 02 Dec 2025 08:49:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope prays at site of 2020 port explosion, consoles relatives of victims on last day of trip]]></title>
 <link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
 <pubDate>Tue, 02 Dec 2025 08:34:45 -0000</pubDate>
@@ -404,6 +392,12 @@
 <title><![CDATA[What to know about Netanyahu’s request for a pardon in corruption trial]]></title>
 <link>https://apnews.com/article/israel-netanyahu-trial-pardon-president-corruption-charges-f4dfb2e78c2b9ef265324d2d5bfa7518</link>
 <pubDate>Sun, 30 Nov 2025 17:36:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
+<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
+<pubDate>Fri, 28 Nov 2025 21:51:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
