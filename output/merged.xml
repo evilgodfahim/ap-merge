@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 09:45:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 10:12:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pope Leo XIV doubles down on insistence for 2-state solution to resolve Israeli-Palestinian conflict]]></title>
 <link>https://apnews.com/article/pope-leo-xiv-israel-palestinians-ukraine-lebanon-f9eb70f97b948a6da9e9e2e46ecaa241</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says US peace plan ‘looks better’ with revisions but work continues]]></title>
-<link>https://apnews.com/article/zelenskyy-paris-macron-russia-ukraine-war-704d68a36c36495f6dada056b729fac3</link>
-<pubDate>Tue, 02 Dec 2025 06:49:03 -0000</pubDate>
+<title><![CDATA[Bulgaria’s government withdraws controversial budget after major protests]]></title>
+<link>https://apnews.com/article/bulgaria-government-protests-police-clashes-2217eeb8268d65440edd5f2424d50989</link>
+<pubDate>Tue, 02 Dec 2025 10:05:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian troops near the front doubt the proposed pact with Russia will bring lasting peace]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-front-donetsk-64804ba18903bd88ebf3e7a8e2684872</link>
-<pubDate>Tue, 02 Dec 2025 05:40:52 -0000</pubDate>
+<title><![CDATA[Zelenskyy says US peace plan ‘looks better’ with revisions but work continues]]></title>
+<link>https://apnews.com/article/zelenskyy-paris-macron-russia-ukraine-war-704d68a36c36495f6dada056b729fac3</link>
+<pubDate>Tue, 02 Dec 2025 06:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[AI’s impact could worsen gaps between world’s rich and poor, a UN report says]]></title>
-<link>https://apnews.com/article/ai-intelligence-technology-inequality-un-1653316fa5582f7e927dd06f7fe90284</link>
-<pubDate>Tue, 02 Dec 2025 06:19:03 -0000</pubDate>
+<title><![CDATA[Tip of an iceberg: Hong Kong’s deadly blaze raises anger over corruption and safety lapses]]></title>
+<link>https://apnews.com/article/hong-wang-china-dissent-fire-construction-ff953aec2bc0201b0e3255805a241fc1</link>
+<pubDate>Tue, 02 Dec 2025 09:50:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s factory activity contracts for 8th month in November despite trade war truce]]></title>
+<link>https://apnews.com/article/china-factory-economy-us-trade-c8b0e57bfa20d26447865db4a6fecaa5</link>
+<pubDate>Sun, 30 Nov 2025 20:39:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan vows cooperation over cross-border attack that killed 3 Chinese workers in Tajikistan]]></title>
 <link>https://apnews.com/article/afghanistan-china-tajikistan-attack-border-fe42975ecaabd9eb1901d13c92b9aceb</link>
 <pubDate>Sun, 30 Nov 2025 02:09:05 -0000</pubDate>
@@ -128,12 +134,6 @@
 <title><![CDATA[Death toll rises to 128 in Hong Kong residential fire as 8 more arrested over towers’ renovation]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c</link>
 <pubDate>Sat, 29 Nov 2025 05:22:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end]]></title>
-<link>https://apnews.com/article/hong-fire-bamboo-disaster-scaffolding-b4f3992fd78c068dbebbfbfbcc499495</link>
-<pubDate>Fri, 28 Nov 2025 04:42:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +341,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope prays at site of 2020 port explosion, consoles relatives of victims on last day of trip]]></title>
+<title><![CDATA[US envoy Witkoff will meet Putin in Moscow while Zelenskyy tours Europe as peace efforts press ahead]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1</link>
+<pubDate>Tue, 02 Dec 2025 10:12:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian troops near the front doubt the proposed pact with Russia will bring lasting peace]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-front-donetsk-64804ba18903bd88ebf3e7a8e2684872</link>
+<pubDate>Tue, 02 Dec 2025 06:18:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope prays at site of 2020 Beirut port explosion and calls for justice on last day of Lebanon trip]]></title>
 <link>https://apnews.com/article/pope-lebanon-mideast-beirut-blast-0f53cb2ef60ffe473801995baed019e3</link>
-<pubDate>Tue, 02 Dec 2025 08:34:45 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 09:57:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Violent olive harvest raises fear of more attacks by Israeli settlers against West Bank Palestinians]]></title>
 <link>https://apnews.com/article/settler-violence-netanyahu-palestinians-israel-502ad2d020a6ff0a1b525c52bd72c8ed</link>
 <pubDate>Tue, 02 Dec 2025 07:39:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli troops kill 2 suspected Palestinian attackers in West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-75e32bae46f80f296b3ba3ec73d0a564</link>
-<pubDate>Tue, 02 Dec 2025 07:09:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli troops kill a man in Gaza and 2 suspected Palestinian attackers in West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-75e32bae46f80f296b3ba3ec73d0a564</link>
+<pubDate>Tue, 02 Dec 2025 09:42:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope Leo XIV’s visit highlights Christian resilience in Lebanon despite regional turmoil]]></title>
 <link>https://apnews.com/article/pope-leo-lebanon-christians-resiliance-politics-rights-02e78554633b221559f0b7b96a0ce8c4</link>
 <pubDate>Mon, 01 Dec 2025 05:31:38 -0000</pubDate>
@@ -395,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[On a trip to Tehran, an AP journalist sees a changing Iran]]></title>
-<link>https://apnews.com/article/iran-hijab-mahsa-amini-protests-israel-war-d953ebfce090c044ac948aa5e476e7b1</link>
-<pubDate>Fri, 28 Nov 2025 21:51:28 -0000</pubDate>
+<title><![CDATA[Resilient in face of Trump tariffs, world economy is forecast to grow 3.2% this year, OECD says]]></title>
+<link>https://apnews.com/article/world-economy-tariffs-trade-inflation-oecd-36d49da64d52710d698348c89be79725</link>
+<pubDate>Tue, 02 Dec 2025 09:27:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,33 +419,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks fall to their first loss in 6 days as bitcoin tumbles]]></title>
-<link>https://apnews.com/article/stocks-markets-retail-cyber-china-trump-0aa282f748415283dceb569216c78a8d</link>
-<pubDate>Mon, 01 Dec 2025 21:17:24 -0000</pubDate>
+<title><![CDATA[Starbucks to pay $35M to NYC workers in settlement as ongoing strike draws pols to picket line]]></title>
+<link>https://apnews.com/article/starbucks-settlement-labor-law-wages-nyc-dfe280b1505fde8b23a847a342757155</link>
+<pubDate>Tue, 02 Dec 2025 08:57:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Report says world’s biggest arms producers increased revenue by 5.9% last year to record level]]></title>
-<link>https://apnews.com/article/global-arms-sales-2024-sipri-ukraine-gaza-3bd387ecc7523004140d2fcaa681ae0e</link>
-<pubDate>Mon, 01 Dec 2025 09:00:07 -0000</pubDate>
+<title><![CDATA[AI’s impact could worsen gaps between world’s rich and poor, a UN report says]]></title>
+<link>https://apnews.com/article/ai-intelligence-technology-inequality-un-1653316fa5582f7e927dd06f7fe90284</link>
+<pubDate>Tue, 02 Dec 2025 08:42:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s factory activity contracts for 8th month in November despite trade war truce]]></title>
-<link>https://apnews.com/article/china-factory-economy-us-trade-c8b0e57bfa20d26447865db4a6fecaa5</link>
-<pubDate>Sun, 30 Nov 2025 03:00:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Here’s why everyone’s talking about a ‘K-shaped’ economy]]></title>
-<link>https://apnews.com/article/kshaped-economy-spending-income-inequality-dfa59144ecb2e1b674242666e28ff556</link>
-<pubDate>Mon, 01 Dec 2025 11:37:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong to start independent inquiry into deadly fire as public pressure mounts]]></title>
+<title><![CDATA[Hong Kong to form independent committee to probe cause of deadly fire as public pressure mounts]]></title>
 <link>https://apnews.com/article/hong-kong-lee-inquiry-commission-deadly-fire-87daad67e218e842a88c040c6d7a4aa9</link>
-<pubDate>Tue, 02 Dec 2025 05:33:08 -0000</pubDate>
+<pubDate>Tue, 02 Dec 2025 08:27:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
