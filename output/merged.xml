@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 03 Dec 2025 12:22:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 13:09:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mass wedding in Gaza celebrates new life after years of war and tragedy]]></title>
 <link>https://apnews.com/article/gaza-mass-wedding-khan-you-0ac131dc741d76acef290fcb205055dd</link>
@@ -23,21 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Former EU foreign policy chief Federica Mogherini faces corruption accusations in fraud probe]]></title>
+<link>https://apnews.com/article/eu-belgium-arrests-mogherini-corruption-fraud-fc76eaa1969d60676dfd6ed097c4f40b</link>
+<pubDate>Wed, 03 Dec 2025 13:06:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Macron arrives in China for talks with Xi on trade ties and Russia’s war in Ukraine]]></title>
 <link>https://apnews.com/article/macron-visit-china-france-trade-7ae4b7cf75ac07173e5ff412f7fcb1f2</link>
 <pubDate>Wed, 03 Dec 2025 10:57:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Belgium rejects EU plan to use frozen Russian assets for Ukraine, saying the move is too risky]]></title>
-<link>https://apnews.com/article/russia-frozen-assets-ukraine-belgium-eu-cc6062353d6ef8dd91a1fff87ce208ee</link>
-<pubDate>Wed, 03 Dec 2025 09:52:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A 1-year-old was among 159 killed in Hong Kong apartment fires. 30 others remain missing]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-fire-highrise-a82446d3ade61c71c1915f29d89cb35c</link>
-<pubDate>Wed, 03 Dec 2025 11:47:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,6 +44,12 @@
 <title><![CDATA[Australia to enforce social media age limit of 16 next week with fines up to $33 million]]></title>
 <link>https://apnews.com/article/australia-social-media-ban-children-95a75437398a652e1463fadc6a0b0225</link>
 <pubDate>Wed, 03 Dec 2025 07:39:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India rolls back order to preinstall cybersecurity app on smartphones]]></title>
+<link>https://apnews.com/article/india-cybersecurity-app-privacy-preinstall-e60ae3999705927996143ef0264149ad</link>
+<pubDate>Wed, 03 Dec 2025 10:42:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top 2025 immigration photos by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/us-photos-immigration-2025-trump-b5ffcbe430cc4d6be8c1f1599a1b858a</link>
+<pubDate>Wed, 03 Dec 2025 12:51:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump-backed Republican Matt Van Epps wins US House special election in Tennessee]]></title>
 <link>https://apnews.com/article/tennessee-special-election-congress-van-epps-behn-246e101692e3dd002d43a4cdb467164b</link>
 <pubDate>Wed, 03 Dec 2025 11:17:49 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Crackdown on trucking schools shouldn’t disrupt industry. But scrutiny on immigrant drivers might]]></title>
 <link>https://apnews.com/article/trucking-duffy-cdl-immigrant-commercial-license-schools-ef4ade6ada39cbbab0c56d14dc9d9d1f</link>
 <pubDate>Tue, 02 Dec 2025 23:39:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man charged in National Guard shooting pleads not guilty during court appearance from hospital bed]]></title>
-<link>https://apnews.com/article/national-guard-shooting-washington-dc-9608fe5a4870d4043b070cef690c1624</link>
-<pubDate>Tue, 02 Dec 2025 23:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India loses 20th successive toss, South Africa elects to field in second ODI]]></title>
-<link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
-<pubDate>Wed, 03 Dec 2025 11:02:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[India mandates pre-installation of government cyber safety app on all smartphones]]></title>
 <link>https://apnews.com/article/india-sanchar-app-privacy-cyber-b2564204c6eda0c620e9c293d94f9839</link>
 <pubDate>Tue, 02 Dec 2025 06:04:03 -0000</pubDate>
@@ -167,6 +161,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India protests China’s ‘arbitrary detention’ of citizen at Shanghai airport]]></title>
+<link>https://apnews.com/article/india-china-arunachal-pradesh-zangnan-a6ad9e7d0cbfe445194d3b5fab99cda4</link>
+<pubDate>Wed, 26 Nov 2025 10:03:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Resistance forces in Myanmar detain a candidate in this month’s election, state media report]]></title>
+<link>https://apnews.com/article/myanmar-election-resistance-army-247d65e5405e229e83bdda432071a9bc</link>
+<pubDate>Wed, 03 Dec 2025 12:49:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos capture the moment 51 couples tie the knot in Indonesian mass wedding ceremony]]></title>
+<link>https://apnews.com/photo-gallery/indonesia-muslims-mass-wedding-images-ab84a8266f3e2454ef9b64d90a9e5a81</link>
+<pubDate>Wed, 03 Dec 2025 12:34:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thailand lifts ban on afternoon alcohol sales in time for year-end holiday festivities]]></title>
 <link>https://apnews.com/article/thailand-alcohol-sales-ban-lifted-tourism-restaurants-007717aea780b1be779dd849767542c4</link>
 <pubDate>Wed, 03 Dec 2025 10:42:13 -0000</pubDate>
@@ -182,6 +194,12 @@
 <title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-c402b2c38ecc1f46456db6f6e6cf836f</link>
 <pubDate>Wed, 03 Dec 2025 09:23:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Belgium rejects EU plan to use frozen Russian assets for Ukraine, saying the move is too risky]]></title>
+<link>https://apnews.com/article/russia-frozen-assets-ukraine-belgium-eu-cc6062353d6ef8dd91a1fff87ce208ee</link>
+<pubDate>Wed, 03 Dec 2025 12:19:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[St. Lucia prime minister secures a second term after a decisive win at the polls]]></title>
-<link>https://apnews.com/article/st-lucia-election-philip-pierre-56d56031ade620596291ad9d1992ed4e</link>
-<pubDate>Tue, 02 Dec 2025 14:30:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gen Z and millennials embrace sustainable alternatives to imported fresh flowers]]></title>
-<link>https://apnews.com/article/climate-sustainable-flowers-wedding-carbon-emissions-9fd86a978247475e875b552c9ba222fd</link>
-<pubDate>Tue, 02 Dec 2025 14:15:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel says it will start letting Palestinians leave Gaza through reopened border crossing]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-hostages-1daaa29f923993fe794460309e73da80</link>
 <pubDate>Wed, 03 Dec 2025 10:46:30 -0000</pubDate>
@@ -356,6 +362,12 @@
 <title><![CDATA[Deadly floods in Indonesia, Sri Lanka, Thailand and Malaysia kill more than 1,400 people]]></title>
 <link>https://apnews.com/article/indonesia-sri-lanka-thailand-malaysia-floods-landsides-aa9947df1f6192a3c6c72ef58659d4d2</link>
 <pubDate>Wed, 03 Dec 2025 08:01:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A 1-year-old was among 159 killed in Hong Kong apartment fires. 30 others remain missing]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-fire-highrise-a82446d3ade61c71c1915f29d89cb35c</link>
+<pubDate>Wed, 03 Dec 2025 12:07:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -470,6 +482,12 @@
 <title><![CDATA[China blasts UK for delaying decision again on massive London embassy]]></title>
 <link>https://apnews.com/article/china-london-embassy-espionage-approval-delay-c5fd0755637a864566530231666904c5</link>
 <pubDate>Wed, 03 Dec 2025 10:16:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India loses 20th successive toss, South Africa elects to field in second ODI]]></title>
+<link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
+<pubDate>Wed, 03 Dec 2025 07:16:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
