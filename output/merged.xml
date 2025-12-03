@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 03 Dec 2025 04:19:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 04:46:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran sentences acclaimed director Jafar Panahi in absentia to a year in prison]]></title>
 <link>https://apnews.com/article/iran-director-jafar-panahi-prison-e0680ecdf4889ee9312d4971b5ec35dc</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Conservative Salvador Nasralla leads Honduras presidential vote after pause in results reporting]]></title>
+<link>https://apnews.com/article/honduras-election-trump-vote-count-54881250f5c07df520c9c4e5b1ea6137</link>
+<pubDate>Wed, 03 Dec 2025 04:27:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Haiti’s transitional government adopts key law to hold a general election for first time since 2016]]></title>
 <link>https://apnews.com/article/haiti-election-law-approved-council-5e6d1473f08cbfa59ef57cdcb038faad</link>
 <pubDate>Tue, 02 Dec 2025 16:19:27 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Dua Lipa’s Mexico concerts come with specialty tacos, hot sauce and margaritas]]></title>
 <link>https://apnews.com/article/dua-lipa-taqueria-mexico-city-0b1c6c028212678160bf02e020f3adbd</link>
 <pubDate>Tue, 02 Dec 2025 20:54:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Renowned astronomers push to protect Chile’s cherished night sky from an industrial project]]></title>
-<link>https://apnews.com/article/chile-light-pollution-paranal-european-observatory-atacama-3bcecf18864c7eb294921b748fa9f3f5</link>
-<pubDate>Wed, 03 Dec 2025 00:09:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +89,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he doesn’t want Somalis in the US, urges them to go back to their homeland and fix it]]></title>
-<link>https://apnews.com/article/trump-somalia-immigration-afghanistan-421eaa7ff218c43ccaed3cbab8ed37f5</link>
-<pubDate>Wed, 03 Dec 2025 00:44:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak]]></title>
 <link>https://apnews.com/article/congo-measles-vaccinations-rebels-3af68025ee9190d106a1089545778ebd</link>
 <pubDate>Tue, 02 Dec 2025 14:10:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nigeria’s president nominates ex-military chief for defense minister weeks after he was forced out]]></title>
+<link>https://apnews.com/article/nigeria-defense-minister-tinubu-8e11770298afba4d4e5fa13f60b5e2eb</link>
+<pubDate>Tue, 02 Dec 2025 17:09:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[South Africa clinches first test series win in India since 2000]]></title>
 <link>https://apnews.com/article/cricket-india-south-africa-126264ddc732883da98ab3d1f6019275</link>
 <pubDate>Wed, 26 Nov 2025 11:21:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Renowned astronomers push to protect Chile’s cherished night sky from an industrial project]]></title>
+<link>https://apnews.com/article/chile-light-pollution-paranal-european-observatory-atacama-3bcecf18864c7eb294921b748fa9f3f5</link>
+<pubDate>Wed, 03 Dec 2025 04:24:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,9 +257,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nigeria’s president nominates ex-military chief for defense minister weeks after he was forced out]]></title>
-<link>https://apnews.com/article/nigeria-defense-minister-tinubu-8e11770298afba4d4e5fa13f60b5e2eb</link>
-<pubDate>Tue, 02 Dec 2025 14:50:19 -0000</pubDate>
+<title><![CDATA[Venezuela to continue accepting deported migrants despite Trump’s airspace closure assertion]]></title>
+<link>https://apnews.com/article/venezuela-maduro-us-trump-deportation-flights-c8de53d34483533ec8e58a165f5f63fd</link>
+<pubDate>Tue, 02 Dec 2025 16:50:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,30 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Plea deal with son of drug kingpin ‘El Chapo’ details abduction of legendary Sinaloa capo]]></title>
-<link>https://apnews.com/article/chapo-guzman-mayo-zambada-mexico-bbeb0d510e5442828d7db21b5932acff</link>
-<pubDate>Tue, 02 Dec 2025 04:03:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hegseth cites ‘fog of war’ in defending follow-on strike on alleged drug boat]]></title>
-<link>https://apnews.com/article/hegseth-trump-venezuela-540ae279827e02105e089f1bd5af37a6</link>
-<pubDate>Tue, 02 Dec 2025 20:42:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela to continue accepting deported migrants despite Trump’s airspace closure assertion]]></title>
-<link>https://apnews.com/article/venezuela-maduro-us-trump-deportation-flights-c8de53d34483533ec8e58a165f5f63fd</link>
-<pubDate>Wed, 03 Dec 2025 00:52:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Honduras President Juan Orlando Hernández freed after Trump pardon]]></title>
-<link>https://apnews.com/article/honduras-us-hernandez-trump-pardon-099332ff4b81bafa3a32c642368ca665</link>
-<pubDate>Tue, 02 Dec 2025 16:45:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US-Russia talks on Ukraine were ‘constructive’ but work remains, Putin adviser says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1</link>
 <pubDate>Wed, 03 Dec 2025 00:37:56 -0000</pubDate>
@@ -380,6 +362,24 @@
 <title><![CDATA[Deadly fire raises fears about safety elsewhere in Hong Kong’s high-rise skyline]]></title>
 <link>https://apnews.com/article/hong-wang-china-dissent-fire-construction-ff953aec2bc0201b0e3255805a241fc1</link>
 <pubDate>Wed, 03 Dec 2025 02:30:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30]]></title>
+<link>https://apnews.com/article/malaysia-missing-plane-mh370-search-eb0e65b20bf6766dfa1394c58fc6ccbf</link>
+<pubDate>Wed, 03 Dec 2025 04:34:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he doesn’t want Somalis in the US, urges them to go back to their homeland and fix it]]></title>
+<link>https://apnews.com/article/trump-somalia-immigration-afghanistan-421eaa7ff218c43ccaed3cbab8ed37f5</link>
+<pubDate>Tue, 02 Dec 2025 19:20:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hegseth cites ‘fog of war’ in defending follow-on strike on alleged drug boat]]></title>
+<link>https://apnews.com/article/hegseth-trump-venezuela-540ae279827e02105e089f1bd5af37a6</link>
+<pubDate>Tue, 02 Dec 2025 20:42:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conservative Salvador Nasralla leads Honduras presidential vote after pause in results reporting]]></title>
-<link>https://apnews.com/article/honduras-election-trump-vote-count-54881250f5c07df520c9c4e5b1ea6137</link>
-<pubDate>Wed, 03 Dec 2025 03:33:57 -0000</pubDate>
+<title><![CDATA[Former Honduras President Juan Orlando Hernández freed after Trump pardon]]></title>
+<link>https://apnews.com/article/honduras-us-hernandez-trump-pardon-099332ff4b81bafa3a32c642368ca665</link>
+<pubDate>Tue, 02 Dec 2025 16:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
