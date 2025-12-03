@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 03 Dec 2025 07:39:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 08:16:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran sentences acclaimed director Jafar Panahi in absentia to a year in prison]]></title>
 <link>https://apnews.com/article/iran-director-jafar-panahi-prison-e0680ecdf4889ee9312d4971b5ec35dc</link>
@@ -347,9 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel says the ‘findings’ returned from Gaza do not match remaining hostages]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-hostages-1daaa29f923993fe794460309e73da80</link>
+<pubDate>Wed, 03 Dec 2025 08:16:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US-Russia talks on Ukraine were ‘constructive’ but work remains, Putin adviser says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1</link>
 <pubDate>Wed, 03 Dec 2025 00:37:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Deadly floods in Indonesia, Sri Lanka, Thailand and Malaysia kill more than 1,400 people]]></title>
+<link>https://apnews.com/article/indonesia-sri-lanka-thailand-malaysia-floods-landsides-aa9947df1f6192a3c6c72ef58659d4d2</link>
+<pubDate>Wed, 03 Dec 2025 08:01:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30]]></title>
+<title><![CDATA[A search is resuming for the MH370 plane that vanished 11 years ago]]></title>
 <link>https://apnews.com/article/malaysia-missing-plane-mh370-search-eb0e65b20bf6766dfa1394c58fc6ccbf</link>
-<pubDate>Wed, 03 Dec 2025 04:34:05 -0000</pubDate>
+<pubDate>Wed, 03 Dec 2025 07:46:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Violent olive harvest raises fear of more attacks by Israeli settlers against West Bank Palestinians]]></title>
-<link>https://apnews.com/article/settler-violence-netanyahu-palestinians-israel-502ad2d020a6ff0a1b525c52bd72c8ed</link>
-<pubDate>Tue, 02 Dec 2025 07:39:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos capture West Bank olive harvest as villagers fear more violence by Israeli settlers]]></title>
 <link>https://apnews.com/photo-gallery/settler-violence-netanyahu-palestinians-israel-974efacb07faff31d587bd4ba3cbefff</link>
 <pubDate>Tue, 02 Dec 2025 11:22:10 -0000</pubDate>
@@ -404,6 +410,12 @@
 <title><![CDATA[Mass wedding in Gaza celebrates new life after years of war and tragedy]]></title>
 <link>https://apnews.com/article/gaza-mass-wedding-khan-you-0ac131dc741d76acef290fcb205055dd</link>
 <pubDate>Tue, 02 Dec 2025 18:50:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of Palestinian couples celebrating a mass wedding in Gaza during its fragile ceasefire]]></title>
+<link>https://apnews.com/photo-gallery/wedding-gaza-palestinians-2366a2f1c1b9e84d72e24aa0309c14a3</link>
+<pubDate>Tue, 02 Dec 2025 18:35:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,6 +449,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Deadly Asian floods are no fluke. They’re a climate warning, scientists say]]></title>
+<link>https://apnews.com/article/southeast-asia-climate-change-weather-floods-9baeb7e9656f6964d6496237130f87a6</link>
+<pubDate>Wed, 03 Dec 2025 07:31:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Former Honduras President Juan Orlando Hernández freed after Trump pardon]]></title>
 <link>https://apnews.com/article/honduras-us-hernandez-trump-pardon-099332ff4b81bafa3a32c642368ca665</link>
 <pubDate>Tue, 02 Dec 2025 16:45:04 -0000</pubDate>
@@ -461,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India mandates pre-installation of government cyber safety app on all smartphones]]></title>
-<link>https://apnews.com/article/india-sanchar-app-privacy-cyber-b2564204c6eda0c620e9c293d94f9839</link>
-<pubDate>Wed, 03 Dec 2025 04:55:28 -0000</pubDate>
+<title><![CDATA[India loses 20th successive toss, South Africa elects to field in second ODI]]></title>
+<link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
+<pubDate>Wed, 03 Dec 2025 07:16:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
