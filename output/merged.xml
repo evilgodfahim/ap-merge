@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 03 Dec 2025 23:35:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 00:52:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos capture West Bank olive harvest as villagers fear more violence by Israeli settlers]]></title>
 <link>https://apnews.com/photo-gallery/settler-violence-netanyahu-palestinians-israel-974efacb07faff31d587bd4ba3cbefff</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Massive power outage hits Cuba’s western region after transmission line fails]]></title>
+<link>https://apnews.com/article/cuba-power-outage-havana-blackout-a3e66a3cb3e9df125eadb77d740625f7</link>
+<pubDate>Wed, 03 Dec 2025 23:55:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Chile becomes latest country to ban smartphone use during class]]></title>
 <link>https://apnews.com/article/chile-cellphone-ban-social-media-president-boric-06468ac5bb1d4c546e081d29cb16ad84</link>
 <pubDate>Wed, 03 Dec 2025 15:45:55 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Former Honduras President Juan Orlando Hernández freed after Trump pardon]]></title>
 <link>https://apnews.com/article/honduras-us-hernandez-trump-pardon-099332ff4b81bafa3a32c642368ca665</link>
 <pubDate>Wed, 03 Dec 2025 14:58:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Conservative Salvador Nasralla leads Honduras presidential vote after pause in results reporting]]></title>
-<link>https://apnews.com/article/honduras-election-trump-vote-count-54881250f5c07df520c9c4e5b1ea6137</link>
-<pubDate>Wed, 03 Dec 2025 04:27:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Federal agents launch immigration crackdown in New Orleans]]></title>
+<link>https://apnews.com/article/new-orleans-louisiana-immigration-d0e4de8cd5bf9c7ca59ae38d803f93f2</link>
+<pubDate>Wed, 03 Dec 2025 23:40:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A vocal Jeffrey Epstein accuser is urging judges to unseal his court records]]></title>
 <link>https://apnews.com/article/epstein-maxwell-justice-department-sex-trafficking-0a5b9a48f93460e94e44a31e7bf67715</link>
 <pubDate>Wed, 03 Dec 2025 22:34:52 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Trump targets Minnesota’s Somali community with harsh words and policies]]></title>
 <link>https://apnews.com/article/somalis-minnesota-trump-immigration-5b772dfcf1b342693f12083779247359</link>
 <pubDate>Wed, 03 Dec 2025 13:27:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A dozen former FDA leaders lambast claims by current FDA vaccine chief]]></title>
-<link>https://apnews.com/article/vaccines-prasad-memo-fda-rfk-jr-7cf543476ab3867b25a47463c9c5c144</link>
-<pubDate>Wed, 03 Dec 2025 22:19:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Europeans accuse Putin of feigning interest in peace after talks with US envoys]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-talks-putin-witkoff-aa639c6ba85c4fc6d5a07c65e72e96d8</link>
-<pubDate>Wed, 03 Dec 2025 12:22:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel launches airstrike in southern Gaza after earlier attack by militants wounded 5 soldiers]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-hostages-1daaa29f923993fe794460309e73da80</link>
 <pubDate>Wed, 03 Dec 2025 21:25:01 -0000</pubDate>
@@ -365,21 +359,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen’s Houthis release mariners held since July ship attack]]></title>
-<link>https://apnews.com/article/yemen-ship-houthis-release-mariners-eternity-54d87ebd3c8c36d5a2b8216b9386b404</link>
-<pubDate>Wed, 03 Dec 2025 16:00:57 -0000</pubDate>
+<title><![CDATA[Europeans accuse Putin of feigning interest in peace after talks with US envoys]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-talks-putin-witkoff-aa639c6ba85c4fc6d5a07c65e72e96d8</link>
+<pubDate>Wed, 03 Dec 2025 12:22:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says that the US will start doing strikes on land, aimed at drug cartels, soon]]></title>
-<link>https://apnews.com/video/trump-says-that-the-us-will-start-doing-strikes-on-land-aimed-at-drug-cartels-soon-f4dc8dc8f6e5403d86af5293d6b5f8c8</link>
-<pubDate>Tue, 02 Dec 2025 23:20:41 -0000</pubDate>
+<title><![CDATA[Trump stands firm on defense of alleged drug boat strikes, commits to releasing video]]></title>
+<link>https://apnews.com/video/trump-stands-firm-on-defense-of-alleged-drug-boat-strikes-commits-to-releasing-video-91fc0034788e4722b53b163c77908c3a</link>
+<pubDate>Thu, 04 Dec 2025 00:52:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin accuses Europeans of sabotaging peace efforts]]></title>
-<link>https://apnews.com/video/putin-accuses-europeans-accuses-of-sabotaging-peace-efforts-39dbdd3301b24aa1b9c97419746de982</link>
-<pubDate>Tue, 02 Dec 2025 23:05:41 -0000</pubDate>
+<title><![CDATA[Hamas militants hand over body to Red Cross in Gaza as Israel prepares to receive remains]]></title>
+<link>https://apnews.com/video/hamas-militants-hand-over-body-to-red-cross-in-gaza-as-israel-prepares-to-receive-remains-e775cc99dd684caa911a987e0cdac4e4</link>
+<pubDate>Thu, 04 Dec 2025 00:37:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mass wedding in Gaza Strip offers rare glimpse of hope in war-wracked Palestinian territory]]></title>
+<link>https://apnews.com/video/mass-wedding-in-gaza-strip-offers-rare-glimpse-of-hope-in-war-wracked-palestinian-territory-fdc75af326f940428e1131753500ea2c</link>
+<pubDate>Thu, 04 Dec 2025 00:22:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Yemen’s Houthis release mariners held since July ship attack]]></title>
+<link>https://apnews.com/article/yemen-ship-houthis-release-mariners-eternity-54d87ebd3c8c36d5a2b8216b9386b404</link>
+<pubDate>Wed, 03 Dec 2025 16:00:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[EU updates asylum guidance for Syrians a year after Assad’s fall]]></title>
 <link>https://apnews.com/article/syria-asylum-eu-refugees-migration-5d42aded59c17d9d29b0c60c79ffabfe</link>
 <pubDate>Wed, 03 Dec 2025 11:37:06 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[US opens massive $796M consulate in Irbil to strengthen Kurdish ties]]></title>
 <link>https://apnews.com/article/us-consulate-irbil-kurdish-iraq-7e3958815056489253cdee1cf19f5fd6</link>
 <pubDate>Wed, 03 Dec 2025 23:25:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Violent olive harvest raises fear of more attacks by Israeli settlers against West Bank Palestinians]]></title>
-<link>https://apnews.com/article/settler-violence-netanyahu-palestinians-israel-502ad2d020a6ff0a1b525c52bd72c8ed</link>
-<pubDate>Tue, 02 Dec 2025 07:39:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,33 +443,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rescue teams racing after last week’s flooding in Indonesia, Sri Lanka and Thailand]]></title>
-<link>https://apnews.com/article/indonesia-sri-lanka-thailand-malaysia-floods-landsides-aa9947df1f6192a3c6c72ef58659d4d2</link>
-<pubDate>Wed, 03 Dec 2025 13:13:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Massive power outage hits Cuba’s western region after transmission line fails]]></title>
-<link>https://apnews.com/article/cuba-power-outage-havana-blackout-a3e66a3cb3e9df125eadb77d740625f7</link>
-<pubDate>Wed, 03 Dec 2025 15:30:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Amnesty accuses Sudanese paramilitary of war crimes in assault on refugee camp]]></title>
 <link>https://apnews.com/article/sudan-war-rsf-military-darfur-camp-4c5a44d2935ebe21a2789af97f033ad0</link>
 <pubDate>Wed, 03 Dec 2025 20:55:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal agents launch immigration crackdown in New Orleans]]></title>
-<link>https://apnews.com/article/new-orleans-louisiana-immigration-d0e4de8cd5bf9c7ca59ae38d803f93f2</link>
-<pubDate>Wed, 03 Dec 2025 16:55:09 -0000</pubDate>
+<title><![CDATA[President Trump’s contempt shocks the country’s largest Somali community]]></title>
+<link>https://apnews.com/article/trump-immigration-minneapolis-somalia-de1187fd703abbc9dc4dc1c5c6a243c5</link>
+<pubDate>Wed, 03 Dec 2025 23:52:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China blasts UK for delaying decision again on massive London embassy]]></title>
-<link>https://apnews.com/article/china-london-embassy-espionage-approval-delay-c5fd0755637a864566530231666904c5</link>
-<pubDate>Wed, 03 Dec 2025 10:16:30 -0000</pubDate>
+<title><![CDATA[Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages]]></title>
+<link>https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285</link>
+<pubDate>Wed, 03 Dec 2025 23:37:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
