@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Dec 2025 09:15:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 09:42:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US opens massive $796M consulate in Irbil to strengthen Kurdish ties]]></title>
 <link>https://apnews.com/article/us-consulate-irbil-kurdish-iraq-7e3958815056489253cdee1cf19f5fd6</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK and Norway will mount joint naval patrols to protect undersea cables and hunt Russian submarines]]></title>
+<link>https://apnews.com/article/uk-norway-navy-patrols-russia-undersea-cables-311aa197fb1697bab45b37286ae9fa2c</link>
+<pubDate>Thu, 04 Dec 2025 09:42:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The EU lays out a plan to fund Ukraine using frozen Russian assets but Belgium says it’s too risky]]></title>
 <link>https://apnews.com/article/russia-frozen-assets-ukraine-belgium-eu-cc6062353d6ef8dd91a1fff87ce208ee</link>
 <pubDate>Wed, 03 Dec 2025 15:13:09 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Exclusive drone footage shows devastated Ukrainian town almost encircled by Russian forces]]></title>
 <link>https://apnews.com/article/myrnohrad-russia-ukraine-war-front-drone-footage-9d72a97db13980d6d599a3a60c2d1598</link>
 <pubDate>Wed, 03 Dec 2025 18:31:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
-<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
-<pubDate>Thu, 04 Dec 2025 07:16:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
+<link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
+<pubDate>Thu, 04 Dec 2025 05:21:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Farmers block Mexico’s Congress with tractors in protest against new national water law proposal]]></title>
 <link>https://apnews.com/article/mexico-farmers-protest-water-law-a0e4d9f51e4e6d672a9240f4c5237aa8</link>
 <pubDate>Thu, 04 Dec 2025 00:30:54 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexican President Sheinbaum’s legal adviser is selected as the new attorney general]]></title>
 <link>https://apnews.com/article/mexico-attorney-general-morena-661b9bd974ca9f4e5879883bf05fc8f2</link>
 <pubDate>Thu, 04 Dec 2025 00:15:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lawmakers to hear from Navy admiral who ordered attack that killed boat strike survivors]]></title>
-<link>https://apnews.com/article/pete-hegseth-boat-strike-admiral-congress-521606d39c04dcc040ea232dc9cfeeda</link>
-<pubDate>Thu, 04 Dec 2025 06:46:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-Honduras president Hernández thanks Trump in first message since release]]></title>
-<link>https://apnews.com/article/honduras-hernandez-trump-pardon-drugs-a36c28b3064142b93d6fbcff4e18374b</link>
-<pubDate>Thu, 04 Dec 2025 04:48:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Putin calls talks with US on ending the Ukraine war ‘useful’ but also ‘difficult work’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-putin-trump-peace-plan-7e48114f6908ce2657947cfdd633150e</link>
 <pubDate>Thu, 04 Dec 2025 08:23:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
-<link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
-<pubDate>Thu, 04 Dec 2025 06:53:37 -0000</pubDate>
+<title><![CDATA[Ex-Honduras president Hernández thanks Trump in first message since release]]></title>
+<link>https://apnews.com/article/honduras-hernandez-trump-pardon-drugs-a36c28b3064142b93d6fbcff4e18374b</link>
+<pubDate>Thu, 04 Dec 2025 04:48:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
+<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
+<pubDate>Thu, 04 Dec 2025 07:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
