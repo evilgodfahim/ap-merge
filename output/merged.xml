@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Dec 2025 03:47:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 04:21:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Violent olive harvest raises fear of more attacks by Israeli settlers against West Bank Palestinians]]></title>
 <link>https://apnews.com/article/settler-violence-netanyahu-palestinians-israel-502ad2d020a6ff0a1b525c52bd72c8ed</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hong Kong high-rise fire death toll rises to 159 as authorities arrest 6 over failed fire alarms]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-fire-highrise-a82446d3ade61c71c1915f29d89cb35c</link>
+<pubDate>Wed, 03 Dec 2025 18:01:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about missing Malaysia Airlines Flight MH370 as search resumes]]></title>
 <link>https://apnews.com/article/malaysia-missing-plane-mh370-search-what-to-know-88ecaee897bbb17a5b62a097ae40db0b</link>
 <pubDate>Wed, 03 Dec 2025 13:57:11 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Macron arrives in China for talks with Xi on trade ties and Russia’s war in Ukraine]]></title>
 <link>https://apnews.com/article/macron-visit-china-france-trade-7ae4b7cf75ac07173e5ff412f7fcb1f2</link>
 <pubDate>Wed, 03 Dec 2025 10:57:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rescuers race in search for survivors after last week’s floods in Indonesia, Sri Lanka and Thailand]]></title>
-<link>https://apnews.com/article/indonesia-sri-lanka-thailand-malaysia-floods-landsides-aa9947df1f6192a3c6c72ef58659d4d2</link>
-<pubDate>Thu, 04 Dec 2025 00:45:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +446,6 @@
 <title><![CDATA[San Francisco sues nation’s top food manufacturers over ultraprocessed foods]]></title>
 <link>https://apnews.com/article/san-francisco-lawsuit-processed-foods-ea0fd3fc1b76d1e37cda9c132dbcf477</link>
 <pubDate>Wed, 03 Dec 2025 08:02:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong high-rise fire death toll rises to 159 as authorities arrest 6 over failed fire alarms]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-fire-highrise-a82446d3ade61c71c1915f29d89cb35c</link>
-<pubDate>Thu, 04 Dec 2025 00:07:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
