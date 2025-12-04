@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Dec 2025 15:13:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 15:43:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s currency falls to a new low as nuclear sanctions squeeze its ailing economy]]></title>
 <link>https://apnews.com/article/iran-currency-rial-sanctions-economy-a42e553b9fdf8e3fe294b43c1fcff778</link>
@@ -371,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
-<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
-<pubDate>Thu, 04 Dec 2025 07:08:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump stands firm on defense of alleged drug boat strikes, commits to releasing video]]></title>
 <link>https://apnews.com/video/trump-stands-firm-on-defense-of-alleged-drug-boat-strikes-commits-to-releasing-video-91fc0034788e4722b53b163c77908c3a</link>
 <pubDate>Thu, 04 Dec 2025 00:52:53 -0000</pubDate>
@@ -452,6 +446,12 @@
 <title><![CDATA[Salesforce CEO vies to overcome investors’ AI skepticism while touting company’s quarterly numbers]]></title>
 <link>https://apnews.com/article/salesforce-artificial-intelligence-skepticism-bubble-marc-benioff-0a28ca70c9fb00816b3e5cc4c416a68e</link>
 <pubDate>Thu, 04 Dec 2025 04:47:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
+<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
+<pubDate>Thu, 04 Dec 2025 07:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
