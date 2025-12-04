@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Dec 2025 02:42:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 03:47:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Violent olive harvest raises fear of more attacks by Israeli settlers against West Bank Palestinians]]></title>
 <link>https://apnews.com/article/settler-violence-netanyahu-palestinians-israel-502ad2d020a6ff0a1b525c52bd72c8ed</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago]]></title>
-<link>https://apnews.com/article/malaysia-missing-plane-mh370-search-eb0e65b20bf6766dfa1394c58fc6ccbf</link>
-<pubDate>Wed, 03 Dec 2025 16:00:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about missing Malaysia Airlines Flight MH370 as search resumes]]></title>
 <link>https://apnews.com/article/malaysia-missing-plane-mh370-search-what-to-know-88ecaee897bbb17a5b62a097ae40db0b</link>
 <pubDate>Wed, 03 Dec 2025 13:57:11 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Macron arrives in China for talks with Xi on trade ties and Russia’s war in Ukraine]]></title>
 <link>https://apnews.com/article/macron-visit-china-france-trade-7ae4b7cf75ac07173e5ff412f7fcb1f2</link>
 <pubDate>Wed, 03 Dec 2025 10:57:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rescuers race in search for survivors after last week’s floods in Indonesia, Sri Lanka and Thailand]]></title>
+<link>https://apnews.com/article/indonesia-sri-lanka-thailand-malaysia-floods-landsides-aa9947df1f6192a3c6c72ef58659d4d2</link>
+<pubDate>Thu, 04 Dec 2025 00:45:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,9 +317,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand lifts ban on afternoon alcohol sales in time for year-end holiday festivities]]></title>
+<title><![CDATA[Thailand allows afternoon alcohol sales in time for year-end holiday festivities]]></title>
 <link>https://apnews.com/article/thailand-alcohol-sales-ban-lifted-tourism-restaurants-007717aea780b1be779dd849767542c4</link>
-<pubDate>Wed, 03 Dec 2025 10:42:13 -0000</pubDate>
+<pubDate>Thu, 04 Dec 2025 03:33:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,27 +395,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon ‘far from’ diplomatic normalization or economic relations with Israel, prime minister says]]></title>
-<link>https://apnews.com/article/lebanon-prime-minister-israel-diplomatic-economic-relations-69958d9a27266d925c3575fd4391ab2f</link>
-<pubDate>Wed, 03 Dec 2025 17:10:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen’s Houthis release mariners held since July ship attack]]></title>
-<link>https://apnews.com/article/yemen-ship-houthis-release-mariners-eternity-54d87ebd3c8c36d5a2b8216b9386b404</link>
-<pubDate>Wed, 03 Dec 2025 16:00:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU updates asylum guidance for Syrians a year after Assad’s fall]]></title>
 <link>https://apnews.com/article/syria-asylum-eu-refugees-migration-5d42aded59c17d9d29b0c60c79ffabfe</link>
 <pubDate>Wed, 03 Dec 2025 11:37:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s currency falls to a new low as nuclear sanctions squeeze its ailing economy]]></title>
+<link>https://apnews.com/article/iran-currency-rial-sanctions-economy-a42e553b9fdf8e3fe294b43c1fcff778</link>
+<pubDate>Wed, 03 Dec 2025 17:25:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US opens massive $796M consulate in Irbil to strengthen Kurdish ties]]></title>
 <link>https://apnews.com/article/us-consulate-irbil-kurdish-iraq-7e3958815056489253cdee1cf19f5fd6</link>
 <pubDate>Wed, 03 Dec 2025 23:25:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon ‘far from’ diplomatic normalization or economic relations with Israel, prime minister says]]></title>
+<link>https://apnews.com/article/lebanon-prime-minister-israel-diplomatic-economic-relations-69958d9a27266d925c3575fd4391ab2f</link>
+<pubDate>Wed, 03 Dec 2025 17:10:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
