@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Dec 2025 10:12:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 10:43:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq retracts a terror designation it imposed on Lebanon’s Hezbollah and Yemen’s Houthis]]></title>
 <link>https://apnews.com/article/iraq-government-lebanon-hezbollah-yemen-houthis-d58389bf49876f07927ed1916ce3cc41</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Putin says there are points he can’t agree to in the US proposal to end Russia’s war in Ukraine]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-putin-trump-peace-plan-7e48114f6908ce2657947cfdd633150e</link>
+<pubDate>Fri, 05 Dec 2025 10:33:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UK sanctions Russia’s GRU spy agency over 2018 nerve agent attack]]></title>
 <link>https://apnews.com/article/britain-poisoned-spy-russia-novichok-putin-f7d218aff9380e28f76f7678a552c9aa</link>
 <pubDate>Thu, 04 Dec 2025 13:59:36 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[US push for an end to the war in Ukraine sets off a flurry of shuttle diplomacy]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-talks-timeline-f588b009209c06d458571aab8d69fd90</link>
 <pubDate>Thu, 04 Dec 2025 18:52:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Czech populist billionaire Andrej Babiš to move business to a trust to become prime minister]]></title>
-<link>https://apnews.com/article/czech-billionaire-babis-new-government-5c6296a49230ea6c8f724cbb947cfeec</link>
-<pubDate>Thu, 04 Dec 2025 20:26:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump praises Congo and Rwanda as they sign US-mediated peace deal]]></title>
+<link>https://apnews.com/article/congo-rwanda-trump-peace-deal-conflict-us-033736c256c921f7e70a603a3ab1bf96</link>
+<pubDate>Fri, 05 Dec 2025 10:18:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As Trump hosts Congo and Rwanda’s leaders for peace deal, here’s what to know about the conflict]]></title>
+<link>https://apnews.com/article/congo-rwanda-conflict-9b1396e9ba02df8a4df6c9675e4a21df</link>
+<pubDate>Fri, 05 Dec 2025 10:03:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US and Kenya sign first of what are expected to be dozens of ‘America First’ global health deals]]></title>
 <link>https://apnews.com/article/kenya-health-agreements-rubio-trump-usaid-cb80e0dafa3f458cf9e7416481f67edf</link>
 <pubDate>Thu, 04 Dec 2025 16:59:15 -0000</pubDate>
@@ -80,18 +92,6 @@
 <title><![CDATA[What to know about the long-running corruption case of former South African President Zuma]]></title>
 <link>https://apnews.com/article/south-africa-zuma-corruption-trial-c1e0288766c5a9476757facb3f3d713f</link>
 <pubDate>Fri, 05 Dec 2025 01:53:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How a sperm bank for cheetahs might one day save the fastest land animal]]></title>
-<link>https://apnews.com/article/wildlife-conservation-afrca-cheetahs-animals-42393ea59cf6dbee56f809363f3e6241</link>
-<pubDate>Thu, 04 Dec 2025 07:52:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN warns of new wave of atrocities in Sudan’s Kordofan region]]></title>
-<link>https://apnews.com/article/sudan-war-kordofan-rsf-un-human-rights-a1256c5567d0e5edab5eb1b9e5ae607c</link>
-<pubDate>Thu, 04 Dec 2025 15:54:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin says there are points he can’t agree to in the US proposal to end Russia’s war in Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-trump-peace-plan-7e48114f6908ce2657947cfdd633150e</link>
-<pubDate>Thu, 04 Dec 2025 13:23:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A single hostage remains in Gaza after identification of Thai worker’s remains]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-gaza-hamas-hostages-thai-ac805e7cf986a5db206a94056fe5f6c7</link>
 <pubDate>Thu, 04 Dec 2025 16:50:25 -0000</pubDate>
@@ -368,12 +362,6 @@
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
 <pubDate>Fri, 05 Dec 2025 06:16:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump praises Congo and Rwanda as they sign US-mediated peace deal]]></title>
-<link>https://apnews.com/article/congo-rwanda-trump-peace-deal-conflict-us-033736c256c921f7e70a603a3ab1bf96</link>
-<pubDate>Thu, 04 Dec 2025 18:36:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,12 +446,6 @@
 <title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
 <link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
 <pubDate>Thu, 04 Dec 2025 06:53:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As Trump hosts Congo and Rwanda’s leaders for peace deal, here’s what to know about the conflict]]></title>
-<link>https://apnews.com/article/congo-rwanda-conflict-9b1396e9ba02df8a4df6c9675e4a21df</link>
-<pubDate>Thu, 04 Dec 2025 18:02:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
