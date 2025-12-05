@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Dec 2025 16:46:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 17:10:56 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
+<link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
+<pubDate>Fri, 05 Dec 2025 17:02:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iranian film director Jafar Panahi plans to return home despite a new prison sentence against him]]></title>
 <link>https://apnews.com/article/iran-film-director-jafar-panahi-c537029161f66c707501d97a33d98599</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranians seek portable wealth as hedge against falling currency after Israel war]]></title>
-<link>https://apnews.com/article/iran-gold-silver-jewelry-sales-israel-war-0e774bc3c2fea972ab3225e1864a438e</link>
-<pubDate>Fri, 05 Dec 2025 11:35:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s security strategy slams European allies and asserts US power in Western Hemisphere]]></title>
+<title><![CDATA[Trump’s security strategy slams European allies and asserts US power in the Western Hemisphere]]></title>
 <link>https://apnews.com/article/trump-security-strategy-europe-russia-america-first-068488ca7e6d1c92ccaddd1649958218</link>
-<pubDate>Fri, 05 Dec 2025 14:52:59 -0000</pubDate>
+<pubDate>Fri, 05 Dec 2025 16:47:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US opens massive $796M consulate in Irbil to strengthen Kurdish ties]]></title>
-<link>https://apnews.com/article/us-consulate-irbil-kurdish-iraq-7e3958815056489253cdee1cf19f5fd6</link>
-<pubDate>Thu, 04 Dec 2025 07:31:40 -0000</pubDate>
+<title><![CDATA[UN Security Council delegation visits Syria for first time since 1945]]></title>
+<link>https://apnews.com/article/syria-security-council-delegation-visit-4d723108cb5d4ce79b8b8adc4859b97b</link>
+<pubDate>Thu, 04 Dec 2025 17:14:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What boycotting looks like 70 years after the Montgomery Bus Boycott]]></title>
-<link>https://apnews.com/article/montgomery-bus-boycott-anniversary-events-civil-rights-844b1cba2267fd60d30211f596d3edbf</link>
-<pubDate>Fri, 05 Dec 2025 13:32:19 -0000</pubDate>
+<title><![CDATA[Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say]]></title>
+<link>https://apnews.com/article/fbi-pipe-bomb-justice-department-a2d4fca7c41b03c7215f99ec0f3c0252</link>
+<pubDate>Fri, 05 Dec 2025 16:32:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From Pope Francis to Charlie Kirk, many deaths in 2025 had a wide impact]]></title>
-<link>https://apnews.com/article/deaths-this-year-2025-f00551177b4cd6ac8a5e008e683cb578</link>
-<pubDate>Fri, 05 Dec 2025 11:12:55 -0000</pubDate>
+<title><![CDATA[What boycotting looks like 70 years after the Montgomery Bus Boycott]]></title>
+<link>https://apnews.com/article/montgomery-bus-boycott-anniversary-events-civil-rights-844b1cba2267fd60d30211f596d3edbf</link>
+<pubDate>Fri, 05 Dec 2025 13:32:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ICC prosecutor says Putin warrant won’t disappear even if Ukraine peace talks are successful]]></title>
+<link>https://apnews.com/article/icc-russia-ukraine-warrant-d7d52737b3f59935daf5444fb9d4d7ab</link>
+<pubDate>Fri, 05 Dec 2025 17:10:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France intercepts illegal drone overflight at nuclear submarine base]]></title>
 <link>https://apnews.com/article/france-nuclear-submarine-base-drone-overflight-f4cac3cfea631c08d74515e69253a982</link>
 <pubDate>Fri, 05 Dec 2025 16:09:55 -0000</pubDate>
@@ -194,6 +200,12 @@
 <title><![CDATA[What to know about the Eurovision Song Contest as Israel’s participation sparks walkouts]]></title>
 <link>https://apnews.com/article/eurovision-song-contest-israel-what-to-know-b13dcea24fbbd28e73fa79e9a45977d7</link>
 <pubDate>Fri, 05 Dec 2025 13:35:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[From Pope Francis to Charlie Kirk, many deaths in 2025 had a wide impact]]></title>
+<link>https://apnews.com/article/deaths-this-year-2025-f00551177b4cd6ac8a5e008e683cb578</link>
+<pubDate>Fri, 05 Dec 2025 16:55:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,9 +251,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street climbs back to its all-time high]]></title>
+<title><![CDATA[Wall Street flirts with its all-time high]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-jobs-trump-498839ea4621f3375b8b3a4e9672a38b</link>
-<pubDate>Fri, 05 Dec 2025 15:54:55 -0000</pubDate>
+<pubDate>Fri, 05 Dec 2025 16:40:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Creative director Dario Vitale exits Versace two days after Prada’s acquisition]]></title>
-<link>https://apnews.com/article/italy-fashion-brand-versace-dario-vitale-prada-31d98cd0d04b69d5100afcf92f90afde</link>
-<pubDate>Thu, 04 Dec 2025 18:11:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The best movies of 2025, ranked by AP film writers]]></title>
-<link>https://apnews.com/article/best-movies-of-2025-0e3047cba5c7c61cf9660d9d1878249d</link>
-<pubDate>Thu, 04 Dec 2025 17:56:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian drone strike kills 12-year-old boy in Ukraine as peace talks kept under wraps]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-talks-drone-attacks-7a515603cfdbc05f0a8b3befb0461a87</link>
 <pubDate>Fri, 05 Dec 2025 10:46:25 -0000</pubDate>
@@ -362,6 +362,12 @@
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
 <pubDate>Fri, 05 Dec 2025 06:16:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s security strategy slams European allies and asserts US power in Western Hemisphere]]></title>
+<link>https://apnews.com/article/trump-security-strategy-europe-russia-america-first-068488ca7e6d1c92ccaddd1649958218</link>
+<pubDate>Fri, 05 Dec 2025 15:12:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,12 +419,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
-<link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
-<pubDate>Fri, 05 Dec 2025 12:06:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The EU lays out a plan to fund Ukraine using frozen Russian assets but Belgium says it’s too risky]]></title>
 <link>https://apnews.com/article/russia-frozen-assets-ukraine-belgium-eu-cc6062353d6ef8dd91a1fff87ce208ee</link>
 <pubDate>Thu, 04 Dec 2025 05:32:44 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
 <link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
 <pubDate>Thu, 04 Dec 2025 06:53:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN Security Council delegation visits Syria for first time since 1945]]></title>
-<link>https://apnews.com/article/syria-security-council-delegation-visit-4d723108cb5d4ce79b8b8adc4859b97b</link>
-<pubDate>Thu, 04 Dec 2025 18:51:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
