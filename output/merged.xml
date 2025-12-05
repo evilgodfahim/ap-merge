@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Dec 2025 17:39:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 18:14:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
 <link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
+<link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
+<pubDate>Fri, 05 Dec 2025 18:07:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India withdraws pilot restrictions after largest airline cancels flights and disrupts airports]]></title>
 <link>https://apnews.com/article/india-indigo-airlines-flights-canceled-airports-39aa7d2ebc5bae7a0e5b4352f130b5e3</link>
 <pubDate>Fri, 05 Dec 2025 11:42:55 -0000</pubDate>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
-<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
-<pubDate>Thu, 04 Dec 2025 07:16:40 -0000</pubDate>
+<title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
+<link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
+<pubDate>Thu, 04 Dec 2025 05:21:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexican President Sheinbaum’s legal adviser is selected as the new attorney general]]></title>
 <link>https://apnews.com/article/mexico-attorney-general-morena-661b9bd974ca9f4e5879883bf05fc8f2</link>
 <pubDate>Thu, 04 Dec 2025 00:15:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Admiral says there was no ‘kill them all’ order in boat attack, but video alarms lawmakers]]></title>
-<link>https://apnews.com/article/pete-hegseth-boat-strike-admiral-congress-521606d39c04dcc040ea232dc9cfeeda</link>
-<pubDate>Fri, 05 Dec 2025 00:03:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
+<link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
+<pubDate>Thu, 04 Dec 2025 07:16:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages]]></title>
 <link>https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285</link>
 <pubDate>Thu, 04 Dec 2025 23:27:43 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Macron arrives in China for talks with Xi on trade ties and Russia’s war in Ukraine]]></title>
 <link>https://apnews.com/article/macron-visit-china-france-trade-7ae4b7cf75ac07173e5ff412f7fcb1f2</link>
 <pubDate>Wed, 03 Dec 2025 10:57:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Zootopia 2' roars to record-setting global box office with $556M opening]]></title>
-<link>https://apnews.com/article/zootopia-box-office-wicked-5735e7bde6a7cf75f1998381011fa9e1</link>
-<pubDate>Wed, 03 Dec 2025 10:27:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,18 @@
 <title><![CDATA[Brilliant Kohli hits 52nd ODI century and India beats South Africa by 17 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-first-odi-f8f54ba03117b4e8ad5b3c58188f2d5a</link>
 <pubDate>Wed, 03 Dec 2025 04:33:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[College student deported during Thanksgiving trip could’ve fought removal as a kid, US says]]></title>
+<link>https://apnews.com/article/college-student-deported-thanksgiving-lopez-belloza-79bb528c96102cd72a50e707610d34b8</link>
+<pubDate>Fri, 05 Dec 2025 18:14:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration will expand travel ban to more than 30 countries, Noem says]]></title>
+<link>https://apnews.com/article/travel-ban-trump-immigration-national-guard-shooting-15b0aa6b7826e32dfa05cf9f5a0c908d</link>
+<pubDate>Fri, 05 Dec 2025 17:59:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Damaged roads and debris slow relief operations after deadly floods in Asia]]></title>
+<title><![CDATA[Survivors plead for urgent aid after catastrophic floods and landslides killed over 1,500 in Asia]]></title>
 <link>https://apnews.com/article/indonesia-sri-lanka-thailand-foods-landslides-d0c2f646f7d9d1b98dd5b012e986e176</link>
-<pubDate>Fri, 05 Dec 2025 10:57:02 -0000</pubDate>
+<pubDate>Fri, 05 Dec 2025 17:44:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Report: Iran coach to attend World Cup draw despite federation boycott]]></title>
-<link>https://apnews.com/article/world-cup-iran-draw-a876968c8d86255cc515ae9f2caabb69</link>
-<pubDate>Thu, 04 Dec 2025 19:11:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq retracts a terror designation it imposed on Lebanon’s Hezbollah and Yemen’s Houthis]]></title>
-<link>https://apnews.com/article/iraq-government-lebanon-hezbollah-yemen-houthis-d58389bf49876f07927ed1916ce3cc41</link>
-<pubDate>Fri, 05 Dec 2025 09:57:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian drone strike kills 12-year-old boy in Ukraine as peace talks kept under wraps]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-talks-drone-attacks-7a515603cfdbc05f0a8b3befb0461a87</link>
 <pubDate>Fri, 05 Dec 2025 10:46:25 -0000</pubDate>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Football players and officials arrested as part of probe into Turkey’s betting scandal]]></title>
-<link>https://apnews.com/article/players-referees-football-soccer-betting-scandal-turkey-arrests-fbcbb0ade4d345a9d3a94475793022ec</link>
-<pubDate>Fri, 05 Dec 2025 11:16:25 -0000</pubDate>
+<title><![CDATA[Trump is meeting Mexican President Sheinbaum in person for the first time at World Cup draw]]></title>
+<link>https://apnews.com/article/trump-sheinbaum-meeting-world-cup-immigration-tariffs-9b3a3ab0e64ba435ce312c32dba9f70f</link>
+<pubDate>Fri, 05 Dec 2025 18:14:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
-<link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
-<pubDate>Fri, 05 Dec 2025 16:58:50 -0000</pubDate>
+<title><![CDATA[Football players and officials arrested as part of probe into Turkey’s betting scandal]]></title>
+<link>https://apnews.com/article/players-referees-football-soccer-betting-scandal-turkey-arrests-fbcbb0ade4d345a9d3a94475793022ec</link>
+<pubDate>Fri, 05 Dec 2025 11:16:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How 2 killings exposed the depths of cartels’ grip in Mexico’s Michoacan state]]></title>
-<link>https://apnews.com/article/michoacan-mexico-cartels-lime-drugs-extortion-e330353f9c60bd3b5b72807588b368a3</link>
-<pubDate>Thu, 04 Dec 2025 06:53:37 -0000</pubDate>
+<title><![CDATA[FIFA gives President Donald Trump a peace prize in a departure from its traditional focus on sport]]></title>
+<link>https://apnews.com/article/trump-world-cup-fifa-peace-prize-e14f95b8adaa197c869cad407b6ef604</link>
+<pubDate>Fri, 05 Dec 2025 17:59:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
