@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Dec 2025 15:41:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 16:13:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian film director Jafar Panahi plans to return home despite a new prison sentence against him]]></title>
 <link>https://apnews.com/article/iran-film-director-jafar-panahi-c537029161f66c707501d97a33d98599</link>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shops empty in a Hispanic neighborhood as immigration crackdown comes to Louisiana]]></title>
+<link>https://apnews.com/article/new-orleans-border-patrol-kenner-2937ad9b1a879daec5d0838b469a1914</link>
+<pubDate>Fri, 05 Dec 2025 05:08:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Immigration crackdown in New Orleans has a target of 5,000 arrests. Is that possible?]]></title>
 <link>https://apnews.com/article/new-orleans-immigration-arrest-target-b2b5fd447fee7e1886323e1bc3fa2d4c</link>
 <pubDate>Thu, 04 Dec 2025 21:31:23 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[From Pope Francis to Charlie Kirk, many deaths in 2025 had a wide impact]]></title>
 <link>https://apnews.com/article/deaths-this-year-2025-f00551177b4cd6ac8a5e008e683cb578</link>
 <pubDate>Fri, 05 Dec 2025 11:12:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Colorado town built on coal, some families are moving on, even as Trump tries to boost industry]]></title>
-<link>https://apnews.com/article/trump-coal-mining-power-climate-craig-electricity-e78eb827848973f5712a20da55133a94</link>
-<pubDate>Fri, 05 Dec 2025 14:07:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[Brilliant Kohli hits 52nd ODI century and India beats South Africa by 17 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-first-odi-f8f54ba03117b4e8ad5b3c58188f2d5a</link>
 <pubDate>Wed, 03 Dec 2025 04:33:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France intercepts illegal drone overflight at nuclear submarine base]]></title>
+<link>https://apnews.com/article/france-nuclear-submarine-base-drone-overflight-f4cac3cfea631c08d74515e69253a982</link>
+<pubDate>Fri, 05 Dec 2025 16:09:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street ticks toward the edge of its all-time high]]></title>
+<title><![CDATA[Wall Street climbs back to its all-time high]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-jobs-trump-498839ea4621f3375b8b3a4e9672a38b</link>
-<pubDate>Fri, 05 Dec 2025 14:52:27 -0000</pubDate>
+<pubDate>Fri, 05 Dec 2025 15:54:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN Security Council delegation visits Syria for first time since 1945]]></title>
-<link>https://apnews.com/article/syria-security-council-delegation-visit-4d723108cb5d4ce79b8b8adc4859b97b</link>
-<pubDate>Fri, 05 Dec 2025 12:47:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian drone strike kills 12-year-old boy in Ukraine as peace talks kept under wraps]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-talks-drone-attacks-7a515603cfdbc05f0a8b3befb0461a87</link>
 <pubDate>Fri, 05 Dec 2025 10:46:25 -0000</pubDate>
@@ -461,15 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN Security Council delegation visits Syria for first time since 1945]]></title>
+<link>https://apnews.com/article/syria-security-council-delegation-visit-4d723108cb5d4ce79b8b8adc4859b97b</link>
+<pubDate>Thu, 04 Dec 2025 18:51:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Why Somali migrants may still aim for US despite travel restrictions]]></title>
 <link>https://apnews.com/article/somalia-migrants-us-trump-immigration-policy-007e27b4882159f77044db427976d852</link>
 <pubDate>Fri, 05 Dec 2025 09:46:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shops empty in a Hispanic neighborhood as immigration crackdown comes to Louisiana]]></title>
-<link>https://apnews.com/article/new-orleans-border-patrol-kenner-2937ad9b1a879daec5d0838b469a1914</link>
-<pubDate>Fri, 05 Dec 2025 11:51:55 -0000</pubDate>
+<title><![CDATA[US vaccine advisers say not all babies need a hepatitis B shot at birth]]></title>
+<link>https://apnews.com/article/vaccines-babies-hepatitis-b-10f8db54beb38c5cd39a94f8a3657752</link>
+<pubDate>Fri, 05 Dec 2025 16:13:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
