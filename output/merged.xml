@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Dec 2025 05:41:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 06:17:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[At least 4 countries pull out of 2026 Eurovision contest as Israel’s participation sows discord]]></title>
+<link>https://apnews.com/article/eurovision-israel-gaza-european-broadcasting-union-7c32ff44f0107aa7ffdcde8f670b6744</link>
+<pubDate>Thu, 04 Dec 2025 19:07:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Hegseth put troops at risk by sharing sensitive plans on personal phone, Pentagon watchdog finds]]></title>
 <link>https://apnews.com/article/hegseth-signal-yemen-houthis-pentagon-inspector-general-c9af855dd5a1e3ef9935779032bac622</link>
 <pubDate>Fri, 05 Dec 2025 00:48:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What Israel’s plan to reopen the Rafah border crossing means for Palestinians in Gaza]]></title>
-<link>https://apnews.com/article/israel-gaza-palestinians-hamas-rafah-1e1f8a208a58c0bb671b52304e2d6afa</link>
-<pubDate>Fri, 05 Dec 2025 00:33:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin arrives in New Delhi on a state visit aimed at bolstering Russia-India ties]]></title>
-<link>https://apnews.com/article/india-russia-putin-visit-dc2a8decc78ce388f462937ea0b64f5d</link>
-<pubDate>Thu, 04 Dec 2025 13:44:36 -0000</pubDate>
+<title><![CDATA[Putin and Modi to discuss Russia-India trade and defense ties amid US pressure]]></title>
+<link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
+<pubDate>Fri, 05 Dec 2025 06:14:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India rolls back order to preinstall cybersecurity app on smartphones]]></title>
+<link>https://apnews.com/article/india-cybersecurity-app-privacy-preinstall-e60ae3999705927996143ef0264149ad</link>
+<pubDate>Wed, 03 Dec 2025 10:42:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Markram powers South Africa to victory over India despite Kohli’s 53rd ODI century]]></title>
 <link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
 <pubDate>Wed, 03 Dec 2025 17:16:32 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Brilliant Kohli hits 52nd ODI century and India beats South Africa by 17 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-first-odi-f8f54ba03117b4e8ad5b3c58188f2d5a</link>
 <pubDate>Wed, 03 Dec 2025 04:33:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Epic tales and star power: How Tollywood is reshaping Indian cinema]]></title>
-<link>https://apnews.com/article/tollywood-telegu-cinema-what-is-it-11f634610029566f9ca60071bf3430d5</link>
-<pubDate>Sun, 30 Nov 2025 08:11:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump praises Congo and Rwanda as they sign US-mediated peace deal]]></title>
-<link>https://apnews.com/article/congo-rwanda-trump-peace-deal-conflict-us-033736c256c921f7e70a603a3ab1bf96</link>
-<pubDate>Thu, 04 Dec 2025 18:36:33 -0000</pubDate>
+<title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
+<link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
+<pubDate>Fri, 05 Dec 2025 06:16:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 4 countries pull out of 2026 Eurovision contest as Israel’s participation sows discord]]></title>
-<link>https://apnews.com/article/eurovision-israel-gaza-european-broadcasting-union-7c32ff44f0107aa7ffdcde8f670b6744</link>
-<pubDate>Fri, 05 Dec 2025 01:19:00 -0000</pubDate>
+<title><![CDATA[Trump praises Congo and Rwanda as they sign US-mediated peace deal]]></title>
+<link>https://apnews.com/article/congo-rwanda-trump-peace-deal-conflict-us-033736c256c921f7e70a603a3ab1bf96</link>
+<pubDate>Thu, 04 Dec 2025 18:36:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India rolls back order to preinstall cybersecurity app on smartphones]]></title>
-<link>https://apnews.com/article/india-cybersecurity-app-privacy-preinstall-e60ae3999705927996143ef0264149ad</link>
-<pubDate>Wed, 03 Dec 2025 12:43:48 -0000</pubDate>
+<title><![CDATA[Putin arrives in New Delhi on a state visit aimed at bolstering Russia-India ties]]></title>
+<link>https://apnews.com/article/india-russia-putin-visit-dc2a8decc78ce388f462937ea0b64f5d</link>
+<pubDate>Thu, 04 Dec 2025 14:23:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
