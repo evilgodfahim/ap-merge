@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 11:08:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 11:32:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
 <link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
+<link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
+<pubDate>Sat, 06 Dec 2025 11:29:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
 <link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
 <pubDate>Fri, 05 Dec 2025 18:07:24 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pakistan and Afghanistan trade fire along the border but no casualties are reported]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-chaman-border-shooting-369e664dd7e6f6b10f4032b5d8fe4c1d</link>
 <pubDate>Fri, 05 Dec 2025 20:12:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tony-nominated playwright Jeremy O. Harris arrested in Japan for alleged ecstasy smuggling]]></title>
-<link>https://apnews.com/article/japan-drugs-mdma-jeremy-o-harris-arrested-25db0a45633ec482a56f71555f0ab29a</link>
-<pubDate>Sat, 06 Dec 2025 09:20:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -428,12 +428,6 @@
 <title><![CDATA[Pope cancels Holy See fundraising commission announced under questionable circumstances]]></title>
 <link>https://apnews.com/article/vatican-finance-fundraising-pope-leo-5f348b01672483bb3c37280d7d9f7b1b</link>
 <pubDate>Fri, 05 Dec 2025 10:31:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
-<link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
-<pubDate>Fri, 05 Dec 2025 02:19:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
