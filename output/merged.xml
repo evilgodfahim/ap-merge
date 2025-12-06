@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 23:10:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 23:34:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon tells a UN team the country will need a back-up force once peacekeepers’ term ends]]></title>
 <link>https://apnews.com/article/lebanon-israel-unifil-aoun-naim-kassem-9d76e7b2ce9fc1f41c171fb31b309ce2</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border]]></title>
+<link>https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71</link>
+<pubDate>Sat, 06 Dec 2025 23:25:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood]]></title>
 <link>https://apnews.com/article/texas-floods-911-emergency-calls-6f4e9194e6ff4b791bff4ab2ae839058</link>
 <pubDate>Sat, 06 Dec 2025 05:48:40 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Louisiana is shrinking. Some tribes are fighting to protect what’s left of their communities]]></title>
 <link>https://apnews.com/article/louisiana-coastal-erosion-pointeauchien-indigenous-climate-change-60b060104eeaebba60bd7bd5ccb1a3d3</link>
 <pubDate>Sat, 06 Dec 2025 14:29:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[National Park Service drops free admission on MLK Day, Juneteenth while adding Trump’s birthday]]></title>
-<link>https://apnews.com/article/national-parks-free-trump-birthday-juneteenth-mlk-225b10728a9df22d54407ecaec1e5e5f</link>
-<pubDate>Sat, 06 Dec 2025 21:34:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude-7.0 earthquake hits remote wilderness along Alaska-Canada border]]></title>
-<link>https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71</link>
-<pubDate>Sat, 06 Dec 2025 22:27:40 -0000</pubDate>
+<title><![CDATA[National Park Service drops free admission on MLK Day, Juneteenth while adding Trump’s birthday]]></title>
+<link>https://apnews.com/article/national-parks-free-trump-birthday-juneteenth-mlk-225b10728a9df22d54407ecaec1e5e5f</link>
+<pubDate>Sat, 06 Dec 2025 23:30:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
