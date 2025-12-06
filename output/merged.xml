@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 17:36:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 18:14:15 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Report: Iran launches massive missiles during a naval drill near Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-guard-drill-missiles-a907abbfc3f3feaace41f1e8c0a95772</link>
-<pubDate>Sat, 06 Dec 2025 08:13:49 -0000</pubDate>
+<title><![CDATA[Lebanon tells a UN team the country will need a back-up force once peacekeepers’ term ends]]></title>
+<link>https://apnews.com/article/lebanon-israel-unifil-aoun-naim-kassem-9d76e7b2ce9fc1f41c171fb31b309ce2</link>
+<pubDate>Sat, 06 Dec 2025 17:57:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
-<link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
-<pubDate>Fri, 05 Dec 2025 17:02:57 -0000</pubDate>
+<title><![CDATA[Photos of youths roaring over Gaza sand dunes in a return to prewar tradition]]></title>
+<link>https://apnews.com/photo-gallery/gaza-motorcycles-all-terrain-vehicles-dunes-ceasefire-72fa67b421a01ce76b6c9dd3a909b255</link>
+<pubDate>Sat, 06 Dec 2025 17:42:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
+<link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
+<pubDate>Fri, 05 Dec 2025 17:02:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Burkina Faso plans to restore death penalty for treason, terrorism, espionage]]></title>
 <link>https://apnews.com/article/burkina-faso-death-penalty-4bc692c9c40ba9b5c077035a5ff0ccae</link>
 <pubDate>Fri, 05 Dec 2025 11:27:55 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[World Food Program warns of catastrophic hunger in Cameroon without additional funding]]></title>
 <link>https://apnews.com/article/cameroon-hunger-aid-cuts-b2bdac318615313c7b1c0a19cb63fbdd</link>
 <pubDate>Fri, 05 Dec 2025 19:09:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump praises Congo and Rwanda as they sign US-mediated peace deal]]></title>
-<link>https://apnews.com/article/congo-rwanda-trump-peace-deal-conflict-us-033736c256c921f7e70a603a3ab1bf96</link>
-<pubDate>Fri, 05 Dec 2025 10:18:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,12 +176,6 @@
 <title><![CDATA[Philippines says China fired flares toward its patrol plane in the disputed South China Sea]]></title>
 <link>https://apnews.com/article/disputed-south-china-sea-subi-reef-philippines-050582ac9f143beec3841e2ae9b25e2b</link>
 <pubDate>Sat, 06 Dec 2025 14:03:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mass shooting at a South African bar leaves 11 dead, including 3 children]]></title>
-<link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
-<pubDate>Sat, 06 Dec 2025 13:48:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Report: Iran launches massive missiles during a naval drill near Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-guard-drill-missiles-a907abbfc3f3feaace41f1e8c0a95772</link>
+<pubDate>Sat, 06 Dec 2025 18:14:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Survivors plead for urgent aid after catastrophic floods and landslides killed over 1,500 in Asia]]></title>
 <link>https://apnews.com/article/indonesia-sri-lanka-thailand-foods-landslides-d0c2f646f7d9d1b98dd5b012e986e176</link>
 <pubDate>Fri, 05 Dec 2025 17:44:21 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong police arrest man for posts about deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-tai-po-fire-arrests-40889525af6ead7bd160428c324c8fd2</link>
-<pubDate>Sat, 06 Dec 2025 15:04:31 -0000</pubDate>
+<title><![CDATA[Mass shooting at a South African bar leaves 11 dead, including 3 children]]></title>
+<link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
+<pubDate>Sat, 06 Dec 2025 18:14:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
-<link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
-<pubDate>Fri, 05 Dec 2025 06:16:39 -0000</pubDate>
+<title><![CDATA[Hong Kong police arrest man for posts about deadly fire]]></title>
+<link>https://apnews.com/article/hong-kong-tai-po-fire-arrests-40889525af6ead7bd160428c324c8fd2</link>
+<pubDate>Sat, 06 Dec 2025 15:04:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,21 +389,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A UN team in Lebanon examines options for border area with Israel after peacekeepers leave]]></title>
+<link>https://apnews.com/article/lebanon-israel-unifil-un-1701-withdrawal-e0b8de5282b1d6b11ba3062542a24919</link>
+<pubDate>Sat, 06 Dec 2025 17:59:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
+<link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
+<pubDate>Fri, 05 Dec 2025 06:16:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
 <pubDate>Fri, 05 Dec 2025 10:16:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon tells a UN team the country will need a back-up force once peacekeepers’ term ends]]></title>
-<link>https://apnews.com/article/lebanon-israel-unifil-aoun-naim-kassem-9d76e7b2ce9fc1f41c171fb31b309ce2</link>
-<pubDate>Fri, 05 Dec 2025 16:43:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of youths roaring over Gaza sand dunes in a return to prewar tradition]]></title>
-<link>https://apnews.com/photo-gallery/gaza-motorcycles-all-terrain-vehicles-dunes-ceasefire-72fa67b421a01ce76b6c9dd3a909b255</link>
-<pubDate>Fri, 05 Dec 2025 19:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +446,6 @@
 <title><![CDATA[FIFA gives Trump a peace prize in a departure from its traditional focus on sport]]></title>
 <link>https://apnews.com/article/trump-world-cup-fifa-peace-prize-e14f95b8adaa197c869cad407b6ef604</link>
 <pubDate>Fri, 05 Dec 2025 19:41:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The last hostage in Gaza was captured while fighting to save a kibbutz]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-netanyahu-ran-gvili-594f8faf7514f49750756de52f5c5f95</link>
-<pubDate>Thu, 04 Dec 2025 18:17:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
