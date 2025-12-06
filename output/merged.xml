@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 15:35:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 16:12:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Report: Iran launches massive missiles during a naval drill near Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-guard-drill-missiles-a907abbfc3f3feaace41f1e8c0a95772</link>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
+<link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
+<pubDate>Fri, 05 Dec 2025 18:07:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Putin arrives in New Delhi on a state visit aimed at bolstering Russia-India ties]]></title>
 <link>https://apnews.com/article/india-russia-putin-visit-dc2a8decc78ce388f462937ea0b64f5d</link>
 <pubDate>Thu, 04 Dec 2025 13:44:36 -0000</pubDate>
@@ -161,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin’s visit highlights Indian imports of discounted Russian oil in the face of US sanctions]]></title>
-<link>https://apnews.com/article/india-russia-putin-modi-oil-defense-energy-explainer-d13a3afb5630f59f8061dab268f321bd</link>
-<pubDate>Sat, 06 Dec 2025 04:44:14 -0000</pubDate>
+<title><![CDATA[Sanctioned oil tanker is stranded off Bulgaria’s Black Sea coast after suspected Ukrainian strike]]></title>
+<link>https://apnews.com/article/bulgaria-russia-turkey-black-sea-tanker-kairos-093450b20b198f81c31228636b7e36f7</link>
+<pubDate>Sat, 06 Dec 2025 16:08:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Football players and officials arrested as part of probe into Turkey’s betting scandal]]></title>
-<link>https://apnews.com/article/players-referees-football-soccer-betting-scandal-turkey-arrests-fbcbb0ade4d345a9d3a94475793022ec</link>
-<pubDate>Fri, 05 Dec 2025 21:07:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-witkoff-trump-7f5e063223a426a4629b67c5991d1a73</link>
 <pubDate>Sat, 06 Dec 2025 09:36:38 -0000</pubDate>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
-<link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
-<pubDate>Fri, 05 Dec 2025 16:58:50 -0000</pubDate>
+<title><![CDATA[Jaiswal’s maiden ODI century completes India’s series win over South Africa]]></title>
+<link>https://apnews.com/article/india-south-africa-3rd-odi-f72a51c76df74fea107615faf64327e4</link>
+<pubDate>Sat, 06 Dec 2025 16:05:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
