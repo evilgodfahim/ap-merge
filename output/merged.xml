@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 06:46:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 07:10:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Around the world, refugees are shut out of the US by Trump’s new policies]]></title>
 <link>https://apnews.com/article/refugees-trump-immigration-47441c5cb95d5cb51c5b1ce1087dab36</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexican composer turns fire and ritual into a musical journey of renewal]]></title>
+<link>https://apnews.com/article/mexico-musician-concert-maria-leonora-temazcal-fire-cc7a42f41fbe25b72f8876d66f6cbce1</link>
+<pubDate>Sat, 06 Dec 2025 07:09:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bolsonaro’s eldest son says he’ll run for Brazil presidency in 2026]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-succession-senator-flavio-bolsonaro-4e2023374e4f4c186477562d6e6d6bfc</link>
 <pubDate>Fri, 05 Dec 2025 19:57:21 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Argentina’s President Milei to issue a dollar bond, eyeing a return to global markets]]></title>
 <link>https://apnews.com/article/argentina-economy-bond-auction-javier-mieli-trump-a978e24c4284b06633933f5999c545bc</link>
 <pubDate>Fri, 05 Dec 2025 22:28:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former DEA agent charged with agreeing to launder millions of dollars for Mexican drug cartel]]></title>
-<link>https://apnews.com/article/drug-enforcement-agent-cartel-money-laundering-d5bc9d803e338d9970e92adf464cbe5c</link>
-<pubDate>Sat, 06 Dec 2025 04:59:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[A timeline of the US military’s buildup near Venezuela and attacks on alleged drug boats]]></title>
 <link>https://apnews.com/article/trump-maduro-venezuela-drug-cartels-military-timeline-91e242e5c56eec39b6b7d72bf55dbd2d</link>
 <pubDate>Fri, 05 Dec 2025 21:22:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Former DEA agent charged with agreeing to launder millions of dollars for Mexican drug cartel]]></title>
+<link>https://apnews.com/article/drug-enforcement-agent-cartel-money-laundering-d5bc9d803e338d9970e92adf464cbe5c</link>
+<pubDate>Fri, 05 Dec 2025 23:58:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
