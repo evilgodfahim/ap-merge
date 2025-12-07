@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 06:15:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 06:46:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -359,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mass shooting at a South African bar leaves 12 dead, including 3 children]]></title>
-<link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
-<pubDate>Sat, 06 Dec 2025 19:32:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/video/us-raid-allegedly-killed-syrian-undercover-agent-instead-of-islamic-state-group-official-f49afb247f97486a80957fd70563a7d0</link>
 <pubDate>Fri, 05 Dec 2025 20:11:11 -0000</pubDate>
@@ -440,6 +434,12 @@
 <title><![CDATA[At least 3 killed, 6 wounded in explosion in western Mexican state of Michoacan]]></title>
 <link>https://apnews.com/article/mexico-michoacan-explosion-cartels-trump-e68b96b0ccf36c23c820dc0176f93644</link>
 <pubDate>Sun, 07 Dec 2025 02:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mass shooting at a South African bar leaves 12 dead, including 3 children]]></title>
+<link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
+<pubDate>Sat, 06 Dec 2025 19:32:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
