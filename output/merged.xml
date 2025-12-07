@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 11:08:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 11:32:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong votes in legislative election after deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
-<pubDate>Sun, 07 Dec 2025 10:16:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japan and Australia urge calm after Chinese radar locks on Japanese jets]]></title>
 <link>https://apnews.com/article/japan-china-military-fighter-jets-pacific-25017ddbec3afd6bf9e6da4b8516b90a</link>
 <pubDate>Sun, 07 Dec 2025 08:06:01 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Handloom weavers of iconic Tangail saree in Bangladesh seek UNESCO heritage status for their craft]]></title>
 <link>https://apnews.com/photo-gallery/bangladesh-handloom-tangail-saree-weavers-unesco-heritage-2362ad723c5ed9f4407d93f9fd7177a6</link>
 <pubDate>Sun, 07 Dec 2025 04:47:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Overnight exchange of fire along the Afghan-Pakistan border kills 5 and wounds 8, officials say]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-border-shootout-2d2766c8d15bf94369fb87b46185e1a8</link>
+<pubDate>Sun, 07 Dec 2025 02:40:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -356,6 +356,12 @@
 <title><![CDATA[Benin is the latest African country to experience a coup. Here is a look at other military takeovers]]></title>
 <link>https://apnews.com/article/benin-guineabissau-coup-west-africa-military-b503dd39bc12289afe63b25faee45386</link>
 <pubDate>Sun, 07 Dec 2025 10:53:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hong Kong votes in legislative election after deadly fire]]></title>
+<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
+<pubDate>Sun, 07 Dec 2025 00:58:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
