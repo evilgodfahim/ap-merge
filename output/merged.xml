@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 05:10:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 05:38:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As Russia’s Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes]]></title>
+<link>https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2</link>
+<pubDate>Sun, 07 Dec 2025 05:38:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-witkoff-trump-7f5e063223a426a4629b67c5991d1a73</link>
 <pubDate>Sat, 06 Dec 2025 09:36:38 -0000</pubDate>
@@ -362,12 +368,6 @@
 <title><![CDATA[Mass shooting at a South African bar leaves 12 dead, including 3 children]]></title>
 <link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
 <pubDate>Sat, 06 Dec 2025 19:32:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong votes in legislative election after deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
-<pubDate>Sun, 07 Dec 2025 00:58:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan protests after a Chinese military aircraft locks its radar on Japanese jets]]></title>
-<link>https://apnews.com/article/japan-china-military-fighter-jets-pacific-25017ddbec3afd6bf9e6da4b8516b90a</link>
-<pubDate>Sun, 07 Dec 2025 03:01:29 -0000</pubDate>
+<title><![CDATA[Hong Kong votes in legislative election after deadly fire]]></title>
+<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
+<pubDate>Sun, 07 Dec 2025 00:58:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
