@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 22:09:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 22:37:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A UN team in Lebanon examines options for border area with Israel after peacekeepers leave]]></title>
 <link>https://apnews.com/article/lebanon-israel-unifil-un-1701-withdrawal-e0b8de5282b1d6b11ba3062542a24919</link>
@@ -413,12 +413,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico freezes Miss Universe co-owner’s bank accounts during organized crime investigation]]></title>
-<link>https://apnews.com/article/mexico-miss-universe-organized-crime-probe-68da9ec3acfb656446b901df2306f152</link>
-<pubDate>Sat, 06 Dec 2025 04:10:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cloudflare says service restored after outage that brought down sites including Zoom and LinkedIn]]></title>
 <link>https://apnews.com/article/internet-outage-cloudflare-zoom-linkedin-2ac314f7dcd112a63eb12b30afb74a33</link>
 <pubDate>Sat, 06 Dec 2025 03:55:45 -0000</pubDate>
@@ -428,6 +422,12 @@
 <title><![CDATA[Pope cancels Holy See fundraising commission announced under questionable circumstances]]></title>
 <link>https://apnews.com/article/vatican-finance-fundraising-pope-leo-5f348b01672483bb3c37280d7d9f7b1b</link>
 <pubDate>Fri, 05 Dec 2025 10:31:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Greek police fire tear gas at protesting farmers threatening to blockade airport]]></title>
+<link>https://apnews.com/article/greece-farmers-protest-subsidies-72b207e4c3e3f2354cd94b4ccb832eb2</link>
+<pubDate>Sun, 07 Dec 2025 14:23:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Benin’s president condemns foiled coup bid, says mutineers ‘fleeing’]]></title>
+<title><![CDATA[Benin’s president condemns a foiled coup bid and says mutineers are ‘fleeing’]]></title>
 <link>https://apnews.com/article/benin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8</link>
-<pubDate>Sun, 07 Dec 2025 21:02:41 -0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 22:37:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
