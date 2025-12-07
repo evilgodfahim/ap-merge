@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 00:58:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 02:55:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Overnight exchange of fire along the Afghan-Pakistan border kills 5 and wounds 8, officials say]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-border-shootout-2d2766c8d15bf94369fb87b46185e1a8</link>
+<pubDate>Sun, 07 Dec 2025 02:40:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tony-nominated playwright Jeremy O. Harris arrested in Japan for alleged ecstasy smuggling]]></title>
 <link>https://apnews.com/article/japan-drugs-mdma-jeremy-o-harris-arrested-25db0a45633ec482a56f71555f0ab29a</link>
 <pubDate>Sat, 06 Dec 2025 09:20:21 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Hong Kong police arrest man for posts about deadly fire]]></title>
 <link>https://apnews.com/article/hong-kong-tai-po-fire-arrests-40889525af6ead7bd160428c324c8fd2</link>
 <pubDate>Sat, 06 Dec 2025 21:14:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
-<link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
-<pubDate>Sat, 06 Dec 2025 11:29:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
+<link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
+<pubDate>Sat, 06 Dec 2025 11:29:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Members of Congress send scathing letter to WADA over probe to find leaker in Chinese swimmer case]]></title>
 <link>https://apnews.com/article/chinese-swimmers-doping-congress-9fc4981aedb6a8795d5bda054aa74f7c</link>
 <pubDate>Sat, 06 Dec 2025 20:59:44 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages]]></title>
 <link>https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285</link>
 <pubDate>Thu, 04 Dec 2025 23:27:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China blasts UK for delaying decision again on massive London embassy]]></title>
-<link>https://apnews.com/article/china-london-embassy-espionage-approval-delay-c5fd0755637a864566530231666904c5</link>
-<pubDate>Thu, 04 Dec 2025 00:00:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Markram powers South Africa to victory over India despite Kohli’s 53rd ODI century]]></title>
 <link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
 <pubDate>Wed, 03 Dec 2025 17:16:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A fire at a popular nightclub in India’s Goa state kills 23, state’s chief minister says]]></title>
+<link>https://apnews.com/article/india-goa-nightclub-fire-6e3b76f55caa26dd6230e6c587aa96ad</link>
+<pubDate>Sun, 07 Dec 2025 02:39:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the Eurovision Song Contest as Israel’s participation sparks walkouts]]></title>
-<link>https://apnews.com/article/eurovision-song-contest-israel-what-to-know-b13dcea24fbbd28e73fa79e9a45977d7</link>
-<pubDate>Fri, 05 Dec 2025 13:35:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-witkoff-trump-7f5e063223a426a4629b67c5991d1a73</link>
 <pubDate>Sat, 06 Dec 2025 09:36:38 -0000</pubDate>
@@ -437,15 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Overnight exchange of fire along the Afghan-Pakistan border kills 5 and wounds 8, officials say]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-border-shootout-2d2766c8d15bf94369fb87b46185e1a8</link>
-<pubDate>Sat, 06 Dec 2025 12:05:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 2 killed, 7 wounded in explosion in western Mexican state of Michoacan]]></title>
+<title><![CDATA[At least 3 killed, 6 wounded in explosion in western Mexican state of Michoacan]]></title>
 <link>https://apnews.com/article/mexico-michoacan-explosion-cartels-trump-e68b96b0ccf36c23c820dc0176f93644</link>
-<pubDate>Sat, 06 Dec 2025 22:48:07 -0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 02:01:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
