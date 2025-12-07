@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 10:38:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 11:08:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Man arrested after pepper spray attack in London’s Heathrow Airport parking garage]]></title>
+<link>https://apnews.com/article/heathrow-airport-pepper-spray-attack-london-78815a96a64ce48b206cf06d3a87a2d1</link>
+<pubDate>Sun, 07 Dec 2025 11:03:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tom Hicks, the Texas businessman who owned Stars, Rangers and Liverpool teams, dies at 79]]></title>
 <link>https://apnews.com/article/tom-hicks-17b3260087ced4c710e11697b865544b</link>
 <pubDate>Sun, 07 Dec 2025 07:53:12 -0000</pubDate>
@@ -212,12 +218,6 @@
 <title><![CDATA[Protesters arrested after smearing custard and crumble on Crown Jewels case at Tower of London]]></title>
 <link>https://apnews.com/article/crown-jewels-custard-crumble-protest-tower-london-b4fbacd9ff3d70afe5db9ba20584426a</link>
 <pubDate>Sun, 07 Dec 2025 05:32:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Overnight exchange of fire along the Afghan-Pakistan border kills 5 and wounds 8, officials say]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-border-shootout-2d2766c8d15bf94369fb87b46185e1a8</link>
-<pubDate>Sat, 06 Dec 2025 10:54:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Soldiers announce apparent military coup in Benin]]></title>
+<title><![CDATA[Soldiers appear on television to announce apparent military coup in Benin]]></title>
 <link>https://apnews.com/article/benin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8</link>
-<pubDate>Sun, 07 Dec 2025 09:59:06 -0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 11:08:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-witkoff-trump-7f5e063223a426a4629b67c5991d1a73</link>
-<pubDate>Sat, 06 Dec 2025 09:36:38 -0000</pubDate>
+<title><![CDATA[Benin is the latest African country to experience a coup. Here is a look at other military takeovers]]></title>
+<link>https://apnews.com/article/benin-guineabissau-coup-west-africa-military-b503dd39bc12289afe63b25faee45386</link>
+<pubDate>Sun, 07 Dec 2025 10:53:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -422,6 +422,18 @@
 <title><![CDATA[Pope cancels Holy See fundraising commission announced under questionable circumstances]]></title>
 <link>https://apnews.com/article/vatican-finance-fundraising-pope-leo-5f348b01672483bb3c37280d7d9f7b1b</link>
 <pubDate>Fri, 05 Dec 2025 10:31:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-witkoff-trump-7f5e063223a426a4629b67c5991d1a73</link>
+<pubDate>Sat, 06 Dec 2025 09:36:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A fire at a popular nightclub in India’s Goa state kills 25]]></title>
+<link>https://apnews.com/article/india-goa-nightclub-fire-6e3b76f55caa26dd6230e6c587aa96ad</link>
+<pubDate>Sun, 07 Dec 2025 10:38:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
