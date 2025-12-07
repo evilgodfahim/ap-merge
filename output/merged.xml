@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 11:32:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 12:18:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ship in Bab el-Mandeb Strait attacked by suspected pirates, officials say]]></title>
 <link>https://apnews.com/article/piracy-bab-mandeb-red-sea-aden-gulf-1856e53457c39fed4f8d827a58f87c98</link>
@@ -164,6 +164,12 @@
 <title><![CDATA[Markram powers South Africa to victory over India despite Kohli’s 53rd ODI century]]></title>
 <link>https://apnews.com/article/india-south-africa-second-odi-67848e31936329cf44321ff4aa345631</link>
 <pubDate>Wed, 03 Dec 2025 17:16:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nobel laureates arrive for a week of events and awards in Stockholm and Oslo]]></title>
+<link>https://apnews.com/article/stockholm-sweden-nobel-krasznahorkai-machado-3a35f29f3355dd2ef855fce3c9516869</link>
+<pubDate>Sun, 07 Dec 2025 12:07:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICC prosecutor says Putin warrant won’t disappear even if Ukraine peace talks are successful]]></title>
-<link>https://apnews.com/article/icc-russia-ukraine-warrant-d7d52737b3f59935daf5444fb9d4d7ab</link>
-<pubDate>Fri, 05 Dec 2025 17:10:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina and Messi will open their World Cup defense against Algeria. The US starts vs. Paraguay]]></title>
-<link>https://apnews.com/article/world-cup-draw-6f01be74665ce50dee2c9da789a39dcb</link>
-<pubDate>Sat, 06 Dec 2025 01:31:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Soldiers appear on television to announce apparent military coup in Benin]]></title>
+<title><![CDATA[Benin’s interior minister says a coup announced earlier has been foiled]]></title>
 <link>https://apnews.com/article/benin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8</link>
-<pubDate>Sun, 07 Dec 2025 11:08:24 -0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 12:18:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong votes in legislative election after deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
-<pubDate>Sun, 07 Dec 2025 00:58:24 -0000</pubDate>
+<title><![CDATA[AI-powered police body cameras, once taboo, get tested on Canadian city’s ‘watch list’ of faces]]></title>
+<link>https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e</link>
+<pubDate>Sun, 07 Dec 2025 12:03:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
