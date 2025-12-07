@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 18:14:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 18:44:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan and Australia urge calm after Chinese radar locks on Japanese jets]]></title>
-<link>https://apnews.com/article/japan-china-military-fighter-jets-pacific-25017ddbec3afd6bf9e6da4b8516b90a</link>
-<pubDate>Sun, 07 Dec 2025 08:06:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Handloom weavers of iconic Tangail saree in Bangladesh seek UNESCO heritage status for their craft]]></title>
 <link>https://apnews.com/photo-gallery/bangladesh-handloom-tangail-saree-weavers-unesco-heritage-2362ad723c5ed9f4407d93f9fd7177a6</link>
 <pubDate>Sun, 07 Dec 2025 04:47:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Java island zoo releases photos of the first panda cub born in Indonesia]]></title>
+<link>https://apnews.com/article/indonesia-china-panda-cub-newborn-taman-safari-b78e0f1710e433c0dea06239eb9c6e50</link>
+<pubDate>Sun, 07 Dec 2025 18:44:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Man wounded in 2nd stabbing attack on North Carolina commuter train since August]]></title>
+<link>https://apnews.com/article/train-stabbing-charlotte-immigration-0697a3b2e8b409f062e1020898ba392c</link>
+<pubDate>Sun, 07 Dec 2025 18:29:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sheriff hunting for the last of 3 inmates who escaped from a Louisiana jail]]></title>
 <link>https://apnews.com/article/louisiana-jail-escape-da0f91e53650319614e89b23aca49991</link>
 <pubDate>Sun, 07 Dec 2025 00:14:39 -0000</pubDate>
@@ -113,18 +119,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Unseen photos of Rosa Parks return to Montgomery, Alabama, seven decades later]]></title>
-<link>https://apnews.com/article/rosa-parks-montgomery-bus-boycott-67118cd4007694248ffaba7d765d934b</link>
-<pubDate>Sun, 07 Dec 2025 14:21:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French first lady Brigitte Macron visits an old friend in China: A giant panda called Yuan Meng]]></title>
-<link>https://apnews.com/article/giant-pandas-china-france-brigitte-emmanuel-macron-6d45972765572a083459ae0841d4953d</link>
-<pubDate>Fri, 05 Dec 2025 12:27:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
 <link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
 <pubDate>Sat, 06 Dec 2025 11:29:56 -0000</pubDate>
@@ -140,6 +134,12 @@
 <title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
 <link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
 <pubDate>Thu, 04 Dec 2025 07:16:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages]]></title>
+<link>https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285</link>
+<pubDate>Thu, 04 Dec 2025 23:27:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico freezes Miss Universe co-owner’s bank accounts during organized crime investigation]]></title>
+<link>https://apnews.com/article/mexico-miss-universe-organized-crime-probe-68da9ec3acfb656446b901df2306f152</link>
+<pubDate>Sat, 06 Dec 2025 04:10:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cloudflare says service restored after outage that brought down sites including Zoom and LinkedIn]]></title>
 <link>https://apnews.com/article/internet-outage-cloudflare-zoom-linkedin-2ac314f7dcd112a63eb12b30afb74a33</link>
 <pubDate>Sat, 06 Dec 2025 03:55:45 -0000</pubDate>
@@ -425,15 +431,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greek police fire tear gas at protesting farmers threatening to blockade airport]]></title>
-<link>https://apnews.com/article/greece-farmers-protest-subsidies-72b207e4c3e3f2354cd94b4ccb832eb2</link>
-<pubDate>Sun, 07 Dec 2025 14:23:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A fire at a popular nightclub in India’s Goa state kills 25]]></title>
 <link>https://apnews.com/article/india-goa-nightclub-fire-6e3b76f55caa26dd6230e6c587aa96ad</link>
 <pubDate>Sun, 07 Dec 2025 10:38:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Death toll rises to 5 after explosion outside a police station in Mexico’s Michoacán state]]></title>
+<link>https://apnews.com/article/mexico-explosion-victims-michoacan-99d550831c5fbdea0a278755dbfb4edc</link>
+<pubDate>Sun, 07 Dec 2025 18:44:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man wounded in 2nd stabbing attack on North Carolina commuter train since August]]></title>
-<link>https://apnews.com/article/train-stabbing-charlotte-immigration-0697a3b2e8b409f062e1020898ba392c</link>
-<pubDate>Sun, 07 Dec 2025 00:43:24 -0000</pubDate>
+<title><![CDATA[Records reviewed by AP detail online monitoring, arrests in New Orleans immigration crackdown]]></title>
+<link>https://apnews.com/article/immigration-new-orleans-online-monitoring-b2c300245ea4ffbef335502245760a1d</link>
+<pubDate>Sun, 07 Dec 2025 18:29:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Java island zoo releases photos of the first panda cub born in Indonesia]]></title>
-<link>https://apnews.com/article/indonesia-china-panda-cub-newborn-taman-safari-b78e0f1710e433c0dea06239eb9c6e50</link>
-<pubDate>Sun, 07 Dec 2025 15:41:32 -0000</pubDate>
+<title><![CDATA[French first lady Brigitte Macron visits an old friend in China: A giant panda called Yuan Meng]]></title>
+<link>https://apnews.com/article/giant-pandas-china-france-brigitte-emmanuel-macron-6d45972765572a083459ae0841d4953d</link>
+<pubDate>Fri, 05 Dec 2025 12:21:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
