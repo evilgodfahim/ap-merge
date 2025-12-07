@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 19:32:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 20:11:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border]]></title>
-<link>https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71</link>
-<pubDate>Sat, 06 Dec 2025 23:25:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing]]></title>
 <link>https://apnews.com/article/pearl-harbor-remembrance-survivors-anniversary-3af82c6f72a979412f77cf31023608a7</link>
 <pubDate>Sun, 07 Dec 2025 04:54:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Unseen photos of Rosa Parks return to Montgomery, Alabama, seven decades later]]></title>
+<link>https://apnews.com/article/rosa-parks-montgomery-bus-boycott-67118cd4007694248ffaba7d765d934b</link>
+<pubDate>Sun, 07 Dec 2025 14:21:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strikes kill 4 as US and Ukraine officials wrap up third day of diplomatic talks]]></title>
+<title><![CDATA[Russian strikes kill 4 in Ukraine as the Kremlin praises new US security strategy]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-kellogg-trump-zelenskyy-cf7422dc54d0f2415d164824c9d389a3</link>
-<pubDate>Sun, 07 Dec 2025 16:11:32 -0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 20:11:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
