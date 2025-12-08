@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Dec 2025 00:53:49 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 02:44:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US raid allegedly killed Syrian undercover agent instead of Islamic State group official]]></title>
 <link>https://apnews.com/article/syria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983</link>
@@ -35,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong voter turnout edges up despite public anger over deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
-<pubDate>Sun, 07 Dec 2025 17:35:35 -0000</pubDate>
+<title><![CDATA[Wildfires destroy 40 homes and kill a firefighter in Australia]]></title>
+<link>https://apnews.com/article/australia-wildfires-bulahdelah-firefighter-dafe0cd42a2ed50312ae02e9fd7691a0</link>
+<pubDate>Mon, 08 Dec 2025 02:44:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A fire at a popular nightclub in India’s Goa state kills 25]]></title>
+<link>https://apnews.com/article/india-goa-nightclub-fire-6e3b76f55caa26dd6230e6c587aa96ad</link>
+<pubDate>Mon, 08 Dec 2025 02:29:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Handloom weavers of iconic Tangail saree in Bangladesh seek UNESCO heritage status for their craft]]></title>
 <link>https://apnews.com/photo-gallery/bangladesh-handloom-tangail-saree-weavers-unesco-heritage-2362ad723c5ed9f4407d93f9fd7177a6</link>
 <pubDate>Sun, 07 Dec 2025 04:47:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Java island zoo releases photos of the first panda cub born in Indonesia]]></title>
-<link>https://apnews.com/article/indonesia-china-panda-cub-newborn-taman-safari-b78e0f1710e433c0dea06239eb9c6e50</link>
-<pubDate>Sun, 07 Dec 2025 18:44:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll rises to 5 after explosion outside a police station in Mexico’s Michoacán state]]></title>
-<link>https://apnews.com/article/mexico-explosion-victims-michoacan-99d550831c5fbdea0a278755dbfb4edc</link>
-<pubDate>Mon, 08 Dec 2025 00:53:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +62,12 @@
 <title><![CDATA[Supporters of Venezuelan opposition leader María Corina Machado march in cities worldwide]]></title>
 <link>https://apnews.com/article/venezuela-maduro-opposition-machado-nobel-prize-trump-ef5625423a568dfdda2bb4c1505aa341</link>
 <pubDate>Sat, 06 Dec 2025 22:04:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Puerto Rico salsa giant Rafael Ithier, who led El Gran Combo for more than half a century, dies]]></title>
+<link>https://apnews.com/article/puerto-rico-rafael-ithier-died-salsa-3db184c5ef533f78f364710d7eb02895</link>
+<pubDate>Sun, 07 Dec 2025 16:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French first lady Brigitte Macron visits an old friend in China: A giant panda called Yuan Meng]]></title>
+<link>https://apnews.com/article/giant-pandas-china-france-brigitte-emmanuel-macron-6d45972765572a083459ae0841d4953d</link>
+<pubDate>Fri, 05 Dec 2025 12:27:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hong Kong holds a legislative election Sunday after a fire raised governance concerns]]></title>
 <link>https://apnews.com/article/hong-kong-legislative-election-patriots-beijing-ca3a57da94247b0758da245093535aee</link>
 <pubDate>Sat, 06 Dec 2025 11:29:56 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s Xi and France’s Macron pledge cooperation on global crises and trade]]></title>
 <link>https://apnews.com/article/macron-france-china-visit-ukraine-trade-24fb379865dc08e5dbadd6f698f5a4b6</link>
 <pubDate>Thu, 04 Dec 2025 07:16:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages]]></title>
-<link>https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285</link>
-<pubDate>Thu, 04 Dec 2025 23:27:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police say 2 officers killed in northeast Colombia in explosion blamed on guerrilla]]></title>
-<link>https://apnews.com/article/colombia-eln-guerrilla-attack-police-a66e45a45c7b96c5fb21feafc69f07ba</link>
-<pubDate>Sun, 07 Dec 2025 18:14:19 -0000</pubDate>
+<title><![CDATA[Japan revises economic data to show bigger contraction in July-September period]]></title>
+<link>https://apnews.com/article/japan-economy-tariffs-trump-gdp-exports-2f207154912eadde99b0adffad01aabe</link>
+<pubDate>Mon, 08 Dec 2025 02:44:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Puerto Rico salsa giant Rafael Ithier, who led El Gran Combo for more than half a century, dies]]></title>
-<link>https://apnews.com/article/puerto-rico-rafael-ithier-died-salsa-3db184c5ef533f78f364710d7eb02895</link>
-<pubDate>Sun, 07 Dec 2025 23:33:52 -0000</pubDate>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-7-2025-1ff7556e1cf89913e4447a1aa2def679</link>
+<pubDate>Mon, 08 Dec 2025 02:29:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Police say 2 officers killed in northeast Colombia in explosion blamed on guerrilla]]></title>
+<link>https://apnews.com/article/colombia-eln-guerrilla-attack-police-a66e45a45c7b96c5fb21feafc69f07ba</link>
+<pubDate>Sun, 07 Dec 2025 18:14:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Frank Gehry, the most celebrated architect of his time, dies at 96]]></title>
-<link>https://apnews.com/article/architect-frank-gehry-died-obit-guggenheim-disney-a023a30877e6e9644dd9ad8f1f4217f4</link>
-<pubDate>Fri, 05 Dec 2025 20:04:46 -0000</pubDate>
+<title><![CDATA[Hamas official says the group ready to discuss ‘freezing or storing’ its weapons]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
+<pubDate>Sun, 07 Dec 2025 17:35:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Netanyahu says Israel and Hamas will enter ceasefire’s second phase soon]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-news-12-07-2025-1dc3f566e5b8c1062c07bc8344e1286e</link>
+<pubDate>Sun, 07 Dec 2025 15:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas official says the group ready to discuss ‘freezing or storing’ its weapons]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
-<pubDate>Sun, 07 Dec 2025 17:35:36 -0000</pubDate>
+<title><![CDATA[Death toll rises to 5 after explosion outside a police station in Mexico’s Michoacán state]]></title>
+<link>https://apnews.com/article/mexico-explosion-victims-michoacan-99d550831c5fbdea0a278755dbfb4edc</link>
+<pubDate>Sun, 07 Dec 2025 18:44:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Zelenskyy ‘isn’t ready’ yet to accept US-authored proposal to end Russia-Ukraine war]]></title>
-<link>https://apnews.com/article/ukraine-russia-war-kellogg-trump-zelenskyy-cf7422dc54d0f2415d164824c9d389a3</link>
-<pubDate>Mon, 08 Dec 2025 00:53:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu says Israel and Hamas will enter ceasefire’s second phase soon]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-war-news-12-07-2025-1dc3f566e5b8c1062c07bc8344e1286e</link>
-<pubDate>Sun, 07 Dec 2025 15:56:32 -0000</pubDate>
+<title><![CDATA[Benin’s president condemns a foiled coup bid and says mutineers are ‘fleeing’]]></title>
+<link>https://apnews.com/article/benin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8</link>
+<pubDate>Sun, 07 Dec 2025 22:37:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A fire at a popular nightclub in India’s Goa state kills 25]]></title>
-<link>https://apnews.com/article/india-goa-nightclub-fire-6e3b76f55caa26dd6230e6c587aa96ad</link>
-<pubDate>Sun, 07 Dec 2025 10:38:24 -0000</pubDate>
+<title><![CDATA[Trump says Zelenskyy ‘isn’t ready’ yet to accept US-authored proposal to end Russia-Ukraine war]]></title>
+<link>https://apnews.com/article/ukraine-russia-war-kellogg-trump-zelenskyy-cf7422dc54d0f2415d164824c9d389a3</link>
+<pubDate>Mon, 08 Dec 2025 00:53:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hong Kong voter turnout rate edges up despite public anger over deadly fire]]></title>
+<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
+<pubDate>Mon, 08 Dec 2025 02:44:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French first lady Brigitte Macron visits an old friend in China: A giant panda called Yuan Meng]]></title>
-<link>https://apnews.com/article/giant-pandas-china-france-brigitte-emmanuel-macron-6d45972765572a083459ae0841d4953d</link>
-<pubDate>Fri, 05 Dec 2025 12:21:55 -0000</pubDate>
+<title><![CDATA[The first giant panda cub born in Indonesia is noisy and squirmy in zoo images]]></title>
+<link>https://apnews.com/article/indonesia-china-panda-cub-newborn-taman-safari-b78e0f1710e433c0dea06239eb9c6e50</link>
+<pubDate>Mon, 08 Dec 2025 02:29:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
