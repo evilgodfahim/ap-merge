@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Dec 2025 18:17:27 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 18:49:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Records reviewed by AP detail online monitoring, arrests in New Orleans immigration crackdown]]></title>
-<link>https://apnews.com/article/immigration-new-orleans-online-monitoring-b2c300245ea4ffbef335502245760a1d</link>
-<pubDate>Mon, 08 Dec 2025 17:25:52 -0000</pubDate>
+<title><![CDATA[Judge orders the release of an immigrant with ties to White House press secretary Karoline Leavitt]]></title>
+<link>https://apnews.com/article/karoline-leavitt-ice-immigrant-detained-50575c83c36dac62f629f396593c0bc8</link>
+<pubDate>Mon, 08 Dec 2025 18:49:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Honduran man is held without bond in North Carolina train stabbing that drew comments from Trump]]></title>
+<link>https://apnews.com/article/charlotte-train-stabbing-trump-honduras-immigration-4fa7f84b78e296a649b16684572db402</link>
+<pubDate>Mon, 08 Dec 2025 18:34:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Court clerk who helped with Alex Murdaugh’s trial pleads guilty to showing sealed exhibits]]></title>
-<link>https://apnews.com/article/becky-hill-alex-murdaugh-court-clerk-5e25491cb1dc802f9a0a8e1c0151dda8</link>
-<pubDate>Mon, 08 Dec 2025 13:57:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about changes to Disney parks’ disability policies]]></title>
-<link>https://apnews.com/article/florida-california-disney-disability-theme-parks-1034f884b7d6e38bff2e7b97e07d51d0</link>
-<pubDate>Mon, 08 Dec 2025 09:58:41 -0000</pubDate>
+<title><![CDATA[ICEBlock app maker sues Trump administration for free speech violations]]></title>
+<link>https://apnews.com/article/iceblock-app-lawsuit-bondi-trump-apple-immigration-c2e2e770d46afab2049e9c37517b3844</link>
+<pubDate>Mon, 08 Dec 2025 18:19:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
 <link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
 <pubDate>Fri, 05 Dec 2025 18:07:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-8-2025-70a0f43056a96766699cbc7b927d1671</link>
+<pubDate>Mon, 08 Dec 2025 18:49:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ryan Coogler, Chase Infiniti, Joachim Trier, Amy Madigan react to Golden Globe nominations]]></title>
+<link>https://apnews.com/article/golden-globe-nominations-2026-reactions-a5566a96e35113f82816596595062ada</link>
+<pubDate>Mon, 08 Dec 2025 18:34:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Handloom weavers of iconic Tangail saree in Bangladesh seek UNESCO heritage status for their craft]]></title>
-<link>https://apnews.com/photo-gallery/bangladesh-handloom-tangail-saree-weavers-unesco-heritage-2362ad723c5ed9f4407d93f9fd7177a6</link>
-<pubDate>Mon, 08 Dec 2025 09:28:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 3 killed, 6 wounded in explosion in western Mexican state of Michoacan]]></title>
-<link>https://apnews.com/article/mexico-michoacan-explosion-cartels-trump-e68b96b0ccf36c23c820dc0176f93644</link>
-<pubDate>Sun, 07 Dec 2025 17:29:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy meets in London with European allies on US peace plan and security]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-europe-talks-297fc6a148fdb8dce4defb31b953ce0f</link>
 <pubDate>Mon, 08 Dec 2025 17:40:53 -0000</pubDate>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tracking the retirement announcements of members of Congress]]></title>
-<link>https://apnews.com/article/house-retirements-midterms-f638d386d4d1342e3a9671642dd883f6</link>
-<pubDate>Mon, 08 Dec 2025 16:55:53 -0000</pubDate>
+<title><![CDATA[Bullets in Luigi Mangione’s bag convinced police that he was UnitedHealthcare CEO killing suspect]]></title>
+<link>https://apnews.com/article/mangione-unitedhealthcare-hearing-evidence-cb21b939cb6966c66b5b46546d75b7de</link>
+<pubDate>Mon, 08 Dec 2025 18:49:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
