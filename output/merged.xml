@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Dec 2025 08:18:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 08:50:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syria’s leader says Israel is fighting ‘ghosts’ after the Gaza war]]></title>
 <link>https://apnews.com/article/syria-israel-gaza-sharaa-doha-truce-1b18461eb49c78e351be7a86914f1a2e</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top AP photos from Ukraine in 2025 show its grief and grit in another year of war]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-2025-ukraine-war-russia-df7ef4714a79c1472e51ae67f24455bc</link>
+<pubDate>Mon, 08 Dec 2025 08:50:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukrainian women embrace combat roles as technology reshapes the battlefield]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-fpv-strikes-bombs-7047c7a91e82e6a8c5131084e9fb8d6e</link>
 <pubDate>Sat, 06 Dec 2025 06:03:40 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[As Russia’s Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes]]></title>
 <link>https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2</link>
 <pubDate>Sun, 07 Dec 2025 05:54:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Takeaways from AP’s investigation into Russia’s Africa Corps in Mali]]></title>
-<link>https://apnews.com/article/mali-wagner-africa-corps-jnim-extremism-refugees-854f1e0d2a438256f320a73c9d341245</link>
-<pubDate>Sun, 07 Dec 2025 05:39:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Takeaways from AP’s investigation into Russia’s Africa Corps in Mali]]></title>
+<link>https://apnews.com/article/mali-wagner-africa-corps-jnim-extremism-refugees-854f1e0d2a438256f320a73c9d341245</link>
+<pubDate>Sun, 07 Dec 2025 05:39:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mass shooting at a South African bar leaves 12 dead, including 3 children]]></title>
 <link>https://apnews.com/article/south-africa-bar-mass-shooting-5e41acd3f2b46c9c1dce7a53e7d68845</link>
 <pubDate>Sun, 07 Dec 2025 15:56:31 -0000</pubDate>
@@ -89,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Renewed fighting in eastern Congo threatens ‘historic’ peace deal brokered by Trump]]></title>
-<link>https://apnews.com/article/congo-rwanda-army-m23-fighting-trump-3b0570bf2445c31376fdc09175f7dd6f</link>
-<pubDate>Fri, 05 Dec 2025 13:47:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Man wounded in 2nd stabbing attack on North Carolina commuter train since August]]></title>
 <link>https://apnews.com/article/train-stabbing-charlotte-immigration-0697a3b2e8b409f062e1020898ba392c</link>
 <pubDate>Sun, 07 Dec 2025 18:29:03 -0000</pubDate>
@@ -107,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Netflix deal to buy Warner Bros. ‘could be a problem’ because of size of market share]]></title>
+<title><![CDATA[Netflix deal to buy Warner Bros. ‘could be a problem’ because of size of market share, Trump says]]></title>
 <link>https://apnews.com/article/trump-netflix-warner-bros-merger-problem-f3e317b61899d34ce507ba38af4a2934</link>
-<pubDate>Mon, 08 Dec 2025 07:26:01 -0000</pubDate>
+<pubDate>Mon, 08 Dec 2025 08:35:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas official says the group ready to discuss ‘freezing or storing’ its weapons]]></title>
+<title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
-<pubDate>Sun, 07 Dec 2025 17:35:36 -0000</pubDate>
+<pubDate>Mon, 08 Dec 2025 08:50:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
