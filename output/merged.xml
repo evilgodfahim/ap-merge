@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Dec 2025 15:40:55 GMT</lastBuildDate>
-<item>
-<title><![CDATA[The top AP photos from the Middle East in 2025: Conflict, courage, and moments of wonder]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-2025-mideast-8eb65a6b49ddfd89ecf9e967fbf6ed38</link>
-<pubDate>Mon, 08 Dec 2025 15:12:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Mon, 08 Dec 2025 16:14:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
 <pubDate>Mon, 08 Dec 2025 14:12:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrians celebrate a year after Bashar Assad’s fall, in photos]]></title>
+<link>https://apnews.com/photo-gallery/syria-anniversary-assad-fall-photos-gallery-f1158d160991e6438352cbe649fa8824</link>
+<pubDate>Mon, 08 Dec 2025 13:57:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top EU official warns the US against interfering in Europe’s affairs]]></title>
+<title><![CDATA[EU leader warns of US interference in Europe’s affairs as Russia praises Trump’s security vision]]></title>
 <link>https://apnews.com/article/europe-us-security-strategy-russia-interference-dd672c0d0b3f31378c39381ef8ea8dea</link>
-<pubDate>Mon, 08 Dec 2025 13:08:07 -0000</pubDate>
+<pubDate>Mon, 08 Dec 2025 16:14:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Murals at a housing project in Portugal highlight UN goals and build local pride]]></title>
-<link>https://apnews.com/article/portugal-murals-united-nations-sustainable-development-goals-8dc8be65e2b65881220c11deab37e2e5</link>
-<pubDate>Mon, 08 Dec 2025 14:57:34 -0000</pubDate>
+<title><![CDATA[The European Union moves ahead with toughening its migration system]]></title>
+<link>https://apnews.com/article/migration-european-union-policy-trump-5e296ce13d17fa0d7e13dc671a362b67</link>
+<pubDate>Mon, 08 Dec 2025 15:59:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand launches airstrikes along border with Cambodia as tensions reignite]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-clash-9fe1894bdae727cf624efd2e3e14d3cd</link>
+<pubDate>Mon, 08 Dec 2025 15:44:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Hong Kong voter turnout rate edges up despite public anger over deadly fire]]></title>
 <link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
 <pubDate>Mon, 08 Dec 2025 13:12:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wildfires destroy 40 homes and kill a firefighter in Australia]]></title>
-<link>https://apnews.com/article/australia-wildfires-bulahdelah-firefighter-dafe0cd42a2ed50312ae02e9fd7691a0</link>
-<pubDate>Mon, 08 Dec 2025 02:44:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Christmas celebrations return to Bethlehem after 2 years of war in Gaza]]></title>
-<link>https://apnews.com/article/bethlehem-christmas-west-bank-palestinians-jesus-b2c3824986e20be10020dfa1e1013bdb</link>
-<pubDate>Mon, 08 Dec 2025 06:19:27 -0000</pubDate>
+<title><![CDATA[Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia]]></title>
+<link>https://apnews.com/article/congo-m23-rwanda-trump-minerals-fighting-a9084c0a5c8968ca40cbdd8aced75255</link>
+<pubDate>Mon, 08 Dec 2025 15:29:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +92,6 @@
 <title><![CDATA[Benin is the latest African country to experience a coup. Here is a look at other military takeovers]]></title>
 <link>https://apnews.com/article/benin-guineabissau-coup-west-africa-military-b503dd39bc12289afe63b25faee45386</link>
 <pubDate>Sun, 07 Dec 2025 17:20:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As Russia’s Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes]]></title>
-<link>https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2</link>
-<pubDate>Sun, 07 Dec 2025 05:54:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Murals at a housing project in Portugal highlight UN goals and build local pride]]></title>
+<link>https://apnews.com/article/portugal-murals-united-nations-sustainable-development-goals-8dc8be65e2b65881220c11deab37e2e5</link>
+<pubDate>Mon, 08 Dec 2025 16:14:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Louvre workers announce strike over work conditions and security after $102M heist]]></title>
 <link>https://apnews.com/article/france-louvre-workers-strike-security-2a9c7b3cc0d2df2ee386ee224bc5263c</link>
 <pubDate>Mon, 08 Dec 2025 14:12:14 -0000</pubDate>
@@ -188,12 +188,6 @@
 <title><![CDATA[Protesting Greek farmers swarm onto apron area of international airport on Crete]]></title>
 <link>https://apnews.com/article/greece-farmers-subsidies-protest-airport-crete-db70ada19d960049354e2375b5f9ac15</link>
 <pubDate>Mon, 08 Dec 2025 14:57:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The European Union moves ahead with toughening its migration system]]></title>
-<link>https://apnews.com/article/migration-european-union-policy-trump-5e296ce13d17fa0d7e13dc671a362b67</link>
-<pubDate>Mon, 08 Dec 2025 13:27:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,12 +251,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrians celebrate a year after Bashar Assad’s fall, in photos]]></title>
-<link>https://apnews.com/photo-gallery/syria-anniversary-assad-fall-photos-gallery-f1158d160991e6438352cbe649fa8824</link>
-<pubDate>Mon, 08 Dec 2025 14:42:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[UN aid coordination agency cuts appeal for 2026 to $33B after lowest annual support in a decade]]></title>
 <link>https://apnews.com/article/un-switzerland-humanitarian-aid-ocha-funding-e764d76f3a5adcd861899a3b0be66ab3</link>
 <pubDate>Mon, 08 Dec 2025 11:06:54 -0000</pubDate>
@@ -272,6 +260,12 @@
 <title><![CDATA[Somalia’s poets keep hope alive for storytelling and for peace]]></title>
 <link>https://apnews.com/article/somalia-poetry-national-theater-mogadishu-shabab-10b56e338a1a268d05d77d2bc51f0298</link>
 <pubDate>Mon, 08 Dec 2025 10:51:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Wildfires destroy 40 homes and kill a firefighter in Australia]]></title>
+<link>https://apnews.com/article/australia-wildfires-bulahdelah-firefighter-dafe0cd42a2ed50312ae02e9fd7691a0</link>
+<pubDate>Mon, 08 Dec 2025 15:59:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As Russia’s Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes]]></title>
+<link>https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2</link>
+<pubDate>Mon, 08 Dec 2025 15:44:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Handloom weavers of iconic Tangail saree in Bangladesh seek UNESCO heritage status for their craft]]></title>
 <link>https://apnews.com/photo-gallery/bangladesh-handloom-tangail-saree-weavers-unesco-heritage-2362ad723c5ed9f4407d93f9fd7177a6</link>
 <pubDate>Mon, 08 Dec 2025 09:28:42 -0000</pubDate>
@@ -341,9 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[National Park Service drops free admission on MLK Day, Juneteenth while adding Trump’s birthday]]></title>
-<link>https://apnews.com/article/national-parks-free-trump-birthday-juneteenth-mlk-225b10728a9df22d54407ecaec1e5e5f</link>
-<pubDate>Sat, 06 Dec 2025 23:30:41 -0000</pubDate>
+<title><![CDATA[Christmas celebrations return to Bethlehem after 2 years of war in Gaza]]></title>
+<link>https://apnews.com/article/bethlehem-christmas-west-bank-palestinians-jesus-b2c3824986e20be10020dfa1e1013bdb</link>
+<pubDate>Mon, 08 Dec 2025 12:12:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[100 schoolchildren abducted in Nigeria are released but more are still held]]></title>
-<link>https://apnews.com/article/nigeria-children-abducted-26e3c2ae5619d5e79dc2f4d7e4d7147b</link>
-<pubDate>Mon, 08 Dec 2025 14:57:36 -0000</pubDate>
+<title><![CDATA[Rubio and Hegseth meet Australian counterparts with China expected to be focus]]></title>
+<link>https://apnews.com/article/us-australia-rubio-hegseth-britain-0bc425e790ad6e10020bd0ff7c897740</link>
+<pubDate>Mon, 08 Dec 2025 16:14:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand launches airstrikes along border with Cambodia as tensions reignite]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-clash-9fe1894bdae727cf624efd2e3e14d3cd</link>
-<pubDate>Mon, 08 Dec 2025 03:50:03 -0000</pubDate>
+<title><![CDATA[UN Palestinian aid agency says Israeli police ‘forcibly entered’ its Jerusalem compound]]></title>
+<link>https://apnews.com/article/mideast-israel-jerusalem-palestine-un-06318427dacdfa61c9b9990c0d088bdb</link>
+<pubDate>Mon, 08 Dec 2025 15:59:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +380,6 @@
 <title><![CDATA[Modi welcomes Russia’s Putin to India]]></title>
 <link>https://apnews.com/video/modi-welcomes-russias-putin-to-india-759b5a9108234637a950e1013322c05a</link>
 <pubDate>Fri, 05 Dec 2025 00:18:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As tensions flare on Israel-Lebanon border, war-torn communities struggle to rebuild]]></title>
-<link>https://apnews.com/article/israel-lebanon-border-hezbollah-mideast-war-744c84aa267a51e790abe1a69459cf00</link>
-<pubDate>Mon, 08 Dec 2025 06:19:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,6 +398,12 @@
 <title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
 <link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
 <pubDate>Mon, 08 Dec 2025 12:53:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top AP photos from the Middle East in 2025: Conflict, courage, and moments of wonder]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-2025-mideast-8eb65a6b49ddfd89ecf9e967fbf6ed38</link>
+<pubDate>Mon, 08 Dec 2025 15:44:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude 7.2 quake strikes off Japan’s northern coast and triggers a tsunami alert]]></title>
+<title><![CDATA[Magnitude 7.6 quake triggers a tsunami on Japan’s northern coast]]></title>
 <link>https://apnews.com/article/japan-quake-hokkaido-tusnami-alert-13b3149989918a8f860903ec48b1af92</link>
-<pubDate>Mon, 08 Dec 2025 14:27:36 -0000</pubDate>
+<pubDate>Mon, 08 Dec 2025 15:29:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia]]></title>
-<link>https://apnews.com/article/congo-m23-rwanda-trump-minerals-fighting-a9084c0a5c8968ca40cbdd8aced75255</link>
-<pubDate>Mon, 08 Dec 2025 13:57:36 -0000</pubDate>
+<title><![CDATA[100 schoolchildren abducted in Nigeria are released but more are still held]]></title>
+<link>https://apnews.com/article/nigeria-children-abducted-26e3c2ae5619d5e79dc2f4d7e4d7147b</link>
+<pubDate>Mon, 08 Dec 2025 14:57:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
