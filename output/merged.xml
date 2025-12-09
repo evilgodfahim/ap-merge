@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 19:32:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 20:11:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[WHO says 114 people were killed, including 63 children, in last week’s drone strikes in Sudan]]></title>
+<link>https://apnews.com/article/rsf-war-sudan-military-kordofan-2eadba03defdffec9e6de6f39950fbf1</link>
+<pubDate>Tue, 09 Dec 2025 20:11:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[A year after Bashar Assad fled, Syria struggles to heal]]></title>
 <link>https://apnews.com/article/syria-anniversary-assad-fall-a22746c8b8351b02d77cb62a6260c87e</link>
 <pubDate>Tue, 09 Dec 2025 17:41:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
-<link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
-<pubDate>Tue, 09 Dec 2025 00:53:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lithuania declares national emergency over security risks posed by balloons from Belarus]]></title>
-<link>https://apnews.com/article/lithuania-national-emergency-balloons-belarus-a24d39880e34e17c57fd76f799c35b33</link>
-<pubDate>Tue, 09 Dec 2025 10:13:45 -0000</pubDate>
+<title><![CDATA[French lawmakers narrowly approve health care budget, suspending Macron’s flagship pension reform]]></title>
+<link>https://apnews.com/article/france-pension-reform-suspended-health-care-budget-63eed2ffe11ecd9103f3954d8befd6b8</link>
+<pubDate>Tue, 09 Dec 2025 19:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s Zelenskyy improvises mid-flight to get his message out on a whirlwind European trip]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-audio-6193bd194ba37c0a89fac3ff0c56f024</link>
-<pubDate>Tue, 09 Dec 2025 17:11:35 -0000</pubDate>
+<title><![CDATA[Lithuania declares national emergency over security risks posed by balloons from Belarus]]></title>
+<link>https://apnews.com/article/lithuania-national-emergency-balloons-belarus-a24d39880e34e17c57fd76f799c35b33</link>
+<pubDate>Tue, 09 Dec 2025 10:13:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dozens killed in Haiti’s capital as armed men break away from gang coalition in bid for power]]></title>
-<link>https://apnews.com/article/haiti-gangs-killed-kempes-viv-ansanm-belair-b557bac153603539fa894c03463c1697</link>
-<pubDate>Tue, 09 Dec 2025 18:47:55 -0000</pubDate>
+<title><![CDATA[Brazil approves law strengthening protective measures for female victims of gender-based violence]]></title>
+<link>https://apnews.com/article/brazil-genderbased-violence-law-lula-ee5d28a8ca21013de4f1506d68c36d73</link>
+<pubDate>Tue, 09 Dec 2025 19:41:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nicaraguans celebrate Virgin Mary in Miami despite fears at home and in US]]></title>
-<link>https://apnews.com/article/nicaragua-miami-immigration-catholic-feast-virgin-mary-3c80863774a0a2b233408f48a6f56e08</link>
-<pubDate>Tue, 09 Dec 2025 12:24:29 -0000</pubDate>
+<title><![CDATA[Dozens killed in Haiti’s capital as armed men break away from gang coalition in bid for power]]></title>
+<link>https://apnews.com/article/haiti-gangs-killed-kempes-viv-ansanm-belair-b557bac153603539fa894c03463c1697</link>
+<pubDate>Tue, 09 Dec 2025 18:47:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Illinois law protects immigrants from arrest near courthouses, hospitals or colleges]]></title>
+<link>https://apnews.com/article/immigration-chicago-pritzker-courthouse-ice-arrests-643629859a5c1dc3e7b48552074f3bc4</link>
+<pubDate>Tue, 09 Dec 2025 19:26:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Arrests of Afghans increase as ICE steps up enforcement, immigration lawyers say]]></title>
 <link>https://apnews.com/article/afghans-ice-immigration-b4f5f1563f04fed7f85af2070efea12d</link>
 <pubDate>Tue, 09 Dec 2025 14:43:21 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Trump’s attacks on Minnesota’s Somali community cast a spotlight on fraud cases]]></title>
 <link>https://apnews.com/article/trump-immigration-fraud-somalis-minnesota-walz-omar-64bfe699cc409f3f1ff6aa49b9210996</link>
 <pubDate>Tue, 09 Dec 2025 10:52:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Storm systems bring heavy rain to the Pacific Northwest and a wintry mix to the Upper Midwest]]></title>
-<link>https://apnews.com/article/atmospheric-river-pacific-northwest-8eb0a0bbfa34a5b542c727fefed668a4</link>
-<pubDate>Tue, 09 Dec 2025 18:17:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,24 @@
 <title><![CDATA[India withdraws pilot restrictions after largest airline cancels flights and disrupts airports]]></title>
 <link>https://apnews.com/article/india-indigo-airlines-flights-canceled-airports-39aa7d2ebc5bae7a0e5b4352f130b5e3</link>
 <pubDate>Fri, 05 Dec 2025 11:42:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-9-2025-130e124ab829affe24ce891fcd612955</link>
+<pubDate>Tue, 09 Dec 2025 20:11:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Two of Trump’s peace deals at risk as fighting surges in Congo and at Cambodia-Thailand border]]></title>
+<link>https://apnews.com/article/trump-rwanda-congo-thailand-cambodia-peace-deals-8d4088ca78c1843812d517bec9aa9f5a</link>
+<pubDate>Tue, 09 Dec 2025 19:56:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Congressional lawmakers hear from Navy admiral overseeing boat strikes]]></title>
+<link>https://apnews.com/article/boat-strikes-pete-hegseth-venezuela-9f46a5f074b5b3c979ee41082949b196</link>
+<pubDate>Tue, 09 Dec 2025 19:41:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,9 +239,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN agency reports rise in violence against women journalists and activists linked to online abuse]]></title>
+<title><![CDATA[New report shows rise in violence against women journalists and activists linked to digital abuse]]></title>
 <link>https://apnews.com/article/un-women-report-rise-violence-online-66c38bb80b79d64be18b477f209c2db0</link>
-<pubDate>Tue, 09 Dec 2025 12:54:29 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 19:26:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nicaraguans celebrate Virgin Mary in Miami despite fears at home and in US]]></title>
+<link>https://apnews.com/article/nicaragua-miami-immigration-catholic-feast-virgin-mary-3c80863774a0a2b233408f48a6f56e08</link>
+<pubDate>Tue, 09 Dec 2025 19:11:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,30 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican National Guardsman kills 3 fellow service members in Michoacan state]]></title>
-<link>https://apnews.com/article/mexico-michoacan-sheinbaum-cartels-national-guard-658f66bdfeaca66269b303e7d0f15252</link>
-<pubDate>Tue, 09 Dec 2025 10:52:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Clashes at a notorious Ecuadorian prison kill 13 inmates as government grapples with drug violence]]></title>
-<link>https://apnews.com/article/ecuador-prison-clashes-inmates-killed-d68975c31a4b291f91dc795ff814633b</link>
-<pubDate>Tue, 09 Dec 2025 00:53:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[16,000 fossil footprints in central Bolivia reveal dinosaur behavior]]></title>
-<link>https://apnews.com/article/dinosaur-tracks-footprints-bolivia-toro-toro-tyrannosaurus-rex-theropods-e2d3b2b5867b9a2ea4f9c86d6302a3f7</link>
-<pubDate>Tue, 09 Dec 2025 03:30:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says survivors of scrutinized US strike were trying to right boat before 2nd missile was fired]]></title>
-<link>https://apnews.com/article/trump-strike-video-footage-boat-caribbean-3cf2ca9cbe4523978e935b99c2979caa</link>
-<pubDate>Tue, 09 Dec 2025 15:00:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Communities of slave descendants in Brazil demand recognition of territories]]></title>
 <link>https://apnews.com/article/climate-brazil-slave-descendants-quilombos-cop30-ff980cc36dcd8f120eb1799c7fbf9aa0</link>
 <pubDate>Tue, 09 Dec 2025 16:15:01 -0000</pubDate>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of a Beirut woman’s rooftop sanctuary for pigeons]]></title>
+<link>https://apnews.com/photo-gallery/pigeons-beirut-photo-gallery-lebanon-c6acb6dbf75a7a2a05d0dc52a0f33ac3</link>
+<pubDate>Tue, 09 Dec 2025 20:11:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As tensions flare on Israel-Lebanon border, war-torn communities struggle to rebuild]]></title>
 <link>https://apnews.com/article/israel-lebanon-border-hezbollah-mideast-war-744c84aa267a51e790abe1a69459cf00</link>
 <pubDate>Mon, 08 Dec 2025 06:19:29 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[UAE-backed separatists tighten grip over southern Yemen, and airspace is briefly closed]]></title>
 <link>https://apnews.com/article/yemen-civil-war-saudi-arabia-uae-d29e9a9d3cb60c8c1b009bfcbe1c28c0</link>
 <pubDate>Mon, 08 Dec 2025 17:25:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[WHO says 114 people were killed, including 63 children, in last week’s drone strikes in Sudan]]></title>
-<link>https://apnews.com/article/rsf-war-sudan-military-kordofan-2eadba03defdffec9e6de6f39950fbf1</link>
-<pubDate>Mon, 08 Dec 2025 13:08:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indigenous artifacts returned by the Vatican to be displayed in Canada]]></title>
+<title><![CDATA[Indigenous artifacts returned by the Vatican are now at a Canadian museum]]></title>
 <link>https://apnews.com/article/indigenous-artifacts-canada-vatican-5b27dc0bb09a6a29aca8e86995334a2e</link>
-<pubDate>Tue, 09 Dec 2025 15:45:01 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 19:56:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top AP photos from the Middle East in 2025: Conflict, courage, and moments of wonder]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-2025-mideast-8eb65a6b49ddfd89ecf9e967fbf6ed38</link>
-<pubDate>Mon, 08 Dec 2025 15:44:46 -0000</pubDate>
+<title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
+<link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
+<pubDate>Mon, 08 Dec 2025 12:53:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
