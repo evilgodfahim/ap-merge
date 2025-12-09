@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 14:45:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 15:13:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
 <link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
@@ -41,15 +41,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
+<link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
+<pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[IMF approves $1.2 billion for Pakistan from bailout, citing progress on economic and climate reforms]]></title>
 <link>https://apnews.com/article/pakistan-imf-approves-key-installment-bailout-54d10f9462db9df33e2094cb21953cd5</link>
 <pubDate>Tue, 09 Dec 2025 09:43:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Japan has issued an advisory for a possible megaquake in the country’s north]]></title>
-<link>https://apnews.com/article/japan-megaquake-tsunami-fukushima-damage-4cd547787233e6ca42953d83697d523d</link>
-<pubDate>Tue, 09 Dec 2025 12:39:29 -0000</pubDate>
+<title><![CDATA[Indigenous artifacts returned by the Vatican to be displayed in Canada]]></title>
+<link>https://apnews.com/article/indigenous-artifacts-canada-vatican-5b27dc0bb09a6a29aca8e86995334a2e</link>
+<pubDate>Tue, 09 Dec 2025 14:58:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Honduras is still waiting for the final presidential election count, over a week after the vote]]></title>
 <link>https://apnews.com/article/honduras-election-delayed-vote-count-08a21448e663597b5914b96dd7050c80</link>
 <pubDate>Tue, 09 Dec 2025 00:23:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dominican court orders new trial for Tampa Bay Rays’ Wander Franco in sexual abuse case]]></title>
-<link>https://apnews.com/article/dominican-republic-wander-franco-sexual-abuse-case-cdc5f2479e6b3e1b5a4bc00323e3be7c</link>
-<pubDate>Tue, 09 Dec 2025 14:13:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Arrests of Afghans increase as ICE steps up enforcement, immigration lawyers say]]></title>
+<link>https://apnews.com/article/afghans-ice-immigration-b4f5f1563f04fed7f85af2070efea12d</link>
+<pubDate>Tue, 09 Dec 2025 14:43:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s attacks on Minnesota’s Somali community cast a spotlight on fraud cases]]></title>
 <link>https://apnews.com/article/trump-immigration-fraud-somalis-minnesota-walz-omar-64bfe699cc409f3f1ff6aa49b9210996</link>
 <pubDate>Tue, 09 Dec 2025 10:52:09 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[A Democrat takes on a Trump-backed candidate for Miami mayor in a key Hispanic battleground]]></title>
 <link>https://apnews.com/article/miami-mayor-trump-higgins-gonzalez-f0d8c55a4b97962ac1348c5a93295465</link>
 <pubDate>Tue, 09 Dec 2025 13:43:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How a rare drug made from scientists’ blood saves babies from botulism]]></title>
-<link>https://apnews.com/article/infant-botulism-babybig-byheart-cd5f396324e5d636ed3fae805955acbe</link>
-<pubDate>Tue, 09 Dec 2025 13:28:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Britain’s MI5 suppressed truth about spy within the IRA accused of killings, report finds]]></title>
+<link>https://apnews.com/article/britain-ira-spy-stakeknife-report-9cd58b80f34088e9ada7a27cb863a01f</link>
+<pubDate>Tue, 09 Dec 2025 15:13:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How to watch one of the year’s best meteor showers, the Geminids]]></title>
 <link>https://apnews.com/article/geminid-meteor-shower-shooting-stars-711201b33a768bc4b1337d297ded0da9</link>
 <pubDate>Tue, 09 Dec 2025 14:13:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dominican court orders new trial for Tampa Bay Rays’ Wander Franco in sexual abuse case]]></title>
+<link>https://apnews.com/article/dominican-republic-wander-franco-sexual-abuse-case-cdc5f2479e6b3e1b5a4bc00323e3be7c</link>
+<pubDate>Tue, 09 Dec 2025 14:58:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +200,12 @@
 <title><![CDATA[UN agency reports rise in violence against women journalists and activists linked to online abuse]]></title>
 <link>https://apnews.com/article/un-women-report-rise-violence-online-66c38bb80b79d64be18b477f209c2db0</link>
 <pubDate>Tue, 09 Dec 2025 12:54:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why Japan has issued an advisory for a possible megaquake in the country’s north]]></title>
+<link>https://apnews.com/article/japan-megaquake-tsunami-fukushima-damage-4cd547787233e6ca42953d83697d523d</link>
+<pubDate>Tue, 09 Dec 2025 11:37:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia]]></title>
-<link>https://apnews.com/article/congo-m23-rwanda-trump-minerals-fighting-a9084c0a5c8968ca40cbdd8aced75255</link>
-<pubDate>Tue, 09 Dec 2025 09:43:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Louvre workers announce strike over work conditions and security after $102M heist]]></title>
-<link>https://apnews.com/article/france-louvre-workers-strike-security-2a9c7b3cc0d2df2ee386ee224bc5263c</link>
-<pubDate>Mon, 08 Dec 2025 14:12:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Full list of 2026 Golden Globe nominees]]></title>
-<link>https://apnews.com/article/golden-globe-nominations-2026-list-65c95e011bcab7e7b568114bde38cb49</link>
-<pubDate>Mon, 08 Dec 2025 15:12:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy reaffirms his refusal to cede land to Russia as he rallies European support]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-cf17d925e21e6d6329fadff7e3efbb90</link>
 <pubDate>Tue, 09 Dec 2025 14:13:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli army takes journalists into a tunnel in a Gaza city it seized and largely flattened]]></title>
+<link>https://apnews.com/article/gaza-palestinians-israel-war-rafah-4e0f2114fb9641986c6491dd78695c46</link>
+<pubDate>Tue, 09 Dec 2025 15:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street ticks modestly higher as markets await the Fed’s last interest rate call of 2025]]></title>
+<title><![CDATA[Wall Street treads water ahead of the Federal Reserve’s coming decision]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-china-trump-nvidia-0307c321ea261ac360293d5e48569d1e</link>
-<pubDate>Tue, 09 Dec 2025 12:39:30 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 14:58:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeover bid of parent company means limbo for CNN, some fellow cable networks]]></title>
+<title><![CDATA[Takeover bid of parent company means limbo for CNN and some fellow cable networks]]></title>
 <link>https://apnews.com/article/cnn-warner-bros-paramount-netflix-ellison-14124eaeaadd13d31323ea3fb5312793</link>
-<pubDate>Tue, 09 Dec 2025 04:48:18 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 14:43:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
-<pubDate>Mon, 08 Dec 2025 08:50:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[International court sentences Sudanese militia leader to 20 years in prison for Darfur atrocities]]></title>
 <link>https://apnews.com/article/international-court-darfur-sentencing-abd-al-rahman-ab33a21572ac1a5c2d0ec4ee8547b57e</link>
 <pubDate>Tue, 09 Dec 2025 09:28:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arrests of Afghans increase as ICE steps up enforcement, immigration lawyers say]]></title>
-<link>https://apnews.com/article/afghans-ice-immigration-b4f5f1563f04fed7f85af2070efea12d</link>
-<pubDate>Tue, 09 Dec 2025 12:24:30 -0000</pubDate>
+<title><![CDATA[Justice Department can unseal Ghislaine Maxwell sex trafficking case records, judge says]]></title>
+<link>https://apnews.com/article/epstein-maxwell-sex-trafficking-case-records-8e3985dd977cb94ef41b9581115ef61b</link>
+<pubDate>Tue, 09 Dec 2025 14:28:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
