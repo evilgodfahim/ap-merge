@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 12:22:21 GMT</lastBuildDate>
-<item>
-<title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
-<link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
-<pubDate>Tue, 09 Dec 2025 00:53:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 09 Dec 2025 13:09:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The top AP photos from the Middle East in 2025: Conflict, courage, and moments of wonder]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-2025-mideast-8eb65a6b49ddfd89ecf9e967fbf6ed38</link>
 <pubDate>Mon, 08 Dec 2025 15:12:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
+<pubDate>Mon, 08 Dec 2025 14:12:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,21 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Czech populist billionaire Andrej Babiš sworn in as new prime minister]]></title>
+<title><![CDATA[Czech populist billionaire Babiš sworn in as prime minister]]></title>
 <link>https://apnews.com/article/czech-babis-new-prime-minister-e4b5630dbc9cd761d7f4cda451626b8d</link>
-<pubDate>Tue, 09 Dec 2025 09:58:45 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 13:09:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Where things stand in the peace talks on the Ukraine war]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-253ff2eb24b2dbd1b1b9d8a2ab20e913</link>
-<pubDate>Mon, 08 Dec 2025 13:42:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cambodia vows fierce fight against Thailand in escalating border conflict]]></title>
-<link>https://apnews.com/article/thailand-cambodia-combat-border-dispute-142145d84a217ad6c6f208769c447615</link>
-<pubDate>Tue, 09 Dec 2025 11:37:09 -0000</pubDate>
+<title><![CDATA[German leader says US strategy shows the need for more European security independence]]></title>
+<link>https://apnews.com/article/germany-merz-us-security-strategy-europe-11a5042d7f7cdb39f8fa020b83aead55</link>
+<pubDate>Tue, 09 Dec 2025 12:54:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,6 +44,12 @@
 <title><![CDATA[IMF approves $1.2 billion for Pakistan from bailout, citing progress on economic and climate reforms]]></title>
 <link>https://apnews.com/article/pakistan-imf-approves-key-installment-bailout-54d10f9462db9df33e2094cb21953cd5</link>
 <pubDate>Tue, 09 Dec 2025 09:43:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why Japan has issued an advisory for a possible megaquake in the country’s north]]></title>
+<link>https://apnews.com/article/japan-megaquake-tsunami-fukushima-damage-4cd547787233e6ca42953d83697d523d</link>
+<pubDate>Tue, 09 Dec 2025 12:39:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrians celebrate a year after Bashar Assad’s fall, in photos]]></title>
-<link>https://apnews.com/photo-gallery/syria-anniversary-assad-fall-photos-gallery-f1158d160991e6438352cbe649fa8824</link>
-<pubDate>Mon, 08 Dec 2025 13:57:13 -0000</pubDate>
+<title><![CDATA[UN says world must jointly tackle issues of climate change, pollution, biodiversity and land loss]]></title>
+<link>https://apnews.com/article/un-environment-report-climate-crises-584715f6fd7ed32a8cf993120ef2a8aa</link>
+<pubDate>Tue, 09 Dec 2025 09:13:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[100 schoolchildren abducted in Nigeria are released but more are still held]]></title>
+<link>https://apnews.com/article/nigeria-children-abducted-26e3c2ae5619d5e79dc2f4d7e4d7147b</link>
+<pubDate>Tue, 09 Dec 2025 08:58:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,39 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why some African countries are prone to military takeovers]]></title>
-<link>https://apnews.com/article/africa-coups-explainer-7c92582625dbd0333fb878a9d04ccca8</link>
-<pubDate>Mon, 08 Dec 2025 20:12:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Benin government says short-lived coup left casualties on both sides]]></title>
-<link>https://apnews.com/article/africa-benin-coup-soldiers-military-nigeria-83aeb86128bf1e054e0e75110aaeced3</link>
-<pubDate>Mon, 08 Dec 2025 21:34:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump’s attacks on Minnesota’s Somali community cast a spotlight on fraud cases]]></title>
 <link>https://apnews.com/article/trump-immigration-fraud-somalis-minnesota-walz-omar-64bfe699cc409f3f1ff6aa49b9210996</link>
 <pubDate>Tue, 09 Dec 2025 10:52:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nicaraguans celebrate Virgin Mary in Miami despite fears at home and in US]]></title>
+<link>https://apnews.com/article/nicaragua-miami-immigration-catholic-feast-virgin-mary-3c80863774a0a2b233408f48a6f56e08</link>
+<pubDate>Tue, 09 Dec 2025 12:24:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Man who says religious group beat him wants prosecutor removed after long wait for retrial]]></title>
+<link>https://apnews.com/article/word-of-faith-trial-abuse-1f7e65d83d7db7f0aa4b9d434834a77d</link>
+<pubDate>Tue, 09 Dec 2025 12:09:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Democrat takes on Trump-backed candidate for Miami mayor in a key Hispanic battleground]]></title>
 <link>https://apnews.com/article/miami-mayor-trump-higgins-gonzalez-f0d8c55a4b97962ac1348c5a93295465</link>
 <pubDate>Tue, 09 Dec 2025 10:37:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Honduran man is held without bond in North Carolina train stabbing that drew comments from Trump]]></title>
-<link>https://apnews.com/article/charlotte-train-stabbing-trump-honduras-immigration-4fa7f84b78e296a649b16684572db402</link>
-<pubDate>Mon, 08 Dec 2025 18:34:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Florida to execute man convicted in 1989 home invasion killing]]></title>
-<link>https://apnews.com/article/florida-execution-mark-geralds-tressa-pettibone-fe990d97a3d51d03c2354f21cd555379</link>
-<pubDate>Tue, 09 Dec 2025 10:22:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Japan has issued an advisory for a possible megaquake in the country’s north]]></title>
-<link>https://apnews.com/article/japan-megaquake-tsunami-fukushima-damage-4cd547787233e6ca42953d83697d523d</link>
-<pubDate>Tue, 09 Dec 2025 11:37:10 -0000</pubDate>
+<title><![CDATA[Nepal charges 55 people and a Chinese company with alleged inflation of airport costs by $74M]]></title>
+<link>https://apnews.com/article/nepal-china-corruption-airport-c112cb659a00efd348ea270f97f1e861</link>
+<pubDate>Tue, 09 Dec 2025 13:09:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A fire in an office building in Indonesia’s capital kills at least 22 people]]></title>
-<link>https://apnews.com/article/office-building-jakarta-indonesia-deadly-fire-fa998b4135754fdcd58f1b1364a0776a</link>
-<pubDate>Tue, 09 Dec 2025 11:22:10 -0000</pubDate>
+<title><![CDATA[UN agency reports rise in violence against women journalists and activists linked to online abuse]]></title>
+<link>https://apnews.com/article/un-women-report-rise-violence-online-66c38bb80b79d64be18b477f209c2db0</link>
+<pubDate>Tue, 09 Dec 2025 12:54:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -212,6 +206,12 @@
 <title><![CDATA[Beijing court orders Malaysia Airlines to pay damages to families of MH370 victims]]></title>
 <link>https://apnews.com/article/mh370-china-lawsuit-malaysia-airline-22145b6ac7efa5c21f04fa01308883a8</link>
 <pubDate>Tue, 09 Dec 2025 10:13:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan assesses damage from 7.5 magnitude quake that injured 34]]></title>
+<link>https://apnews.com/article/japan-quake-hokkaido-tusnami-493c395f288ff2dc4296db4e7539e5a8</link>
+<pubDate>Tue, 09 Dec 2025 12:39:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -248,6 +248,12 @@
 <title><![CDATA[Judge wants whistleblower to testify in contempt probe of Trump official over planes to El Salvador]]></title>
 <link>https://apnews.com/article/trump-planes-contempt-boasberg-el-salvador-4a90dd489e2dbe1b0852cb4c70b5343b</link>
 <pubDate>Tue, 09 Dec 2025 00:23:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why some African countries are prone to military takeovers]]></title>
+<link>https://apnews.com/article/africa-coups-explainer-7c92582625dbd0333fb878a9d04ccca8</link>
+<pubDate>Tue, 09 Dec 2025 09:58:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bloomberg expands his support of mayors globally to help save democracy. And improve trash pickup]]></title>
-<link>https://apnews.com/article/bloomberg-leadership-mayors-elevate-cities-miami-6f22fed0d1cab672b4abc6c46c626c16</link>
-<pubDate>Mon, 08 Dec 2025 12:57:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The new fighting between Thailand and Cambodia is rooted in old enmity]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-army-ceasefire-fighting-1b6b2f41e5a6d8b7a0ee0963a81006e0</link>
-<pubDate>Tue, 09 Dec 2025 10:37:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy refuses to cede land to Russia as he rallies European support]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-cf17d925e21e6d6329fadff7e3efbb90</link>
 <pubDate>Tue, 09 Dec 2025 10:13:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas says next phase of Gaza ceasefire will be impossible without more pressure on Israel]]></title>
+<link>https://apnews.com/article/israel-palestinians-gaza-ceasefire-f0d1b03f7be9c0358325b5e506f3ed8e</link>
+<pubDate>Tue, 09 Dec 2025 13:09:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[International court sentences Sudanese militia leader to 20 years in prison for Darfur atrocities]]></title>
-<link>https://apnews.com/article/international-court-darfur-sentencing-abd-al-rahman-ab33a21572ac1a5c2d0ec4ee8547b57e</link>
-<pubDate>Tue, 09 Dec 2025 09:28:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN says world must jointly tackle issues of climate change, pollution, biodiversity and land loss]]></title>
-<link>https://apnews.com/article/un-environment-report-climate-crises-584715f6fd7ed32a8cf993120ef2a8aa</link>
-<pubDate>Tue, 09 Dec 2025 11:37:11 -0000</pubDate>
+<title><![CDATA[At least 22 people killed in office building fire in Indonesia’s capital]]></title>
+<link>https://apnews.com/article/office-building-jakarta-indonesia-deadly-fire-fa998b4135754fdcd58f1b1364a0776a</link>
+<pubDate>Tue, 09 Dec 2025 12:54:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -386,12 +380,6 @@
 <title><![CDATA[As sea drones force Russia to retreat, Ukraine examines ways to launch more complex attacks]]></title>
 <link>https://apnews.com/video/as-sea-drones-force-russia-to-retreat-ukraine-examines-ways-to-launch-more-complex-attacks-10e34f84a3f94814bd1f8676d133ad8c</link>
 <pubDate>Tue, 09 Dec 2025 00:23:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As tensions flare on Israel-Lebanon border, war-torn communities struggle to rebuild]]></title>
-<link>https://apnews.com/article/israel-lebanon-border-hezbollah-mideast-war-744c84aa267a51e790abe1a69459cf00</link>
-<pubDate>Mon, 08 Dec 2025 06:19:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,15 +401,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
+<link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
+<pubDate>Mon, 08 Dec 2025 12:53:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump approves sale of more advanced Nvidia computer chips used in AI to China]]></title>
 <link>https://apnews.com/article/trump-nvidia-china-advanced-chip-4c27557998c21e088a91a067a76b6b8a</link>
 <pubDate>Tue, 09 Dec 2025 05:33:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mixed after Wall Street pulls back from its record heights]]></title>
+<title><![CDATA[Wall Street ticks modestly higher as markets await the Fed’s last interest rate call of 2025]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-china-trump-nvidia-0307c321ea261ac360293d5e48569d1e</link>
-<pubDate>Tue, 09 Dec 2025 09:43:46 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 12:39:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan assesses damage from 7.5 magnitude quake that injured 33]]></title>
-<link>https://apnews.com/article/japan-quake-hokkaido-tusnami-493c395f288ff2dc4296db4e7539e5a8</link>
-<pubDate>Tue, 09 Dec 2025 04:45:50 -0000</pubDate>
+<title><![CDATA[Cambodia vows fierce fight against Thailand in escalating border conflict]]></title>
+<link>https://apnews.com/article/thailand-cambodia-combat-border-dispute-142145d84a217ad6c6f208769c447615</link>
+<pubDate>Tue, 09 Dec 2025 06:03:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,21 +449,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas is ready to discuss freezing or storing its weapons, senior official says]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-ceasefire-trump-290b57fb5ae4bec39995129415aba706</link>
-<pubDate>Mon, 08 Dec 2025 08:50:39 -0000</pubDate>
+<title><![CDATA[Syrians celebrate a year after Bashar Assad’s fall, in photos]]></title>
+<link>https://apnews.com/photo-gallery/syria-anniversary-assad-fall-photos-gallery-f1158d160991e6438352cbe649fa8824</link>
+<pubDate>Mon, 08 Dec 2025 06:56:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[100 schoolchildren abducted in Nigeria are released but more are still held]]></title>
-<link>https://apnews.com/article/nigeria-children-abducted-26e3c2ae5619d5e79dc2f4d7e4d7147b</link>
-<pubDate>Mon, 08 Dec 2025 14:57:36 -0000</pubDate>
+<title><![CDATA[International court sentences Sudanese militia leader to 20 years in prison for Darfur atrocities]]></title>
+<link>https://apnews.com/article/international-court-darfur-sentencing-abd-al-rahman-ab33a21572ac1a5c2d0ec4ee8547b57e</link>
+<pubDate>Tue, 09 Dec 2025 09:28:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICE arrests of Afghans are on the rise in the wake of National Guard attack, immigration lawyers say]]></title>
+<title><![CDATA[Arrests of Afghans increase as ICE steps up enforcement, immigration lawyers say]]></title>
 <link>https://apnews.com/article/afghans-ice-immigration-b4f5f1563f04fed7f85af2070efea12d</link>
-<pubDate>Tue, 09 Dec 2025 04:03:18 -0000</pubDate>
+<pubDate>Tue, 09 Dec 2025 12:24:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
