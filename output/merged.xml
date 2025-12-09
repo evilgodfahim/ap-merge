@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 08:16:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 08:49:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A second flight of Iranian deportees, carrying 55, has left the US, Iran says]]></title>
 <link>https://apnews.com/article/iran-us-immigration-flights-deportation-de2468b08b1eae0bcb97d7da89c28467</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[The top AP photos from the Middle East in 2025: Conflict, courage, and moments of wonder]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-2025-mideast-8eb65a6b49ddfd89ecf9e967fbf6ed38</link>
 <pubDate>Mon, 08 Dec 2025 15:12:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy meets in London with European allies on the US peace plan and Ukrainian security]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-europe-talks-297fc6a148fdb8dce4defb31b953ce0f</link>
+<pubDate>Tue, 09 Dec 2025 08:49:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The European Union moves ahead with toughening its migration system]]></title>
-<link>https://apnews.com/article/migration-european-union-policy-trump-5e296ce13d17fa0d7e13dc671a362b67</link>
-<pubDate>Mon, 08 Dec 2025 15:59:45 -0000</pubDate>
+<title><![CDATA[The new fighting between Thailand and Cambodia is rooted in old enmity]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-army-ceasefire-fighting-1b6b2f41e5a6d8b7a0ee0963a81006e0</link>
+<pubDate>Tue, 09 Dec 2025 08:34:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Beijing court orders Malaysia Airlines to pay damages to families of MH370 victims]]></title>
 <link>https://apnews.com/article/mh370-china-lawsuit-malaysia-airline-22145b6ac7efa5c21f04fa01308883a8</link>
 <pubDate>Tue, 09 Dec 2025 06:18:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio and Hegseth discuss Indo-Pacific security with Australian counterparts]]></title>
-<link>https://apnews.com/article/us-australia-rubio-hegseth-britain-0bc425e790ad6e10020bd0ff7c897740</link>
-<pubDate>Tue, 09 Dec 2025 00:38:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tanzania police patrol streets on national holiday ahead of planned protests over October election]]></title>
+<link>https://apnews.com/article/tanzania-protests-election-independence-day-204bd3dfe4d5a59ec75158685b777808</link>
+<pubDate>Tue, 09 Dec 2025 08:19:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Benin government says short-lived coup left casualties on both sides]]></title>
 <link>https://apnews.com/article/africa-benin-coup-soldiers-military-nigeria-83aeb86128bf1e054e0e75110aaeced3</link>
 <pubDate>Mon, 08 Dec 2025 21:34:39 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Why some African countries are prone to military takeovers]]></title>
 <link>https://apnews.com/article/africa-coups-explainer-7c92582625dbd0333fb878a9d04ccca8</link>
 <pubDate>Mon, 08 Dec 2025 20:12:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ivory Coast’s incumbent leader Ouattara is sworn in for a fourth term]]></title>
-<link>https://apnews.com/article/ouattara-election-ivory-coast-president-inauguration-15e4bed53f8688a834b0997361797dba</link>
-<pubDate>Mon, 08 Dec 2025 14:12:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rubio and Hegseth discuss Indo-Pacific security with Australian counterparts]]></title>
+<link>https://apnews.com/article/us-australia-rubio-hegseth-britain-0bc425e790ad6e10020bd0ff7c897740</link>
+<pubDate>Tue, 09 Dec 2025 00:38:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump is giving farmers $12B in aid. They’ve been hit hard by his trade war with China]]></title>
 <link>https://apnews.com/article/trump-farmers-aid-07328f260d1ebf26c2bfde79b426230e</link>
 <pubDate>Mon, 08 Dec 2025 22:25:34 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[The first giant panda cub born in Indonesia squeals and squirms in park video]]></title>
 <link>https://apnews.com/article/indonesia-china-panda-cub-newborn-taman-safari-b78e0f1710e433c0dea06239eb9c6e50</link>
 <pubDate>Mon, 08 Dec 2025 13:42:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong voter turnout rate edges up despite public anger over deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-election-legislature-apartment-fire-83c0301e55457e83b0dd8871bd43dcd8</link>
-<pubDate>Mon, 08 Dec 2025 13:12:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,18 @@
 <title><![CDATA[Putin and Modi hold talks and announce expansion of Russia-India trade ties]]></title>
 <link>https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79</link>
 <pubDate>Fri, 05 Dec 2025 18:07:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Holiday ornaments decorate life all year long in this Belgian shop]]></title>
+<link>https://apnews.com/article/christmas-holiday-ornaments-belgium-ad8b9c6a4d1f6b4d9753b80ddc1403ef</link>
+<pubDate>Tue, 09 Dec 2025 08:49:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[From devotion to rebellion, AP photos recorded Asia’s many tones in 2025]]></title>
+<link>https://apnews.com/photo-gallery/asia-top-ap-photos-of-2025-d893b11e97890344c6c38533f1c71714</link>
+<pubDate>Tue, 09 Dec 2025 08:34:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ivory Coast’s incumbent leader Ouattara is sworn in for a fourth term]]></title>
+<link>https://apnews.com/article/ouattara-election-ivory-coast-president-inauguration-15e4bed53f8688a834b0997361797dba</link>
+<pubDate>Tue, 09 Dec 2025 08:19:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Louvre workers announce strike over work conditions and security after $102M heist]]></title>
 <link>https://apnews.com/article/france-louvre-workers-strike-security-2a9c7b3cc0d2df2ee386ee224bc5263c</link>
 <pubDate>Mon, 08 Dec 2025 14:12:14 -0000</pubDate>
@@ -278,6 +296,12 @@
 <title><![CDATA[Protesting Greek farmers swarm onto airport tarmac in Crete, forcing halt to flights]]></title>
 <link>https://apnews.com/article/greece-farmers-subsidies-protest-airport-crete-db70ada19d960049354e2375b5f9ac15</link>
 <pubDate>Tue, 09 Dec 2025 02:27:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The European Union moves ahead with toughening its migration system]]></title>
+<link>https://apnews.com/article/migration-european-union-policy-trump-5e296ce13d17fa0d7e13dc671a362b67</link>
+<pubDate>Mon, 08 Dec 2025 13:27:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,27 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkish police officer dies from gunshot wounds suffered in Istanbul drug raid]]></title>
-<link>https://apnews.com/article/police-officer-killed-drug-raid-istanbul-d1393967220668cf6fdb65a09749a0fe</link>
-<pubDate>Mon, 08 Dec 2025 09:43:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The UN aid coordination agency cuts its funding appeal after Western support plunges]]></title>
-<link>https://apnews.com/article/un-switzerland-humanitarian-aid-ocha-funding-e764d76f3a5adcd861899a3b0be66ab3</link>
-<pubDate>Tue, 09 Dec 2025 02:12:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street pulls back from its record heights]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-fed-china-2ade718b1fb76607f59d22133b86efbd</link>
-<pubDate>Tue, 09 Dec 2025 06:03:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump’s ceasefire plan for the Israel-Hamas war faces pitfalls as it moves into a new phase]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinian-authority-trump-hamas-734dd0eb3ee662b2e3c6689a7c35f767</link>
 <pubDate>Tue, 09 Dec 2025 06:18:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lithuania declares national emergency over security risks posed by balloons from Belarus]]></title>
+<link>https://apnews.com/article/lithuania-national-emergency-balloons-belarus-a24d39880e34e17c57fd76f799c35b33</link>
+<pubDate>Tue, 09 Dec 2025 08:49:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy meets in London with European allies on the US peace plan and Ukrainian security]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-europe-talks-297fc6a148fdb8dce4defb31b953ce0f</link>
-<pubDate>Mon, 08 Dec 2025 20:12:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The new fighting between Thailand and Cambodia is rooted in old enmity]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-army-ceasefire-fighting-1b6b2f41e5a6d8b7a0ee0963a81006e0</link>
-<pubDate>Tue, 09 Dec 2025 02:42:38 -0000</pubDate>
+<title><![CDATA[IMF approves $1.2 billion for Pakistan from bailout, citing progress on economic and climate reforms]]></title>
+<link>https://apnews.com/article/pakistan-imf-approves-key-installment-bailout-54d10f9462db9df33e2094cb21953cd5</link>
+<pubDate>Tue, 09 Dec 2025 08:34:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
