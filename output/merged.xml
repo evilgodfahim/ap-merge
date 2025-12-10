@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 10 Dec 2025 22:11:47 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Attack by gunmen kills 3 members of Revolutionary Guard in southeast Iran]]></title>
-<link>https://apnews.com/article/iran-attack-revolutionary-guard-20ffc6a4c61190b989097eb9dcbecfbd</link>
-<pubDate>Wed, 10 Dec 2025 12:39:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 10 Dec 2025 22:41:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A year after Assad’s fall in Syria, Alawite women face kidnappings and rape]]></title>
 <link>https://apnews.com/article/syria-alawite-women-kidnapped-militants-extremists-rape-a469660022301de378d1fa130467bec0</link>
 <pubDate>Wed, 10 Dec 2025 15:14:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sudanese military plane crashes and kills all crew members in Port Sudan]]></title>
+<link>https://apnews.com/article/sudan-war-miliary-rsf-plane-crash-65a1a66246dda4ac84c30ddabdc599ee</link>
+<pubDate>Wed, 10 Dec 2025 13:09:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italian cooking and its rituals get UN designation as world heritage]]></title>
-<link>https://apnews.com/article/italy-cooking-unesco-heritage-50a5c05d481fe63dc893d005e0594898</link>
-<pubDate>Wed, 10 Dec 2025 10:52:08 -0000</pubDate>
+<title><![CDATA[Tens of thousands join anti-government protests across Bulgaria]]></title>
+<link>https://apnews.com/article/bulgaria-government-protest-corruption-a3ff3cde1b50e6b1519103dd513ac4ee</link>
+<pubDate>Wed, 10 Dec 2025 22:41:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US military flies 2 fighter jets over the Gulf of Venezuela as scrutiny grows]]></title>
+<link>https://apnews.com/article/venezuela-us-military-trump-fa18-fighter-jets-06fd7cdc5ac26e7a46165431b95508b0</link>
+<pubDate>Wed, 10 Dec 2025 18:50:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bill that could reduce Brazilian ex-President Jair Bolsonaro’s prison time advances in Congress]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-congress-bill-prison-time-reduction-c3126861a0b4a7c80d97177a742b4890</link>
 <pubDate>Wed, 10 Dec 2025 14:59:17 -0000</pubDate>
@@ -62,18 +68,6 @@
 <title><![CDATA[Brazilian police apprehend one of two suspects who stole Matisse artworks in a daylight heist]]></title>
 <link>https://apnews.com/article/brazil-artwork-theft-matisse-sao-paulo-cbf56e3610b15d30344dd4c9584c4e20</link>
 <pubDate>Wed, 10 Dec 2025 21:26:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Riveting images of faith and spirituality: 30 of AP’s best religion photos of 2025]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-religion-spirituality-francis-gaza-0260626f28926388123eced043d5e3c6</link>
-<pubDate>Wed, 10 Dec 2025 09:58:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli army takes journalists into a tunnel in a Gaza city it seized and largely flattened]]></title>
-<link>https://apnews.com/article/gaza-palestinians-israel-war-rafah-4e0f2114fb9641986c6491dd78695c46</link>
-<pubDate>Wed, 10 Dec 2025 16:16:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military drone attack on Sudan oil field kills dozens and threatens South Sudan’s economic lifeline]]></title>
-<link>https://apnews.com/article/sudan-drone-strike-rsf-heglig-oil-a1decee69d735b3e0f02bd881b20b0a1</link>
-<pubDate>Wed, 10 Dec 2025 10:22:08 -0000</pubDate>
+<title><![CDATA[2 buildings collapse in Moroccan city of Fez, killing 22 people]]></title>
+<link>https://apnews.com/article/morocco-fes-buildings-collapse-aa2c5beafd6f2de706890992dab1bb44</link>
+<pubDate>Wed, 10 Dec 2025 22:26:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudanese military plane crashes and kills all crew members in Port Sudan]]></title>
-<link>https://apnews.com/article/sudan-war-miliary-rsf-plane-crash-65a1a66246dda4ac84c30ddabdc599ee</link>
-<pubDate>Wed, 10 Dec 2025 13:09:54 -0000</pubDate>
+<title><![CDATA[Military drone attack on Sudan oil field kills dozens and threatens South Sudan’s economic lifeline]]></title>
+<link>https://apnews.com/article/sudan-drone-strike-rsf-heglig-oil-a1decee69d735b3e0f02bd881b20b0a1</link>
+<pubDate>Wed, 10 Dec 2025 10:22:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,27 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Appeals court rules New Jersey’s medically assisted suicide law is for residents only]]></title>
-<link>https://apnews.com/article/assisted-suicide-new-jersey-1cab337cb943b72f1184abcb025e5ddc</link>
-<pubDate>Wed, 10 Dec 2025 21:11:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[First of 30 oil lease sales planned for Gulf of Mexico draws $279 million]]></title>
-<link>https://apnews.com/article/trump-gulf-of-mexico-oil-lease-sale-1bff978fb31b8eeaf4ebe2e448e39e4b</link>
-<pubDate>Wed, 10 Dec 2025 20:13:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Judge orders Trump to end California National Guard troop deployment in Los Angeles]]></title>
 <link>https://apnews.com/article/california-national-guard-trump-los-angeles-a8a201d234d655a7e65fb4c3dd320116</link>
 <pubDate>Wed, 10 Dec 2025 15:46:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s crackdown on immigration is taking a toll on child care workers]]></title>
-<link>https://apnews.com/article/immigration-ice-daycare-preschool-teacher-ae25d67ad83b45f918e47304d5d4b4fb</link>
-<pubDate>Wed, 10 Dec 2025 19:58:04 -0000</pubDate>
+<title><![CDATA[Parent of student charged in shooting that killed teen at Kentucky State University]]></title>
+<link>https://apnews.com/article/kentucky-state-university-shooting-parent-charged-7aead71372b29c561efe301caf3711c0</link>
+<pubDate>Wed, 10 Dec 2025 22:11:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Botulism outbreak sickens more than 50 babies and expands to all ByHeart products]]></title>
+<link>https://apnews.com/article/byheart-infant-botulism-recall-f71552ea4c23ec15f26d99ddb5cb65e2</link>
+<pubDate>Wed, 10 Dec 2025 21:56:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Foreigners allowed to travel to the US without a visa could soon face new social media screening]]></title>
+<link>https://apnews.com/article/esta-visa-waiver-social-media-travel-foreigners-9a1daaba39ffbb7bf24f0f411c2a0275</link>
+<pubDate>Wed, 10 Dec 2025 21:41:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Foreigners allowed to travel to the US without a visa could soon face new social media screening]]></title>
-<link>https://apnews.com/article/esta-visa-waiver-social-media-travel-foreigners-9a1daaba39ffbb7bf24f0f411c2a0275</link>
-<pubDate>Wed, 10 Dec 2025 20:13:05 -0000</pubDate>
+<title><![CDATA[Trump administration adds militarized zone in California along southern US border]]></title>
+<link>https://apnews.com/article/trump-adds-militarized-zone-border-california-b592a6a82351c4a632e861e92d71a181</link>
+<pubDate>Wed, 10 Dec 2025 22:41:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-10-2025-61ba99f6c084d3a615b5fd99a05fd662</link>
+<pubDate>Wed, 10 Dec 2025 22:26:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,9 +281,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Italian cooking and its rituals get UN designation as world heritage]]></title>
+<link>https://apnews.com/article/italy-cooking-unesco-heritage-50a5c05d481fe63dc893d005e0594898</link>
+<pubDate>Wed, 10 Dec 2025 22:11:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nigerian children reunite with their parents after being released from abduction]]></title>
 <link>https://apnews.com/article/nigeria-children-abductions-parents-reunite-767b9e12cfc97720278eece33b865701</link>
 <pubDate>Wed, 10 Dec 2025 11:07:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Riveting images of faith and spirituality: 30 of AP’s best religion photos of 2025]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-religion-spirituality-francis-gaza-0260626f28926388123eced043d5e3c6</link>
+<pubDate>Wed, 10 Dec 2025 21:56:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwandan-backed rebels push toward strategic town in new offensive in eastern Congo]]></title>
-<link>https://apnews.com/article/congo-offensive-uvira-60f7938daf32b47b83d1cd6620a3b657</link>
-<pubDate>Wed, 10 Dec 2025 12:39:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN chief calls on Yemen’s Houthi rebels to free all UN detainees]]></title>
-<link>https://apnews.com/article/un-yemen-houthi-detainees-d11e55b844d26cfd0fdf4ba4c82b5e39</link>
-<pubDate>Wed, 10 Dec 2025 00:54:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico will send more water to US but not immediately, President Sheinbaum says]]></title>
-<link>https://apnews.com/article/mexico-us-rio-grande-water-farmers-986fee61f17d5c975a5927f651b808fa</link>
-<pubDate>Wed, 10 Dec 2025 08:34:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says the US has seized an oil tanker off the coast of Venezuela]]></title>
 <link>https://apnews.com/article/trump-tanker-seized-venezuela-maduro-0a148ba01684fc6ce1a228dd276732c0</link>
 <pubDate>Wed, 10 Dec 2025 21:41:04 -0000</pubDate>
@@ -377,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 buildings collapse in Moroccan city of Fez, killing 22 people]]></title>
-<link>https://apnews.com/article/morocco-fes-buildings-collapse-aa2c5beafd6f2de706890992dab1bb44</link>
-<pubDate>Wed, 10 Dec 2025 20:13:05 -0000</pubDate>
+<title><![CDATA[Aid flow into Gaza falls short of the terms of the ceasefire deal, Israeli figures show]]></title>
+<link>https://apnews.com/article/gaza-food-aid-trucks-ceasefire-7e6ea6dd3ef32928f791af0f690b7d88</link>
+<pubDate>Wed, 10 Dec 2025 22:41:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
-<link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
-<pubDate>Wed, 10 Dec 2025 14:44:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bulgarian court rejects extradition of Russian owner of a ship linked to Beirut port blast]]></title>
 <link>https://apnews.com/article/bulgaria-lebanon-port-blast-court-extradition-3ded9ea5f52622c1b5aa527a6d597f3b</link>
 <pubDate>Wed, 10 Dec 2025 14:29:18 -0000</pubDate>
@@ -422,6 +410,12 @@
 <title><![CDATA[First rain of autumn falls in Iran’s capital, but the drought-ravaged nation needs far more]]></title>
 <link>https://apnews.com/article/iran-rain-historic-drought-water-scarcity-0cb2872c70f9ab50c2fbffd4cde66117</link>
 <pubDate>Wed, 10 Dec 2025 06:03:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Attack by gunmen kills 3 members of Revolutionary Guard in southeast Iran]]></title>
+<link>https://apnews.com/article/iran-attack-revolutionary-guard-20ffc6a4c61190b989097eb9dcbecfbd</link>
+<pubDate>Wed, 10 Dec 2025 14:14:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military flies 2 fighter jets over the Gulf of Venezuela as scrutiny grows]]></title>
-<link>https://apnews.com/article/venezuela-us-military-trump-fa18-fighter-jets-06fd7cdc5ac26e7a46165431b95508b0</link>
-<pubDate>Tue, 09 Dec 2025 23:09:46 -0000</pubDate>
+<title><![CDATA[Former Bolivian President Arce arrested in corruption investigation a month after leaving office]]></title>
+<link>https://apnews.com/article/bolivia-luis-arce-arrested-corruption-65566acd1d5cacbd9d650c40394da631</link>
+<pubDate>Wed, 10 Dec 2025 22:26:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli army takes journalists into a tunnel in a Gaza city it seized and largely flattened]]></title>
+<link>https://apnews.com/article/gaza-palestinians-israel-war-rafah-4e0f2114fb9641986c6491dd78695c46</link>
+<pubDate>Tue, 09 Dec 2025 15:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Botulism outbreak sickens more than 50 babies and expands to all ByHeart products]]></title>
-<link>https://apnews.com/article/byheart-infant-botulism-recall-f71552ea4c23ec15f26d99ddb5cb65e2</link>
-<pubDate>Wed, 10 Dec 2025 21:11:04 -0000</pubDate>
+<title><![CDATA[Record flooding threatens Washington as more heavy rain pounds the Northwest]]></title>
+<link>https://apnews.com/article/pacific-northwest-storm-flooding-rivers-rescues-8a833f60386788f666c9fb23a1534763</link>
+<pubDate>Wed, 10 Dec 2025 22:11:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
