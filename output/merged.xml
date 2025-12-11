@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Dec 2025 11:11:18 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 11:37:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Following Australia’s lead, Denmark plans to ban social media for children younger than 15]]></title>
+<title><![CDATA[Denmark plans to severely restrict social media use for young people]]></title>
 <link>https://apnews.com/article/denmark-social-media-ban-australia-1e96a3df3276cc2033a6f04effb89f51</link>
-<pubDate>Thu, 11 Dec 2025 07:40:31 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 11:37:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A major strike in Portugal disrupts travel and services]]></title>
 <link>https://apnews.com/article/portugal-strike-unions-government-employment-law-7ab975372784b5ff81075569efac8e33</link>
 <pubDate>Thu, 11 Dec 2025 09:58:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Emotional evacuees recount moments they fled Thailand-Cambodia fighting]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-clashes-displaced-bc580d623596ddb902f9d13e037fc226</link>
+<pubDate>Wed, 10 Dec 2025 13:44:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Congress would target China with new restrictions in massive defense bill]]></title>
 <link>https://apnews.com/article/china-congress-investment-restrictions-trump-ndaa-7d16d9c150333d0d0a95050fc521108c</link>
 <pubDate>Thu, 11 Dec 2025 06:18:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Critics of army rule in Myanmar stage a silent strike against upcoming election]]></title>
-<link>https://apnews.com/article/myanmar-military-elections-protests-boycott-8b8588f9ea36b4fe3d7c20ebc8372cd3</link>
-<pubDate>Wed, 10 Dec 2025 12:54:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Senate to question military leaders on Trump’s National Guard deployments]]></title>
-<link>https://apnews.com/article/national-guard-deployments-trump-senate-hearing-d860259d291af4bcf49569d384421cf9</link>
-<pubDate>Thu, 11 Dec 2025 05:48:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge orders Trump to end California National Guard troop deployment in Los Angeles]]></title>
-<link>https://apnews.com/article/california-national-guard-trump-los-angeles-a8a201d234d655a7e65fb4c3dd320116</link>
-<pubDate>Wed, 10 Dec 2025 15:46:36 -0000</pubDate>
+<title><![CDATA[Trump administration separates thousands of migrant families in the US]]></title>
+<link>https://apnews.com/article/immigration-trump-family-separation-law-enforcement-detention-deportation-76e1c6239c1522aae010590195f97db3</link>
+<pubDate>Thu, 11 Dec 2025 05:18:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +119,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration separates thousands of migrant families in the US]]></title>
-<link>https://apnews.com/article/immigration-trump-family-separation-law-enforcement-detention-deportation-76e1c6239c1522aae010590195f97db3</link>
-<pubDate>Thu, 11 Dec 2025 05:18:35 -0000</pubDate>
+<title><![CDATA[Indiana redistricting is up for a final, deciding vote in the state Senate]]></title>
+<link>https://apnews.com/article/indiana-lawmakers-redistricting-final-vote-80e3e546fc7acec4a7bd7cd110787375</link>
+<pubDate>Thu, 11 Dec 2025 11:22:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Senate to question military leaders on Trump’s National Guard deployments]]></title>
+<link>https://apnews.com/article/national-guard-deployments-trump-senate-hearing-d860259d291af4bcf49569d384421cf9</link>
+<pubDate>Thu, 11 Dec 2025 05:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +179,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Library under construction in South Korea collapses, killing 1 and trapping 3 under rubble]]></title>
+<link>https://apnews.com/article/south-korea-collapses-workers-trapped-71bda5cb7f6a89d06d717b7dbd78bea9</link>
+<pubDate>Thu, 11 Dec 2025 11:37:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Korea’s ex-acting leader indicted over former president’s martial law imposition]]></title>
 <link>https://apnews.com/article/south-korea-martial-law-acting-leader-yoon-f8cea54afb1070fa2398c426db5513eb</link>
 <pubDate>Thu, 11 Dec 2025 10:13:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Boat carrying migrants capsizes in Croatia, killing at least 3 people]]></title>
+<title><![CDATA[Boat carrying migrants capsizes in Croatia, killing at least 1 person]]></title>
 <link>https://apnews.com/article/croatia-migrants-boat-overturns-sava-slavonski-brod-7fcca54e774bdc5191510d1bd911cb75</link>
-<pubDate>Thu, 11 Dec 2025 09:58:07 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 11:22:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,27 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Critics of army rule in Myanmar stage a silent strike against upcoming election]]></title>
+<link>https://apnews.com/article/myanmar-military-elections-protests-boycott-8b8588f9ea36b4fe3d7c20ebc8372cd3</link>
+<pubDate>Thu, 11 Dec 2025 02:33:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US playwright Jeremy O. Harris released 3 weeks after arrest in Japan for alleged drug smuggling]]></title>
 <link>https://apnews.com/article/japan-okinawa-playwright-harris-drug-police-b643a810fbb5ae68be116c5de3f08b0e</link>
 <pubDate>Wed, 10 Dec 2025 12:54:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[IMF urges China to address economic imbalances as trade surplus hits $1 trillion]]></title>
-<link>https://apnews.com/article/imf-china-economy-trade-tariffs-b6ef6674ea4b1c38b28fee89618188bc</link>
-<pubDate>Thu, 11 Dec 2025 09:28:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European nations agree to consider weakening protections for migrants dating to WWII]]></title>
-<link>https://apnews.com/article/europe-migration-convention-44a22430af2feb0adc1bc7261066b93c</link>
-<pubDate>Thu, 11 Dec 2025 02:18:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nobel laureate Machado appears for the first time in 11 months]]></title>
-<link>https://apnews.com/article/nobel-peace-prize-machado-ceremony-oslo-a26f4170c905d8b7a78bccb95fda83b8</link>
-<pubDate>Thu, 11 Dec 2025 03:52:33 -0000</pubDate>
+<title><![CDATA[Maria Corina Machado says Maduro government didn’t know where she was hiding]]></title>
+<link>https://apnews.com/article/nobel-peace-prize-maria-corina-machado-venezuela-afb5af1ac2c3c14e9bf53626f11f8279</link>
+<pubDate>Thu, 11 Dec 2025 11:37:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Emotional evacuees recount moments they fled Thailand-Cambodia fighting]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-clashes-displaced-bc580d623596ddb902f9d13e037fc226</link>
-<pubDate>Wed, 10 Dec 2025 11:22:09 -0000</pubDate>
+<title><![CDATA[US and Japan hold joint flight drills as China ups military activity near Japan]]></title>
+<link>https://apnews.com/article/japan-us-military-drills-china-russia-87e9785311d7254fc8e14188bd05f54c</link>
+<pubDate>Thu, 11 Dec 2025 11:22:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
