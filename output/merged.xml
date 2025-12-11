@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Dec 2025 23:10:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 23:37:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
@@ -107,21 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Washington state under emergency as torrential rain triggers floods, mudslides and evacuations]]></title>
-<link>https://apnews.com/article/flooding-evacuation-washington-rivers-historic-rain-28344ef2f138633444ab247b91c4e4f4</link>
-<pubDate>Thu, 11 Dec 2025 13:29:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge orders Kilmar Abrego Garcia to be immediately released from immigration detention]]></title>
-<link>https://apnews.com/article/abrego-garcia-el-salvador-deportation-31160936c51932f74b717eb1143edd55</link>
-<pubDate>Thu, 11 Dec 2025 17:45:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[From deportation to court, key events in Kilmar Abrego Garcia’s fight with the Trump administration]]></title>
 <link>https://apnews.com/article/kilmar-abrego-garcia-immigration-deportation-trump-timeline-11cbaf1c1fbd2475a49e40d97bc620f2</link>
 <pubDate>Thu, 11 Dec 2025 17:30:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indiana Republicans defy Trump and reject his House redistricting push in the state]]></title>
+<link>https://apnews.com/article/indiana-lawmakers-redistricting-final-vote-80e3e546fc7acec4a7bd7cd110787375</link>
+<pubDate>Thu, 11 Dec 2025 23:37:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tens of thousands ordered to flee flooding after torrential rain in Pacific Northwest]]></title>
+<link>https://apnews.com/article/flooding-evacuation-washington-rivers-historic-rain-28344ef2f138633444ab247b91c4e4f4</link>
+<pubDate>Thu, 11 Dec 2025 23:22:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,18 @@
 <title><![CDATA[Pakistan’s top general calls on Afghanistan to pick between ties with Islamabad or Pakistani Taliban]]></title>
 <link>https://apnews.com/article/pakistan-armed-forces-chief-warns-afghanistan-taliban-2cb1e90fd512fb5eada5cfd898d2e29c</link>
 <pubDate>Mon, 08 Dec 2025 12:57:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Canadian officer working in military intelligence charged with spying for a foreign entity]]></title>
+<link>https://apnews.com/article/canadian-military-member-classified-foreign-entity-804057b55d3589421542f99a06769640</link>
+<pubDate>Thu, 11 Dec 2025 23:37:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the week by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-week-top-thailand-trump-venezuela-406594674317b6b7d8b41fed09401661</link>
+<pubDate>Thu, 11 Dec 2025 23:22:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,18 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ocean warmed by climate change fed intense rainfall and deadly floods in Asia, study finds]]></title>
-<link>https://apnews.com/article/climate-change-asia-cyclones-ef733af1a6b5acf08335e672e8476c32</link>
-<pubDate>Thu, 11 Dec 2025 02:48:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration adds militarized zone in California along southern US border]]></title>
-<link>https://apnews.com/article/trump-adds-militarized-zone-border-california-b592a6a82351c4a632e861e92d71a181</link>
-<pubDate>Wed, 10 Dec 2025 22:41:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US sanctions Venezuelan President Maduro’s 3 nephews as pressure campaign ratchets up]]></title>
 <link>https://apnews.com/article/treasury-state-department-sanctions-trump-venezuela-a542e7d3f01fe6b9d8ae8ff3cad6f792</link>
 <pubDate>Thu, 11 Dec 2025 19:37:36 -0000</pubDate>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indiana Republicans block Trump’s redistricting push in a rare break with the president]]></title>
-<link>https://apnews.com/article/indiana-lawmakers-redistricting-final-vote-80e3e546fc7acec4a7bd7cd110787375</link>
-<pubDate>Thu, 11 Dec 2025 21:25:57 -0000</pubDate>
+<title><![CDATA[Kilmar Abrego Garcia freed from federal immigration detention, his attorney’s office says]]></title>
+<link>https://apnews.com/article/abrego-garcia-el-salvador-deportation-31160936c51932f74b717eb1143edd55</link>
+<pubDate>Thu, 11 Dec 2025 23:37:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
