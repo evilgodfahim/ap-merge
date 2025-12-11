@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Dec 2025 21:39:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 22:10:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UNESCO gives a shout-out to Switzerland’s yodeling by adding it to list of cultural heritage]]></title>
-<link>https://apnews.com/article/unesco-heritage-yodeling-switzerland-bb78db76b3b5225c7daf2c8b3c18dd2a</link>
-<pubDate>Thu, 11 Dec 2025 20:40:12 -0000</pubDate>
+<title><![CDATA[Cheese, water and crossings aim to build trust for split Cyprus’ rival leaders]]></title>
+<link>https://apnews.com/article/cyprus-ethnic-division-turkey-02a4e1c0010a95c39b11e64f0b83e9ac</link>
+<pubDate>Thu, 11 Dec 2025 22:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuelans have mixed reactions to Nobel laureate Machado traveling abroad]]></title>
+<link>https://apnews.com/article/nobel-peace-machado-venezuela-maduro-trump-79191c1073d56d3427f7a1e6e4b2206d</link>
+<pubDate>Thu, 11 Dec 2025 21:55:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US has seized an oil tanker off the coast of Venezuela, Trump says]]></title>
 <link>https://apnews.com/article/trump-tanker-seized-venezuela-maduro-0a148ba01684fc6ce1a228dd276732c0</link>
 <pubDate>Thu, 11 Dec 2025 18:00:53 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Putin offers ‘solidarity’ for Venezuelan people as tensions mount between Maduro and US]]></title>
 <link>https://apnews.com/article/maduro-russia-putin-trump-tanker-venezuela-786d7fcafb089d7c3ae12c5c6c50a8fe</link>
 <pubDate>Thu, 11 Dec 2025 20:25:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Bolivian President Arce arrested in corruption investigation a month after leaving office]]></title>
-<link>https://apnews.com/article/bolivia-luis-arce-arrested-corruption-65566acd1d5cacbd9d650c40394da631</link>
-<pubDate>Thu, 11 Dec 2025 00:25:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda-backed M23 offensive in South Kivu kills over 400 civilians]]></title>
+<title><![CDATA[Rwanda-backed M23 offensive in Congo’s South Kivu kills over 400 civilians]]></title>
 <link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-8a6b6b94c3c406c2c349077a09f5430d</link>
-<pubDate>Thu, 11 Dec 2025 20:10:12 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 21:40:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Washington state under emergency as torrential rain triggers floods, mudslides and evacuations]]></title>
+<link>https://apnews.com/article/flooding-evacuation-washington-rivers-historic-rain-28344ef2f138633444ab247b91c4e4f4</link>
+<pubDate>Thu, 11 Dec 2025 13:29:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,15 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Accused Charlie Kirk killer makes 1st in-person court appearance as judge weighs media access]]></title>
+<title><![CDATA[The man accused of killing Charlie Kirk appears in court for 1st time as a judge weighs media access]]></title>
 <link>https://apnews.com/article/charlie-kirk-assassination-tyler-robinson-media-e90d404b03383dec9e0d9a327b491920</link>
-<pubDate>Thu, 11 Dec 2025 19:22:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Treasury Secretary Bessent calls for looser regulations for the U.S. financial system]]></title>
-<link>https://apnews.com/article/treasury-scott-bessent-financial-stability-f7bd96bb99824fd10c7e3ca239830bff</link>
-<pubDate>Thu, 11 Dec 2025 19:07:35 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 21:25:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UNESCO gives a shout-out to Switzerland’s yodeling by adding it to list of cultural heritage]]></title>
+<link>https://apnews.com/article/unesco-heritage-yodeling-switzerland-bb78db76b3b5225c7daf2c8b3c18dd2a</link>
+<pubDate>Thu, 11 Dec 2025 18:15:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In stunning reversal for Europe, Greek finance minister elected as Eurogroup president]]></title>
 <link>https://apnews.com/article/greece-eurogroup-president-financial-crisis-40e31b8bc21ad60f927577ece89af8fd</link>
 <pubDate>Thu, 11 Dec 2025 18:52:35 -0000</pubDate>
@@ -263,9 +269,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Homeland Security Secretary Noem defends Trump’s hard-line immigration policies under scrutiny]]></title>
+<title><![CDATA[Homeland Security Secretary Noem defends Trump’s hard-line immigration policies during tense hearing]]></title>
 <link>https://apnews.com/article/noem-house-hearing-immigration-threats-trump-3291f73f80c5619f70d439094393a3af</link>
-<pubDate>Thu, 11 Dec 2025 20:10:13 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 22:10:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tens of thousands join anti-government protests across Bulgaria]]></title>
-<link>https://apnews.com/article/bulgaria-government-protest-corruption-a3ff3cde1b50e6b1519103dd513ac4ee</link>
-<pubDate>Thu, 11 Dec 2025 07:25:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US sanctions Venezuelan President Maduro’s 3 nephews as pressure campaign ratchets up]]></title>
 <link>https://apnews.com/article/treasury-state-department-sanctions-trump-venezuela-a542e7d3f01fe6b9d8ae8ff3cad6f792</link>
 <pubDate>Thu, 11 Dec 2025 19:37:36 -0000</pubDate>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From hiding to Nobel laureate: María Corina Machado’s continues fight for Venezuela’s democracy]]></title>
-<link>https://apnews.com/article/venezuela-machado-opposition-nobel-maduro-trump-9651e9d053c105e94912e2bdd5873b7c</link>
-<pubDate>Thu, 11 Dec 2025 16:53:29 -0000</pubDate>
+<title><![CDATA[US seizure of rogue oil tanker off Venezuela signals new crackdown on shadow fleet]]></title>
+<link>https://apnews.com/article/venezuela-oil-trump-sanctions-maduro-a2ef5b45b48365861e0a724d8c27dce3</link>
+<pubDate>Thu, 11 Dec 2025 22:10:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street is close to setting record highs, even as Oracle tumbles on AI worries]]></title>
+<title><![CDATA[The US stock market hits record highs, even as worries about an AI bubble continue]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-oracle-inflation-rates-53b81cf1b3e06fe76e46a6b4ec509529</link>
-<pubDate>Thu, 11 Dec 2025 20:40:13 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 21:55:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crypto mogul Do Kwon set for sentencing as victims tell of $40B stablecoin crash’s human toll]]></title>
+<title><![CDATA[Crypto mogul Do Kwon sentenced to 15 years in prison for $40 billion stablecoin fraud]]></title>
 <link>https://apnews.com/article/do-kwon-terraform-court-montenegro-crypto-king-0df8b30b5f3cff2954f0a08bf0a327f3</link>
-<pubDate>Thu, 11 Dec 2025 20:10:13 -0000</pubDate>
+<pubDate>Thu, 11 Dec 2025 21:40:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelans have mixed reactions to Nobel laureate Machado traveling abroad]]></title>
-<link>https://apnews.com/article/nobel-peace-machado-venezuela-maduro-trump-79191c1073d56d3427f7a1e6e4b2206d</link>
-<pubDate>Thu, 11 Dec 2025 02:33:19 -0000</pubDate>
+<title><![CDATA[From hiding to Nobel laureate: María Corina Machado’s continues fight for Venezuela’s democracy]]></title>
+<link>https://apnews.com/article/venezuela-machado-opposition-nobel-maduro-trump-9651e9d053c105e94912e2bdd5873b7c</link>
+<pubDate>Thu, 11 Dec 2025 16:53:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Washington state under emergency as torrential rain triggers floods, mudslides and evacuations]]></title>
-<link>https://apnews.com/article/flooding-evacuation-washington-rivers-historic-rain-28344ef2f138633444ab247b91c4e4f4</link>
-<pubDate>Thu, 11 Dec 2025 17:30:54 -0000</pubDate>
+<title><![CDATA[Indiana Republicans block Trump’s redistricting push in a rare break with the president]]></title>
+<link>https://apnews.com/article/indiana-lawmakers-redistricting-final-vote-80e3e546fc7acec4a7bd7cd110787375</link>
+<pubDate>Thu, 11 Dec 2025 21:25:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
