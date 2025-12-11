@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Dec 2025 09:43:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 10:13:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine to give revised peace plans to US as Kyiv readies for more talks with its coalition partners]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-trump-peace-elections-zelenskyy-2506b9f7c8c9a62ea2fa3737d400877f</link>
-<pubDate>Wed, 10 Dec 2025 14:14:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why Ukraine hasn’t held elections since Russia’s full-scale invasion]]></title>
-<link>https://apnews.com/article/ukraine-elections-zelenskyy-trump-explainer-3162f3dfb74196801c45ae9060c02f03</link>
-<pubDate>Thu, 11 Dec 2025 08:34:27 -0000</pubDate>
+<title><![CDATA[Zelenskyy will hold urgent talks with 30 countries as Trump pushes for swift peace deal with Russia]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-trump-peace-zelenskyy-europe-6392f625b2c77b93d0bd86c06cafb2a5</link>
+<pubDate>Thu, 11 Dec 2025 10:13:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Following Australia’s lead, Denmark plans to ban social media for children younger than 15]]></title>
 <link>https://apnews.com/article/denmark-social-media-ban-australia-1e96a3df3276cc2033a6f04effb89f51</link>
 <pubDate>Thu, 11 Dec 2025 07:40:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A major strike in Portugal disrupts travel and services]]></title>
+<link>https://apnews.com/article/portugal-strike-unions-government-employment-law-7ab975372784b5ff81075569efac8e33</link>
+<pubDate>Thu, 11 Dec 2025 09:58:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s Congress approves tariff hikes on imports from China and others]]></title>
-<link>https://apnews.com/article/mexico-china-tariffs-fa89b687e6fc61996b67083b3f789243</link>
-<pubDate>Thu, 11 Dec 2025 02:33:18 -0000</pubDate>
+<title><![CDATA[Critics of army rule in Myanmar stage a silent strike against upcoming election]]></title>
+<link>https://apnews.com/article/myanmar-military-elections-protests-boycott-8b8588f9ea36b4fe3d7c20ebc8372cd3</link>
+<pubDate>Wed, 10 Dec 2025 12:54:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda-backed M23 rebels say they’ve seized the strategic city of Uvira in eastern Congo]]></title>
-<link>https://apnews.com/article/congo-m23-rebels-fighting-uvira-b757b1a23ee30b3495d76ac7324be6af</link>
-<pubDate>Thu, 11 Dec 2025 02:18:18 -0000</pubDate>
+<title><![CDATA[Over 400 civilians killed in fighting in eastern Congo, despite US-mediated peace deal]]></title>
+<link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-8a6b6b94c3c406c2c349077a09f5430d</link>
+<pubDate>Thu, 11 Dec 2025 09:43:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,12 +131,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oreo is bringing zero-sugar cookies to the US]]></title>
-<link>https://apnews.com/article/oreos-zero-sugar-f5c38f55fa826dab7d537f17a48b52dd</link>
-<pubDate>Thu, 11 Dec 2025 05:03:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nepal charges dozens and says corruption inflated an airport’s costs by $74 million]]></title>
 <link>https://apnews.com/article/nepal-china-corruption-airport-c112cb659a00efd348ea270f97f1e861</link>
 <pubDate>Wed, 10 Dec 2025 04:58:22 -0000</pubDate>
@@ -152,6 +146,12 @@
 <title><![CDATA[Trump approves sale of more advanced Nvidia computer chips used in AI to China]]></title>
 <link>https://apnews.com/article/trump-nvidia-china-advanced-chip-4c27557998c21e088a91a067a76b6b8a</link>
 <pubDate>Mon, 08 Dec 2025 22:40:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bessent divests from soybean farmland ahead of Trump aid announcement for farmers]]></title>
+<link>https://apnews.com/article/treasury-bessent-soybean-farm-china-tariffs-aa0b60381dae6da212b88f73bcc35009</link>
+<pubDate>Tue, 09 Dec 2025 08:43:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,39 +179,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea’s ex-acting leader indicted over former president’s martial law imposition]]></title>
+<link>https://apnews.com/article/south-korea-martial-law-acting-leader-yoon-f8cea54afb1070fa2398c426db5513eb</link>
+<pubDate>Thu, 11 Dec 2025 10:13:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Boat carrying migrants capsizes in Croatia, killing at least 3 people]]></title>
+<link>https://apnews.com/article/croatia-migrants-boat-overturns-sava-slavonski-brod-7fcca54e774bdc5191510d1bd911cb75</link>
+<pubDate>Thu, 11 Dec 2025 09:58:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan military court sentences ex-spy chief Faiz Hameed to 14 years in prison]]></title>
 <link>https://apnews.com/article/pakistan-military-court-former-spy-chief-sentenced-75de95fabba1a7147dbdb33bce8ba41d</link>
 <pubDate>Thu, 11 Dec 2025 08:49:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Open AI, Microsoft face lawsuit over ChatGPT’s alleged role in Connecticut murder-suicide]]></title>
-<link>https://apnews.com/article/ai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151</link>
-<pubDate>Thu, 11 Dec 2025 08:34:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A major strike in Portugal is expected to bring widespread disruption]]></title>
-<link>https://apnews.com/article/portugal-strike-unions-government-employment-law-7ab975372784b5ff81075569efac8e33</link>
-<pubDate>Thu, 11 Dec 2025 08:19:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos of families who set off on migration journeys and found themselves torn apart]]></title>
 <link>https://apnews.com/photo-gallery/immigration-trump-family-separation-detention-deportation-68bfde7b000880676dae34216e8f2ef7</link>
 <pubDate>Thu, 11 Dec 2025 06:18:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares are mixed as Oracle’s earnings revive AI worries, hitting technology shares]]></title>
-<link>https://apnews.com/article/stocks-markets-fed-oracle-inflation-rates-53b81cf1b3e06fe76e46a6b4ec509529</link>
-<pubDate>Thu, 11 Dec 2025 07:40:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Crypto mogul Do Kwon to be sentenced for misleading investors who lost billions in stablecoin crash]]></title>
-<link>https://apnews.com/article/do-kwon-terraform-court-montenegro-crypto-king-0df8b30b5f3cff2954f0a08bf0a327f3</link>
-<pubDate>Thu, 11 Dec 2025 05:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +335,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Critics of army rule in Myanmar stage a silent strike against upcoming election]]></title>
-<link>https://apnews.com/article/myanmar-military-elections-protests-boycott-8b8588f9ea36b4fe3d7c20ebc8372cd3</link>
-<pubDate>Thu, 11 Dec 2025 02:33:19 -0000</pubDate>
+<title><![CDATA[Rwanda-backed M23 rebels say they’ve seized the strategic city of Uvira in eastern Congo]]></title>
+<link>https://apnews.com/article/congo-m23-rebels-fighting-uvira-b757b1a23ee30b3495d76ac7324be6af</link>
+<pubDate>Thu, 11 Dec 2025 09:43:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US playwright Jeremy O. Harris released 3 weeks after arrest in Japan for alleged drug smuggling]]></title>
 <link>https://apnews.com/article/japan-okinawa-playwright-harris-drug-police-b643a810fbb5ae68be116c5de3f08b0e</link>
 <pubDate>Wed, 10 Dec 2025 12:54:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[IMF urges China to address economic imbalances as trade surplus hits $1 trillion]]></title>
+<link>https://apnews.com/article/imf-china-economy-trade-tariffs-b6ef6674ea4b1c38b28fee89618188bc</link>
+<pubDate>Thu, 11 Dec 2025 09:28:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[European nations agree to consider weakening protections for migrants dating to WWII]]></title>
+<link>https://apnews.com/article/europe-migration-convention-44a22430af2feb0adc1bc7261066b93c</link>
+<pubDate>Thu, 11 Dec 2025 02:18:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,33 +425,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks rise after the Fed cuts rates and hopes build for more]]></title>
-<link>https://apnews.com/article/financial-markets-fed-interest-rates-inflation-27ae743a2289c9870b0be4d2ddd6589a</link>
-<pubDate>Wed, 10 Dec 2025 21:26:04 -0000</pubDate>
+<title><![CDATA[World shares are mixed as Oracle’s earnings revive AI worries, hitting technology shares]]></title>
+<link>https://apnews.com/article/stocks-markets-fed-oracle-inflation-rates-53b81cf1b3e06fe76e46a6b4ec509529</link>
+<pubDate>Thu, 11 Dec 2025 09:58:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[IMF urges China to address economic imbalances as trade surplus hits $1 trillion]]></title>
-<link>https://apnews.com/article/imf-china-economy-trade-tariffs-b6ef6674ea4b1c38b28fee89618188bc</link>
-<pubDate>Wed, 10 Dec 2025 11:37:09 -0000</pubDate>
+<title><![CDATA[Trump wants to keep farmers happy with cash. They’re still worried about the future]]></title>
+<link>https://apnews.com/article/trump-soybean-farmers-china-trade-tariffs-brazil-9663759ac3c9c7360bd5f23cb84180f0</link>
+<pubDate>Thu, 11 Dec 2025 05:48:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paramount says China’s Tencent withdrew from its Warner Bros bid to avert national security issues]]></title>
-<link>https://apnews.com/article/china-paramount-warner-netflix-tencent-eb3b4b18e67438d7633e5c4a1ec227c1</link>
-<pubDate>Wed, 10 Dec 2025 09:28:22 -0000</pubDate>
+<title><![CDATA[Mexico’s Congress approves tariff hikes on imports from China and others]]></title>
+<link>https://apnews.com/article/mexico-china-tariffs-fa89b687e6fc61996b67083b3f789243</link>
+<pubDate>Thu, 11 Dec 2025 06:03:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Southeast Asia embraces offshore wind power, as Trump bashes renewable energy]]></title>
-<link>https://apnews.com/article/asia-offshore-wind-energy-climate-trump-16dc2f8e8f585100d0a119ef74a367c2</link>
-<pubDate>Wed, 10 Dec 2025 09:13:22 -0000</pubDate>
+<title><![CDATA[Open AI, Microsoft face lawsuit over ChatGPT’s alleged role in Connecticut murder-suicide]]></title>
+<link>https://apnews.com/article/ai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151</link>
+<pubDate>Thu, 11 Dec 2025 09:43:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI names Slack CEO Dresser as first chief of revenue as ChatGPT maker aims to make a profit]]></title>
-<link>https://apnews.com/article/openai-slack-ceo-denise-dresser-salesforce-18ad055f5e1cb6c6a5ba6854148bff80</link>
-<pubDate>Wed, 10 Dec 2025 08:58:22 -0000</pubDate>
+<title><![CDATA[Crypto mogul Do Kwon to be sentenced for misleading investors who lost billions in stablecoin crash]]></title>
+<link>https://apnews.com/article/do-kwon-terraform-court-montenegro-crypto-king-0df8b30b5f3cff2954f0a08bf0a327f3</link>
+<pubDate>Thu, 11 Dec 2025 09:28:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump wants to keep farmers happy with cash. They’re still worried about the future]]></title>
-<link>https://apnews.com/article/trump-soybean-farmers-china-trade-tariffs-brazil-9663759ac3c9c7360bd5f23cb84180f0</link>
-<pubDate>Thu, 11 Dec 2025 05:48:36 -0000</pubDate>
+<title><![CDATA[Oreo is bringing zero-sugar cookies to the US]]></title>
+<link>https://apnews.com/article/oreos-zero-sugar-f5c38f55fa826dab7d537f17a48b52dd</link>
+<pubDate>Tue, 09 Dec 2025 21:07:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
