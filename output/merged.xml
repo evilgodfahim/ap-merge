@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Dec 2025 07:15:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 07:40:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Bulgarian court rejects extradition of Russian owner of a ship linked to Beirut port blast]]></title>
 <link>https://apnews.com/article/bulgaria-lebanon-port-blast-court-extradition-3ded9ea5f52622c1b5aa527a6d597f3b</link>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s new ‘condom tax’ draws skepticism and worries over health risks]]></title>
-<link>https://apnews.com/article/china-tax-contraceptives-condoms-std-birth-2fa6bff0e283e141abf1d03f6425742f</link>
-<pubDate>Fri, 12 Dec 2025 02:46:47 -0000</pubDate>
+<title><![CDATA[Afghan polio survivor’s sock factory provides hope by employing disabled workers]]></title>
+<link>https://apnews.com/article/afghanistan-disabilities-sock-factory-herat-a6a792a5fee65de76a807a1021df7b7e</link>
+<pubDate>Fri, 12 Dec 2025 07:39:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican devotion to the Virgin of Guadalupe blends into national identity]]></title>
+<link>https://apnews.com/article/our-lady-of-guadalupe-virgin-mary-mexico-f59db31a26efa0f057e603ba7897635d</link>
+<pubDate>Fri, 12 Dec 2025 07:24:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[From hiding to Nobel laureate: María Corina Machado’s continues fight for Venezuela’s democracy]]></title>
 <link>https://apnews.com/article/venezuela-machado-opposition-nobel-maduro-trump-9651e9d053c105e94912e2bdd5873b7c</link>
 <pubDate>Fri, 12 Dec 2025 05:48:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Putin offers ‘solidarity’ for Venezuelan people as tensions mount between Maduro and US]]></title>
-<link>https://apnews.com/article/maduro-russia-putin-trump-tanker-venezuela-786d7fcafb089d7c3ae12c5c6c50a8fe</link>
-<pubDate>Thu, 11 Dec 2025 20:25:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Church nativity scenes add zip ties, gas masks and ICE to protest immigration raids]]></title>
-<link>https://apnews.com/article/immigration-enforcement-dedham-chicago-ice-nativity-catholic-cbaa37f82ecab29cf07bbe48bbe6511c</link>
-<pubDate>Fri, 12 Dec 2025 05:33:26 -0000</pubDate>
+<title><![CDATA[Washington state faces historic floods that have washed away homes and stranded families]]></title>
+<link>https://apnews.com/article/washington-flooding-historic-rain-6d3485d85179468b32b1bd39c7174186</link>
+<pubDate>Fri, 12 Dec 2025 07:09:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indiana Republicans defy Trump and reject his House redistricting push in the state]]></title>
-<link>https://apnews.com/article/indiana-lawmakers-redistricting-final-vote-80e3e546fc7acec4a7bd7cd110787375</link>
-<pubDate>Thu, 11 Dec 2025 23:37:31 -0000</pubDate>
+<title><![CDATA[Church nativity scenes add zip ties, gas masks and ICE to protest immigration raids]]></title>
+<link>https://apnews.com/article/immigration-enforcement-dedham-chicago-ice-nativity-catholic-cbaa37f82ecab29cf07bbe48bbe6511c</link>
+<pubDate>Fri, 12 Dec 2025 05:33:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,12 +179,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghan polio survivor’s sock factory provides hope by employing disabled workers]]></title>
-<link>https://apnews.com/article/afghanistan-disabilities-sock-factory-herat-a6a792a5fee65de76a807a1021df7b7e</link>
-<pubDate>Fri, 12 Dec 2025 06:03:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[‘Partenope,’ Ennio Morricone’s long-neglected opera, emerges to enchant Naples]]></title>
 <link>https://apnews.com/article/italy-opera-morricone-partenope-naples-music-myth-d04ef232f88d2bef0519e5166a55ce99</link>
 <pubDate>Fri, 12 Dec 2025 05:13:06 -0000</pubDate>
@@ -197,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan issues tsunami advisory after 6.7 magnitude quake in country’s northeast]]></title>
+<title><![CDATA[A 6.7 magnitude earthquake causes small tsunami waves off northeastern Japan]]></title>
 <link>https://apnews.com/article/japan-tsunami-advisory-earthquake-6c97a2ed0eae607f5b49a9cf371c7725</link>
-<pubDate>Fri, 12 Dec 2025 03:52:11 -0000</pubDate>
+<pubDate>Fri, 12 Dec 2025 07:39:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,6 +236,12 @@
 <title><![CDATA[3 cold case killings of women in Toronto are linked to man who died in 2019]]></title>
 <link>https://apnews.com/article/cold-case-homicides-toronto-police-5ffb02cbdb6ee18874690cee2bf299bf</link>
 <pubDate>Fri, 12 Dec 2025 02:46:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Putin offers ‘solidarity’ for Venezuelan people as tensions mount between Maduro and US]]></title>
+<link>https://apnews.com/article/maduro-russia-putin-trump-tanker-venezuela-786d7fcafb089d7c3ae12c5c6c50a8fe</link>
+<pubDate>Fri, 12 Dec 2025 04:43:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
-<link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
-<pubDate>Fri, 12 Dec 2025 02:46:49 -0000</pubDate>
+<title><![CDATA[US seizure of rogue oil tanker off Venezuela signals new crackdown on shadow fleet]]></title>
+<link>https://apnews.com/article/venezuela-oil-trump-sanctions-maduro-a2ef5b45b48365861e0a724d8c27dce3</link>
+<pubDate>Thu, 11 Dec 2025 22:10:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
+<link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
+<pubDate>Fri, 12 Dec 2025 02:46:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thailand’s Parliament is dissolved for new elections early next year]]></title>
 <link>https://apnews.com/article/thailand-election-cambodia-b9cddef068c4415ec29f0e423dd3e006</link>
 <pubDate>Fri, 12 Dec 2025 05:13:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spectacular loss by Honduras’ governing party spurs reflection and criticism]]></title>
-<link>https://apnews.com/article/honduras-trump-castro-zelaya-corruption-1fea54ad5b4a07cd576d79ec91b9f6c0</link>
-<pubDate>Fri, 12 Dec 2025 04:58:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US seizure of rogue oil tanker off Venezuela signals new crackdown on shadow fleet]]></title>
-<link>https://apnews.com/article/venezuela-oil-trump-sanctions-maduro-a2ef5b45b48365861e0a724d8c27dce3</link>
-<pubDate>Thu, 11 Dec 2025 22:10:57 -0000</pubDate>
+<title><![CDATA[China’s new ‘condom tax’ draws skepticism and worries over health risks]]></title>
+<link>https://apnews.com/article/china-tax-contraceptives-condoms-std-birth-2fa6bff0e283e141abf1d03f6425742f</link>
+<pubDate>Fri, 12 Dec 2025 04:43:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican devotion to the Virgin of Guadalupe blends into national identity]]></title>
-<link>https://apnews.com/article/our-lady-of-guadalupe-virgin-mary-mexico-f59db31a26efa0f057e603ba7897635d</link>
-<pubDate>Fri, 12 Dec 2025 06:03:28 -0000</pubDate>
+<title><![CDATA[Spectacular loss by Honduras’ governing party spurs reflection and criticism]]></title>
+<link>https://apnews.com/article/honduras-trump-castro-zelaya-corruption-1fea54ad5b4a07cd576d79ec91b9f6c0</link>
+<pubDate>Fri, 12 Dec 2025 04:58:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
