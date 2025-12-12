@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Dec 2025 21:10:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 21:35:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa eases affirmative action regulations on Starlink and others that Musk said were racist]]></title>
+<link>https://apnews.com/article/south-africa-elon-musk-starlink-91c9289d2d4f13d5c20decda3c896875</link>
+<pubDate>Fri, 12 Dec 2025 21:35:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Attacks by insurgents in Mozambique are compounding a displacement crisis, especially for children]]></title>
 <link>https://apnews.com/article/mozambique-insurgency-health-displacement-children-cabo-delgado-78e2c827b79e1c8f49d4c10c7971a30c</link>
 <pubDate>Fri, 12 Dec 2025 15:58:12 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Building under construction collapses on temple in South Africa, leaving 1 dead]]></title>
 <link>https://apnews.com/article/building-collapse-south-africa-temple-verulam-ec650d93dca9d1233363acf888bad859</link>
 <pubDate>Fri, 12 Dec 2025 17:41:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A free childbirth program ends in eastern Congo at the worst of times]]></title>
-<link>https://apnews.com/article/congo-goma-rebels-maternity-childbirth-health-6d0c8e56cda4f8b17682d45437c0b00c</link>
-<pubDate>Fri, 12 Dec 2025 03:52:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Danish intelligence report warns of US military threat under Trump]]></title>
+<link>https://apnews.com/article/denmark-nato-trump-russia-china-greenland-907b309f213322a437771521fce5a08c</link>
+<pubDate>Fri, 12 Dec 2025 21:20:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[PHOTO ESSAY: In Texas, a former Chinese official targeted by Beijing’s surveillance finds refuge]]></title>
 <link>https://apnews.com/photo-essay/whistleblower-china-surveillance-tech-silicon-valley-essay-b852a7415c9b80513a19f9dbd4f62355</link>
 <pubDate>Fri, 12 Dec 2025 06:03:26 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Trump signs executive order to block state AI regulations]]></title>
 <link>https://apnews.com/article/trump-ai-regulation-executive-order-state-laws-9cb4dd1bc249e404260b3dc233217388</link>
 <pubDate>Fri, 12 Dec 2025 09:42:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Congress would target China with new restrictions in massive defense bill]]></title>
-<link>https://apnews.com/article/china-congress-investment-restrictions-trump-ndaa-7d16d9c150333d0d0a95050fc521108c</link>
-<pubDate>Thu, 11 Dec 2025 06:18:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,12 +176,6 @@
 <title><![CDATA[Believers in Our Lady of Guadalupe flock to her Mexico City shrine, in photos]]></title>
 <link>https://apnews.com/photo-gallery/guadalupe-virgin-feast-day-mexico-catholic-6dd7fbfff1f7e1e68b7a3f2a24b9943e</link>
 <pubDate>Fri, 12 Dec 2025 18:50:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains]]></title>
-<link>https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616</link>
-<pubDate>Fri, 12 Dec 2025 18:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,9 +275,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[King Charles III to speak about his cancer treatment, recovery on TV show promoting early screening]]></title>
+<title><![CDATA[King Charles III speaks about his cancer treatment, recovery on TV show promoting early screening]]></title>
 <link>https://apnews.com/article/king-charles-iii-cancer-royals-14370b740bfd22e4a5f45c67a3117168</link>
-<pubDate>Fri, 12 Dec 2025 11:23:09 -0000</pubDate>
+<pubDate>Fri, 12 Dec 2025 21:35:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,9 +293,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tumbling tech drags Wall Street off its records and toward its worst day in 3 weeks]]></title>
+<title><![CDATA[Tumbling tech stocks drag Wall Street to its worst day in 3 weeks]]></title>
 <link>https://apnews.com/article/markets-stocks-rates-ai-china-0c6643355617e99572ed96e4c5cb30ad</link>
-<pubDate>Fri, 12 Dec 2025 17:26:02 -0000</pubDate>
+<pubDate>Fri, 12 Dec 2025 21:20:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -344,6 +338,12 @@
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-11-2025-8f36580bb2fadaa8b5654ddb8c29c9d8</link>
 <pubDate>Fri, 12 Dec 2025 00:54:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Canada’s Liberals are one shy of a majority government after another Conservative defects]]></title>
+<link>https://apnews.com/article/canada-conservative-defection-carney-liberals-b329dd7806732e9cd84a1283d22eba7c</link>
+<pubDate>Fri, 12 Dec 2025 03:37:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Danish intelligence report warns of US military threat under Trump]]></title>
-<link>https://apnews.com/article/denmark-nato-trump-russia-china-greenland-907b309f213322a437771521fce5a08c</link>
-<pubDate>Fri, 12 Dec 2025 15:28:14 -0000</pubDate>
+<title><![CDATA[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains]]></title>
+<link>https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616</link>
+<pubDate>Fri, 12 Dec 2025 21:35:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
