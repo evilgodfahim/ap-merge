@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Dec 2025 09:43:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 10:12:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Bulgarian court rejects extradition of Russian owner of a ship linked to Beirut port blast]]></title>
 <link>https://apnews.com/article/bulgaria-lebanon-port-blast-court-extradition-3ded9ea5f52622c1b5aa527a6d597f3b</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Attack by gunmen kills 3 members of Revolutionary Guard in southeast Iran]]></title>
 <link>https://apnews.com/article/iran-attack-revolutionary-guard-20ffc6a4c61190b989097eb9dcbecfbd</link>
 <pubDate>Wed, 10 Dec 2025 12:39:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cut off by their banks and even iced out by Alexa, sanctioned ICC staffers remain resolute]]></title>
+<link>https://apnews.com/article/international-court-sanctions-trump-icc-hague-4cdefe4de067432f6cdb9b137908c463</link>
+<pubDate>Fri, 12 Dec 2025 10:12:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maria Corina Machado says Maduro government didn’t know where she was hiding]]></title>
-<link>https://apnews.com/article/nobel-peace-prize-maria-corina-machado-venezuela-afb5af1ac2c3c14e9bf53626f11f8279</link>
-<pubDate>Fri, 12 Dec 2025 05:13:06 -0000</pubDate>
+<title><![CDATA[Border clashes between Thailand and Cambodia intensify with airstrikes and artillery attacks]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-dispute-fighting-displaced-64b20ab85a40fd80f98e6b9c3811bb43</link>
+<pubDate>Thu, 11 Dec 2025 15:00:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Skydiver dangles at 15,000 feet after parachute catches on plane’s tail in Australia]]></title>
+<link>https://apnews.com/article/australia-parachute-entangled-ff6a37bbeb8af80718114a9b379b7b49</link>
+<pubDate>Fri, 12 Dec 2025 09:57:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A Chinese whistleblower now living in the US is being hunted by Beijing with help from US tech]]></title>
 <link>https://apnews.com/article/whistleblower-china-surveillance-tech-silicon-valley-adbd0bcfbb0892bfcb85948acb3f515f</link>
 <pubDate>Fri, 12 Dec 2025 06:18:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: In Texas, a former Chinese official targeted by Beijing’s surveillance finds refuge]]></title>
-<link>https://apnews.com/photo-essay/whistleblower-china-surveillance-tech-silicon-valley-essay-b852a7415c9b80513a19f9dbd4f62355</link>
-<pubDate>Fri, 12 Dec 2025 06:03:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s new ‘condom tax’ draws skepticism and worries over health risks]]></title>
-<link>https://apnews.com/article/china-tax-contraceptives-condoms-std-birth-2fa6bff0e283e141abf1d03f6425742f</link>
-<pubDate>Fri, 12 Dec 2025 02:46:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From hiding to Nobel laureate: María Corina Machado’s continues fight for Venezuela’s democracy]]></title>
-<link>https://apnews.com/article/venezuela-machado-opposition-nobel-maduro-trump-9651e9d053c105e94912e2bdd5873b7c</link>
-<pubDate>Fri, 12 Dec 2025 05:48:26 -0000</pubDate>
+<title><![CDATA[Maria Corina Machado says Maduro government didn’t know where she was hiding]]></title>
+<link>https://apnews.com/article/nobel-peace-prize-maria-corina-machado-venezuela-afb5af1ac2c3c14e9bf53626f11f8279</link>
+<pubDate>Fri, 12 Dec 2025 05:13:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s new ‘condom tax’ draws skepticism and worries over health risks]]></title>
+<link>https://apnews.com/article/china-tax-contraceptives-condoms-std-birth-2fa6bff0e283e141abf1d03f6425742f</link>
+<pubDate>Fri, 12 Dec 2025 02:46:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump signs executive order to block state AI regulations]]></title>
+<link>https://apnews.com/article/trump-ai-regulation-executive-order-state-laws-9cb4dd1bc249e404260b3dc233217388</link>
+<pubDate>Fri, 12 Dec 2025 09:42:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congress would target China with new restrictions in massive defense bill]]></title>
 <link>https://apnews.com/article/china-congress-investment-restrictions-trump-ndaa-7d16d9c150333d0d0a95050fc521108c</link>
 <pubDate>Thu, 11 Dec 2025 06:18:35 -0000</pubDate>
@@ -134,18 +146,6 @@
 <title><![CDATA[Oreo is bringing zero-sugar cookies to the US]]></title>
 <link>https://apnews.com/article/oreos-zero-sugar-f5c38f55fa826dab7d537f17a48b52dd</link>
 <pubDate>Thu, 11 Dec 2025 05:03:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal charges dozens and says corruption inflated an airport’s costs by $74 million]]></title>
-<link>https://apnews.com/article/nepal-china-corruption-airport-c112cb659a00efd348ea270f97f1e861</link>
-<pubDate>Wed, 10 Dec 2025 04:58:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese premier cites damage from US tariffs, as China’s surplus surpasses $1 trillion]]></title>
-<link>https://apnews.com/article/china-trade-trump-tariffs-economy-e86ad5c2ff6735e45b7ce1a955c6829c</link>
-<pubDate>Tue, 09 Dec 2025 20:37:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares track US stock market’s rise to record highs despite AI bubble worries]]></title>
+<title><![CDATA[World shares track US stock market’s rise to record highs despite AI bubble worries]]></title>
 <link>https://apnews.com/article/markets-stocks-rates-ai-china-0c6643355617e99572ed96e4c5cb30ad</link>
-<pubDate>Fri, 12 Dec 2025 06:18:27 -0000</pubDate>
+<pubDate>Fri, 12 Dec 2025 10:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[From hiding to Nobel laureate: María Corina Machado’s continues fight for Venezuela’s democracy]]></title>
+<link>https://apnews.com/article/venezuela-machado-opposition-nobel-maduro-trump-9651e9d053c105e94912e2bdd5873b7c</link>
+<pubDate>Fri, 12 Dec 2025 09:57:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kilmar Abrego Garcia freed from federal immigration detention on judge’s order and returns home]]></title>
 <link>https://apnews.com/article/abrego-garcia-el-salvador-deportation-31160936c51932f74b717eb1143edd55</link>
 <pubDate>Fri, 12 Dec 2025 05:18:27 -0000</pubDate>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rare Dom Pérignon champagne from Charles and Diana’s wedding fails to sell during Denmark auction]]></title>
-<link>https://apnews.com/article/denmark-royal-champagne-auction-wedding-diana-charles-85a38ad3bbc7f25cc35bef6d7b998b2e</link>
-<pubDate>Thu, 11 Dec 2025 17:30:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Chileans are divided in a presidential runoff tilted toward the far right]]></title>
 <link>https://apnews.com/article/chile-election-president-runoff-jara-kast-boric-3e3fdce60c8185e5c1b3d520c80af4bb</link>
 <pubDate>Fri, 12 Dec 2025 08:50:13 -0000</pubDate>
@@ -365,21 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cut off by their banks and even iced out by Alexa, sanctioned ICC staffers remain resolute]]></title>
-<link>https://apnews.com/article/international-court-sanctions-trump-icc-hague-4cdefe4de067432f6cdb9b137908c463</link>
-<pubDate>Fri, 12 Dec 2025 06:18:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
 <pubDate>Fri, 12 Dec 2025 02:46:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand’s Parliament is dissolved for new elections early next year]]></title>
-<link>https://apnews.com/article/thailand-election-cambodia-b9cddef068c4415ec29f0e423dd3e006</link>
-<pubDate>Fri, 12 Dec 2025 05:13:07 -0000</pubDate>
+<title><![CDATA[EU set to lock up Russia’s frozen assets so Hungary and Slovakia can’t veto their use for Ukraine]]></title>
+<link>https://apnews.com/article/eu-russia-frozen-assets-ukraine-war-a65c92625cab565da7b8e07013dead05</link>
+<pubDate>Fri, 12 Dec 2025 10:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Border clashes between Thailand and Cambodia intensify with airstrikes and artillery attacks]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-dispute-fighting-displaced-64b20ab85a40fd80f98e6b9c3811bb43</link>
-<pubDate>Thu, 11 Dec 2025 12:56:04 -0000</pubDate>
+<title><![CDATA[Thailand’s Parliament is dissolved for new elections early next year]]></title>
+<link>https://apnews.com/article/thailand-election-cambodia-b9cddef068c4415ec29f0e423dd3e006</link>
+<pubDate>Fri, 12 Dec 2025 05:13:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump signs executive order to block state AI regulations]]></title>
-<link>https://apnews.com/article/trump-ai-regulation-executive-order-state-laws-9cb4dd1bc249e404260b3dc233217388</link>
-<pubDate>Fri, 12 Dec 2025 02:31:49 -0000</pubDate>
+<title><![CDATA[PHOTO ESSAY: In Texas, a former Chinese official targeted by Beijing’s surveillance finds refuge]]></title>
+<link>https://apnews.com/photo-essay/whistleblower-china-surveillance-tech-silicon-valley-essay-b852a7415c9b80513a19f9dbd4f62355</link>
+<pubDate>Fri, 12 Dec 2025 09:57:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
