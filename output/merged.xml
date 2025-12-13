@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 12:19:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 13:01:55 GMT</lastBuildDate>
+<item>
+<title><![CDATA[UN chief recommends Iraqi ex-President Barham Salih take over refugee agency, letter says]]></title>
+<link>https://apnews.com/article/unhcr-leadership-united-nations-geneva-7100a3a9741f18a4dede8a8a319579bd</link>
+<pubDate>Sat, 13 Dec 2025 13:01:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UN-sanctioned migrant smuggler killed in western Libya]]></title>
 <link>https://apnews.com/article/libya-ammu-migrant-trafficking-militia-sabratha-b41dfa122fc36162e319b02f3a172fc4</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
-<link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
-<pubDate>Fri, 12 Dec 2025 18:50:39 -0000</pubDate>
+<title><![CDATA[US says it will lift some trade sanctions on Russia’s ally Belarus]]></title>
+<link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
+<pubDate>Sat, 13 Dec 2025 12:46:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Bulgaria’s president will start talks on new cabinet after government collapse]]></title>
 <link>https://apnews.com/article/bulgaria-president-elections-euro-russia-b3409ba643be6c226d31b37d6ba1b144</link>
 <pubDate>Sat, 13 Dec 2025 11:32:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cut off by their banks and even iced out by Alexa, sanctioned ICC staffers remain resolute]]></title>
-<link>https://apnews.com/article/international-court-sanctions-trump-icc-hague-4cdefe4de067432f6cdb9b137908c463</link>
-<pubDate>Fri, 12 Dec 2025 10:12:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
 <link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
 <pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[In Alaska’s warming Arctic, photos show an Indigenous elder passing down hunting traditions]]></title>
+<link>https://apnews.com/photo-gallery/climate-alaska-hunting-6e7e01d287cd11515edfd0f31bda808e</link>
+<pubDate>Sat, 13 Dec 2025 13:01:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about King Charles III’s cancer treatment and his message to the public]]></title>
+<link>https://apnews.com/article/king-charles-cancer-treatment-what-to-know-8337a80f7c36b99b8671f0df0bcd6061</link>
+<pubDate>Sat, 13 Dec 2025 12:46:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tumbling tech stocks drag Wall Street to its worst day in 3 weeks]]></title>
-<link>https://apnews.com/article/markets-stocks-rates-ai-china-0c6643355617e99572ed96e4c5cb30ad</link>
-<pubDate>Fri, 12 Dec 2025 21:20:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghan polio survivor’s sock factory provides hope by employing disabled workers]]></title>
-<link>https://apnews.com/article/afghanistan-disabilities-sock-factory-herat-a6a792a5fee65de76a807a1021df7b7e</link>
-<pubDate>Fri, 12 Dec 2025 06:03:27 -0000</pubDate>
+<title><![CDATA[2 killed in Russia while Ukraine’s energy infrastructure is targeted as peace talks press on]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
+<pubDate>Sat, 13 Dec 2025 11:32:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Gaza amputees struggle to rebuild lives as the enclave faces shortages of prosthetic limbs]]></title>
 <link>https://apnews.com/article/gaza-war-israel-amputee-health-injuries-de54b68b714532e46a0c4c115751d791</link>
 <pubDate>Sat, 13 Dec 2025 06:16:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian police and National Guard will stay in Ukraine’s Donbas postwar, a Kremlin official says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-donbas-peace-talks-95d7adf96046d8718a6e5c78d229d44c</link>
-<pubDate>Fri, 12 Dec 2025 17:41:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
+<link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
+<pubDate>Sat, 13 Dec 2025 12:46:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
 <link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
 <pubDate>Fri, 12 Dec 2025 17:50:40 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Syrian-American Jews register first Jewish NGO in Syria to restore heritage]]></title>
 <link>https://apnews.com/article/syria-jews-heritage-henry-hamra-77fd975e4a5039c67bcd5d9b9c87e1c6</link>
 <pubDate>Fri, 12 Dec 2025 13:42:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN chief recommends Iraqi ex-President Barham Salih take over refugee agency, letter says]]></title>
-<link>https://apnews.com/article/unhcr-leadership-united-nations-geneva-7100a3a9741f18a4dede8a8a319579bd</link>
-<pubDate>Fri, 12 Dec 2025 17:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +443,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 killed in Russia while Ukraine’s energy infrastructure is targeted as peace talks press on]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
-<pubDate>Sat, 13 Dec 2025 11:32:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
 <link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
 <pubDate>Sat, 13 Dec 2025 07:22:27 -0000</pubDate>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of moments of joy brought to life by AP photojournalists in 2025]]></title>
-<link>https://apnews.com/photo-gallery/top-associated-press-photos-joy-2025-78f245d8b9b0cb1b85314239a9fd7e33</link>
-<pubDate>Thu, 11 Dec 2025 08:49:28 -0000</pubDate>
+<title><![CDATA[A winter storm chills Gaza and floods tent camps, exposing aid failures]]></title>
+<link>https://apnews.com/article/mideast-wars-gaza-storm-12-11-2025-d92be5d741f6fbbf98dd3e360b99b8e4</link>
+<pubDate>Fri, 12 Dec 2025 02:46:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
