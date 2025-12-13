@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 08:14:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 08:43:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN-sanctioned migrant smuggler killed in western Libya]]></title>
 <link>https://apnews.com/article/libya-ammu-migrant-trafficking-militia-sabratha-b41dfa122fc36162e319b02f3a172fc4</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU indefinitely freezes Russian assets so Hungary and Slovakia can’t veto their use for Ukraine]]></title>
-<link>https://apnews.com/article/eu-russia-frozen-assets-ukraine-war-a65c92625cab565da7b8e07013dead05</link>
-<pubDate>Fri, 12 Dec 2025 18:35:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cut off by their banks and even iced out by Alexa, sanctioned ICC staffers remain resolute]]></title>
 <link>https://apnews.com/article/international-court-sanctions-trump-icc-hague-4cdefe4de067432f6cdb9b137908c463</link>
 <pubDate>Fri, 12 Dec 2025 10:12:28 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[Belarus leader hosts US envoy as he seeks to improve his country’s ties with the West]]></title>
 <link>https://apnews.com/article/belarus-lukashenko-trump-sanctions-political-prisoners-0e487ebffab90b8d97669564a4552ffd</link>
 <pubDate>Fri, 12 Dec 2025 12:53:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rare fresco of Jesus as the ‘Good Shepherd’ uncovered in Turkish town visited by the pope]]></title>
+<link>https://apnews.com/article/turkey-good-shepherd-jesus-tomb-fresco-iznik-8d5febc650b7e410d552c0edfd3748dd</link>
+<pubDate>Sat, 13 Dec 2025 08:43:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 people killed in Russia’s Saratov region as peace talks press on]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
+<pubDate>Sat, 13 Dec 2025 08:43:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Meet the Indigenous women behind Mexican President Claudia Sheinbaum’s ‘most stylish’ looks]]></title>
 <link>https://apnews.com/article/mexico-president-indigenous-fashion-966f648b420040404996ef79544a30cb</link>
 <pubDate>Sat, 13 Dec 2025 02:27:58 -0000</pubDate>
@@ -242,12 +248,6 @@
 <title><![CDATA[Building under construction collapses on temple in South Africa, leaving 1 dead]]></title>
 <link>https://apnews.com/article/building-collapse-south-africa-temple-verulam-ec650d93dca9d1233363acf888bad859</link>
 <pubDate>Sat, 13 Dec 2025 07:22:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rare fresco of Jesus as the ‘Good Shepherd’ uncovered in Turkish town visited by the pope]]></title>
-<link>https://apnews.com/article/turkey-good-shepherd-jesus-tomb-fresco-iznik-8d5febc650b7e410d552c0edfd3748dd</link>
-<pubDate>Fri, 12 Dec 2025 14:42:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,6 +368,12 @@
 <title><![CDATA[Russian police and National Guard will stay in Ukraine’s Donbas postwar, a Kremlin official says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-donbas-peace-talks-95d7adf96046d8718a6e5c78d229d44c</link>
 <pubDate>Fri, 12 Dec 2025 17:41:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[EU indefinitely freezes Russian assets so Hungary and Slovakia can’t veto their use for Ukraine]]></title>
+<link>https://apnews.com/article/eu-russia-frozen-assets-ukraine-war-a65c92625cab565da7b8e07013dead05</link>
+<pubDate>Fri, 12 Dec 2025 18:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
