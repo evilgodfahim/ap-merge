@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 07:10:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 07:37:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN-sanctioned migrant smuggler killed in western Libya]]></title>
 <link>https://apnews.com/article/libya-ammu-migrant-trafficking-militia-sabratha-b41dfa122fc36162e319b02f3a172fc4</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
-<link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
-<pubDate>Sat, 13 Dec 2025 03:20:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Before megalodon, researchers say a monstrous shark ruled ancient Australian seas]]></title>
 <link>https://apnews.com/article/mega-predator-sharks-australia-megalodon-dinosaurs-prehistoric-7be812ea8226225d6e224750978e09a5</link>
 <pubDate>Sat, 13 Dec 2025 02:27:57 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Myanmar military claims armed opposition groups used hospital hit by airstrike as base]]></title>
 <link>https://apnews.com/article/myanmar-airstrike-hospital-rakhine-arakan-army-8f1752e762288834aea05ae1a8f07f55</link>
 <pubDate>Sat, 13 Dec 2025 06:16:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand’s parliament is dissolved for a new election early next year]]></title>
+<link>https://apnews.com/article/thailand-election-cambodia-b9cddef068c4415ec29f0e423dd3e006</link>
+<pubDate>Sat, 13 Dec 2025 07:37:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
+<link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
+<pubDate>Sat, 13 Dec 2025 07:22:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Conservationists connect with chimps in a Ugandan rainforest as they seek a sense of communion]]></title>
 <link>https://apnews.com/article/uganda-chimpanzees-tourists-conservationists-rainforest-a8c2bc543248946a58a3a9014366fd48</link>
 <pubDate>Fri, 12 Dec 2025 20:12:10 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Attacks by insurgents in Mozambique are compounding a displacement crisis, especially for children]]></title>
 <link>https://apnews.com/article/mozambique-insurgency-health-displacement-children-cabo-delgado-78e2c827b79e1c8f49d4c10c7971a30c</link>
 <pubDate>Fri, 12 Dec 2025 15:58:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Building under construction collapses on temple in South Africa, leaving 1 dead]]></title>
-<link>https://apnews.com/article/building-collapse-south-africa-temple-verulam-ec650d93dca9d1233363acf888bad859</link>
-<pubDate>Fri, 12 Dec 2025 17:41:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,6 +203,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says he’s sealed Thailand-Cambodia ceasefire, but fighting continues]]></title>
+<link>https://apnews.com/article/trump-thailand-cambodia-ceasefire-clashes-8c7dd464da0c8914e07c7e1146a9ce8c</link>
+<pubDate>Sat, 13 Dec 2025 07:37:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Treasury rachets up investigations targeting Minnesota’s Somali community for fraud]]></title>
 <link>https://apnews.com/article/treasury-scott-bessent-somalia-trump-872821ede5c4b97a506a488724275b01</link>
 <pubDate>Fri, 12 Dec 2025 18:05:40 -0000</pubDate>
@@ -230,6 +236,12 @@
 <title><![CDATA[Pope meets with Italian secret agents and urges them to be ethical]]></title>
 <link>https://apnews.com/article/vatican-pope-italy-intelligence-agents-58cd37d19629fb73aa578066b84a66d9</link>
 <pubDate>Fri, 12 Dec 2025 15:12:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Building under construction collapses on temple in South Africa, leaving 1 dead]]></title>
+<link>https://apnews.com/article/building-collapse-south-africa-temple-verulam-ec650d93dca9d1233363acf888bad859</link>
+<pubDate>Sat, 13 Dec 2025 07:22:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A dance hall in Buenos Aires guarantees tango sessions with professional partners]]></title>
-<link>https://apnews.com/article/buenos-aires-taxi-dancers-tango-milongas-8436f6c91b6909fb9aac03ed42874dd9</link>
-<pubDate>Fri, 12 Dec 2025 10:53:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Oscar winner Morricone’s lost opera debuts in Naples after 30 years]]></title>
-<link>https://apnews.com/article/italy-opera-morricone-partenope-naples-music-myth-d04ef232f88d2bef0519e5166a55ce99</link>
-<pubDate>Fri, 12 Dec 2025 19:42:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he’s sealed Thailand-Cambodia ceasefire, but fighting continues]]></title>
-<link>https://apnews.com/article/trump-thailand-cambodia-ceasefire-clashes-8c7dd464da0c8914e07c7e1146a9ce8c</link>
-<pubDate>Sat, 13 Dec 2025 03:35:41 -0000</pubDate>
+<title><![CDATA[Fighting rages on Thai-Cambodian border despite Trump’s ceasefire claim]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-airstrikes-5ac285b9d4391f0024a3276cd23df722</link>
+<pubDate>Sat, 13 Dec 2025 07:37:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand’s parliament is dissolved for a new election early next year]]></title>
-<link>https://apnews.com/article/thailand-election-cambodia-b9cddef068c4415ec29f0e423dd3e006</link>
-<pubDate>Fri, 12 Dec 2025 15:58:14 -0000</pubDate>
+<title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
+<link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
+<pubDate>Sat, 13 Dec 2025 07:22:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
-<link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
-<pubDate>Sat, 13 Dec 2025 00:51:27 -0000</pubDate>
+<title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
+<link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
+<pubDate>Sat, 13 Dec 2025 07:07:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
