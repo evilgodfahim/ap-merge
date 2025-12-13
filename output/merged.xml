@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 17:08:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 17:36:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
 <link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Belarus frees Nobel Prize laureate Bialiatski, opposition figure Kolesnikova as US lifts sanctions]]></title>
-<link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
-<pubDate>Sat, 13 Dec 2025 14:40:02 -0000</pubDate>
+<title><![CDATA[Ukrainian drone attack kills 2 in Russia as millions in Ukraine lose power]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
+<pubDate>Sat, 13 Dec 2025 17:36:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN chief recommends Iraqi ex-President Barham Salih take over refugee agency, letter says]]></title>
-<link>https://apnews.com/article/unhcr-leadership-united-nations-geneva-7100a3a9741f18a4dede8a8a319579bd</link>
-<pubDate>Sat, 13 Dec 2025 13:01:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
 <link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
 <pubDate>Sat, 13 Dec 2025 07:22:25 -0000</pubDate>
@@ -101,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Higher cost, worse coverage: Affordable Care Act enrollees say expiring subsidies will hit them hard]]></title>
+<link>https://apnews.com/article/congress-health-care-subsidies-cost-aca-premiums-6a69b51aee8a6b04353b914e044f4efa</link>
+<pubDate>Sat, 13 Dec 2025 17:21:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[This holiday season isn’t very merry for consumers, an AP-NORC poll finds]]></title>
 <link>https://apnews.com/article/poll-economy-inflation-groceries-costs-trump-affordability-d27635d279b27e5e2c19700c006ebb1d</link>
 <pubDate>Sat, 13 Dec 2025 13:39:47 -0000</pubDate>
@@ -110,12 +110,6 @@
 <title><![CDATA[What to know about Kilmar Abrego Garcia’s release from immigration custody]]></title>
 <link>https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-c6f255d11c8ce09be5e67a8df3de2f64</link>
 <pubDate>Sat, 13 Dec 2025 06:01:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Historic rains and flooding trigger dramatic rescues in Washington state]]></title>
-<link>https://apnews.com/article/washington-flooding-rescues-evacuations-water-receding-22ddbfbb21257f6cf027f8c5641be3ab</link>
-<pubDate>Sat, 13 Dec 2025 05:46:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 killed in Russia while Ukraine’s energy infrastructure is targeted as peace talks press on]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
-<pubDate>Sat, 13 Dec 2025 11:32:52 -0000</pubDate>
+<title><![CDATA[Belarus frees Nobel Prize laureate Bialiatski, opposition figure Kolesnikova as US lifts sanctions]]></title>
+<link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
+<pubDate>Sat, 13 Dec 2025 15:10:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says it has killed a top Hamas commander in Gaza]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-618c7499c626af446d23788d237a85bf</link>
+<pubDate>Sat, 13 Dec 2025 17:21:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Several wounded after shots fired at Syrian and US forces in Palmyra]]></title>
+<title><![CDATA[2 US service members and one American civilian killed in ambush in Syria, US Central Command says]]></title>
 <link>https://apnews.com/article/syria-us-military-attack-palmyra-is-22f67e54c1a15fcc643de2672b83aacb</link>
-<pubDate>Sat, 13 Dec 2025 16:12:09 -0000</pubDate>
+<pubDate>Sat, 13 Dec 2025 17:06:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Higher cost, worse coverage: Affordable Care Act enrollees say expiring subsidies will hit them hard]]></title>
-<link>https://apnews.com/article/congress-health-care-subsidies-cost-aca-premiums-6a69b51aee8a6b04353b914e044f4efa</link>
-<pubDate>Sat, 13 Dec 2025 13:39:48 -0000</pubDate>
+<title><![CDATA[Arctic air plunges south as residents of the Pacific Northwest remain on guard after severe flooding]]></title>
+<link>https://apnews.com/article/flooding-freezing-cold-weather-northwest-midwest-f7a8fd20e8ddb99d99744acf68d0f0a3</link>
+<pubDate>Sat, 13 Dec 2025 16:51:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
