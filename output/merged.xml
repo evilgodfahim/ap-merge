@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 21:08:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 21:34:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
 <link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian drone attack kills 2 in Russia as millions in Ukraine lose power]]></title>
+<title><![CDATA[Ukrainian drone attack kills 2 in Russia as over 1 million people in Ukraine lose power]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
-<pubDate>Sat, 13 Dec 2025 17:36:19 -0000</pubDate>
+<pubDate>Sat, 13 Dec 2025 21:34:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
+<link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
+<pubDate>Sat, 13 Dec 2025 21:19:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
 <link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
 <pubDate>Sat, 13 Dec 2025 07:22:25 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[South Africa eases affirmative action regulations on Starlink and others that Musk said were racist]]></title>
 <link>https://apnews.com/article/south-africa-elon-musk-starlink-91c9289d2d4f13d5c20decda3c896875</link>
 <pubDate>Fri, 12 Dec 2025 21:35:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Attacks by insurgents in Mozambique are compounding a displacement crisis, especially for children]]></title>
-<link>https://apnews.com/article/mozambique-insurgency-health-displacement-children-cabo-delgado-78e2c827b79e1c8f49d4c10c7971a30c</link>
-<pubDate>Fri, 12 Dec 2025 15:58:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
 <link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
 <pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN chief says 6 peacekeepers killed in drone strike on a UN facility in Sudan]]></title>
+<link>https://apnews.com/article/sudan-un-drone-strike-peacekeepers-ce44092563b3612ec9ca26e5f85442b5</link>
+<pubDate>Sat, 13 Dec 2025 21:34:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Attacks by insurgents in Mozambique are compounding a displacement crisis, especially for children]]></title>
+<link>https://apnews.com/article/mozambique-insurgency-health-displacement-children-cabo-delgado-78e2c827b79e1c8f49d4c10c7971a30c</link>
+<pubDate>Fri, 12 Dec 2025 14:12:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Italy’s national strike called by main union disrupts transport and school services]]></title>
 <link>https://apnews.com/article/italy-strike-unions-meloni-government-labor-22df9d003d1aac52e2d8a83f4f7cf995</link>
 <pubDate>Fri, 12 Dec 2025 13:57:19 -0000</pubDate>
@@ -338,18 +350,6 @@
 <title><![CDATA[Puerto Rico sues Luma in first push to cancel contract with private power company]]></title>
 <link>https://apnews.com/article/puerto-rico-luma-sue-contract-government-power-energy-6a5854d17b891f88f56564ed40907b05</link>
 <pubDate>Fri, 12 Dec 2025 15:43:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia’s Central Bank sues Belgian financial institution as EU mulls using Moscow’s frozen assets]]></title>
-<link>https://apnews.com/article/russia-frozen-assets-belgium-eu-euroclear-sanctions-b378cb2bf74bd79175930b8ca991c1cc</link>
-<pubDate>Fri, 12 Dec 2025 12:38:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AP photographers capture destruction, heartache and resilience as climate change advanced in 2025]]></title>
-<link>https://apnews.com/photo-gallery/climate-change-environment-weather-photos-2025-6981b6aff56a36e054b85bbb76d1d449</link>
-<pubDate>Fri, 12 Dec 2025 12:23:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
-<link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
-<pubDate>Sat, 13 Dec 2025 07:07:27 -0000</pubDate>
+<title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
+<link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
+<pubDate>Sat, 13 Dec 2025 21:19:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
