@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 11:08:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 11:32:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN-sanctioned migrant smuggler killed in western Libya]]></title>
 <link>https://apnews.com/article/libya-ammu-migrant-trafficking-militia-sabratha-b41dfa122fc36162e319b02f3a172fc4</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU indefinitely freezes Russian assets so Hungary and Slovakia can’t veto their use for Ukraine]]></title>
+<link>https://apnews.com/article/eu-russia-frozen-assets-ukraine-war-a65c92625cab565da7b8e07013dead05</link>
+<pubDate>Fri, 12 Dec 2025 18:35:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bulgaria’s president will start talks on new cabinet after government collapse]]></title>
+<link>https://apnews.com/article/bulgaria-president-elections-euro-russia-b3409ba643be6c226d31b37d6ba1b144</link>
+<pubDate>Sat, 13 Dec 2025 11:32:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cut off by their banks and even iced out by Alexa, sanctioned ICC staffers remain resolute]]></title>
 <link>https://apnews.com/article/international-court-sanctions-trump-icc-hague-4cdefe4de067432f6cdb9b137908c463</link>
 <pubDate>Fri, 12 Dec 2025 10:12:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Belarus leader hosts US envoy as he seeks to improve his country’s ties with the West]]></title>
-<link>https://apnews.com/article/belarus-lukashenko-trump-sanctions-political-prisoners-0e487ebffab90b8d97669564a4552ffd</link>
-<pubDate>Fri, 12 Dec 2025 12:53:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rare fresco of Jesus as the ‘Good Shepherd’ uncovered in Turkish town visited by the pope]]></title>
-<link>https://apnews.com/article/turkey-good-shepherd-jesus-tomb-fresco-iznik-8d5febc650b7e410d552c0edfd3748dd</link>
-<pubDate>Sat, 13 Dec 2025 08:43:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa’s batters restore some pride in 51-run win against India in 2nd T20]]></title>
+<link>https://apnews.com/article/india-south-africa-cricket-t20-c86d9b35aa24acdff52d50bfe7e39619</link>
+<pubDate>Sat, 13 Dec 2025 11:17:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Olympic hopeful cross-country skier tries to put India on the winter sports map]]></title>
 <link>https://apnews.com/article/olympics-india-cross-country-skiing-01380f72cf3b383e773da29007e08cd6</link>
 <pubDate>Wed, 10 Dec 2025 07:10:48 -0000</pubDate>
@@ -158,18 +164,6 @@
 <title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
 <link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
 <pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s top general calls on Afghanistan to pick between ties with Islamabad or Pakistani Taliban]]></title>
-<link>https://apnews.com/article/pakistan-armed-forces-chief-warns-afghanistan-taliban-2cb1e90fd512fb5eada5cfd898d2e29c</link>
-<pubDate>Mon, 08 Dec 2025 12:57:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 killed in Russia while Ukraine’s energy infrastructure is targeted as peace talks press on]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
-<pubDate>Sat, 13 Dec 2025 10:10:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rare fresco of Jesus as the ‘Good Shepherd’ uncovered in Turkish town visited by the pope]]></title>
+<link>https://apnews.com/article/turkey-good-shepherd-jesus-tomb-fresco-iznik-8d5febc650b7e410d552c0edfd3748dd</link>
+<pubDate>Fri, 12 Dec 2025 14:42:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands of devotees flood Mexico City for Virgin of Guadalupe pilgrimage]]></title>
 <link>https://apnews.com/article/mexico-virgin-guadalupe-basilica-96f75e0e7c46d27ec70456010c52d244</link>
 <pubDate>Fri, 12 Dec 2025 22:40:22 -0000</pubDate>
@@ -260,6 +260,12 @@
 <title><![CDATA[Italy’s national strike called by main union disrupts transport and school services]]></title>
 <link>https://apnews.com/article/italy-strike-unions-meloni-government-labor-22df9d003d1aac52e2d8a83f4f7cf995</link>
 <pubDate>Fri, 12 Dec 2025 13:57:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Belarus leader hosts US envoy as he seeks to improve his country’s ties with the West]]></title>
+<link>https://apnews.com/article/belarus-lukashenko-trump-sanctions-political-prisoners-0e487ebffab90b8d97669564a4552ffd</link>
+<pubDate>Sat, 13 Dec 2025 11:32:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal judge issues order to prohibit immigration officials from detaining Kilmar Abrego Garcia]]></title>
-<link>https://apnews.com/article/abrego-garcia-el-salvador-deportation-f6d3df5d2315375dea83492858dc91f5</link>
-<pubDate>Sat, 13 Dec 2025 06:16:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fighting rages on Thai-Cambodian border despite Trump’s ceasefire claim]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-airstrikes-5ac285b9d4391f0024a3276cd23df722</link>
 <pubDate>Sat, 13 Dec 2025 07:37:27 -0000</pubDate>
@@ -368,12 +368,6 @@
 <title><![CDATA[Russian police and National Guard will stay in Ukraine’s Donbas postwar, a Kremlin official says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-donbas-peace-talks-95d7adf96046d8718a6e5c78d229d44c</link>
 <pubDate>Fri, 12 Dec 2025 17:41:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU indefinitely freezes Russian assets so Hungary and Slovakia can’t veto their use for Ukraine]]></title>
-<link>https://apnews.com/article/eu-russia-frozen-assets-ukraine-war-a65c92625cab565da7b8e07013dead05</link>
-<pubDate>Fri, 12 Dec 2025 18:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,6 +443,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 killed in Russia while Ukraine’s energy infrastructure is targeted as peace talks press on]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-peace-talks-943238344087d022a361c1b4027696a6</link>
+<pubDate>Sat, 13 Dec 2025 11:32:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
 <link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
 <pubDate>Sat, 13 Dec 2025 07:22:27 -0000</pubDate>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa’s batters restore some pride in 51-run win against India in 2nd T20]]></title>
-<link>https://apnews.com/article/india-south-africa-cricket-t20-c86d9b35aa24acdff52d50bfe7e39619</link>
-<pubDate>Thu, 11 Dec 2025 18:52:36 -0000</pubDate>
+<title><![CDATA[Messi’s tour of India gets off to chaotic start with fans throwing bottles]]></title>
+<link>https://apnews.com/article/messi-india-tour-chaos-statue-934673ac56982657169fa3276e3fd597</link>
+<pubDate>Sat, 13 Dec 2025 11:17:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
