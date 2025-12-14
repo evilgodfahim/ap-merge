@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 11:08:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 11:32:38 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say]]></title>
+<link>https://apnews.com/article/iran-arrest-narges-mohammadi-8523591777ccf6338f9adc1afcf00d90</link>
+<pubDate>Sun, 14 Dec 2025 11:32:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
 <link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
 <pubDate>Sun, 14 Dec 2025 10:11:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
-<link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
-<pubDate>Sat, 13 Dec 2025 20:11:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chile holds an election that could deliver its most right-wing president since dictatorship]]></title>
-<link>https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6</link>
-<pubDate>Sun, 14 Dec 2025 05:30:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[After centuries of conflict, Chile’s Indigenous Mapuches fear a far-right political turn]]></title>
 <link>https://apnews.com/article/chile-election-mapuche-conflict-kast-jara-pinochet-55b06242eca4186b2e8e09e5af95eda1</link>
 <pubDate>Sun, 14 Dec 2025 03:57:24 -0000</pubDate>
@@ -71,9 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
-<link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
-<pubDate>Sat, 13 Dec 2025 14:55:02 -0000</pubDate>
+<title><![CDATA[‘We’re not afraid': Life goes on for Indigenous Colombians despite volcano eruption risk]]></title>
+<link>https://apnews.com/article/colombia-volcano-indigenous-e0b824e8fe33df95e31f7619d7a0ae51</link>
+<pubDate>Sun, 14 Dec 2025 11:17:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
+<link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
+<pubDate>Sat, 13 Dec 2025 15:10:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,12 +215,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
-<link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
-<pubDate>Sun, 14 Dec 2025 10:11:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bulgaria’s president will start talks on new cabinet after government collapse]]></title>
 <link>https://apnews.com/article/bulgaria-president-elections-euro-russia-b3409ba643be6c226d31b37d6ba1b144</link>
 <pubDate>Sat, 13 Dec 2025 14:55:04 -0000</pubDate>
@@ -278,6 +272,12 @@
 <title><![CDATA[US removes Brazilian Supreme Court justice and his wife from sanctions list]]></title>
 <link>https://apnews.com/article/treasury-brazil-sanctions-bolsonaro-trump-4d6f4b61badb2b5c5a7100b325c5946f</link>
 <pubDate>Fri, 12 Dec 2025 20:12:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
+<link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
+<pubDate>Sat, 13 Dec 2025 19:41:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen kill 9 at Bondi Beach; police kill one, arrest another]]></title>
+<title><![CDATA[Gunmen kill at least 11 people at a Jewish event at Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
-<pubDate>Sun, 14 Dec 2025 10:11:03 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 11:32:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the US military’s role in Syria after deadly IS attack]]></title>
+<link>https://apnews.com/article/us-syria-troops-islamic-state-kurds-3354f71e88d278427994d209b2d16d9c</link>
+<pubDate>Sun, 14 Dec 2025 11:17:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Morocco aims to boost legal cannabis farming and tap a global boom]]></title>
 <link>https://apnews.com/article/morocco-cannabis-farming-legalization-3a3308da50c467d77e5e161ffcfb9ad2</link>
 <pubDate>Sun, 14 Dec 2025 07:20:34 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
 <link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
 <pubDate>Sat, 13 Dec 2025 04:44:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say]]></title>
-<link>https://apnews.com/article/iran-arrest-narges-mohammadi-8523591777ccf6338f9adc1afcf00d90</link>
-<pubDate>Fri, 12 Dec 2025 13:57:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘We’re not afraid': Life goes on for Indigenous Colombians despite volcano eruption risk]]></title>
-<link>https://apnews.com/article/colombia-volcano-indigenous-e0b824e8fe33df95e31f7619d7a0ae51</link>
-<pubDate>Sun, 14 Dec 2025 00:58:45 -0000</pubDate>
+<title><![CDATA[Chile holds an election that could deliver its most right-wing president since dictatorship]]></title>
+<link>https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6</link>
+<pubDate>Sun, 14 Dec 2025 11:02:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
+<link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
+<pubDate>Sat, 13 Dec 2025 03:20:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
