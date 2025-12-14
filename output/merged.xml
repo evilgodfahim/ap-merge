@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 15:36:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 16:11:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
 <link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hong Kong’s biggest pro-democracy party votes to disband after more than 30 years of activism]]></title>
+<link>https://apnews.com/article/hong-kong-democratic-party-disband-vote-china-614950a8f77f3fdf89045852decf353f</link>
+<pubDate>Sun, 14 Dec 2025 16:11:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mass shootings are rare in Australia. Here is a look at some previous attacks]]></title>
 <link>https://apnews.com/article/australia-mass-shootings-timeline-ec4e4bc618d587caec42741fbd93fdde</link>
 <pubDate>Sun, 14 Dec 2025 12:46:53 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Photos show the scene of a deadly attack on Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/photo-gallery/australia-shooting-sydney-bondi-beach-photos-6492cf0cf466862bccbbf5a8a1b4650c</link>
 <pubDate>Sun, 14 Dec 2025 14:09:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar calls on countries to take back citizens held in crackdown on scam centers]]></title>
-<link>https://apnews.com/article/myanmar-scam-hubs-detainees-repatriation-e4d814fecf29b4da56dc81cc8ec096c5</link>
-<pubDate>Sun, 14 Dec 2025 12:31:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[‘We’re not afraid': Life goes on for Indigenous Colombians despite volcano eruption risk]]></title>
 <link>https://apnews.com/article/colombia-volcano-indigenous-e0b824e8fe33df95e31f7619d7a0ae51</link>
 <pubDate>Sun, 14 Dec 2025 11:17:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say]]></title>
-<link>https://apnews.com/article/iran-arrest-narges-mohammadi-8523591777ccf6338f9adc1afcf00d90</link>
-<pubDate>Sun, 14 Dec 2025 11:32:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar calls on countries to take back citizens held in crackdown on scam centers]]></title>
+<link>https://apnews.com/article/myanmar-scam-hubs-detainees-repatriation-e4d814fecf29b4da56dc81cc8ec096c5</link>
+<pubDate>Sun, 14 Dec 2025 16:11:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope criticizes prison overcrowding during special Mass for inmates, guards and families]]></title>
 <link>https://apnews.com/article/italy-pope-mass-prisons-holy-year-55079c23ab554a703b1af3cca1004b3b</link>
 <pubDate>Sun, 14 Dec 2025 13:01:53 -0000</pubDate>
@@ -200,6 +200,12 @@
 <title><![CDATA[Why a misunderstood wolf from a French supermarket ad is moving viewers worldwide]]></title>
 <link>https://apnews.com/article/france-advert-wolf-christmas-viral-a8b249b92e080a42f834505c45d8fd16</link>
 <pubDate>Sat, 13 Dec 2025 19:56:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says it has killed a top Hamas commander in Gaza]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-618c7499c626af446d23788d237a85bf</link>
+<pubDate>Sun, 14 Dec 2025 15:56:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN-sanctioned migrant smuggler killed in western Libya]]></title>
-<link>https://apnews.com/article/libya-ammu-migrant-trafficking-militia-sabratha-b41dfa122fc36162e319b02f3a172fc4</link>
-<pubDate>Sat, 13 Dec 2025 14:09:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prosecutors detain suspects accused of sexually harassing young interns at Turkish parliament]]></title>
-<link>https://apnews.com/article/turkey-parliament-sexual-harassment-interns-ozel-dincer-748474264a2647d4f1f480c4776dc8dc</link>
-<pubDate>Fri, 12 Dec 2025 16:13:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gunmen kill at least 11 people at a Jewish event at Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
 <pubDate>Sun, 14 Dec 2025 11:32:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy and US envoys meet in Berlin to discuss Ukraine peace deal]]></title>
+<title><![CDATA[Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775</link>
-<pubDate>Sun, 14 Dec 2025 14:09:57 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 16:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jimmy Lai, former pro-democracy newspaper founder, to hear verdict in national security case]]></title>
-<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
-<pubDate>Sun, 14 Dec 2025 05:12:18 -0000</pubDate>
+<title><![CDATA[Hamas confirms the death of a top commander in Gaza after Israeli strike]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-4be8ae23987f59c3db968311cb5fc06f</link>
+<pubDate>Sun, 14 Dec 2025 15:56:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
-<link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
-<pubDate>Sat, 13 Dec 2025 04:44:24 -0000</pubDate>
+<title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
+<link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
+<pubDate>Sun, 14 Dec 2025 15:41:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel says it has killed a top Hamas commander in Gaza]]></title>
-<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-618c7499c626af446d23788d237a85bf</link>
-<pubDate>Sat, 13 Dec 2025 17:21:20 -0000</pubDate>
+<title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
+<link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
+<pubDate>Sat, 13 Dec 2025 04:44:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong’s biggest pro-democracy party votes to disband after more than 30 years of activism]]></title>
-<link>https://apnews.com/article/hong-kong-democratic-party-disband-vote-china-614950a8f77f3fdf89045852decf353f</link>
-<pubDate>Sun, 14 Dec 2025 09:26:03 -0000</pubDate>
+<title><![CDATA[Jimmy Lai, former pro-democracy newspaper founder, to hear verdict in national security case]]></title>
+<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
+<pubDate>Sun, 14 Dec 2025 05:12:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
