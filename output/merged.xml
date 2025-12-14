@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 17:08:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 17:37:18 GMT</lastBuildDate>
 <item>
-<title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
-<link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
-<pubDate>Sun, 14 Dec 2025 10:11:01 -0000</pubDate>
+<title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
+<link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
+<pubDate>Sun, 14 Dec 2025 17:37:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza amputees struggle to rebuild lives as the enclave faces shortages of prosthetic limbs]]></title>
-<link>https://apnews.com/article/gaza-war-israel-amputee-health-injuries-de54b68b714532e46a0c4c115751d791</link>
-<pubDate>Sun, 14 Dec 2025 13:01:53 -0000</pubDate>
+<title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
+<link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
+<pubDate>Sun, 14 Dec 2025 17:22:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775</link>
+<pubDate>Sun, 14 Dec 2025 17:07:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Nobel Peace Prize laureate and others who took on Belarus’ president are among the freed prisoners]]></title>
 <link>https://apnews.com/article/belarus-us-deal-prisoners-release-bialiatski-kolesnikova-8172251bbf35fd65c464d4ce5b6ca206</link>
 <pubDate>Sat, 13 Dec 2025 19:56:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Girls and women fleeing Mali describe sexual violence by Russian forces]]></title>
-<link>https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636</link>
-<pubDate>Sun, 14 Dec 2025 07:35:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Takeaways from AP report on sexual violence in Mali]]></title>
+<link>https://apnews.com/article/africa-corps-russia-mali-sexual-assault-takeaways-investigation-f5559461c4219a93078516855ebf4cb6</link>
+<pubDate>Sun, 14 Dec 2025 06:00:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[PHOTO ESSAY: Refugees flee Mali as region is the world’s deadliest for extremism]]></title>
 <link>https://apnews.com/photo-essay/mali-russia-africa-corps-refugees-photo-essay-116d1ee015a57b142040ef61bdf58003</link>
 <pubDate>Sun, 14 Dec 2025 09:56:01 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
 <link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
 <pubDate>Sun, 14 Dec 2025 02:57:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
-<link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
-<pubDate>Sat, 13 Dec 2025 21:19:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Messi’s tour of India gets off to chaotic start as angry fans storm field]]></title>
+<link>https://apnews.com/article/messi-india-tour-chaos-statue-934673ac56982657169fa3276e3fd597</link>
+<pubDate>Sun, 14 Dec 2025 16:52:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Africa’s batters restore some pride in 51-run win against India in 2nd T20]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-t20-c86d9b35aa24acdff52d50bfe7e39619</link>
 <pubDate>Sat, 13 Dec 2025 11:17:50 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[South Africa dismissed for 74 in its lowest T20 total as India wins series opener by 101 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-t20-cricket-record-24aec537aef1e32f3c4cc622afbea122</link>
 <pubDate>Wed, 10 Dec 2025 05:18:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
-<link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
-<pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,6 +215,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
+<link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
+<pubDate>Sun, 14 Dec 2025 17:37:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In Alaska’s warming Arctic, photos show an Indigenous elder passing down hunting traditions]]></title>
 <link>https://apnews.com/photo-gallery/climate-alaska-hunting-6e7e01d287cd11515edfd0f31bda808e</link>
 <pubDate>Sat, 13 Dec 2025 13:01:53 -0000</pubDate>
@@ -248,6 +254,18 @@
 <title><![CDATA[Fighting rages on Thai-Cambodian border despite Trump’s ceasefire claim]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-airstrikes-5ac285b9d4391f0024a3276cd23df722</link>
 <pubDate>Sun, 14 Dec 2025 09:56:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
+<link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
+<pubDate>Sun, 14 Dec 2025 17:22:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gaza amputees struggle to rebuild lives as the enclave faces shortages of prosthetic limbs]]></title>
+<link>https://apnews.com/article/gaza-war-israel-amputee-health-injuries-de54b68b714532e46a0c4c115751d791</link>
+<pubDate>Sun, 14 Dec 2025 17:07:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,45 +347,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he’s sealed Thailand-Cambodia ceasefire, but fighting continues]]></title>
-<link>https://apnews.com/article/trump-thailand-cambodia-ceasefire-clashes-8c7dd464da0c8914e07c7e1146a9ce8c</link>
-<pubDate>Sat, 13 Dec 2025 07:37:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Treasury rachets up investigations targeting Minnesota’s Somali community for fraud]]></title>
-<link>https://apnews.com/article/treasury-scott-bessent-somalia-trump-872821ede5c4b97a506a488724275b01</link>
-<pubDate>Fri, 12 Dec 2025 18:05:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Leadership of US command in Latin America changes hands amid criticism of boat strikes]]></title>
-<link>https://apnews.com/article/admiral-retirement-boat-strikes-trump-198ed2b06ded1b2a836e065c61384e67</link>
-<pubDate>Fri, 12 Dec 2025 19:57:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gunmen kill at least 11 people at a Jewish event at Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
 <pubDate>Sun, 14 Dec 2025 11:32:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775</link>
-<pubDate>Sun, 14 Dec 2025 16:11:53 -0000</pubDate>
+<title><![CDATA[Israel’s Netanyahu lashes out while world shows shock and sympathy over Australia shooting]]></title>
+<link>https://apnews.com/article/australia-shooting-jewish-israel-reactions-cd81947045c3963ea8bb714e5ac95ff7</link>
+<pubDate>Sun, 14 Dec 2025 17:37:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mass shooting at Jewish event on Bondi Beach follows rising antisemitism in Australia]]></title>
+<link>https://apnews.com/article/australia-shooting-antisemitism-terror-d43d0ae59dc452b717715fd39d1b0289</link>
+<pubDate>Sun, 14 Dec 2025 17:22:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Thailand says Cambodian rocket fire has caused its first civilian death in new border fighting]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-conflict-rockets-4b3426dffcf3bf037d307038a23afd3a</link>
 <pubDate>Sun, 14 Dec 2025 09:56:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas confirms the death of a top commander in Gaza after Israeli strike]]></title>
-<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-4be8ae23987f59c3db968311cb5fc06f</link>
-<pubDate>Sun, 14 Dec 2025 15:56:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Attacker who killed US troops in Syria was a recent recruit to security forces, official says]]></title>
+<link>https://apnews.com/article/syria-islamic-state-attack-security-forces-cc45fd7a00c06f8c1426ac589753f961</link>
+<pubDate>Sun, 14 Dec 2025 17:07:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the US military’s role in Syria after deadly IS attack]]></title>
+<link>https://apnews.com/article/us-syria-troops-islamic-state-kurds-3354f71e88d278427994d209b2d16d9c</link>
+<pubDate>Sun, 14 Dec 2025 11:17:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Egypt reveals restored colossal statues of pharaoh in Luxor]]></title>
 <link>https://apnews.com/article/egypt-antiquities-pharoah-tourism-6f8337f96ab084b7854ca9ed13c214de</link>
 <pubDate>Sun, 14 Dec 2025 13:01:54 -0000</pubDate>
@@ -398,18 +410,6 @@
 <title><![CDATA[Morocco aims to boost legal cannabis farming and tap a global boom]]></title>
 <link>https://apnews.com/article/morocco-cannabis-farming-legalization-3a3308da50c467d77e5e161ffcfb9ad2</link>
 <pubDate>Sun, 14 Dec 2025 07:20:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
-<link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
-<pubDate>Sun, 14 Dec 2025 15:41:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
-<link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
-<pubDate>Sat, 13 Dec 2025 04:44:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +443,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nobel laureate Ales Bialiatski tells AP of Belarus prison ordeal in first interview after release]]></title>
+<link>https://apnews.com/article/belarus-nobel-laureate-bialiatski-interview-3dec8221b52551ad414098dc2f015139</link>
+<pubDate>Sun, 14 Dec 2025 16:52:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jimmy Lai, former pro-democracy newspaper founder, to hear verdict in national security case]]></title>
 <link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
 <pubDate>Sun, 14 Dec 2025 05:12:18 -0000</pubDate>
@@ -455,21 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
-<link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
-<pubDate>Sat, 13 Dec 2025 03:20:41 -0000</pubDate>
+<title><![CDATA[Girls and women fleeing Mali describe sexual violence by Russian forces]]></title>
+<link>https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636</link>
+<pubDate>Sun, 14 Dec 2025 07:35:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from AP report on sexual violence in Mali]]></title>
-<link>https://apnews.com/article/africa-corps-russia-mali-sexual-assault-takeaways-investigation-f5559461c4219a93078516855ebf4cb6</link>
-<pubDate>Sun, 14 Dec 2025 06:00:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police have person of interest in custody over Brown University shooting that killed 2, wounded 9]]></title>
+<title><![CDATA[Person of interest in Brown University shooting was arrested at hotel 20 miles away, police say]]></title>
 <link>https://apnews.com/article/brown-university-shooting-suspect-search-1da03b12b2eac2b530172667d3df30c4</link>
-<pubDate>Sun, 14 Dec 2025 13:54:57 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 16:37:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Messi’s tour of India gets off to chaotic start as angry fans storm field]]></title>
-<link>https://apnews.com/article/messi-india-tour-chaos-statue-934673ac56982657169fa3276e3fd597</link>
-<pubDate>Sat, 13 Dec 2025 13:24:48 -0000</pubDate>
+<title><![CDATA[India crushes South Africa to take 2-1 lead in T20 series]]></title>
+<link>https://apnews.com/article/india-south-africa-cricket-t20-markram-sharma-511bc23503ef23cbb3b630e459e28ebd</link>
+<pubDate>Sun, 14 Dec 2025 16:22:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
