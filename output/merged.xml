@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 21:09:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 21:35:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
 <link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nobel laureate Ales Bialiatski tells AP of Belarus prison ordeal in first interview after release]]></title>
+<title><![CDATA[Nobel laureate Ales Bialiatski describes Belarus prison ordeal in first interview after release]]></title>
 <link>https://apnews.com/article/belarus-nobel-laureate-bialiatski-interview-3dec8221b52551ad414098dc2f015139</link>
-<pubDate>Sun, 14 Dec 2025 18:46:06 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 21:35:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Guatemala declares state of emergency after armed attacks kill at least 5]]></title>
+<link>https://apnews.com/article/guatemala-attack-organized-crime-emergency-5b1b46609fac9208230fa7b5114f3e6f</link>
+<pubDate>Sun, 14 Dec 2025 21:20:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After centuries of conflict, Chile’s Indigenous Mapuches fear a far-right political turn]]></title>
 <link>https://apnews.com/article/chile-election-mapuche-conflict-kast-jara-pinochet-55b06242eca4186b2e8e09e5af95eda1</link>
 <pubDate>Sun, 14 Dec 2025 03:57:24 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of voters taking part in Chile’s runoff presidential election]]></title>
-<link>https://apnews.com/photo-gallery/chile-election-photo-gallery-kast-jara-b6aec8b1923cf2d4fd383999b3f82558</link>
-<pubDate>Sun, 14 Dec 2025 19:56:32 -0000</pubDate>
+<title><![CDATA[PHOTO ESSAY: Refugees flee Mali as region is the world’s deadliest for extremism]]></title>
+<link>https://apnews.com/photo-essay/mali-russia-africa-corps-refugees-photo-essay-116d1ee015a57b142040ef61bdf58003</link>
+<pubDate>Sun, 14 Dec 2025 09:56:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
-<link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
-<pubDate>Sat, 13 Dec 2025 07:22:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show police investigation of a shooting at Brown University.]]></title>
+<title><![CDATA[Photos show police investigation of a shooting at Brown University]]></title>
 <link>https://apnews.com/photo-gallery/brown-university-shooting-photos-9b517a673845e52fd9a91eea40ece6e4</link>
-<pubDate>Sun, 14 Dec 2025 02:27:16 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 21:05:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[South Africa dismissed for 74 in its lowest T20 total as India wins series opener by 101 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-t20-cricket-record-24aec537aef1e32f3c4cc622afbea122</link>
 <pubDate>Wed, 10 Dec 2025 05:18:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Man suspected of killing his wife in California is extradited back to the US from Peru]]></title>
+<link>https://apnews.com/article/jossimar-cabrera-sheylla-peru-los-angeles-county-lancaster-156fe88873387e81f37c19b378fc5523</link>
+<pubDate>Sun, 14 Dec 2025 21:35:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of voters taking part in Chile’s runoff presidential election]]></title>
+<link>https://apnews.com/photo-gallery/chile-election-photo-gallery-kast-jara-b6aec8b1923cf2d4fd383999b3f82558</link>
+<pubDate>Sun, 14 Dec 2025 21:20:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,27 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US removes Brazilian Supreme Court justice and his wife from sanctions list]]></title>
-<link>https://apnews.com/article/treasury-brazil-sanctions-bolsonaro-trump-4d6f4b61badb2b5c5a7100b325c5946f</link>
-<pubDate>Fri, 12 Dec 2025 20:12:11 -0000</pubDate>
+<title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
+<link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
+<pubDate>Sun, 14 Dec 2025 09:41:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
-<link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
-<pubDate>Sat, 13 Dec 2025 19:41:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Believers in Our Lady of Guadalupe flock to her Mexico City shrine, in photos]]></title>
-<link>https://apnews.com/photo-gallery/guadalupe-virgin-feast-day-mexico-catholic-6dd7fbfff1f7e1e68b7a3f2a24b9943e</link>
-<pubDate>Fri, 12 Dec 2025 18:50:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen kill at least 16 people in attack on Hanukkah celebration on Sydney’s Bondi Beach]]></title>
+<title><![CDATA[Gunmen kill at least 15 people in attack on Hanukkah celebration on Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
-<pubDate>Sun, 14 Dec 2025 20:11:33 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 21:35:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,21 +377,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela President Maduro slams US over seizure of oil tanker]]></title>
-<link>https://apnews.com/video/venezuela-president-maduro-slams-us-over-seizure-of-oil-tanker-2509cf6f61914b8cba428805e2eebc14</link>
-<pubDate>Fri, 12 Dec 2025 18:20:40 -0000</pubDate>
+<title><![CDATA[Witnesses recount scene as police say 2 gunmen shot several people dead at Sydney’s Bondi Beach]]></title>
+<link>https://apnews.com/video/witnesses-recount-scene-as-police-say-2-gunmen-shot-dead-9-people-at-sydneys-bondi-beach-15e752d2fbc94ef8af5a124ccd3f2c0f</link>
+<pubDate>Sun, 14 Dec 2025 21:20:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Skydiver dangles at 15,000 feet after parachute catches on plane’s tail in Australia]]></title>
+<link>https://apnews.com/video/skydiver-dangles-at-15000-feet-after-parachute-catches-on-planes-tail-in-australia-25d9ff3ab10b4547b2ab66282c866812</link>
+<pubDate>Sun, 14 Dec 2025 21:05:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Video shows the moment US forces seize oil tanker off the coast of Venezuela]]></title>
 <link>https://apnews.com/video/video-shows-the-moment-us-forces-seize-oil-tanker-off-the-coast-of-venezuela-6ef543c379b144fcaa3201ebf22281fa</link>
 <pubDate>Fri, 12 Dec 2025 18:05:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Video shows moment earthquake hits northern Japan, causing furniture in apartment to shake]]></title>
-<link>https://apnews.com/video/video-shows-moment-earthquake-hits-northern-japan-causing-furniture-in-apartment-to-shake-42b767cd7eb24096aa574bc71a1c9797</link>
-<pubDate>Tue, 09 Dec 2025 23:54:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,21 +467,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[PHOTO ESSAY: Refugees flee Mali as region is the world’s deadliest for extremism]]></title>
-<link>https://apnews.com/photo-essay/mali-russia-africa-corps-refugees-photo-essay-116d1ee015a57b142040ef61bdf58003</link>
-<pubDate>Sun, 14 Dec 2025 07:05:34 -0000</pubDate>
+<title><![CDATA[9 African migrants died in freezing temperatures near Morocco-Algeria border]]></title>
+<link>https://apnews.com/article/migration-africa-morocco-algeria-de3cef1fe9f453a9261469bdcafc0ec7</link>
+<pubDate>Sun, 14 Dec 2025 20:50:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Person of interest in Brown University shooting was arrested at hotel 20 miles away, police say]]></title>
+<title><![CDATA[Person of interest detained in Brown University shooting that killed 2 and wounded 9]]></title>
 <link>https://apnews.com/article/brown-university-shooting-suspect-search-1da03b12b2eac2b530172667d3df30c4</link>
-<pubDate>Sun, 14 Dec 2025 16:37:18 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 20:35:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Zootopia 2' retakes No. 1 at box office, crosses $1 billion worldwide]]></title>
+<title><![CDATA[‘Zootopia 2' reclaims No. 1 spot at box office, grosses $1B worldwide]]></title>
 <link>https://apnews.com/article/zootopia-five-nights-at-freddys-box-office-818d9c425cbfad519ec92ac76f7a88e9</link>
-<pubDate>Sun, 14 Dec 2025 18:16:08 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 20:20:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
