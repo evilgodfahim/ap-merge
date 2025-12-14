@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 00:58:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 02:57:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
 <link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
+<link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
+<pubDate>Sun, 14 Dec 2025 02:57:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Eritrea withdraws from regional bloc as UN expresses concern over tensions with Ethiopia]]></title>
 <link>https://apnews.com/article/eritrea-ethiopia-tension-red-sea-igad-un-c398ca93f66016863ca26b2876950474</link>
 <pubDate>Sat, 13 Dec 2025 21:19:05 -0000</pubDate>
@@ -89,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa eases affirmative action regulations on Starlink and others that Musk said were racist]]></title>
-<link>https://apnews.com/article/south-africa-elon-musk-starlink-91c9289d2d4f13d5c20decda3c896875</link>
-<pubDate>Fri, 12 Dec 2025 21:35:53 -0000</pubDate>
+<title><![CDATA[A list of deadly shootings on college campuses in the US]]></title>
+<link>https://apnews.com/article/deadly-campus-shootings-aea218f6d4d2b1fea4a0fc38160b1c17</link>
+<pubDate>Sun, 14 Dec 2025 02:42:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show police investigation of a shooting at Brown University.]]></title>
+<link>https://apnews.com/photo-gallery/brown-university-shooting-photos-9b517a673845e52fd9a91eea40ece6e4</link>
+<pubDate>Sun, 14 Dec 2025 02:27:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Higher cost, worse coverage: Affordable Care Act enrollees say expiring subsidies will hit them hard]]></title>
-<link>https://apnews.com/article/congress-health-care-subsidies-cost-aca-premiums-6a69b51aee8a6b04353b914e044f4efa</link>
-<pubDate>Sat, 13 Dec 2025 17:21:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[This holiday season isn’t very merry for consumers, an AP-NORC poll finds]]></title>
-<link>https://apnews.com/article/poll-economy-inflation-groceries-costs-trump-affordability-d27635d279b27e5e2c19700c006ebb1d</link>
-<pubDate>Sat, 13 Dec 2025 13:39:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about Kilmar Abrego Garcia’s release from immigration custody]]></title>
 <link>https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-c6f255d11c8ce09be5e67a8df3de2f64</link>
 <pubDate>Sat, 13 Dec 2025 06:01:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains]]></title>
+<link>https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616</link>
+<pubDate>Sun, 14 Dec 2025 02:12:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[A Chinese official exposed his boss. Now in Texas, he’s hunted by Beijing - with help from US tech]]></title>
 <link>https://apnews.com/article/whistleblower-china-surveillance-tech-silicon-valley-adbd0bcfbb0892bfcb85948acb3f515f</link>
 <pubDate>Fri, 12 Dec 2025 18:20:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s new ‘condom tax’ draws skepticism and worries over health risks]]></title>
-<link>https://apnews.com/article/china-tax-contraceptives-condoms-std-birth-2fa6bff0e283e141abf1d03f6425742f</link>
-<pubDate>Fri, 12 Dec 2025 02:46:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +218,12 @@
 <title><![CDATA[A new federal report scrutinizes Puerto Rico’s tax incentives luring wealthy Americans]]></title>
 <link>https://apnews.com/article/puerto-rico-gao-report-incentives-9961bb81680c10fbfcc4958282bb42d8</link>
 <pubDate>Sat, 13 Dec 2025 00:51:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Africa eases affirmative action regulations on Starlink and others that Musk said were racist]]></title>
+<link>https://apnews.com/article/south-africa-elon-musk-starlink-91c9289d2d4f13d5c20decda3c896875</link>
+<pubDate>Sun, 14 Dec 2025 02:57:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia’s Central Bank sues Belgian financial institution as EU mulls using Moscow’s frozen assets]]></title>
-<link>https://apnews.com/article/russia-frozen-assets-belgium-eu-euroclear-sanctions-b378cb2bf74bd79175930b8ca991c1cc</link>
-<pubDate>Fri, 12 Dec 2025 12:38:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Belarus frees Nobel Prize laureate Bialiatski, opposition figure Kolesnikova as US lifts sanctions]]></title>
 <link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
 <pubDate>Sat, 13 Dec 2025 15:10:05 -0000</pubDate>
@@ -455,21 +455,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
-<link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
-<pubDate>Sat, 13 Dec 2025 21:19:06 -0000</pubDate>
+<title><![CDATA[South Sudanese community fights to save land from relentless flooding worsened by climate change]]></title>
+<link>https://apnews.com/article/south-sudan-climate-change-nile-flooding-03ffb0839f8631267ef1a557a550bd7d</link>
+<pubDate>Sun, 14 Dec 2025 02:57:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 2 killed and 8 hurt in shooting at Brown University in Rhode Island]]></title>
+<title><![CDATA[Police search Brown University after shooter kills 2 and wounds 8 on campus]]></title>
 <link>https://apnews.com/article/brown-university-active-shooter-c7c9d1c7da19a76c2a27685c7e63d6da</link>
-<pubDate>Sun, 14 Dec 2025 00:43:45 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 02:42:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains]]></title>
-<link>https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616</link>
-<pubDate>Fri, 12 Dec 2025 21:35:54 -0000</pubDate>
+<title><![CDATA[High-end car sales sink in China as its economy slows, taking a toll on European automakers]]></title>
+<link>https://apnews.com/article/luxury-cars-china-economy-europe-a1f4f55f2989082a2a533ab891f75408</link>
+<pubDate>Sun, 14 Dec 2025 02:27:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
