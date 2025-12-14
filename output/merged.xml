@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 07:10:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 07:35:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
+<link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
+<pubDate>Sat, 13 Dec 2025 20:11:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
 <link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
 <pubDate>Sat, 13 Dec 2025 15:10:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
-<link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
-<pubDate>Sat, 13 Dec 2025 14:55:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women fleeing Mali’s conflict say they were sexually assaulted but silence hides many more]]></title>
+<title><![CDATA[Girls and women fleeing Mali describe sexual violence by Russian forces]]></title>
 <link>https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636</link>
-<pubDate>Sun, 14 Dec 2025 06:15:58 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 07:35:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Sudanese community fights to save land from relentless flooding worsened by climate change]]></title>
+<link>https://apnews.com/article/south-sudan-climate-change-nile-flooding-03ffb0839f8631267ef1a557a550bd7d</link>
+<pubDate>Sun, 14 Dec 2025 07:20:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
 <link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
 <pubDate>Sun, 14 Dec 2025 02:57:16 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[US accuses Rwanda of violating the peace deal as M23 rebels seize a key eastern Congo city]]></title>
 <link>https://apnews.com/article/congo-rwanda-m23-trump-fighting-minerals-2de3a2c8e36ace7b2dc1114161168830</link>
 <pubDate>Sat, 13 Dec 2025 07:22:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Conservationists connect with chimps in a Ugandan rainforest as they seek a sense of communion]]></title>
-<link>https://apnews.com/article/uganda-chimpanzees-tourists-conservationists-rainforest-a8c2bc543248946a58a3a9014366fd48</link>
-<pubDate>Fri, 12 Dec 2025 20:12:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,12 +164,6 @@
 <title><![CDATA[Microsoft investing $17.5 billion in India for AI and cloud infrastructure]]></title>
 <link>https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed</link>
 <pubDate>Tue, 09 Dec 2025 15:13:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: Refugees flee Mali as region is the world’s deadliest for extremism]]></title>
-<link>https://apnews.com/photo-essay/mali-russia-africa-corps-refugees-photo-essay-116d1ee015a57b142040ef61bdf58003</link>
-<pubDate>Sun, 14 Dec 2025 06:15:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -266,6 +260,12 @@
 <title><![CDATA[US removes Brazilian Supreme Court justice and his wife from sanctions list]]></title>
 <link>https://apnews.com/article/treasury-brazil-sanctions-bolsonaro-trump-4d6f4b61badb2b5c5a7100b325c5946f</link>
 <pubDate>Fri, 12 Dec 2025 20:12:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of thunderstorms flooding Gaza’s tent camps, complicating life for displaced Palestinians]]></title>
+<link>https://apnews.com/photo-gallery/gaza-displaced-palestinians-water-floods-1b7a18030c9d1f91c53c3d5c01f019c4</link>
+<pubDate>Sat, 13 Dec 2025 19:41:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Morocco aims to boost legal cannabis farming and tap a global boom]]></title>
+<link>https://apnews.com/article/morocco-cannabis-farming-legalization-3a3308da50c467d77e5e161ffcfb9ad2</link>
+<pubDate>Sun, 14 Dec 2025 07:20:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
 <link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
 <pubDate>Sat, 13 Dec 2025 04:44:24 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
 <link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
 <pubDate>Sat, 13 Dec 2025 13:54:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New footage shows six Israeli hostages celebrating Jewish holiday, months before they were killed]]></title>
-<link>https://apnews.com/article/israel-hostages-hamas-gaza-hanukkah-video-tunnel-8a2927a0bf2d0840c1e51969ecf55ef1</link>
-<pubDate>Sat, 13 Dec 2025 03:20:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian-American Jews register first Jewish NGO in Syria to restore heritage]]></title>
-<link>https://apnews.com/article/syria-jews-heritage-henry-hamra-77fd975e4a5039c67bcd5d9b9c87e1c6</link>
-<pubDate>Fri, 12 Dec 2025 13:42:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Sudanese community fights to save land from relentless flooding worsened by climate change]]></title>
-<link>https://apnews.com/article/south-sudan-climate-change-nile-flooding-03ffb0839f8631267ef1a557a550bd7d</link>
-<pubDate>Sun, 14 Dec 2025 02:57:17 -0000</pubDate>
+<title><![CDATA[PHOTO ESSAY: Refugees flee Mali as region is the world’s deadliest for extremism]]></title>
+<link>https://apnews.com/photo-essay/mali-russia-africa-corps-refugees-photo-essay-116d1ee015a57b142040ef61bdf58003</link>
+<pubDate>Sun, 14 Dec 2025 07:05:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
