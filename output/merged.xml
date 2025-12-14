@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 04:33:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 05:12:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos of amputees in Gaza, struggling to survive after losing limbs to Israeli airstrikes]]></title>
 <link>https://apnews.com/photo-gallery/mideast-wars-gazaa-amputees-photo-gallery-d59c4dbad357301fc37af02382cd32c0</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
+<link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
+<pubDate>Sat, 13 Dec 2025 03:20:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Before megalodon, researchers say a monstrous shark ruled ancient Australian seas]]></title>
 <link>https://apnews.com/article/mega-predator-sharks-australia-megalodon-dinosaurs-prehistoric-7be812ea8226225d6e224750978e09a5</link>
 <pubDate>Sat, 13 Dec 2025 02:27:57 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Philippines says 3 fishermen injured by Chinese coast guard’s water cannons off disputed shoal]]></title>
 <link>https://apnews.com/article/south-china-sea-philippines-disputed-sabina-shoal-70d1b64687197d20d53ecbba88485cb8</link>
 <pubDate>Sat, 13 Dec 2025 10:10:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar military claims armed opposition groups used hospital hit by airstrike as base]]></title>
-<link>https://apnews.com/article/myanmar-airstrike-hospital-rakhine-arakan-army-8f1752e762288834aea05ae1a8f07f55</link>
-<pubDate>Sat, 13 Dec 2025 06:16:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar military claims armed opposition groups used hospital hit by airstrike as base]]></title>
+<link>https://apnews.com/article/myanmar-airstrike-hospital-rakhine-arakan-army-8f1752e762288834aea05ae1a8f07f55</link>
+<pubDate>Sun, 14 Dec 2025 05:12:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bolivian court orders ex-president jailed for 5 months on corruption charges]]></title>
 <link>https://apnews.com/article/bolivia-luis-arce-arrested-corruption-evo-morales-rodrigo-paz-6a6b1ea5a561fb1dc94d873aad8b6d69</link>
 <pubDate>Sun, 14 Dec 2025 03:57:24 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New permanent exhibition at Auschwitz museum uses personal objects to show daily life of prisoners]]></title>
-<link>https://apnews.com/article/auschwitz-new-exhibition-nazi-f9c74ffe88b5f1b8e3dea8072405f79a</link>
-<pubDate>Fri, 12 Dec 2025 12:53:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Belarus frees Nobel Prize laureate Bialiatski, opposition figure Kolesnikova as US lifts sanctions]]></title>
 <link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
 <pubDate>Sat, 13 Dec 2025 15:10:05 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
-<link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
-<pubDate>Sat, 13 Dec 2025 07:22:27 -0000</pubDate>
+<title><![CDATA[Jimmy Lai, former pro-democracy newspaper founder, to hear verdict in national security case]]></title>
+<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
+<pubDate>Sun, 14 Dec 2025 05:12:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police search Brown University after shooter kills 2 and wounds 8 on campus]]></title>
+<title><![CDATA[Police search Brown University after shooter kills 2 and wounds 9 on campus]]></title>
 <link>https://apnews.com/article/brown-university-active-shooter-c7c9d1c7da19a76c2a27685c7e63d6da</link>
-<pubDate>Sun, 14 Dec 2025 02:42:17 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 04:57:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
