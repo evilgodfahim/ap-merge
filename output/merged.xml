@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 19:32:30 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
-<link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
-<pubDate>Sun, 14 Dec 2025 17:37:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 14 Dec 2025 20:11:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran raises gasoline prices for the first time since deadly 2019 protests]]></title>
 <link>https://apnews.com/article/iran-subsidized-gasoline-price-increase-ec18d69bf4e977fefc9c92b8f8f62215</link>
 <pubDate>Sun, 14 Dec 2025 17:22:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
+<link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
+<pubDate>Sun, 14 Dec 2025 10:11:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘We’re not afraid': Life goes on for Indigenous Colombians despite volcano eruption risk]]></title>
-<link>https://apnews.com/article/colombia-volcano-indigenous-e0b824e8fe33df95e31f7619d7a0ae51</link>
-<pubDate>Sun, 14 Dec 2025 11:17:36 -0000</pubDate>
+<title><![CDATA[JetBlue flight near Venezuela avoids ‘midair collision’ with US Air Force tanker]]></title>
+<link>https://apnews.com/article/venezuela-jetblue-military-tanker-collision-baa2ab38062c5143ba6ce8164219ece2</link>
+<pubDate>Sun, 14 Dec 2025 20:11:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hunger and makeshift shelters persist in north Caribbean nearly 2 months after Hurricane Melissa]]></title>
-<link>https://apnews.com/article/haiti-hurricane-melissa-jamaica-hunger-wfp-bdc4ab66ca9ef293ea6396f4c1e18f0c</link>
-<pubDate>Sun, 14 Dec 2025 00:58:44 -0000</pubDate>
+<title><![CDATA[Photos of voters taking part in Chile’s runoff presidential election]]></title>
+<link>https://apnews.com/photo-gallery/chile-election-photo-gallery-kast-jara-b6aec8b1923cf2d4fd383999b3f82558</link>
+<pubDate>Sun, 14 Dec 2025 19:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As gerrymandering battles sweep country, supporters say partisan dominance is ‘fair’]]></title>
-<link>https://apnews.com/article/redistricting-congress-trump-fair-maps-republicans-democrats-7ffad367df39c96ceffe00cf46577b1d</link>
-<pubDate>Sun, 14 Dec 2025 13:54:55 -0000</pubDate>
+<title><![CDATA[Weekend storm drops heavy snow around Northeast as Pacific Northwest braces for more rain]]></title>
+<link>https://apnews.com/article/weekend-storm-snow-severe-weather-0e4b05a89998a3f1c417ff86e904be04</link>
+<pubDate>Sun, 14 Dec 2025 19:41:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arctic air mass pushes to the U.S. South while the Midwest also braces for dangerous wind chills]]></title>
-<link>https://apnews.com/article/flooding-freezing-cold-weather-northwest-midwest-f7a8fd20e8ddb99d99744acf68d0f0a3</link>
-<pubDate>Sun, 14 Dec 2025 15:10:12 -0000</pubDate>
+<title><![CDATA[As gerrymandering battles sweep country, supporters say partisan dominance is ‘fair’]]></title>
+<link>https://apnews.com/article/redistricting-congress-trump-fair-maps-republicans-democrats-7ffad367df39c96ceffe00cf46577b1d</link>
+<pubDate>Sun, 14 Dec 2025 13:54:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘We’re not afraid': Life goes on for Indigenous Colombians despite volcano eruption risk]]></title>
+<link>https://apnews.com/article/colombia-volcano-indigenous-e0b824e8fe33df95e31f7619d7a0ae51</link>
+<pubDate>Sun, 14 Dec 2025 20:11:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN chief says 6 peacekeepers killed in drone strike on a UN facility in Sudan]]></title>
 <link>https://apnews.com/article/sudan-un-drone-strike-peacekeepers-ce44092563b3612ec9ca26e5f85442b5</link>
 <pubDate>Sat, 13 Dec 2025 21:34:05 -0000</pubDate>
@@ -224,12 +230,6 @@
 <title><![CDATA[UK police won’t probe claim former prince asked bodyguard to investigate Virginia Giuffre]]></title>
 <link>https://apnews.com/article/britain-police-andrew-bodyguard-giuffre-13a46ad049ec4da1c0680fc770a3b6c7</link>
 <pubDate>Sat, 13 Dec 2025 15:10:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN chief visits Iraq to mark end of assistance mission set up after 2003 invasion]]></title>
-<link>https://apnews.com/article/iraq-un-mission-ends-ceremony-40930d75bf90f5d3b585485020cfd90d</link>
-<pubDate>Sun, 14 Dec 2025 17:37:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen kill at least 11 people in attack on Hanukkah celebration on Sydney’s Bondi Beach]]></title>
+<title><![CDATA[Gunmen kill at least 16 people in attack on Hanukkah celebration on Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
-<pubDate>Sun, 14 Dec 2025 18:46:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s Netanyahu lashes out while world shows shock and sympathy over Australia shooting]]></title>
-<link>https://apnews.com/article/australia-shooting-jewish-israel-reactions-cd81947045c3963ea8bb714e5ac95ff7</link>
-<pubDate>Sun, 14 Dec 2025 17:37:18 -0000</pubDate>
+<pubDate>Sun, 14 Dec 2025 20:11:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775</link>
-<pubDate>Sun, 14 Dec 2025 16:11:53 -0000</pubDate>
+<title><![CDATA[Israel’s Netanyahu lashes out while world shows shock and sympathy over Australia shooting]]></title>
+<link>https://apnews.com/article/australia-shooting-jewish-israel-reactions-cd81947045c3963ea8bb714e5ac95ff7</link>
+<pubDate>Sun, 14 Dec 2025 17:37:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas confirms the death of a top commander in Gaza after Israeli strike]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-4be8ae23987f59c3db968311cb5fc06f</link>
+<pubDate>Sun, 14 Dec 2025 15:56:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attacker who killed US troops in Syria was a recent recruit to security forces, official says]]></title>
-<link>https://apnews.com/article/syria-islamic-state-attack-security-forces-cc45fd7a00c06f8c1426ac589753f961</link>
-<pubDate>Sun, 14 Dec 2025 17:07:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about the US military’s role in Syria after deadly IS attack]]></title>
 <link>https://apnews.com/article/us-syria-troops-islamic-state-kurds-3354f71e88d278427994d209b2d16d9c</link>
 <pubDate>Sun, 14 Dec 2025 11:17:37 -0000</pubDate>
@@ -416,6 +410,12 @@
 <title><![CDATA[Morocco aims to boost legal cannabis farming and tap a global boom]]></title>
 <link>https://apnews.com/article/morocco-cannabis-farming-legalization-3a3308da50c467d77e5e161ffcfb9ad2</link>
 <pubDate>Sun, 14 Dec 2025 07:20:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
+<link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
+<pubDate>Sun, 14 Dec 2025 15:41:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[Crypto mogul Do Kwon sentenced to 15 years in prison for $40 billion stablecoin fraud]]></title>
 <link>https://apnews.com/article/do-kwon-terraform-court-montenegro-crypto-king-0df8b30b5f3cff2954f0a08bf0a327f3</link>
 <pubDate>Thu, 11 Dec 2025 21:40:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775</link>
+<pubDate>Sun, 14 Dec 2025 16:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
