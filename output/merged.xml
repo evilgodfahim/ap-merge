@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 15 Dec 2025 02:55:12 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 04:00:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq’s election result ratified by Supreme Federal Court as premiership remains up for grabs]]></title>
 <link>https://apnews.com/article/iraq-elections-result-ratified-supreme-court-d3eb69b48df6580e66a5f77f1f88a7ba</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial]]></title>
+<link>https://apnews.com/article/hong-kong-jimmy-lai-verdict-collusion-beijing-c2cd16f4c289a52d514591efe4aed389</link>
+<pubDate>Mon, 15 Dec 2025 04:00:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jimmy Lai is a Hong Kong rags-to-riches media tycoon who became a fierce critic of Beijing]]></title>
 <link>https://apnews.com/article/jimmy-lai-hong-kong-profile-activist-china-f9ac34a3b5230d3c9deb0a15dd23dd4e</link>
 <pubDate>Mon, 15 Dec 2025 02:55:10 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Thailand says Cambodian rocket fire has caused its first civilian death in new border fighting]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-conflict-rockets-4b3426dffcf3bf037d307038a23afd3a</link>
 <pubDate>Mon, 15 Dec 2025 00:57:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the trial of former Hong Kong media mogul Jimmy Lai]]></title>
-<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
-<pubDate>Mon, 15 Dec 2025 02:40:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the trial of former Hong Kong media mogul Jimmy Lai]]></title>
+<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
+<pubDate>Mon, 15 Dec 2025 02:40:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[High-end car sales sink in China as its economy slows, taking a toll on European automakers]]></title>
 <link>https://apnews.com/article/luxury-cars-china-economy-europe-a1f4f55f2989082a2a533ab891f75408</link>
 <pubDate>Sun, 14 Dec 2025 18:31:06 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Danish intelligence report warns of US military threat under Trump]]></title>
 <link>https://apnews.com/article/denmark-nato-trump-russia-china-greenland-907b309f213322a437771521fce5a08c</link>
 <pubDate>Fri, 12 Dec 2025 21:20:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: In Texas, a former Chinese official targeted by Beijing’s surveillance finds refuge]]></title>
-<link>https://apnews.com/photo-essay/whistleblower-china-surveillance-tech-silicon-valley-essay-b852a7415c9b80513a19f9dbd4f62355</link>
-<pubDate>Fri, 12 Dec 2025 06:03:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[South Africa dismissed for 74 in its lowest T20 total as India wins series opener by 101 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-t20-cricket-record-24aec537aef1e32f3c4cc622afbea122</link>
 <pubDate>Wed, 10 Dec 2025 05:18:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 stabbed at entertainment complex in southern Japan, police arrest a 30-year-old suspect]]></title>
+<link>https://apnews.com/article/japan-stabbing-knife-arrest-9b0f36250e15ebc74762540420bc833e</link>
+<pubDate>Mon, 15 Dec 2025 04:00:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thai villagers stay behind to guard empty homes as border clashes force mass evacuations]]></title>
-<link>https://apnews.com/article/thailand-cambodia-clashes-village-security-ef6c0440c853095a1cc80912e01cd765</link>
-<pubDate>Sun, 14 Dec 2025 14:09:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Father and son gunmen kill at least 15 people in attack on Hanukkah event at Sydney’s Bondi Beach]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1</link>
 <pubDate>Sun, 14 Dec 2025 22:38:52 -0000</pubDate>
@@ -455,15 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial]]></title>
-<link>https://apnews.com/article/hong-kong-jimmy-lai-verdict-collusion-beijing-c2cd16f4c289a52d514591efe4aed389</link>
-<pubDate>Mon, 15 Dec 2025 02:55:11 -0000</pubDate>
+<title><![CDATA[Australian Prime Minister Albanese proposes tougher national gun laws after mass shooting in Sydney]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-3be76a51c820d547ee4697bd25c1bafd</link>
+<pubDate>Mon, 15 Dec 2025 04:00:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Major win for ultra-conservative gives Chile its most right-wing president in decades]]></title>
+<title><![CDATA[Landslide win for Kast gives Chile its most right-wing president in decades]]></title>
 <link>https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6</link>
-<pubDate>Mon, 15 Dec 2025 00:27:04 -0000</pubDate>
+<pubDate>Mon, 15 Dec 2025 03:45:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
