@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 15 Dec 2025 13:54:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 14:15:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran hosts regional talks on Afghanistan but Kabul stays away]]></title>
+<link>https://apnews.com/article/iran-afghanistan-pakistan-russia-taliban-talks-dba573f830d07c6721bf0e0c774c5409</link>
+<pubDate>Mon, 15 Dec 2025 14:15:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[What to know about the US military’s role in Syria after deadly IS attack]]></title>
 <link>https://apnews.com/article/us-syria-troops-islamic-state-kurds-3354f71e88d278427994d209b2d16d9c</link>
 <pubDate>Mon, 15 Dec 2025 13:12:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Egypt reveals restored colossal statues of pharaoh in Luxor]]></title>
-<link>https://apnews.com/article/egypt-antiquities-pharoah-tourism-6f8337f96ab084b7854ca9ed13c214de</link>
-<pubDate>Mon, 15 Dec 2025 10:15:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Family member questioned after Rob Reiner and his wife found dead in Los Angeles, AP source says]]></title>
+<link>https://apnews.com/article/rob-reiner-home-investigation-ff54e506bfeff57d18849cd85698bcd4</link>
+<pubDate>Mon, 15 Dec 2025 14:00:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Brown University student survived being shot in high school. Then came the active shooter alerts]]></title>
 <link>https://apnews.com/article/brown-university-shooting-3b44a6886d7fc1b3d8d37fd0a8937ab6</link>
 <pubDate>Mon, 15 Dec 2025 00:27:03 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[A list of deadly shootings on college campuses in the US]]></title>
 <link>https://apnews.com/article/deadly-campus-shootings-aea218f6d4d2b1fea4a0fc38160b1c17</link>
 <pubDate>Sun, 14 Dec 2025 02:42:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Merriam-Webster’s 2025 word of the year is ‘slop’]]></title>
-<link>https://apnews.com/article/merriam-webster-dictionary-word-year-2025-slop-2dffb2379cac6001aa30e148669e3393</link>
-<pubDate>Mon, 15 Dec 2025 04:48:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,24 @@
 <title><![CDATA[Olympic hopeful cross-country skier tries to put India on the winter sports map]]></title>
 <link>https://apnews.com/article/olympics-india-cross-country-skiing-01380f72cf3b383e773da29007e08cd6</link>
 <pubDate>Wed, 10 Dec 2025 07:10:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spain fines Airbnb $75 million for unlicensed tourist rentals]]></title>
+<link>https://apnews.com/article/spain-airbnb-fine-overtourism-crackdown-fa2bdc048a63aa5632f2c59373b70b46</link>
+<pubDate>Mon, 15 Dec 2025 14:15:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Older adults may struggle to learn a new language but classes are a worthwhile exercise]]></title>
+<link>https://apnews.com/article/older-adults-foreign-language-learning-memory-aacbb0a115f387623a85daf1c7787e63</link>
+<pubDate>Mon, 15 Dec 2025 14:00:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Punk protest group Pussy Riot declared ‘extremist organization’ by a Russian court]]></title>
+<link>https://apnews.com/article/russia-pussy-riot-court-ruling-extremist-organization-21e19994c706d147c0bd8dc354f9ad9e</link>
+<pubDate>Mon, 15 Dec 2025 13:45:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Egypt reveals restored colossal statues of pharaoh in Luxor]]></title>
+<link>https://apnews.com/article/egypt-antiquities-pharoah-tourism-6f8337f96ab084b7854ca9ed13c214de</link>
+<pubDate>Mon, 15 Dec 2025 13:30:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mass shootings are rare in Australia. Here is a look at some previous attacks]]></title>
 <link>https://apnews.com/article/australia-mass-shootings-timeline-ec4e4bc618d587caec42741fbd93fdde</link>
 <pubDate>Mon, 15 Dec 2025 00:42:03 -0000</pubDate>
@@ -323,30 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN chief says 6 peacekeepers killed in drone strike on a UN facility in Sudan]]></title>
-<link>https://apnews.com/article/sudan-un-drone-strike-peacekeepers-ce44092563b3612ec9ca26e5f85442b5</link>
-<pubDate>Sat, 13 Dec 2025 21:34:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nobel Peace Prize laureate and others who took on Belarus’ president are among the freed prisoners]]></title>
-<link>https://apnews.com/article/belarus-us-deal-prisoners-release-bialiatski-kolesnikova-8172251bbf35fd65c464d4ce5b6ca206</link>
-<pubDate>Sun, 14 Dec 2025 18:31:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Orbán’s rival leads protest over alleged child abuse in Hungary’s state-run institutions]]></title>
-<link>https://apnews.com/article/hungary-orban-opposition-protest-child-abuse-41613fa6cad30006efcb4181e3fc6aba</link>
-<pubDate>Sat, 13 Dec 2025 20:11:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why a misunderstood wolf from a French supermarket ad is moving viewers worldwide]]></title>
-<link>https://apnews.com/article/france-advert-wolf-christmas-viral-a8b249b92e080a42f834505c45d8fd16</link>
-<pubDate>Sat, 13 Dec 2025 19:56:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Australia to tighten gun laws after Bondi Beach Hanukkah massacre]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-3be76a51c820d547ee4697bd25c1bafd</link>
 <pubDate>Mon, 15 Dec 2025 10:15:20 -0000</pubDate>
@@ -356,6 +356,12 @@
 <title><![CDATA[The Bondi Beach shooting as seen from the beach, the boardwalk and a hotel]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3</link>
 <pubDate>Mon, 15 Dec 2025 13:12:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Latest round of talks between Ukraine, US conclude as Trump seeks swift peace]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-5b99faff949ee1ba6212433be2d54b88</link>
+<pubDate>Mon, 15 Dec 2025 14:15:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +446,6 @@
 <title><![CDATA[Hassett says Federal Reserve can reject Trump’s views if he is chair]]></title>
 <link>https://apnews.com/article/federal-reserve-hassett-trump-independence-2a2a5c1bd7de916d1118f2c9d863cde7</link>
 <pubDate>Mon, 15 Dec 2025 09:15:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European leaders expected to cement support for Ukraine amid US pressure to accept peace deal]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-5b99faff949ee1ba6212433be2d54b88</link>
-<pubDate>Mon, 15 Dec 2025 07:41:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
