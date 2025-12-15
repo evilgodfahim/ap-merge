@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 15 Dec 2025 11:11:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 11:38:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egypt reveals restored colossal statues of pharaoh in Luxor]]></title>
 <link>https://apnews.com/article/egypt-antiquities-pharoah-tourism-6f8337f96ab084b7854ca9ed13c214de</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Louvre workers vote to strike in another blow to the Paris museum]]></title>
+<link>https://apnews.com/article/france-paris-louvre-union-staff-strike-vote-3edde372c87e3ca782b109b4e11d2eb8</link>
+<pubDate>Mon, 15 Dec 2025 11:38:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech president swears in new coalition government of populist billionaire Andrej Babiš]]></title>
 <link>https://apnews.com/article/czech-republic-new-government-babis-109771312dec01f2e6860eaeba7da9c3</link>
 <pubDate>Mon, 15 Dec 2025 08:37:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Girls and women fleeing Mali describe sexual violence by Russian forces]]></title>
-<link>https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636</link>
-<pubDate>Sun, 14 Dec 2025 07:35:33 -0000</pubDate>
+<title><![CDATA[What to know about the attack on the Jewish festival in Australia that killed 15 people]]></title>
+<link>https://apnews.com/article/austroalia-mass-shooting-jewish-festival-sydney-bondi-beach-d17bc9b6c9bae080b452898bd88169b2</link>
+<pubDate>Mon, 15 Dec 2025 11:23:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jimmy Lai is a Hong Kong rags-to-riches media tycoon who became a fierce critic of Beijing]]></title>
-<link>https://apnews.com/article/jimmy-lai-hong-kong-profile-activist-china-f9ac34a3b5230d3c9deb0a15dd23dd4e</link>
-<pubDate>Mon, 15 Dec 2025 02:55:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan begins last anti-polio vaccination drive of the year after surge in new cases]]></title>
-<link>https://apnews.com/article/pakistan-launches-campaign-against-polio-f2c57078a42d81e05b2802181b53469c</link>
-<pubDate>Mon, 15 Dec 2025 08:07:18 -0000</pubDate>
+<title><![CDATA[Cambodia claims Thai bombing is hitting deeper into its territory near shelters for displaced people]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-jet-fighter-ffc149ddfed206bdd029a37578f8e434</link>
+<pubDate>Mon, 15 Dec 2025 11:08:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[9 African migrants died in freezing temperatures near Morocco-Algeria border]]></title>
+<link>https://apnews.com/article/migration-africa-morocco-algeria-de3cef1fe9f453a9261469bdcafc0ec7</link>
+<pubDate>Mon, 15 Dec 2025 07:52:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Takeaways from AP report on sexual violence in Mali]]></title>
 <link>https://apnews.com/article/africa-corps-russia-mali-sexual-assault-takeaways-investigation-f5559461c4219a93078516855ebf4cb6</link>
 <pubDate>Sun, 14 Dec 2025 06:00:58 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[South Sudanese community fights to save land from relentless flooding worsened by climate change]]></title>
 <link>https://apnews.com/article/south-sudan-climate-change-nile-flooding-03ffb0839f8631267ef1a557a550bd7d</link>
 <pubDate>Sun, 14 Dec 2025 07:20:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
-<link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
-<pubDate>Sun, 14 Dec 2025 02:57:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jimmy Lai is a Hong Kong rags-to-riches media tycoon who became a fierce critic of Beijing]]></title>
+<link>https://apnews.com/article/jimmy-lai-hong-kong-profile-activist-china-f9ac34a3b5230d3c9deb0a15dd23dd4e</link>
+<pubDate>Mon, 15 Dec 2025 02:55:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘Zootopia 2' reclaims No. 1 spot at box office, grosses $1B worldwide]]></title>
 <link>https://apnews.com/article/zootopia-five-nights-at-freddys-box-office-818d9c425cbfad519ec92ac76f7a88e9</link>
 <pubDate>Mon, 15 Dec 2025 04:33:44 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[What to know about the trial of former Hong Kong media mogul Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
 <pubDate>Mon, 15 Dec 2025 02:40:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains]]></title>
-<link>https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616</link>
-<pubDate>Sun, 14 Dec 2025 02:12:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan will be without a panda for the first time in 50 years after twins leave Tokyo zoo]]></title>
+<link>https://apnews.com/article/japan-china-pandas-zoo-b6b61998be4d267716a7d472860387cb</link>
+<pubDate>Mon, 15 Dec 2025 11:38:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Singer Cliff Richard says he has been treated for prostate cancer]]></title>
+<link>https://apnews.com/article/cliff-richard-prostate-cancer-7d5640c6c2f7059fdfff01b99e30f4ea</link>
+<pubDate>Mon, 15 Dec 2025 11:23:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Torrential rains and flash floods kill 37 in Moroccan city of Safi]]></title>
 <link>https://apnews.com/article/morocco-floods-rains-530bb2c24822ad55ec3d56f33ead76e6</link>
 <pubDate>Mon, 15 Dec 2025 10:15:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan begins last anti-polio vaccination drive of the year after surge in new cases]]></title>
+<link>https://apnews.com/article/pakistan-launches-campaign-against-polio-f2c57078a42d81e05b2802181b53469c</link>
+<pubDate>Mon, 15 Dec 2025 11:08:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,12 +206,6 @@
 <title><![CDATA[Militant groups are experimenting with AI, and the risks are expected to grow]]></title>
 <link>https://apnews.com/article/islamic-state-group-artificial-intelligence-deepfakes-ba201d23b91dbab95f6a8e7ad8b778d5</link>
 <pubDate>Mon, 15 Dec 2025 05:18:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Louvre workers vote to strike in another blow to the Paris museum]]></title>
-<link>https://apnews.com/article/france-paris-louvre-union-staff-strike-vote-3edde372c87e3ca782b109b4e11d2eb8</link>
-<pubDate>Mon, 15 Dec 2025 10:00:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Fear grips Congo’s Uvira as M23 rebels take control, displacing 200,000]]></title>
+<link>https://apnews.com/article/congo-m23-rwanda-minerals-uvira-13a1433ffa06f69c44e368f8af088bbb</link>
+<pubDate>Mon, 15 Dec 2025 08:37:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN chief says 6 peacekeepers killed in drone strike on a UN facility in Sudan]]></title>
 <link>https://apnews.com/article/sudan-un-drone-strike-peacekeepers-ce44092563b3612ec9ca26e5f85442b5</link>
 <pubDate>Sat, 13 Dec 2025 21:34:05 -0000</pubDate>
@@ -335,27 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Alaska’s warming Arctic, photos show an Indigenous elder passing down hunting traditions]]></title>
-<link>https://apnews.com/photo-gallery/climate-alaska-hunting-6e7e01d287cd11515edfd0f31bda808e</link>
-<pubDate>Sat, 13 Dec 2025 13:01:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about King Charles III’s cancer treatment and his message to the public]]></title>
-<link>https://apnews.com/article/king-charles-cancer-treatment-what-to-know-8337a80f7c36b99b8671f0df0bcd6061</link>
-<pubDate>Sat, 13 Dec 2025 12:46:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Belarus frees Nobel Prize laureate Bialiatski, opposition figure Kolesnikova as US lifts sanctions]]></title>
-<link>https://apnews.com/article/belarus-us-sanctions-39a85ae9a4303974c8c4a23be6d6b858</link>
-<pubDate>Sun, 14 Dec 2025 18:16:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Australia to tighten gun laws after Bondi Beach Hanukkah massacre]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-3be76a51c820d547ee4697bd25c1bafd</link>
 <pubDate>Mon, 15 Dec 2025 10:15:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Shooting on Bondi Beach pierces Australia’s sense of security. Survivors remember moments of terror]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3</link>
+<pubDate>Mon, 15 Dec 2025 11:38:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,12 +380,6 @@
 <title><![CDATA[Bystander shown in videos disarming gunman during Australian beach shooting commended for bravery]]></title>
 <link>https://apnews.com/article/shooting-australia-beach-police-gunman-bystander-bc16cf674691381c7176a9bda2f39d3e</link>
 <pubDate>Sun, 14 Dec 2025 18:31:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the attack on the Jewish festival in Australia that killed 15 people]]></title>
-<link>https://apnews.com/article/austroalia-mass-shooting-jewish-festival-sydney-bondi-beach-d17bc9b6c9bae080b452898bd88169b2</link>
-<pubDate>Mon, 15 Dec 2025 10:00:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[9 African migrants died in freezing temperatures near Morocco-Algeria border]]></title>
-<link>https://apnews.com/article/migration-africa-morocco-algeria-de3cef1fe9f453a9261469bdcafc0ec7</link>
-<pubDate>Sun, 14 Dec 2025 20:50:18 -0000</pubDate>
+<title><![CDATA[Girls and women fleeing Mali describe sexual violence by Russian forces]]></title>
+<link>https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636</link>
+<pubDate>Sun, 14 Dec 2025 07:35:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
