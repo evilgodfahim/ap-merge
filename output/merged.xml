@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Dec 2025 21:11:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 21:39:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli military expansion in Syria raises tensions as they carve out a buffer zone]]></title>
 <link>https://apnews.com/article/syria-israel-clashes-beit-jin-buffer-zone-43c8478fe571ad015997ee0d090f9f1e</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Small plane crashes in central Mexico, killing at least 7 people, official says]]></title>
+<link>https://apnews.com/article/mexico-small-plane-crash-17177c5f418377f3984e145897779cdd</link>
+<pubDate>Tue, 16 Dec 2025 21:39:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As reefs vanish, assisted coral fertilization offers hope in the Dominican Republic]]></title>
 <link>https://apnews.com/article/coral-reef-restoration-fertilization-climate-environment-dominican-329b281f4fe37c9b7da84653f22301c7</link>
 <pubDate>Tue, 16 Dec 2025 13:59:31 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Colombia says ELN rebels killed 2 police officers as they protest US military build up]]></title>
 <link>https://apnews.com/article/colombia-eln-rebels-attack-police-killed-787a6e844e9c0b9a9f8d70f56b1c575e</link>
 <pubDate>Tue, 16 Dec 2025 17:47:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Conservative Kast’s victory in Chile suggests a hard-right, pro-Trump surge across Latin America]]></title>
-<link>https://apnews.com/article/election-chile-kast-jara-boric-trump-05f915fd5eda909c13fd283f90f8d8e5</link>
-<pubDate>Tue, 16 Dec 2025 03:53:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Killings of Rob Reiner and his wife stun Hollywood as son skips court appearance for medical reasons]]></title>
+<title><![CDATA[Prosecutors will charge Rob Reiner’s son Nick with 2 counts of murder in killing of his parents]]></title>
 <link>https://apnews.com/article/rob-reiner-wife-killed-331fa106817847d4d6a1e5db2add056f</link>
-<pubDate>Tue, 16 Dec 2025 17:32:56 -0000</pubDate>
+<pubDate>Tue, 16 Dec 2025 21:24:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Conservative Kast’s victory in Chile suggests a hard-right, pro-Trump surge across Latin America]]></title>
+<link>https://apnews.com/article/election-chile-kast-jara-boric-trump-05f915fd5eda909c13fd283f90f8d8e5</link>
+<pubDate>Tue, 16 Dec 2025 21:39:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-15-2025-7c844941f4a7bcac2e04763f0a6bc07a</link>
 <pubDate>Mon, 15 Dec 2025 22:11:07 -0000</pubDate>
@@ -350,12 +356,6 @@
 <title><![CDATA[Colombian peace delegation condemns ELN strike action against US military buildup in Caribbean]]></title>
 <link>https://apnews.com/article/colombia-eln-armed-strike-us-carribean-petro-ed2d82580e443c084d39309fb5f4ae3f</link>
 <pubDate>Tue, 16 Dec 2025 03:38:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Sudan grounds UN aircraft and alleges illegal surveillance and smuggling]]></title>
-<link>https://apnews.com/article/south-sudan-united-nations-aircraft-grounded-b7de2244c441f2c373c628b94c331a49</link>
-<pubDate>Mon, 15 Dec 2025 19:22:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street slips following mixed data on the economy as oil prices keep sinking]]></title>
+<title><![CDATA[Wall Street slips as oil prices keep dropping]]></title>
 <link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
-<pubDate>Tue, 16 Dec 2025 19:43:28 -0000</pubDate>
+<pubDate>Tue, 16 Dec 2025 21:39:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Small plane crashes in central Mexico, killing at least 7 people, official says]]></title>
-<link>https://apnews.com/article/mexico-small-plane-crash-17177c5f418377f3984e145897779cdd</link>
-<pubDate>Tue, 16 Dec 2025 00:40:16 -0000</pubDate>
+<title><![CDATA[The US labels another Latin American cartel a terrorist group as the anti-drug war escalates]]></title>
+<link>https://apnews.com/article/colombia-state-department-trump-terrorist-designation-ff7d8f2027b080fa4d77daa5fc399820</link>
+<pubDate>Tue, 16 Dec 2025 21:24:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
