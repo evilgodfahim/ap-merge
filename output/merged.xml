@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Dec 2025 09:44:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 10:13:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas confirms the death of a top commander in Gaza after Israeli strike]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-4be8ae23987f59c3db968311cb5fc06f</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelenskyy and some 30 countries to approve compensation body for Ukraine damages]]></title>
+<link>https://apnews.com/article/netherlands-zelenskyy-ukraine-claims-commission-russia-6a4c78360c51021bdb8c251bc230de38</link>
+<pubDate>Tue, 16 Dec 2025 10:13:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nobel laureate Ales Bialiatski describes Belarus prison ordeal in first interview after release]]></title>
 <link>https://apnews.com/article/belarus-nobel-laureate-bialiatski-interview-3dec8221b52551ad414098dc2f015139</link>
 <pubDate>Sun, 14 Dec 2025 21:35:17 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[After a year of Trump, EU leaders begrudgingly learn to live with the reality of an unreliable ally]]></title>
 <link>https://apnews.com/article/europe-trump-ukraine-russia-trade-far-right-74e68902613a7e1697f059521e51f186</link>
 <pubDate>Tue, 16 Dec 2025 07:41:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Britain’s MI6 spy chief says Putin is dragging out peace talks and wants to subjugate Ukraine]]></title>
-<link>https://apnews.com/article/britain-mi6-uk-russia-putin-intelligence-security-c17d561018b4bb475f29d47836d389e1</link>
-<pubDate>Mon, 15 Dec 2025 17:17:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Americans like artificial Christmas trees even though few are made in US and prices are up]]></title>
+<link>https://apnews.com/article/tariffs-christmas-trees-fake-artificial-china-balsam-hill-1ddac9237e03e3afad18759754131a4d</link>
+<pubDate>Tue, 16 Dec 2025 09:58:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US tariffs are having an uneven effect on holiday prices and purchases]]></title>
 <link>https://apnews.com/article/tariffs-prices-holiday-gifts-32ddcb7e00cb79b316e9634d26069e4c</link>
 <pubDate>Tue, 16 Dec 2025 05:48:54 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[‘Zootopia 2' reclaims No. 1 spot at box office, grosses $1B worldwide]]></title>
 <link>https://apnews.com/article/zootopia-five-nights-at-freddys-box-office-818d9c425cbfad519ec92ac76f7a88e9</link>
 <pubDate>Mon, 15 Dec 2025 04:33:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the trial of former Hong Kong media mogul Jimmy Lai]]></title>
-<link>https://apnews.com/article/jimmy-lai-national-security-trial-explainer-4e0532c04de4d04b04f498f4f356d49a</link>
-<pubDate>Mon, 15 Dec 2025 02:40:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelenskyy says peace proposals to end the war in Ukraine could be presented to Russia within days]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-proposals-3533b250a9cf423576238a0a58725444</link>
+<pubDate>Tue, 16 Dec 2025 10:13:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australian police say Bondi Beach mass shooting was inspired by Islamic State group]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-sydney-antisemitism-islamic-state-6813e5ca68afb47495a3a5f4b210d64e</link>
 <pubDate>Tue, 16 Dec 2025 03:53:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Holocaust survivor and 10-year-old with gentle soul among those killed in Bondi Beach shooting]]></title>
+<title><![CDATA[Bondi Beach shooting leaves a Holocaust survivor and 10-year-old boy among the dead]]></title>
 <link>https://apnews.com/article/australia-shooting-victims-bondi-sydney-antisemitism-b351f0fccbbe4eeacf2c521ba5835d8c</link>
-<pubDate>Tue, 16 Dec 2025 07:41:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US officials say Washington has agreed to give Ukraine security guarantees in peace talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-berlin-talks-zelenskyy-5b99faff949ee1ba6212433be2d54b88</link>
-<pubDate>Mon, 15 Dec 2025 20:43:09 -0000</pubDate>
+<pubDate>Tue, 16 Dec 2025 09:58:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Americans like artificial Christmas trees even though few are made in US and prices are up]]></title>
-<link>https://apnews.com/article/tariffs-christmas-trees-fake-artificial-china-balsam-hill-1ddac9237e03e3afad18759754131a4d</link>
-<pubDate>Tue, 16 Dec 2025 06:03:55 -0000</pubDate>
+<title><![CDATA[China puts anti-dumping tariff of up to 18.9% on imports of pork from the EU]]></title>
+<link>https://apnews.com/article/china-eu-pork-tariff-ev-dumping-bc3a5559afb9c2482692d0e78b7fe433</link>
+<pubDate>Tue, 16 Dec 2025 09:43:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
