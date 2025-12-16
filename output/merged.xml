@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Dec 2025 16:15:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 16:51:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Western and Arab diplomats tour Lebanon-Israel border to observe Hezbollah disarmament efforts]]></title>
 <link>https://apnews.com/article/lebanon-israel-border-arab-western-diplomats-tour-abadd28c5ab2076bd6b2b8a188cb0cb9</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Bondi Beach shooting as seen from the beach, the boardwalk and a hotel]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3</link>
+<pubDate>Tue, 16 Dec 2025 16:51:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Jewish groups urge heightened security at public events after Hanukkah attack in Australia]]></title>
 <link>https://apnews.com/article/australia-bondi-beach-mass-shooting-hanukkah-jews-f5f4d0a3798b0bcd85a06f2865daa145</link>
 <pubDate>Tue, 16 Dec 2025 12:25:12 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Australia’s leaders promise to tighten gun laws after Bondi Beach massacre on Hanukkah]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-3be76a51c820d547ee4697bd25c1bafd</link>
 <pubDate>Tue, 16 Dec 2025 12:10:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan lifts its megaquake advisory but urges caution a week after magnitude 7.5 temblor]]></title>
-<link>https://apnews.com/article/japan-megaquake-tsunami-advisory-lifted-ef93c04044e4189d4fa81375f1b940d2</link>
-<pubDate>Tue, 16 Dec 2025 07:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,6 +179,30 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lithuania arrests 21 in alleged cigarette smuggling ring using weather balloons from Belarus]]></title>
+<link>https://apnews.com/article/lithuania-balloons-belarus-arrests-052dffe4e6d5b5dffbc7faf1591dc9e1</link>
+<pubDate>Tue, 16 Dec 2025 16:51:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia names German broadcaster Deutsche Welle as ‘undesirable organization’]]></title>
+<link>https://apnews.com/article/russia-crackdown-deutsche-welle-broadcaster-2408f44576e82b725cdb335cc414672e</link>
+<pubDate>Tue, 16 Dec 2025 16:36:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lawmaker’s bribery conviction sparks UK probe into foreign financial interference]]></title>
+<link>https://apnews.com/article/uk-political-interference-china-review-russia-f9cb5792e95848856c9715946d53300e</link>
+<pubDate>Tue, 16 Dec 2025 16:21:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rome opens long-awaited Colosseum subway station, with displays of unearthed artifacts]]></title>
+<link>https://apnews.com/article/italy-rome-colosseum-metro-subway-stations-ancient-1a997085dce11d68412d6ba26c09528d</link>
+<pubDate>Tue, 16 Dec 2025 16:06:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[An American man dies after fall in the Slovenian Alps]]></title>
 <link>https://apnews.com/article/slovenia-us-climber-dies-c6da246cccb429b7f92e798529bf821f</link>
 <pubDate>Tue, 16 Dec 2025 15:42:21 -0000</pubDate>
@@ -212,6 +236,12 @@
 <title><![CDATA[Pakistani court sentences cleric from banned party to 35 years for inciting violence]]></title>
 <link>https://apnews.com/article/pakistan-court-sentences-islamist-leader-banned-party-e5c2f072e27b2f9c6aa715bf438b22f5</link>
 <pubDate>Tue, 16 Dec 2025 07:41:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan lifts its megaquake advisory but urges caution a week after magnitude 7.5 temblor]]></title>
+<link>https://apnews.com/article/japan-megaquake-tsunami-advisory-lifted-ef93c04044e4189d4fa81375f1b940d2</link>
+<pubDate>Tue, 16 Dec 2025 15:51:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,36 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Farmers and politics threaten to put EU’s free-trade deal with South America on ice]]></title>
-<link>https://apnews.com/article/mercosur-france-trade-eu-protest-france-farmers-8ab1538cde4af959bd10b6ce7fd0bb25</link>
-<pubDate>Tue, 16 Dec 2025 00:40:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope denounces ‘antisemitic violence’ of Sydney attack as he thanks Christmas donors]]></title>
-<link>https://apnews.com/article/vatican-pope-sydney-massacre-hanukkah-abortion-5bd3c953c79d4e301c53ad6aa9b0782a</link>
-<pubDate>Mon, 15 Dec 2025 15:01:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of the 56th Jockey Challenge at Rinconada racetrack in Venezuela]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-horse-races-photo-gallery-b266d9bf0a36f2bef86b56190b0eab64</link>
-<pubDate>Mon, 15 Dec 2025 14:46:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Older adults may struggle to learn a new language but classes are a worthwhile exercise]]></title>
-<link>https://apnews.com/article/older-adults-foreign-language-learning-memory-aacbb0a115f387623a85daf1c7787e63</link>
-<pubDate>Mon, 15 Dec 2025 14:00:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran hosts regional talks on Afghanistan but Kabul stays away]]></title>
-<link>https://apnews.com/article/iran-afghanistan-pakistan-russia-taliban-talks-dba573f830d07c6721bf0e0c774c5409</link>
-<pubDate>Mon, 15 Dec 2025 18:02:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy says proposals to end the war in Ukraine could be presented to Russia within days]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-proposals-3533b250a9cf423576238a0a58725444</link>
 <pubDate>Tue, 16 Dec 2025 13:10:14 -0000</pubDate>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street hangs near its records following mixed data on the economy]]></title>
+<title><![CDATA[Wall Street drifts near its records following mixed data on the economy]]></title>
 <link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
-<pubDate>Tue, 16 Dec 2025 14:57:21 -0000</pubDate>
+<pubDate>Tue, 16 Dec 2025 16:51:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Bondi Beach shooting as seen from the beach, the boardwalk and a hotel]]></title>
-<link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3</link>
-<pubDate>Mon, 15 Dec 2025 13:12:05 -0000</pubDate>
+<title><![CDATA[Millions facing acute food insecurity in Afghanistan as winter looms, UN warns]]></title>
+<link>https://apnews.com/article/afghanistan-world-food-program-winter-shortage-86d68b71559f07bfcc73bdb65c776c66</link>
+<pubDate>Tue, 16 Dec 2025 16:36:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
