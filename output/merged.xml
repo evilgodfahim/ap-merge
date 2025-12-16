@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Dec 2025 07:15:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 07:41:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hamas confirms the death of a top commander in Gaza after Israeli strike]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-hamas-war-4be8ae23987f59c3db968311cb5fc06f</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[After a year of Trump, EU leaders begrudgingly learn to live with the reality of an unreliable ally]]></title>
+<link>https://apnews.com/article/europe-trump-ukraine-russia-trade-far-right-74e68902613a7e1697f059521e51f186</link>
+<pubDate>Tue, 16 Dec 2025 07:41:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Britain’s MI6 spy chief says Putin is dragging out peace talks and wants to subjugate Ukraine]]></title>
 <link>https://apnews.com/article/britain-mi6-uk-russia-putin-intelligence-security-c17d561018b4bb475f29d47836d389e1</link>
 <pubDate>Mon, 15 Dec 2025 17:17:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Louvre workers vote to strike in another blow to the Paris museum]]></title>
-<link>https://apnews.com/article/france-paris-louvre-union-staff-strike-vote-3edde372c87e3ca782b109b4e11d2eb8</link>
-<pubDate>Mon, 15 Dec 2025 11:38:23 -0000</pubDate>
+<title><![CDATA[Japan lifts its megaquake advisory but urges caution a week after magnitude 7.5 temblor]]></title>
+<link>https://apnews.com/article/japan-megaquake-tsunami-advisory-lifted-ef93c04044e4189d4fa81375f1b940d2</link>
+<pubDate>Tue, 16 Dec 2025 07:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Jimmy Lai’s daughter says he’d focus on family, not activism, if he’s freed in Hong Kong]]></title>
 <link>https://apnews.com/article/jimmy-lai-daughter-clair-hong-kong-china-2adca7df246c9c2d4a1aedbfcc47db8e</link>
 <pubDate>Mon, 15 Dec 2025 23:11:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cambodia says Thai bombing is hitting deeper into its territory near shelters for displaced]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-jet-fighter-ffc149ddfed206bdd029a37578f8e434</link>
-<pubDate>Mon, 15 Dec 2025 17:02:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares, US futures sink ahead of US jobs report]]></title>
-<link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
-<pubDate>Tue, 16 Dec 2025 06:18:54 -0000</pubDate>
+<title><![CDATA[Pakistani court sentences cleric from banned party to 35 years for inciting violence]]></title>
+<link>https://apnews.com/article/pakistan-court-sentences-islamist-leader-banned-party-e5c2f072e27b2f9c6aa715bf438b22f5</link>
+<pubDate>Tue, 16 Dec 2025 07:41:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,12 +287,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain fines Airbnb $75 million for unlicensed tourist rentals]]></title>
-<link>https://apnews.com/article/spain-airbnb-fine-overtourism-crackdown-fa2bdc048a63aa5632f2c59373b70b46</link>
-<pubDate>Mon, 15 Dec 2025 14:15:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Older adults may struggle to learn a new language but classes are a worthwhile exercise]]></title>
 <link>https://apnews.com/article/older-adults-foreign-language-learning-memory-aacbb0a115f387623a85daf1c7787e63</link>
 <pubDate>Mon, 15 Dec 2025 14:00:50 -0000</pubDate>
@@ -335,6 +329,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cambodia says Thai bombing is hitting deeper into its territory near shelters for displaced]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-combat-rockets-jet-fighter-ffc149ddfed206bdd029a37578f8e434</link>
+<pubDate>Tue, 16 Dec 2025 07:26:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the attack on the Hanukkah festival in Australia that killed 15 people]]></title>
+<link>https://apnews.com/article/austroalia-mass-shooting-jewish-festival-sydney-bondi-beach-d17bc9b6c9bae080b452898bd88169b2</link>
+<pubDate>Tue, 16 Dec 2025 07:11:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech president swears in new coalition government of populist billionaire Andrej Babiš]]></title>
 <link>https://apnews.com/article/czech-republic-new-government-babis-109771312dec01f2e6860eaeba7da9c3</link>
 <pubDate>Mon, 15 Dec 2025 12:57:04 -0000</pubDate>
@@ -347,15 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan begins last anti-polio vaccination drive of the year after surge in new cases]]></title>
-<link>https://apnews.com/article/pakistan-launches-campaign-against-polio-f2c57078a42d81e05b2802181b53469c</link>
-<pubDate>Mon, 15 Dec 2025 11:08:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Australian police say Bondi Beach mass shooting was inspired by Islamic State group]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-sydney-antisemitism-islamic-state-6813e5ca68afb47495a3a5f4b210d64e</link>
 <pubDate>Tue, 16 Dec 2025 03:53:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Holocaust survivor and 10-year-old with gentle soul among those killed in Bondi Beach shooting]]></title>
+<link>https://apnews.com/article/australia-shooting-victims-bondi-sydney-antisemitism-b351f0fccbbe4eeacf2c521ba5835d8c</link>
+<pubDate>Tue, 16 Dec 2025 07:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,12 +380,6 @@
 <title><![CDATA[The Bondi Beach shooting as seen from the beach, the boardwalk and a hotel]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3</link>
 <pubDate>Mon, 15 Dec 2025 13:12:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the attack on the Hanukkah festival in Australia that killed 15 people]]></title>
-<link>https://apnews.com/article/austroalia-mass-shooting-jewish-festival-sydney-bondi-beach-d17bc9b6c9bae080b452898bd88169b2</link>
-<pubDate>Mon, 15 Dec 2025 18:02:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,33 +425,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks drift ahead of Tuesday’s jobs report]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-trump-china-ai-edc6001d1bca04e26d869b8084eee526</link>
-<pubDate>Mon, 15 Dec 2025 21:56:08 -0000</pubDate>
+<title><![CDATA[Asian shares, US futures sink ahead of US jobs report]]></title>
+<link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
+<pubDate>Tue, 16 Dec 2025 07:26:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[High-end car sales sink in China as its economy slows, taking a toll on European automakers]]></title>
-<link>https://apnews.com/article/luxury-cars-china-economy-europe-a1f4f55f2989082a2a533ab891f75408</link>
-<pubDate>Sun, 14 Dec 2025 02:27:17 -0000</pubDate>
+<title><![CDATA[Ford scraps fully-electric F-150 Lightning as mounting losses and falling demand hits EV plans]]></title>
+<link>https://apnews.com/article/ford-electric-vehicles-trump-f150-a1fcdec9c76cde5d2d6852360d9d42c4</link>
+<pubDate>Tue, 16 Dec 2025 07:11:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Quarterly ‘tankan’ survey shows slight improvement as Bank of Japan weighs a rate hike]]></title>
-<link>https://apnews.com/article/japan-economy-tankan-trump-tariffs-china-e5c85c9eea866eb1b18d924635b7fef4</link>
-<pubDate>Mon, 15 Dec 2025 09:30:20 -0000</pubDate>
+<title><![CDATA[Spain fines Airbnb $75 million for unlicensed tourist rentals]]></title>
+<link>https://apnews.com/article/spain-airbnb-fine-overtourism-crackdown-fa2bdc048a63aa5632f2c59373b70b46</link>
+<pubDate>Tue, 16 Dec 2025 06:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[FDA OKs libido-boosting pill for older women who have gone through menopause]]></title>
+<link>https://apnews.com/article/women-libido-addyi-pill-fda-sexual-health-a6b34c5c94cb31f5908b200097f983da</link>
+<pubDate>Tue, 16 Dec 2025 06:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Volkswagen’s $3.5B gamble: Can it win back share in the competitive Chinese market]]></title>
 <link>https://apnews.com/article/volkswagen-china-evs-hefei-auto-90ae96f798913bcdd9e83de1edadfd0e</link>
 <pubDate>Mon, 15 Dec 2025 05:03:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hassett says Federal Reserve can reject Trump’s views if he is chair]]></title>
-<link>https://apnews.com/article/federal-reserve-hassett-trump-independence-2a2a5c1bd7de916d1118f2c9d863cde7</link>
-<pubDate>Mon, 15 Dec 2025 09:15:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
