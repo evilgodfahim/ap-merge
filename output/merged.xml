@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 07:14:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 07:40:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s rial currency plummets to new low, sparking fears of higher food prices]]></title>
 <link>https://apnews.com/article/iran-currency-rial-falls-bba02b11b9c505644ccc0d748adee0d1</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A homeless man’s death caught the pope’s attention. Now his likeness is on display at the Vatican]]></title>
+<title><![CDATA[Church altar featuring homeless man goes on display a stone’s throw from his grave at the Vatican]]></title>
 <link>https://apnews.com/article/vatican-homeless-altar-germany-naumburg-pope-francis-890811e00fad60b5cf383b8d674e4456</link>
-<pubDate>Wed, 17 Dec 2025 06:18:21 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 07:40:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +179,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s exports rise 6% in November as shipments to the US bounce back]]></title>
+<link>https://apnews.com/article/japan-trade-exports-tariffs-trump-dbb661b135bda8b4c7f9ee57a4d8a233</link>
+<pubDate>Wed, 17 Dec 2025 07:40:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Takeaways from the AP’s report on the impact of aid cuts on Rohingya children in Bangladesh]]></title>
 <link>https://apnews.com/article/usaid-rohingya-exploitation-trump-budget-cuts-takeaways-b87e5175ea38b7905941c05e4c7f8353</link>
 <pubDate>Wed, 17 Dec 2025 06:18:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed and oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
+<title><![CDATA[Asian shares gain, while oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-ai-jobs-oil-d6a0aeeb54fd06320cb22f80e32eaa5e</link>
-<pubDate>Wed, 17 Dec 2025 06:03:22 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 07:25:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump sues BBC for $10 billion, accusing it of defamation over editing of president’s Jan. 6 speech]]></title>
-<link>https://apnews.com/article/trump-bbc-lawsuit-defamation-a9fd196c4f242decd8f28e8d0ce74442</link>
-<pubDate>Tue, 16 Dec 2025 02:47:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump expands travel ban and restrictions to include an additional 20 countries]]></title>
 <link>https://apnews.com/article/trump-travel-ban-countries-immigration-visas-border-9dde0aecb3ffe418266700d9eefef937</link>
 <pubDate>Tue, 16 Dec 2025 22:40:26 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kidnapped, married off, robbed of hope: US aid cuts contribute to exploitation of Rohingya children]]></title>
+<title><![CDATA[Trafficked, exploited, married off: Rohingya children’s lives crushed by foreign aid cuts]]></title>
 <link>https://apnews.com/article/usaid-rohingya-exploitation-trump-budget-cuts-ebd7a05e2f507b810194e71ae6b3c515</link>
-<pubDate>Wed, 17 Dec 2025 06:18:23 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 07:40:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Grief, tears and anger as funerals for people slain in Australian antisemitic mass shooting begin]]></title>
+<title><![CDATA[Suspected gunman in Bondi Beach shooting charged with 15 counts of murder]]></title>
 <link>https://apnews.com/article/bondi-shooting-hanukkah-jewish-funerals-sydney-australia-9625940bc9b2a746c7811bacdae9a0a2</link>
-<pubDate>Wed, 17 Dec 2025 03:48:46 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 07:25:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
