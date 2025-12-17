@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 08:17:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 08:50:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s rial currency plummets to new low, sparking fears of higher food prices]]></title>
 <link>https://apnews.com/article/iran-currency-rial-falls-bba02b11b9c505644ccc0d748adee0d1</link>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Millions facing acute food insecurity in Afghanistan as winter looms, UN warns]]></title>
-<link>https://apnews.com/article/afghanistan-world-food-program-winter-shortage-86d68b71559f07bfcc73bdb65c776c66</link>
-<pubDate>Tue, 16 Dec 2025 22:25:24 -0000</pubDate>
+<title><![CDATA[What to know about a Philippines region with militant history visited by Bondi Beach suspects]]></title>
+<link>https://apnews.com/article/philippines-australia-shooting-mindanao-militants-dd9162e0053e2c30123b3454cabe20e4</link>
+<pubDate>Wed, 17 Dec 2025 08:50:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China puts anti-dumping tariff of up to 19.8% on imports of pork from the EU]]></title>
+<link>https://apnews.com/article/china-eu-pork-tariff-ev-dumping-bc3a5559afb9c2482692d0e78b7fe433</link>
+<pubDate>Wed, 17 Dec 2025 08:35:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Americans like artificial Christmas trees even though few are made in US and prices are up]]></title>
 <link>https://apnews.com/article/tariffs-christmas-trees-fake-artificial-china-balsam-hill-1ddac9237e03e3afad18759754131a4d</link>
 <pubDate>Tue, 16 Dec 2025 09:58:29 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[US tariffs are having an uneven effect on holiday prices and purchases]]></title>
 <link>https://apnews.com/article/tariffs-prices-holiday-gifts-32ddcb7e00cb79b316e9634d26069e4c</link>
 <pubDate>Tue, 16 Dec 2025 05:48:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Volkswagen’s $3.5B gamble: Can it win back share in the competitive Chinese market]]></title>
-<link>https://apnews.com/article/volkswagen-china-evs-hefei-auto-90ae96f798913bcdd9e83de1edadfd0e</link>
-<pubDate>Tue, 16 Dec 2025 11:07:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,21 +179,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports rise 6% in November as shipments to the US bounce back]]></title>
-<link>https://apnews.com/article/japan-trade-exports-tariffs-trump-dbb661b135bda8b4c7f9ee57a4d8a233</link>
-<pubDate>Wed, 17 Dec 2025 07:40:11 -0000</pubDate>
+<title><![CDATA[See stunning photos of animals and nature captured by AP photojournalists in 2025]]></title>
+<link>https://apnews.com/photo-gallery/top-associated-press-photos-animals-nature-2025-a79cc4a53b2a997103d53f8d9e507bb2</link>
+<pubDate>Wed, 17 Dec 2025 08:50:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Takeaways from the AP’s report on the impact of aid cuts on Rohingya children in Bangladesh]]></title>
 <link>https://apnews.com/article/usaid-rohingya-exploitation-trump-budget-cuts-takeaways-b87e5175ea38b7905941c05e4c7f8353</link>
 <pubDate>Wed, 17 Dec 2025 06:18:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares gain, while oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-ai-jobs-oil-d6a0aeeb54fd06320cb22f80e32eaa5e</link>
-<pubDate>Wed, 17 Dec 2025 07:25:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Millions facing acute food insecurity in Afghanistan as winter looms, UN warns]]></title>
+<link>https://apnews.com/article/afghanistan-world-food-program-winter-shortage-86d68b71559f07bfcc73bdb65c776c66</link>
+<pubDate>Wed, 17 Dec 2025 08:35:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[An American man dies after fall in the Slovenian Alps]]></title>
 <link>https://apnews.com/article/slovenia-us-climber-dies-c6da246cccb429b7f92e798529bf821f</link>
 <pubDate>Tue, 16 Dec 2025 15:42:21 -0000</pubDate>
@@ -347,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia to hold funerals for the 15 victims of an antisemitic mass shooting at Bondi Beach]]></title>
-<link>https://apnews.com/article/australia-shooting-bondi-sydney-antisemitism-islamic-state-6813e5ca68afb47495a3a5f4b210d64e</link>
-<pubDate>Wed, 17 Dec 2025 03:48:45 -0000</pubDate>
+<title><![CDATA[Wall Street slips as oil prices keep dropping]]></title>
+<link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
+<pubDate>Wed, 17 Dec 2025 08:20:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people]]></title>
-<link>https://apnews.com/article/boat-strikes-us-military-drugs-pacific-108d10bbd3d19c34b8959602222e22e6</link>
-<pubDate>Tue, 16 Dec 2025 03:53:15 -0000</pubDate>
+<title><![CDATA[Australia to hold funerals for the 15 victims of an antisemitic mass shooting at Bondi Beach]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-sydney-antisemitism-islamic-state-6813e5ca68afb47495a3a5f4b210d64e</link>
+<pubDate>Wed, 17 Dec 2025 03:48:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,33 +425,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street slips as oil prices keep dropping]]></title>
-<link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
-<pubDate>Tue, 16 Dec 2025 21:39:04 -0000</pubDate>
+<title><![CDATA[Asian shares gain, while oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-ai-jobs-oil-d6a0aeeb54fd06320cb22f80e32eaa5e</link>
+<pubDate>Wed, 17 Dec 2025 08:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China puts anti-dumping tariff of up to 19.8% on imports of pork from the EU]]></title>
-<link>https://apnews.com/article/china-eu-pork-tariff-ev-dumping-bc3a5559afb9c2482692d0e78b7fe433</link>
-<pubDate>Tue, 16 Dec 2025 18:37:09 -0000</pubDate>
+<title><![CDATA[Jared Kushner pulls out of Paramount’s hostile bid for Warner Bros. Discovery]]></title>
+<link>https://apnews.com/article/jared-kushner-paramount-warner-bros-netflix-56886b231c132f6eb7d8990f0ede3e32</link>
+<pubDate>Wed, 17 Dec 2025 08:35:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ford scraps fully-electric F-150 Lightning as mounting losses and falling demand hits EV plans]]></title>
-<link>https://apnews.com/article/ford-electric-vehicles-trump-f150-a1fcdec9c76cde5d2d6852360d9d42c4</link>
-<pubDate>Tue, 16 Dec 2025 07:11:11 -0000</pubDate>
+<title><![CDATA[Japan’s exports rise 6% in November as shipments to the US bounce back]]></title>
+<link>https://apnews.com/article/japan-trade-exports-tariffs-trump-dbb661b135bda8b4c7f9ee57a4d8a233</link>
+<pubDate>Wed, 17 Dec 2025 08:20:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain fines Airbnb $75 million for unlicensed tourist rentals]]></title>
-<link>https://apnews.com/article/spain-airbnb-fine-overtourism-crackdown-fa2bdc048a63aa5632f2c59373b70b46</link>
-<pubDate>Tue, 16 Dec 2025 06:56:11 -0000</pubDate>
+<title><![CDATA[2 big rail unions oppose $85B Union Pacific-Norfolk Southern merger over safety and cost concerns]]></title>
+<link>https://apnews.com/article/union-pacific-norfolk-southern-railroad-merger-labor-1d200536da271eaf6b8dcecdf7c8e3ac</link>
+<pubDate>Wed, 17 Dec 2025 08:05:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FDA OKs libido-boosting pill for older women who have gone through menopause]]></title>
-<link>https://apnews.com/article/women-libido-addyi-pill-fda-sexual-health-a6b34c5c94cb31f5908b200097f983da</link>
-<pubDate>Tue, 16 Dec 2025 06:41:11 -0000</pubDate>
+<title><![CDATA[Kraft Heinz taps former Kellogg chief as its CEO as it prepares to split into 2 companies]]></title>
+<link>https://apnews.com/article/kraft-heinz-kellogg-ceo-f8788dc35d237691046be99ca6c68dc3</link>
+<pubDate>Wed, 17 Dec 2025 07:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suspected gunman in Bondi Beach shooting charged with 15 counts of murder]]></title>
+<title><![CDATA[Accused gunman in Bondi Beach shooting charged with 15 counts of murder]]></title>
 <link>https://apnews.com/article/bondi-shooting-hanukkah-jewish-funerals-sydney-australia-9625940bc9b2a746c7811bacdae9a0a2</link>
-<pubDate>Wed, 17 Dec 2025 07:25:12 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 07:35:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
