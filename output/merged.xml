@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 09:45:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 10:13:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s rial currency plummets to new low, sparking fears of higher food prices]]></title>
 <link>https://apnews.com/article/iran-currency-rial-falls-bba02b11b9c505644ccc0d748adee0d1</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Louvre workers vote to extend a strike at the world’s most visited museum]]></title>
+<link>https://apnews.com/article/france-louvre-museum-strike-vote-a90f45a603b4348c2543392aa6ee4ebf</link>
+<pubDate>Wed, 17 Dec 2025 10:13:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zelenskyy says proposals to end the war in Ukraine could be presented to Russia within days]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-proposals-3533b250a9cf423576238a0a58725444</link>
 <pubDate>Tue, 16 Dec 2025 18:02:56 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Envoys try to narrow gaps on a loan plan for Ukraine ahead of Thursday’s crunch EU summit]]></title>
 <link>https://apnews.com/article/europe-russia-frozen-assets-reparations-loan-ukraine-a40f58d3e17bc1dc89246a528ab1ba16</link>
 <pubDate>Tue, 16 Dec 2025 12:55:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Church altar featuring homeless man goes on display a stone’s throw from his grave at the Vatican]]></title>
-<link>https://apnews.com/article/vatican-homeless-altar-germany-naumburg-pope-francis-890811e00fad60b5cf383b8d674e4456</link>
-<pubDate>Wed, 17 Dec 2025 07:40:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rwanda-backed M23 rebels say they will withdraw from seized city in eastern Congo]]></title>
+<link>https://apnews.com/article/congo-m23-withdrawal-uvira-83da1ecce41d3b3c32d26410d8d77189</link>
+<pubDate>Wed, 17 Dec 2025 09:58:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Former Congo rebel leader Lumbala sentenced to 30 years over wartime atrocities]]></title>
 <link>https://apnews.com/article/congo-lumbala-trial-a737039c936787b6516ad4bc2308645b</link>
 <pubDate>Tue, 16 Dec 2025 13:29:31 -0000</pubDate>
@@ -98,12 +104,6 @@
 <title><![CDATA[In Senegal, climate change is adding to historic tension between farmers and herders]]></title>
 <link>https://apnews.com/article/climate-change-senegal-west-africa-shepherds-farmers-a2920f01e773a70d2fd2ffc73d7137d4</link>
 <pubDate>Wed, 17 Dec 2025 02:28:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AP photos spotlight a year of joy, triumph and resilience across Africa in 2025]]></title>
-<link>https://apnews.com/photo-gallery/africa-top-photos-2025-9da7a76051594e778479d2a016b32efa</link>
-<pubDate>Tue, 16 Dec 2025 08:51:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Spanish police evict hundreds of migrants from squat deemed a safety hazard]]></title>
+<link>https://apnews.com/article/spain-migrants-squat-school-badalona-9b45844c7c95b3fc93f39a7734780f1e</link>
+<pubDate>Wed, 17 Dec 2025 10:13:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[See the world in vertical: Top photos by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-22846de8e496265f5fd1e4da5f01c24b</link>
+<pubDate>Wed, 17 Dec 2025 09:58:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[See stunning photos of animals and nature captured by AP photojournalists in 2025]]></title>
 <link>https://apnews.com/photo-gallery/top-associated-press-photos-animals-nature-2025-a79cc4a53b2a997103d53f8d9e507bb2</link>
 <pubDate>Wed, 17 Dec 2025 08:50:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Church altar featuring homeless man goes on display a stone’s throw from his grave at the Vatican]]></title>
+<link>https://apnews.com/article/vatican-homeless-altar-germany-naumburg-pope-francis-890811e00fad60b5cf383b8d674e4456</link>
+<pubDate>Wed, 17 Dec 2025 09:43:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,33 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[AP photos spotlight a year of joy, triumph and resilience across Africa in 2025]]></title>
+<link>https://apnews.com/photo-gallery/africa-top-photos-2025-9da7a76051594e778479d2a016b32efa</link>
+<pubDate>Wed, 17 Dec 2025 09:28:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistani court sentences cleric from banned party to 35 years for inciting violence]]></title>
 <link>https://apnews.com/article/pakistan-court-sentences-islamist-leader-banned-party-e5c2f072e27b2f9c6aa715bf438b22f5</link>
 <pubDate>Tue, 16 Dec 2025 07:41:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan lifts its megaquake advisory but urges caution a week after magnitude 7.5 temblor]]></title>
-<link>https://apnews.com/article/japan-megaquake-tsunami-advisory-lifted-ef93c04044e4189d4fa81375f1b940d2</link>
-<pubDate>Tue, 16 Dec 2025 15:51:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After a year of Trump, EU leaders begrudgingly learn to live with the reality of an unreliable ally]]></title>
-<link>https://apnews.com/article/europe-trump-ukraine-russia-trade-far-right-74e68902613a7e1697f059521e51f186</link>
-<pubDate>Tue, 16 Dec 2025 12:55:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street slips as oil prices keep dropping]]></title>
-<link>https://apnews.com/article/stocks-markets-jobs-trump-ai-3af016aee68a46f9131db0450ed33048</link>
-<pubDate>Wed, 17 Dec 2025 08:20:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia to hold funerals for the 15 victims of an antisemitic mass shooting at Bondi Beach]]></title>
-<link>https://apnews.com/article/australia-shooting-bondi-sydney-antisemitism-islamic-state-6813e5ca68afb47495a3a5f4b210d64e</link>
-<pubDate>Wed, 17 Dec 2025 03:48:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares gain, while oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
+<title><![CDATA[World shares gain, while oil prices jump as Trump orders a blockade of oil tankers to Venezuela]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-ai-jobs-oil-d6a0aeeb54fd06320cb22f80e32eaa5e</link>
-<pubDate>Wed, 17 Dec 2025 08:50:22 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 10:13:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda-backed M23 rebels say they will withdraw from seized city in eastern Congo]]></title>
-<link>https://apnews.com/article/congo-m23-withdrawal-uvira-83da1ecce41d3b3c32d26410d8d77189</link>
-<pubDate>Tue, 16 Dec 2025 14:42:21 -0000</pubDate>
+<title><![CDATA[South African immigration authorities raid a US refugee processing center]]></title>
+<link>https://apnews.com/article/us-south-africa-trump-immigration-raid-afrikaner-17dd9bf8596eb1b2cf8c1545c368e982</link>
+<pubDate>Wed, 17 Dec 2025 09:58:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
