@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 19:12:57 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Over 1,600 people have been killed in attacks on health centers in Sudan this year, WHO chief says]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-498505b85e5a83aa03ce42daca89c2e0</link>
-<pubDate>Wed, 17 Dec 2025 17:15:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 17 Dec 2025 19:36:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s rial currency plummets to new low, sparking fears of higher food prices]]></title>
 <link>https://apnews.com/article/iran-currency-rial-falls-bba02b11b9c505644ccc0d748adee0d1</link>
 <pubDate>Tue, 16 Dec 2025 22:40:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli military expansion in Syria raises tensions as they carve out a buffer zone]]></title>
+<link>https://apnews.com/article/syria-israel-clashes-beit-jin-buffer-zone-43c8478fe571ad015997ee0d090f9f1e</link>
+<pubDate>Tue, 16 Dec 2025 20:13:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The US labels another Latin American cartel a terrorist group as the anti-drug war escalates]]></title>
+<link>https://apnews.com/article/colombia-state-department-trump-terrorist-designation-ff7d8f2027b080fa4d77daa5fc399820</link>
+<pubDate>Wed, 17 Dec 2025 19:36:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazilian cardinal orders a popular Catholic priest to go offline following right-wing attacks]]></title>
 <link>https://apnews.com/article/brazil-priest-social-media-lancellotti-sao-paulo-b2798414f3a757aeb7737b852f70421a</link>
 <pubDate>Tue, 16 Dec 2025 22:10:24 -0000</pubDate>
@@ -62,18 +68,6 @@
 <title><![CDATA[Costa Rica’s congress blocks effort to prosecute president for election interference]]></title>
 <link>https://apnews.com/article/costa-rica-president-rodrigo-chaves-immunity-election-investigation-8e65c2ddf47079e6bba81c8bb5ea7e4b</link>
 <pubDate>Wed, 17 Dec 2025 02:43:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italy may not support EU-Mercosur free trade deal without changes]]></title>
-<link>https://apnews.com/article/meloni-mercosur-eu-free-trade-f36b1c0f284e0051daf0d314dc7f9dd1</link>
-<pubDate>Wed, 17 Dec 2025 16:45:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UAE-backed Yemeni separatists march to another southern province, raising fears of renewed conflict]]></title>
-<link>https://apnews.com/article/yemen-secessionists-uae-4f15ba17cabc6fca1da30245c2417b58</link>
-<pubDate>Tue, 16 Dec 2025 18:17:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +119,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[High winds batter water-logged Northwest, injuring 2 children and cutting power to half a million]]></title>
-<link>https://apnews.com/article/pacific-northwest-levee-floods-washington-idaho-fe814b86139b6d30b8e19f5f1d44e47e</link>
-<pubDate>Wed, 17 Dec 2025 17:33:09 -0000</pubDate>
+<title><![CDATA[Meet the 4 Republicans who defied House Speaker Mike Johnson on ACA subsidies]]></title>
+<link>https://apnews.com/article/republicans-mike-johnson-aca-4601c4b607a2038a16c02bc8bf35492b</link>
+<pubDate>Wed, 17 Dec 2025 19:21:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands flock to a Tokyo zoo to see the last 2 pandas in Japan before their return to China]]></title>
+<link>https://apnews.com/article/japan-china-panda-diplomacy-ueno-zoo-return-381f3bd1e545aa769e4b6c0f347cab10</link>
+<pubDate>Wed, 17 Dec 2025 19:06:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -146,12 +146,6 @@
 <title><![CDATA[Jimmy Lai’s daughter says he’d focus on family, not activism, if he’s freed in Hong Kong]]></title>
 <link>https://apnews.com/article/jimmy-lai-daughter-clair-hong-kong-china-2adca7df246c9c2d4a1aedbfcc47db8e</link>
 <pubDate>Mon, 15 Dec 2025 23:11:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US tariffs are having an uneven effect on holiday prices and purchases]]></title>
-<link>https://apnews.com/article/tariffs-prices-holiday-gifts-32ddcb7e00cb79b316e9634d26069e4c</link>
-<pubDate>Tue, 16 Dec 2025 05:48:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about MIT professor Nuno Loureiro, who was shot at home near Boston]]></title>
+<title><![CDATA[US government sues US Virgin Islands and accuses officials of violating the Second Amendment]]></title>
+<link>https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270</link>
+<pubDate>Wed, 17 Dec 2025 19:36:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about MIT professor Nuno Loureiro and the investigation into his shooting]]></title>
 <link>https://apnews.com/article/mit-shooting-nuno-fg-loureiro-portugal-38cd6202c7a3d1737747a55ac5269b28</link>
-<pubDate>Wed, 17 Dec 2025 18:18:10 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 19:21:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[Kyrgyzstan’s newly elected parliament convenes for the first time]]></title>
 <link>https://apnews.com/article/kyrgyzstan-parliament-elections-opposition-zhaparov-8686ea066b8dcd615d3882b5e304fb9e</link>
 <pubDate>Wed, 17 Dec 2025 17:00:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Italy may not support EU-Mercosur free trade deal without changes]]></title>
+<link>https://apnews.com/article/meloni-mercosur-eu-free-trade-f36b1c0f284e0051daf0d314dc7f9dd1</link>
+<pubDate>Wed, 17 Dec 2025 19:06:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza families struggle to recover from days of torrential rains that killed 12 people]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-news-16-12-2025-32f41cd1cbc8e144ec6bd9cb02cf49b2</link>
+<pubDate>Wed, 17 Dec 2025 18:51:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[FIFA slashes price of some World Cup tickets to $60 after global fan backlash]]></title>
 <link>https://apnews.com/article/fifa-ticket-prices-slashed-73e7147a8843d07af08fcc88068dce80</link>
 <pubDate>Tue, 16 Dec 2025 18:17:57 -0000</pubDate>
@@ -341,21 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia says ELN rebels killed 2 police officers as group protests US military buildup]]></title>
-<link>https://apnews.com/article/colombia-eln-rebels-attack-police-killed-787a6e844e9c0b9a9f8d70f56b1c575e</link>
-<pubDate>Wed, 17 Dec 2025 02:43:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lithuania arrests 21 in alleged cigarette smuggling ring using weather balloons from Belarus]]></title>
-<link>https://apnews.com/article/lithuania-balloons-belarus-arrests-052dffe4e6d5b5dffbc7faf1591dc9e1</link>
-<pubDate>Tue, 16 Dec 2025 16:51:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia names German broadcaster Deutsche Welle as ‘undesirable organization’]]></title>
-<link>https://apnews.com/article/russia-crackdown-deutsche-welle-broadcaster-2408f44576e82b725cdb335cc414672e</link>
-<pubDate>Tue, 16 Dec 2025 16:36:07 -0000</pubDate>
+<title><![CDATA[Israel fires mortar into Gaza residential area, wounding at least 10]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-17-12-2025-ecf4517d0f51dc118cf97bb72a9d326d</link>
+<pubDate>Wed, 17 Dec 2025 19:36:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China exploits US-funded research on nuclear technology, a congressional report says]]></title>
-<link>https://apnews.com/article/china-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33</link>
-<pubDate>Wed, 17 Dec 2025 11:38:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Moment man tackles Bondi Beach shooting suspect and wrestles away his gun]]></title>
 <link>https://apnews.com/video/moment-that-man-tackles-bondi-beach-shooting-suspect-and-wrestles-away-his-gun-ac8c2bd4253646e38db66fa760452c1e</link>
 <pubDate>Wed, 17 Dec 2025 00:20:16 -0000</pubDate>
@@ -401,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian Nobel laureate Narges Mohammadi taken to hospital after arrest, family says]]></title>
-<link>https://apnews.com/article/iran-narges-mohammadi-nobel-peace-hospital-7a02bd68550758f8671830a5b74dd762</link>
-<pubDate>Tue, 16 Dec 2025 19:58:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Former Lebanese minister ordered released on $100,000 bail amid financial crime allegations]]></title>
 <link>https://apnews.com/article/lebanon-corruption-minister-salam-release-aa713a4cd76364847f59d43892ceee8a</link>
 <pubDate>Tue, 16 Dec 2025 15:27:21 -0000</pubDate>
@@ -422,6 +410,12 @@
 <title><![CDATA[Israel blocks a Canadian delegation from visiting the occupied West Bank]]></title>
 <link>https://apnews.com/article/israel-canada-delegation-west-bank-ba0f39adc9da4e070cfc203879e315c4</link>
 <pubDate>Tue, 16 Dec 2025 22:10:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Over 1,600 people have been killed in attacks on health centers in Sudan this year, WHO chief says]]></title>
+<link>https://apnews.com/article/sudan-war-military-rsf-498505b85e5a83aa03ce42daca89c2e0</link>
+<pubDate>Wed, 17 Dec 2025 19:21:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The US labels another Latin American cartel a terrorist group as the anti-drug war escalates]]></title>
-<link>https://apnews.com/article/colombia-state-department-trump-terrorist-designation-ff7d8f2027b080fa4d77daa5fc399820</link>
-<pubDate>Tue, 16 Dec 2025 21:24:04 -0000</pubDate>
+<title><![CDATA[The oil blockade threat creates anxiety in Venezuela but people stick to their daily lives]]></title>
+<link>https://apnews.com/article/venezuela-maduro-oil-trump-blockade-food-shortages-de504343d2118840f41bcc0cf6788ef4</link>
+<pubDate>Wed, 17 Dec 2025 19:06:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli military expansion in Syria raises tensions as they carve out a buffer zone]]></title>
-<link>https://apnews.com/article/syria-israel-clashes-beit-jin-buffer-zone-43c8478fe571ad015997ee0d090f9f1e</link>
-<pubDate>Mon, 15 Dec 2025 17:32:36 -0000</pubDate>
+<title><![CDATA[UAE-backed Yemeni separatists march to another southern province, raising fears of renewed conflict]]></title>
+<link>https://apnews.com/article/yemen-secessionists-uae-4f15ba17cabc6fca1da30245c2417b58</link>
+<pubDate>Mon, 15 Dec 2025 15:16:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands flock to a Tokyo zoo to see the last 2 pandas in Japan before their return to China]]></title>
-<link>https://apnews.com/article/japan-china-panda-diplomacy-ueno-zoo-return-381f3bd1e545aa769e4b6c0f347cab10</link>
-<pubDate>Tue, 16 Dec 2025 11:07:55 -0000</pubDate>
+<title><![CDATA[China exploits US-funded research on nuclear technology, a congressional report says]]></title>
+<link>https://apnews.com/article/china-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33</link>
+<pubDate>Wed, 17 Dec 2025 11:38:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
