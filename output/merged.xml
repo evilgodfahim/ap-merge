@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 23:10:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 23:38:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel blocks a Canadian delegation from visiting the occupied West Bank]]></title>
 <link>https://apnews.com/article/israel-canada-delegation-west-bank-ba0f39adc9da4e070cfc203879e315c4</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South African authorities raid a US refugee processing center and Washington protests]]></title>
+<link>https://apnews.com/article/us-south-africa-trump-immigration-raid-afrikaner-17dd9bf8596eb1b2cf8c1545c368e982</link>
+<pubDate>Wed, 17 Dec 2025 23:38:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rwanda-backed M23 rebels claim withdrawal from Uvira as peace talks struggle]]></title>
 <link>https://apnews.com/article/uvira-m23-withdrawal-congo-da186299d089f9d48425df4a1b356aa5</link>
 <pubDate>Wed, 17 Dec 2025 22:10:56 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[In Senegal, climate change is adding to historic tension between farmers and herders]]></title>
 <link>https://apnews.com/article/climate-change-senegal-west-africa-shepherds-farmers-a2920f01e773a70d2fd2ffc73d7137d4</link>
 <pubDate>Wed, 17 Dec 2025 02:28:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyans unite around the country’s growing bullfighting tradition]]></title>
-<link>https://apnews.com/article/kenya-western-kakamega-bull-fighting-e9875823a006b9f6eb8e10c99f0c25fd</link>
-<pubDate>Wed, 17 Dec 2025 16:30:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China exploits US-funded research on nuclear technology, a congressional report says]]></title>
+<link>https://apnews.com/article/china-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33</link>
+<pubDate>Wed, 17 Dec 2025 23:23:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands flock to a Tokyo zoo to see the last 2 pandas in Japan before their return to China]]></title>
 <link>https://apnews.com/article/japan-china-panda-diplomacy-ueno-zoo-return-381f3bd1e545aa769e4b6c0f347cab10</link>
 <pubDate>Wed, 17 Dec 2025 19:06:35 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Americans like artificial Christmas trees even though few are made in US and prices are up]]></title>
 <link>https://apnews.com/article/tariffs-christmas-trees-fake-artificial-china-balsam-hill-1ddac9237e03e3afad18759754131a4d</link>
 <pubDate>Tue, 16 Dec 2025 09:58:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jimmy Lai’s daughter says he’d focus on family, not activism, if he’s freed in Hong Kong]]></title>
-<link>https://apnews.com/article/jimmy-lai-daughter-clair-hong-kong-china-2adca7df246c9c2d4a1aedbfcc47db8e</link>
-<pubDate>Mon, 15 Dec 2025 23:11:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[House to vote on resolutions to put limits on Trump’s campaign against Venezuela and drug cartels]]></title>
+<title><![CDATA[Thousands of fans join tribute to reggae pioneer Jimmy Cliff in his native Jamaica]]></title>
+<link>https://apnews.com/article/jamaica-jimmy-cliff-tribute-died-honored-89b2e8a9c7acc10eb5dafae94899eed3</link>
+<pubDate>Wed, 17 Dec 2025 23:38:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[House rejects resolutions to limit Trump’s campaign against Venezuela and drug cartels]]></title>
 <link>https://apnews.com/article/venezuela-congress-trump-war-powers-99b1f29e3501b2dfc0e0bd0e16164aea</link>
-<pubDate>Wed, 17 Dec 2025 22:10:56 -0000</pubDate>
+<pubDate>Wed, 17 Dec 2025 23:23:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kenyans unite around the country’s growing bullfighting tradition]]></title>
+<link>https://apnews.com/article/kenya-western-kakamega-bull-fighting-e9875823a006b9f6eb8e10c99f0c25fd</link>
+<pubDate>Wed, 17 Dec 2025 04:34:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump orders blockade of ‘sanctioned oil tankers’ into Venezuela, ramping up pressure on Maduro]]></title>
 <link>https://apnews.com/article/trump-venezuela-maduro-oil-tankers-625a7c9a3106e316c97ceb68a42a1cb5</link>
 <pubDate>Wed, 17 Dec 2025 12:55:00 -0000</pubDate>
@@ -338,18 +350,6 @@
 <title><![CDATA[Thousands protest Slovak leader Fico over whistleblower office closure and penal code changes]]></title>
 <link>https://apnews.com/article/slovakia-protest-fico-770a977c9c9f9dcfad32e5b23409038a</link>
 <pubDate>Tue, 16 Dec 2025 20:13:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Sinners,’ ‘Wicked: For Good,’ ‘KPop Demon Hunters’ advance in Oscars shortlists]]></title>
-<link>https://apnews.com/article/oscars-2026-shortlists-5cab4a75cb09faa9cfc28d0c95b86284</link>
-<pubDate>Tue, 16 Dec 2025 19:58:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU moves to ease 2035 ban on internal combustion cars as auto industry faces headwinds]]></title>
-<link>https://apnews.com/article/eu-ban-combustion-engines-emissions-environment-d1432af14eaa73d6536f6018b27a25eb</link>
-<pubDate>Tue, 16 Dec 2025 19:43:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South African authorities raid a US refugee processing center and Washington protests]]></title>
-<link>https://apnews.com/article/us-south-africa-trump-immigration-raid-afrikaner-17dd9bf8596eb1b2cf8c1545c368e982</link>
-<pubDate>Wed, 17 Dec 2025 15:13:01 -0000</pubDate>
+<title><![CDATA[Trump’s expanded travel ban hits Africa the hardest but reactions are muted]]></title>
+<link>https://apnews.com/article/travel-ban-restrictions-africa-muted-responses-27c082831ed54b32cfdfff0fd9cdb7b5</link>
+<pubDate>Wed, 17 Dec 2025 23:38:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China exploits US-funded research on nuclear technology, a congressional report says]]></title>
-<link>https://apnews.com/article/china-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33</link>
-<pubDate>Wed, 17 Dec 2025 11:38:17 -0000</pubDate>
+<title><![CDATA[China sues after Missouri seeks to collect on $25 billion court judgement, prosecutor says]]></title>
+<link>https://apnews.com/article/china-lawsuit-missouri-covid-14c127b5f2d8ff4be9af964a6715b74e</link>
+<pubDate>Wed, 17 Dec 2025 23:23:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
