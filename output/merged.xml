@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 23:38:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 00:51:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel blocks a Canadian delegation from visiting the occupied West Bank]]></title>
 <link>https://apnews.com/article/israel-canada-delegation-west-bank-ba0f39adc9da4e070cfc203879e315c4</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The oil blockade threat creates anxiety in Venezuela but people stick to their daily lives]]></title>
+<link>https://apnews.com/article/venezuela-maduro-oil-trump-blockade-food-shortages-de504343d2118840f41bcc0cf6788ef4</link>
+<pubDate>Thu, 18 Dec 2025 00:51:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The US labels another Latin American cartel a terrorist group as the anti-drug war escalates]]></title>
 <link>https://apnews.com/article/colombia-state-department-trump-terrorist-designation-ff7d8f2027b080fa4d77daa5fc399820</link>
 <pubDate>Wed, 17 Dec 2025 19:36:35 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Brazilian cardinal orders a popular Catholic priest to go offline following right-wing attacks]]></title>
 <link>https://apnews.com/article/brazil-priest-social-media-lancellotti-sao-paulo-b2798414f3a757aeb7737b852f70421a</link>
 <pubDate>Tue, 16 Dec 2025 22:10:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Costa Rica’s congress blocks effort to prosecute president for election interference]]></title>
-<link>https://apnews.com/article/costa-rica-president-rodrigo-chaves-immunity-election-investigation-8e65c2ddf47079e6bba81c8bb5ea7e4b</link>
-<pubDate>Wed, 17 Dec 2025 02:43:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shooting of MIT professor Nuno Loureiro has police searching for a suspect]]></title>
-<link>https://apnews.com/article/mit-shooting-nuno-fg-loureiro-portugal-f310824e354180816c33c9f40c0c5195</link>
-<pubDate>Wed, 17 Dec 2025 17:48:09 -0000</pubDate>
+<title><![CDATA[US government admits negligence in helicopter-plane collision that killed 67 in Washington]]></title>
+<link>https://apnews.com/article/district-air-crash-lawsuit-55684c08abd10ff78912fb54f8770ce0</link>
+<pubDate>Thu, 18 Dec 2025 00:36:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[South Africa’s batters restore some pride in 51-run win against India in 2nd T20]]></title>
 <link>https://apnews.com/article/india-south-africa-cricket-t20-c86d9b35aa24acdff52d50bfe7e39619</link>
 <pubDate>Sat, 13 Dec 2025 11:17:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ecuadorian police say soccer player Mario Pineida has been shot dead in an apparent attack]]></title>
+<link>https://apnews.com/article/soccer-ecuador-pineida-killed-0e4cce29ce6697a850e9ac5b71577e6f</link>
+<pubDate>Thu, 18 Dec 2025 00:51:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -236,6 +242,12 @@
 <title><![CDATA[France probes ‘foreign interference’ after remote control malware found on passenger ferry]]></title>
 <link>https://apnews.com/article/france-italy-ferry-cber-attack-investigation-1b66cda62bf8f52ab448799672283f2b</link>
 <pubDate>Wed, 17 Dec 2025 15:45:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Shooting of MIT professor Nuno Loureiro has police searching for a suspect]]></title>
+<link>https://apnews.com/article/mit-shooting-nuno-fg-loureiro-portugal-f310824e354180816c33c9f40c0c5195</link>
+<pubDate>Thu, 18 Dec 2025 00:36:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Costa Rica’s congress blocks effort to prosecute president for election interference]]></title>
+<link>https://apnews.com/article/costa-rica-president-rodrigo-chaves-immunity-election-investigation-8e65c2ddf47079e6bba81c8bb5ea7e4b</link>
+<pubDate>Thu, 18 Dec 2025 00:21:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump orders blockade of ‘sanctioned oil tankers’ into Venezuela, ramping up pressure on Maduro]]></title>
 <link>https://apnews.com/article/trump-venezuela-maduro-oil-tankers-625a7c9a3106e316c97ceb68a42a1cb5</link>
 <pubDate>Wed, 17 Dec 2025 12:55:00 -0000</pubDate>
@@ -332,24 +350,6 @@
 <title><![CDATA[Syrian Australian man, deemed a national hero after stopping gunman, receives millions in donations]]></title>
 <link>https://apnews.com/article/al-ahmed-bondi-shooting-australia-fundraising-hero-c4680d7b8220c212af4fe6d1fac4f07f</link>
 <pubDate>Wed, 17 Dec 2025 18:03:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-16-2025-7af0698deead70a1e73d7057a9b89f37</link>
-<pubDate>Tue, 16 Dec 2025 22:40:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump expands travel ban and restrictions to include an additional 20 countries]]></title>
-<link>https://apnews.com/article/trump-travel-ban-countries-immigration-visas-border-9dde0aecb3ffe418266700d9eefef937</link>
-<pubDate>Wed, 17 Dec 2025 12:40:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands protest Slovak leader Fico over whistleblower office closure and penal code changes]]></title>
-<link>https://apnews.com/article/slovakia-protest-fico-770a977c9c9f9dcfad32e5b23409038a</link>
-<pubDate>Tue, 16 Dec 2025 20:13:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,21 +377,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[AP reporters take you inside Washington and Caracas after Trump’s blockade order]]></title>
+<link>https://apnews.com/video/ap-reporters-take-you-inside-washington-and-caracas-after-trumps-blockade-order-34b2bd03754c4dc68e7653daa3bad75c</link>
+<pubDate>Thu, 18 Dec 2025 00:51:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people]]></title>
+<link>https://apnews.com/video/us-military-says-strikes-on-3-boats-in-the-eastern-pacific-ocean-kill-8-people-2b39a3eb4b3f4b0280938a6c6592db90</link>
+<pubDate>Thu, 18 Dec 2025 00:36:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Moment man tackles Bondi Beach shooting suspect and wrestles away his gun]]></title>
 <link>https://apnews.com/video/moment-that-man-tackles-bondi-beach-shooting-suspect-and-wrestles-away-his-gun-ac8c2bd4253646e38db66fa760452c1e</link>
 <pubDate>Wed, 17 Dec 2025 00:20:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lawmakers pull each other’s hair during Mexico City Congress session]]></title>
-<link>https://apnews.com/video/lawmakers-from-rival-blocs-scuffle-during-mexico-city-congress-session-87f691c16ace40b5a79da31a1a694364</link>
-<pubDate>Tue, 16 Dec 2025 00:55:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Skydiver dangles at 15,000 feet after parachute catches on plane’s tail in Australia]]></title>
-<link>https://apnews.com/video/skydiver-dangles-at-15000-feet-after-parachute-catches-on-planes-tail-in-australia-25d9ff3ab10b4547b2ab66282c866812</link>
-<pubDate>Sun, 14 Dec 2025 21:05:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The oil blockade threat creates anxiety in Venezuela but people stick to their daily lives]]></title>
-<link>https://apnews.com/article/venezuela-maduro-oil-trump-blockade-food-shortages-de504343d2118840f41bcc0cf6788ef4</link>
-<pubDate>Wed, 17 Dec 2025 19:06:36 -0000</pubDate>
+<title><![CDATA[Trump demands Venezuela pay for seized US oil assets after calling for ‘blockade’]]></title>
+<link>https://apnews.com/article/trump-venezuela-maduro-oil-tanker-sanctions-dea3b339a818de8687e3d883fb832df0</link>
+<pubDate>Thu, 18 Dec 2025 00:21:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
