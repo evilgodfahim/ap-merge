@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 18 Dec 2025 13:52:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 14:14:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UK police arrest pro-Palestinian protesters as authorities toughen hate speech law enforcement]]></title>
 <link>https://apnews.com/article/hate-speech-london-manchester-antisemitism-bondi-29dbba8d0abafa2ac52591191d66ba49</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Modest but steady economic growth likely means no interest rate cut for Europe]]></title>
+<title><![CDATA[European Central Bank leaves rates unchanged with economy showing signs of modest growth]]></title>
 <link>https://apnews.com/article/ecb-eurozone-economy-inflation-growth-lagarde-8f28abe4f22da1ccef4b75c1c2c32f91</link>
-<pubDate>Thu, 18 Dec 2025 09:57:39 -0000</pubDate>
+<pubDate>Thu, 18 Dec 2025 14:14:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea’s Constitutional Court removes police chief over martial law involvement]]></title>
-<link>https://apnews.com/article/south-korea-police-chief-constitutional-court-martial-bb9dd65ddf8ab09a140ba5d7e5ad042d</link>
-<pubDate>Thu, 18 Dec 2025 09:42:39 -0000</pubDate>
+<title><![CDATA[India’s Parliament approves bill to open civil nuclear power sector to private firms]]></title>
+<link>https://apnews.com/article/india-civil-nuclear-private-partnership-b288a674fcc30fc3b975c7e2f075fad1</link>
+<pubDate>Thu, 18 Dec 2025 13:59:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died]]></title>
-<link>https://apnews.com/article/peter-arnett-dead-e1e6815b50fe416b9ecf08453e9e80c4</link>
-<pubDate>Thu, 18 Dec 2025 03:50:08 -0000</pubDate>
+<title><![CDATA[Thailand conference launches international initiative to fight online scams]]></title>
+<link>https://apnews.com/article/thailand-online-scams-southeast-asia-tiktok-meta-aa0607152278f3d900c6abdc11595510</link>
+<pubDate>Thu, 18 Dec 2025 13:44:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died]]></title>
+<link>https://apnews.com/article/peter-arnett-dead-e1e6815b50fe416b9ecf08453e9e80c4</link>
+<pubDate>Thu, 18 Dec 2025 03:50:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Investigators seek older video that might show the Brown campus shooter days before the attack]]></title>
 <link>https://apnews.com/article/brown-university-shooting-suspect-ea65594e4a11fd487ae615b833019293</link>
 <pubDate>Thu, 18 Dec 2025 12:23:46 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Wisconsin judge accused of helping immigrant set to present her case as trial winds down]]></title>
 <link>https://apnews.com/article/dugan-judge-wisconsin-immigrant-arrested-trial-09cd6fc722058ca2e191d66bda720ac4</link>
 <pubDate>Thu, 18 Dec 2025 12:08:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the search for the Brown University shooter]]></title>
-<link>https://apnews.com/article/brown-university-shooting-attack-investigation-a79661656428a4952920fd72a8ca21bc</link>
-<pubDate>Wed, 17 Dec 2025 21:55:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s Senate passes bill that could reduce Bolsonaro’s 27-year prison sentence]]></title>
+<link>https://apnews.com/article/brazil-jair-bolsonaro-prison-sentence-senate-27fb5a646fb6c33353cf11eac3e7ea92</link>
+<pubDate>Thu, 18 Dec 2025 14:14:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lion and bear kept as pets in Albania find new homes in German wildlife sanctuaries]]></title>
+<link>https://apnews.com/article/albania-animals-rescue-lion-bear-germany-88c6cc075bab7a4a2ca4565c20297283</link>
+<pubDate>Thu, 18 Dec 2025 13:59:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Top EU court rules Polish Constitutional Tribunal is not independent]]></title>
 <link>https://apnews.com/article/poland-european-court-justice-constitution-democracy-fcbb90f75627eb667c5ffdfdcd755a98</link>
 <pubDate>Thu, 18 Dec 2025 13:08:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Bank of England cuts its key interest rate from 4% to 3.75%]]></title>
+<title><![CDATA[Bank of England cuts key interest rate from 4% to 3.75%]]></title>
 <link>https://apnews.com/article/bank-of-england-interest-rate-cut-december-23f4d7a993b30e0aef090a96b12e1b42</link>
-<pubDate>Thu, 18 Dec 2025 12:53:47 -0000</pubDate>
+<pubDate>Thu, 18 Dec 2025 13:44:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +218,12 @@
 <title><![CDATA[Germany charges teens in alleged right-wing extremist group with attempted murder]]></title>
 <link>https://apnews.com/article/germany-far-right-terror-charges-be9d4e47e0c13bf134943807768dc594</link>
 <pubDate>Thu, 18 Dec 2025 10:12:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korea’s Constitutional Court removes police chief over martial law involvement]]></title>
+<link>https://apnews.com/article/south-korea-police-chief-constitutional-court-martial-bb9dd65ddf8ab09a140ba5d7e5ad042d</link>
+<pubDate>Thu, 18 Dec 2025 13:29:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,12 +299,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US government sues US Virgin Islands and accuses officials of violating the Second Amendment]]></title>
-<link>https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270</link>
-<pubDate>Wed, 17 Dec 2025 19:36:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about MIT professor Nuno Loureiro and the investigation into his shooting]]></title>
 <link>https://apnews.com/article/mit-shooting-nuno-fg-loureiro-portugal-38cd6202c7a3d1737747a55ac5269b28</link>
 <pubDate>Wed, 17 Dec 2025 19:21:36 -0000</pubDate>
@@ -338,18 +350,6 @@
 <title><![CDATA[Myanmar’s military government charge hundreds with breaking election law as voting date nears]]></title>
 <link>https://apnews.com/article/myanmar-military-elections-law-charges-opposition-ee991c57011f5bb2455675cf70554245</link>
 <pubDate>Thu, 18 Dec 2025 04:51:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK gives Abramovich last chance to give Chelsea sale proceeds to victims of Russia’s war in Ukraine]]></title>
-<link>https://apnews.com/article/abramovich-chelsea-sale-russia-ukraine-war-victims-424c6fc420d61ada1ae98ce46669d023</link>
-<pubDate>Wed, 17 Dec 2025 14:58:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Strikes and a $100 million heist push the Louvre into historic crisis]]></title>
-<link>https://apnews.com/article/louvre-strike-breaking-point-explainer-3a29259b3d13b6619c7c423a5b11c3f3</link>
-<pubDate>Thu, 18 Dec 2025 09:57:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mixed after AI worries drag Wall Street tech stocks lower]]></title>
+<title><![CDATA[Wall Street poised to take back some of Wednesday’s AI-related losses after Micron’s strong results]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-trump-inflation-c18ce4338a579c1aa1160e6be0b864d0</link>
-<pubDate>Thu, 18 Dec 2025 09:42:41 -0000</pubDate>
+<pubDate>Thu, 18 Dec 2025 14:14:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
