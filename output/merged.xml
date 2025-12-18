@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 18 Dec 2025 15:13:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 15:42:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[UK police arrest pro-Palestinian protesters as authorities toughen hate speech law enforcement]]></title>
 <link>https://apnews.com/article/hate-speech-london-manchester-antisemitism-bondi-29dbba8d0abafa2ac52591191d66ba49</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Over 1,600 people have been killed in attacks on health centers in Sudan this year, WHO chief says]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-498505b85e5a83aa03ce42daca89c2e0</link>
 <pubDate>Wed, 17 Dec 2025 17:15:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US official defends Trump’s nuclear test comments by citing mounting risks from other states]]></title>
+<link>https://apnews.com/article/nuclear-testing-russia-china-ctbt-north-korea-2a579544cadd0e70d8eff1c4ea285756</link>
+<pubDate>Thu, 18 Dec 2025 15:42:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European Central Bank leaves rates unchanged with economy showing signs of modest growth]]></title>
-<link>https://apnews.com/article/ecb-eurozone-economy-inflation-growth-lagarde-8f28abe4f22da1ccef4b75c1c2c32f91</link>
-<pubDate>Thu, 18 Dec 2025 14:14:14 -0000</pubDate>
+<title><![CDATA[Mourners grieve 10-year-old slain in Bondi mass shooting as Australia’s leader pledges new hate laws]]></title>
+<link>https://apnews.com/article/bondi-shooting-matilda-funeral-jewish-sydney-australia-7a48610b5e11de9f9c82cc400f67ff9d</link>
+<pubDate>Thu, 18 Dec 2025 04:51:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[India’s Parliament approves bill to open civil nuclear power sector to private firms]]></title>
 <link>https://apnews.com/article/india-civil-nuclear-private-partnership-b288a674fcc30fc3b975c7e2f075fad1</link>
 <pubDate>Thu, 18 Dec 2025 13:59:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand conference launches international initiative to fight online scams]]></title>
-<link>https://apnews.com/article/thailand-online-scams-southeast-asia-tiktok-meta-aa0607152278f3d900c6abdc11595510</link>
-<pubDate>Thu, 18 Dec 2025 13:44:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +89,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s expanded travel ban hits Africa the hardest but reactions are muted]]></title>
+<link>https://apnews.com/article/travel-ban-restrictions-africa-muted-responses-27c082831ed54b32cfdfff0fd9cdb7b5</link>
+<pubDate>Thu, 18 Dec 2025 15:27:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South African authorities raid a US refugee processing center and Washington protests]]></title>
 <link>https://apnews.com/article/us-south-africa-trump-immigration-raid-afrikaner-17dd9bf8596eb1b2cf8c1545c368e982</link>
 <pubDate>Wed, 17 Dec 2025 23:38:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda-backed M23 rebels claim withdrawal from Uvira as peace talks struggle]]></title>
-<link>https://apnews.com/article/uvira-m23-withdrawal-congo-da186299d089f9d48425df4a1b356aa5</link>
-<pubDate>Wed, 17 Dec 2025 22:10:56 -0000</pubDate>
+<title><![CDATA[Brian Walshe is sentenced to life in prison for the murder of his wife, whose body was never found]]></title>
+<link>https://apnews.com/article/brian-walshe-wife-murder-trial-sentencing-b0918da02db8a1da147dd215dbf68260</link>
+<pubDate>Thu, 18 Dec 2025 15:12:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rural schools hit by Trump’s grant cuts have few options for making up for the lost money]]></title>
+<link>https://apnews.com/article/trump-education-grants-rural-schools-mental-health-0a2c368ddbc9058babf304eef5534b13</link>
+<pubDate>Thu, 18 Dec 2025 14:57:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Judge says he’ll rule in May on Luigi Mangione’s fight to exclude evidence from NY murder trial]]></title>
+<link>https://apnews.com/article/mangione-unitedhealthcare-pretrial-hearing-evidence-1c5b61d3c160d48c9ad85b6c359203d8</link>
+<pubDate>Thu, 18 Dec 2025 14:42:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,27 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died]]></title>
-<link>https://apnews.com/article/peter-arnett-dead-e1e6815b50fe416b9ecf08453e9e80c4</link>
-<pubDate>Thu, 18 Dec 2025 03:50:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Investigators seek older video that might show the Brown campus shooter days before the attack]]></title>
-<link>https://apnews.com/article/brown-university-shooting-suspect-ea65594e4a11fd487ae615b833019293</link>
-<pubDate>Thu, 18 Dec 2025 12:23:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wisconsin judge accused of helping immigrant set to present her case as trial winds down]]></title>
-<link>https://apnews.com/article/dugan-judge-wisconsin-immigrant-arrested-trial-09cd6fc722058ca2e191d66bda720ac4</link>
-<pubDate>Thu, 18 Dec 2025 12:08:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China sues after Missouri seeks to collect on $25 billion court judgement, prosecutor says]]></title>
+<title><![CDATA[China sues after Missouri seeks to collect on $25 billion court judgment, prosecutor says]]></title>
 <link>https://apnews.com/article/china-lawsuit-missouri-covid-14c127b5f2d8ff4be9af964a6715b74e</link>
-<pubDate>Thu, 18 Dec 2025 03:35:08 -0000</pubDate>
+<pubDate>Thu, 18 Dec 2025 14:27:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,30 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In rare ruling, EU’s top court sides with refugee’s appeal in a landmark case against Frontex]]></title>
+<link>https://apnews.com/article/pushback-frontex-cjeu-greece-turkey-migration-hamoudi-syria-court-831f34ba6e72893ff7eac6e6f8485516</link>
+<pubDate>Thu, 18 Dec 2025 15:42:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand carries out more airstrikes on Cambodia as deadly border conflict flares]]></title>
+<link>https://apnews.com/article/thailand-cambodia-airstrike-border-combat-62f2bc29dc4523b5e073ab46f34f1a45</link>
+<pubDate>Thu, 18 Dec 2025 15:27:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Albanian lawmakers scuffle, set off flares during parliament session]]></title>
+<link>https://apnews.com/article/albania-parliament-scuffle-flares-22e07750535d90235519ae6558eab31b</link>
+<pubDate>Thu, 18 Dec 2025 15:12:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand conference launches international initiative to fight online scams]]></title>
+<link>https://apnews.com/article/thailand-online-scams-southeast-asia-tiktok-meta-aa0607152278f3d900c6abdc11595510</link>
+<pubDate>Thu, 18 Dec 2025 14:57:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Senate passes bill that could reduce Bolsonaro’s 27-year prison sentence]]></title>
 <link>https://apnews.com/article/brazil-jair-bolsonaro-prison-sentence-senate-27fb5a646fb6c33353cf11eac3e7ea92</link>
 <pubDate>Thu, 18 Dec 2025 14:14:14 -0000</pubDate>
@@ -182,6 +206,12 @@
 <title><![CDATA[Lion and bear kept as pets in Albania find new homes in German wildlife sanctuaries]]></title>
 <link>https://apnews.com/article/albania-animals-rescue-lion-bear-germany-88c6cc075bab7a4a2ca4565c20297283</link>
 <pubDate>Thu, 18 Dec 2025 13:59:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Media to merge with nuclear fusion company that wants to power AI]]></title>
+<link>https://apnews.com/article/trump-media-fusion-power-company-devin-nunes-0ad9fe84447acf340a3fbf57e8dbd4fd</link>
+<pubDate>Thu, 18 Dec 2025 14:42:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +248,12 @@
 <title><![CDATA[Germany charges teens in alleged right-wing extremist group with attempted murder]]></title>
 <link>https://apnews.com/article/germany-far-right-terror-charges-be9d4e47e0c13bf134943807768dc594</link>
 <pubDate>Thu, 18 Dec 2025 10:12:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[European Central Bank leaves rates unchanged with economy showing signs of modest growth]]></title>
+<link>https://apnews.com/article/ecb-eurozone-economy-inflation-growth-lagarde-8f28abe4f22da1ccef4b75c1c2c32f91</link>
+<pubDate>Thu, 18 Dec 2025 14:27:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died]]></title>
+<link>https://apnews.com/article/peter-arnett-dead-e1e6815b50fe416b9ecf08453e9e80c4</link>
+<pubDate>Thu, 18 Dec 2025 10:37:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ecuadorian police say soccer player Mario Pineida has been shot dead in an apparent attack]]></title>
 <link>https://apnews.com/article/soccer-ecuador-pineida-killed-0e4cce29ce6697a850e9ac5b71577e6f</link>
 <pubDate>Thu, 18 Dec 2025 00:51:30 -0000</pubDate>
@@ -293,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rwanda-backed M23 rebels claim withdrawal from Uvira as peace talks struggle]]></title>
+<link>https://apnews.com/article/uvira-m23-withdrawal-congo-da186299d089f9d48425df4a1b356aa5</link>
+<pubDate>Thu, 18 Dec 2025 14:12:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Federal judge blocks Whitmer from shutting down submerged Great Lakes pipeline]]></title>
 <link>https://apnews.com/article/enbridge-pipeline-tunnel-whitmer-lawsuit-trump-7b0bfc8858f4dfdefb029a201eae1b79</link>
 <pubDate>Wed, 17 Dec 2025 20:43:01 -0000</pubDate>
@@ -305,57 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Do you remember what happened in 2025? Test your knowledge]]></title>
-<link>https://apnews.com/article/test-your-knowledge-2025-quiz</link>
-<pubDate>Wed, 17 Dec 2025 17:15:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kyrgyzstan’s newly elected parliament convenes for the first time]]></title>
-<link>https://apnews.com/article/kyrgyzstan-parliament-elections-opposition-zhaparov-8686ea066b8dcd615d3882b5e304fb9e</link>
-<pubDate>Wed, 17 Dec 2025 17:00:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italy may not support EU-Mercosur free trade deal without changes]]></title>
-<link>https://apnews.com/article/meloni-mercosur-eu-free-trade-f36b1c0f284e0051daf0d314dc7f9dd1</link>
-<pubDate>Wed, 17 Dec 2025 19:06:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Takeaways from The Associated Press report on Myanmar’s crackdown on cyberscam centers]]></title>
-<link>https://apnews.com/article/myanmar-scam-centers-cybercrime-takeaways-69f1076987a51cb0c2ca98d406d505da</link>
-<pubDate>Wed, 17 Dec 2025 16:15:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar declares a ‘zero tolerance’ policy for cyberscams. But the fraud goes on]]></title>
-<link>https://apnews.com/article/myanmar-scam-centers-cybercrime-fbc28599699ba718b052bc1cd5dd64d5</link>
-<pubDate>Thu, 18 Dec 2025 05:18:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France probes ‘foreign interference’ after remote control malware found on passenger ferry]]></title>
-<link>https://apnews.com/article/france-italy-ferry-cber-attack-investigation-1b66cda62bf8f52ab448799672283f2b</link>
-<pubDate>Wed, 17 Dec 2025 15:45:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Shooting of MIT professor Nuno Loureiro has police searching for a suspect]]></title>
-<link>https://apnews.com/article/mit-shooting-nuno-fg-loureiro-portugal-f310824e354180816c33c9f40c0c5195</link>
-<pubDate>Thu, 18 Dec 2025 00:36:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military government charge hundreds with breaking election law as voting date nears]]></title>
-<link>https://apnews.com/article/myanmar-military-elections-law-charges-opposition-ee991c57011f5bb2455675cf70554245</link>
-<pubDate>Thu, 18 Dec 2025 04:51:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US official defends Trump’s nuclear test comments by citing mounting risks from other states]]></title>
-<link>https://apnews.com/article/nuclear-testing-russia-china-ctbt-north-korea-2a579544cadd0e70d8eff1c4ea285756</link>
-<pubDate>Thu, 18 Dec 2025 13:08:48 -0000</pubDate>
+<title><![CDATA[Kremlin envoy set to visit Miami for talks on US peace plan for Ukraine]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-us-plan-miami-dc775dc61aa1e455d32d2213f1ce0a72</link>
+<pubDate>Thu, 18 Dec 2025 15:42:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,12 +368,6 @@
 <title><![CDATA[Pope names fellow Chicagoan, Bishop Ronald Hicks, as new archbishop of New York]]></title>
 <link>https://apnews.com/article/vatican-pope-trump-dolan-new-york-immigration-2ca935715323389f0ca990f4b39d1117</link>
 <pubDate>Thu, 18 Dec 2025 11:37:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Unreliable data mask just how bad the air quality crisis is in India]]></title>
-<link>https://apnews.com/article/air-pollution-new-delhi-india-climate-change-98d7641d9798959738fac641491eb54d</link>
-<pubDate>Thu, 18 Dec 2025 02:44:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street poised to take back some of Wednesday’s AI-related losses after Micron’s strong results]]></title>
+<title><![CDATA[US stocks jump after an encouraging inflation update, as Micron helps AI stocks stop their slide]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-trump-inflation-c18ce4338a579c1aa1160e6be0b864d0</link>
-<pubDate>Thu, 18 Dec 2025 14:14:15 -0000</pubDate>
+<pubDate>Thu, 18 Dec 2025 15:27:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mourners grieve 10-year-old slain in Bondi mass shooting as Australia’s leader pledges new hate laws]]></title>
-<link>https://apnews.com/article/bondi-shooting-matilda-funeral-jewish-sydney-australia-7a48610b5e11de9f9c82cc400f67ff9d</link>
-<pubDate>Thu, 18 Dec 2025 05:48:36 -0000</pubDate>
+<title><![CDATA[Unreliable data mask just how bad the air quality crisis is in India]]></title>
+<link>https://apnews.com/article/air-pollution-new-delhi-india-climate-change-98d7641d9798959738fac641491eb54d</link>
+<pubDate>Thu, 18 Dec 2025 02:44:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s expanded travel ban hits Africa the hardest but reactions are muted]]></title>
-<link>https://apnews.com/article/travel-ban-restrictions-africa-muted-responses-27c082831ed54b32cfdfff0fd9cdb7b5</link>
-<pubDate>Wed, 17 Dec 2025 23:38:10 -0000</pubDate>
+<title><![CDATA[Sudanese paramilitary group RSF killed more than 1,000 civilians in Zamzam camp in April, UN says]]></title>
+<link>https://apnews.com/article/sudan-war-rsf-zamzam-un-report-c7b1a81d4f70dc3e3f6b27c86278ea76</link>
+<pubDate>Thu, 18 Dec 2025 15:12:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
