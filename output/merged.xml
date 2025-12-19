@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 19 Dec 2025 00:54:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 02:47:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel launches intense airstrikes in Lebanon as deadline looms to disarm Hezbollah]]></title>
 <link>https://apnews.com/article/lebanon-israel-airstrikes-rihan-hermel-berri-0b10ae30cbec1ab92a9c1b14652d8467</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Netanyahu approves a $35 billion natural gas export deal to Egypt, the biggest in Israeli history]]></title>
 <link>https://apnews.com/article/israel-gas-leviathan-chevron-egypt-9d7e816ae59b18f5d5cb78aadc3083e1</link>
 <pubDate>Thu, 18 Dec 2025 16:51:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kremlin envoy set to visit Miami for talks on US peace plan for Ukraine]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-peace-us-plan-miami-dc775dc61aa1e455d32d2213f1ce0a72</link>
+<pubDate>Fri, 19 Dec 2025 02:47:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Under pressure at home, Belgium’s leader treads a tight rope with EU partners over funds for Ukraine]]></title>
-<link>https://apnews.com/article/europe-belgium-russian-assets-ukraine-wever-loan-bdcd91e618c66069283b83f1877a9922</link>
-<pubDate>Thu, 18 Dec 2025 19:32:20 -0000</pubDate>
+<title><![CDATA[Unreliable data mask just how bad the air quality crisis is in India]]></title>
+<link>https://apnews.com/article/air-pollution-new-delhi-india-climate-change-98d7641d9798959738fac641491eb54d</link>
+<pubDate>Fri, 19 Dec 2025 02:32:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[US official defends Trump’s nuclear test comments by citing mounting risks from other states]]></title>
 <link>https://apnews.com/article/nuclear-testing-russia-china-ctbt-north-korea-2a579544cadd0e70d8eff1c4ea285756</link>
 <pubDate>Thu, 18 Dec 2025 15:42:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India’s Parliament approves bill to open civil nuclear power sector to private firms]]></title>
-<link>https://apnews.com/article/india-civil-nuclear-private-partnership-b288a674fcc30fc3b975c7e2f075fad1</link>
-<pubDate>Thu, 18 Dec 2025 13:59:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -155,6 +155,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India’s Modi visits Ethiopia and calls for renewed bilateral relations]]></title>
+<link>https://apnews.com/article/ethiopia-india-narendra-modi-abiy-ahmed-6b74528d827fd280f6ea8f5bc3aad5b5</link>
+<pubDate>Wed, 17 Dec 2025 13:57:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan says ‘hostile countries’ behind false online claims linking it to Australia shootings]]></title>
 <link>https://apnews.com/article/pakistan-falsely-blamed-online-australia-beach-shooting-87ec18fc1637a191b76be4de1a4a76d6</link>
 <pubDate>Thu, 18 Dec 2025 10:52:30 -0000</pubDate>
@@ -170,12 +176,6 @@
 <title><![CDATA[Toxic smog blankets New Delhi, disrupting travel and plunging air quality to hazardous levels]]></title>
 <link>https://apnews.com/article/new-delhi-india-air-pollution-smog-880735b651034f125c4dad6644526f32</link>
 <pubDate>Mon, 15 Dec 2025 07:41:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India beats South Africa by 7 wickets to take 2-1 lead in T20 series]]></title>
-<link>https://apnews.com/article/india-south-africa-cricket-t20-markram-sharma-511bc23503ef23cbb3b630e459e28ebd</link>
-<pubDate>Mon, 15 Dec 2025 07:37:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +230,12 @@
 <title><![CDATA[Romanian court sentences US rapper Wiz Khalifa to 9 months for drug possession]]></title>
 <link>https://apnews.com/article/romania-rapper-wiz-khalifa-drug-charges-jail-c1b9ce20aaff0baea09e80a82df48f13</link>
 <pubDate>Thu, 18 Dec 2025 19:17:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Under pressure at home, Belgium’s leader treads a tight rope with EU partners over funds for Ukraine]]></title>
+<link>https://apnews.com/article/europe-belgium-russian-assets-ukraine-wever-loan-bdcd91e618c66069283b83f1877a9922</link>
+<pubDate>Fri, 19 Dec 2025 02:47:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope names fellow Chicagoan, Bishop Ronald Hicks, as new archbishop of New York]]></title>
-<link>https://apnews.com/article/vatican-pope-trump-dolan-new-york-immigration-2ca935715323389f0ca990f4b39d1117</link>
-<pubDate>Thu, 18 Dec 2025 16:17:29 -0000</pubDate>
+<title><![CDATA[EU leaders agree on 90 billion euro loan to Ukraine]]></title>
+<link>https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-abc7b025112dba1f074755e454c29681</link>
+<pubDate>Fri, 19 Dec 2025 02:47:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,18 +380,6 @@
 <title><![CDATA[Mourners grieve 10-year-old killed in Bondi mass shooting as Australian leader pledges new hate laws]]></title>
 <link>https://apnews.com/article/bondi-shooting-matilda-funeral-jewish-sydney-australia-7a48610b5e11de9f9c82cc400f67ff9d</link>
 <pubDate>Thu, 18 Dec 2025 18:17:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kremlin envoy set to visit Miami for talks on US peace plan for Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-us-plan-miami-dc775dc61aa1e455d32d2213f1ce0a72</link>
-<pubDate>Thu, 18 Dec 2025 15:42:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU leaders work into the night to ease Belgian fears of Russian retaliation over a loan to Ukraine]]></title>
-<link>https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-be6ddfafdf985189bcebd4f0af16d6a8</link>
-<pubDate>Thu, 18 Dec 2025 23:11:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Unreliable data mask just how bad the air quality crisis is in India]]></title>
-<link>https://apnews.com/article/air-pollution-new-delhi-india-climate-change-98d7641d9798959738fac641491eb54d</link>
-<pubDate>Thu, 18 Dec 2025 02:44:11 -0000</pubDate>
+<title><![CDATA[India’s push for battery recycling promises jobs, clean energy and mineral security]]></title>
+<link>https://apnews.com/article/climate-change-batteries-renewable-energy-lithium-4da14cab7a5c340349a98f7a002fade5</link>
+<pubDate>Fri, 19 Dec 2025 02:32:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police are investigating link between Brown shooting and killing of MIT professor, AP sources say]]></title>
+<title><![CDATA[Man suspected in shooting at Brown University has been found dead in New Hampshire, AP source says]]></title>
 <link>https://apnews.com/article/brown-university-shooting-investigation-5b0b254442dd77d9056111bad902de33</link>
-<pubDate>Thu, 18 Dec 2025 20:09:12 -0000</pubDate>
+<pubDate>Fri, 19 Dec 2025 02:17:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -491,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India’s Modi visits Ethiopia and calls for renewed bilateral relations]]></title>
-<link>https://apnews.com/article/ethiopia-india-narendra-modi-abiy-ahmed-6b74528d827fd280f6ea8f5bc3aad5b5</link>
-<pubDate>Wed, 17 Dec 2025 14:43:01 -0000</pubDate>
+<title><![CDATA[India’s Parliament approves bill to open civil nuclear power sector to private firms]]></title>
+<link>https://apnews.com/article/india-civil-nuclear-private-partnership-b288a674fcc30fc3b975c7e2f075fad1</link>
+<pubDate>Fri, 19 Dec 2025 02:02:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
