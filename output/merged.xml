@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 19 Dec 2025 08:16:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 08:50:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel launches intense airstrikes in Lebanon as deadline looms to disarm Hezbollah]]></title>
 <link>https://apnews.com/article/lebanon-israel-airstrikes-rihan-hermel-berri-0b10ae30cbec1ab92a9c1b14652d8467</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mourners grieve 10-year-old killed in Bondi mass shooting as Australian leader pledges new hate laws]]></title>
+<link>https://apnews.com/article/bondi-shooting-matilda-funeral-jewish-sydney-australia-7a48610b5e11de9f9c82cc400f67ff9d</link>
+<pubDate>Thu, 18 Dec 2025 16:06:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India’s push for battery recycling promises jobs, clean energy and mineral security]]></title>
 <link>https://apnews.com/article/climate-change-batteries-renewable-energy-lithium-4da14cab7a5c340349a98f7a002fade5</link>
 <pubDate>Fri, 19 Dec 2025 03:52:19 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Unreliable data mask just how bad the air quality crisis is in India]]></title>
 <link>https://apnews.com/article/air-pollution-new-delhi-india-climate-change-98d7641d9798959738fac641491eb54d</link>
 <pubDate>Fri, 19 Dec 2025 02:32:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters storm offices of leading Bangladesh dailies after a 2024 uprising activist dies]]></title>
-<link>https://apnews.com/article/bangladesh-hasina-yunus-politics-violence-e97700ed1c8adbdf06c16ad734ea4b11</link>
-<pubDate>Thu, 18 Dec 2025 20:39:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the possible impact of Japan’s rate hike]]></title>
+<title><![CDATA[What to know about the Bank of Japan’s interest rate hike]]></title>
 <link>https://apnews.com/article/japan-economy-rate-fed-markets-boj-cd9ce451cc63b2d6c6932adc3b138684</link>
-<pubDate>Fri, 19 Dec 2025 03:52:19 -0000</pubDate>
+<pubDate>Fri, 19 Dec 2025 08:50:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -236,6 +236,12 @@
 <title><![CDATA[The top photos of the week by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/photos-week-top-ap-e84b5ff0aae27295fbd87a3471033384</link>
 <pubDate>Thu, 18 Dec 2025 21:55:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Protesters storm offices of leading Bangladesh dailies after a 2024 uprising activist dies]]></title>
+<link>https://apnews.com/article/bangladesh-hasina-yunus-politics-violence-e97700ed1c8adbdf06c16ad734ea4b11</link>
+<pubDate>Fri, 19 Dec 2025 08:35:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US official defends Trump’s nuclear test comments by citing mounting risks from other states]]></title>
-<link>https://apnews.com/article/nuclear-testing-russia-china-ctbt-north-korea-2a579544cadd0e70d8eff1c4ea285756</link>
-<pubDate>Fri, 19 Dec 2025 03:22:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU leaders agree on 90 billion euro loan to Ukraine after a plan to use Russian assets unravels]]></title>
 <link>https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-abc7b025112dba1f074755e454c29681</link>
 <pubDate>Fri, 19 Dec 2025 05:13:48 -0000</pubDate>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mourners grieve 10-year-old killed in Bondi mass shooting as Australian leader pledges new hate laws]]></title>
-<link>https://apnews.com/article/bondi-shooting-matilda-funeral-jewish-sydney-australia-7a48610b5e11de9f9c82cc400f67ff9d</link>
-<pubDate>Thu, 18 Dec 2025 18:17:30 -0000</pubDate>
+<title><![CDATA[Photos show a world aglow with holiday lights]]></title>
+<link>https://apnews.com/photo-gallery/holiday-lights-christmas-new-years-festivities-lightscape-9f1fd55535825f0b549a3d5dbf1b25c5</link>
+<pubDate>Fri, 19 Dec 2025 08:50:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
