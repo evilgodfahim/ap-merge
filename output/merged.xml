@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 19 Dec 2025 15:12:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 15:41:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Turkish authorities investigate drone crash days after shooting down another UAV]]></title>
+<link>https://apnews.com/article/turkey-investigations-crashed-drone-94694a4e3e872cbf39d50fa1cbad50ca</link>
+<pubDate>Fri, 19 Dec 2025 15:41:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[The US move to lift sanctions on Syria could encourage refugee returns, UN official says]]></title>
 <link>https://apnews.com/article/syria-lebanon-refugees-unhcr-caesar-act-sanctions-6ca78353be578a5ed87b33d9bec6b7db</link>
 <pubDate>Fri, 19 Dec 2025 14:12:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rain creates a crimson spectacle on Iran’s Hormuz Island for the first time this year]]></title>
-<link>https://apnews.com/article/iran-rain-hormuz-island-red-beach-b429a69260258573cb38f2efe85a7986</link>
-<pubDate>Fri, 19 Dec 2025 10:12:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin tells his annual news conference that the Kremlin’s military goals will be achieved in Ukraine]]></title>
+<title><![CDATA[Putin tells his annual news conference that the Kremlin’s military goals in Ukraine will be met]]></title>
 <link>https://apnews.com/article/russia-putin-press-conference-ukraine-39fd3f2670227545a6f9e684038ed59d</link>
-<pubDate>Fri, 19 Dec 2025 09:57:22 -0000</pubDate>
+<pubDate>Fri, 19 Dec 2025 15:26:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump demands Venezuela pay for seized US oil assets after calling for ‘blockade’]]></title>
+<link>https://apnews.com/article/trump-venezuela-maduro-oil-tanker-sanctions-dea3b339a818de8687e3d883fb832df0</link>
+<pubDate>Fri, 19 Dec 2025 15:11:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s lower house removes Bolsonaro’s son and former intelligence agency head from their seats]]></title>
 <link>https://apnews.com/article/brazil-eduardo-bolsonaro-intelligence-agency-lower-house-56c3ee4871191850c925c12d185c5988</link>
 <pubDate>Fri, 19 Dec 2025 00:54:49 -0000</pubDate>
@@ -65,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Lula vows to veto bill that could reduce Bolsonaro’s prison sentence]]></title>
-<link>https://apnews.com/article/brazil-jair-bolsonaro-prison-sentence-senate-27fb5a646fb6c33353cf11eac3e7ea92</link>
-<pubDate>Thu, 18 Dec 2025 15:51:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu approves a $35 billion natural gas export deal to Egypt, the biggest in Israeli history]]></title>
-<link>https://apnews.com/article/israel-gas-leviathan-chevron-egypt-9d7e816ae59b18f5d5cb78aadc3083e1</link>
-<pubDate>Thu, 18 Dec 2025 16:51:22 -0000</pubDate>
+<title><![CDATA[Israel launches intense airstrikes in Lebanon as deadline looms to disarm Hezbollah]]></title>
+<link>https://apnews.com/article/lebanon-israel-airstrikes-rihan-hermel-berri-0b10ae30cbec1ab92a9c1b14652d8467</link>
+<pubDate>Thu, 18 Dec 2025 18:17:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal regulators to begin sifting through wreckage of North Carolina plane crash that killed 7]]></title>
-<link>https://apnews.com/article/north-carolina-plane-crash-nascar-greg-biffle-0387a779bad6bf5f5ede1993ec1f4e0c</link>
-<pubDate>Fri, 19 Dec 2025 07:09:18 -0000</pubDate>
+<title><![CDATA[States faces a choice on whether to embrace Trump’s tax cuts on tips, overtime and more]]></title>
+<link>https://apnews.com/article/trump-tax-cuts-tips-overtime-states-e0285cff57b7a0257a309a06d7d8092d</link>
+<pubDate>Fri, 19 Dec 2025 14:56:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,24 @@
 <title><![CDATA[Austrian court rules against extradition of Ukrainian businessman to US over alleged bribery]]></title>
 <link>https://apnews.com/article/austria-firtash-us-extradition-chicago-1b5ebc25f102da7f565a367dcddb9de3</link>
 <pubDate>Thu, 18 Dec 2025 02:14:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Sudanese army officer and soldiers arrested over death of UN staff member]]></title>
+<link>https://apnews.com/article/south-sudan-un-worker-killed-army-arrest-7ffcca3b57ddd3e9dca2a22bac166e47</link>
+<pubDate>Fri, 19 Dec 2025 15:41:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sony buys a majority stake in the ‘Peanuts’ comic for $457 million from Canada’s WildBrain]]></title>
+<link>https://apnews.com/article/sony-snoopy-peanuts-charlie-brown-d41b5c0973b9bdbfa7622caf3a11ef92</link>
+<pubDate>Fri, 19 Dec 2025 15:26:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Paris court rejects bid to suspend Shein platform in France]]></title>
+<link>https://apnews.com/article/shein-fast-fashion-paris-5014e98e3479485dd45f0e5bdf6e9149</link>
+<pubDate>Fri, 19 Dec 2025 15:11:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,9 +263,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Global shares rise after Japan’s benchmark interest rates reach highest level in 30 years]]></title>
+<title><![CDATA[Stocks rise on Wall Street and pull toward weekly gains as AI stocks climb]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-boj-trump-542b9b8f63f303ba1c0b183fc14737b7</link>
-<pubDate>Fri, 19 Dec 2025 13:27:21 -0000</pubDate>
+<pubDate>Fri, 19 Dec 2025 14:56:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,24 +350,6 @@
 <title><![CDATA[Under pressure at home, Belgium’s leader treads a tight rope with EU partners over funds for Ukraine]]></title>
 <link>https://apnews.com/article/europe-belgium-russian-assets-ukraine-wever-loan-bdcd91e618c66069283b83f1877a9922</link>
 <pubDate>Fri, 19 Dec 2025 02:47:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Restorers swap brushes for lasers in the first restoration of an iconic Roman monument in 40 years]]></title>
-<link>https://apnews.com/article/rome-italy-column-marcus-aurelius-restoration-3fb9db4f8c02e33bda685ac0e4922beb</link>
-<pubDate>Thu, 18 Dec 2025 18:17:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Alleged leader of Tren de Aragua, labeled as a terrorist group, charged in New York but on the lam]]></title>
-<link>https://apnews.com/article/tren-de-aragua-gang-leader-charges-e810405c495a70fe0fcd3088dcf3807c</link>
-<pubDate>Thu, 18 Dec 2025 18:02:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU to slash asylum cases from 7 nations deemed safe]]></title>
-<link>https://apnews.com/article/eu-asylum-limits-colombia-india-egypt-2a518e55c4bdbf651ae1853a395408ff</link>
-<pubDate>Fri, 19 Dec 2025 09:42:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump demands Venezuela pay for seized US oil assets after calling for ‘blockade’]]></title>
-<link>https://apnews.com/article/trump-venezuela-maduro-oil-tanker-sanctions-dea3b339a818de8687e3d883fb832df0</link>
-<pubDate>Thu, 18 Dec 2025 00:21:31 -0000</pubDate>
+<title><![CDATA[Bolivia’s largest cities brought to standstill by transportation strike over fuel price hike]]></title>
+<link>https://apnews.com/article/bolivia-fuel-strike-82c47ceb6d7802c268ebeb2d97e7146a</link>
+<pubDate>Fri, 19 Dec 2025 15:26:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel launches intense airstrikes in Lebanon as deadline looms to disarm Hezbollah]]></title>
-<link>https://apnews.com/article/lebanon-israel-airstrikes-rihan-hermel-berri-0b10ae30cbec1ab92a9c1b14652d8467</link>
-<pubDate>Thu, 18 Dec 2025 11:07:31 -0000</pubDate>
+<title><![CDATA[Rain creates a crimson spectacle on Iran’s Hormuz Island for the first time this year]]></title>
+<link>https://apnews.com/article/iran-rain-hormuz-island-red-beach-b429a69260258573cb38f2efe85a7986</link>
+<pubDate>Thu, 18 Dec 2025 11:22:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Where Americans want the government to focus in 2026, according to a new AP-NORC poll]]></title>
+<title><![CDATA[These are Americans’ biggest priorities for the government in 2026, according to a new AP-NORC poll]]></title>
 <link>https://apnews.com/article/poll-government-priorities-health-care-costs-trump-9426742bd09273ec9b67c7321dae8a02</link>
-<pubDate>Fri, 19 Dec 2025 12:36:55 -0000</pubDate>
+<pubDate>Fri, 19 Dec 2025 15:11:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
