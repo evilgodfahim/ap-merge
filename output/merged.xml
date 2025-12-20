@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Dec 2025 11:08:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 11:32:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Egypt vows to prevent escalation between Lebanon and Israel amid tensions over Hezbollah]]></title>
 <link>https://apnews.com/article/lebanon-israel-egypt-mechanism-hezbollah-imad-amhaz-8523a4778ce8d3349440c64277b3a8ad</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
+<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
+<pubDate>Sat, 20 Dec 2025 11:32:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladesh mourns slain activist as tensions rise ahead of elections]]></title>
+<link>https://apnews.com/article/bangladesh-funeral-hadi-hasina-yunus-b137d572e22ebaf3dc1a1e684225da73</link>
+<pubDate>Sat, 20 Dec 2025 11:17:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A sunrise crowd gathers at Bondi Beach in solace and defiance after a massacre]]></title>
 <link>https://apnews.com/article/australia-sydney-bondi-beach-shooting-jewish-ahmed-f6fa5006c209c28dbadb802dd731cefa</link>
 <pubDate>Sat, 20 Dec 2025 05:31:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong mourns firefighter killed in city’s deadliest fire in decades]]></title>
-<link>https://apnews.com/article/hong-kong-firefighter-funeral-fire-mourn-561860f017172a72f4b6b7fa8b59eeb8</link>
-<pubDate>Fri, 19 Dec 2025 13:27:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka tea workers struggle in poverty. Flooding cost many their lives]]></title>
-<link>https://apnews.com/article/sri-lanka-tea-plantation-workers-landslides-cyclone-f8bdcefe5c794631671ce4429d837034</link>
-<pubDate>Sat, 20 Dec 2025 02:27:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistani court sentences former Prime Minister Imran Khan and wife to 17 years in graft case]]></title>
-<link>https://apnews.com/article/pakistan-court-sentenced-imran-khan-graft-case-5f22b343b4103e4312ed60a357b870d1</link>
-<pubDate>Sat, 20 Dec 2025 10:11:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[8 dead and dozens wounded in Russian strike on Ukraine’s Odesa port]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-attack-strike-odesa-dead-injured-94fb98e6e49a14ec2d067f7c42186d8e</link>
 <pubDate>Sat, 20 Dec 2025 08:43:58 -0000</pubDate>
@@ -182,6 +176,12 @@
 <title><![CDATA[High-speed passenger train kills 7 elephants crossing railway tracks in northeast India]]></title>
 <link>https://apnews.com/article/india-assam-elephants-train-accident-234fb41835bd23be3b404caf47c66fb1</link>
 <pubDate>Sat, 20 Dec 2025 06:16:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sri Lanka tea workers struggle in poverty. Flooding cost many their lives]]></title>
+<link>https://apnews.com/article/sri-lanka-tea-plantation-workers-landslides-cyclone-f8bdcefe5c794631671ce4429d837034</link>
+<pubDate>Sat, 20 Dec 2025 11:32:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +335,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military says 2 strikes on alleged drug boats kill 5 in eastern Pacific]]></title>
-<link>https://apnews.com/article/trump-military-drug-boat-strikes-533e16fe046618fc82ddb2611bca94a8</link>
-<pubDate>Fri, 19 Dec 2025 03:37:19 -0000</pubDate>
+<title><![CDATA[Hong Kong mourns firefighter killed in city’s deadliest fire in decades]]></title>
+<link>https://apnews.com/article/hong-kong-firefighter-funeral-fire-mourn-561860f017172a72f4b6b7fa8b59eeb8</link>
+<pubDate>Sat, 20 Dec 2025 11:17:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s lower house removes Bolsonaro’s son and former intelligence agency head from their seats]]></title>
-<link>https://apnews.com/article/brazil-eduardo-bolsonaro-intelligence-agency-lower-house-56c3ee4871191850c925c12d185c5988</link>
-<pubDate>Fri, 19 Dec 2025 20:11:09 -0000</pubDate>
+<title><![CDATA[US military says 2 strikes on alleged drug boats kill 5 in eastern Pacific]]></title>
+<link>https://apnews.com/article/trump-military-drug-boat-strikes-533e16fe046618fc82ddb2611bca94a8</link>
+<pubDate>Fri, 19 Dec 2025 03:37:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
-<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
-<pubDate>Sat, 20 Dec 2025 05:16:51 -0000</pubDate>
+<title><![CDATA[Pakistani court sentences former Prime Minister Imran Khan and wife to 17 years in graft case]]></title>
+<link>https://apnews.com/article/pakistan-court-sentenced-imran-khan-graft-case-5f22b343b4103e4312ed60a357b870d1</link>
+<pubDate>Sat, 20 Dec 2025 11:32:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
