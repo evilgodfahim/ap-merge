@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Dec 2025 19:32:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 20:11:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hypothermia claims newborn in Gaza and more babies are at risk, doctor says]]></title>
 <link>https://apnews.com/article/gaza-hypothermia-winter-infant-759f79812968d06fa82f1c85e0455861</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump administration restricts 2 Honduran election officials’ visas over special vote count]]></title>
+<link>https://apnews.com/article/honduras-election-7b5a36c2bc3e124ce6443782ca864d0d</link>
+<pubDate>Sat, 20 Dec 2025 20:11:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Lula hopes EU-Mercosur trade deal will be signed in January]]></title>
 <link>https://apnews.com/article/brazil-lula-mercosur-european-union-deal-italy-84018a8e1e4010fa4f302216c2b00e4d</link>
 <pubDate>Sat, 20 Dec 2025 16:12:09 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Bolivia’s largest cities brought to standstill by transportation strike over fuel price hike]]></title>
 <link>https://apnews.com/article/bolivia-fuel-strike-82c47ceb6d7802c268ebeb2d97e7146a</link>
 <pubDate>Sat, 20 Dec 2025 07:34:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s blockade of sanctioned Venezuelan oil raises new questions about legality]]></title>
-<link>https://apnews.com/article/trump-venezuela-maduro-sanctioned-oil-blockade-fd8fd9aa3da41f826fbabd8752dc9a17</link>
-<pubDate>Fri, 19 Dec 2025 16:32:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A brief encounter, two attacks and then a break in investigations into the Brown and MIT shootings]]></title>
+<link>https://apnews.com/article/brown-shooting-mit-search-f5139e89984d8432f7b517252ca74a3b</link>
+<pubDate>Sat, 20 Dec 2025 19:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brown University attack suspect died 2 days before his body was found, autopsy finds]]></title>
 <link>https://apnews.com/article/brown-university-mit-shootings-22f87ed7ae912ed3ca2bcc798bb021eb</link>
 <pubDate>Sat, 20 Dec 2025 02:12:41 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Everything you need to know about Christmas, and how it has evolved into a global holiday]]></title>
 <link>https://apnews.com/article/christmas-origin-history-jesus-gifts-santa-claus-af37867c2911d7368a9b8c835d6be138</link>
 <pubDate>Sat, 20 Dec 2025 12:46:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Combat training is a rite of passage for police recruits. It’s left a trail of deaths and injuries]]></title>
-<link>https://apnews.com/article/redman-drills-police-academy-training-deaths-72f351069026cc6a82190d26b75c9a0d</link>
-<pubDate>Sat, 20 Dec 2025 14:40:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration restricts 2 Honduran election officials’ visas over special vote count]]></title>
-<link>https://apnews.com/article/honduras-election-7b5a36c2bc3e124ce6443782ca864d0d</link>
-<pubDate>Sat, 20 Dec 2025 07:34:12 -0000</pubDate>
+<title><![CDATA[US forces stop a second merchant vessel off the coast of Venezuela, American officials say]]></title>
+<link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
+<pubDate>Sat, 20 Dec 2025 20:11:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A brief encounter, two attacks and then a break in investigations into the Brown and MIT shootings]]></title>
-<link>https://apnews.com/article/brown-shooting-mit-search-f5139e89984d8432f7b517252ca74a3b</link>
-<pubDate>Sat, 20 Dec 2025 00:51:36 -0000</pubDate>
+<title><![CDATA[Epstein files offer scant new insight into his crimes or how he avoided serious prosecution]]></title>
+<link>https://apnews.com/article/release-epstein-files-justice-department-trump-9290fcaad1cb6fcb1cbc1befabc01994</link>
+<pubDate>Sat, 20 Dec 2025 19:56:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
