@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Dec 2025 15:36:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 16:12:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Hypothermia claims newborn in Gaza and more babies are at risk, doctor says]]></title>
 <link>https://apnews.com/article/gaza-hypothermia-winter-infant-759f79812968d06fa82f1c85e0455861</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s Lula hopes EU-Mercosur trade deal will be signed in January]]></title>
+<link>https://apnews.com/article/brazil-lula-mercosur-european-union-deal-italy-84018a8e1e4010fa4f302216c2b00e4d</link>
+<pubDate>Sat, 20 Dec 2025 16:12:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bolivia’s largest cities brought to standstill by transportation strike over fuel price hike]]></title>
 <link>https://apnews.com/article/bolivia-fuel-strike-82c47ceb6d7802c268ebeb2d97e7146a</link>
 <pubDate>Sat, 20 Dec 2025 07:34:11 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Trump’s blockade of sanctioned Venezuelan oil raises new questions about legality]]></title>
 <link>https://apnews.com/article/trump-venezuela-maduro-sanctioned-oil-blockade-fd8fd9aa3da41f826fbabd8752dc9a17</link>
 <pubDate>Fri, 19 Dec 2025 16:32:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ecuadorian police arrest 2 suspects in the armed attack that killed soccer player Pineida]]></title>
-<link>https://apnews.com/article/ecuador-pineida-barcelona-death-arrested-e4d360d27f32a57d5968b9b60fb5daf0</link>
-<pubDate>Fri, 19 Dec 2025 20:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Chair of leading Turkish sports club Fenerbahce questioned in a drugs probe]]></title>
+<link>https://apnews.com/article/turkey-saran-fenerbahce-drugs-investigation-a47afd724d749c5c7013c4d6561a0e60</link>
+<pubDate>Sat, 20 Dec 2025 16:12:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Knife-wielding man shot dead by police in Corsica after threatening bystanders]]></title>
 <link>https://apnews.com/article/france-corsica-ajaccio-knife-attack-shot-dead-5a560cf14f249f8919fa2a5b917c20c0</link>
 <pubDate>Sat, 20 Dec 2025 15:10:03 -0000</pubDate>
@@ -194,6 +200,12 @@
 <title><![CDATA[US awards no-bid contract to Denmark scientists studying hepatitis B vaccine in African babies]]></title>
 <link>https://apnews.com/article/hepatitis-b-vaccine-contract-guineabissau-1fbca4928e01f364e20ae5ae57b2330e</link>
 <pubDate>Fri, 19 Dec 2025 22:11:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ecuadorian police arrest 2 suspects in the armed attack that killed soccer player Pineida]]></title>
+<link>https://apnews.com/article/ecuador-pineida-barcelona-death-arrested-e4d360d27f32a57d5968b9b60fb5daf0</link>
+<pubDate>Sat, 20 Dec 2025 15:57:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks rise on Wall Street as AI stocks turn higher again]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-boj-trump-542b9b8f63f303ba1c0b183fc14737b7</link>
-<pubDate>Fri, 19 Dec 2025 21:56:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong mourns firefighter killed in city’s deadliest fire in decades]]></title>
-<link>https://apnews.com/article/hong-kong-firefighter-funeral-fire-mourn-561860f017172a72f4b6b7fa8b59eeb8</link>
-<pubDate>Sat, 20 Dec 2025 11:17:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian strike on Odesa kills 8 as US hosts a Kremlin envoy for talks on peace plan]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-attack-strike-odesa-dead-injured-94fb98e6e49a14ec2d067f7c42186d8e</link>
 <pubDate>Sat, 20 Dec 2025 15:10:03 -0000</pubDate>
@@ -395,21 +395,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Christmas spirit returns to Bethlehem after ceasefire in Gaza]]></title>
-<link>https://apnews.com/article/christmas-bethlehem-israel-gaza-war-1a994f4de18f0b2d8cf06af9f4e111f4</link>
-<pubDate>Sat, 20 Dec 2025 05:46:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spread of famine in Gaza Strip averted but Palestinians there still face starvation, experts say]]></title>
-<link>https://apnews.com/article/mideast-gaza-famine-hunger-ipc-report-885b40b8fc4d435268bdeb2e320c19f8</link>
-<pubDate>Fri, 19 Dec 2025 14:12:22 -0000</pubDate>
+<title><![CDATA[Egypt’s el-Sissi urges UN Security Council reforms for Africa’s larger role]]></title>
+<link>https://apnews.com/article/egypt-un-reforms-russia-partnership-74e7fc7613ee2d67781836b71e280796</link>
+<pubDate>Sat, 20 Dec 2025 16:12:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Iran executes a man accused of spying for Israel]]></title>
 <link>https://apnews.com/article/iran-israel-spy-execution-3a4bacf245781be17cbca7f4e042de7d</link>
 <pubDate>Sat, 20 Dec 2025 05:31:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spread of famine in Gaza Strip averted but Palestinians there still face starvation, experts say]]></title>
+<link>https://apnews.com/article/mideast-gaza-famine-hunger-ipc-report-885b40b8fc4d435268bdeb2e320c19f8</link>
+<pubDate>Fri, 19 Dec 2025 14:12:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
