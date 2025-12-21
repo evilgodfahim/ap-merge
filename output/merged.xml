@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 15:10:01 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Israeli fire kills at least 5 Palestinians in Gaza, a hospital in the enclave says]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-19-12-2025-c5cbf81d48dd1ee82b1fcd2706e7bc7a</link>
-<pubDate>Sun, 21 Dec 2025 11:33:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 21 Dec 2025 15:36:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Spread of famine in Gaza Strip averted but Palestinians there still face starvation, experts say]]></title>
 <link>https://apnews.com/article/mideast-gaza-famine-hunger-ipc-report-885b40b8fc4d435268bdeb2e320c19f8</link>
 <pubDate>Sun, 21 Dec 2025 07:36:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the ruins of Gaza]]></title>
+<link>https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestinians-313ba393c30b94609fa41a11585e6246</link>
+<pubDate>Sun, 21 Dec 2025 05:12:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Children’s author David Walliams denies inappropriate behavior after publisher drops him]]></title>
-<link>https://apnews.com/article/david-walliams-harpercollins-e7ed6266e51be554ba14fd1093fbcd5a</link>
-<pubDate>Sat, 20 Dec 2025 12:16:23 -0000</pubDate>
+<title><![CDATA[Prince William brings his son to the same homeless shelter he first visited with Princess Diana]]></title>
+<link>https://apnews.com/article/britain-prince-william-george-homeless-diana-567f903440bf371c00d058cb6e8dc96a</link>
+<pubDate>Sun, 21 Dec 2025 15:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Muddy eruption at Yellowstone’s Black Diamond Pool captured on video]]></title>
+<link>https://apnews.com/article/yellowstone-muddy-eruption-biscuit-basin-ddf4429e17c0a900fe29654ba4dbd73e</link>
+<pubDate>Sun, 21 Dec 2025 15:21:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A brief encounter, two attacks and then a break in investigations into the Brown and MIT shootings]]></title>
 <link>https://apnews.com/article/brown-shooting-mit-search-f5139e89984d8432f7b517252ca74a3b</link>
 <pubDate>Sat, 20 Dec 2025 19:56:11 -0000</pubDate>
@@ -107,15 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[San Francisco outages leaves 130,000 without power]]></title>
+<title><![CDATA[Power restored to most in San Francisco after massive outage]]></title>
 <link>https://apnews.com/article/power-outage-san-francisco-pge-4e92a586ce4d71865fa9f1f4fd057df3</link>
-<pubDate>Sun, 21 Dec 2025 02:57:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s ‘A+++++' economy collides with reality in a Pennsylvania city critical to the midterms]]></title>
-<link>https://apnews.com/article/trump-economy-2026-election-allentown-republicans-ccfc8351c2c081693ce763c1be34e749</link>
-<pubDate>Sat, 20 Dec 2025 13:54:55 -0000</pubDate>
+<pubDate>Sun, 21 Dec 2025 15:06:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,12 +176,6 @@
 <title><![CDATA[Trump is leaning on son-in-law Jared Kushner for difficult diplomacy]]></title>
 <link>https://apnews.com/article/kushner-trump-gaza-ukraine-witkoff-russia-01739d7b665d07867c411c394179e9c6</link>
 <pubDate>Sun, 21 Dec 2025 13:02:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prince William brings his son to the same homeless shelter he first visited with Princess Diana]]></title>
-<link>https://apnews.com/article/britain-prince-william-george-homeless-diana-567f903440bf371c00d058cb6e8dc96a</link>
-<pubDate>Sun, 21 Dec 2025 12:47:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -248,6 +242,12 @@
 <title><![CDATA[Toronto man facing terror charges targeting Jews and women]]></title>
 <link>https://apnews.com/article/toronto-terror-arrest-failed-kidnappings-3af99df7327323e5b9b434a670c77acf</link>
 <pubDate>Fri, 19 Dec 2025 23:36:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli fire kills at least 5 Palestinians in Gaza, a hospital in the enclave says]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-19-12-2025-c5cbf81d48dd1ee82b1fcd2706e7bc7a</link>
+<pubDate>Sun, 21 Dec 2025 15:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,12 +323,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the EU’s new $106 billion loan to Ukraine]]></title>
-<link>https://apnews.com/article/ukraine-loan-assets-russia-eu-brussels-von-der-leyen-orban-137d7dc9dd522578c0b984d062ac79ed</link>
-<pubDate>Sun, 21 Dec 2025 11:33:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Egypt vows to prevent escalation between Lebanon and Israel amid tensions over Hezbollah]]></title>
 <link>https://apnews.com/article/lebanon-israel-egypt-mechanism-hezbollah-imad-amhaz-8523a4778ce8d3349440c64277b3a8ad</link>
 <pubDate>Sun, 21 Dec 2025 05:12:36 -0000</pubDate>
@@ -347,6 +341,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[3 killed in Taiwan knife attack, with the suspect later falling to his death from a department store]]></title>
+<link>https://apnews.com/article/taiwan-knife-attack-subway-taipei-stabbing-497e5cf0fa780d67267cbcb5aaed19a8</link>
+<pubDate>Fri, 19 Dec 2025 19:03:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia says talks on US peace plan for Ukraine ‘are proceeding constructively’]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-witkoff-dmitriev-kushner-talks-trump-1ad3b82d8a2b5c449968d8c62e818a04</link>
+<pubDate>Sun, 21 Dec 2025 08:44:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s Cabinet approves 19 new Jewish settlements in the occupied West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-settlements-west-bank-6923448a5956ff4d90b240d871db33e6</link>
+<pubDate>Sun, 21 Dec 2025 15:36:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Multiple gunmen open fire at a South African pub, killing 9 and wounding 10]]></title>
 <link>https://apnews.com/article/south-africa-shooting-pub-9-dead-89eeba76a0350157f8c8759d5f077f8a</link>
 <pubDate>Sun, 21 Dec 2025 13:02:30 -0000</pubDate>
@@ -356,12 +368,6 @@
 <title><![CDATA[Thousands gather at Bondi Beach to mourn victims of antisemitic attack]]></title>
 <link>https://apnews.com/article/australia-bondi-shooting-jewish-bca2e99f86d0e2980fe7f53b87abbddf</link>
 <pubDate>Sun, 21 Dec 2025 10:10:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli Cabinet approves 19 new Jewish settlements in the occupied West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-settlements-west-bank-6923448a5956ff4d90b240d871db33e6</link>
-<pubDate>Sun, 21 Dec 2025 11:18:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia says talks on US peace plan for Ukraine ‘are proceeding constructively’]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-witkoff-dmitriev-kushner-talks-trump-1ad3b82d8a2b5c449968d8c62e818a04</link>
-<pubDate>Sun, 21 Dec 2025 08:44:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistani court sentences former Prime Minister Imran Khan and wife to 17 years in graft case]]></title>
 <link>https://apnews.com/article/pakistan-court-sentenced-imran-khan-graft-case-5f22b343b4103e4312ed60a357b870d1</link>
 <pubDate>Sat, 20 Dec 2025 11:32:43 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
 <link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
 <pubDate>Sat, 20 Dec 2025 22:38:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the ruins of Gaza]]></title>
-<link>https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestinians-313ba393c30b94609fa41a11585e6246</link>
-<pubDate>Fri, 19 Dec 2025 06:18:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
