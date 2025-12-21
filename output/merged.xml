@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 12:19:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 13:02:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli fire kills at least 5 Palestinians in Gaza, a hospital in the enclave says]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-19-12-2025-c5cbf81d48dd1ee82b1fcd2706e7bc7a</link>
@@ -164,6 +164,18 @@
 <title><![CDATA[India signs deal with Oman as it tries to counter US tariffs by accelerating free trade agreements]]></title>
 <link>https://apnews.com/article/india-trade-oman-eu-chile-new-zealand-296e663446bbdac5aef49935e91e4287</link>
 <pubDate>Sat, 20 Dec 2025 01:57:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump is leaning on son-in-law Jared Kushner for difficult diplomacy]]></title>
+<link>https://apnews.com/article/kushner-trump-gaza-ukraine-witkoff-russia-01739d7b665d07867c411c394179e9c6</link>
+<pubDate>Sun, 21 Dec 2025 13:02:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prince William brings his son to the same homeless shelter he first visited with Princess Diana]]></title>
+<link>https://apnews.com/article/britain-prince-william-george-homeless-diana-567f903440bf371c00d058cb6e8dc96a</link>
+<pubDate>Sun, 21 Dec 2025 12:47:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK government acknowledges it is investigating cyber incident after media reports]]></title>
-<link>https://apnews.com/article/britain-china-hack-cyber-d8fa625a118a7aae131a10aeb7b734d8</link>
-<pubDate>Fri, 19 Dec 2025 12:21:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukrainian and Polish presidents show unity against Russia, address historical tensions]]></title>
-<link>https://apnews.com/article/poland-ukraine-president-exhumations-nationalism-7b442b3e82cee9c0f92a3601a0e85761</link>
-<pubDate>Sun, 21 Dec 2025 08:29:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[9 killed, 10 wounded in South African pub shooting]]></title>
+<title><![CDATA[Multiple gunmen open fire at a South African pub, killing 9 and wounding 10]]></title>
 <link>https://apnews.com/article/south-africa-shooting-pub-9-dead-89eeba76a0350157f8c8759d5f077f8a</link>
-<pubDate>Sun, 21 Dec 2025 11:33:32 -0000</pubDate>
+<pubDate>Sun, 21 Dec 2025 13:02:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
