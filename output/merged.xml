@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 23:10:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 23:36:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the ruins of Gaza]]></title>
 <link>https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestinians-313ba393c30b94609fa41a11585e6246</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN urges Rwanda to leave eastern Congo and extends peacekeeping mission for a year]]></title>
+<link>https://apnews.com/article/un-congo-rwanda-m23-peacekeepers-uvira-a746ba6ebe0d6d8091ba3e72cde4d51c</link>
+<pubDate>Sun, 21 Dec 2025 23:36:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN’s grim week: 6 peacekeepers and an interpreter killed, while 10 more staffers detained in Yemen]]></title>
 <link>https://apnews.com/article/un-peacekeepers-south-sudan-houthi-yemen-3985b57d29bb091ea5ea6329e207c038</link>
 <pubDate>Sat, 20 Dec 2025 14:09:55 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Burkina Faso releases Nigerian air force crew detained after emergency landing]]></title>
 <link>https://apnews.com/article/nigeria-burkina-faso-air-force-emergency-landing-597d108812af4468090fd364c2c7c145</link>
 <pubDate>Thu, 18 Dec 2025 11:07:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Refugee firefighters in Mauritania battle bushfires to give back to the community that took them in]]></title>
-<link>https://apnews.com/article/mauritania-desert-climate-change-firefighters-mali-refugees-8f170930b0ce0fb4acfa89e963881ec4</link>
-<pubDate>Thu, 18 Dec 2025 05:33:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN urges Rwanda to leave eastern Congo and extends peacekeeping mission for a year]]></title>
-<link>https://apnews.com/article/un-congo-rwanda-m23-peacekeepers-uvira-a746ba6ebe0d6d8091ba3e72cde4d51c</link>
-<pubDate>Sat, 20 Dec 2025 10:11:01 -0000</pubDate>
+<title><![CDATA[130 schoolchildren and staff abducted in Nigeria last month have been released, police say]]></title>
+<link>https://apnews.com/article/nigeria-abduction-papiri-niger-school-children-e654cb4df94e90590512bc23ac66cb64</link>
+<pubDate>Sun, 21 Dec 2025 23:36:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
