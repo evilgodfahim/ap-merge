@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 17:37:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 18:15:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Spread of famine in Gaza Strip averted but Palestinians there still face starvation, experts say]]></title>
 <link>https://apnews.com/article/mideast-gaza-famine-hunger-ipc-report-885b40b8fc4d435268bdeb2e320c19f8</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
-<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
-<pubDate>Sun, 21 Dec 2025 10:48:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[PHOTO ESSAY: Tibetans depart Nepal, a former safe haven transformed under Chinese pressure]]></title>
 <link>https://apnews.com/photo-essay/nepal-tibet-surveillance-china-photos-silicon-valley-7571382e88cb2d02da615f91ddb6b515</link>
 <pubDate>Sun, 21 Dec 2025 14:10:14 -0000</pubDate>
@@ -53,6 +47,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
+<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
+<pubDate>Sat, 20 Dec 2025 11:32:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
+<link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
+<pubDate>Sun, 21 Dec 2025 18:15:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration restricts 2 Honduran election officials’ visas over special vote count]]></title>
 <link>https://apnews.com/article/honduras-election-7b5a36c2bc3e124ce6443782ca864d0d</link>
 <pubDate>Sat, 20 Dec 2025 20:11:11 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Brazil’s Lula hopes EU-Mercosur trade deal will be signed in January]]></title>
 <link>https://apnews.com/article/brazil-lula-mercosur-european-union-deal-italy-84018a8e1e4010fa4f302216c2b00e4d</link>
 <pubDate>Sat, 20 Dec 2025 16:12:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bolivia’s largest cities brought to standstill by transportation strike over fuel price hike]]></title>
-<link>https://apnews.com/article/bolivia-fuel-strike-82c47ceb6d7802c268ebeb2d97e7146a</link>
-<pubDate>Sat, 20 Dec 2025 07:34:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,12 +215,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
-<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
-<pubDate>Sun, 21 Dec 2025 13:55:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Prisoners freed by Belarus say their passports are taken away in a final ‘dirty trick’ by officials]]></title>
 <link>https://apnews.com/article/belarus-lukashenko-trump-sanctions-released-prisoners-7a8efa1fea9026ec06bb45819da2d425</link>
 <pubDate>Sat, 20 Dec 2025 12:46:24 -0000</pubDate>
@@ -302,6 +296,12 @@
 <title><![CDATA[Syria welcomes the permanent repeal of sweeping US sanctions]]></title>
 <link>https://apnews.com/article/syria-sanctions-trump-caesar-act-7acf85d25798d896c5671ca4ab715bd9</link>
 <pubDate>Sat, 20 Dec 2025 09:56:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bolivia’s largest cities brought to standstill by transportation strike over fuel price hike]]></title>
+<link>https://apnews.com/article/bolivia-fuel-strike-82c47ceb6d7802c268ebeb2d97e7146a</link>
+<pubDate>Sun, 21 Dec 2025 18:15:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistani court sentences former Prime Minister Imran Khan and wife to 17 years in graft case]]></title>
-<link>https://apnews.com/article/pakistan-court-sentenced-imran-khan-graft-case-5f22b343b4103e4312ed60a357b870d1</link>
-<pubDate>Sat, 20 Dec 2025 11:32:43 -0000</pubDate>
+<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
+<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
+<pubDate>Sat, 20 Dec 2025 06:16:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
-<link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
-<pubDate>Sat, 20 Dec 2025 22:38:20 -0000</pubDate>
+<title><![CDATA[Coast Guard is pursuing another tanker helping Venezuela skirt sanctions, US official says]]></title>
+<link>https://apnews.com/article/venezuela-trump-blockade-ship-intercepted-coast-guard-00056eed8071c51ca681fc74528d66f1</link>
+<pubDate>Sun, 21 Dec 2025 18:15:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 16 files have disappeared from the DOJ webpage for documents related to Jeffrey Epstein]]></title>
-<link>https://apnews.com/article/release-epstein-files-justice-department-trump-9290fcaad1cb6fcb1cbc1befabc01994</link>
-<pubDate>Sat, 20 Dec 2025 21:33:33 -0000</pubDate>
+<title><![CDATA[Top Trump administration official defends partial release of Epstein files as Democrats cry foul]]></title>
+<link>https://apnews.com/article/blanche-epstein-trump-justice-department-files-democrats-85450de690a7e17ebe208f30db49b68e</link>
+<pubDate>Sun, 21 Dec 2025 18:00:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
