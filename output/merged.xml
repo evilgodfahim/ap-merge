@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 22 Dec 2025 08:17:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 08:49:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Spread of famine in Gaza Strip averted but Palestinians there still face starvation, experts say]]></title>
 <link>https://apnews.com/article/mideast-gaza-famine-hunger-ipc-report-885b40b8fc4d435268bdeb2e320c19f8</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the ruins of Gaza]]></title>
 <link>https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestinians-313ba393c30b94609fa41a11585e6246</link>
 <pubDate>Sun, 21 Dec 2025 05:12:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine is leveraging its powerful – and cheap – new drone killers for air defense]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-interceptors-drones-nato-c7b57962e573b344490b07b2cfead856</link>
+<pubDate>Mon, 22 Dec 2025 05:16:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine deploys low-cost drones to counter Russian attacks, in photos]]></title>
-<link>https://apnews.com/photo-gallery/russia-ukraine-war-interceptors-drones-nato-photos-c447b2dd1199e6f5744dd4d81e21a604</link>
-<pubDate>Mon, 22 Dec 2025 05:49:55 -0000</pubDate>
+<title><![CDATA[Southeast Asian ministers meet in Malaysia to address Thailand-Cambodia border conflict]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-conflict-malaysia-asean-meeting-f1c7ff58bd8c59a7e3bbd506a0af9729</link>
+<pubDate>Mon, 22 Dec 2025 08:49:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s new flagship H3 rocket fails to put geolocation satellite into orbit]]></title>
+<link>https://apnews.com/article/japan-space-rocket-satellite-b52096bf8f2533dcd120e5942ef9d5be</link>
+<pubDate>Mon, 22 Dec 2025 08:34:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Passenger bus crash in Indonesia kills at least 16 people, official says]]></title>
 <link>https://apnews.com/article/indonesia-bus-crash-java-56815beaa357343ad652127c8bb155ad</link>
 <pubDate>Mon, 22 Dec 2025 05:01:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Malaysian court rejects ex-prime minister’s bid to serve remainder of sentence under house arrest]]></title>
-<link>https://apnews.com/article/malaysia-corruption-najib-house-arrest-f762023a3e5ddcaa5496e33a63b3d368</link>
-<pubDate>Mon, 22 Dec 2025 04:46:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India and New Zealand finalize a free trade agreement, eyeing growth as global uncertainties persist]]></title>
-<link>https://apnews.com/article/india-new-zealand-fta-dairy-modi-luxon-c7c6935528509aaaad00dbd79f1a583e</link>
-<pubDate>Mon, 22 Dec 2025 07:26:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,9 +77,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘The water came from nowhere': Settlements, hotels and farms flooded in Kenya’s Rift Valley]]></title>
+<title><![CDATA[Scientists and data explain why Kenya’s lakes are rising as thousands face an uncertain future]]></title>
 <link>https://apnews.com/article/kenya-rising-lakes-naivasha-baringo-cbfbb0b670f831b9a310309a810a0075</link>
-<pubDate>Mon, 22 Dec 2025 04:31:44 -0000</pubDate>
+<pubDate>Mon, 22 Dec 2025 08:19:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bangladesh mourns slain activist as tensions rise ahead of elections]]></title>
+<link>https://apnews.com/article/bangladesh-funeral-hadi-hasina-yunus-b137d572e22ebaf3dc1a1e684225da73</link>
+<pubDate>Sat, 20 Dec 2025 11:17:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[High-speed passenger train kills 7 elephants crossing railway tracks in northeast India]]></title>
 <link>https://apnews.com/article/india-assam-elephants-train-accident-234fb41835bd23be3b404caf47c66fb1</link>
 <pubDate>Sat, 20 Dec 2025 12:01:23 -0000</pubDate>
@@ -161,33 +167,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India signs deal with Oman as it tries to counter US tariffs by accelerating free trade agreements]]></title>
-<link>https://apnews.com/article/india-trade-oman-eu-chile-new-zealand-296e663446bbdac5aef49935e91e4287</link>
-<pubDate>Sat, 20 Dec 2025 01:57:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian general killed by bomb under his car in Moscow]]></title>
-<link>https://apnews.com/article/russia-explosion-general-killed-sarvarov-73413ae5936609832f706ab26f864b3c</link>
-<pubDate>Mon, 22 Dec 2025 07:41:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[WSJ’s parent firm on trial in Hong Kong, accused of dismissing reporter over union role]]></title>
 <link>https://apnews.com/article/hong-kong-selina-cheng-wsj-dow-jones-trial-3a9341eb003873a642073f4a78210b23</link>
 <pubDate>Mon, 22 Dec 2025 07:26:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares advance, yen slips after AI stocks push higher on Wall Street]]></title>
+<title><![CDATA[World shares are mixed and Japan’s yen slips after AI stocks push higher on Wall Street]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-trump-japan-2f4b6d50e2f78610550b054e4eb007eb</link>
-<pubDate>Mon, 22 Dec 2025 06:19:56 -0000</pubDate>
+<pubDate>Mon, 22 Dec 2025 08:49:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump announces he’s appointing Louisiana Gov. Jeff Landry to serve as US special envoy to Greenland]]></title>
 <link>https://apnews.com/article/trump-greenland-jeff-landry-envoy-louisiana-6babac895313a5ec65b5df79c7f86b45</link>
 <pubDate>Mon, 22 Dec 2025 05:16:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Malaysian court rejects ex-prime minister’s bid to serve remainder of sentence under house arrest]]></title>
+<link>https://apnews.com/article/malaysia-corruption-najib-house-arrest-f762023a3e5ddcaa5496e33a63b3d368</link>
+<pubDate>Mon, 22 Dec 2025 08:34:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine is leveraging its powerful – and cheap – new drone killers for air defense]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-interceptors-drones-nato-c7b57962e573b344490b07b2cfead856</link>
-<pubDate>Mon, 22 Dec 2025 05:16:45 -0000</pubDate>
+<title><![CDATA[Russian general killed by bomb under his car in Moscow]]></title>
+<link>https://apnews.com/article/russia-explosion-general-killed-sarvarov-73413ae5936609832f706ab26f864b3c</link>
+<pubDate>Mon, 22 Dec 2025 08:49:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israel’s Cabinet approves 19 new Jewish settlements in the occupied West Bank]]></title>
 <link>https://apnews.com/article/israel-palestinians-settlements-west-bank-6923448a5956ff4d90b240d871db33e6</link>
 <pubDate>Sun, 21 Dec 2025 15:36:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bondi Beach shooting suspect conducted firearms training with his father, Australian police say]]></title>
-<link>https://apnews.com/article/australia-bondi-shooting-jewish-video-court-4dd61a4343aa3f5e3220906b17fa3154</link>
-<pubDate>Mon, 22 Dec 2025 07:26:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Southeast Asian ministers meet in Malaysia to address Thailand-Cambodia border conflict]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-conflict-malaysia-asean-meeting-f1c7ff58bd8c59a7e3bbd506a0af9729</link>
-<pubDate>Mon, 22 Dec 2025 05:01:45 -0000</pubDate>
+<title><![CDATA[Bondi Beach shooting suspect conducted firearms training with his father, Australian police say]]></title>
+<link>https://apnews.com/article/australia-bondi-shooting-jewish-video-court-4dd61a4343aa3f5e3220906b17fa3154</link>
+<pubDate>Mon, 22 Dec 2025 07:26:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh mourns slain activist as tensions rise ahead of elections]]></title>
-<link>https://apnews.com/article/bangladesh-funeral-hadi-hasina-yunus-b137d572e22ebaf3dc1a1e684225da73</link>
-<pubDate>Sun, 21 Dec 2025 10:48:32 -0000</pubDate>
+<title><![CDATA[India and New Zealand finalize a free trade agreement, eyeing growth as global uncertainties persist]]></title>
+<link>https://apnews.com/article/india-new-zealand-fta-dairy-modi-luxon-c7c6935528509aaaad00dbd79f1a583e</link>
+<pubDate>Mon, 22 Dec 2025 08:34:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
