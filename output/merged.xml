@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 22 Dec 2025 00:57:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 02:57:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the ruins of Gaza]]></title>
 <link>https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestinians-313ba393c30b94609fa41a11585e6246</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
+<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
+<pubDate>Sun, 21 Dec 2025 10:48:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[PHOTO ESSAY: Tibetans depart Nepal, a former safe haven transformed under Chinese pressure]]></title>
 <link>https://apnews.com/photo-essay/nepal-tibet-surveillance-china-photos-silicon-valley-7571382e88cb2d02da615f91ddb6b515</link>
 <pubDate>Sun, 21 Dec 2025 14:10:14 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[PHOTO ESSAY: Under watch by Chinese tech, the Tibetan community in Nepal is slowly suffocating]]></title>
 <link>https://apnews.com/photo-essay/china-tibet-nepal-surveillance-technology-photos-cf8bf5c6d6674303392e4e636662836c</link>
 <pubDate>Sun, 21 Dec 2025 10:33:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
-<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
-<pubDate>Sat, 20 Dec 2025 11:32:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brown University attack suspect died 2 days before his body was found, autopsy finds]]></title>
-<link>https://apnews.com/article/brown-university-mit-shootings-22f87ed7ae912ed3ca2bcc798bb021eb</link>
-<pubDate>Sat, 20 Dec 2025 02:12:41 -0000</pubDate>
+<title><![CDATA[Colorado governor accuses Trump of playing ‘political games’ after disaster request denials]]></title>
+<link>https://apnews.com/article/colorado-disaster-declarations-polis-trump-c6d873d38d9892a47a63d9c151e80883</link>
+<pubDate>Mon, 22 Dec 2025 02:57:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Power restored to most in San Francisco after massive outage]]></title>
-<link>https://apnews.com/article/power-outage-san-francisco-pge-4e92a586ce4d71865fa9f1f4fd057df3</link>
-<pubDate>Sun, 21 Dec 2025 15:06:54 -0000</pubDate>
+<title><![CDATA[Brown University attack suspect died 2 days before his body was found, autopsy finds]]></title>
+<link>https://apnews.com/article/brown-university-mit-shootings-22f87ed7ae912ed3ca2bcc798bb021eb</link>
+<pubDate>Sat, 20 Dec 2025 02:12:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[India signs deal with Oman as it tries to counter US tariffs by accelerating free trade agreements]]></title>
 <link>https://apnews.com/article/india-trade-oman-eu-chile-new-zealand-296e663446bbdac5aef49935e91e4287</link>
 <pubDate>Sat, 20 Dec 2025 01:57:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Passenger bus crash in Indonesia kills at least 15 people, official says]]></title>
+<link>https://apnews.com/article/indonesia-bus-crash-java-56815beaa357343ad652127c8bb155ad</link>
+<pubDate>Mon, 22 Dec 2025 02:57:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +230,12 @@
 <title><![CDATA[Pope Leo summons world’s cardinals for a key assembly to help him govern the church]]></title>
 <link>https://apnews.com/article/vatican-pope-leo-consistory-cardinals-0bf31013ce045d0472ee3fc9c7769aec</link>
 <pubDate>Sat, 20 Dec 2025 13:01:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Taiwan attacker planned assault that killed 3 and injured 11, authorities say]]></title>
+<link>https://apnews.com/article/taiwan-knife-attack-smoke-deaths-0a20a51658509a0ad4321cdd27f9ad73</link>
+<pubDate>Sun, 21 Dec 2025 13:55:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oscar contender ‘The Secret Agent’ capitalizes on the rise of Brazilian cinema]]></title>
-<link>https://apnews.com/article/brazil-secret-agent-kleber-mendonca-filho-wagner-moura-3d04baa7829890c79a9f69926f157ce6</link>
-<pubDate>Fri, 19 Dec 2025 14:12:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope names new archbishop of Westminster as part of generational shift in English-speaking hierarchy]]></title>
-<link>https://apnews.com/article/vatican-westminster-archbishop-richard-moth-pope-be7a92e65e488447780daaa97c821ae2</link>
-<pubDate>Fri, 19 Dec 2025 13:06:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US says talks with Ukraine, Europe on ending war with Russia ‘constructive’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-witkoff-dmitriev-kushner-talks-trump-1ad3b82d8a2b5c449968d8c62e818a04</link>
 <pubDate>Sun, 21 Dec 2025 22:10:24 -0000</pubDate>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
-<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
-<pubDate>Sat, 20 Dec 2025 06:16:51 -0000</pubDate>
+<title><![CDATA[Malaysian court rejects ex-Prime Minister’s bid to serve remainder of sentence under house arrest]]></title>
+<link>https://apnews.com/article/malaysia-corruption-najib-house-arrest-f762023a3e5ddcaa5496e33a63b3d368</link>
+<pubDate>Mon, 22 Dec 2025 02:57:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
