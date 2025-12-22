@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 22 Dec 2025 23:10:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 23:37:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Christmas spirit returns to Bethlehem after ceasefire in Gaza]]></title>
 <link>https://apnews.com/article/christmas-bethlehem-israel-gaza-war-1a994f4de18f0b2d8cf06af9f4e111f4</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Coast Guard is pursuing another tanker helping Venezuela skirt sanctions, US official says]]></title>
+<link>https://apnews.com/article/venezuela-trump-blockade-ship-intercepted-coast-guard-00056eed8071c51ca681fc74528d66f1</link>
+<pubDate>Mon, 22 Dec 2025 18:01:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
 <link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
 <pubDate>Sun, 21 Dec 2025 18:15:30 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Ecuadorian court hands down max sentences to 11 soldiers in case of 4 disappeared minors]]></title>
 <link>https://apnews.com/article/ecuador-soldiers-disappeared-minors-sentences-daf66c7676a9381f4e3bb5a5be8c18a2</link>
 <pubDate>Mon, 22 Dec 2025 19:34:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump holds an event with Rubio and Hegseth during vacation as tensions with Venezuela mount]]></title>
-<link>https://apnews.com/article/trump-venezuela-tankers-shipbuilding-3c711c500a627243329807df42fa6ef8</link>
-<pubDate>Mon, 22 Dec 2025 19:19:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump is expected to announce plans for a new Navy ‘battleship’]]></title>
+<title><![CDATA[Canada’s Prime Minister Carney names financier Mark Wiseman as the next ambassador to Washington]]></title>
+<link>https://apnews.com/article/canada-washington-ambassador-wiseman-carney-trump-62b601991194bc212a07e2e245ad4179</link>
+<pubDate>Mon, 22 Dec 2025 23:37:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump announces plans for new Navy ‘battleship’]]></title>
 <link>https://apnews.com/article/trump-navy-golden-fleet-battleship-0940368b39b19f03abe8689ebad08380</link>
-<pubDate>Mon, 22 Dec 2025 22:11:32 -0000</pubDate>
+<pubDate>Mon, 22 Dec 2025 23:22:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +230,12 @@
 <title><![CDATA[Grupo Frontera heads to the Grammys with 2 nominations]]></title>
 <link>https://apnews.com/article/grammys-grupo-frontera-lo-que-me-falta-por-llorar-bad-bunny-3c14b41d708a449b326aa54b1e35389c</link>
 <pubDate>Mon, 22 Dec 2025 18:01:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump holds an event with Rubio and Hegseth during vacation as tensions with Venezuela mount]]></title>
+<link>https://apnews.com/article/trump-venezuela-tankers-shipbuilding-3c711c500a627243329807df42fa6ef8</link>
+<pubDate>Mon, 22 Dec 2025 23:07:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands cheer as the sun rises on winter solstice at Stonehenge]]></title>
-<link>https://apnews.com/article/winter-solstice-stonehenge-f85dd1e06b4496788e3fb5b669cd8b80</link>
-<pubDate>Mon, 22 Dec 2025 04:46:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Élysée Palace silver steward arrested for stealing thousands of euros’ worth of silverware]]></title>
-<link>https://apnews.com/article/france-elysee-palace-theft-silverware-3f392d46ddf057e9e409c18d28277a21</link>
-<pubDate>Mon, 22 Dec 2025 05:49:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Car bomb kills Russian general in Moscow]]></title>
 <link>https://apnews.com/article/russia-explosion-general-killed-sarvarov-73413ae5936609832f706ab26f864b3c</link>
 <pubDate>Mon, 22 Dec 2025 13:07:22 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Coast Guard is pursuing another tanker helping Venezuela skirt sanctions, US official says]]></title>
-<link>https://apnews.com/article/venezuela-trump-blockade-ship-intercepted-coast-guard-00056eed8071c51ca681fc74528d66f1</link>
-<pubDate>Sun, 21 Dec 2025 18:15:32 -0000</pubDate>
+<title><![CDATA[Colombia will use drones to destroy coca crops as it grapples with record cocaine production]]></title>
+<link>https://apnews.com/article/colombia-coca-crops-cocaine-aerial-fumigation-0b6db549cb1a93b0279b5a38ed5a2f49</link>
+<pubDate>Mon, 22 Dec 2025 23:37:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
