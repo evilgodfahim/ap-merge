@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 22 Dec 2025 23:37:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 00:54:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Christmas spirit returns to Bethlehem after ceasefire in Gaza]]></title>
 <link>https://apnews.com/article/christmas-bethlehem-israel-gaza-war-1a994f4de18f0b2d8cf06af9f4e111f4</link>
@@ -41,15 +41,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FCC bans new Chinese-made drones, citing security risks]]></title>
+<link>https://apnews.com/article/china-drones-national-security-fcc-bbc2e8c7a0b42e2ddc74ad19a12ada98</link>
+<pubDate>Tue, 23 Dec 2025 00:54:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan’s new flagship H3 rocket fails to put geolocation satellite into orbit]]></title>
 <link>https://apnews.com/article/japan-space-rocket-satellite-b52096bf8f2533dcd120e5942ef9d5be</link>
 <pubDate>Mon, 22 Dec 2025 08:34:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Passenger bus crash in Indonesia kills at least 16 people, official says]]></title>
-<link>https://apnews.com/article/indonesia-bus-crash-java-56815beaa357343ad652127c8bb155ad</link>
-<pubDate>Mon, 22 Dec 2025 05:01:44 -0000</pubDate>
+<title><![CDATA[Workers organized by a key union rally in Bolivia against scrapping fuel subsidies]]></title>
+<link>https://apnews.com/article/bolivia-fuel-subsidies-protests-evo-morales-dollar-shortages-daf19ee571e93caf8597672ab1351a84</link>
+<pubDate>Tue, 23 Dec 2025 00:39:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
 <link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
 <pubDate>Sun, 21 Dec 2025 18:15:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ecuadorian court hands down max sentences to 11 soldiers in case of 4 disappeared minors]]></title>
-<link>https://apnews.com/article/ecuador-soldiers-disappeared-minors-sentences-daf66c7676a9381f4e3bb5a5be8c18a2</link>
-<pubDate>Mon, 22 Dec 2025 19:34:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump announces plans for new Navy ‘battleship’]]></title>
+<title><![CDATA[Trump announces plans for new Navy ‘battleship’ as part of a ‘Golden Fleet’]]></title>
 <link>https://apnews.com/article/trump-navy-golden-fleet-battleship-0940368b39b19f03abe8689ebad08380</link>
-<pubDate>Mon, 22 Dec 2025 23:22:37 -0000</pubDate>
+<pubDate>Tue, 23 Dec 2025 00:54:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ecuadorian court hands down max sentences to 11 soldiers in case of 4 disappeared minors]]></title>
+<link>https://apnews.com/article/ecuador-soldiers-disappeared-minors-sentences-daf66c7676a9381f4e3bb5a5be8c18a2</link>
+<pubDate>Tue, 23 Dec 2025 00:39:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Banksy unveils new art in London following speculation over murals depicting stargazing figures]]></title>
 <link>https://apnews.com/article/london-banksy-new-murals-sky-children-bayswater-c371caaeaa827b2fe3f716d3b977e62c</link>
 <pubDate>Mon, 22 Dec 2025 18:16:43 -0000</pubDate>
@@ -233,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump holds an event with Rubio and Hegseth during vacation as tensions with Venezuela mount]]></title>
+<title><![CDATA[Trump warns Maduro against playing ‘tough’ as US escalates pressure campaign on Venezuela]]></title>
 <link>https://apnews.com/article/trump-venezuela-tankers-shipbuilding-3c711c500a627243329807df42fa6ef8</link>
-<pubDate>Mon, 22 Dec 2025 23:07:37 -0000</pubDate>
+<pubDate>Tue, 23 Dec 2025 00:24:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Passenger bus crash in Indonesia kills at least 16 people, official says]]></title>
+<link>https://apnews.com/article/indonesia-bus-crash-java-56815beaa357343ad652127c8bb155ad</link>
+<pubDate>Mon, 22 Dec 2025 04:02:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump removes nearly 30 career diplomats from ambassadorial positions]]></title>
 <link>https://apnews.com/article/diplomacy-ambassadors-state-department-1a10058998c86e799ce4e5132a99da18</link>
 <pubDate>Mon, 22 Dec 2025 00:57:27 -0000</pubDate>
@@ -332,18 +344,6 @@
 <title><![CDATA[PHOTO ESSAY: Tibetans depart Nepal, a former safe haven transformed under Chinese pressure]]></title>
 <link>https://apnews.com/photo-essay/nepal-tibet-surveillance-china-photos-silicon-valley-7571382e88cb2d02da615f91ddb6b515</link>
 <pubDate>Mon, 22 Dec 2025 05:01:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump is leaning on son-in-law Jared Kushner for difficult diplomacy]]></title>
-<link>https://apnews.com/article/kushner-trump-gaza-ukraine-witkoff-russia-01739d7b665d07867c411c394179e9c6</link>
-<pubDate>Sun, 21 Dec 2025 13:02:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prince William brings his son to the same homeless shelter he first visited with Princess Diana]]></title>
-<link>https://apnews.com/article/britain-prince-william-george-homeless-diana-567f903440bf371c00d058cb6e8dc96a</link>
-<pubDate>Sun, 21 Dec 2025 12:47:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
