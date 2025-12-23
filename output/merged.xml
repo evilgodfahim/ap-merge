@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 23 Dec 2025 17:12:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 17:41:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-23-2025-6758f7ae1fee1ff9b81ecd45a12ac4e7</link>
@@ -47,21 +47,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivian miners rally against scrapping fuel subsidies]]></title>
-<link>https://apnews.com/article/bolivia-fuel-subsidies-protests-evo-morales-dollar-shortages-daf19ee571e93caf8597672ab1351a84</link>
-<pubDate>Tue, 23 Dec 2025 03:40:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bolivian Indigenous women carry history and pride in the traditional ‘pollera’ skirt]]></title>
-<link>https://apnews.com/article/bolivia-pollera-skirt-indigenous-women-bb3df64d9dd9b9782dda19f3320e6b4d</link>
-<pubDate>Tue, 23 Dec 2025 13:56:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos of Bolivian cholitas embracing the bell skirt as a symbol of strength]]></title>
 <link>https://apnews.com/photo-gallery/bolivia-pollera-skirt-indigenous-women-5e47f3f80f69ce7d82b94734110d1e9a</link>
 <pubDate>Tue, 23 Dec 2025 13:41:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican Navy medical flight lost communication for several minutes before Texas crash]]></title>
+<link>https://apnews.com/article/mexican-navy-plane-crash-galveston-texas-medical-8150a7f25c6644163d9080ceb2fd5050</link>
+<pubDate>Tue, 23 Dec 2025 17:41:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Colombia will use drones to destroy coca crops as it grapples with record cocaine production]]></title>
+<link>https://apnews.com/article/colombia-coca-crops-cocaine-aerial-fumigation-0b6db549cb1a93b0279b5a38ed5a2f49</link>
+<pubDate>Tue, 23 Dec 2025 17:26:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top Trump administration official defends partial release of Epstein files as Democrats cry foul]]></title>
-<link>https://apnews.com/article/blanche-epstein-trump-justice-department-files-democrats-85450de690a7e17ebe208f30db49b68e</link>
-<pubDate>Mon, 22 Dec 2025 16:47:19 -0000</pubDate>
+<title><![CDATA[Kilmar Abrego Garcia, who was mistakenly deported, can spend Christmas with family]]></title>
+<link>https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-6f5c7b233a82afa5a01b59d3d01f8bfb</link>
+<pubDate>Tue, 23 Dec 2025 17:11:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Medicaid paid more than $207 million for dead people. A new law could help fix that]]></title>
-<link>https://apnews.com/article/hhs-medicaid-fraud-3d40bf698ab845859e3ad6bb4131e8e7</link>
-<pubDate>Tue, 23 Dec 2025 12:54:00 -0000</pubDate>
+<title><![CDATA[Top Trump administration official defends partial release of Epstein files as Democrats cry foul]]></title>
+<link>https://apnews.com/article/blanche-epstein-trump-justice-department-files-democrats-85450de690a7e17ebe208f30db49b68e</link>
+<pubDate>Mon, 22 Dec 2025 16:47:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +161,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says he’s inviting Kazakhstan and Uzbekistan to next year’s G20 summit in Miami]]></title>
+<link>https://apnews.com/article/trump-kazakhstan-uzbekistan-g20-0d5787656a4106245b4326726e59154c</link>
+<pubDate>Tue, 23 Dec 2025 17:41:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Colombia declares an economic emergency in a criticized effort to raise more taxes]]></title>
+<link>https://apnews.com/article/colombia-economy-emergency-taxes-4aa37af8e01f9f638d3117106df5e25b</link>
+<pubDate>Tue, 23 Dec 2025 17:26:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistani consortium acquires 75% stake in PIA in major privatization move]]></title>
 <link>https://apnews.com/article/pakistan-auction-pia-airline-359d56172b852a9f6f16f775423d8ac5</link>
 <pubDate>Tue, 23 Dec 2025 16:14:11 -0000</pubDate>
@@ -209,9 +221,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks hold near their records after mixed reports on economic growth, consumer confidence]]></title>
+<title><![CDATA[US stocks approach records after mixed reports on economic growth, consumer confidence]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-yen-inflation-4b8f8a005685de8afd4c780307173832</link>
-<pubDate>Tue, 23 Dec 2025 15:59:11 -0000</pubDate>
+<pubDate>Tue, 23 Dec 2025 17:11:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +236,12 @@
 <title><![CDATA[Judge rules Trump administration must allow court challenges for Venezuelan migrants sent to prison]]></title>
 <link>https://apnews.com/article/prison-el-salvador-venezuelan-migrant-ade989063b85f22cc1ff6813754b3290</link>
 <pubDate>Tue, 23 Dec 2025 02:49:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bolivian miners rally against scrapping fuel subsidies]]></title>
+<link>https://apnews.com/article/bolivia-fuel-subsidies-protests-evo-morales-dollar-shortages-daf19ee571e93caf8597672ab1351a84</link>
+<pubDate>Tue, 23 Dec 2025 16:56:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,27 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cyberattack disrupts France’s postal service and banking during Christmas rush]]></title>
-<link>https://apnews.com/article/france-postal-service-cyberattack-4ea0c3e3bcb8a87341de8aebc1dfc916</link>
-<pubDate>Mon, 22 Dec 2025 15:41:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope offers gentle critique of Vatican culture in Christmas greeting reminiscent of past]]></title>
-<link>https://apnews.com/article/vatican-pope-christmas-criticism-curia-c9779532b4d5ba60a8ba0cc5b8d7d994</link>
-<pubDate>Mon, 22 Dec 2025 11:36:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China to impose up to 42.7% provisional tariffs on EU dairy products]]></title>
-<link>https://apnews.com/article/china-eu-dairy-tariff-ev-b53e2f0afc777b3415eff3823f6a67d0</link>
-<pubDate>Mon, 22 Dec 2025 11:21:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Major Russian drone and missile attack on Ukraine kills at least 3 people and cuts power]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-missiles-attack-18fc9cbc3bed4103b4863bbdbc57e181</link>
 <pubDate>Tue, 23 Dec 2025 11:37:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about aid entering Gaza, the other battle between Israel and Hamas]]></title>
+<link>https://apnews.com/article/gaza-palestinians-israel-hamas-humanitarian-aid-trucks-ad4b837b84362f7ef0054da93e88f3bd</link>
+<pubDate>Tue, 23 Dec 2025 14:57:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen’s sides agree to release 2,900 detainees in war’s largest exchange]]></title>
-<link>https://apnews.com/article/yemen-prisoners-release-war-houthis-7523c53ce1aff283866d10e9f38e5246</link>
-<pubDate>Tue, 23 Dec 2025 15:12:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about aid entering Gaza, the other battle between Israel and Hamas]]></title>
-<link>https://apnews.com/article/gaza-palestinians-israel-hamas-humanitarian-aid-trucks-ad4b837b84362f7ef0054da93e88f3bd</link>
-<pubDate>Tue, 23 Dec 2025 14:57:05 -0000</pubDate>
+<title><![CDATA[Ex-aide says Netanyahu tasked him with making a plan to evade responsibility for Oct. 7 attack]]></title>
+<link>https://apnews.com/article/israel-hamas-qatargate-netanyahu-feldstein-settler-attack-e3efa52d8106cb4defebe4c9a6735405</link>
+<pubDate>Tue, 23 Dec 2025 11:22:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli settlers forcibly enter Palestinian home and kill sheep in latest West Bank attack]]></title>
-<link>https://apnews.com/article/israel-palestinians-settler-violence-netanyahu-military-3b78f16619ec065b80f6335dd37c62a0</link>
-<pubDate>Tue, 23 Dec 2025 13:41:57 -0000</pubDate>
+<title><![CDATA[Yemen’s sides agree to release 2,900 detainees in war’s largest exchange]]></title>
+<link>https://apnews.com/article/yemen-prisoners-release-war-houthis-7523c53ce1aff283866d10e9f38e5246</link>
+<pubDate>Tue, 23 Dec 2025 15:12:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia will use drones to destroy coca crops as it grapples with record cocaine production]]></title>
-<link>https://apnews.com/article/colombia-coca-crops-cocaine-aerial-fumigation-0b6db549cb1a93b0279b5a38ed5a2f49</link>
-<pubDate>Mon, 22 Dec 2025 23:37:38 -0000</pubDate>
+<title><![CDATA[Bolivian Indigenous women carry history and pride in the traditional ‘pollera’ skirt]]></title>
+<link>https://apnews.com/article/bolivia-pollera-skirt-indigenous-women-bb3df64d9dd9b9782dda19f3320e6b4d</link>
+<pubDate>Tue, 23 Dec 2025 17:41:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
