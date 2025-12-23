@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 23 Dec 2025 13:50:25 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 14:11:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan’s prime minister takes his peace plan to the UN, but US urges humanitarian truce now]]></title>
 <link>https://apnews.com/article/un-sudan-war-paramilitary-peace-government-humanitarian-2c5225388d1d390722d53af83f3019ce</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine’s own ‘Dancing with the Stars’ is back on for a special episode with wartime heroes]]></title>
+<link>https://apnews.com/article/ukraine-russia-war-dancing-with-stars-d6267c29665ebde73b9a36e19c26ed48</link>
+<pubDate>Tue, 23 Dec 2025 14:11:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Car bomb kills Russian general in Moscow]]></title>
 <link>https://apnews.com/article/russia-explosion-general-killed-sarvarov-73413ae5936609832f706ab26f864b3c</link>
 <pubDate>Tue, 23 Dec 2025 11:22:29 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[France races to avoid US-style government shutdown after budget talks collapse]]></title>
 <link>https://apnews.com/article/france-budget-deficit-macron-parliament-35cc7c2994ebd49772126c08a5f02fb6</link>
 <pubDate>Tue, 23 Dec 2025 11:07:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The killing of a general in Moscow follows a series of assassinations Russia blames on Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-killings-generals-69aa3fa728d3704f2943319d2bf3491f</link>
-<pubDate>Mon, 22 Dec 2025 14:56:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Coast Guard is pursuing another tanker helping Venezuela skirt sanctions, US official says]]></title>
-<link>https://apnews.com/article/venezuela-trump-blockade-ship-intercepted-coast-guard-00056eed8071c51ca681fc74528d66f1</link>
-<pubDate>Mon, 22 Dec 2025 18:01:42 -0000</pubDate>
+<title><![CDATA[Bolivian Indigenous women carry history and pride in the traditional ‘pollera’ skirt]]></title>
+<link>https://apnews.com/article/bolivia-pollera-skirt-indigenous-women-bb3df64d9dd9b9782dda19f3320e6b4d</link>
+<pubDate>Tue, 23 Dec 2025 13:56:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US forces stop oil tanker off the coast of Venezuela as Trump follows up on promise to seize tankers]]></title>
-<link>https://apnews.com/article/venezuela-vessel-merchant-international-waters-e87bf43475ae27e5ec22239dd8150e06</link>
-<pubDate>Sun, 21 Dec 2025 18:15:30 -0000</pubDate>
+<title><![CDATA[Photos of Bolivian cholitas embracing the bell skirt as a symbol of strength]]></title>
+<link>https://apnews.com/photo-gallery/bolivia-pollera-skirt-indigenous-women-5e47f3f80f69ce7d82b94734110d1e9a</link>
+<pubDate>Tue, 23 Dec 2025 13:41:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,6 +92,12 @@
 <title><![CDATA[Multiple gunmen open fire at a South African pub, killing 9 and wounding 10]]></title>
 <link>https://apnews.com/article/south-africa-shooting-pub-9-dead-89eeba76a0350157f8c8759d5f077f8a</link>
 <pubDate>Mon, 22 Dec 2025 05:19:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[An American Dream at risk: What happens to a small Nebraska town when 3,200 workers lose their jobs]]></title>
+<link>https://apnews.com/article/tyson-closure-workers-lexington-nebraska-beef-plant-638e615f6225bc7452767d2bc836890c</link>
+<pubDate>Tue, 23 Dec 2025 06:18:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[China sues after Missouri seeks to collect on $25 billion court judgment, prosecutor says]]></title>
 <link>https://apnews.com/article/china-lawsuit-missouri-covid-14c127b5f2d8ff4be9af964a6715b74e</link>
 <pubDate>Thu, 18 Dec 2025 14:27:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China exploits US-funded research on nuclear technology, a congressional report says]]></title>
-<link>https://apnews.com/article/china-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33</link>
-<pubDate>Wed, 17 Dec 2025 23:23:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The killing of a general in Moscow follows a series of assassinations Russia blames on Ukraine]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-killings-generals-69aa3fa728d3704f2943319d2bf3491f</link>
+<pubDate>Tue, 23 Dec 2025 14:11:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cyberattack disrupts France’s postal service and banking during Christmas rush]]></title>
 <link>https://apnews.com/article/france-postal-service-cyberattack-4ea0c3e3bcb8a87341de8aebc1dfc916</link>
 <pubDate>Mon, 22 Dec 2025 15:41:21 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s new flagship H3 rocket fails to put geolocation satellite into orbit]]></title>
-<link>https://apnews.com/article/japan-space-rocket-satellite-b52096bf8f2533dcd120e5942ef9d5be</link>
-<pubDate>Tue, 23 Dec 2025 06:56:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Major Russian drone and missile attack on Ukraine kills at least 3 people and cuts power]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-missiles-attack-18fc9cbc3bed4103b4863bbdbc57e181</link>
 <pubDate>Tue, 23 Dec 2025 11:37:30 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine is leveraging its powerful – and cheap – new drone killers for air defense]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-interceptors-drones-nato-c7b57962e573b344490b07b2cfead856</link>
-<pubDate>Mon, 22 Dec 2025 05:16:45 -0000</pubDate>
+<title><![CDATA[Yemen’s warring sides agree to release 2,900 detainees in war’s largest exchange]]></title>
+<link>https://apnews.com/article/yemen-prisoners-release-war-houthis-7523c53ce1aff283866d10e9f38e5246</link>
+<pubDate>Tue, 23 Dec 2025 13:56:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Clashes flare as top Turkish officials visit Syria ahead of a deadline for Kurdish integration]]></title>
-<link>https://apnews.com/article/turkey-syria-kurds-sdf-integration-9e87114f4c829064396e180f17c64af4</link>
-<pubDate>Tue, 23 Dec 2025 13:09:02 -0000</pubDate>
+<title><![CDATA[Israeli settlers forcibly enter Palestinian home and kill sheep in latest West Bank attack]]></title>
+<link>https://apnews.com/article/israel-palestinians-settler-violence-netanyahu-military-3b78f16619ec065b80f6335dd37c62a0</link>
+<pubDate>Tue, 23 Dec 2025 13:41:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-aide says Netanyahu tasked him with making a plan to evade responsibility for Oct. 7 attack]]></title>
-<link>https://apnews.com/article/israel-hamas-qatargate-netanyahu-feldstein-settler-attack-e3efa52d8106cb4defebe4c9a6735405</link>
-<pubDate>Tue, 23 Dec 2025 11:22:30 -0000</pubDate>
+<title><![CDATA[Clashes flare as top Turkish officials visit Syria ahead of a deadline for Kurdish integration]]></title>
+<link>https://apnews.com/article/turkey-syria-kurds-sdf-integration-9e87114f4c829064396e180f17c64af4</link>
+<pubDate>Tue, 23 Dec 2025 13:09:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jordan says its air force joined US strikes on Islamic State in Syria]]></title>
-<link>https://apnews.com/article/syria-us-strikes-isis-islamic-state-jordan-attack-c9c7255bd2053aefd1e9ea32a07431ee</link>
-<pubDate>Sat, 20 Dec 2025 14:09:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US signs new health deals with 9 African countries that mirror Trump’s priorities]]></title>
 <link>https://apnews.com/article/us-africa-health-agreements-nigeria-kenya-trump-60ff22d1bc58009962dadd9f5ce53131</link>
 <pubDate>Mon, 22 Dec 2025 21:41:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[An American Dream at risk: What happens to a small Nebraska town when 3,200 workers lose their jobs]]></title>
-<link>https://apnews.com/article/tyson-closure-workers-lexington-nebraska-beef-plant-638e615f6225bc7452767d2bc836890c</link>
-<pubDate>Mon, 22 Dec 2025 19:34:23 -0000</pubDate>
+<title><![CDATA[EXCERPT: In ‘Storm at the Capitol,’ police officers detail a brutal assault on Jan. 6, 2021]]></title>
+<link>https://apnews.com/article/capitol-riot-book-excerpt-trump-32429c15e05de5b1de34fe799ba89882</link>
+<pubDate>Tue, 23 Dec 2025 13:26:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
