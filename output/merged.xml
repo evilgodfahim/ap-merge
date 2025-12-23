@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 23 Dec 2025 19:33:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 20:12:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Saudi Arabia awards Pakistan’s powerful army chief highest national honor after defense pact]]></title>
+<link>https://apnews.com/article/pakistan-army-chief-saudi-arabia-higest-award-c22b3441d1268084b95177ae080d16ca</link>
+<pubDate>Tue, 23 Dec 2025 20:12:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-23-2025-6758f7ae1fee1ff9b81ecd45a12ac4e7</link>
 <pubDate>Tue, 23 Dec 2025 16:14:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish agents capture an IS member on the Afghan-Pakistan border]]></title>
-<link>https://apnews.com/article/turkey-operation-islamic-state-group-member-captured-289a567cce67cd70e170e56131a73e5d</link>
-<pubDate>Tue, 23 Dec 2025 15:59:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll in South Africa’s latest pub shooting rises to 10]]></title>
+<link>https://apnews.com/article/south-africa-mass-shooting-pub-death-toll-60ab3f05a9193b19c3b6dd2e609b5964</link>
+<pubDate>Tue, 23 Dec 2025 19:57:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US signs new health deals with 9 African countries that mirror Trump’s priorities]]></title>
 <link>https://apnews.com/article/us-africa-health-agreements-nigeria-kenya-trump-60ff22d1bc58009962dadd9f5ce53131</link>
 <pubDate>Tue, 23 Dec 2025 14:57:04 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Sudan’s prime minister takes his peace plan to the UN, but US urges humanitarian truce now]]></title>
 <link>https://apnews.com/article/un-sudan-war-paramilitary-peace-government-humanitarian-2c5225388d1d390722d53af83f3019ce</link>
 <pubDate>Tue, 23 Dec 2025 13:09:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South African police arrest suspect in mass shooting that killed 12, including 3 children]]></title>
-<link>https://apnews.com/article/south-africa-mass-shooting-children-arrest-saulsville-aed538637afa90324fcb7ddc955a101a</link>
-<pubDate>Mon, 22 Dec 2025 21:56:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +365,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bondi Beach shooting suspect conducted firearms training with his father, Australian police say]]></title>
-<link>https://apnews.com/video/bondi-beach-shooting-suspect-conducted-firearms-training-with-his-father-australian-police-say-9f527fc33c1648e88ca6bffeab1036ef</link>
-<pubDate>Mon, 22 Dec 2025 22:11:33 -0000</pubDate>
+<title><![CDATA[Greta Thunberg arrested in London while supporting hunger-striking pro-Palestinian activists]]></title>
+<link>https://apnews.com/video/greta-thunberg-arrested-in-london-while-supporting-hunger-striking-pro-palestinian-activists-6bc14391f052425b8fdf47d522d8150c</link>
+<pubDate>Tue, 23 Dec 2025 20:12:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Senator Lindsey Graham meets Israeli PM Netanyahu in Jerusalem]]></title>
-<link>https://apnews.com/video/us-senator-lindsey-graham-meets-israeli-pm-netanyahu-in-jerusalem-269136cb3f76427d9601b433592bbb0b</link>
-<pubDate>Mon, 22 Dec 2025 21:56:33 -0000</pubDate>
+<title><![CDATA[Israeli settlers forcibly enter Palestinian home and kill sheep in latest West Bank attack]]></title>
+<link>https://apnews.com/video/israeli-settlers-forcibly-enter-palestinian-home-and-kill-sheep-in-latest-west-bank-attack-b624d25b12dd41089f4ad0fdeb713e5f</link>
+<pubDate>Tue, 23 Dec 2025 19:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Lawmakers pull each other’s hair during Mexico City Congress session]]></title>
 <link>https://apnews.com/video/lawmakers-from-rival-blocs-scuffle-during-mexico-city-congress-session-87f691c16ace40b5a79da31a1a694364</link>
 <pubDate>Tue, 16 Dec 2025 00:55:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli settlers forcibly enter Palestinian home in latest West Bank attack]]></title>
+<link>https://apnews.com/article/israel-palestinians-settler-violence-netanyahu-military-3b78f16619ec065b80f6335dd37c62a0</link>
+<pubDate>Tue, 23 Dec 2025 19:42:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +404,6 @@
 <title><![CDATA[Clashes flare as top Turkish officials visit Syria ahead of a deadline for Kurdish integration]]></title>
 <link>https://apnews.com/article/turkey-syria-kurds-sdf-integration-9e87114f4c829064396e180f17c64af4</link>
 <pubDate>Tue, 23 Dec 2025 13:09:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi Arabia awards Pakistan’s powerful army chief highest national honor after defense pact]]></title>
-<link>https://apnews.com/article/pakistan-army-chief-saudi-arabia-higest-award-c22b3441d1268084b95177ae080d16ca</link>
-<pubDate>Mon, 22 Dec 2025 09:42:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in South Africa’s latest pub shooting rises to 10]]></title>
-<link>https://apnews.com/article/south-africa-mass-shooting-pub-death-toll-60ab3f05a9193b19c3b6dd2e609b5964</link>
-<pubDate>Tue, 23 Dec 2025 14:42:05 -0000</pubDate>
+<title><![CDATA[Mali, Burkina Faso and Niger call for joint ‘large-scale operations’ against extremists]]></title>
+<link>https://apnews.com/article/mali-summit-sahel-security-africa-cacd6f9aa5ea89bc112bcba508e5ef77</link>
+<pubDate>Tue, 23 Dec 2025 19:27:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
