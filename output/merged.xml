@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Dec 2025 18:16:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 18:48:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers forcibly enter Palestinian home in latest West Bank attack]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-violence-netanyahu-military-3b78f16619ec065b80f6335dd37c62a0</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kenyans protest after roaming elephants kill 4 people in a week]]></title>
+<link>https://apnews.com/article/kenya-elephants-killed-human-wildlife-conflict-3dd65a411e98554b8f08a0f459331f4a</link>
+<pubDate>Wed, 24 Dec 2025 18:48:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South African police continue arrests after mass shooting at a pub]]></title>
 <link>https://apnews.com/article/south-africa-shooting-pub-arrests-180a449b2c685ac994c15d5fb7ebc55e</link>
 <pubDate>Wed, 24 Dec 2025 17:38:30 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Guinea’s junta leader is expected to win first election since 2021 coup]]></title>
 <link>https://apnews.com/article/guinea-presidential-election-doumbouya-219d72ea90ad898fbd90f36b48fc129d</link>
 <pubDate>Wed, 24 Dec 2025 14:10:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mali, Burkina Faso and Niger call for joint ‘large-scale operations’ against extremists]]></title>
-<link>https://apnews.com/article/mali-summit-sahel-security-africa-cacd6f9aa5ea89bc112bcba508e5ef77</link>
-<pubDate>Wed, 24 Dec 2025 12:36:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kenyans protest after roaming elephants kill four people in a week]]></title>
-<link>https://apnews.com/article/kenya-elephants-killed-human-wildlife-conflict-3dd65a411e98554b8f08a0f459331f4a</link>
-<pubDate>Wed, 24 Dec 2025 17:38:32 -0000</pubDate>
+<title><![CDATA[Fenerbahce president detained in Istanbul drug investigation after positive narcotics test]]></title>
+<link>https://apnews.com/article/turkey-fenerbahce-chairman-detained-drug-investigation-7d806c39549b286c930b6900a1bd98d8</link>
+<pubDate>Wed, 24 Dec 2025 18:48:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +200,12 @@
 <title><![CDATA[Pope disappointed over approval of assisted suicide legislation in his home state of Illinois]]></title>
 <link>https://apnews.com/article/pope-illinois-assisted-suicide-pritzker-leo-law-eb08f9ca6ba45b4501b6f5c82603e368</link>
 <pubDate>Tue, 23 Dec 2025 21:37:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mali, Burkina Faso and Niger call for joint ‘large-scale operations’ against extremists]]></title>
+<link>https://apnews.com/article/mali-summit-sahel-security-africa-cacd6f9aa5ea89bc112bcba508e5ef77</link>
+<pubDate>Wed, 24 Dec 2025 18:33:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada’s Prime Minister Carney names financier Mark Wiseman as the next ambassador to Washington]]></title>
-<link>https://apnews.com/article/canada-washington-ambassador-wiseman-carney-trump-62b601991194bc212a07e2e245ad4179</link>
-<pubDate>Mon, 22 Dec 2025 23:37:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thousands flock to Bethlehem to revive Christmas spirit after 2 years of war in Gaza]]></title>
 <link>https://apnews.com/article/christmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c</link>
 <pubDate>Wed, 24 Dec 2025 13:06:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says he’s open to a free economic zone in Ukraine’s east but it must be put to a vote]]></title>
+<title><![CDATA[Zelenskyy says he’s open to creating demilitarized zone in Ukraine’s industrial heartland]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-peace-plan-d0c476bfa9ec218da5c8d5ff0c1d25c9</link>
-<pubDate>Wed, 24 Dec 2025 12:51:36 -0000</pubDate>
+<pubDate>Wed, 24 Dec 2025 18:48:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street hovers near record levels and will close early]]></title>
+<title><![CDATA[US stocks drift to more records on a holiday-shortened day of trading]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-trump-inflation-5f45b74c3fa380ead5251e63f854e651</link>
-<pubDate>Wed, 24 Dec 2025 14:41:57 -0000</pubDate>
+<pubDate>Wed, 24 Dec 2025 18:33:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Investigators sift through wreckage after a deadly Pennsylvania nursing home explosion]]></title>
+<title><![CDATA[Crews dig into Pennsylvania nursing home rubble to see if a gas leak caused deadly blast]]></title>
 <link>https://apnews.com/article/nursing-home-gas-explosion-pennsylvania-bristol-177e76bc77732de1de24c5d0f2e30623</link>
-<pubDate>Wed, 24 Dec 2025 17:08:33 -0000</pubDate>
+<pubDate>Wed, 24 Dec 2025 18:18:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
