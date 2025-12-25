@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 18:16:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 18:48:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkey recovers black boxes from jet crash that killed top Libyan military officials]]></title>
 <link>https://apnews.com/article/turkey-libya-army-chief-plane-crash-f6cad15a9472a6c750513bf841b1f4ff</link>
@@ -164,6 +164,12 @@
 <title><![CDATA[India wins T20 series against South Africa after taking 5th match by 30 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-325eb18a3b6af65d9ee3cb634b02844b</link>
 <pubDate>Sat, 20 Dec 2025 14:25:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian court sentences pro-war activist and Putin critic to 6 years in prison]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-crackdown-prison-df20958e79433d234b3774a7b3da0602</link>
+<pubDate>Thu, 25 Dec 2025 18:48:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Louvre tightens security after $102M jewel heist, installs bars on infamous window]]></title>
-<link>https://apnews.com/article/louvre-museum-window-security-theft-paris-dbf3ec10673b19df7ef8a4dfc77b8205</link>
-<pubDate>Wed, 24 Dec 2025 08:49:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
 <link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
 <pubDate>Thu, 25 Dec 2025 13:05:54 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi Arabia calls on Yemen separatists to leave 2 governorates as anti-Houthi coalition strains]]></title>
+<title><![CDATA[Saudi Arabia urges Yemen’s separatists to leave 2 governorates as the anti-rebel coalition strains]]></title>
 <link>https://apnews.com/article/yemen-separatists-houthis-war-saudi-arabia-uae-2e25b990a91b5eae67a47ded687d1d65</link>
-<pubDate>Thu, 25 Dec 2025 14:10:57 -0000</pubDate>
+<pubDate>Thu, 25 Dec 2025 18:48:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
