@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 14:40:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 15:11:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkey recovers black boxes from jet crash that killed top Libyan military officials]]></title>
 <link>https://apnews.com/article/turkey-libya-army-chief-plane-crash-f6cad15a9472a6c750513bf841b1f4ff</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Kremlin says Moscow made an offer to France regarding a French citizen imprisoned in Russia]]></title>
+<link>https://apnews.com/article/russia-france-laurent-vinatier-espionage-charges-prisoner-18bbe269269508454da92e00163158df</link>
+<pubDate>Thu, 25 Dec 2025 15:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zelenskyy says he’s open to creating demilitarized zone in Ukraine’s industrial heartland]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-peace-plan-d0c476bfa9ec218da5c8d5ff0c1d25c9</link>
 <pubDate>Thu, 25 Dec 2025 11:35:37 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[King Charles III leads family to church ahead of annual Christmas Day broadcast]]></title>
 <link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
 <pubDate>Thu, 25 Dec 2025 13:05:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pro-Russian hackers claim cyberattack on French postal service]]></title>
-<link>https://apnews.com/article/france-cyberattack-postal-service-russia-09bd0156aae99e14e619051756574853</link>
-<pubDate>Wed, 24 Dec 2025 09:57:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pro-Russian hackers claim cyberattack on French postal service]]></title>
+<link>https://apnews.com/article/france-cyberattack-postal-service-russia-09bd0156aae99e14e619051756574853</link>
+<pubDate>Thu, 25 Dec 2025 15:11:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Explosion in Moscow kills 3 people. Official says Ukrainian intelligence was behind it]]></title>
 <link>https://apnews.com/article/russia-explosion-police-moscow-dfe6caee0f0087ff5866dd9df1d85edd</link>
 <pubDate>Wed, 24 Dec 2025 21:21:53 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of Bolivian cholitas embracing the bell skirt as a symbol of strength]]></title>
-<link>https://apnews.com/photo-gallery/bolivia-pollera-skirt-indigenous-women-5e47f3f80f69ce7d82b94734110d1e9a</link>
-<pubDate>Thu, 25 Dec 2025 05:00:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
 <link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
 <pubDate>Thu, 25 Dec 2025 13:05:54 -0000</pubDate>
@@ -389,15 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter’s]]></title>
-<link>https://apnews.com/article/christmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c</link>
-<pubDate>Wed, 24 Dec 2025 22:41:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Saudi Arabia calls on Yemen separatists to leave 2 governorates as anti-Houthi coalition strains]]></title>
 <link>https://apnews.com/article/yemen-separatists-houthis-war-saudi-arabia-uae-2e25b990a91b5eae67a47ded687d1d65</link>
 <pubDate>Thu, 25 Dec 2025 14:10:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter’s]]></title>
+<link>https://apnews.com/article/christmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c</link>
+<pubDate>Wed, 24 Dec 2025 22:41:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
