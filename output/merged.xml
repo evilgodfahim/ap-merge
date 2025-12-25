@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 08:16:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 08:47:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about aid entering Gaza, the other battle between Israel and Hamas]]></title>
 <link>https://apnews.com/article/gaza-palestinians-israel-hamas-humanitarian-aid-trucks-ad4b837b84362f7ef0054da93e88f3bd</link>
@@ -185,12 +185,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
-<link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
-<pubDate>Thu, 25 Dec 2025 05:15:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Al-Shabab extremists are greatest threat to peace in Somalia and the region, UN experts say]]></title>
 <link>https://apnews.com/article/un-somalia-alshabab-alqaida-islamic-state-peace-7e1fa937e8044b000213d3e52ec2ce40</link>
 <pubDate>Thu, 25 Dec 2025 00:54:34 -0000</pubDate>
@@ -212,6 +206,12 @@
 <title><![CDATA[Fenerbahce president detained in Istanbul drug investigation after positive narcotics test]]></title>
 <link>https://apnews.com/article/turkey-fenerbahce-chairman-detained-drug-investigation-7d806c39549b286c930b6900a1bd98d8</link>
 <pubDate>Wed, 24 Dec 2025 18:48:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of Christmas celebrations around the world]]></title>
+<link>https://apnews.com/photo-gallery/christmas-photo-gallery-global-08acf32426539d963d9f2b780639bf91</link>
+<pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of Christmas celebrations around the world]]></title>
-<link>https://apnews.com/photo-gallery/christmas-photo-gallery-global-08acf32426539d963d9f2b780639bf91</link>
-<pubDate>Wed, 24 Dec 2025 17:38:33 -0000</pubDate>
+<title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
+<link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
+<pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
