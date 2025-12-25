@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 19:32:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 20:12:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkey recovers black boxes from jet crash that killed top Libyan military officials]]></title>
 <link>https://apnews.com/article/turkey-libya-army-chief-plane-crash-f6cad15a9472a6c750513bf841b1f4ff</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian court sentences pro-war activist and Putin critic to 6 years in prison]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-crackdown-prison-df20958e79433d234b3774a7b3da0602</link>
+<pubDate>Thu, 25 Dec 2025 20:12:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The Kremlin says Moscow made an offer to France regarding a French citizen imprisoned in Russia]]></title>
 <link>https://apnews.com/article/russia-france-laurent-vinatier-espionage-charges-prisoner-18bbe269269508454da92e00163158df</link>
 <pubDate>Thu, 25 Dec 2025 15:11:22 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Zelenskyy says he’s open to creating demilitarized zone in Ukraine’s industrial heartland]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-peace-plan-d0c476bfa9ec218da5c8d5ff0c1d25c9</link>
 <pubDate>Thu, 25 Dec 2025 11:35:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[King Charles III calls for kindness and unity in Christmas message amid global conflicts]]></title>
-<link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
-<pubDate>Thu, 25 Dec 2025 16:13:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storms bearing down on waterlogged Southern California could cause more flooding and mudslides]]></title>
+<title><![CDATA[New storm hitting waterlogged Southern California could cause more flooding and mudslides]]></title>
 <link>https://apnews.com/article/southern-california-storm-flooding-christmas-97d37667e11f56dcc6e35e5023f4bd3f</link>
-<pubDate>Thu, 25 Dec 2025 15:43:34 -0000</pubDate>
+<pubDate>Thu, 25 Dec 2025 19:57:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,21 +167,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian court sentences pro-war activist and Putin critic to 6 years in prison]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-crackdown-prison-df20958e79433d234b3774a7b3da0602</link>
-<pubDate>Thu, 25 Dec 2025 18:48:34 -0000</pubDate>
+<title><![CDATA[Jimmy Kimmel jokes about fascism in an ‘alternative Christmas message’ for Britain]]></title>
+<link>https://apnews.com/article/jimmy-kimmel-uk-christmas-mssage-aa6260d38b1e5e3061d708c422a84635</link>
+<pubDate>Thu, 25 Dec 2025 20:12:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey begins black box analysis of jet crash that killed Libyan military chief and 7 others]]></title>
+<title><![CDATA[Turkey starts examining black boxes from jet crash that killed Libya’s military chief and 7 others]]></title>
 <link>https://apnews.com/article/turkey-libya-plane-crash-army-chief-60f1a0f5ad4e8a6ffaec0cf7fcb91598</link>
-<pubDate>Thu, 25 Dec 2025 11:35:38 -0000</pubDate>
+<pubDate>Thu, 25 Dec 2025 19:57:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A helicopter on a rescue mission crashes on Tanzania’s Mount Kilimanjaro, killing all 5 on board]]></title>
 <link>https://apnews.com/article/tanzania-rescue-helicopter-crash-mount-kilimanjaro-70916d0d2fa7951e749c0e33ddde7bea</link>
 <pubDate>Thu, 25 Dec 2025 07:38:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[King Charles III calls for kindness and unity in Christmas message amid global conflicts]]></title>
+<link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
+<pubDate>Thu, 25 Dec 2025 19:42:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Death toll in South Africa’s latest pub shooting rises to 10]]></title>
 <link>https://apnews.com/article/south-africa-mass-shooting-pub-death-toll-60ab3f05a9193b19c3b6dd2e609b5964</link>
 <pubDate>Wed, 24 Dec 2025 17:23:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about aid entering Gaza, the other battle between Israel and Hamas]]></title>
-<link>https://apnews.com/article/gaza-palestinians-israel-hamas-humanitarian-aid-trucks-ad4b837b84362f7ef0054da93e88f3bd</link>
-<pubDate>Thu, 25 Dec 2025 12:50:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
