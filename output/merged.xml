@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 21:10:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 21:36:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
+<link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
+<pubDate>Thu, 25 Dec 2025 21:36:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Turkey recovers black boxes from jet crash that killed top Libyan military officials]]></title>
 <link>https://apnews.com/article/turkey-libya-army-chief-plane-crash-f6cad15a9472a6c750513bf841b1f4ff</link>
 <pubDate>Thu, 25 Dec 2025 14:10:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-1a0c40abfea3091a82c0ac521e104e26</link>
-<pubDate>Thu, 25 Dec 2025 13:55:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the week by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-week-top-ap-f7d51a995a0d89a56850d34a701d90a1</link>
+<pubDate>Thu, 25 Dec 2025 21:36:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jimmy Kimmel jokes about fascism in an ‘alternative Christmas message’ for Britain]]></title>
 <link>https://apnews.com/article/jimmy-kimmel-uk-christmas-mssage-aa6260d38b1e5e3061d708c422a84635</link>
 <pubDate>Thu, 25 Dec 2025 20:12:20 -0000</pubDate>
@@ -182,12 +188,6 @@
 <title><![CDATA[A helicopter on a rescue mission crashes on Tanzania’s Mount Kilimanjaro, killing all 5 on board]]></title>
 <link>https://apnews.com/article/tanzania-rescue-helicopter-crash-mount-kilimanjaro-70916d0d2fa7951e749c0e33ddde7bea</link>
 <pubDate>Thu, 25 Dec 2025 07:38:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[King Charles III calls for kindness and unity in Christmas message amid global conflicts]]></title>
-<link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
-<pubDate>Thu, 25 Dec 2025 19:42:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +224,12 @@
 <title><![CDATA[Photos of Christmas celebrations around the world]]></title>
 <link>https://apnews.com/photo-gallery/christmas-photo-gallery-global-08acf32426539d963d9f2b780639bf91</link>
 <pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-1a0c40abfea3091a82c0ac521e104e26</link>
+<pubDate>Thu, 25 Dec 2025 21:21:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in South Africa’s latest pub shooting rises to 10]]></title>
-<link>https://apnews.com/article/south-africa-mass-shooting-pub-death-toll-60ab3f05a9193b19c3b6dd2e609b5964</link>
-<pubDate>Wed, 24 Dec 2025 17:23:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
 <link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
 <pubDate>Thu, 25 Dec 2025 13:05:54 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A blast in Gaza wounds a soldier and Israel accuses Hamas of ceasefire violation]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-24-12-2025-64ef5cd8810543e62360b639c3e47010</link>
-<pubDate>Wed, 24 Dec 2025 14:10:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
 <link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
 <pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[King Charles III calls for kindness and unity in Christmas message amid global conflicts]]></title>
+<link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
+<pubDate>Thu, 25 Dec 2025 21:36:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
-<link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
-<pubDate>Wed, 24 Dec 2025 07:41:07 -0000</pubDate>
+<title><![CDATA[A blast in Gaza wounds a soldier and Israel accuses Hamas of ceasefire violation]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-24-12-2025-64ef5cd8810543e62360b639c3e47010</link>
+<pubDate>Wed, 24 Dec 2025 14:10:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
