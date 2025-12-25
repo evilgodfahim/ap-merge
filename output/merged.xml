@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 00:54:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 02:49:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers forcibly enter Palestinian home in latest West Bank attack]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-violence-netanyahu-military-3b78f16619ec065b80f6335dd37c62a0</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korean lawmakers pass bill targeting false information despite warnings on censorship]]></title>
+<link>https://apnews.com/article/south-korea-false-information-media-punitive-damages-53d85002f37cca96416b20ade2c6c72f</link>
+<pubDate>Thu, 25 Dec 2025 02:49:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bureaucratic mishap delayed gun license for accused Bondi Beach shooter in Australia]]></title>
 <link>https://apnews.com/article/australia-shooting-massacre-bondi-jewish-1e782ac357bb8b71e30eb3ffb249409d</link>
 <pubDate>Wed, 24 Dec 2025 09:27:36 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Protest erupts in India’s capital city over lynching of Hindu man in Bangladesh]]></title>
 <link>https://apnews.com/article/india-bangladesh-protest-new-delhi-dhaka-hindu-abcadd91cb85f6639bbed6d95b9a9763</link>
 <pubDate>Tue, 23 Dec 2025 10:12:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea lawmakers pass bill to establish rebellion courts after complaints about Yoon case]]></title>
-<link>https://apnews.com/article/south-korea-law-yoon-rebellion-special-courts-ea8a39725350798729030f9ad9774525</link>
-<pubDate>Tue, 23 Dec 2025 07:41:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +335,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s former emperor turns 92 as heart condition stabilizes after health concerns]]></title>
-<link>https://apnews.com/article/japan-emperor-akihito-92nd-birthday-a2f2c751d739b3cde58ab20c7db01a32</link>
-<pubDate>Tue, 23 Dec 2025 07:26:33 -0000</pubDate>
+<title><![CDATA[South Korea lawmakers pass bill to establish rebellion courts after complaints about Yoon case]]></title>
+<link>https://apnews.com/article/south-korea-law-yoon-rebellion-special-courts-ea8a39725350798729030f9ad9774525</link>
+<pubDate>Thu, 25 Dec 2025 02:49:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[S&P 500 closes at another record, beating the high it set earlier this month]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-yen-inflation-4b8f8a005685de8afd4c780307173832</link>
-<pubDate>Tue, 23 Dec 2025 21:22:12 -0000</pubDate>
+<title><![CDATA[Japan’s former emperor turns 92 as heart condition stabilizes after health concerns]]></title>
+<link>https://apnews.com/article/japan-emperor-akihito-92nd-birthday-a2f2c751d739b3cde58ab20c7db01a32</link>
+<pubDate>Tue, 23 Dec 2025 07:26:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean lawmakers pass bill targeting false information despite warnings on censorship]]></title>
-<link>https://apnews.com/article/south-korea-false-information-media-punitive-damages-53d85002f37cca96416b20ade2c6c72f</link>
-<pubDate>Wed, 24 Dec 2025 08:42:37 -0000</pubDate>
+<title><![CDATA[North Korea displays apparent progress in construction of nuclear-powered submarine]]></title>
+<link>https://apnews.com/article/north-korea-kim-nuclear-submarine-trump-042354b0b38bb429f937a4ecb7f70df2</link>
+<pubDate>Thu, 25 Dec 2025 02:49:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
