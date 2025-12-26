@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 15:11:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 15:39:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi Arabia urges Yemen’s separatists to leave 2 governorates as the anti-rebel coalition strains]]></title>
 <link>https://apnews.com/article/yemen-separatists-houthis-war-saudi-arabia-uae-2e25b990a91b5eae67a47ded687d1d65</link>
@@ -35,21 +35,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial]]></title>
+<link>https://apnews.com/article/malaysia-najib-razak-corruption-trial-c10c6edf4af838327052206628a57da1</link>
+<pubDate>Fri, 26 Dec 2025 15:39:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
 <link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
 <pubDate>Fri, 26 Dec 2025 11:36:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
-<link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
-<pubDate>Fri, 26 Dec 2025 08:17:05 -0000</pubDate>
+<title><![CDATA[At least 15 injured in a knife and chemical attack at a factory in Japan]]></title>
+<link>https://apnews.com/article/japan-stabbing-knife-factory-27851c68d86437cf0e2f70dea5286988</link>
+<pubDate>Fri, 26 Dec 2025 15:24:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses]]></title>
-<link>https://apnews.com/article/korea-adoption-abuse-united-nations-human-rights-c6f021ba75cdd947639082e546975b43</link>
-<pubDate>Fri, 26 Dec 2025 08:02:05 -0000</pubDate>
+<title><![CDATA[Brazilian ex-President Jair Bolsonaro undergoes double hernia surgery]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-hernia-surgery-prison-cf213deef6fdd4c15d903e47bae2c6ba</link>
+<pubDate>Fri, 26 Dec 2025 15:09:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Photos show Venezuelan migrants spending Christmas at home after abandoning hope of reaching the US]]></title>
 <link>https://apnews.com/photo-gallery/venezuela-migration-trump-crackdown-return-966bedd1c3b4bb44e62432506a961c90</link>
 <pubDate>Thu, 25 Dec 2025 17:24:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump-backed candidate Nasry Asfura declared winner of Honduras’ presidential vote]]></title>
-<link>https://apnews.com/article/honduras-election-trump-nasry-asfura-7ebbae3330cba08e0fbb62eaadc71bcb</link>
-<pubDate>Thu, 25 Dec 2025 13:40:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
+<link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
+<pubDate>Fri, 26 Dec 2025 08:17:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US drops plan to deport Chinese national who exposed Xinjiang abuses, rights activists say]]></title>
 <link>https://apnews.com/article/china-xinjiang-guan-dhs-deportation-4501dd29b8bd61c7282c88693d47930e</link>
 <pubDate>Fri, 26 Dec 2025 05:13:55 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
 <link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
 <pubDate>Sun, 21 Dec 2025 10:48:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US announces massive package of arms sales to Taiwan valued at more than $10 billion, angering China]]></title>
-<link>https://apnews.com/article/trump-taiwan-arms-sales-china-2743b66e3a4e47a895e731568cef9008</link>
-<pubDate>Mon, 22 Dec 2025 05:04:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed, while gold and silver hit record highs]]></title>
+<title><![CDATA[South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses]]></title>
+<link>https://apnews.com/article/korea-adoption-abuse-united-nations-human-rights-c6f021ba75cdd947639082e546975b43</link>
+<pubDate>Fri, 26 Dec 2025 15:39:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US stocks open mixed at the end of a holiday-shortened week]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-gold-trump-b7cbbbf8f21baa5079888124a13703e8</link>
-<pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
+<pubDate>Fri, 26 Dec 2025 15:24:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump-backed candidate Nasry Asfura declared winner of Honduras’ presidential vote]]></title>
+<link>https://apnews.com/article/honduras-election-trump-nasry-asfura-7ebbae3330cba08e0fbb62eaadc71bcb</link>
+<pubDate>Fri, 26 Dec 2025 15:09:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-24-2025-b138595fd27b3ed2ef525c20ec06d90a</link>
 <pubDate>Wed, 24 Dec 2025 21:36:53 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Explosion in Moscow kills 3 people. Official says Ukrainian intelligence was behind it]]></title>
-<link>https://apnews.com/article/russia-explosion-police-moscow-dfe6caee0f0087ff5866dd9df1d85edd</link>
-<pubDate>Wed, 24 Dec 2025 21:21:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
-<link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
-<pubDate>Fri, 26 Dec 2025 09:42:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
 <link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
 <pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
-<link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
-<pubDate>Fri, 26 Dec 2025 08:32:06 -0000</pubDate>
+<title><![CDATA[Nigerian villagers are rattled by US airstrikes that made their homes shake and the sky glow red]]></title>
+<link>https://apnews.com/article/nigeria-jabo-village-trump-us-airstrikes-d2795bbc099255d71f2c371c60832157</link>
+<pubDate>Fri, 26 Dec 2025 15:39:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 15 injured in a knife and chemical attack at a factory in Japan]]></title>
-<link>https://apnews.com/article/japan-stabbing-knife-factory-27851c68d86437cf0e2f70dea5286988</link>
-<pubDate>Fri, 26 Dec 2025 13:05:51 -0000</pubDate>
+<title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
+<link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
+<pubDate>Fri, 26 Dec 2025 08:32:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial]]></title>
-<link>https://apnews.com/article/malaysia-najib-razak-corruption-trial-c10c6edf4af838327052206628a57da1</link>
-<pubDate>Fri, 26 Dec 2025 13:41:38 -0000</pubDate>
+<title><![CDATA[Thailand bombs a village in Cambodia even as both nations hold border talks to end armed clashes]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-wildlife-93e7c405baa7d446134b2bfad0410cf4</link>
+<pubDate>Fri, 26 Dec 2025 15:24:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazilian ex-President Jair Bolsonaro undergoes double hernia surgery]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-hernia-surgery-prison-cf213deef6fdd4c15d903e47bae2c6ba</link>
-<pubDate>Thu, 25 Dec 2025 13:40:57 -0000</pubDate>
+<title><![CDATA[Christmas in Venezuela, polleras and more top photos this week in Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/latin-america-photos-this-week-5983684ff89f507ec492707d75ac7ad1</link>
+<pubDate>Fri, 26 Dec 2025 15:09:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
