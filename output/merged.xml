@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 21:36:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 22:10:56 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
+<link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
+<pubDate>Fri, 26 Dec 2025 22:10:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
 <link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
 <pubDate>Fri, 26 Dec 2025 08:32:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations]]></title>
-<link>https://apnews.com/article/christmas-new-years-istanbul-islamic-state-49a275e5b5d8071b68ff78d1ac4fa82e</link>
-<pubDate>Fri, 26 Dec 2025 19:33:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks dip slightly as investors return from Christmas holiday in light trading]]></title>
+<title><![CDATA[Stocks close slightly lower in quiet post-Christmas trading]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-gold-trump-b7cbbbf8f21baa5079888124a13703e8</link>
-<pubDate>Fri, 26 Dec 2025 20:24:46 -0000</pubDate>
+<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +230,12 @@
 <title><![CDATA[Jimmy Kimmel jokes about fascism in an ‘alternative Christmas message’ for Britain]]></title>
 <link>https://apnews.com/article/jimmy-kimmel-uk-christmas-mssage-aa6260d38b1e5e3061d708c422a84635</link>
 <pubDate>Thu, 25 Dec 2025 20:12:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations]]></title>
+<link>https://apnews.com/article/christmas-new-years-istanbul-islamic-state-49a275e5b5d8071b68ff78d1ac4fa82e</link>
+<pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,9 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter’s]]></title>
-<link>https://apnews.com/article/christmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c</link>
-<pubDate>Fri, 26 Dec 2025 12:20:50 -0000</pubDate>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
-<link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
-<pubDate>Fri, 26 Dec 2025 18:16:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mixed reactions in Lagos the day after US strikes against IS group in northwestern Nigeria]]></title>
 <link>https://apnews.com/video/mixed-reactions-in-lagos-the-day-after-us-strikes-against-is-group-in-northwestern-nigeria-75a5e890870e43b888f6a27a36cbee5f</link>
 <pubDate>Fri, 26 Dec 2025 18:01:27 -0000</pubDate>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
+<link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
+<pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Fri, 26 Dec 2025 12:35:51 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
 <link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
 <pubDate>Fri, 26 Dec 2025 19:18:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
-<link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
-<pubDate>Fri, 26 Dec 2025 19:03:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
