@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 07:14:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 07:39:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
 <link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar will hold its first general election in 5 years as criticism of the military rule mounts]]></title>
+<link>https://apnews.com/article/myanmar-election-military-hlaing-suu-kyi-fae9efc8021c651ebd4a20790ca961ca</link>
+<pubDate>Fri, 26 Dec 2025 07:39:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Albanese announces bravery award for heroes of Bondi antisemitic attack]]></title>
 <link>https://apnews.com/article/australia-shooting-bondi-hannukah-guns-bravery-award-e63c2c140a2f92b4553bfb40e8e78b5a</link>
 <pubDate>Fri, 26 Dec 2025 03:53:12 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[North Korea displays apparent progress in construction of nuclear-powered submarine]]></title>
 <link>https://apnews.com/article/north-korea-kim-nuclear-submarine-trump-042354b0b38bb429f937a4ecb7f70df2</link>
 <pubDate>Thu, 25 Dec 2025 05:00:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Son of former Bangladesh prime minister returns after 17 years in exile with a chance to lead]]></title>
-<link>https://apnews.com/article/bangladesh-tarique-rahman-exile-return-son-18f3054e735e580d18c41fb04bf5156d</link>
-<pubDate>Thu, 25 Dec 2025 07:38:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Son of former Bangladesh prime minister returns after 17 years in exile with a chance to lead]]></title>
+<link>https://apnews.com/article/bangladesh-tarique-rahman-exile-return-son-18f3054e735e580d18c41fb04bf5156d</link>
+<pubDate>Fri, 26 Dec 2025 07:39:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A helicopter on a rescue mission crashes on Tanzania’s Mount Kilimanjaro, killing all 5 on board]]></title>
 <link>https://apnews.com/article/tanzania-rescue-helicopter-crash-mount-kilimanjaro-70916d0d2fa7951e749c0e33ddde7bea</link>
 <pubDate>Thu, 25 Dec 2025 07:38:55 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venus Williams weds Andrea Preti in Florida as part of a 5-day celebration of their union]]></title>
-<link>https://apnews.com/article/venus-williams-marriage-6a7854a976648faaa817080963e9d2fe</link>
-<pubDate>Tue, 23 Dec 2025 18:50:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says US struck Islamic State targets in Nigeria after group targeted Christians]]></title>
 <link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
 <pubDate>Fri, 26 Dec 2025 00:55:01 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 Palestinians arrested on suspicion of torching a Christmas tree at a Catholic church in West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-jenin-christmas-church-arson-42e414f12db362dc5a0fab862a5e2c23</link>
-<pubDate>Thu, 25 Dec 2025 12:50:54 -0000</pubDate>
+<title><![CDATA[South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses]]></title>
+<link>https://apnews.com/article/korea-adoption-abuse-united-nations-human-rights-c6f021ba75cdd947639082e546975b43</link>
+<pubDate>Fri, 26 Dec 2025 07:39:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
-<link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
-<pubDate>Fri, 26 Dec 2025 05:13:57 -0000</pubDate>
+<title><![CDATA[3 Palestinians arrested on suspicion of torching a Christmas tree at a Catholic church in West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-jenin-christmas-church-arson-42e414f12db362dc5a0fab862a5e2c23</link>
+<pubDate>Thu, 25 Dec 2025 12:50:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar will hold its first general election in 5 years as criticism of the military rule mounts]]></title>
-<link>https://apnews.com/article/myanmar-election-military-hlaing-suu-kyi-fae9efc8021c651ebd4a20790ca961ca</link>
-<pubDate>Fri, 26 Dec 2025 03:53:13 -0000</pubDate>
+<title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
+<link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
+<pubDate>Fri, 26 Dec 2025 05:13:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Amid a battery boom, graphite mining gets a fresh look in the US]]></title>
+<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
 <link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
-<pubDate>Fri, 26 Dec 2025 04:58:57 -0000</pubDate>
+<pubDate>Fri, 26 Dec 2025 07:24:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
