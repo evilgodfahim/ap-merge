@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 00:55:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 02:48:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
 <link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
+<link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
+<pubDate>Thu, 25 Dec 2025 12:50:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Somalis vote in the first one-person, one-vote local election in decades]]></title>
 <link>https://apnews.com/article/somalia-mogadishu-council-election-a4d2f8d7091d531c3db5f2aa3ec46d0d</link>
 <pubDate>Thu, 25 Dec 2025 15:58:34 -0000</pubDate>
@@ -89,15 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kenyans protest after roaming elephants kill 4 people in a week]]></title>
-<link>https://apnews.com/article/kenya-elephants-killed-human-wildlife-conflict-3dd65a411e98554b8f08a0f459331f4a</link>
-<pubDate>Wed, 24 Dec 2025 18:48:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New storm hitting waterlogged Southern California could cause more flooding and mudslides]]></title>
+<title><![CDATA[New storm hitting waterlogged Southern California could bring mudslides and high surf]]></title>
 <link>https://apnews.com/article/southern-california-storm-flooding-christmas-97d37667e11f56dcc6e35e5023f4bd3f</link>
-<pubDate>Thu, 25 Dec 2025 19:57:20 -0000</pubDate>
+<pubDate>Fri, 26 Dec 2025 02:48:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kenyans protest after roaming elephants kill 4 people in a week]]></title>
+<link>https://apnews.com/article/kenya-elephants-killed-human-wildlife-conflict-3dd65a411e98554b8f08a0f459331f4a</link>
+<pubDate>Fri, 26 Dec 2025 02:48:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South African police continue arrests after mass shooting at a pub]]></title>
 <link>https://apnews.com/article/south-africa-shooting-pub-arrests-180a449b2c685ac994c15d5fb7ebc55e</link>
 <pubDate>Thu, 25 Dec 2025 13:05:53 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ancient Egyptian pharaoh’s boat is being reassembled in public at the Grand Egyptian Museum]]></title>
-<link>https://apnews.com/article/egypt-pharaoh-boat-grand-museum-f1f69878c838832e07e1047ed67265e9</link>
-<pubDate>Wed, 24 Dec 2025 15:11:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says US struck Islamic State targets in Nigeria after group targeted Christians]]></title>
 <link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
 <pubDate>Fri, 26 Dec 2025 00:55:01 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
-<link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
-<pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
+<title><![CDATA[Japan’s Cabinet OKs record defense budget that aims to deter China]]></title>
+<link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
+<pubDate>Fri, 26 Dec 2025 02:48:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
