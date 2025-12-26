@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 23:10:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 23:37:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
@@ -341,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
-<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
-<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
 <link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
 <pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
@@ -356,6 +350,12 @@
 <title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
 <link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
 <pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
