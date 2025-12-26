@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 05:42:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 06:18:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian church marks Christmas and reaffirms faith months after deadly attack]]></title>
 <link>https://apnews.com/article/syria-christmas-mar-elias-church-suicide-attack-8b4574acaa79720fb3bb870fb4f6d904</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
+<link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
+<pubDate>Thu, 25 Dec 2025 10:12:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
 <link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
 <pubDate>Thu, 25 Dec 2025 12:50:53 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Tears of joy as Nigerian families reunite with kidnapped schoolchildren]]></title>
 <link>https://apnews.com/article/nigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62</link>
 <pubDate>Thu, 25 Dec 2025 11:20:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the Central African Republic ahead of its election]]></title>
-<link>https://apnews.com/article/central-african-republic-election-peacekeeping-russia-dbd2cfe7866a617b1ce8c34e06472efa</link>
-<pubDate>Wed, 24 Dec 2025 07:26:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India wins T20 series against South Africa after taking 5th match by 30 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-325eb18a3b6af65d9ee3cb634b02844b</link>
 <pubDate>Sat, 20 Dec 2025 14:25:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares are mixed, while gold and silver hit record highs]]></title>
+<link>https://apnews.com/article/stocks-markets-japan-gold-trump-b7cbbbf8f21baa5079888124a13703e8</link>
+<pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Afghanistan’s historic Ariana Cinema torn down to make way for shopping center]]></title>
+<link>https://apnews.com/article/afghanistan-ariana-cinema-taliban-movies-94fb1121f8429cde472cf2594b614a0b</link>
+<pubDate>Fri, 26 Dec 2025 06:03:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the Central African Republic ahead of its election]]></title>
+<link>https://apnews.com/article/central-african-republic-election-peacekeeping-russia-dbd2cfe7866a617b1ce8c34e06472efa</link>
+<pubDate>Wed, 24 Dec 2025 06:19:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US stocks drift to more records on a holiday-shortened day of trading]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-trump-inflation-5f45b74c3fa380ead5251e63f854e651</link>
 <pubDate>Thu, 25 Dec 2025 10:12:04 -0000</pubDate>
@@ -326,24 +344,6 @@
 <title><![CDATA[Venus Williams weds Andrea Preti in Florida as part of a 5-day celebration of their union]]></title>
 <link>https://apnews.com/article/venus-williams-marriage-6a7854a976648faaa817080963e9d2fe</link>
 <pubDate>Tue, 23 Dec 2025 18:50:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Canadian lawyer linked to a former Olympic snowboarder accused of drug trafficking gets bail]]></title>
-<link>https://apnews.com/article/canada-drug-smuggling-wedding-olympic-snowboarder-910a69b9d01c661ce94bf3bd04b63ff2</link>
-<pubDate>Wed, 24 Dec 2025 00:09:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK authorities bring new charges of rape and sexual assault against Russell Brand]]></title>
-<link>https://apnews.com/article/russell-brand-rape-sexual-assault-women-charges-comedian-79f453c943a7609a4c8dbd21aebf85e3</link>
-<pubDate>Tue, 23 Dec 2025 18:35:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he’s inviting Kazakhstan and Uzbekistan to next year’s G20 summit in Miami]]></title>
-<link>https://apnews.com/article/trump-kazakhstan-uzbekistan-g20-0d5787656a4106245b4326726e59154c</link>
-<pubDate>Tue, 23 Dec 2025 17:41:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
-<link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
-<pubDate>Thu, 25 Dec 2025 11:20:38 -0000</pubDate>
+<title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
+<link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
+<pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
