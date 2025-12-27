@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 17:38:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 18:15:11 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
+<pubDate>Fri, 26 Dec 2025 10:12:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
 <pubDate>Fri, 26 Dec 2025 22:10:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
-<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
-<pubDate>Fri, 26 Dec 2025 08:32:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A magnitude 6.6 earthquake strikes off the coast of Taiwan]]></title>
+<link>https://apnews.com/article/taiwan-taipei-earthquake-75c1e4a4d00276937c3b07c894af3c2f</link>
+<pubDate>Sat, 27 Dec 2025 18:15:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[GLIMPSES: Prepping polling machines ahead of Myanmar’s weekend election]]></title>
 <link>https://apnews.com/article/myanmar-election-polls-ballots-glimpse-dd743a77908daf2c89c89951c034d934</link>
 <pubDate>Sat, 27 Dec 2025 08:45:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A massive crash on a highway in Japan kills 2 people and injures 26 as the holiday season starts]]></title>
-<link>https://apnews.com/article/japan-highway-crash-injury-d773c83734e2a6d395f2304d3e2708af</link>
-<pubDate>Sat, 27 Dec 2025 10:11:17 -0000</pubDate>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Sat, 27 Dec 2025 18:00:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Venezuelan family’s Christmas: From the American dream to poverty]]></title>
-<link>https://apnews.com/article/venezuela-migrants-christmas-us-trump-maduro-7a711863ce30f97924e25132a4c11172</link>
-<pubDate>Thu, 25 Dec 2025 17:39:03 -0000</pubDate>
+<title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
+<link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
+<pubDate>Sat, 27 Dec 2025 17:45:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[Somalis vote in the first one-person, one-vote local election in decades]]></title>
 <link>https://apnews.com/article/somalia-mogadishu-council-election-a4d2f8d7091d531c3db5f2aa3ec46d0d</link>
 <pubDate>Thu, 25 Dec 2025 15:58:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tears of joy as Nigerian families reunite with kidnapped schoolchildren]]></title>
-<link>https://apnews.com/article/nigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62</link>
-<pubDate>Thu, 25 Dec 2025 11:20:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,12 +119,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
-<link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
-<pubDate>Sat, 27 Dec 2025 11:18:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
 <link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
 <pubDate>Fri, 26 Dec 2025 08:17:05 -0000</pubDate>
@@ -140,6 +134,12 @@
 <title><![CDATA[FCC bans new Chinese-made drones, citing security risks]]></title>
 <link>https://apnews.com/article/china-drones-national-security-fcc-bbc2e8c7a0b42e2ddc74ad19a12ada98</link>
 <pubDate>Tue, 23 Dec 2025 00:54:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
+<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
+<pubDate>Sun, 21 Dec 2025 10:48:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +182,12 @@
 <title><![CDATA[Kosovo heads to a snap vote to end political deadlock]]></title>
 <link>https://apnews.com/article/kosovo-snap-election-deadlock-serbia-albin-kurti-9b648e66af9ecf47155f4cc770a8392e</link>
 <pubDate>Sat, 27 Dec 2025 06:01:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A massive crash on a highway in Japan kills 2 people and injures 26 as the holiday season starts]]></title>
+<link>https://apnews.com/article/japan-highway-crash-injury-d773c83734e2a6d395f2304d3e2708af</link>
+<pubDate>Sat, 27 Dec 2025 18:15:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Venezuelan family’s Christmas: From the American dream to poverty]]></title>
+<link>https://apnews.com/article/venezuela-migrants-christmas-us-trump-maduro-7a711863ce30f97924e25132a4c11172</link>
+<pubDate>Sat, 27 Dec 2025 18:00:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations]]></title>
 <link>https://apnews.com/article/christmas-new-years-istanbul-islamic-state-49a275e5b5d8071b68ff78d1ac4fa82e</link>
 <pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
@@ -302,6 +314,12 @@
 <title><![CDATA[3 Palestinians arrested on suspicion of torching a Christmas tree at a Catholic church in West Bank]]></title>
 <link>https://apnews.com/article/israel-palestinians-jenin-christmas-church-arson-42e414f12db362dc5a0fab862a5e2c23</link>
 <pubDate>Fri, 26 Dec 2025 19:33:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
+<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
+<pubDate>Sat, 27 Dec 2025 05:31:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,27 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi Arabia urges Yemen’s separatists to leave 2 governorates as the anti-rebel coalition strains]]></title>
-<link>https://apnews.com/article/yemen-separatists-houthis-war-saudi-arabia-uae-2e25b990a91b5eae67a47ded687d1d65</link>
-<pubDate>Fri, 26 Dec 2025 19:18:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[King Charles III calls for kindness and unity in Christmas message amid global conflicts]]></title>
-<link>https://apnews.com/article/king-charles-iii-christmas-speech-5078139bf94f0e953562b8af3d37ebfe</link>
-<pubDate>Thu, 25 Dec 2025 19:42:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Albanese announces bravery award for heroes of Bondi antisemitic attack]]></title>
-<link>https://apnews.com/article/australia-shooting-bondi-hannukah-guns-bravery-award-e63c2c140a2f92b4553bfb40e8e78b5a</link>
-<pubDate>Fri, 26 Dec 2025 08:32:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia attacks Kyiv with missiles and drones, killing 1 and wounding many ahead of Ukraine-US talks]]></title>
+<title><![CDATA[Russia hits Kyiv with missiles and drones the day before Zelenskyy and Trump meet]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
-<pubDate>Sat, 27 Dec 2025 10:11:18 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 18:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s president says his country is in a full-scale war with the West]]></title>
+<link>https://apnews.com/article/iran-president-war-west-trump-netanyahu-2ef7a55988b80813f6913c8c1835322b</link>
+<pubDate>Sat, 27 Dec 2025 18:00:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
 <link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
 <pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Fri, 26 Dec 2025 12:35:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
-<pubDate>Fri, 26 Dec 2025 19:18:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
-<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
-<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
+<title><![CDATA[Brazilian judge puts coup plot convicts under house arrest after former police commander flees]]></title>
+<link>https://apnews.com/article/brazil-coup-plot-house-arrests-5b74f4b78ecf7f802c62434f38f128a3</link>
+<pubDate>Sat, 27 Dec 2025 17:45:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
-<link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
-<pubDate>Sat, 27 Dec 2025 06:01:48 -0000</pubDate>
+<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
+<link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
+<pubDate>Fri, 26 Dec 2025 07:24:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
