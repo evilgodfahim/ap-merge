@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 04:49:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 05:12:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
@@ -29,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial]]></title>
-<link>https://apnews.com/article/malaysia-najib-razak-corruption-trial-c10c6edf4af838327052206628a57da1</link>
-<pubDate>Fri, 26 Dec 2025 15:39:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
 <link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
 <pubDate>Fri, 26 Dec 2025 11:36:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Millions of Afghans face hunger as aid cuts deepen a humanitarian crisis]]></title>
+<link>https://apnews.com/article/afghanistan-aid-cuts-hunger-humanitarian-crisis-0c8f7335bc58979c36b053347b862c32</link>
+<pubDate>Sat, 27 Dec 2025 05:12:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Harvey Weinstein accuser Kaja Sokola is being sued for defamation. The plaintiff: Her sister]]></title>
-<link>https://apnews.com/article/harvey-weinstein-sexual-assault-trial-lawsuit-9dd6f26349cee5570319e859ba3c8b03</link>
-<pubDate>Fri, 26 Dec 2025 18:48:01 -0000</pubDate>
+<title><![CDATA[Anonymous money fuels $5 million in attacks on Georgia’s Lt. Gov. Burt Jones]]></title>
+<link>https://apnews.com/article/burt-jones-governor-2026-georgia-dark-money-70f49891f560a70fb68788ac8dbe7dc3</link>
+<pubDate>Sat, 27 Dec 2025 04:57:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asian shares are mixed after US stocks drift to more records]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-china-trump-9d7c1b00b9249fd75581b1c7a1d3089c</link>
+<pubDate>Thu, 25 Dec 2025 06:18:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Saudi Arabia urges Yemen’s separatists to leave 2 governorates as the anti-rebel coalition strains]]></title>
 <link>https://apnews.com/article/yemen-separatists-houthis-war-saudi-arabia-uae-2e25b990a91b5eae67a47ded687d1d65</link>
 <pubDate>Fri, 26 Dec 2025 19:18:01 -0000</pubDate>
@@ -332,12 +338,6 @@
 <title><![CDATA[Photos of Christmas celebrations around the world]]></title>
 <link>https://apnews.com/photo-gallery/christmas-photo-gallery-global-08acf32426539d963d9f2b780639bf91</link>
 <pubDate>Thu, 25 Dec 2025 08:47:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-aptopix-vertical-mobile-1a0c40abfea3091a82c0ac521e104e26</link>
-<pubDate>Thu, 25 Dec 2025 21:21:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,39 +413,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed after US stocks drift to more records]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-china-trump-9d7c1b00b9249fd75581b1c7a1d3089c</link>
-<pubDate>Thu, 25 Dec 2025 10:12:05 -0000</pubDate>
+<title><![CDATA[Trump overturned decades of US trade policy in 2025. See the impact of his tariffs, in four charts]]></title>
+<link>https://apnews.com/article/trump-tariffs-economy-liberation-day-d3458da225c1fdfade97ed494b23e868</link>
+<pubDate>Sat, 27 Dec 2025 05:12:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal judge upholds Hawaii’s new climate change tax on cruise passengers]]></title>
-<link>https://apnews.com/article/hawaii-green-fee-tax-tourist-cruise-5e4b8333eccf915f8a0fb836c9ef3361</link>
-<pubDate>Thu, 25 Dec 2025 09:57:05 -0000</pubDate>
+<title><![CDATA[Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial]]></title>
+<link>https://apnews.com/article/malaysia-najib-razak-corruption-trial-c10c6edf4af838327052206628a57da1</link>
+<pubDate>Fri, 26 Dec 2025 13:41:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump order halts offshore wind projects for at least 90 days]]></title>
-<link>https://apnews.com/article/trump-offshore-wind-energy-climate-337980893e944ca274e46dbb70d04cb1</link>
-<pubDate>Wed, 24 Dec 2025 09:12:37 -0000</pubDate>
+<title><![CDATA[More thrifting and fewer returns, the early trends that defined shopping this holiday]]></title>
+<link>https://apnews.com/article/holiday-shopping-economy-fdf49d13841e3296670f1fdbdd59d4c9</link>
+<pubDate>Sat, 27 Dec 2025 04:57:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France’s parliament approves emergency bill to prevent US-style government shutdown]]></title>
-<link>https://apnews.com/article/france-budget-deficit-macron-parliament-35cc7c2994ebd49772126c08a5f02fb6</link>
-<pubDate>Wed, 24 Dec 2025 08:57:37 -0000</pubDate>
+<title><![CDATA[Pakistani consortium acquires 75% stake in PIA in major privatization move]]></title>
+<link>https://apnews.com/article/pakistan-auction-pia-airline-359d56172b852a9f6f16f775423d8ac5</link>
+<pubDate>Sat, 27 Dec 2025 04:42:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Edmunds: The best used luxury vehicles to be had for under $40,000]]></title>
-<link>https://apnews.com/article/edmunds-bmw-mercedes-acura-genesis-buick-0f8e08445bf5c9c7d43f708ff6d252e0</link>
-<pubDate>Wed, 24 Dec 2025 12:06:36 -0000</pubDate>
+<title><![CDATA[An American Dream at risk: What happens to a small Nebraska town when 3,200 workers lose their jobs]]></title>
+<link>https://apnews.com/article/tyson-closure-workers-lexington-nebraska-beef-plant-638e615f6225bc7452767d2bc836890c</link>
+<pubDate>Mon, 22 Dec 2025 19:34:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand bombs a village in Cambodia even as both nations hold border talks to end armed clashes]]></title>
+<title><![CDATA[Cambodia reports Thai air strikes as the 2 nations hold peace talks]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-wildlife-93e7c405baa7d446134b2bfad0410cf4</link>
-<pubDate>Fri, 26 Dec 2025 15:24:41 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 04:27:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
