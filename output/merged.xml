@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 15:10:00 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
-<pubDate>Fri, 26 Dec 2025 10:12:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 27 Dec 2025 15:37:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
 <pubDate>Fri, 26 Dec 2025 22:10:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
+<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
+<pubDate>Fri, 26 Dec 2025 08:32:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Public release of Epstein records puts Ghislaine Maxwell under fresh scrutiny]]></title>
-<link>https://apnews.com/article/epstein-files-ghislaine-maxwell-sex-trafficking-ad68cf52d66cdbe0167ba8e37b04ccca</link>
-<pubDate>Fri, 26 Dec 2025 19:18:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A beginner’s guide to Kwanzaa]]></title>
 <link>https://apnews.com/article/kwanzaa-holiday-african-culture-us-b8832d32a15531190f810fe56d50d58c</link>
 <pubDate>Fri, 26 Dec 2025 19:03:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Times Square to feature patriotic crystal ball for New Year’s Eve, kicking off US’s 250th birthday]]></title>
+<link>https://apnews.com/article/new-years-eve-ball-drop-america-250-08a94fa44ef84b7f5f18f35bcec78d91</link>
+<pubDate>Fri, 26 Dec 2025 16:43:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,12 +305,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
-<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
-<pubDate>Sat, 27 Dec 2025 05:31:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Turkey starts examining black boxes from jet crash that killed Libya’s military chief and 7 others]]></title>
 <link>https://apnews.com/article/turkey-libya-plane-crash-army-chief-60f1a0f5ad4e8a6ffaec0cf7fcb91598</link>
 <pubDate>Thu, 25 Dec 2025 19:57:20 -0000</pubDate>
@@ -347,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Albanese announces bravery award for heroes of Bondi antisemitic attack]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-hannukah-guns-bravery-award-e63c2c140a2f92b4553bfb40e8e78b5a</link>
+<pubDate>Fri, 26 Dec 2025 08:32:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia attacks Kyiv with missiles and drones, killing 1 and wounding many ahead of Ukraine-US talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
 <pubDate>Sat, 27 Dec 2025 10:11:18 -0000</pubDate>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
-<link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
-<pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
+<title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
+<link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
+<pubDate>Sat, 27 Dec 2025 15:37:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
-<link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
-<pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
+<title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
+<link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
+<pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[African regional bodies reject recognition of Somaliland by Israel]]></title>
-<link>https://apnews.com/article/somalia-somaliland-recognition-israel-0643e819cc043163d7a81c91617232a9</link>
-<pubDate>Sat, 27 Dec 2025 13:03:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
 <link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
 <pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
@@ -410,6 +404,12 @@
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Fri, 26 Dec 2025 12:35:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
+<pubDate>Fri, 26 Dec 2025 19:18:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
