@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 16:12:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 16:44:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show the destruction after Russia’s latest attacks on Kyiv]]></title>
+<link>https://apnews.com/photo-gallery/russia-ukraine-war-kyiv-attacks-9afb64eb232695d5a86f1edb3f1b1872</link>
+<pubDate>Sat, 27 Dec 2025 16:44:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Key issues unresolved in US-Ukraine talks on ending Russia’s war, according to Zelenskyy]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-plan-territory-security-zaporizhzhia-3667a0630eae5827d997ec0b98db2ca6</link>
 <pubDate>Fri, 26 Dec 2025 18:16:26 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy]]></title>
 <link>https://apnews.com/article/cyprus-lionfish-toadfish-invasive-species-mediterranean-climate-b7a33b3f56d642171e54860706a67669</link>
 <pubDate>Sat, 27 Dec 2025 06:16:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Libya holds funeral for military officials killed in plane crash in Turkey]]></title>
-<link>https://apnews.com/article/turkey-libya-jet-crash-funeral-0f517016597e145363df34ca32e40fef</link>
-<pubDate>Sat, 27 Dec 2025 11:33:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
+<link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
+<pubDate>Thu, 25 Dec 2025 10:12:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack]]></title>
 <link>https://apnews.com/article/nigeria-explosion-mosque-maiduguri-borno-242c38ef57056201bf2a689858a62cbe</link>
 <pubDate>Thu, 25 Dec 2025 12:50:53 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Tears of joy as Nigerian families reunite with kidnapped schoolchildren]]></title>
 <link>https://apnews.com/article/nigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62</link>
 <pubDate>Thu, 25 Dec 2025 11:20:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the Central African Republic ahead of its election]]></title>
-<link>https://apnews.com/article/central-african-republic-election-peacekeeping-russia-dbd2cfe7866a617b1ce8c34e06472efa</link>
-<pubDate>Wed, 24 Dec 2025 07:26:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
-<link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
-<pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mixed reactions in Lagos the day after US strikes against IS group in northwestern Nigeria]]></title>
 <link>https://apnews.com/video/mixed-reactions-in-lagos-the-day-after-us-strikes-against-is-group-in-northwestern-nigeria-75a5e890870e43b888f6a27a36cbee5f</link>
 <pubDate>Fri, 26 Dec 2025 18:01:27 -0000</pubDate>
@@ -392,6 +386,12 @@
 <title><![CDATA[Taipei conducts drills to counter random attack in MRT, shopping mall]]></title>
 <link>https://apnews.com/video/taipei-conducts-drills-to-counter-random-attack-in-mrt-shopping-mall-89aa308273054943838150f541145a00</link>
 <pubDate>Fri, 26 Dec 2025 17:31:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Libya holds funeral for military officials killed in plane crash in Turkey]]></title>
+<link>https://apnews.com/article/turkey-libya-jet-crash-funeral-0f517016597e145363df34ca32e40fef</link>
+<pubDate>Sat, 27 Dec 2025 11:33:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian rescuers search for Spanish family after boat sinks near Komodo Island]]></title>
+<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
 <link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
-<pubDate>Sat, 27 Dec 2025 14:10:04 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 16:29:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
-<link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
-<pubDate>Thu, 25 Dec 2025 11:20:38 -0000</pubDate>
+<title><![CDATA[US launches strikes against Islamic State group in Nigeria after attacks target Christians]]></title>
+<link>https://apnews.com/article/trump-islamic-state-nigeria-43478823f0562cafc527fad1448a0542</link>
+<pubDate>Fri, 26 Dec 2025 14:11:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
