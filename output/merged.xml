@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 11:08:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 11:33:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey holds military funeral for Libyan officers killed in plane crash]]></title>
+<title><![CDATA[Libya holds funeral for military officials killed in plane crash in Turkey]]></title>
 <link>https://apnews.com/article/turkey-libya-jet-crash-funeral-0f517016597e145363df34ca32e40fef</link>
-<pubDate>Sat, 27 Dec 2025 06:01:47 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 11:33:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
+<link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
+<pubDate>Sat, 27 Dec 2025 11:18:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japanese Cabinet approves record defense spending]]></title>
 <link>https://apnews.com/article/japan-defense-spending-china-missile-221b2cb5da0760d6e07f63ac01deba93</link>
 <pubDate>Fri, 26 Dec 2025 08:17:05 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[FCC bans new Chinese-made drones, citing security risks]]></title>
 <link>https://apnews.com/article/china-drones-national-security-fcc-bbc2e8c7a0b42e2ddc74ad19a12ada98</link>
 <pubDate>Tue, 23 Dec 2025 00:54:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price]]></title>
-<link>https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5</link>
-<pubDate>Sun, 21 Dec 2025 10:48:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi-led coalition in Yemen warns UAE-backed separatists of immediate action]]></title>
-<link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
-<pubDate>Sat, 27 Dec 2025 09:26:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
 <link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
 <pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
-<link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
-<pubDate>Sat, 27 Dec 2025 06:01:48 -0000</pubDate>
+<title><![CDATA[Indonesian rescuers search for a Spanish family after boat sinks near Komodo Island]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
+<pubDate>Sat, 27 Dec 2025 11:18:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
-<link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
-<pubDate>Fri, 26 Dec 2025 07:24:18 -0000</pubDate>
+<title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
+<link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
+<pubDate>Sat, 27 Dec 2025 06:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
