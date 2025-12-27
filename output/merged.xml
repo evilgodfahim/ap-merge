@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 21:35:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 22:10:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pilot dies in ultralight plane crash off Copacabana beach in Brazil]]></title>
+<link>https://apnews.com/article/brazil-copacabana-plane-crash-rio-de-janeiro-989f32e5ed89fad7270f17b38b279a22</link>
+<pubDate>Sat, 27 Dec 2025 22:10:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bus accident leaves 15 dead in Guatemala and government declares 3-day national mourning period]]></title>
 <link>https://apnews.com/article/guatemala-bus-accident-e15d75e878281f469e708f11a2e88b58</link>
 <pubDate>Sat, 27 Dec 2025 19:17:29 -0000</pubDate>
@@ -62,18 +68,6 @@
 <title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
 <link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
 <pubDate>Sat, 27 Dec 2025 18:00:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Christmas in Venezuela, polleras and more top photos this week in Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-photos-this-week-5983684ff89f507ec492707d75ac7ad1</link>
-<pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
-<link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
-<pubDate>Sat, 27 Dec 2025 17:45:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,6 +86,12 @@
 <title><![CDATA[Somalis vote in the first one-person, one-vote local election in decades]]></title>
 <link>https://apnews.com/article/somalia-mogadishu-council-election-a4d2f8d7091d531c3db5f2aa3ec46d0d</link>
 <pubDate>Thu, 25 Dec 2025 15:58:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tears of joy as Nigerian families reunite with kidnapped schoolchildren]]></title>
+<link>https://apnews.com/article/nigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62</link>
+<pubDate>Thu, 25 Dec 2025 11:20:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pilot dies in ultralight plane crash off Copacabana beach in Brazil]]></title>
-<link>https://apnews.com/article/brazil-copacabana-plane-crash-rio-de-janeiro-989f32e5ed89fad7270f17b38b279a22</link>
-<pubDate>Sat, 27 Dec 2025 19:32:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Italian authorities arrest 9 for allegedly funding Hamas through charities]]></title>
 <link>https://apnews.com/article/italy-hamas-investigation-funds-arrests-42e74b861874b7f62b37dfed3c8a88f6</link>
 <pubDate>Sat, 27 Dec 2025 13:03:17 -0000</pubDate>
@@ -212,6 +206,12 @@
 <title><![CDATA[Cambodia reports Thai air strikes as the 2 nations hold peace talks]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-wildlife-93e7c405baa7d446134b2bfad0410cf4</link>
 <pubDate>Sat, 27 Dec 2025 05:46:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Christmas in Venezuela, polleras and more top photos this week in Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/latin-america-photos-this-week-5983684ff89f507ec492707d75ac7ad1</link>
+<pubDate>Sat, 27 Dec 2025 22:10:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Winter storm snarls U.S. holiday travel across Northeast, Great Lakes]]></title>
+<title><![CDATA[Winter storm snarls holiday travel across US Northeast, Great Lakes]]></title>
 <link>https://apnews.com/article/holiday-travel-snow-light-cancellations-bd2cdb21ab373c6d21be046352ec5a9b</link>
-<pubDate>Sat, 27 Dec 2025 13:55:04 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 22:10:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
