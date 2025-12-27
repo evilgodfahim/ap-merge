@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 09:38:13 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
-<pubDate>Fri, 26 Dec 2025 10:12:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 27 Dec 2025 10:11:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanese Cabinet approves a draft law to return funds wiped out with the 2019 collapse of banks]]></title>
 <link>https://apnews.com/article/lebanon-gap-law-economic-crisis-banks-f5769bb1eb7a44f49abb66b366fddf0f</link>
 <pubDate>Fri, 26 Dec 2025 22:10:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
+<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
+<pubDate>Fri, 26 Dec 2025 08:32:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Key issues unresolved in US-Ukraine talks on ending Russia’s war, according to Zelenskyy]]></title>
+<link>https://apnews.com/article/ukraine-russia-war-plan-territory-security-zaporizhzhia-3667a0630eae5827d997ec0b98db2ca6</link>
+<pubDate>Fri, 26 Dec 2025 18:16:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
-<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
-<pubDate>Fri, 26 Dec 2025 08:32:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Millions of Afghans face hunger as aid cuts deepen a humanitarian crisis]]></title>
 <link>https://apnews.com/article/afghanistan-aid-cuts-hunger-humanitarian-crisis-0c8f7335bc58979c36b053347b862c32</link>
 <pubDate>Sat, 27 Dec 2025 05:12:36 -0000</pubDate>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A massive crash on a highway in Japan kills 1 person and injures 26 as the holiday season starts]]></title>
+<title><![CDATA[A massive crash on a highway in Japan kills 2 people and injures 26 as the holiday season starts]]></title>
 <link>https://apnews.com/article/japan-highway-crash-injury-d773c83734e2a6d395f2304d3e2708af</link>
-<pubDate>Sat, 27 Dec 2025 02:45:07 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 10:11:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Christmas in Venezuela, polleras and more top photos this week in Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/latin-america-photos-this-week-5983684ff89f507ec492707d75ac7ad1</link>
+<pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[A Venezuelan family’s Christmas: From the American dream to poverty]]></title>
 <link>https://apnews.com/article/venezuela-migrants-christmas-us-trump-maduro-7a711863ce30f97924e25132a4c11172</link>
 <pubDate>Thu, 25 Dec 2025 17:39:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show Venezuelan migrants spending Christmas at home after abandoning hope of reaching the US]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-migration-trump-crackdown-return-966bedd1c3b4bb44e62432506a961c90</link>
-<pubDate>Thu, 25 Dec 2025 17:24:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia attacks Kyiv with missiles and drones, wounding 11 ahead of Ukraine-US meeting]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
-<pubDate>Sat, 27 Dec 2025 08:45:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Sure, the newspaper informed. But as it fades, those who used it for other things must adjust, too]]></title>
 <link>https://apnews.com/article/media-newspapers-fading-warren-buffett-6cebea1d8b67ab14d062c803cbe0ff42</link>
 <pubDate>Sat, 27 Dec 2025 06:16:47 -0000</pubDate>
@@ -215,9 +209,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mosque bombing in Syria leaves 8 dead and 18 wounded]]></title>
+<link>https://apnews.com/article/syria-mosque-bombing-homs-alawites-fa281c0ccb592658c538e19a4143790a</link>
+<pubDate>Sat, 27 Dec 2025 10:11:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[At least 15 injured in a knife and chemical attack at a factory in Japan]]></title>
 <link>https://apnews.com/article/japan-stabbing-knife-factory-27851c68d86437cf0e2f70dea5286988</link>
 <pubDate>Fri, 26 Dec 2025 11:36:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
+<link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
+<pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -266,6 +272,12 @@
 <title><![CDATA[Russian court sentences pro-war activist and Putin critic to 6 years in prison]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-crackdown-prison-df20958e79433d234b3774a7b3da0602</link>
 <pubDate>Thu, 25 Dec 2025 18:48:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show Venezuelan migrants spending Christmas at home after abandoning hope of reaching the US]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-migration-trump-crackdown-return-966bedd1c3b4bb44e62432506a961c90</link>
+<pubDate>Sat, 27 Dec 2025 09:41:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Al-Shabab extremists are greatest threat to peace in Somalia and the region, UN experts say]]></title>
-<link>https://apnews.com/article/un-somalia-alshabab-alqaida-islamic-state-peace-7e1fa937e8044b000213d3e52ec2ce40</link>
-<pubDate>Thu, 25 Dec 2025 00:54:34 -0000</pubDate>
+<title><![CDATA[Russia attacks Kyiv with missiles and drones, killing 1 and wounding many ahead of Ukraine-US talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
+<pubDate>Sat, 27 Dec 2025 10:11:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-december-24-2025-b138595fd27b3ed2ef525c20ec06d90a</link>
-<pubDate>Wed, 24 Dec 2025 21:36:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand and Cambodia sign new ceasefire agreement to end border fighting]]></title>
+<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
-<pubDate>Sat, 27 Dec 2025 06:16:48 -0000</pubDate>
+<pubDate>Sat, 27 Dec 2025 09:56:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hundreds mourn in Syria’s Homs after deadly mosque bombing]]></title>
+<link>https://apnews.com/article/syria-homs-mosque-bomb-alawite-28c05d4c1f3178a3336a3c2d41a4d60e</link>
+<pubDate>Sat, 27 Dec 2025 09:41:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,18 +374,6 @@
 <title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
 <link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
 <pubDate>Fri, 26 Dec 2025 06:18:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
-<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
-<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigerian villagers are rattled by US airstrikes that made their homes shake and the sky glow red]]></title>
-<link>https://apnews.com/article/nigeria-jabo-village-trump-us-airstrikes-d2795bbc099255d71f2c371c60832157</link>
-<pubDate>Fri, 26 Dec 2025 15:39:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
-<link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
-<pubDate>Fri, 26 Dec 2025 08:32:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mosque bombing in Syria leaves 8 dead and 18 wounded]]></title>
-<link>https://apnews.com/article/syria-mosque-bombing-homs-alawites-fa281c0ccb592658c538e19a4143790a</link>
-<pubDate>Fri, 26 Dec 2025 16:28:47 -0000</pubDate>
+<title><![CDATA[Saudi-led coalition in Yemen warns UAE-backed separatists of immediate action]]></title>
+<link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
+<pubDate>Sat, 27 Dec 2025 09:26:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -416,6 +410,12 @@
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Fri, 26 Dec 2025 12:35:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
+<pubDate>Fri, 26 Dec 2025 19:18:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Key issues unresolved in US-Ukraine talks on ending Russia’s war, according to Zelenskyy]]></title>
-<link>https://apnews.com/article/ukraine-russia-war-plan-territory-security-zaporizhzhia-3667a0630eae5827d997ec0b98db2ca6</link>
-<pubDate>Sat, 27 Dec 2025 07:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
 <link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
 <pubDate>Sat, 27 Dec 2025 06:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Christmas in Venezuela, polleras and more top photos this week in Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-photos-this-week-5983684ff89f507ec492707d75ac7ad1</link>
-<pubDate>Fri, 26 Dec 2025 15:09:41 -0000</pubDate>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
