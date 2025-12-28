@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 22:10:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 22:40:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
 <link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kosovans vote in a second attempt this year to elect a government and avoid more crisis]]></title>
+<title><![CDATA[Preliminary results show Prime Minister Kurti’s party won Kosovo snap vote convincingly]]></title>
 <link>https://apnews.com/article/kosovo-election-parliamentary-snap-fefaef8fc72b11cf930866d40ec30689</link>
-<pubDate>Sun, 28 Dec 2025 18:48:29 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 22:40:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show Venezuelans celebrating Holy Innocents’ Day]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-innocents-day-photo-gallery-07d3b2a0d163f4756b9c6fce2aaba6bb</link>
+<pubDate>Sun, 28 Dec 2025 22:25:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bus accident leaves 15 dead in Guatemala and government declares 3-day national mourning period]]></title>
 <link>https://apnews.com/article/guatemala-bus-accident-e15d75e878281f469e708f11a2e88b58</link>
 <pubDate>Sat, 27 Dec 2025 19:17:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
-<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
-<pubDate>Sat, 27 Dec 2025 18:00:10 -0000</pubDate>
+<title><![CDATA[Central African Republic’s incumbent president, a Russian ally, eyes a third term in key elections]]></title>
+<link>https://apnews.com/article/central-african-republic-federal-regional-elections-russia-ec71c086b3058bb7fcb2c3c16c886afc</link>
+<pubDate>Sun, 28 Dec 2025 22:10:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,12 +92,6 @@
 <title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
 <link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
 <pubDate>Sat, 27 Dec 2025 17:45:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
-<link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
-<pubDate>Thu, 25 Dec 2025 10:12:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,12 +170,6 @@
 <title><![CDATA[Interoceanic Train derails in southern Mexico, injuring at least 15 and halting traffic on line]]></title>
 <link>https://apnews.com/article/mexico-interoceanic-train-accident-66abc879f2d0c101e21aeac59ea804e3</link>
 <pubDate>Sun, 28 Dec 2025 21:36:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Knife attack near Suriname’s capital Paramaribo kills at least 9 people, including kids, police say]]></title>
-<link>https://apnews.com/article/suriname-knife-attack-children-7485dabfe9e7939b490b726c942c0af2</link>
-<pubDate>Sun, 28 Dec 2025 18:48:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -266,6 +260,12 @@
 <title><![CDATA[A massive crash on a highway in Japan kills 2 people and injures 26 as the holiday season starts]]></title>
 <link>https://apnews.com/article/japan-highway-crash-injury-d773c83734e2a6d395f2304d3e2708af</link>
 <pubDate>Sat, 27 Dec 2025 18:15:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Sun, 28 Dec 2025 22:40:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar holds first election since military seized power but critics say the vote is a sham]]></title>
-<link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
-<pubDate>Sun, 28 Dec 2025 15:10:20 -0000</pubDate>
+<title><![CDATA[Knife attack near Suriname’s capital Paramaribo kills at least 9 people, including kids, police say]]></title>
+<link>https://apnews.com/article/suriname-knife-attack-children-7485dabfe9e7939b490b726c942c0af2</link>
+<pubDate>Sun, 28 Dec 2025 22:40:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guineans vote in first election since 2021 coup with junta leader likely to win]]></title>
-<link>https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2</link>
-<pubDate>Sun, 28 Dec 2025 20:12:16 -0000</pubDate>
+<title><![CDATA[Myanmar holds first election since military seized power but critics say the vote is a sham]]></title>
+<link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
+<pubDate>Sun, 28 Dec 2025 15:10:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Central African Republic’s incumbent president, a Russian ally, eyes a third term in key elections]]></title>
-<link>https://apnews.com/article/central-african-republic-federal-regional-elections-russia-ec71c086b3058bb7fcb2c3c16c886afc</link>
-<pubDate>Sun, 28 Dec 2025 10:41:41 -0000</pubDate>
+<title><![CDATA[Guineans vote in first election since 2021 coup with junta leader likely to win]]></title>
+<link>https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2</link>
+<pubDate>Sun, 28 Dec 2025 20:12:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
