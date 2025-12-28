@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 11:34:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 12:20:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
 <link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Sat, 27 Dec 2025 19:32:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hounded by photographers for years, Bardot identified with the animals she later set out to save]]></title>
+<link>https://apnews.com/article/brigitte-bardot-obit-life-1477b4fd9ed3a03ca8db01f5bd5d2f7b</link>
+<pubDate>Sun, 28 Dec 2025 12:20:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show the destruction after Russia’s latest attacks on Kyiv]]></title>
-<link>https://apnews.com/photo-gallery/russia-ukraine-war-kyiv-attacks-9afb64eb232695d5a86f1edb3f1b1872</link>
-<pubDate>Sat, 27 Dec 2025 16:44:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thailand’s political parties name prime minister candidates for February election]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-thaksin-peoples-party-a0344517524ce1330f3a8bb3802d8f0c</link>
 <pubDate>Sun, 28 Dec 2025 10:26:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
-<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
-<pubDate>Sun, 28 Dec 2025 09:38:33 -0000</pubDate>
+<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
+<pubDate>Sun, 28 Dec 2025 12:05:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Millions of Afghans face hunger as aid cuts deepen a humanitarian crisis]]></title>
-<link>https://apnews.com/article/afghanistan-aid-cuts-hunger-humanitarian-crisis-0c8f7335bc58979c36b053347b862c32</link>
-<pubDate>Sat, 27 Dec 2025 05:12:36 -0000</pubDate>
+<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
+<pubDate>Sun, 28 Dec 2025 09:38:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos remembering Brigitte Bardot, iconic French actor and activist]]></title>
+<link>https://apnews.com/photo-gallery/france-bardot-obit-6f2ab342faa2dd1bf87b510532c04aa9</link>
+<pubDate>Sun, 28 Dec 2025 12:20:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A building collapse in South Africa kills three people, including a 1-year-old]]></title>
+<link>https://apnews.com/article/south-africa-building-collapse-three-dead-66df10b356572c092dc132f293e57181</link>
+<pubDate>Sun, 28 Dec 2025 12:05:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A magnitude 6.6 earthquake strikes off the coast of Taiwan]]></title>
 <link>https://apnews.com/article/taiwan-taipei-earthquake-75c1e4a4d00276937c3b07c894af3c2f</link>
 <pubDate>Sun, 28 Dec 2025 10:41:40 -0000</pubDate>
@@ -188,6 +200,12 @@
 <title><![CDATA[Kosovo heads to a snap vote to end political deadlock]]></title>
 <link>https://apnews.com/article/kosovo-snap-election-deadlock-serbia-albin-kurti-9b648e66af9ecf47155f4cc770a8392e</link>
 <pubDate>Sat, 27 Dec 2025 06:01:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Millions of Afghans face hunger as aid cuts deepen a humanitarian crisis]]></title>
+<link>https://apnews.com/article/afghanistan-aid-cuts-hunger-humanitarian-crisis-0c8f7335bc58979c36b053347b862c32</link>
+<pubDate>Sun, 28 Dec 2025 11:50:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mohammad Bakri, renowned and controversial Palestinian actor and filmmaker, dies at 72]]></title>
-<link>https://apnews.com/article/israel-palestinian-mohammad-bakri-oscars-filmmaker-actor-201bf148a68304b52abc361cca79b348</link>
-<pubDate>Fri, 26 Dec 2025 12:35:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 Palestinians arrested on suspicion of torching a Christmas tree at a Catholic church in West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-jenin-christmas-church-arson-42e414f12db362dc5a0fab862a5e2c23</link>
-<pubDate>Fri, 26 Dec 2025 19:33:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering]]></title>
-<link>https://apnews.com/article/pope-leo-christmas-vatican-6ca774ce1ac49190c9ed3a4fc199d396</link>
-<pubDate>Sat, 27 Dec 2025 05:31:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Polls open for Myanmar’s first election since military seized power]]></title>
 <link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
 <pubDate>Sun, 28 Dec 2025 04:28:10 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brigitte Bardot, 1960s sultry sex symbol turned militant animal rights activist dies at 91]]></title>
-<link>https://apnews.com/article/france-bardot-obit-397b87b8550dec3d199b2b5754149d7c</link>
-<pubDate>Sun, 28 Dec 2025 10:26:41 -0000</pubDate>
+<title><![CDATA[Protesters clash in Syria after deadly Alawite mosque bombing]]></title>
+<link>https://apnews.com/article/syria-alawite-protesters-mosque-bombing-clashes-bf53f7ab2efaa6ccce67a9538ff1e249</link>
+<pubDate>Sun, 28 Dec 2025 12:20:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
-<pubDate>Sat, 27 Dec 2025 09:56:18 -0000</pubDate>
+<title><![CDATA[Brigitte Bardot, 1960s sultry sex symbol turned militant animal rights activist dies at 91]]></title>
+<link>https://apnews.com/article/france-bardot-obit-397b87b8550dec3d199b2b5754149d7c</link>
+<pubDate>Sun, 28 Dec 2025 10:26:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thai and Cambodian top diplomats meet in China to solidify ceasefire]]></title>
+<link>https://apnews.com/article/china-thailand-cambodia-ceasefire-02d9339ec101b8d5f3f6c097764c9ba8</link>
+<pubDate>Sun, 28 Dec 2025 12:05:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
