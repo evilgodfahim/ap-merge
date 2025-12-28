@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 01:01:34 GMT</lastBuildDate>
-<item>
-<title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
-<link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
-<pubDate>Sun, 28 Dec 2025 01:01:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 28 Dec 2025 03:18:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
 <pubDate>Sat, 27 Dec 2025 19:32:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
+<pubDate>Fri, 26 Dec 2025 10:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the militants targeted by US airstrikes in northwest Nigeria]]></title>
+<link>https://apnews.com/article/trump-nigeria-military-strikes-sokoto-lakurawa-1fd77ce78e5d72ca776b788a762866fa</link>
+<pubDate>Sat, 27 Dec 2025 17:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Algeria votes to declare French colonization a crime and demands restitution]]></title>
 <link>https://apnews.com/article/algeria-france-colonization-crime-macron-53e646727ba76bcba530b5dc523adf4f</link>
 <pubDate>Thu, 25 Dec 2025 10:12:04 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Somalis vote in the first one-person, one-vote local election in decades]]></title>
 <link>https://apnews.com/article/somalia-mogadishu-council-election-a4d2f8d7091d531c3db5f2aa3ec46d0d</link>
 <pubDate>Thu, 25 Dec 2025 15:58:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tears of joy as Nigerian families reunite with kidnapped schoolchildren]]></title>
-<link>https://apnews.com/article/nigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62</link>
-<pubDate>Thu, 25 Dec 2025 11:20:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,12 +233,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkish authorities say they have arrested suspected IS member planning New Year’s attacks]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-arrest-malatya-new-years-378491b33abc372123afa8cd2affeb5c</link>
-<pubDate>Fri, 26 Dec 2025 12:50:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
 <link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
 <pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
@@ -347,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A helicopter on a rescue mission crashes on Tanzania’s Mount Kilimanjaro, killing all 5 on board]]></title>
+<link>https://apnews.com/article/tanzania-rescue-helicopter-crash-mount-kilimanjaro-70916d0d2fa7951e749c0e33ddde7bea</link>
+<pubDate>Thu, 25 Dec 2025 07:38:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Polls open for military-ruled Myanmar’s first election in 5 years]]></title>
 <link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
 <pubDate>Sun, 28 Dec 2025 01:01:33 -0000</pubDate>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s president says his country is in a full-scale war with the West]]></title>
-<link>https://apnews.com/article/iran-president-war-west-trump-netanyahu-2ef7a55988b80813f6913c8c1835322b</link>
-<pubDate>Sat, 27 Dec 2025 18:00:11 -0000</pubDate>
+<title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
+<link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
+<pubDate>Fri, 26 Dec 2025 21:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
