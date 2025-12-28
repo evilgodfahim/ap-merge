@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 19:33:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 20:12:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
+<link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
+<pubDate>Sun, 28 Dec 2025 20:12:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Libya mourns military chief killed in Turkey plane crash]]></title>
 <link>https://apnews.com/article/libya-military-chief-funeral-plane-crash-d4add13913b082e6e69a85984915fcc6</link>
 <pubDate>Sun, 28 Dec 2025 15:10:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds mourn in Syria’s Homs after deadly mosque bombing]]></title>
-<link>https://apnews.com/article/syria-homs-mosque-bomb-alawite-28c05d4c1f3178a3336a3c2d41a4d60e</link>
-<pubDate>Sun, 28 Dec 2025 14:55:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump reports a ‘very productive call’ with Putin before engaging with Zelenskyy in Florida]]></title>
+<title><![CDATA[Trump welcomes Zelenskyy for talks, asserts Russia and Ukraine both want peace, however elusive]]></title>
 <link>https://apnews.com/article/trump-zelenskyy-russia-ukraine-war-florida-42c38dbb3eecc22dd80271d504308337</link>
-<pubDate>Sun, 28 Dec 2025 17:39:01 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 19:57:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A winter storm threatens to bring blizzards and ice to parts of the U.S., hampering holiday travel]]></title>
+<link>https://apnews.com/article/cyclone-christmas-travel-weather-snow-flights-1dc6429f0b3e2ff4a52e351eeeae23cc</link>
+<pubDate>Sun, 28 Dec 2025 19:42:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New York subway ends its MetroCard era and switches fully to tap-and-go fares]]></title>
 <link>https://apnews.com/article/metrocard-retired-omny-pay-nyc-subway-512112eea4d6e082baab299d41e8171a</link>
 <pubDate>Sun, 28 Dec 2025 13:28:55 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Anonymous money fuels $5 million in attacks on Georgia’s Lt. Gov. Burt Jones]]></title>
 <link>https://apnews.com/article/burt-jones-governor-2026-georgia-dark-money-70f49891f560a70fb68788ac8dbe7dc3</link>
 <pubDate>Sat, 27 Dec 2025 04:57:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sure, the newspaper informed. But as it fades, those who used it for other things must adjust, too]]></title>
-<link>https://apnews.com/article/media-newspapers-fading-warren-buffett-6cebea1d8b67ab14d062c803cbe0ff42</link>
-<pubDate>Sat, 27 Dec 2025 20:40:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,9 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds mourn in Syria’s Homs after deadly mosque bombing]]></title>
+<link>https://apnews.com/article/syria-homs-mosque-bomb-alawite-28c05d4c1f3178a3336a3c2d41a4d60e</link>
+<pubDate>Sun, 28 Dec 2025 20:12:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Libya holds funeral for military officials killed in plane crash in Turkey]]></title>
 <link>https://apnews.com/article/turkey-libya-jet-crash-funeral-0f517016597e145363df34ca32e40fef</link>
 <pubDate>Sun, 28 Dec 2025 13:13:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sure, the newspaper informed. But as it fades, those who used it for other things must adjust, too]]></title>
+<link>https://apnews.com/article/media-newspapers-fading-warren-buffett-6cebea1d8b67ab14d062c803cbe0ff42</link>
+<pubDate>Sat, 27 Dec 2025 06:16:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks close slightly lower in quiet post-Christmas trading]]></title>
-<link>https://apnews.com/article/stocks-markets-japan-gold-trump-b7cbbbf8f21baa5079888124a13703e8</link>
-<pubDate>Fri, 26 Dec 2025 22:10:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanistan’s historic Ariana Cinema torn down to make way for shopping center]]></title>
-<link>https://apnews.com/article/afghanistan-ariana-cinema-taliban-movies-94fb1121f8429cde472cf2594b614a0b</link>
-<pubDate>Fri, 26 Dec 2025 06:03:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Winter rain floods Gaza camps as Netanyahu heads for US meeting]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-rain-flooding-camps-03427b994adfb84a6d5f4a49d440d5ae</link>
 <pubDate>Sun, 28 Dec 2025 16:12:36 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea votes in first election since 2021 coup with junta leader expected to win]]></title>
+<title><![CDATA[Guineans vote in first election since 2021 coup with junta leader likely to win]]></title>
 <link>https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2</link>
-<pubDate>Sun, 28 Dec 2025 08:14:50 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 20:12:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +407,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chilly Gaza braces for more winter rain and word of any progress in ceasefire talks]]></title>
-<link>https://apnews.com/article/gaza-israel-palestinians-hamas-ceasefire-war-news-ebf60136f5ff1dadf56222cde4cd8e52</link>
-<pubDate>Sat, 27 Dec 2025 19:17:30 -0000</pubDate>
+<title><![CDATA[Photos show surfers riding waves along Gaza City’s damaged coastline]]></title>
+<link>https://apnews.com/photo-gallery/gaza-israel-palestinians-surfers-photo-gallery-209edf6019886df8a84a7ea0d2223304</link>
+<pubDate>Sun, 28 Dec 2025 19:57:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
-<link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
-<pubDate>Sat, 27 Dec 2025 15:37:27 -0000</pubDate>
+<title><![CDATA[Chilly Gaza braces for more winter rain and word of any progress in ceasefire talks]]></title>
+<link>https://apnews.com/article/gaza-israel-palestinians-hamas-ceasefire-war-news-ebf60136f5ff1dadf56222cde4cd8e52</link>
+<pubDate>Sat, 27 Dec 2025 19:17:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A winter storm threatens to bring blizzards and ice to parts of the U.S., hampering holiday travel]]></title>
-<link>https://apnews.com/article/cyclone-christmas-travel-weather-snow-flights-1dc6429f0b3e2ff4a52e351eeeae23cc</link>
-<pubDate>Sun, 28 Dec 2025 14:10:20 -0000</pubDate>
+<title><![CDATA[One person is dead and another is injured in midair helicopter crash in New Jersey, officials say]]></title>
+<link>https://apnews.com/article/hammonton-new-jersey-helicopter-crash-68717ae773636de9142e03e8b5dbd6f1</link>
+<pubDate>Sun, 28 Dec 2025 19:42:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
