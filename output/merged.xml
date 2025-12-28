@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 03:18:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 04:28:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
@@ -197,12 +197,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show California homes buried in mud and debris during Christmas storms]]></title>
-<link>https://apnews.com/photo-gallery/california-storms-atmospheric-river-rain-31b07de6a267b797c8426702f01ed6ae</link>
-<pubDate>Fri, 26 Dec 2025 16:43:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cambodia reports Thai air strikes as the 2 nations hold peace talks]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-wildlife-93e7c405baa7d446134b2bfad0410cf4</link>
 <pubDate>Sat, 27 Dec 2025 05:46:47 -0000</pubDate>
@@ -347,9 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polls open for military-ruled Myanmar’s first election in 5 years]]></title>
+<title><![CDATA[Asian shares are mixed after US stocks drift to more records]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-china-trump-9d7c1b00b9249fd75581b1c7a1d3089c</link>
+<pubDate>Thu, 25 Dec 2025 06:18:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Polls open for Myanmar’s first election since military seized power]]></title>
 <link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
-<pubDate>Sun, 28 Dec 2025 01:01:33 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 04:28:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
