@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 21:10:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 21:36:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
 <link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show Myanmar holding its first election since the military seized power]]></title>
+<link>https://apnews.com/photo-gallery/myanmar-election-photo-gallery-9a63a52162e280c550b30439a0988c52</link>
+<pubDate>Sun, 28 Dec 2025 21:36:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[GLIMPSES: Prepping polling machines ahead of Myanmar’s weekend election]]></title>
 <link>https://apnews.com/article/myanmar-election-polls-ballots-glimpse-dd743a77908daf2c89c89951c034d934</link>
 <pubDate>Sat, 27 Dec 2025 08:45:24 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
 <pubDate>Sun, 28 Dec 2025 12:05:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
-<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
-<pubDate>Sun, 28 Dec 2025 09:38:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A winter storm threatens to bring blizzards and ice to parts of the U.S., hampering holiday travel]]></title>
+<title><![CDATA[A winter storm threatens to bring blizzards and ice to parts of the US, hampering holiday travel]]></title>
 <link>https://apnews.com/article/cyclone-christmas-travel-weather-snow-flights-1dc6429f0b3e2ff4a52e351eeeae23cc</link>
-<pubDate>Sun, 28 Dec 2025 19:42:14 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 21:21:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Interoceanic Train derails in southern Mexico, injuring at least 15 and halting traffic on line]]></title>
+<link>https://apnews.com/article/mexico-interoceanic-train-accident-66abc879f2d0c101e21aeac59ea804e3</link>
+<pubDate>Sun, 28 Dec 2025 21:36:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Knife attack near Suriname’s capital Paramaribo kills at least 9 people, including kids, police say]]></title>
 <link>https://apnews.com/article/suriname-knife-attack-children-7485dabfe9e7939b490b726c942c0af2</link>
 <pubDate>Sun, 28 Dec 2025 18:48:30 -0000</pubDate>
@@ -218,6 +224,12 @@
 <title><![CDATA[Italian authorities arrest 9 for allegedly funding Hamas through charities]]></title>
 <link>https://apnews.com/article/italy-hamas-investigation-funds-arrests-42e74b861874b7f62b37dfed3c8a88f6</link>
 <pubDate>Sat, 27 Dec 2025 13:03:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
+<pubDate>Sun, 28 Dec 2025 21:21:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,18 +344,6 @@
 <title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
 <link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
 <pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Korean prosecutors seek 10-year sentence for ousted President Yoon in first martial law trial]]></title>
-<link>https://apnews.com/article/south-korea-yoon-martial-law-2a0873fe94416fb4e7a626ef560cf949</link>
-<pubDate>Fri, 26 Dec 2025 08:47:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses]]></title>
-<link>https://apnews.com/article/korea-adoption-abuse-united-nations-human-rights-c6f021ba75cdd947639082e546975b43</link>
-<pubDate>Fri, 26 Dec 2025 15:39:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One person is dead and another is injured in midair helicopter crash in New Jersey, officials say]]></title>
+<title><![CDATA[Midair helicopter crash in New Jersey leaves 1 dead and another critically injured]]></title>
 <link>https://apnews.com/article/hammonton-new-jersey-helicopter-crash-68717ae773636de9142e03e8b5dbd6f1</link>
-<pubDate>Sun, 28 Dec 2025 19:42:16 -0000</pubDate>
+<pubDate>Sun, 28 Dec 2025 21:36:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
