@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 09:11:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 09:38:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others]]></title>
 <link>https://apnews.com/article/israel-palestinians-stabbing-ramming-militant-attack-war-e80f99771c1586529bcddf9bb24a2eb8</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
+<pubDate>Sun, 28 Dec 2025 09:38:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Millions of Afghans face hunger as aid cuts deepen a humanitarian crisis]]></title>
 <link>https://apnews.com/article/afghanistan-aid-cuts-hunger-humanitarian-crisis-0c8f7335bc58979c36b053347b862c32</link>
 <pubDate>Sat, 27 Dec 2025 05:12:36 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[A magnitude 6.6 earthquake strikes off the coast of Taiwan]]></title>
 <link>https://apnews.com/article/taiwan-taipei-earthquake-75c1e4a4d00276937c3b07c894af3c2f</link>
 <pubDate>Sat, 27 Dec 2025 18:15:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[GLIMPSES: Prepping polling machines ahead of Myanmar’s weekend election]]></title>
-<link>https://apnews.com/article/myanmar-election-polls-ballots-glimpse-dd743a77908daf2c89c89951c034d934</link>
-<pubDate>Sat, 27 Dec 2025 08:45:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[Italian authorities arrest 9 for allegedly funding Hamas through charities]]></title>
 <link>https://apnews.com/article/italy-hamas-investigation-funds-arrests-42e74b861874b7f62b37dfed3c8a88f6</link>
 <pubDate>Sat, 27 Dec 2025 13:03:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[GLIMPSES: Prepping polling machines ahead of Myanmar’s weekend election]]></title>
+<link>https://apnews.com/article/myanmar-election-polls-ballots-glimpse-dd743a77908daf2c89c89951c034d934</link>
+<pubDate>Sun, 28 Dec 2025 09:38:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A helicopter on a rescue mission crashes on Tanzania’s Mount Kilimanjaro, killing all 5 on board]]></title>
-<link>https://apnews.com/article/tanzania-rescue-helicopter-crash-mount-kilimanjaro-70916d0d2fa7951e749c0e33ddde7bea</link>
-<pubDate>Thu, 25 Dec 2025 07:38:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Polls open for Myanmar’s first election since military seized power]]></title>
 <link>https://apnews.com/article/myanmar-election-yangon-suu-kyi-hlaing-military-f361d4962d30b9c5c4741110bb1271ef</link>
 <pubDate>Sun, 28 Dec 2025 04:28:10 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia strikes Ukraine’s capital and kills at least 1 person a day before Zelenskyy-Trump meeting]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
-<pubDate>Sat, 27 Dec 2025 19:32:30 -0000</pubDate>
+<title><![CDATA[Central African Republic’s incumbent president, a Russia ally, eyes a third term in key elections]]></title>
+<link>https://apnews.com/article/central-african-republic-federal-regional-elections-russia-ec71c086b3058bb7fcb2c3c16c886afc</link>
+<pubDate>Sun, 28 Dec 2025 09:38:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
-<pubDate>Sat, 27 Dec 2025 09:56:18 -0000</pubDate>
+<title><![CDATA[Russia strikes Ukraine’s capital and kills at least 1 person a day before Zelenskyy-Trump meeting]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
+<pubDate>Sat, 27 Dec 2025 19:32:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian rescuers search for a Spanish coach and 3 children after tour boat sinks]]></title>
-<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-e9f73a308eff6e1f84df5713a22f5fb4</link>
-<pubDate>Sat, 27 Dec 2025 16:29:28 -0000</pubDate>
+<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
+<pubDate>Sat, 27 Dec 2025 09:56:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
