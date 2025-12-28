@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 05:23:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 05:44:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran seizes an oil tanker in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-seizure-oil-tanker-hormuz-strait-16f0c69a2314c17dcc08149b10861fa3</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia strikes Ukraine’s capital and kills at least 1 person a day before Zelenskyy-Trump meeting]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
+<pubDate>Sun, 28 Dec 2025 05:44:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show the destruction after Russia’s latest attacks on Kyiv]]></title>
 <link>https://apnews.com/photo-gallery/russia-ukraine-war-kyiv-attacks-9afb64eb232695d5a86f1edb3f1b1872</link>
 <pubDate>Sat, 27 Dec 2025 16:44:27 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Key issues unresolved in US-Ukraine talks on ending Russia’s war, according to Zelenskyy]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-plan-territory-security-zaporizhzhia-3667a0630eae5827d997ec0b98db2ca6</link>
 <pubDate>Fri, 26 Dec 2025 18:16:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy]]></title>
-<link>https://apnews.com/article/cyprus-lionfish-toadfish-invasive-species-mediterranean-climate-b7a33b3f56d642171e54860706a67669</link>
-<pubDate>Sat, 27 Dec 2025 06:16:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia strikes Ukraine’s capital and kills at least 1 person a day before Zelenskyy-Trump meeting]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kyiv-strikes-67c576b92273cc0953de64590572e159</link>
-<pubDate>Sat, 27 Dec 2025 19:32:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
 <pubDate>Sat, 27 Dec 2025 09:56:18 -0000</pubDate>
@@ -440,6 +434,12 @@
 <title><![CDATA[Pakistani consortium acquires 75% stake in PIA in major privatization move]]></title>
 <link>https://apnews.com/article/pakistan-auction-pia-airline-359d56172b852a9f6f16f775423d8ac5</link>
 <pubDate>Sat, 27 Dec 2025 04:42:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive]]></title>
+<link>https://apnews.com/article/trump-zelenskyy-russia-ukraine-war-florida-42c38dbb3eecc22dd80271d504308337</link>
+<pubDate>Sun, 28 Dec 2025 05:44:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
