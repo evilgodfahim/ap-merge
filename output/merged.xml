@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 29 Dec 2025 07:43:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 08:18:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Chilly Gaza braces for more winter rain and word of any progress in ceasefire talks]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-hamas-ceasefire-war-news-ebf60136f5ff1dadf56222cde4cd8e52</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
+<link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
+<pubDate>Mon, 29 Dec 2025 08:18:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Korean President Lee returns to presidential palace avoided by predecessor]]></title>
 <link>https://apnews.com/article/south-korea-blue-house-cheong-wa-dae-yoon-60a7f09301acaa6e0924288e05a57797</link>
 <pubDate>Mon, 29 Dec 2025 03:06:01 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Families of Bondi Beach victims demand more federal action on antisemitism and security failures]]></title>
 <link>https://apnews.com/article/australia-shooting-jewish-bondi-sydney-6cfab9303e36efdbd3f792eabe2af28f</link>
 <pubDate>Mon, 29 Dec 2025 05:33:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian rescuers find a body while searching for Spanish soccer coach and 3 children]]></title>
-<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-806ae179b972e649db51c04ac759b4f6</link>
-<pubDate>Mon, 29 Dec 2025 05:18:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at Indonesian retirement home kills 16 older residents]]></title>
+<title><![CDATA[Fire at Indonesian retirement home kills 16 residents]]></title>
 <link>https://apnews.com/article/indonesia-manado-fire-retirement-home-b5488748382a1a3126309ed8c6e65610</link>
-<pubDate>Mon, 29 Dec 2025 06:56:20 -0000</pubDate>
+<pubDate>Mon, 29 Dec 2025 08:18:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Islamic State group militants clash with police during raid in Turkey, wounding 7 officers]]></title>
 <link>https://apnews.com/article/turkey-police-wounded-islamic-state-group-militants-e0f7e22314d7b790c20ffb15ae817aa6</link>
 <pubDate>Mon, 29 Dec 2025 06:41:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indonesian rescuers find a body while searching for Spanish soccer coach and 3 children]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-806ae179b972e649db51c04ac759b4f6</link>
+<pubDate>Mon, 29 Dec 2025 08:03:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,12 +212,6 @@
 <title><![CDATA[Hungary’s ‘water guardian’ farmers fight back against desertification]]></title>
 <link>https://apnews.com/article/hungary-water-guardians-conservation-desertification-fc8bb7d46490e7fb693b113cf6b2d4bb</link>
 <pubDate>Mon, 29 Dec 2025 04:31:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens]]></title>
-<link>https://apnews.com/article/mexico-interoceanic-train-accident-66abc879f2d0c101e21aeac59ea804e3</link>
-<pubDate>Mon, 29 Dec 2025 03:06:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens]]></title>
+<link>https://apnews.com/article/mexico-interoceanic-train-accident-66abc879f2d0c101e21aeac59ea804e3</link>
+<pubDate>Mon, 29 Dec 2025 08:18:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Top diplomats of China, Cambodia and Thailand meet as Beijing seeks to strengthen role in dispute]]></title>
 <link>https://apnews.com/article/china-thailand-cambodia-meeting-yunnan-border-dispute-730a88992ab3188a2f8effcf25ecb915</link>
 <pubDate>Mon, 29 Dec 2025 06:56:21 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[Brigitte Bardot, 1960s French sex symbol turned militant animal rights activist, dies at 91]]></title>
 <link>https://apnews.com/article/france-bardot-obit-397b87b8550dec3d199b2b5754149d7c</link>
 <pubDate>Sun, 28 Dec 2025 13:28:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese military stages drills around Taiwan to warn ‘external forces’ after US, Japan tensions]]></title>
-<link>https://apnews.com/article/china-taiwan-military-drills-japamn-37e2c674923fde3cb6b1a741c3e3fe0f</link>
-<pubDate>Mon, 29 Dec 2025 05:48:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
-<link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
-<pubDate>Mon, 29 Dec 2025 00:59:42 -0000</pubDate>
+<title><![CDATA[Chinese military stages drills around Taiwan to warn ‘external forces’ after US, Japan tensions]]></title>
+<link>https://apnews.com/article/china-taiwan-military-drills-japamn-37e2c674923fde3cb6b1a741c3e3fe0f</link>
+<pubDate>Mon, 29 Dec 2025 05:48:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
