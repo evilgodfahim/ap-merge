@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 23:37:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 00:59:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi-led coalition in Yemen warns United Arab Emirates-backed separatists of immediate action]]></title>
 <link>https://apnews.com/article/yemen-separatists-uae-saudi-arabia-ea218eb8e2ab266474b6c7018268da00</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump welcomes Zelenskyy for talks, asserts Russia and Ukraine both want peace, however elusive]]></title>
+<title><![CDATA[Trump says Ukraine and Russia are ‘closer than ever’ to peace after talks with Zelenskyy]]></title>
 <link>https://apnews.com/article/trump-zelenskyy-russia-ukraine-war-florida-42c38dbb3eecc22dd80271d504308337</link>
-<pubDate>Sun, 28 Dec 2025 19:57:14 -0000</pubDate>
+<pubDate>Mon, 29 Dec 2025 00:59:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Preliminary results show Prime Minister Kurti’s party won Kosovo snap vote convincingly]]></title>
 <link>https://apnews.com/article/kosovo-election-parliamentary-snap-fefaef8fc72b11cf930866d40ec30689</link>
 <pubDate>Sun, 28 Dec 2025 22:40:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand’s political parties name prime minister candidates for February election]]></title>
+<link>https://apnews.com/article/thailand-election-anutin-thaksin-peoples-party-a0344517524ce1330f3a8bb3802d8f0c</link>
+<pubDate>Sun, 28 Dec 2025 10:26:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,18 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
-<pubDate>Sun, 28 Dec 2025 12:05:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pilot dies in ultralight plane crash off Copacabana beach in Brazil]]></title>
-<link>https://apnews.com/article/brazil-copacabana-plane-crash-rio-de-janeiro-989f32e5ed89fad7270f17b38b279a22</link>
-<pubDate>Sat, 27 Dec 2025 22:10:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show Venezuelans celebrating Holy Innocents’ Day]]></title>
 <link>https://apnews.com/photo-gallery/venezuela-innocents-day-photo-gallery-07d3b2a0d163f4756b9c6fce2aaba6bb</link>
 <pubDate>Sun, 28 Dec 2025 22:25:40 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[Bus accident leaves 15 dead in Guatemala and government declares 3-day national mourning period]]></title>
 <link>https://apnews.com/article/guatemala-bus-accident-e15d75e878281f469e708f11a2e88b58</link>
 <pubDate>Sat, 27 Dec 2025 19:17:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
+<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
+<pubDate>Sat, 27 Dec 2025 18:00:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A winter storm threatens to bring blizzards and ice to parts of the US, hampering holiday travel]]></title>
+<title><![CDATA[Winter storm sweeps across US with snow, ice and severe weather]]></title>
 <link>https://apnews.com/article/cyclone-christmas-travel-weather-snow-flights-1dc6429f0b3e2ff4a52e351eeeae23cc</link>
-<pubDate>Sun, 28 Dec 2025 21:21:42 -0000</pubDate>
+<pubDate>Mon, 29 Dec 2025 00:44:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pilot dies in small plane crash off Copacabana beach in Brazil]]></title>
+<link>https://apnews.com/article/brazil-copacabana-plane-crash-rio-de-janeiro-989f32e5ed89fad7270f17b38b279a22</link>
+<pubDate>Mon, 29 Dec 2025 00:59:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A magnitude 6.6 earthquake strikes off the coast of Taiwan]]></title>
 <link>https://apnews.com/article/taiwan-taipei-earthquake-75c1e4a4d00276937c3b07c894af3c2f</link>
 <pubDate>Sun, 28 Dec 2025 10:41:40 -0000</pubDate>
@@ -245,6 +251,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thailand and Cambodia sign a new ceasefire agreement to end border fighting]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-fighting-ceasefire-0019310e1c062cd211f9f5398b3bc463</link>
+<pubDate>Mon, 29 Dec 2025 00:44:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kosovo heads to a snap vote to end political deadlock]]></title>
 <link>https://apnews.com/article/kosovo-snap-election-deadlock-serbia-albin-kurti-9b648e66af9ecf47155f4cc770a8392e</link>
 <pubDate>Sat, 27 Dec 2025 06:01:47 -0000</pubDate>
@@ -260,12 +272,6 @@
 <title><![CDATA[A massive crash on a highway in Japan kills 2 people and injures 26 as the holiday season starts]]></title>
 <link>https://apnews.com/article/japan-highway-crash-injury-d773c83734e2a6d395f2304d3e2708af</link>
 <pubDate>Sat, 27 Dec 2025 18:15:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelan migrants sent to El Salvador demand justice after US judge ruling]]></title>
-<link>https://apnews.com/article/venezuela-migrants-el-salvador-prison-trump-46135571624e2a26b241bce293ffe15c</link>
-<pubDate>Sun, 28 Dec 2025 22:40:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Trump-Zelenskyy talks will address security guarantees and reconstruction, Ukraine leader says]]></title>
 <link>https://apnews.com/article/zelenskyy-trump-peace-talks-refinery-donbas-demilitarized-9e37a9612d73cab7d3e74060aac46a36</link>
 <pubDate>Sun, 28 Dec 2025 10:26:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces]]></title>
-<link>https://apnews.com/article/yemen-saudi-arabia-separatists-airstrikes-hadramout-2083dc8bb99bc040e26527d74cc43e27</link>
-<pubDate>Sat, 27 Dec 2025 09:56:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand’s political parties name prime minister candidates for February election]]></title>
-<link>https://apnews.com/article/thailand-election-anutin-thaksin-peoples-party-a0344517524ce1330f3a8bb3802d8f0c</link>
-<pubDate>Sun, 28 Dec 2025 15:57:36 -0000</pubDate>
+<title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
+<link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
+<pubDate>Mon, 29 Dec 2025 00:59:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
