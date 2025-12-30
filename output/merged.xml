@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 30 Dec 2025 23:10:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 23:37:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump warns Iran of further US strikes if it rebuilds its nuclear program during Netanyahu visit]]></title>
 <link>https://apnews.com/article/trump-netanyahu-gaza-ceasefire-arab-nations-229253766673f18c1195550572edd2ce</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In escalating tensions with Venezuela, Trump says the US ‘hit’ a coastal drug loading facility]]></title>
+<link>https://apnews.com/article/trump-venezuela-facility-boat-strikes-0faff66145c6706e2861fcde36756fe4</link>
+<pubDate>Tue, 30 Dec 2025 23:37:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Colombian city swaps iconic horse buggies for electric carriages amid animal welfare concerns]]></title>
 <link>https://apnews.com/article/colombia-horse-carriages-electric-b7b9f43cb7c0afb344aa626708afbfd6</link>
 <pubDate>Tue, 30 Dec 2025 22:11:10 -0000</pubDate>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Beijing condemns the demolition of a monument honoring the Chinese community in Panama]]></title>
-<link>https://apnews.com/article/china-panama-monument-demolished-5295325cc3fd88a975cc4a34ec56b7c6</link>
-<pubDate>Tue, 30 Dec 2025 02:50:20 -0000</pubDate>
+<title><![CDATA[Young Africans find hope in farming as urban life becomes too expensive]]></title>
+<link>https://apnews.com/article/senegal-farmers-youth-agriculture-food-economy-1b5d63a396c76902a079d8271021430d</link>
+<pubDate>Tue, 30 Dec 2025 23:22:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Central African Republic’s incumbent president, a Russian ally, eyes a third term in key elections]]></title>
-<link>https://apnews.com/article/central-african-republic-federal-regional-elections-russia-ec71c086b3058bb7fcb2c3c16c886afc</link>
-<pubDate>Sun, 28 Dec 2025 22:10:40 -0000</pubDate>
+<title><![CDATA[New Orleans prepares for New Year’s celebrations on anniversary of Bourbon Street attack]]></title>
+<link>https://apnews.com/article/new-orleans-bourbon-attack-security-1298ae460051ab9d80e04f41ed7b6802</link>
+<pubDate>Tue, 30 Dec 2025 23:07:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Surge in federal officers in Minnesota focuses on alleged fraud at day care centers]]></title>
 <link>https://apnews.com/article/minnesota-fraud-immigration-enforcement-somali-76e246b70d582f1dd42f1242cf7d7a66</link>
 <pubDate>Tue, 30 Dec 2025 17:47:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Extreme Midwest cold follows storm that barreled across Great Lakes and Northeast]]></title>
-<link>https://apnews.com/article/winter-weather-midwest-great-lakes-northeast-77d51a911d297c47c37400b04262b9fe</link>
-<pubDate>Tue, 30 Dec 2025 21:41:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German prosecutors will drop investigation of Russian magnate Usmanov upon payment of $12M fine]]></title>
+<title><![CDATA[German prosecutors will drop probe of Russian magnate Usmanov after he agrees to pay nearly $12M]]></title>
 <link>https://apnews.com/article/alisher-usmanov-putin-germany-fb34fa24678eb31d4e93f6e6c56443d7</link>
-<pubDate>Tue, 30 Dec 2025 12:39:17 -0000</pubDate>
+<pubDate>Tue, 30 Dec 2025 23:37:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,6 +242,12 @@
 <title><![CDATA[Khaleda Zia, former Bangladeshi prime minister and archrival of a previous premier, dies at 80]]></title>
 <link>https://apnews.com/article/bangladesh-khaleda-zia-obit-07af8a7f28482359a993afa0c6f8db79</link>
 <pubDate>Tue, 30 Dec 2025 18:17:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Beijing condemns the demolition of a monument honoring the Chinese community in Panama]]></title>
+<link>https://apnews.com/article/china-panama-monument-demolished-5295325cc3fd88a975cc4a34ec56b7c6</link>
+<pubDate>Tue, 30 Dec 2025 23:22:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,12 +338,6 @@
 <title><![CDATA[UK opposition leaders demand human rights activist be stripped of citizenship for past tweets]]></title>
 <link>https://apnews.com/article/abd-elfattah-activist-egypt-tweets-britain-citizenship-359ce275320769fa8bd5d0adeadd0d87</link>
 <pubDate>Mon, 29 Dec 2025 17:24:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fire at Indonesian retirement home kills 16 residents]]></title>
-<link>https://apnews.com/article/indonesia-manado-fire-retirement-home-b5488748382a1a3126309ed8c6e65610</link>
-<pubDate>Mon, 29 Dec 2025 08:18:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +449,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In escalating tensions with Venezuela, Trump says the US ‘hit’ a coastal drug loading facility]]></title>
-<link>https://apnews.com/article/trump-venezuela-facility-boat-strikes-0faff66145c6706e2861fcde36756fe4</link>
-<pubDate>Tue, 30 Dec 2025 12:09:18 -0000</pubDate>
+<title><![CDATA[Miners clash with police in Bolivia as protests over fuel subsidies enter second week]]></title>
+<link>https://apnews.com/article/bolivia-protests-miners-paz-reforms-subsidies-b2ce8e131786d7e45cace4d89044f351</link>
+<pubDate>Tue, 30 Dec 2025 23:37:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Young Africans find hope in farming as urban life becomes too expensive]]></title>
-<link>https://apnews.com/article/senegal-farmers-youth-agriculture-food-economy-1b5d63a396c76902a079d8271021430d</link>
-<pubDate>Mon, 29 Dec 2025 09:19:59 -0000</pubDate>
+<title><![CDATA[Junta leader Gen. Mamdi Doumbouya is declared winner of Guinea’s election, provisional results show]]></title>
+<link>https://apnews.com/article/guinea-election-voting-conakry-fbf8a7b0615923740510f0286c64d67e</link>
+<pubDate>Tue, 30 Dec 2025 23:22:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arctic blast brings snow and wind to the Great Lakes and Northeast]]></title>
-<link>https://apnews.com/article/great-lakes-northeast-white-out-snow-squalls-91be280dce64d7d02ff587ba63e5dd26</link>
-<pubDate>Tue, 30 Dec 2025 18:02:19 -0000</pubDate>
+<title><![CDATA[Extreme Midwest cold follows storm that barreled across Great Lakes and Northeast]]></title>
+<link>https://apnews.com/article/winter-weather-midwest-great-lakes-northeast-77d51a911d297c47c37400b04262b9fe</link>
+<pubDate>Tue, 30 Dec 2025 23:07:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
