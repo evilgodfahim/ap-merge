@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 30 Dec 2025 12:22:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 13:09:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Turkish police detain 357 suspects in raids against the Islamic State group]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-group-raids-suspects-detained-dbcba6c418cb499253b19b80e1802ae8</link>
+<pubDate>Tue, 30 Dec 2025 13:09:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Official says 6 Islamic State militants and 3 police officers killed in clash in northwest Turkey]]></title>
 <link>https://apnews.com/article/turkey-police-wounded-islamic-state-group-militants-e0f7e22314d7b790c20ffb15ae817aa6</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of leisure and commerce along Iran’s Caspian Sea coast]]></title>
-<link>https://apnews.com/photo-gallery/iran-caspian-sea-photo-gallery-c9cb8e2f29888970aac8087e38ef5ee2</link>
-<pubDate>Tue, 30 Dec 2025 07:40:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US offers Ukraine a 15-year security guarantee as part of peace plan, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-peace-b784a9af1803995bfb7152eceb5477f1</link>
-<pubDate>Tue, 30 Dec 2025 11:37:30 -0000</pubDate>
+<title><![CDATA[Channel Tunnel disruption affects Eurostar and vehicle shuttle services between France and England]]></title>
+<link>https://apnews.com/article/eurostar-disruption-trains-channel-tunnel-britain-france-3fb0f56c93599fac8b39bf7c7b2550bc</link>
+<pubDate>Tue, 30 Dec 2025 12:54:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Winter rain floods Gaza camps as Netanyahu heads for US meeting]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-rain-flooding-camps-03427b994adfb84a6d5f4a49d440d5ae</link>
-<pubDate>Mon, 29 Dec 2025 18:49:42 -0000</pubDate>
+<title><![CDATA[Iraq’s parliament elects a new speaker to face political and financial challenges]]></title>
+<link>https://apnews.com/article/iraq-baghdad-parliament-speaker-iran-us-6589e2bea320a21a8cba4f634e7b8f10</link>
+<pubDate>Tue, 30 Dec 2025 07:25:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The year’s first meteor shower and supermoon clash in January skies]]></title>
+<link>https://apnews.com/article/january-supermoon-meteor-shower-quadrantids-5fca0113fe77e45579d52390a0bc05e9</link>
+<pubDate>Tue, 30 Dec 2025 13:09:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Concerns over roads in Nigeria after crash that injured Anthony Joshua and killed 2 associates]]></title>
+<link>https://apnews.com/article/anthony-joshua-boxing-nigeria-road-accident-fb45b3b7c35085f0d5bf4e5830117956</link>
+<pubDate>Tue, 30 Dec 2025 12:54:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[German prosecutors will drop investigation of Russian magnate Usmanov upon payment of $12M fine]]></title>
+<link>https://apnews.com/article/alisher-usmanov-putin-germany-fb34fa24678eb31d4e93f6e6c56443d7</link>
+<pubDate>Tue, 30 Dec 2025 12:39:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brigitte Bardot’s funeral will be held next week in French Riviera resort of Saint-Tropez]]></title>
 <link>https://apnews.com/article/brigitte-bardot-funeral-france-saint-tropez-30fa4430aaac67a02a50967f78d78104</link>
 <pubDate>Tue, 30 Dec 2025 11:37:31 -0000</pubDate>
@@ -233,6 +251,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of leisure and commerce along Iran’s Caspian Sea coast]]></title>
+<link>https://apnews.com/photo-gallery/iran-caspian-sea-photo-gallery-c9cb8e2f29888970aac8087e38ef5ee2</link>
+<pubDate>Tue, 30 Dec 2025 12:24:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkey and Armenia agree to simplify visa procedures to normalize ties]]></title>
 <link>https://apnews.com/article/turkey-armenia-ease-visa-requirement-reconciliation-03bb189108950e9da5bd9cd7296a27aa</link>
 <pubDate>Mon, 29 Dec 2025 17:39:40 -0000</pubDate>
@@ -242,12 +266,6 @@
 <title><![CDATA[Court orders release of prominent Turkish journalist from prison pending appeal]]></title>
 <link>https://apnews.com/article/turkey-journalist-fatih-altayli-released-pending-appeals-51eee7a2a30b71437706313239ca0c78</link>
 <pubDate>Tue, 30 Dec 2025 07:25:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq’s parliament elects a new speaker to face political and financial challenges]]></title>
-<link>https://apnews.com/article/iraq-baghdad-parliament-speaker-iran-us-6589e2bea320a21a8cba4f634e7b8f10</link>
-<pubDate>Tue, 30 Dec 2025 09:57:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,45 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens]]></title>
-<link>https://apnews.com/article/mexico-interoceanic-train-accident-66abc879f2d0c101e21aeac59ea804e3</link>
-<pubDate>Mon, 29 Dec 2025 03:06:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show Myanmar holding its first election since the military seized power]]></title>
-<link>https://apnews.com/photo-gallery/myanmar-election-photo-gallery-9a63a52162e280c550b30439a0988c52</link>
-<pubDate>Mon, 29 Dec 2025 02:51:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show surfers riding waves along Gaza City’s damaged coastline]]></title>
-<link>https://apnews.com/photo-gallery/gaza-israel-palestinians-surfers-photo-gallery-209edf6019886df8a84a7ea0d2223304</link>
-<pubDate>Mon, 29 Dec 2025 12:23:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Knife attack near Suriname’s capital Paramaribo kills at least 9 people, including kids, police say]]></title>
-<link>https://apnews.com/article/suriname-knife-attack-children-7485dabfe9e7939b490b726c942c0af2</link>
-<pubDate>Sun, 28 Dec 2025 18:48:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European leaders to discuss US-led peace efforts as Russia-Ukraine tensions spike]]></title>
+<title><![CDATA[Leaders from Europe and Canada discuss US-led peace efforts as Russia-Ukraine tensions spike]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-europe-peace-putin-drones-88d9a26deff364d9343935b0fbd8f1eb</link>
-<pubDate>Tue, 30 Dec 2025 11:37:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protests erupt in Iran over currency’s plunge to record low]]></title>
-<link>https://apnews.com/article/iran-traders-protest-rial-currency-ddc955739fb412b642251dee10638f03</link>
-<pubDate>Mon, 29 Dec 2025 18:49:43 -0000</pubDate>
+<pubDate>Tue, 30 Dec 2025 13:09:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[China flexes blockade capabilities near Taiwan on second day of military drills]]></title>
 <link>https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217</link>
 <pubDate>Tue, 30 Dec 2025 06:18:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar’s military-backed party claims strong lead in election’s first phase]]></title>
+<link>https://apnews.com/article/myanmar-election-military-party-results-ce5526b01f5dfef692bd52e391856b75</link>
+<pubDate>Tue, 30 Dec 2025 12:39:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s president says answer to attack would be harsh in apparent response to Trump warning]]></title>
+<link>https://apnews.com/article/iran-pezeshkian-us-trump-israel-attack-threat-12c6b141dfe1a3ea5c3422c218a49b0a</link>
+<pubDate>Tue, 30 Dec 2025 12:24:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Saudi Arabia bombs Yemen port over weapons shipment from UAE and issues warning to Abu Dhabi]]></title>
 <link>https://apnews.com/article/saudi-arabia-bomb-yemen-mukalla-weapons-uae-9fc56e4678a12f56d61b1ecf855d4a4e</link>
 <pubDate>Tue, 30 Dec 2025 10:12:49 -0000</pubDate>
@@ -410,12 +410,6 @@
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
 <pubDate>Tue, 30 Dec 2025 09:57:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish police detain 357 suspects in raids against the Islamic State group]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-group-raids-suspects-detained-dbcba6c418cb499253b19b80e1802ae8</link>
-<pubDate>Tue, 30 Dec 2025 08:34:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says the US ‘hit’ a facility along shore where he says alleged drug boats ‘load up’]]></title>
+<title><![CDATA[In escalating tensions with Venezuela, Trump says the US ‘hit’ a coastal drug loading facility]]></title>
 <link>https://apnews.com/article/trump-venezuela-facility-boat-strikes-0faff66145c6706e2861fcde36756fe4</link>
-<pubDate>Mon, 29 Dec 2025 20:12:50 -0000</pubDate>
+<pubDate>Tue, 30 Dec 2025 12:09:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
