@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 30 Dec 2025 05:43:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 06:18:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Winter rain floods Gaza camps as Netanyahu heads for US meeting]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-rain-flooding-camps-03427b994adfb84a6d5f4a49d440d5ae</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Australian police find no evidence of ‘broader terrorist cell’ in Bondi Beach antisemitic shooting]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-jewish-sydney-ce65a3337a6f56bb1fee0fcaa49e8842</link>
+<pubDate>Tue, 30 Dec 2025 06:18:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
 <link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
 <pubDate>Mon, 29 Dec 2025 08:18:28 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Beijing condemns the demolition of a monument honoring the Chinese community in Panama]]></title>
 <link>https://apnews.com/article/china-panama-monument-demolished-5295325cc3fd88a975cc4a34ec56b7c6</link>
 <pubDate>Tue, 30 Dec 2025 02:50:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean President Lee returns to presidential palace avoided by predecessor]]></title>
-<link>https://apnews.com/article/south-korea-blue-house-cheong-wa-dae-yoon-60a7f09301acaa6e0924288e05a57797</link>
-<pubDate>Mon, 29 Dec 2025 03:06:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A bomb cyclone brings blizzards to the Midwest before turning east]]></title>
-<link>https://apnews.com/article/winter-weather-blizzard-storm-cb49c60e237aa67d7a296d04da78193b</link>
-<pubDate>Mon, 29 Dec 2025 21:07:18 -0000</pubDate>
+<title><![CDATA[2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site]]></title>
+<link>https://apnews.com/article/helicopter-crash-new-jersey-pilot-deaths-8e52b9ef1cdf1ad8d6cd31cde09eea22</link>
+<pubDate>Tue, 30 Dec 2025 06:03:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thai and Cambodian top diplomats meet in China to solidify ceasefire]]></title>
-<link>https://apnews.com/article/china-thailand-cambodia-ceasefire-02d9339ec101b8d5f3f6c097764c9ba8</link>
-<pubDate>Mon, 29 Dec 2025 09:45:21 -0000</pubDate>
+<title><![CDATA[Chinese military drills around Taiwan resume for a second day, aimed at warning ‘external forces’]]></title>
+<link>https://apnews.com/article/china-taiwan-military-drills-japamn-37e2c674923fde3cb6b1a741c3e3fe0f</link>
+<pubDate>Tue, 30 Dec 2025 05:48:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
-<link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
-<pubDate>Fri, 26 Dec 2025 11:36:13 -0000</pubDate>
+<title><![CDATA[Thai and Cambodian top diplomats meet in China to solidify ceasefire]]></title>
+<link>https://apnews.com/article/china-thailand-cambodia-ceasefire-02d9339ec101b8d5f3f6c097764c9ba8</link>
+<pubDate>Mon, 29 Dec 2025 09:45:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What’s inside Mexico’s Popocatépetl volcano? Scientists obtain first 3D images]]></title>
-<link>https://apnews.com/article/mexico-popocatepetl-volcano-3d-images-scientists-f26337bd6503a40d282c57d67d988613</link>
-<pubDate>Tue, 30 Dec 2025 05:15:54 -0000</pubDate>
+<title><![CDATA[Asian shares follow Wall Street lower in final stretch of 2025]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-trump-tech-7152639821ceb65e24b7093314f8f560</link>
+<pubDate>Tue, 30 Dec 2025 06:18:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korean President Lee returns to presidential palace avoided by predecessor]]></title>
+<link>https://apnews.com/article/south-korea-blue-house-cheong-wa-dae-yoon-60a7f09301acaa6e0924288e05a57797</link>
+<pubDate>Tue, 30 Dec 2025 06:03:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show Venezuelans celebrating Holy Innocents’ Day]]></title>
 <link>https://apnews.com/photo-gallery/venezuela-innocents-day-photo-gallery-07d3b2a0d163f4756b9c6fce2aaba6bb</link>
 <pubDate>Mon, 29 Dec 2025 17:09:40 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protesting students in Serbia urge support for early election they hope will oust Vucic]]></title>
-<link>https://apnews.com/article/serbia-protesting-students-vucic-early-election-d1f319f0f7cb4e5959a5f074f68d23aa</link>
-<pubDate>Sun, 28 Dec 2025 13:43:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US offers Ukraine a 15-year security guarantee as part of peace plan, Zelenskyy says]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-peace-b784a9af1803995bfb7152eceb5477f1</link>
 <pubDate>Mon, 29 Dec 2025 17:39:41 -0000</pubDate>
@@ -359,21 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China flexes blockade capabilities near Taiwan on second day of military drills]]></title>
+<link>https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217</link>
+<pubDate>Tue, 30 Dec 2025 06:18:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Khaleda Zia, former Bangladeshi prime minister and archrival of Hasina, dies at 80]]></title>
 <link>https://apnews.com/article/bangladesh-khaleda-zia-obit-07af8a7f28482359a993afa0c6f8db79</link>
 <pubDate>Tue, 30 Dec 2025 02:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese military drills around Taiwan resume for a second day, aimed at warning ‘external forces’]]></title>
-<link>https://apnews.com/article/china-taiwan-military-drills-japamn-37e2c674923fde3cb6b1a741c3e3fe0f</link>
-<pubDate>Tue, 30 Dec 2025 02:35:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE]]></title>
+<title><![CDATA[Anti-Houti forces in Yemen declare a state of emergency]]></title>
 <link>https://apnews.com/article/saudi-arabia-bomb-yemen-mukalla-weapons-uae-9fc56e4678a12f56d61b1ecf855d4a4e</link>
-<pubDate>Tue, 30 Dec 2025 02:20:22 -0000</pubDate>
+<pubDate>Tue, 30 Dec 2025 06:03:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australian police find no evidence of ‘broader terrorist cell’ in Bondi Beach antisemitic shooting]]></title>
-<link>https://apnews.com/article/australia-shooting-bondi-jewish-sydney-ce65a3337a6f56bb1fee0fcaa49e8842</link>
-<pubDate>Tue, 30 Dec 2025 03:56:59 -0000</pubDate>
+<title><![CDATA[As a property slump drags on, China’s economy looks more resilient than it feels]]></title>
+<link>https://apnews.com/article/china-economy-property-tariffs-jinping-17e9a32cf105764f457c1111f185dd3f</link>
+<pubDate>Tue, 30 Dec 2025 05:48:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site]]></title>
-<link>https://apnews.com/article/helicopter-crash-new-jersey-pilot-deaths-8e52b9ef1cdf1ad8d6cd31cde09eea22</link>
-<pubDate>Mon, 29 Dec 2025 19:57:50 -0000</pubDate>
+<title><![CDATA[Winter storm packing snow and strong winds to descend on Great Lakes and Northeast]]></title>
+<link>https://apnews.com/article/great-lakes-northeast-white-out-snow-squalls-91be280dce64d7d02ff587ba63e5dd26</link>
+<pubDate>Tue, 30 Dec 2025 05:33:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
