@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 30 Dec 2025 02:50:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 03:56:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Winter rain floods Gaza camps as Netanyahu heads for US meeting]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-rain-flooding-camps-03427b994adfb84a6d5f4a49d440d5ae</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
+<link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
+<pubDate>Mon, 29 Dec 2025 08:18:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Beijing condemns the demolition of a monument honoring the Chinese community in Panama]]></title>
 <link>https://apnews.com/article/china-panama-monument-demolished-5295325cc3fd88a975cc4a34ec56b7c6</link>
 <pubDate>Tue, 30 Dec 2025 02:50:20 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[South Korean President Lee returns to presidential palace avoided by predecessor]]></title>
 <link>https://apnews.com/article/south-korea-blue-house-cheong-wa-dae-yoon-60a7f09301acaa6e0924288e05a57797</link>
 <pubDate>Mon, 29 Dec 2025 03:06:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Top diplomats of China, Cambodia and Thailand meet as Beijing seeks a stronger role in dispute]]></title>
-<link>https://apnews.com/article/china-thailand-cambodia-meeting-yunnan-border-dispute-730a88992ab3188a2f8effcf25ecb915</link>
-<pubDate>Tue, 30 Dec 2025 02:35:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Top diplomats of China, Cambodia and Thailand meet as Beijing seeks a stronger role in dispute]]></title>
+<link>https://apnews.com/article/china-thailand-cambodia-meeting-yunnan-border-dispute-730a88992ab3188a2f8effcf25ecb915</link>
+<pubDate>Tue, 30 Dec 2025 02:35:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thai and Cambodian top diplomats meet in China to solidify ceasefire]]></title>
 <link>https://apnews.com/article/china-thailand-cambodia-ceasefire-02d9339ec101b8d5f3f6c097764c9ba8</link>
 <pubDate>Mon, 29 Dec 2025 09:45:21 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China sanctions 20 US defense companies and 10 executives over massive arms sales to Taiwan]]></title>
 <link>https://apnews.com/article/china-sanctions-us-companies-arm-sale-taiwan-31e1bdef85a4cae9a765b189497ca3bf</link>
 <pubDate>Fri, 26 Dec 2025 11:36:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US graphite mines see renewed interest after being closed for decades]]></title>
-<link>https://apnews.com/article/us-graphite-mining-lithium-batteries-6efea670a24e2a6570f2b978c8ad71b5</link>
-<pubDate>Sat, 27 Dec 2025 11:18:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea says it tested long-range cruise missiles]]></title>
-<link>https://apnews.com/article/north-korea-missiles-kim-7bd75f6aea212d48f7d99a6856c66754</link>
-<pubDate>Mon, 29 Dec 2025 00:59:42 -0000</pubDate>
+<title><![CDATA[Australian police find no evidence of ‘broader terrorist cell’ in Bondi Beach antisemitic shooting]]></title>
+<link>https://apnews.com/article/australia-shooting-bondi-jewish-sydney-ce65a3337a6f56bb1fee0fcaa49e8842</link>
+<pubDate>Tue, 30 Dec 2025 03:56:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
