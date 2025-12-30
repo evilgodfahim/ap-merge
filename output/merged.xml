@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 30 Dec 2025 20:12:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 20:41:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Official says 6 Islamic State militants and 3 police officers killed in clash in northwest Turkey]]></title>
 <link>https://apnews.com/article/turkey-police-wounded-islamic-state-group-militants-e0f7e22314d7b790c20ffb15ae817aa6</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US commits $480m in health funding to Ivory Coast, the latest to sign ‘America First’ health deals]]></title>
+<link>https://apnews.com/article/ivory-coast-us-health-deal-usaid-45ae5d2b876be76d7a0d62f3c523cec2</link>
+<pubDate>Tue, 30 Dec 2025 20:41:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[41 young men die in South Africa from circumcision procedures during initiation ceremonies]]></title>
 <link>https://apnews.com/article/south-africa-traditional-initiation-deaths-circumcision-acd57210c3bdbf9f65c1814f985eb8a9</link>
 <pubDate>Tue, 30 Dec 2025 18:02:17 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Central African Republic’s incumbent president, a Russian ally, eyes a third term in key elections]]></title>
 <link>https://apnews.com/article/central-african-republic-federal-regional-elections-russia-ec71c086b3058bb7fcb2c3c16c886afc</link>
 <pubDate>Sun, 28 Dec 2025 22:10:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From gunshots to the Africa Cup, Sudanese players endure brutal war to bring hope]]></title>
-<link>https://apnews.com/article/sudan-war-africa-cup-afcon-9088e83d6c37eb4d4660bf5bb4fb8ad5</link>
-<pubDate>Sun, 28 Dec 2025 16:12:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks edge lower as 2025 winds down while gold and silver rise]]></title>
+<title><![CDATA[Stocks waver as 2025 winds down while gold and silver rise]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-trump-tech-7152639821ceb65e24b7093314f8f560</link>
-<pubDate>Tue, 30 Dec 2025 16:18:34 -0000</pubDate>
+<pubDate>Tue, 30 Dec 2025 15:11:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
