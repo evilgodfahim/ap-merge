@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 31 Dec 2025 22:11:33 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 22:41:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A train crash on the line to Peru’s famed Machu Picchu kills 1 person and injures at least 30]]></title>
+<link>https://apnews.com/article/peru-machu-picchu-train-crash-9e05c3e8ce26c12beb925263ada2f744</link>
+<pubDate>Wed, 31 Dec 2025 22:41:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Miners clash with police in Bolivia as protests over fuel subsidies enter second week]]></title>
 <link>https://apnews.com/article/bolivia-protests-miners-paz-reforms-subsidies-b2ce8e131786d7e45cace4d89044f351</link>
 <pubDate>Wed, 31 Dec 2025 02:36:30 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[CIA behind strike at Venezuelan dock that Trump claims was used by drug smugglers, AP sources say]]></title>
 <link>https://apnews.com/article/trump-venezuela-cia-drone-strike-94d01342b7db67b4795234eb78ce2f5f</link>
 <pubDate>Wed, 31 Dec 2025 03:55:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In escalating tensions with Venezuela, Trump says the US ‘hit’ a coastal drug loading facility]]></title>
-<link>https://apnews.com/article/trump-venezuela-facility-boat-strikes-0faff66145c6706e2861fcde36756fe4</link>
-<pubDate>Tue, 30 Dec 2025 23:37:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[National Guard arrives in New Orleans for 1st New Year’s since Bourbon Street attack]]></title>
-<link>https://apnews.com/article/new-orleans-bourbon-attack-security-1298ae460051ab9d80e04f41ed7b6802</link>
-<pubDate>Wed, 31 Dec 2025 02:06:30 -0000</pubDate>
+<title><![CDATA[These bipartisan bills were noncontroversial — until Trump vetoed them]]></title>
+<link>https://apnews.com/article/trump-vetoes-boebert-miccosukee-tribe-alligator-alcatraz-ac59b3ab03fb6f3b09d65b0223f1b495</link>
+<pubDate>Wed, 31 Dec 2025 17:09:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Betty Boop and ‘Blondie’ enter the public domain in 2026, accompanied by a trio of detectives]]></title>
+<link>https://apnews.com/article/public-domain-2026-betty-boop-40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
+<pubDate>Wed, 31 Dec 2025 22:26:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration says it’s freezing child care funds to Minnesota after series of fraud schemes]]></title>
-<link>https://apnews.com/article/minnesota-child-care-funds-fraud-b511941de10f02fbb7349eff6738f748</link>
-<pubDate>Wed, 31 Dec 2025 06:23:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[These bipartisan bills were noncontroversial — until Trump vetoed them]]></title>
-<link>https://apnews.com/article/trump-vetoes-boebert-miccosukee-tribe-alligator-alcatraz-ac59b3ab03fb6f3b09d65b0223f1b495</link>
-<pubDate>Wed, 31 Dec 2025 17:09:21 -0000</pubDate>
+<title><![CDATA[A rough year for journalists in 2025, with a little hope for things to turn around]]></title>
+<link>https://apnews.com/article/press-freedom-2025-media-journalists-3d52825a7612e678dc15f002d4ccbd18</link>
+<pubDate>Wed, 31 Dec 2025 06:08:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US imposes sanctions on 4 Venezuelan oil firms and 4 more tankers in Maduro crackdown]]></title>
+<link>https://apnews.com/article/sanctions-oil-tankers-venezuela-trump-maduro-9ffee61472d248aafdc9d9bef6195c2e</link>
+<pubDate>Wed, 31 Dec 2025 22:41:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Catch up with photos of New Year’s celebrations around the world]]></title>
 <link>https://apnews.com/photo-gallery/new-year-eve-2026-celebration-photos-990cefb87073dc84d362839d810c2919</link>
 <pubDate>Wed, 31 Dec 2025 20:11:58 -0000</pubDate>
@@ -200,12 +206,6 @@
 <title><![CDATA[Pakistan’s polio cases fell by half in 2025 despite attacks on vaccination teams]]></title>
 <link>https://apnews.com/article/pakistan-polio-vaccination-de0d2b300ddbaa38abb3344b6575eb99</link>
 <pubDate>Wed, 31 Dec 2025 12:06:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A rough year for journalists in 2025, with a little hope for things to turn around]]></title>
-<link>https://apnews.com/article/press-freedom-2025-media-journalists-3d52825a7612e678dc15f002d4ccbd18</link>
-<pubDate>Wed, 31 Dec 2025 19:56:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A train crash on the line to Peru’s famed Machu Picchu kills 1 person and injures at least 30]]></title>
-<link>https://apnews.com/article/peru-machu-picchu-train-crash-9e05c3e8ce26c12beb925263ada2f744</link>
-<pubDate>Wed, 31 Dec 2025 02:51:31 -0000</pubDate>
+<title><![CDATA[US military strikes three more alleged drug boats, killing 3 and possibly leaving survivors]]></title>
+<link>https://apnews.com/article/boat-strike-us-military-venezuela-trump-6d975cd2cafaf9ad959e2dad6f0cb8f0</link>
+<pubDate>Wed, 31 Dec 2025 22:41:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Midwest hit with more extreme cold after winter storm]]></title>
-<link>https://apnews.com/article/winter-weather-midwest-great-lakes-northeast-77d51a911d297c47c37400b04262b9fe</link>
-<pubDate>Wed, 31 Dec 2025 00:41:30 -0000</pubDate>
+<title><![CDATA[Nasty weather on tap for New Year fetes at Rose Parade in California and revelers in New York City]]></title>
+<link>https://apnews.com/article/new-years-day-rose-parade-weather-ball-7aa4e96266da72bd8d8124bae63636e4</link>
+<pubDate>Wed, 31 Dec 2025 22:26:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
