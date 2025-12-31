@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 31 Dec 2025 11:36:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 12:21:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran’s president says answer to attack would be harsh in apparent response to Trump warning]]></title>
+<link>https://apnews.com/article/iran-pezeshkian-us-trump-israel-attack-threat-12c6b141dfe1a3ea5c3422c218a49b0a</link>
+<pubDate>Wed, 31 Dec 2025 12:21:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Turkish police detain 357 suspects in raids against the Islamic State group]]></title>
 <link>https://apnews.com/article/turkey-islamic-state-group-raids-suspects-detained-dbcba6c418cb499253b19b80e1802ae8</link>
 <pubDate>Tue, 30 Dec 2025 13:09:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland]]></title>
-<link>https://apnews.com/article/turkey-somalia-president-visit-e160eb59c4b77b6f403d970e11b799bf</link>
-<pubDate>Wed, 31 Dec 2025 09:43:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
+<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
+<pubDate>Wed, 31 Dec 2025 02:51:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thailand releases 18 Cambodian prisoners of war as part of ceasefire agreement]]></title>
 <link>https://apnews.com/article/thailand-cambodia-border-ceasefire-prisoners-release-65c3f6e5af81d2c8ae5156e003cbe7d7</link>
 <pubDate>Wed, 31 Dec 2025 10:28:39 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Huge crowds join funeral prayers for former Prime Minister Khaleda Zia in Bangladesh]]></title>
 <link>https://apnews.com/article/bangladesh-khaleda-zia-hasina-yunus-funeral-prayers-3373c392c0bcfdfcdbd72d9254c7bc57</link>
 <pubDate>Wed, 31 Dec 2025 09:28:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s polio cases fell by half in 2025 despite attacks on vaccination teams]]></title>
-<link>https://apnews.com/article/pakistan-polio-vaccination-de0d2b300ddbaa38abb3344b6575eb99</link>
-<pubDate>Wed, 31 Dec 2025 08:16:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guineans vote in first election since 2021 coup with junta leader likely to win]]></title>
-<link>https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2</link>
-<pubDate>Mon, 29 Dec 2025 17:09:39 -0000</pubDate>
+<title><![CDATA[Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland]]></title>
+<link>https://apnews.com/article/turkey-somalia-president-visit-e160eb59c4b77b6f403d970e11b799bf</link>
+<pubDate>Wed, 31 Dec 2025 09:43:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US commits $480m in health funding to Ivory Coast, the latest to sign ‘America First’ health deals]]></title>
-<link>https://apnews.com/article/ivory-coast-us-health-deal-usaid-45ae5d2b876be76d7a0d62f3c523cec2</link>
-<pubDate>Tue, 30 Dec 2025 20:41:43 -0000</pubDate>
+<title><![CDATA[Guineans vote in first election since 2021 coup with junta leader likely to win]]></title>
+<link>https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2</link>
+<pubDate>Mon, 29 Dec 2025 17:09:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Channel Tunnel power malfunction fixed, but rail delays may linger]]></title>
+<title><![CDATA[Channel Tunnel power malfunction fixed, but rail delays linger]]></title>
 <link>https://apnews.com/article/channel-tunnel-trains-eurostar-eurotunnel-europe-uk-e9e38026fa4f8589dc0157947b46c7e1</link>
-<pubDate>Wed, 31 Dec 2025 09:43:36 -0000</pubDate>
+<pubDate>Wed, 31 Dec 2025 12:21:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan’s polio cases fell by half in 2025 despite attacks on vaccination teams]]></title>
+<link>https://apnews.com/article/pakistan-polio-vaccination-de0d2b300ddbaa38abb3344b6575eb99</link>
+<pubDate>Wed, 31 Dec 2025 12:06:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +200,12 @@
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-december-30-2025-e4f8a1c9c17b7762105bcbd4e4953f7f</link>
 <pubDate>Tue, 30 Dec 2025 22:11:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US commits $480m in health funding to Ivory Coast, the latest to sign ‘America First’ health deals]]></title>
+<link>https://apnews.com/article/ivory-coast-us-health-deal-usaid-45ae5d2b876be76d7a0d62f3c523cec2</link>
+<pubDate>Wed, 31 Dec 2025 11:51:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Victims’ families demand answers in deadly Mexico train crash as authorities promise to investigate]]></title>
-<link>https://apnews.com/article/mexico-train-crash-interoceanic-oaxaca-veracruz-6201a0372818561ad77ca46cce8409c3</link>
-<pubDate>Tue, 30 Dec 2025 11:22:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Peruvian shamans predict Maduro’s fall, continued global conflicts in 2026]]></title>
-<link>https://apnews.com/article/peruvian-shamans-predictions-2026-nicolas-maduro-78a19e9b6cfa0765d1df0fa81a5d70ef</link>
-<pubDate>Tue, 30 Dec 2025 21:56:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian drones blast Ukraine’s Odesa and injure 6, including children]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
 <pubDate>Wed, 31 Dec 2025 10:43:40 -0000</pubDate>
@@ -359,15 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[New Zealand’s Auckland kicks off 2026 celebrations with fireworks]]></title>
+<link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
+<pubDate>Wed, 31 Dec 2025 12:21:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hong Kong rings in 2026 without fireworks after deadliest blaze in decades]]></title>
 <link>https://apnews.com/article/hong-kong-new-year-eve-fireworks-a724bcc65c41e537cc51d8ee8393a075</link>
 <pubDate>Wed, 31 Dec 2025 08:16:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
-<link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
-<pubDate>Tue, 30 Dec 2025 09:57:49 -0000</pubDate>
+<title><![CDATA[Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway]]></title>
+<link>https://apnews.com/article/malaysia-mh370-search-bf10603527b8f96767d51e611cb02cc9</link>
+<pubDate>Wed, 31 Dec 2025 12:06:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,15 +407,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[List of aid groups working in Gaza that Israel is suspending]]></title>
-<link>https://apnews.com/article/gaza-humanitarian-aid-suspension-israel-ec535cea548ddc75080f1e6bffe53801</link>
-<pubDate>Tue, 30 Dec 2025 16:48:34 -0000</pubDate>
+<title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
+<link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
+<pubDate>Tue, 30 Dec 2025 09:57:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s president says answer to attack would be harsh in apparent response to Trump warning]]></title>
-<link>https://apnews.com/article/iran-pezeshkian-us-trump-israel-attack-threat-12c6b141dfe1a3ea5c3422c218a49b0a</link>
-<pubDate>Tue, 30 Dec 2025 12:24:18 -0000</pubDate>
+<title><![CDATA[List of aid groups working in Gaza that Israel is suspending]]></title>
+<link>https://apnews.com/article/gaza-humanitarian-aid-suspension-israel-ec535cea548ddc75080f1e6bffe53801</link>
+<pubDate>Tue, 30 Dec 2025 16:48:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
-<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
-<pubDate>Wed, 31 Dec 2025 09:58:40 -0000</pubDate>
+<title><![CDATA[Pacifist Japan has slowly transformed from exclusively self-defense to a military buildup]]></title>
+<link>https://apnews.com/article/japan-military-buildup-defense-constitution-us-china-4986b7e36b9bb86355898c6d762084e7</link>
+<pubDate>Wed, 31 Dec 2025 11:51:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
