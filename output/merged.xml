@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 31 Dec 2025 10:11:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 10:43:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Turkish police detain 357 suspects in raids against the Islamic State group]]></title>
+<link>https://apnews.com/article/turkey-islamic-state-group-raids-suspects-detained-dbcba6c418cb499253b19b80e1802ae8</link>
+<pubDate>Tue, 30 Dec 2025 13:09:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland]]></title>
 <link>https://apnews.com/article/turkey-somalia-president-visit-e160eb59c4b77b6f403d970e11b799bf</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump warns Iran of further US strikes if it rebuilds its nuclear program during Netanyahu visit]]></title>
-<link>https://apnews.com/article/trump-netanyahu-gaza-ceasefire-arab-nations-229253766673f18c1195550572edd2ce</link>
-<pubDate>Tue, 30 Dec 2025 16:48:33 -0000</pubDate>
+<title><![CDATA[European and Canadian leaders discuss US-led peace efforts in Russia-Ukraine war]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-europe-peace-putin-drones-88d9a26deff364d9343935b0fbd8f1eb</link>
+<pubDate>Wed, 31 Dec 2025 10:43:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
-<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
-<pubDate>Wed, 31 Dec 2025 02:51:30 -0000</pubDate>
+<title><![CDATA[Thailand releases 18 Cambodian prisoners of war as part of ceasefire agreement]]></title>
+<link>https://apnews.com/article/thailand-cambodia-border-ceasefire-prisoners-release-65c3f6e5af81d2c8ae5156e003cbe7d7</link>
+<pubDate>Wed, 31 Dec 2025 10:28:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pakistan’s polio cases fell by half in 2025 despite attacks on vaccination teams]]></title>
 <link>https://apnews.com/article/pakistan-polio-vaccination-de0d2b300ddbaa38abb3344b6575eb99</link>
 <pubDate>Wed, 31 Dec 2025 08:16:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Key dates in Taiwan’s history: A contested island’s evolution]]></title>
-<link>https://apnews.com/article/china-taiwan-drills-timeline-6e0253f6329e5ef6fe81ac67957fc85e</link>
-<pubDate>Wed, 31 Dec 2025 06:53:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,27 +119,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Key dates in Taiwan’s history: A contested island’s evolution]]></title>
+<link>https://apnews.com/article/china-taiwan-drills-timeline-6e0253f6329e5ef6fe81ac67957fc85e</link>
+<pubDate>Wed, 31 Dec 2025 06:53:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s top diplomat blasts US arms sale to Taiwan as military drills around the island unfold]]></title>
 <link>https://apnews.com/article/china-taiwan-japan-us-arms-sales-02c9fbe341e9bd10953b29c2e981a174</link>
 <pubDate>Tue, 30 Dec 2025 13:57:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China flexes blockade capabilities near Taiwan on second day of military drills]]></title>
+<link>https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217</link>
+<pubDate>Wed, 31 Dec 2025 10:13:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s economy looks more resilient than it feels as a property slump drags on]]></title>
 <link>https://apnews.com/article/china-economy-property-tariffs-jinping-17e9a32cf105764f457c1111f185dd3f</link>
 <pubDate>Wed, 31 Dec 2025 09:13:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Takeaways from AP’s report on banned Uyghur songs]]></title>
-<link>https://apnews.com/article/china-uyghur-banned-songs-1e8a90286d63552ca598428dc29b3bf8</link>
-<pubDate>Wed, 31 Dec 2025 07:46:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AP Exclusive: China threatens detention in Xinjiang over banned Uyghur songs]]></title>
-<link>https://apnews.com/article/china-uyghur-banned-songs-xinjiang-f63ad27225ab1fc021c8d8949ca799c4</link>
-<pubDate>Mon, 29 Dec 2025 10:15:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian drones blast Ukraine’s Odesa and injure 6, including children]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
+<pubDate>Wed, 31 Dec 2025 10:43:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel says it will halt operations of several humanitarian organizations in Gaza starting in 2026]]></title>
 <link>https://apnews.com/article/gaza-israel-hamas-palestinians-ceasefire-war-news-286106d7a5a911704cdcf1c93248e502</link>
 <pubDate>Tue, 30 Dec 2025 14:12:39 -0000</pubDate>
@@ -362,18 +368,6 @@
 <title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
 <link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
 <pubDate>Tue, 30 Dec 2025 09:57:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European and Canadian leaders discuss US-led peace efforts in Russia-Ukraine war]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-europe-peace-putin-drones-88d9a26deff364d9343935b0fbd8f1eb</link>
-<pubDate>Tue, 30 Dec 2025 15:41:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China flexes blockade capabilities near Taiwan on second day of military drills]]></title>
-<link>https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217</link>
-<pubDate>Tue, 30 Dec 2025 06:18:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran appoints new central bank governor after record currency fall and mass protests]]></title>
+<link>https://apnews.com/article/iran-currency-inflation-central-bank-governor-protests-ccc43409cfceed3096db8cf63cc0ce53</link>
+<pubDate>Wed, 31 Dec 2025 10:28:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
 <pubDate>Wed, 31 Dec 2025 09:43:37 -0000</pubDate>
@@ -410,12 +410,6 @@
 <title><![CDATA[Iran’s president says answer to attack would be harsh in apparent response to Trump warning]]></title>
 <link>https://apnews.com/article/iran-pezeshkian-us-trump-israel-attack-threat-12c6b141dfe1a3ea5c3422c218a49b0a</link>
 <pubDate>Tue, 30 Dec 2025 12:24:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish police detain 357 suspects in raids against the Islamic State group]]></title>
-<link>https://apnews.com/article/turkey-islamic-state-group-raids-suspects-detained-dbcba6c418cb499253b19b80e1802ae8</link>
-<pubDate>Tue, 30 Dec 2025 08:34:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares trade mixed with some exchanges closed ahead of the New Year]]></title>
+<title><![CDATA[Global shares trade mixed with some exchanges closed ahead of the New Year]]></title>
 <link>https://apnews.com/article/stock-markets-2026-inflation-rates-fed-tariffs-fccc61b72ed242f62000add1575707d0</link>
-<pubDate>Wed, 31 Dec 2025 08:28:37 -0000</pubDate>
+<pubDate>Wed, 31 Dec 2025 10:13:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand releases 18 Cambodian prisoners of war as part of ceasefire agreement]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-ceasefire-prisoners-release-65c3f6e5af81d2c8ae5156e003cbe7d7</link>
-<pubDate>Wed, 31 Dec 2025 06:53:06 -0000</pubDate>
+<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
+<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
+<pubDate>Wed, 31 Dec 2025 09:58:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
