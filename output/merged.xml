@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 21:10:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 21:38:11 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
+<link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
+<pubDate>Thu, 01 Jan 2026 21:38:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel says it will halt operations of several humanitarian organizations in Gaza starting in 2026]]></title>
 <link>https://apnews.com/article/gaza-israel-hamas-palestinians-ceasefire-war-news-286106d7a5a911704cdcf1c93248e502</link>
 <pubDate>Thu, 01 Jan 2026 20:12:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
-<link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
-<pubDate>Wed, 31 Dec 2025 21:37:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Palestinians watch as Israeli bulldozers claw down their West Bank homes]]></title>
+<link>https://apnews.com/article/israel-palestinians-demolitions-west-bank-military-cdb5f73470560d8fa5d4af6cc145be47</link>
+<pubDate>Thu, 01 Jan 2026 21:38:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Yemeni transport ministry says Saudi Arabia mandated inspections of flights between Aden and UAE]]></title>
 <link>https://apnews.com/article/yemen-aden-houthis-airport-southern-transitional-council-33f34af471097846c26531c0ea907069</link>
 <pubDate>Thu, 01 Jan 2026 20:12:36 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Iran appoints new central bank governor after mass protests as currency hits record low]]></title>
 <link>https://apnews.com/article/iran-currency-inflation-central-bank-governor-protests-ccc43409cfceed3096db8cf63cc0ce53</link>
 <pubDate>Wed, 31 Dec 2025 15:44:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
-<link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
-<pubDate>Wed, 31 Dec 2025 21:37:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region]]></title>
-<link>https://apnews.com/article/yemen-war-houthis-separatists-stc-uae-saudi-e9799b4804f99378ec0b3ed308e3c250</link>
-<pubDate>Tue, 30 Dec 2025 09:57:49 -0000</pubDate>
+<title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
+<link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
+<pubDate>Wed, 31 Dec 2025 09:43:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
