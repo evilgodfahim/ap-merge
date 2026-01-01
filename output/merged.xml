@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 09:15:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 09:42:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
+<link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
+<pubDate>Thu, 01 Jan 2026 09:42:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
 <link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
 <pubDate>Thu, 01 Jan 2026 08:16:26 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
 <pubDate>Thu, 01 Jan 2026 08:01:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope asks that Rome welcome foreigners as he closes out 2025]]></title>
-<link>https://apnews.com/article/vatican-pope-leo-new-year-eve-jubilee-892a279943f3437f6bc160e948e07535</link>
-<pubDate>Wed, 31 Dec 2025 17:39:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +167,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at Swiss Alps bar kills many people and leaves multiple injured during New Year’s celebrations]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
-<pubDate>Thu, 01 Jan 2026 08:16:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show the ancient art of Peking opera works hard to keep flourishing in the digital age]]></title>
 <link>https://apnews.com/photo-gallery/peking-opera-chinese-culture-dance-ea318e2dcc774d370800d81de02b208c</link>
 <pubDate>Thu, 01 Jan 2026 03:20:22 -0000</pubDate>
@@ -194,6 +188,12 @@
 <title><![CDATA[Pakistan’s premier offers ‘complete solidarity’ to Saudi Crown Prince after Yemen port strike]]></title>
 <link>https://apnews.com/article/pakistan-saudi-crown-prince-yemen-port-43b1f71a30e1bf472d61fcf76f1ff60b</link>
 <pubDate>Thu, 01 Jan 2026 04:30:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope asks that Rome welcome foreigners as he closes out 2025]]></title>
+<link>https://apnews.com/article/vatican-pope-leo-new-year-eve-jubilee-892a279943f3437f6bc160e948e07535</link>
+<pubDate>Thu, 01 Jan 2026 09:42:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
-<link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
-<pubDate>Thu, 01 Jan 2026 03:20:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
 <pubDate>Thu, 01 Jan 2026 06:53:41 -0000</pubDate>
@@ -443,9 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after China’s military drills]]></title>
+<title><![CDATA[‘Several tens’ dead, about 100 injured in fire at Swiss Alps bar during New Year’s celebration]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
+<pubDate>Thu, 01 Jan 2026 09:42:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after Chinese military drills]]></title>
 <link>https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160</link>
-<pubDate>Thu, 01 Jan 2026 04:30:21 -0000</pubDate>
+<pubDate>Thu, 01 Jan 2026 09:27:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
