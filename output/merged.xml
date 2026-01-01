@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 07:40:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 08:16:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
+<link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
+<pubDate>Thu, 01 Jan 2026 08:16:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
+<pubDate>Thu, 01 Jan 2026 08:01:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pope asks that Rome welcome foreigners as he closes out 2025]]></title>
 <link>https://apnews.com/article/vatican-pope-leo-new-year-eve-jubilee-892a279943f3437f6bc160e948e07535</link>
 <pubDate>Wed, 31 Dec 2025 17:39:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Channel Tunnel power malfunction fixed, but rail delays linger]]></title>
-<link>https://apnews.com/article/channel-tunnel-trains-eurostar-eurotunnel-europe-uk-e9e38026fa4f8589dc0157947b46c7e1</link>
-<pubDate>Wed, 31 Dec 2025 13:47:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK’s Queen Camilla recalls assault in 1960s as she campaigns against domestic violence]]></title>
-<link>https://apnews.com/article/britain-camilla-queen-indecent-assault-domestic-violence-b928959252a46d3812c5074965f2171a</link>
-<pubDate>Wed, 31 Dec 2025 13:32:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,21 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at a bar in the Swiss Alps left people dead and injured during New Year’s celebrations]]></title>
+<title><![CDATA[Fire at Swiss Alps bar kills many people and leaves multiple injured during New Year’s celebrations]]></title>
 <link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
-<pubDate>Thu, 01 Jan 2026 06:53:41 -0000</pubDate>
+<pubDate>Thu, 01 Jan 2026 08:16:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Photos show the ancient art of Peking opera works hard to keep flourishing in the digital age]]></title>
 <link>https://apnews.com/photo-gallery/peking-opera-chinese-culture-dance-ea318e2dcc774d370800d81de02b208c</link>
 <pubDate>Thu, 01 Jan 2026 03:20:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
-<link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
-<pubDate>Thu, 01 Jan 2026 01:01:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +203,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK’s Queen Camilla recalls assault in 1960s as she campaigns against domestic violence]]></title>
+<link>https://apnews.com/article/britain-camilla-queen-indecent-assault-domestic-violence-b928959252a46d3812c5074965f2171a</link>
+<pubDate>Thu, 01 Jan 2026 08:01:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the mystery of Malaysia Airlines Flight 370 as the search resumes]]></title>
 <link>https://apnews.com/article/mh370-malaysia-airlines-flight-370-disappear-mystery-92faaa6a15379e67cdceced91c329a2c</link>
 <pubDate>Wed, 31 Dec 2025 13:47:34 -0000</pubDate>
@@ -224,6 +224,12 @@
 <title><![CDATA[Latest deep-sea search for missing Malaysia Airlines Flight 370 gets underway]]></title>
 <link>https://apnews.com/article/malaysia-mh370-search-bf10603527b8f96767d51e611cb02cc9</link>
 <pubDate>Wed, 31 Dec 2025 13:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Channel Tunnel power malfunction fixed, but rail delays linger]]></title>
+<link>https://apnews.com/article/channel-tunnel-trains-eurostar-eurotunnel-europe-uk-e9e38026fa4f8589dc0157947b46c7e1</link>
+<pubDate>Wed, 31 Dec 2025 12:21:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Channel Tunnel disruption affects Eurostar and vehicle shuttle between France and England]]></title>
-<link>https://apnews.com/article/eurostar-disruption-trains-channel-tunnel-britain-france-3fb0f56c93599fac8b39bf7c7b2550bc</link>
-<pubDate>Wed, 31 Dec 2025 12:32:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
 <link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
 <pubDate>Thu, 01 Jan 2026 03:20:23 -0000</pubDate>
@@ -356,12 +356,6 @@
 <title><![CDATA[Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
 <pubDate>Thu, 01 Jan 2026 06:53:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
-<pubDate>Wed, 31 Dec 2025 14:56:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
