@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 11:36:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 12:22:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -17,21 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A look at some of the worst fires in bars, nightclubs and music venues]]></title>
+<link>https://apnews.com/article/deadly-bar-fires-switzerland-crans-montana-5ccaa26dfb20267c4488978eb40e5787</link>
+<pubDate>Thu, 01 Jan 2026 12:22:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kherson-drone-a041a1db772f25f7396437a4d1734f72</link>
+<pubDate>Thu, 01 Jan 2026 12:07:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
 <link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
 <pubDate>Thu, 01 Jan 2026 09:42:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
-<link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
-<pubDate>Thu, 01 Jan 2026 08:16:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bulgaria is joining the euro. Here’s what it means for consumers and businesses]]></title>
-<link>https://apnews.com/article/bulgaria-eu-euro-russia-disinformation-explainer-6af51f70dd73dcfb0f7c4e829951abbb</link>
-<pubDate>Thu, 01 Jan 2026 10:43:53 -0000</pubDate>
+<title><![CDATA[China announces it ‘successfully completed’ Taiwan military maneuvers]]></title>
+<link>https://apnews.com/article/china-taiwan-military-drills-security-220fe1000ae4b8c33c0050ff68aa38dc</link>
+<pubDate>Thu, 01 Jan 2026 11:52:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pacifist Japan has slowly transformed from exclusively self-defense to a military buildup]]></title>
 <link>https://apnews.com/article/japan-military-buildup-defense-constitution-us-china-4986b7e36b9bb86355898c6d762084e7</link>
 <pubDate>Wed, 31 Dec 2025 13:17:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
-<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
-<pubDate>Wed, 31 Dec 2025 02:51:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope opens 2026 with plea for peace in countries bloodied by war, families wounded by violence]]></title>
+<link>https://apnews.com/article/pope-vatican-new-years-day-1c3217a15337bf1c8a62e1421dff1219</link>
+<pubDate>Thu, 01 Jan 2026 12:22:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cash machines in Bulgaria issue euros for the first time after joining the currency union]]></title>
+<link>https://apnews.com/article/bulgaria-euro-eu-2741828da2f73b5e05b2249f8a5b485c</link>
+<pubDate>Thu, 01 Jan 2026 12:07:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bulgaria is joining the euro. Here’s what it means for consumers and businesses]]></title>
+<link>https://apnews.com/article/bulgaria-eu-euro-russia-disinformation-explainer-6af51f70dd73dcfb0f7c4e829951abbb</link>
+<pubDate>Thu, 01 Jan 2026 11:52:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show the ancient art of Peking opera works hard to keep flourishing in the digital age]]></title>
 <link>https://apnews.com/photo-gallery/peking-opera-chinese-culture-dance-ea318e2dcc774d370800d81de02b208c</link>
 <pubDate>Thu, 01 Jan 2026 03:20:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
+<link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
+<pubDate>Thu, 01 Jan 2026 01:01:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,12 +230,6 @@
 <title><![CDATA[UK’s Queen Camilla recalls assault in 1960s as she campaigns against domestic violence]]></title>
 <link>https://apnews.com/article/britain-camilla-queen-indecent-assault-domestic-violence-b928959252a46d3812c5074965f2171a</link>
 <pubDate>Thu, 01 Jan 2026 08:01:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the mystery of Malaysia Airlines Flight 370 as the search resumes]]></title>
-<link>https://apnews.com/article/mh370-malaysia-airlines-flight-370-disappear-mystery-92faaa6a15379e67cdceced91c329a2c</link>
-<pubDate>Wed, 31 Dec 2025 13:47:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
+<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
+<pubDate>Thu, 01 Jan 2026 11:37:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Colombian city swaps iconic horse buggies for electric carriages amid animal welfare concerns]]></title>
 <link>https://apnews.com/article/colombia-horse-carriages-electric-b7b9f43cb7c0afb344aa626708afbfd6</link>
 <pubDate>Wed, 31 Dec 2025 03:55:35 -0000</pubDate>
@@ -323,27 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[List of aid groups working in Gaza that Israel is suspending]]></title>
-<link>https://apnews.com/article/gaza-humanitarian-aid-suspension-israel-ec535cea548ddc75080f1e6bffe53801</link>
-<pubDate>Wed, 31 Dec 2025 21:37:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The year’s first meteor shower and supermoon clash in January skies]]></title>
-<link>https://apnews.com/article/january-supermoon-meteor-shower-quadrantids-5fca0113fe77e45579d52390a0bc05e9</link>
-<pubDate>Tue, 30 Dec 2025 13:09:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military-backed party claims strong lead in election’s first phase]]></title>
-<link>https://apnews.com/article/myanmar-election-military-party-results-ce5526b01f5dfef692bd52e391856b75</link>
-<pubDate>Wed, 31 Dec 2025 06:53:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s president says answer to attack would be harsh in apparent response to Trump warning]]></title>
-<link>https://apnews.com/article/iran-pezeshkian-us-trump-israel-attack-threat-12c6b141dfe1a3ea5c3422c218a49b0a</link>
-<pubDate>Wed, 31 Dec 2025 18:18:57 -0000</pubDate>
+<title><![CDATA[Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
+<pubDate>Thu, 01 Jan 2026 10:43:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-attack-odesa-peace-466e78a68fc1a85c882eac2c9cc73601</link>
-<pubDate>Wed, 31 Dec 2025 14:56:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[UN makes first visit to Sudan’s el-Fasher since its fall, finding dire conditions]]></title>
 <link>https://apnews.com/article/sudan-elfasher-north-darfur-united-nations-d7ffd25eaa5671da38f0451cbd7845f4</link>
 <pubDate>Wed, 31 Dec 2025 16:14:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China announces it ‘successfully completed’ Taiwan military maneuvers]]></title>
-<link>https://apnews.com/article/china-taiwan-military-drills-security-220fe1000ae4b8c33c0050ff68aa38dc</link>
-<pubDate>Wed, 31 Dec 2025 13:17:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +434,6 @@
 <title><![CDATA[Wall Street falls in light trading on the final day of 2025, another banner year for markets]]></title>
 <link>https://apnews.com/article/stock-markets-2026-inflation-rates-fed-tariffs-fccc61b72ed242f62000add1575707d0</link>
 <pubDate>Wed, 31 Dec 2025 21:22:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
-<pubDate>Thu, 01 Jan 2026 10:43:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
