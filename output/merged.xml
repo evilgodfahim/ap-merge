@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 03:20:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 04:30:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s Xi hails nation’s technological progress and renews pledge to take back Taiwan]]></title>
+<link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
+<pubDate>Thu, 01 Jan 2026 04:30:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pacifist Japan has slowly transformed from exclusively self-defense to a military buildup]]></title>
 <link>https://apnews.com/article/japan-military-buildup-defense-constitution-us-china-4986b7e36b9bb86355898c6d762084e7</link>
 <pubDate>Wed, 31 Dec 2025 13:17:33 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
 <link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
 <pubDate>Wed, 31 Dec 2025 02:51:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s premier offers ‘complete solidarity’ to Saudi Crown Prince after Yemen port strike]]></title>
-<link>https://apnews.com/article/pakistan-saudi-crown-prince-yemen-port-43b1f71a30e1bf472d61fcf76f1ff60b</link>
-<pubDate>Wed, 31 Dec 2025 17:24:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[US imposes sanctions on 4 Venezuelan oil firms and 4 more tankers in Maduro crackdown]]></title>
 <link>https://apnews.com/article/sanctions-oil-tankers-venezuela-trump-maduro-9ffee61472d248aafdc9d9bef6195c2e</link>
 <pubDate>Wed, 31 Dec 2025 22:41:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan’s premier offers ‘complete solidarity’ to Saudi Crown Prince after Yemen port strike]]></title>
+<link>https://apnews.com/article/pakistan-saudi-crown-prince-yemen-port-43b1f71a30e1bf472d61fcf76f1ff60b</link>
+<pubDate>Thu, 01 Jan 2026 04:30:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea will end breeding of bears and extraction of their bile]]></title>
-<link>https://apnews.com/article/south-korea-bear-bile-farmers-884a3d5bc8f01574dfd0919b54f250f9</link>
-<pubDate>Wed, 31 Dec 2025 06:38:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
 <link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
 <pubDate>Thu, 01 Jan 2026 03:20:23 -0000</pubDate>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Xi hails nation’s technological progress and renews promise to take back Taiwan]]></title>
-<link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
-<pubDate>Wed, 31 Dec 2025 12:47:35 -0000</pubDate>
+<title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after China’s military drills]]></title>
+<link>https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160</link>
+<pubDate>Thu, 01 Jan 2026 04:30:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
