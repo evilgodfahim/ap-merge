@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 13:07:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 13:48:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nearly 25 Islamic State fighters killed or captured in Syria, US military says]]></title>
 <link>https://apnews.com/article/islamic-state-group-syria-us-military-94b6e9d1b15478a892d5a8f31e9399ae</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[These bipartisan bills were noncontroversial — until Trump vetoed them]]></title>
+<link>https://apnews.com/article/trump-vetoes-boebert-miccosukee-tribe-alligator-alcatraz-ac59b3ab03fb6f3b09d65b0223f1b495</link>
+<pubDate>Wed, 31 Dec 2025 17:09:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zohran Mamdani sworn in as New York City mayor at historic subway station]]></title>
 <link>https://apnews.com/article/zohran-mamdani-mayor-nyc-3ba51d0ff1f3ff7c06534f6c1e3ea0a3</link>
 <pubDate>Thu, 01 Jan 2026 06:53:40 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Department of Justice is reviewing more than 5.2 million documents related to Jeffrey Epstein]]></title>
 <link>https://apnews.com/article/epstein-files-justice-department-trump-9e3a6f572859a5ff12616bb04409ae8c</link>
 <pubDate>Wed, 31 Dec 2025 20:11:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration orders a Colorado coal-fired power generator to stay open]]></title>
-<link>https://apnews.com/article/trump-coal-plant-electricity-craig-64eab6db7145003c1b7c7bc7584ec7b9</link>
-<pubDate>Thu, 01 Jan 2026 01:01:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India wins T20 series against South Africa after taking 5th match by 30 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-325eb18a3b6af65d9ee3cb634b02844b</link>
 <pubDate>Sat, 20 Dec 2025 14:25:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Flash floods triggered by heavy rains in Afghanistan kill at least 17 people]]></title>
+<link>https://apnews.com/article/afghanistan-rains-flooding-snowfall-winter-killed-people-40f03343a6c5a47f2fff15c420310c35</link>
+<pubDate>Thu, 01 Jan 2026 13:48:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan sees deadliest year in a decade, with combat deaths surging 74% in 2025, report says]]></title>
+<link>https://apnews.com/article/pakistan-record-high-civilian-violence-report-2025-f039934e6acf6863de1189786ad094cc</link>
+<pubDate>Thu, 01 Jan 2026 13:33:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Meta buys startup Manus in latest move to advance its artificial intelligence efforts]]></title>
-<link>https://apnews.com/article/meta-manus-purchase-ai-agents-aaf01029923011a403ceeb949cf3db5e</link>
-<pubDate>Tue, 30 Dec 2025 16:33:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italy’s Parliament approves 2026 budget with deficit-cutting measures]]></title>
-<link>https://apnews.com/article/italy-parliament-budget-deficit-25d2d340f7ef45bd771d7b12f389dd7b</link>
-<pubDate>Tue, 30 Dec 2025 15:41:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration]]></title>
+<title><![CDATA[Fire at Swiss Alpine resort bar during New Year’s celebration leaves dozens feared dead, 100 injured]]></title>
 <link>https://apnews.com/article/switzerland-crans-montana-bar-fire-ff049a656af75e65703c5febb908786c</link>
-<pubDate>Thu, 01 Jan 2026 10:43:54 -0000</pubDate>
+<pubDate>Thu, 01 Jan 2026 13:48:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[These bipartisan bills were noncontroversial — until Trump vetoed them]]></title>
-<link>https://apnews.com/article/trump-vetoes-boebert-miccosukee-tribe-alligator-alcatraz-ac59b3ab03fb6f3b09d65b0223f1b495</link>
-<pubDate>Thu, 01 Jan 2026 05:47:05 -0000</pubDate>
+<title><![CDATA[Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes]]></title>
+<link>https://apnews.com/article/affordable-care-act-health-subsidies-expire-35060610e82ca3257821c53f2a34ecf6</link>
+<pubDate>Thu, 01 Jan 2026 13:33:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
