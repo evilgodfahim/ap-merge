@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 02 Jan 2026 02:54:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 03:59:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
 <link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s emperor and his family greet New Year well-wishers]]></title>
+<link>https://apnews.com/article/emperor-japan-new-year-f5009e4cbf14d52225b8ac151db2be7b</link>
+<pubDate>Fri, 02 Jan 2026 03:59:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China announces it ‘successfully completed’ Taiwan military maneuvers]]></title>
 <link>https://apnews.com/article/china-taiwan-military-drills-security-220fe1000ae4b8c33c0050ff68aa38dc</link>
 <pubDate>Thu, 01 Jan 2026 11:52:03 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
 <link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
 <pubDate>Thu, 01 Jan 2026 09:42:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s Xi hails nation’s technological progress and renews pledge to take back Taiwan]]></title>
-<link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
-<pubDate>Thu, 01 Jan 2026 04:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s Xi hails nation’s technological progress and renews pledge to take back Taiwan]]></title>
+<link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
+<pubDate>Thu, 01 Jan 2026 04:30:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In a breakneck digital era, the ancient art of Peking opera works hard to keep flourishing]]></title>
 <link>https://apnews.com/article/peking-opera-chinese-culture-dance-f50163661b704d519b4cc93641fb714b</link>
 <pubDate>Wed, 31 Dec 2025 08:01:33 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[China’s top diplomat blasts US arms sale to Taiwan as military drills around the island unfold]]></title>
 <link>https://apnews.com/article/china-taiwan-japan-us-arms-sales-02c9fbe341e9bd10953b29c2e981a174</link>
 <pubDate>Tue, 30 Dec 2025 13:57:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China flexes blockade capabilities near Taiwan on second day of military drills]]></title>
-<link>https://apnews.com/article/china-military-drills-taiwan-us-japan-cd6600c23c206385822c733dc2016217</link>
-<pubDate>Wed, 31 Dec 2025 10:13:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
