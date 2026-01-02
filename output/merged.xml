@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 01 Jan 2026 23:38:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 00:56:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
 <link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
@@ -41,15 +41,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
+<link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
+<pubDate>Thu, 01 Jan 2026 09:42:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s Xi hails nation’s technological progress and renews pledge to take back Taiwan]]></title>
 <link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
 <pubDate>Thu, 01 Jan 2026 04:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
-<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
-<pubDate>Wed, 31 Dec 2025 02:51:30 -0000</pubDate>
+<title><![CDATA[US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors]]></title>
+<link>https://apnews.com/article/boat-strike-us-military-venezuela-trump-6d975cd2cafaf9ad959e2dad6f0cb8f0</link>
+<pubDate>Fri, 02 Jan 2026 00:56:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,18 +68,6 @@
 <title><![CDATA[Miners clash with police in Bolivia as protests over fuel subsidies enter second week]]></title>
 <link>https://apnews.com/article/bolivia-protests-miners-paz-reforms-subsidies-b2ce8e131786d7e45cace4d89044f351</link>
 <pubDate>Wed, 31 Dec 2025 02:36:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[CIA behind strike at Venezuelan dock that Trump claims was used by drug smugglers, AP sources say]]></title>
-<link>https://apnews.com/article/trump-venezuela-cia-drone-strike-94d01342b7db67b4795234eb78ce2f5f</link>
-<pubDate>Wed, 31 Dec 2025 03:55:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Junta leader is declared the winner of Guinea’s presidential election]]></title>
-<link>https://apnews.com/article/guinea-election-voting-conakry-fbf8a7b0615923740510f0286c64d67e</link>
-<pubDate>Thu, 01 Jan 2026 14:56:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,6 +86,12 @@
 <title><![CDATA[Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland]]></title>
 <link>https://apnews.com/article/turkey-somalia-president-visit-e160eb59c4b77b6f403d970e11b799bf</link>
 <pubDate>Wed, 31 Dec 2025 09:43:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Kenyan barber who wields a sharpened shovel thrives on Africa’s social media craze]]></title>
+<link>https://apnews.com/article/barber-social-media-viral-unconventional-shovels-iron-tik-tok-famous-706c7ccb3e45b72f9ed9eafa87a70448</link>
+<pubDate>Thu, 01 Jan 2026 05:47:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,12 +221,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Kenyan barber who wields a sharpened shovel thrives on Africa’s social media craze]]></title>
-<link>https://apnews.com/article/barber-social-media-viral-unconventional-shovels-iron-tik-tok-famous-706c7ccb3e45b72f9ed9eafa87a70448</link>
-<pubDate>Thu, 01 Jan 2026 14:56:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show the ancient art of Peking opera works hard to keep flourishing in the digital age]]></title>
 <link>https://apnews.com/photo-gallery/peking-opera-chinese-culture-dance-ea318e2dcc774d370800d81de02b208c</link>
 <pubDate>Thu, 01 Jan 2026 03:20:22 -0000</pubDate>
@@ -341,15 +335,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Colombian city swaps iconic horse buggies for electric carriages amid animal welfare concerns]]></title>
-<link>https://apnews.com/article/colombia-horse-carriages-electric-b7b9f43cb7c0afb344aa626708afbfd6</link>
-<pubDate>Wed, 31 Dec 2025 03:55:35 -0000</pubDate>
+<title><![CDATA[CIA behind strike at Venezuelan dock that Trump claims was used by drug smugglers, AP sources say]]></title>
+<link>https://apnews.com/article/trump-venezuela-cia-drone-strike-94d01342b7db67b4795234eb78ce2f5f</link>
+<pubDate>Fri, 02 Jan 2026 00:56:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cities around the world welcome 2026 with thunderous fireworks and heightened security]]></title>
-<link>https://apnews.com/article/new-year-eve-2026-celebration-33d891df335fd824b29cff8994c61ca9</link>
-<pubDate>Thu, 01 Jan 2026 03:20:23 -0000</pubDate>
+<title><![CDATA[A forgotten chapter: The stories of Allied POWs in Nagasaki during the atomic bombing]]></title>
+<link>https://apnews.com/article/japan-nagasaki-allied-prisoners-atom-bomb-b7a52521d755affdea160d3bd3c9d6c5</link>
+<pubDate>Thu, 01 Jan 2026 11:37:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 6 reported killed during widening protests in Iran sparked by ailing economy]]></title>
+<title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
-<pubDate>Thu, 01 Jan 2026 18:49:28 -0000</pubDate>
+<pubDate>Fri, 02 Jan 2026 00:56:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump delays increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year]]></title>
 <link>https://apnews.com/article/trump-kitchen-cabinets-furniture-tariffs-a89ea5c044af3c2ac8ffcb481e0150ef</link>
 <pubDate>Thu, 01 Jan 2026 14:56:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN makes first visit to Sudan’s el-Fasher since its fall, finding dire conditions]]></title>
+<link>https://apnews.com/article/sudan-elfasher-north-darfur-united-nations-d7ffd25eaa5671da38f0451cbd7845f4</link>
+<pubDate>Wed, 31 Dec 2025 16:14:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors]]></title>
-<link>https://apnews.com/article/boat-strike-us-military-venezuela-trump-6d975cd2cafaf9ad959e2dad6f0cb8f0</link>
-<pubDate>Thu, 01 Jan 2026 02:20:23 -0000</pubDate>
+<title><![CDATA[Brazil’s Bolsonaro leaves hospital and returns to jail in capital Brasilia]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-released-hospital-brasilia-f06831db24efea5780466055f4514544</link>
+<pubDate>Fri, 02 Jan 2026 00:41:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN makes first visit to Sudan’s el-Fasher since its fall, finding dire conditions]]></title>
-<link>https://apnews.com/article/sudan-elfasher-north-darfur-united-nations-d7ffd25eaa5671da38f0451cbd7845f4</link>
-<pubDate>Wed, 31 Dec 2025 16:14:13 -0000</pubDate>
+<title><![CDATA[Junta leader is declared the winner of Guinea’s presidential election]]></title>
+<link>https://apnews.com/article/guinea-election-voting-conakry-fbf8a7b0615923740510f0286c64d67e</link>
+<pubDate>Wed, 31 Dec 2025 00:56:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
