@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 02 Jan 2026 11:10:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 11:35:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
 <link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A fire in a Swiss ski resort bar has left about 40 people dead]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-1bcad7b8d8fddabe1e1c59bafc71e689</link>
+<pubDate>Fri, 02 Jan 2026 11:35:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A look at some of the worst fires in bars, nightclubs and music venues]]></title>
 <link>https://apnews.com/article/deadly-bar-fires-switzerland-crans-montana-5ccaa26dfb20267c4488978eb40e5787</link>
 <pubDate>Thu, 01 Jan 2026 12:22:03 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kherson-drone-a041a1db772f25f7396437a4d1734f72</link>
 <pubDate>Thu, 01 Jan 2026 12:07:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police in Finland arrest 2 in connection with damage to undersea telecom cable]]></title>
-<link>https://apnews.com/article/finland-estonia-undersea-cable-damage-arrests-f19a067520d2eeb13c7117045b491188</link>
-<pubDate>Fri, 02 Jan 2026 10:11:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India wins T20 series against South Africa after taking 5th match by 30 runs]]></title>
 <link>https://apnews.com/article/india-south-africa-325eb18a3b6af65d9ee3cb634b02844b</link>
 <pubDate>Sat, 20 Dec 2025 14:25:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A building under construction collapses in Nairobi, leaving an unknown number of people trapped]]></title>
+<link>https://apnews.com/article/kenya-nairobi-building-collapse-south-c-2a07a02a11447c4cfd2fafdf17a52881</link>
+<pubDate>Fri, 02 Jan 2026 11:35:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Police in Finland arrest 2 in connection with damage to undersea telecom cable]]></title>
+<link>https://apnews.com/article/finland-estonia-undersea-cable-damage-arrests-f19a067520d2eeb13c7117045b491188</link>
+<pubDate>Fri, 02 Jan 2026 11:20:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,33 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A rough year for journalists in 2025, with a little hope for things to turn around]]></title>
-<link>https://apnews.com/article/press-freedom-2025-media-journalists-3d52825a7612e678dc15f002d4ccbd18</link>
-<pubDate>Wed, 31 Dec 2025 19:56:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand releases 18 Cambodian prisoners of war as part of ceasefire agreement]]></title>
-<link>https://apnews.com/article/thailand-cambodia-border-ceasefire-prisoners-release-65c3f6e5af81d2c8ae5156e003cbe7d7</link>
-<pubDate>Wed, 31 Dec 2025 17:39:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A fire in a Swiss ski resort bar has left about 40 people dead]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-1bcad7b8d8fddabe1e1c59bafc71e689</link>
-<pubDate>Fri, 02 Jan 2026 10:11:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israeli hostage released from 2 years of captivity in Gaza struggles to rebuild his life]]></title>
 <link>https://apnews.com/article/israel-palestinians-gaza-hostage-captivity-segev-kalfon-a6167dd341b8cdf26db43a6732fc6662</link>
 <pubDate>Fri, 02 Jan 2026 06:04:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and top Iranian official exchange threats over protests roiling Iran]]></title>
+<title><![CDATA[Trump and top Iranian officials exchange threats over protests roiling Iran]]></title>
 <link>https://apnews.com/article/iran-protests-trump-4e2232877bd1fff11cd80a33db47353d</link>
-<pubDate>Fri, 02 Jan 2026 09:56:47 -0000</pubDate>
+<pubDate>Fri, 02 Jan 2026 11:35:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[Some Warren Buffett wisdom on his last day leading Berkshire Hathaway]]></title>
 <link>https://apnews.com/article/warren-buffett-berkshire-hathaway-retirement-quotes-9463fcacb9fa18a6b504ab8349ffa4b5</link>
 <pubDate>Fri, 02 Jan 2026 08:03:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia puts death toll from Ukrainian strike on occupied village at 27. Kyiv rejects accusation]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-f6d88455c0b975ac894ec6acb11c3ee2</link>
+<pubDate>Fri, 02 Jan 2026 11:20:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
