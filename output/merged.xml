@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 07:11:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 07:36:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-week-top-ap-f76eb683209de8d3bfc8ba5f9f8972ba</link>
+<pubDate>Sat, 03 Jan 2026 07:36:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Palestinians watch as Israeli bulldozers claw down their West Bank homes]]></title>
 <link>https://apnews.com/article/israel-palestinians-demolitions-west-bank-military-cdb5f73470560d8fa5d4af6cc145be47</link>
 <pubDate>Fri, 02 Jan 2026 15:40:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemeni transport ministry says Saudi Arabia mandated inspections of flights between Aden and UAE]]></title>
-<link>https://apnews.com/article/yemen-aden-houthis-airport-southern-transitional-council-33f34af471097846c26531c0ea907069</link>
-<pubDate>Fri, 02 Jan 2026 14:11:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Yemeni transport ministry says Saudi Arabia mandated inspections of flights between Aden and UAE]]></title>
+<link>https://apnews.com/article/yemen-aden-houthis-airport-southern-transitional-council-33f34af471097846c26531c0ea907069</link>
+<pubDate>Sat, 03 Jan 2026 07:36:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkmenistan, one of the world’s most closed nations, legalizes crypto mining and exchanges]]></title>
 <link>https://apnews.com/article/turkmenistan-mining-exchanges-cryptocurrency-4504a5abac729d119d343d4a38e0be1a</link>
 <pubDate>Thu, 01 Jan 2026 17:40:13 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian police officer killed in Aleppo suicide bombing on New Year’s Eve]]></title>
-<link>https://apnews.com/article/syria-suicide-bombing-new-year-d062a9de4d89998d8849390e47234f3b</link>
-<pubDate>Fri, 02 Jan 2026 13:41:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Six people injured in the fatal fire at a Swiss bar remain unidentified. It’s an unbearable wait]]></title>
 <link>https://apnews.com/article/switzerland-crans-montana-bar-fire-c63d39a8f288281d18919b3a585d5f29</link>
 <pubDate>Sat, 03 Jan 2026 04:58:14 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli hostage released from 2 years of captivity in Gaza struggles to rebuild his life]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-hostage-captivity-segev-kalfon-a6167dd341b8cdf26db43a6732fc6662</link>
-<pubDate>Fri, 02 Jan 2026 06:04:11 -0000</pubDate>
+<title><![CDATA[At least 7 explosions and low-flying aircraft are heard in Venezuela’s Caracas]]></title>
+<link>https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e</link>
+<pubDate>Sat, 03 Jan 2026 07:36:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
-<link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
-<pubDate>Fri, 02 Jan 2026 00:56:29 -0000</pubDate>
+<title><![CDATA[Israeli hostage released from 2 years of captivity in Gaza struggles to rebuild his life]]></title>
+<link>https://apnews.com/article/israel-palestinians-gaza-hostage-captivity-segev-kalfon-a6167dd341b8cdf26db43a6732fc6662</link>
+<pubDate>Fri, 02 Jan 2026 06:04:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/photos-week-top-ap-f76eb683209de8d3bfc8ba5f9f8972ba</link>
-<pubDate>Fri, 02 Jan 2026 15:10:25 -0000</pubDate>
+<title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
+<link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
+<pubDate>Fri, 02 Jan 2026 00:56:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
