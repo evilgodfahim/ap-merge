@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 09:38:31 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 10:11:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
+<link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
+<pubDate>Sat, 03 Jan 2026 10:11:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia’s new penal code takes effect, marking historic break with colonial law]]></title>
 <link>https://apnews.com/article/indonesia-new-penal-code-takes-effect-4bcb6a0bdf1a63d17c3ff77f085b6382</link>
 <pubDate>Fri, 02 Jan 2026 12:36:19 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence]]></title>
 <link>https://apnews.com/article/pakistan-riots-trial-journalists-youtubers-military-officers-dd97d50c8db007acf0132d53aecfde6a</link>
 <pubDate>Fri, 02 Jan 2026 13:11:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s emperor and his family greet New Year well-wishers]]></title>
-<link>https://apnews.com/article/emperor-japan-new-year-f5009e4cbf14d52225b8ac151db2be7b</link>
-<pubDate>Fri, 02 Jan 2026 03:59:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Dozens missing after boat carrying more than 200 migrants capsized off the coast of Gambia]]></title>
+<link>https://apnews.com/article/gambia-boat-migrants-capsizing-atlantic-7058d8af4f362eb299a685709d0b693a</link>
+<pubDate>Sat, 03 Jan 2026 10:11:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Transport Canada warns Air India on drinking rules after pilot’s Vancouver arrest]]></title>
 <link>https://apnews.com/article/air-india-pilot-alcohol-canada-ee7fab2f0d848b8a3f0948630b736ea0</link>
 <pubDate>Sat, 03 Jan 2026 02:44:23 -0000</pubDate>
@@ -242,6 +248,12 @@
 <title><![CDATA[Wall Street edges higher in a wobbly start to 2026]]></title>
 <link>https://apnews.com/article/stocks-markets-baidu-trump-rates-491d6d4e0f3e4b3f8c0e48ae2b1455b3</link>
 <pubDate>Sat, 03 Jan 2026 04:58:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s emperor and his family greet New Year well-wishers]]></title>
+<link>https://apnews.com/article/emperor-japan-new-year-f5009e4cbf14d52225b8ac151db2be7b</link>
+<pubDate>Sat, 03 Jan 2026 09:56:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nigerian authorities say British boxer Anthony Joshua released from hospital after road crash]]></title>
-<link>https://apnews.com/article/anthony-joshua-car-crash-nigeria-6df5a51dbdee72ef6788c053bf64cad6</link>
-<pubDate>Thu, 01 Jan 2026 00:46:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US imposes sanctions on 4 Venezuelan oil firms and 4 more tankers in Maduro crackdown]]></title>
-<link>https://apnews.com/article/sanctions-oil-tankers-venezuela-trump-maduro-9ffee61472d248aafdc9d9bef6195c2e</link>
-<pubDate>Wed, 31 Dec 2025 22:41:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela’s government accuses US of attacking civilian, military installations in multiple states]]></title>
+<title><![CDATA[US strikes Venezuela and says its leader, Maduro, has been captured and flown out of the country]]></title>
 <link>https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e</link>
-<pubDate>Sat, 03 Jan 2026 08:45:52 -0000</pubDate>
+<pubDate>Sat, 03 Jan 2026 10:11:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
-<link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
-<pubDate>Fri, 02 Jan 2026 05:49:11 -0000</pubDate>
+<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
+<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
+<pubDate>Sat, 03 Jan 2026 09:56:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
