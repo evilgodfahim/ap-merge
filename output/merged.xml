@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 13:43:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 14:10:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
+<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
+<pubDate>Sat, 03 Jan 2026 14:10:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
 <link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
 <pubDate>Sat, 03 Jan 2026 10:11:26 -0000</pubDate>
@@ -47,9 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence]]></title>
-<link>https://apnews.com/article/pakistan-riots-trial-journalists-youtubers-military-officers-dd97d50c8db007acf0132d53aecfde6a</link>
-<pubDate>Fri, 02 Jan 2026 13:11:50 -0000</pubDate>
+<title><![CDATA[A timeline of the US military’s buildup and strikes against Venezuela leading to Maduro’s capture]]></title>
+<link>https://apnews.com/article/trump-maduro-venezuela-drug-cartels-military-timeline-91e242e5c56eec39b6b7d72bf55dbd2d</link>
+<pubDate>Sat, 03 Jan 2026 13:55:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Bolsonaro leaves hospital and returns to jail in capital Brasilia]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-released-hospital-brasilia-f06831db24efea5780466055f4514544</link>
+<pubDate>Sat, 03 Jan 2026 13:40:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,21 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Coast Guard searches for survivors of boat strikes as odds diminish days later]]></title>
-<link>https://apnews.com/article/boat-strikes-search-survivors-trump-cda03fdbd0f14b882f78f5f370863ac5</link>
-<pubDate>Sat, 03 Jan 2026 00:52:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fireworks dazzled Rio’s sky, and more top photos this week in Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-new-year-5b4010867cf486e0478d6df00b49b0e0</link>
-<pubDate>Fri, 02 Jan 2026 12:56:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Yemeni transport ministry says Saudi Arabia mandated inspections of flights between Aden and UAE]]></title>
 <link>https://apnews.com/article/yemen-aden-houthis-airport-southern-transitional-council-33f34af471097846c26531c0ea907069</link>
 <pubDate>Fri, 02 Jan 2026 14:11:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A tall building under construction collapses in Nairobi, with 4 believed to be trapped]]></title>
+<link>https://apnews.com/article/kenya-nairobi-building-collapse-south-c-2a07a02a11447c4cfd2fafdf17a52881</link>
+<pubDate>Sat, 03 Jan 2026 13:25:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[Junta leader is declared the winner of Guinea’s presidential election]]></title>
 <link>https://apnews.com/article/guinea-election-voting-conakry-fbf8a7b0615923740510f0286c64d67e</link>
 <pubDate>Thu, 01 Jan 2026 14:56:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mali and Burkina Faso impose retaliatory travel ban on US nationals]]></title>
-<link>https://apnews.com/article/mali-niger-burkina-united-states-travel-banned-6a9470afc697f95bb9b5c5d6b127b3a4</link>
-<pubDate>Wed, 31 Dec 2025 02:21:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,6 +203,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Coast Guard searches for survivors of boat strikes as odds diminish days later]]></title>
+<link>https://apnews.com/article/boat-strikes-search-survivors-trump-cda03fdbd0f14b882f78f5f370863ac5</link>
+<pubDate>Sat, 03 Jan 2026 14:10:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[President Trump orders divestment in $2.9 million chips deal to protect US security interests]]></title>
 <link>https://apnews.com/article/president-trump-hiefo-emcore-divestment-fd324a0b76b1680dc5750e222ed74313</link>
 <pubDate>Sat, 03 Jan 2026 00:52:40 -0000</pubDate>
@@ -224,6 +230,18 @@
 <title><![CDATA[Photos of the slim alleyways of Pakistan’s Mughal-era old Lahore city]]></title>
 <link>https://apnews.com/photo-gallery/pakistan-mughal-old-lahore-busting-city-cdba93ac264e04e9651bbf489cb2a658</link>
 <pubDate>Fri, 02 Jan 2026 16:46:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fireworks dazzled Rio’s sky, and more top photos this week in Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-new-year-5b4010867cf486e0478d6df00b49b0e0</link>
+<pubDate>Sat, 03 Jan 2026 00:37:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence]]></title>
+<link>https://apnews.com/article/pakistan-riots-trial-journalists-youtubers-military-officers-dd97d50c8db007acf0132d53aecfde6a</link>
+<pubDate>Sat, 03 Jan 2026 13:55:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria is joining the euro. Here’s what it means for consumers and businesses]]></title>
-<link>https://apnews.com/article/bulgaria-eu-euro-russia-disinformation-explainer-6af51f70dd73dcfb0f7c4e829951abbb</link>
-<pubDate>Thu, 01 Jan 2026 11:52:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Kenyan barber who wields a sharpened shovel thrives on Africa’s social media craze]]></title>
-<link>https://apnews.com/article/barber-social-media-viral-unconventional-shovels-iron-tik-tok-famous-706c7ccb3e45b72f9ed9eafa87a70448</link>
-<pubDate>Thu, 01 Jan 2026 14:56:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show the ancient art of Peking opera works hard to keep flourishing in the digital age]]></title>
-<link>https://apnews.com/photo-gallery/peking-opera-chinese-culture-dance-ea318e2dcc774d370800d81de02b208c</link>
-<pubDate>Thu, 01 Jan 2026 03:20:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US strikes Venezuela and says its leader has been captured and flown from the country]]></title>
 <link>https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e</link>
 <pubDate>Sat, 03 Jan 2026 11:33:47 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Several people injured in the fatal fire at a Swiss bar remain unidentified. It’s an unbearable wait]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-c63d39a8f288281d18919b3a585d5f29</link>
-<pubDate>Sat, 03 Jan 2026 11:18:47 -0000</pubDate>
+<title><![CDATA[Iran’s leader says rioters ‘must be put in their place’ as protest death toll reaches at least 10]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-nuclear-economy-cf491782ecafdc9098878e5a4e5dc384</link>
+<pubDate>Sat, 03 Jan 2026 14:10:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
-<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
-<pubDate>Sat, 03 Jan 2026 08:15:52 -0000</pubDate>
+<title><![CDATA[Several people injured in the fatal fire at a Swiss bar remain unidentified. It’s an unbearable wait]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-c63d39a8f288281d18919b3a585d5f29</link>
+<pubDate>Sat, 03 Jan 2026 11:18:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Grandmother and grandson burn to death in Gaza tent while cooking; Jolie visits Rafah crossing]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-01-02-2026-301135cf2fd6a77cdbf22865e3cb4fe7</link>
-<pubDate>Fri, 02 Jan 2026 19:32:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Young Palestinian boy drowns in muddy water flooding his Gaza tent camp, UN says]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-new-year-82e6b5695608a459078c25a35f5b85c9</link>
 <pubDate>Fri, 02 Jan 2026 12:36:20 -0000</pubDate>
@@ -404,6 +398,12 @@
 <title><![CDATA[Yemen’s separatists announce a constitution for an independent south]]></title>
 <link>https://apnews.com/article/yemen-saudi-arabia-uae-aden-hadramout-stc-47430060997b893492a4770841a6eab1</link>
 <pubDate>Sat, 03 Jan 2026 02:44:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
+<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
+<pubDate>Sat, 03 Jan 2026 13:55:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
-<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
-<pubDate>Sat, 03 Jan 2026 09:56:28 -0000</pubDate>
+<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
+<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
+<pubDate>Sat, 03 Jan 2026 08:15:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Bolsonaro leaves hospital and returns to jail in capital Brasilia]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-released-hospital-brasilia-f06831db24efea5780466055f4514544</link>
-<pubDate>Fri, 02 Jan 2026 00:41:29 -0000</pubDate>
+<title><![CDATA[From bus driver to president: Venezuela’s Maduro never escaped his predecessor’s shadow]]></title>
+<link>https://apnews.com/article/venezuela-maduro-capture-trump-attack-military-ceb21da088f0a06b1813e66922def9a3</link>
+<pubDate>Sat, 03 Jan 2026 13:40:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A tall building under construction collapses in Nairobi, with 4 believed to be trapped]]></title>
-<link>https://apnews.com/article/kenya-nairobi-building-collapse-south-c-2a07a02a11447c4cfd2fafdf17a52881</link>
-<pubDate>Fri, 02 Jan 2026 15:31:08 -0000</pubDate>
+<title><![CDATA[Conservationists in Kenya pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
+<link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
+<pubDate>Sat, 03 Jan 2026 13:25:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
