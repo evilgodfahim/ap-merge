@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 11:08:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 11:33:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro open to US talks on drug trafficking, but silent on CIA strike]]></title>
-<link>https://apnews.com/article/venezuela-maduro-strikes-trump-cia-drug-cartels-7fd22f8cbd3bb79ab79ee51699a24842</link>
-<pubDate>Fri, 02 Jan 2026 02:54:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Earthquake with 6.5 magnitude rattles southern and central Mexico killing 2]]></title>
 <link>https://apnews.com/article/mexico-earthquake-san-marcos-ce9e9e76e445e68797e36b2fa8e14418</link>
 <pubDate>Fri, 02 Jan 2026 22:11:07 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[US Coast Guard searches for survivors of boat strikes as odds diminish days later]]></title>
 <link>https://apnews.com/article/boat-strikes-search-survivors-trump-cda03fdbd0f14b882f78f5f370863ac5</link>
 <pubDate>Sat, 03 Jan 2026 00:52:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fireworks dazzled Rio’s sky, and more top photos this week in Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-new-year-5b4010867cf486e0478d6df00b49b0e0</link>
+<pubDate>Fri, 02 Jan 2026 12:56:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show residents evacuating after explosions in Caracas, Venezuela]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-us-explosions-caracas-25a01a23e7b936b430901428ab0d0907</link>
+<pubDate>Sat, 03 Jan 2026 11:33:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dozens missing after boat carrying more than 200 migrants capsized off the coast of Gambia]]></title>
 <link>https://apnews.com/article/gambia-boat-migrants-capsizing-atlantic-7058d8af4f362eb299a685709d0b693a</link>
 <pubDate>Sat, 03 Jan 2026 10:11:27 -0000</pubDate>
@@ -221,12 +227,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fireworks dazzled Rio’s sky, and more top photos this week in Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-new-year-5b4010867cf486e0478d6df00b49b0e0</link>
-<pubDate>Sat, 03 Jan 2026 00:37:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fans bring life to the Africa Cup of Nations, in photos]]></title>
 <link>https://apnews.com/photo-gallery/africa-cup-afcon-07ab57f7ad8c8119449e86e3b1aa9e3a</link>
 <pubDate>Fri, 02 Jan 2026 13:06:19 -0000</pubDate>
@@ -254,6 +254,12 @@
 <title><![CDATA[Japan’s emperor and his family greet New Year well-wishers]]></title>
 <link>https://apnews.com/article/emperor-japan-new-year-f5009e4cbf14d52225b8ac151db2be7b</link>
 <pubDate>Sat, 03 Jan 2026 09:56:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Maduro open to US talks on drug trafficking, but silent on CIA strike]]></title>
+<link>https://apnews.com/article/venezuela-maduro-strikes-trump-cia-drug-cartels-7fd22f8cbd3bb79ab79ee51699a24842</link>
+<pubDate>Sat, 03 Jan 2026 11:18:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French government defends granting citizenship to George and Amal Clooney]]></title>
-<link>https://apnews.com/article/george-clooney-amal-clooney-france-hollywood-d7a2eba5356feec68afbd921f531074d</link>
-<pubDate>Thu, 01 Jan 2026 01:01:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US strikes Venezuela and says its leader, Maduro, has been captured and flown out of the country]]></title>
+<title><![CDATA[US strikes Venezuela and says its leader has been captured and flown from the country]]></title>
 <link>https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e</link>
-<pubDate>Sat, 03 Jan 2026 10:11:28 -0000</pubDate>
+<pubDate>Sat, 03 Jan 2026 11:33:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Six people injured in the fatal fire at a Swiss bar remain unidentified. It’s an unbearable wait]]></title>
+<title><![CDATA[Several people injured in the fatal fire at a Swiss bar remain unidentified. It’s an unbearable wait]]></title>
 <link>https://apnews.com/article/switzerland-crans-montana-bar-fire-c63d39a8f288281d18919b3a585d5f29</link>
-<pubDate>Sat, 03 Jan 2026 04:58:14 -0000</pubDate>
+<pubDate>Sat, 03 Jan 2026 11:18:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Angelina Jolie visits Egyptian side of border crossing with Gaza Strip]]></title>
-<link>https://apnews.com/video/us-actor-filmmaker-angelina-jolie-visits-egyptian-side-of-border-crossing-with-gaza-strip-d3fd593e980f4fd2a0fa0250871c962a</link>
-<pubDate>Sat, 03 Jan 2026 00:52:40 -0000</pubDate>
+<title><![CDATA[Tremors of strong earthquake interrupt daily briefing by Mexico President Sheinbaum]]></title>
+<link>https://apnews.com/video/tremors-of-strong-earthquake-interrupt-daily-briefing-by-mexico-president-sheinbaum-11be6c18322843599d267df265679375</link>
+<pubDate>Sat, 03 Jan 2026 11:03:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro says Venezuela open to negotiation with US to combat drug trafficking]]></title>
-<link>https://apnews.com/video/maduro-says-venezuela-open-to-negotiation-with-us-to-combat-drug-trafficking-484709f3bcdf4126a8e57035c4a04299</link>
-<pubDate>Fri, 02 Jan 2026 16:01:08 -0000</pubDate>
+<title><![CDATA[Angelina Jolie visits Egyptian side of border crossing with Gaza Strip]]></title>
+<link>https://apnews.com/video/us-actor-filmmaker-angelina-jolie-visits-egyptian-side-of-border-crossing-with-gaza-strip-d3fd593e980f4fd2a0fa0250871c962a</link>
+<pubDate>Sat, 03 Jan 2026 00:52:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
