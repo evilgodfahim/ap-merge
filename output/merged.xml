@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 01:02:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 03:21:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after Chinese military drills]]></title>
+<link>https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160</link>
+<pubDate>Fri, 02 Jan 2026 06:19:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Farmers can now learn how much aid they will get from the Trump administration]]></title>
 <link>https://apnews.com/article/trump-china-soybean-farmers-aid-trade-war-156ece89e354953789910234fec2566b</link>
 <pubDate>Fri, 02 Jan 2026 12:11:50 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[In a breakneck digital era, the ancient art of Peking opera works hard to keep flourishing]]></title>
 <link>https://apnews.com/article/peking-opera-chinese-culture-dance-f50163661b704d519b4cc93641fb714b</link>
 <pubDate>Wed, 31 Dec 2025 08:01:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China factory activity picks up in December as orders rebound ahead of holidays]]></title>
-<link>https://apnews.com/article/china-economy-factory-tariff-trump-pmi-fbddc4259b281371a2e2eba8035ea469</link>
-<pubDate>Wed, 31 Dec 2025 06:38:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea says North Korea has launched ballistic missiles toward the sea]]></title>
-<link>https://apnews.com/article/south-north-korea-missile-76a8850484c5f969e56b797246877c61</link>
-<pubDate>Sun, 04 Jan 2026 01:02:02 -0000</pubDate>
+<title><![CDATA[The rise and fall of Venezuela’s Nicolás Maduro in photos]]></title>
+<link>https://apnews.com/photo-gallery/nicolas-maduro-president-foreign-minister-venezuela-photos-ca25a0951b6c64d26f466d12110b4244</link>
+<pubDate>Sun, 04 Jan 2026 03:21:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s leader says rioters ‘must be put in their place’ as protest death toll reaches at least 10]]></title>
+<title><![CDATA[Iran’s leader says rioters ‘must be put in their place’ as protest death toll reaches at least 15]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-nuclear-economy-cf491782ecafdc9098878e5a4e5dc384</link>
-<pubDate>Sat, 03 Jan 2026 14:10:15 -0000</pubDate>
+<pubDate>Sun, 04 Jan 2026 03:21:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conservationists in Kenya pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
+<title><![CDATA[Conservationists pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
 <link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
-<pubDate>Sat, 03 Jan 2026 13:25:15 -0000</pubDate>
+<pubDate>Sun, 04 Jan 2026 03:06:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after Chinese military drills]]></title>
-<link>https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160</link>
-<pubDate>Thu, 01 Jan 2026 09:27:57 -0000</pubDate>
+<title><![CDATA[North Korea launches ballistic missiles toward sea ahead of South Korean leader’s visit to China]]></title>
+<link>https://apnews.com/article/south-north-korea-missile-76a8850484c5f969e56b797246877c61</link>
+<pubDate>Sun, 04 Jan 2026 02:51:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
