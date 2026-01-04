@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 03:21:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 04:31:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea launches ballistic missiles toward sea ahead of South Korean leader’s visit to China]]></title>
+<link>https://apnews.com/article/south-north-korea-missile-76a8850484c5f969e56b797246877c61</link>
+<pubDate>Sun, 04 Jan 2026 04:31:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar’s military government releases more than 6,100 prisoners on independence anniversary]]></title>
+<link>https://apnews.com/article/myanmar-amnesty-6100-prisoners-independence-day-549742ec63d257652d03f8bc136807b8</link>
+<pubDate>Sun, 04 Jan 2026 04:16:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
 <link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
 <pubDate>Sun, 04 Jan 2026 01:02:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
-<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
-<pubDate>Sat, 03 Jan 2026 14:10:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
-<link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
-<pubDate>Sat, 03 Jan 2026 10:11:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
+<link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
+<pubDate>Sun, 04 Jan 2026 04:31:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Wall Street edges higher in a wobbly start to 2026]]></title>
 <link>https://apnews.com/article/stocks-markets-baidu-trump-rates-491d6d4e0f3e4b3f8c0e48ae2b1455b3</link>
 <pubDate>Sat, 03 Jan 2026 04:58:13 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Yemeni transport ministry says Saudi Arabia mandated inspections of flights between Aden and UAE]]></title>
 <link>https://apnews.com/article/yemen-aden-houthis-airport-southern-transitional-council-33f34af471097846c26531c0ea907069</link>
 <pubDate>Sat, 03 Jan 2026 07:36:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkmenistan, one of the world’s most closed nations, legalizes crypto mining and exchanges]]></title>
-<link>https://apnews.com/article/turkmenistan-mining-exchanges-cryptocurrency-4504a5abac729d119d343d4a38e0be1a</link>
-<pubDate>Thu, 01 Jan 2026 17:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea launches ballistic missiles toward sea ahead of South Korean leader’s visit to China]]></title>
-<link>https://apnews.com/article/south-north-korea-missile-76a8850484c5f969e56b797246877c61</link>
-<pubDate>Sun, 04 Jan 2026 02:51:22 -0000</pubDate>
+<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
+<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
+<pubDate>Sat, 03 Jan 2026 09:56:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
