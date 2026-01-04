@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 23:37:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 01:02:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
 <link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
+<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
+<pubDate>Sun, 04 Jan 2026 01:02:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
 <link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
 <pubDate>Sat, 03 Jan 2026 14:10:14 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Kim’s daughter visits family mausoleum, promoting her potential status as heir in North Korea]]></title>
 <link>https://apnews.com/article/north-korea-kim-daughter-532dafa13d925d44c507717992c64f52</link>
 <pubDate>Sat, 03 Jan 2026 10:11:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia’s new penal code takes effect, marking historic break with colonial law]]></title>
-<link>https://apnews.com/article/indonesia-new-penal-code-takes-effect-4bcb6a0bdf1a63d17c3ff77f085b6382</link>
-<pubDate>Fri, 02 Jan 2026 12:36:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea says North Korea has launched ballistic missiles toward the sea]]></title>
+<link>https://apnews.com/article/south-north-korea-missile-76a8850484c5f969e56b797246877c61</link>
+<pubDate>Sun, 04 Jan 2026 01:02:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[FACT FOCUS: Trump repeats false claims as he discusses US raid to extract Venezuela’s president]]></title>
 <link>https://apnews.com/article/trump-venezuela-fact-focus-32631eb5cf2e3679d816a59f8464cdc7</link>
 <pubDate>Sat, 03 Jan 2026 23:10:33 -0000</pubDate>
@@ -275,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesia’s new penal code takes effect, marking historic break with colonial law]]></title>
+<link>https://apnews.com/article/indonesia-new-penal-code-takes-effect-4bcb6a0bdf1a63d17c3ff77f085b6382</link>
+<pubDate>Fri, 02 Jan 2026 07:40:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australia’s Northern Territory considers passing assisted dying laws for second time in 31 years]]></title>
 <link>https://apnews.com/article/australia-euthanasia-northern-territory-7018ebe47359901fd1d93540500d9384</link>
 <pubDate>Fri, 02 Jan 2026 13:56:51 -0000</pubDate>
@@ -332,18 +344,6 @@
 <title><![CDATA[Turkmenistan, one of the world’s most closed nations, legalizes crypto mining and exchanges]]></title>
 <link>https://apnews.com/article/turkmenistan-mining-exchanges-cryptocurrency-4504a5abac729d119d343d4a38e0be1a</link>
 <pubDate>Thu, 01 Jan 2026 17:40:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bad Bunny’s ‘Debí Tirar Más Fotos’ could make Grammy history]]></title>
-<link>https://apnews.com/article/bad-bunny-2026-grammys-bc54a3352951b13ff2f0c8907c8deb16</link>
-<pubDate>Thu, 01 Jan 2026 19:57:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[British boxer Anthony Joshua initially staying in Nigeria to recuperate after crash]]></title>
-<link>https://apnews.com/article/anthony-joshua-car-crash-nigeria-68039e76da5851f577c6aab5c147f9c5</link>
-<pubDate>Thu, 01 Jan 2026 15:59:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
-<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
-<pubDate>Sat, 03 Jan 2026 08:15:52 -0000</pubDate>
+<title><![CDATA[South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan]]></title>
+<link>https://apnews.com/article/china-south-korea-xi-lee-jae-myung-1e830bb1a85b46f89bfd630b87542910</link>
+<pubDate>Sun, 04 Jan 2026 01:02:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ouster of Maduro government sparks celebrations among Venezuelans in South Florida]]></title>
+<title><![CDATA[Maduro’s ouster sparks celebrations among Venezuelans in South Florida]]></title>
 <link>https://apnews.com/article/venezuela-us-military-action-95e557166a08a1b40aa0d8af507a8b99</link>
-<pubDate>Sat, 03 Jan 2026 19:02:39 -0000</pubDate>
+<pubDate>Sun, 04 Jan 2026 00:47:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
