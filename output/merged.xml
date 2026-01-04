@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 07:38:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 08:15:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
+<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
+<pubDate>Sun, 04 Jan 2026 08:15:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli hostage released from 2 years of captivity in Gaza struggles to rebuild his life]]></title>
 <link>https://apnews.com/article/israel-palestinians-gaza-hostage-captivity-segev-kalfon-a6167dd341b8cdf26db43a6732fc6662</link>
 <pubDate>Sun, 04 Jan 2026 05:45:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
-<link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
-<pubDate>Sat, 03 Jan 2026 08:45:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
-<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
-<pubDate>Sun, 04 Jan 2026 01:02:01 -0000</pubDate>
+<title><![CDATA[Indonesian rescuers find a second body as search for Spanish soccer coach and 2 children extended]]></title>
+<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-second-body-9b03c7e1aa9139132142759f1c4dccab</link>
+<pubDate>Sun, 04 Jan 2026 08:00:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
+<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
+<pubDate>Sat, 03 Jan 2026 14:10:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan’s president pledges to defend island’s sovereignty after Chinese military drills]]></title>
 <link>https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160</link>
 <pubDate>Fri, 02 Jan 2026 06:19:10 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s Xi hails nation’s technological progress and renews pledge to take back Taiwan]]></title>
 <link>https://apnews.com/article/china-xi-jinping-new-year-address-taiwan-56761d92abff5a95f8ff7fd2fb791678</link>
 <pubDate>Thu, 01 Jan 2026 04:30:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In a breakneck digital era, the ancient art of Peking opera works hard to keep flourishing]]></title>
-<link>https://apnews.com/article/peking-opera-chinese-culture-dance-f50163661b704d519b4cc93641fb714b</link>
-<pubDate>Wed, 31 Dec 2025 08:01:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,15 +185,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What we know about a US strike that captured Venezuela’s Maduro and what comes next]]></title>
-<link>https://apnews.com/article/venezuela-us-maduro-what-to-know-a57528ff315a7f70ed51a1721f5e0bc2</link>
-<pubDate>Sun, 04 Jan 2026 05:45:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dozens missing after boat carrying more than 200 migrants capsized off the coast of Gambia]]></title>
 <link>https://apnews.com/article/gambia-boat-migrants-capsizing-atlantic-7058d8af4f362eb299a685709d0b693a</link>
 <pubDate>Sat, 03 Jan 2026 10:11:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Military-backed party leads in early election results in Myanmar]]></title>
+<link>https://apnews.com/article/myanmar-dec28-election-usdp-lead-uec-early-results-336b9121f2466438c673c0bc1dc346d2</link>
+<pubDate>Sun, 04 Jan 2026 08:15:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
+<link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
+<pubDate>Sun, 04 Jan 2026 08:15:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Young Palestinian boy drowns in muddy water flooding his Gaza tent camp, UN says]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-new-year-82e6b5695608a459078c25a35f5b85c9</link>
 <pubDate>Fri, 02 Jan 2026 12:36:20 -0000</pubDate>
@@ -410,12 +416,6 @@
 <title><![CDATA[More Saudi airstrikes hit separatist positions in Yemeni port city]]></title>
 <link>https://apnews.com/article/yemen-saudi-separatists-uae-mukalla-63a3fbdffb23742d670440192184c6d4</link>
 <pubDate>Sat, 03 Jan 2026 18:15:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
-<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
-<pubDate>Sat, 03 Jan 2026 13:55:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,6 +467,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[At least 7 reported killed during widening protests in Iran sparked by ailing economy]]></title>
+<link>https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399</link>
+<pubDate>Fri, 02 Jan 2026 00:56:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Conservationists pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
 <link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
 <pubDate>Sun, 04 Jan 2026 03:06:22 -0000</pubDate>
@@ -479,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ireland’s Micheál Martin will visit China in the first trip by an Irish leader in 14 years]]></title>
-<link>https://apnews.com/article/china-ireland-martin-lee-eu-9a7456b97513d7a22fc2496e1f09ca7b</link>
-<pubDate>Sat, 03 Jan 2026 09:56:28 -0000</pubDate>
+<title><![CDATA[In a frozen northeastern Chinese city, an annual ode to ice rises]]></title>
+<link>https://apnews.com/article/harbin-ice-festival-china-winter-c11eb2d322caf3f98b968c407c28c03d</link>
+<pubDate>Sun, 04 Jan 2026 08:00:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
