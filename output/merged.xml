@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 03:23:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 04:37:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
 <link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After Maduro, who’s next? Trump’s comments spur anxieties about his plans for Greenland and Cuba]]></title>
+<title><![CDATA[After Maduro, who’s next? Trump spurs speculation about his plans for Greenland, Cuba and Colombia]]></title>
 <link>https://apnews.com/article/trump-venezuela-greenland-cuba-571aac35e259857fd512c46f5af11e4d</link>
-<pubDate>Mon, 05 Jan 2026 03:23:38 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 04:37:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Markets show mixed reaction after US capture of Venezuelan leader]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
-<pubDate>Mon, 05 Jan 2026 02:38:38 -0000</pubDate>
+<title><![CDATA[That’s some pricey fish: A glimpse into Japan’s New Year’s tuna auction]]></title>
+<link>https://apnews.com/article/tuna-fish-auction-japan-8225a7241078e8edc699321073046f26</link>
+<pubDate>Mon, 05 Jan 2026 04:22:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Conservationists pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
+<link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
+<pubDate>Mon, 05 Jan 2026 04:07:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A tall building under construction collapses in Nairobi, with 4 believed to be trapped]]></title>
 <link>https://apnews.com/article/kenya-nairobi-building-collapse-south-c-2a07a02a11447c4cfd2fafdf17a52881</link>
 <pubDate>Sat, 03 Jan 2026 13:25:14 -0000</pubDate>
@@ -98,12 +104,6 @@
 <title><![CDATA[UN makes first visit to Sudan’s el-Fasher since its fall, finding dire conditions]]></title>
 <link>https://apnews.com/article/sudan-elfasher-north-darfur-united-nations-d7ffd25eaa5671da38f0451cbd7845f4</link>
 <pubDate>Fri, 02 Jan 2026 16:31:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Junta leader is declared the winner of Guinea’s presidential election]]></title>
-<link>https://apnews.com/article/guinea-election-voting-conakry-fbf8a7b0615923740510f0286c64d67e</link>
-<pubDate>Thu, 01 Jan 2026 14:56:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -169,13 +169,19 @@
 <item>
 <title><![CDATA[Bangladesh mourns slain activist as tensions rise ahead of elections]]></title>
 <link>https://apnews.com/article/bangladesh-funeral-hadi-hasina-yunus-b137d572e22ebaf3dc1a1e684225da73</link>
-<pubDate>Sat, 20 Dec 2025 11:17:42 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 03:52:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[High-speed passenger train kills 7 elephants crossing railway tracks in northeast India]]></title>
 <link>https://apnews.com/article/india-assam-elephants-train-accident-234fb41835bd23be3b404caf47c66fb1</link>
-<pubDate>Sat, 20 Dec 2025 12:01:23 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 03:37:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Markets show mixed reaction after US capture of Venezuelan leader]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
+<pubDate>Mon, 05 Jan 2026 04:37:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Popular South Korean movie star Ahn Sung-ki, dubbed ‘The Nation’s Actor,’ dies at 74]]></title>
+<title><![CDATA[South Korean movie star Ahn Sung-ki, dubbed ‘The Nation’s Actor,’ dies at 74]]></title>
 <link>https://apnews.com/article/south-korea-obit-ahn-sungki-7b0c31f3d2ff56e21efcfe4d405a6e34</link>
-<pubDate>Mon, 05 Jan 2026 03:08:38 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 04:22:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What we know about a US strike that captured Venezuela’s Maduro and what comes next]]></title>
+<link>https://apnews.com/article/venezuela-us-maduro-what-to-know-a57528ff315a7f70ed51a1721f5e0bc2</link>
+<pubDate>Sun, 04 Jan 2026 05:45:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[From bus driver to president: Venezuela’s Maduro never escaped his predecessor’s shadow]]></title>
 <link>https://apnews.com/article/venezuela-maduro-capture-trump-attack-military-ceb21da088f0a06b1813e66922def9a3</link>
 <pubDate>Sun, 04 Jan 2026 14:55:12 -0000</pubDate>
@@ -341,21 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Trump orders divestment in $2.9 million chips deal to protect US security interests]]></title>
-<link>https://apnews.com/article/president-trump-hiefo-emcore-divestment-fd324a0b76b1680dc5750e222ed74313</link>
-<pubDate>Sat, 03 Jan 2026 00:52:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FBI says it disrupted a New Year’s Eve attack plan inspired by Islamic State group]]></title>
-<link>https://apnews.com/article/fbi-islamic-state-group-attack-charlotte-44f31a4463af3d68c3f9c5f2eaac8057</link>
-<pubDate>Fri, 02 Jan 2026 19:32:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Interim Venezuelan leader invites Trump to ‘collaborate,’ seeks ‘respectful relations’]]></title>
+<title><![CDATA[Rubio says US won’t govern Venezuela but will press for changes through oil blockade]]></title>
 <link>https://apnews.com/article/venezuela-maduro-trump-military-operation-85041a1ec03bafe839b785a95169d694</link>
-<pubDate>Mon, 05 Jan 2026 03:23:39 -0000</pubDate>
+<pubDate>Sun, 04 Jan 2026 17:38:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,15 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Surprise interim leader Delcy Rodriguez emerges in Venezuela after Maduro’s capture]]></title>
+<title><![CDATA[Delcy Rodríguez becomes Venezuela’s interim president after Maduro’s ouster]]></title>
 <link>https://apnews.com/article/venezuela-interim-president-rodriguez-maduro-chavez-b352b5af17deb0ab78684b8398045179</link>
-<pubDate>Mon, 05 Jan 2026 00:45:58 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 04:22:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conservationists pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
-<link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
-<pubDate>Sun, 04 Jan 2026 03:06:22 -0000</pubDate>
+<title><![CDATA[Driving instructors teach students to dodge danger on Zimbabwe roads]]></title>
+<link>https://apnews.com/article/road-safety-accidents-deaths-festive-season-12416042cc492e64b7e8772ca3207189</link>
+<pubDate>Mon, 05 Jan 2026 04:07:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
