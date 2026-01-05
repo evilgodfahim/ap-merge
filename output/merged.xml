@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 08:53:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 09:21:45 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli police kill Bedouin man during raid in southern Israel, local official says]]></title>
+<link>https://apnews.com/article/israel-police-village-bedouin-shot-7fb8817cf2317bf5b0b1f1dc86f7a96b</link>
+<pubDate>Mon, 05 Jan 2026 09:21:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
 <link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
 <pubDate>Sun, 04 Jan 2026 15:57:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[More Saudi airstrikes hit separatist positions in Yemeni port city]]></title>
-<link>https://apnews.com/article/yemen-saudi-separatists-uae-mukalla-63a3fbdffb23742d670440192184c6d4</link>
-<pubDate>Sun, 04 Jan 2026 09:38:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
-<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
-<pubDate>Sun, 04 Jan 2026 08:15:17 -0000</pubDate>
+<title><![CDATA[Photos show people in Lebanon enjoying winter weather on the slopes]]></title>
+<link>https://apnews.com/photo-gallery/lebanon-ski-photos-mideast-winter-weather-69cdcacb90e8c4799363e4184014dd15</link>
+<pubDate>Mon, 05 Jan 2026 09:06:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli hostage released from 2 years of captivity in Gaza struggles to rebuild his life]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-hostage-captivity-segev-kalfon-a6167dd341b8cdf26db43a6732fc6662</link>
-<pubDate>Sun, 04 Jan 2026 05:45:19 -0000</pubDate>
+<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
+<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
+<pubDate>Sun, 04 Jan 2026 08:15:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,6 +179,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan and China call for ‘visible and verifiable’ steps against Afghan-based terror groups]]></title>
+<link>https://apnews.com/article/pakistan-china-afghanistan-based-militants-dismantling-0cd54c38ec0c76fbe2a04827844499d0</link>
+<pubDate>Mon, 05 Jan 2026 09:21:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Harbin ice festival draws sculptors and spectators to northern China, in photos]]></title>
+<link>https://apnews.com/photo-gallery/china-ice-snow-festival-photos-94b8ab99450ddd86b904bb6e188e0b4d</link>
+<pubDate>Mon, 05 Jan 2026 09:06:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos from the Critics Choice Awards]]></title>
 <link>https://apnews.com/photo-gallery/critics-choice-awards-photos-a8575b0a1282a98c3fa0bd86513ec044</link>
 <pubDate>Mon, 05 Jan 2026 07:01:36 -0000</pubDate>
@@ -212,12 +224,6 @@
 <title><![CDATA[Markets react mildly to the US capture of Venezuelan leader Maduro]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
 <pubDate>Mon, 05 Jan 2026 07:48:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show people in Lebanon enjoying winter weather on the slopes]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-ski-photos-mideast-winter-weather-69cdcacb90e8c4799363e4184014dd15</link>
-<pubDate>Mon, 05 Jan 2026 03:23:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[More Saudi airstrikes hit separatist positions in Yemeni port city]]></title>
+<link>https://apnews.com/article/yemen-saudi-separatists-uae-mukalla-63a3fbdffb23742d670440192184c6d4</link>
+<pubDate>Sun, 04 Jan 2026 15:10:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How the US captured Venezuelan leader Nicolás Maduro]]></title>
 <link>https://apnews.com/article/trump-maduro-venezuela-presidential-palace-blowtorches-7969152ae48510003fe9cbde92f3c102</link>
 <pubDate>Mon, 05 Jan 2026 01:53:38 -0000</pubDate>
@@ -338,18 +350,6 @@
 <title><![CDATA[Trump claims success with Maduro’s capture as he treads into uncharted territory]]></title>
 <link>https://apnews.com/article/trump-maduro-venezuela-b6e272ee8e23636a1ab9618d8257ae59</link>
 <pubDate>Sat, 03 Jan 2026 20:40:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What we know about a US strike that captured Venezuela’s Maduro and what comes next]]></title>
-<link>https://apnews.com/article/venezuela-us-maduro-what-to-know-a57528ff315a7f70ed51a1721f5e0bc2</link>
-<pubDate>Sun, 04 Jan 2026 05:45:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From bus driver to president: Venezuela’s Maduro never escaped his predecessor’s shadow]]></title>
-<link>https://apnews.com/article/venezuela-maduro-capture-trump-attack-military-ceb21da088f0a06b1813e66922def9a3</link>
-<pubDate>Sun, 04 Jan 2026 14:55:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,21 +371,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Explosions ring out in Venezuela as Maduro’s government accuses US of attack]]></title>
+<link>https://apnews.com/video/explosions-ring-out-in-venezuela-as-maduros-government-accuses-us-of-attack-0469acb431784238b04c72b3ad55ecc8</link>
+<pubDate>Mon, 05 Jan 2026 09:21:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says US is ‘going to run’ Venezuela until a safe transition of power can take place]]></title>
 <link>https://apnews.com/video/trump-says-us-is-going-to-run-venezuela-until-a-safe-transition-of-power-can-take-place-4c4d16e6823b45a99d9ec97df0620c8a</link>
 <pubDate>Sat, 03 Jan 2026 19:32:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Trump says U.S. action will bring Venezuela President Maduro ‘to justice’]]></title>
-<link>https://apnews.com/video/president-trump-says-us-action-will-bring-venezuela-president-maduro-to-justice-d4dded4093a34e398db915ef5b73c89b</link>
-<pubDate>Sat, 03 Jan 2026 19:17:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Tremors of strong earthquake interrupt daily briefing by Mexico President Sheinbaum]]></title>
 <link>https://apnews.com/video/tremors-of-strong-earthquake-interrupt-daily-briefing-by-mexico-president-sheinbaum-11be6c18322843599d267df265679375</link>
 <pubDate>Sat, 03 Jan 2026 11:03:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran has been shaken by a series of protests over the past 50 years. Here’s a look at them]]></title>
+<link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
+<pubDate>Mon, 05 Jan 2026 09:06:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +410,6 @@
 <title><![CDATA[Syrian government and Kurdish-led forces discuss military merger]]></title>
 <link>https://apnews.com/article/syria-kurds-sdf-army-merger-damascus-35bdc0591e9ea2b303d0beae1d0b6d6a</link>
 <pubDate>Mon, 05 Jan 2026 00:30:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli police kill Bedouin man during raid in southern Israel, local official says]]></title>
-<link>https://apnews.com/article/israel-police-village-bedouin-shot-7fb8817cf2317bf5b0b1f1dc86f7a96b</link>
-<pubDate>Mon, 05 Jan 2026 00:15:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
