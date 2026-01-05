@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 10:14:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 10:48:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli police kill Bedouin man during raid in southern Israel, local official says]]></title>
 <link>https://apnews.com/article/israel-police-village-bedouin-shot-7fb8817cf2317bf5b0b1f1dc86f7a96b</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[This Vietnamese town boomed as factories left China. Now it’s asking what’s next?]]></title>
-<link>https://apnews.com/article/vietnam-china-tariffs-trump-factory-b4c20f62725724e4d95ca11a5a7444fe</link>
-<pubDate>Mon, 05 Jan 2026 08:18:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market]]></title>
-<link>https://apnews.com/article/japan-tuna-auction-fish-market-record-ee40ecf56d234a14a625cc09b7a2f8e1</link>
-<pubDate>Mon, 05 Jan 2026 03:08:38 -0000</pubDate>
+<title><![CDATA[Founder of Indonesian ride-hailing app Gojek stands trial over Chromebooks procurement]]></title>
+<link>https://apnews.com/article/indonesia-makarim-gojek-founder-corruption-trial-281c03632003a8e38076b8502edf7387</link>
+<pubDate>Mon, 05 Jan 2026 10:48:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial]]></title>
 <link>https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79</link>
 <pubDate>Mon, 05 Jan 2026 08:03:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korean movie star Ahn Sung-ki, dubbed ‘The Nation’s Actor,’ dies at 74]]></title>
+<link>https://apnews.com/article/south-korea-obit-ahn-sungki-7b0c31f3d2ff56e21efcfe4d405a6e34</link>
+<pubDate>Mon, 05 Jan 2026 10:33:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,6 +179,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96]]></title>
+<link>https://apnews.com/article/holocaust-survivor-eva-schloss-dies-anne-frank-c14e4f5e2a792862f1938fdb589078dc</link>
+<pubDate>Mon, 05 Jan 2026 10:48:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan and China call for ‘visible and verifiable’ steps against Afghan-based terror groups]]></title>
 <link>https://apnews.com/article/pakistan-china-afghanistan-based-militants-dismantling-0cd54c38ec0c76fbe2a04827844499d0</link>
 <pubDate>Mon, 05 Jan 2026 09:21:44 -0000</pubDate>
@@ -203,12 +209,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to expect from CES 2026, the annual show of all things tech?]]></title>
-<link>https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4</link>
-<pubDate>Mon, 05 Jan 2026 05:41:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[That’s some pricey fish: A glimpse into Japan’s New Year’s tuna auction]]></title>
 <link>https://apnews.com/article/tuna-fish-auction-japan-8225a7241078e8edc699321073046f26</link>
 <pubDate>Mon, 05 Jan 2026 08:18:53 -0000</pubDate>
@@ -218,18 +218,6 @@
 <title><![CDATA[Photos show record-breaking $3.2M bluefin tuna sold at Tokyo’s first fish auction of 2026]]></title>
 <link>https://apnews.com/photo-gallery/japan-tuna-auction-photos-26cc1fd7d578919851ef0735d5c726af</link>
 <pubDate>Mon, 05 Jan 2026 08:03:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Markets react mildly to the US capture of Venezuelan leader Maduro]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
-<pubDate>Mon, 05 Jan 2026 07:48:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean movie star Ahn Sung-ki, dubbed ‘The Nation’s Actor,’ dies at 74]]></title>
-<link>https://apnews.com/article/south-korea-obit-ahn-sungki-7b0c31f3d2ff56e21efcfe4d405a6e34</link>
-<pubDate>Mon, 05 Jan 2026 04:22:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[From bus driver to president: Venezuela’s Maduro never escaped his predecessor’s shadow]]></title>
+<link>https://apnews.com/article/venezuela-maduro-capture-trump-attack-military-ceb21da088f0a06b1813e66922def9a3</link>
+<pubDate>Sun, 04 Jan 2026 14:55:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Maduro is set to make his first appearance in a US courtroom on drug trafficking charges]]></title>
 <link>https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328</link>
 <pubDate>Mon, 05 Jan 2026 08:18:53 -0000</pubDate>
@@ -365,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Paris court is set to rule in a case involving the alleged cyberbullying of Brigitte Macron]]></title>
+<title><![CDATA[A Paris court finds 10 people guilty of cyberbullying France’s first lady Brigitte Macron]]></title>
 <link>https://apnews.com/article/brigitte-macron-ruling-cyberbullying-france-5f78de63dc14f765e509a004006808a2</link>
-<pubDate>Mon, 05 Jan 2026 08:03:53 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 10:48:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,33 +407,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tesla loses title as world’s biggest electric vehicle maker as sales fall for second year in a row]]></title>
-<link>https://apnews.com/article/tesla-sales-musk-trump-deliveries-robotaxi-6d60715babde97b3b1a8e2416f4065ca</link>
-<pubDate>Sat, 03 Jan 2026 04:43:14 -0000</pubDate>
+<title><![CDATA[Oil prices fall back after the US capture of Venezuelan leader Maduro]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
+<pubDate>Mon, 05 Jan 2026 10:33:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greece cuts student population at universities by half after long study breaks are abolished]]></title>
-<link>https://apnews.com/article/greece-university-higher-education-students-reform-2b9aae0613baa913f03308b56f155c65</link>
-<pubDate>Sat, 03 Jan 2026 04:28:14 -0000</pubDate>
+<title><![CDATA[This Vietnamese town boomed as factories left China. Now it’s asking what’s next?]]></title>
+<link>https://apnews.com/article/vietnam-china-tariffs-trump-factory-b4c20f62725724e4d95ca11a5a7444fe</link>
+<pubDate>Mon, 05 Jan 2026 10:18:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China Vanke’s near-default exposes fragility of the faltering recovery in the property industry]]></title>
-<link>https://apnews.com/article/china-vanke-property-real-estate-a0bc5a9d1ae887ee3fa027f408582f60</link>
-<pubDate>Fri, 02 Jan 2026 08:33:51 -0000</pubDate>
+<title><![CDATA[Last year’s odd economy in five charts, and what to watch for in 2026]]></title>
+<link>https://apnews.com/article/inflation-economy-trump-jobs-71f3d52f0fd63b34f4a8c59c60ffbe20</link>
+<pubDate>Mon, 05 Jan 2026 10:03:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police in Finland arrest 2 members of cargo ship’s crew in connection with damage to undersea cable]]></title>
-<link>https://apnews.com/article/finland-estonia-undersea-cable-damage-arrests-f19a067520d2eeb13c7117045b491188</link>
-<pubDate>Sat, 03 Jan 2026 04:13:14 -0000</pubDate>
+<title><![CDATA[Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market]]></title>
+<link>https://apnews.com/article/japan-tuna-auction-fish-market-record-ee40ecf56d234a14a625cc09b7a2f8e1</link>
+<pubDate>Mon, 05 Jan 2026 09:48:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran appoints new central bank governor after mass protests as currency hits record low]]></title>
-<link>https://apnews.com/article/iran-currency-inflation-central-bank-governor-protests-ccc43409cfceed3096db8cf63cc0ce53</link>
-<pubDate>Wed, 31 Dec 2025 15:44:13 -0000</pubDate>
+<title><![CDATA[What to expect from CES 2026, the annual show of all things tech]]></title>
+<link>https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4</link>
+<pubDate>Mon, 05 Jan 2026 09:33:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Delcy Rodríguez becomes Venezuela’s interim president after Maduro’s ouster]]></title>
+<title><![CDATA[Who is Delcy Rodriguez, Venezuela’s new leader after Maduro’s capture?]]></title>
 <link>https://apnews.com/article/venezuela-interim-president-rodriguez-maduro-chavez-b352b5af17deb0ab78684b8398045179</link>
-<pubDate>Mon, 05 Jan 2026 04:22:52 -0000</pubDate>
+<pubDate>Mon, 05 Jan 2026 09:18:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
