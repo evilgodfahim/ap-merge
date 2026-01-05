@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 11:38:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 12:23:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian government and Kurdish-led forces discuss military merger]]></title>
+<link>https://apnews.com/article/syria-kurds-sdf-army-merger-damascus-35bdc0591e9ea2b303d0beae1d0b6d6a</link>
+<pubDate>Mon, 05 Jan 2026 12:23:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli police kill Bedouin man during raid in southern Israel, local official says]]></title>
 <link>https://apnews.com/article/israel-police-village-bedouin-shot-7fb8817cf2317bf5b0b1f1dc86f7a96b</link>
 <pubDate>Mon, 05 Jan 2026 09:21:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
-<link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
-<pubDate>Sun, 04 Jan 2026 15:57:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba says 32 Cuban officers were killed in US operation in Venezuela]]></title>
-<link>https://apnews.com/article/cuba-us-venezuela-maduro-e66899b41f0b84cf83f77a69d399b486</link>
-<pubDate>Mon, 05 Jan 2026 07:48:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[‘Still shaken': Trepidation in Venezuela after US captures Maduro]]></title>
 <link>https://apnews.com/article/maduro-venezuela-caracas-us-a3607a328dbecaa30edc69ae6cc238ee</link>
 <pubDate>Mon, 05 Jan 2026 07:33:52 -0000</pubDate>
@@ -71,15 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show people in Lebanon enjoying winter weather on the slopes]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-ski-photos-mideast-winter-weather-69cdcacb90e8c4799363e4184014dd15</link>
-<pubDate>Mon, 05 Jan 2026 09:06:43 -0000</pubDate>
+<title><![CDATA[How cocaine and corruption led to the indictment of Maduro]]></title>
+<link>https://apnews.com/article/maduro-indictment-justice-department-trump-bondi-25a6fbd922472296c744eb5111cd914c</link>
+<pubDate>Mon, 05 Jan 2026 02:08:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria begins circulating new post-Assad currency bills]]></title>
-<link>https://apnews.com/article/syria-new-currency-banknotes-assad-dollar-pound-326fbb7a8c6ffcf30d2eb3b784d75811</link>
-<pubDate>Sun, 04 Jan 2026 08:15:17 -0000</pubDate>
+<title><![CDATA[Photos show people in Lebanon enjoying winter weather on the slopes]]></title>
+<link>https://apnews.com/photo-gallery/lebanon-ski-photos-mideast-winter-weather-69cdcacb90e8c4799363e4184014dd15</link>
+<pubDate>Mon, 05 Jan 2026 09:06:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio says US will press change in Venezuela with oil embargo, while Trump insists ‘we’re in charge’]]></title>
-<link>https://apnews.com/article/venezuela-maduro-trump-military-operation-85041a1ec03bafe839b785a95169d694</link>
-<pubDate>Mon, 05 Jan 2026 07:18:52 -0000</pubDate>
+<title><![CDATA[After capture and removal, Venezuela’s Maduro is being held at notorious Brooklyn jail]]></title>
+<link>https://apnews.com/article/maduro-federal-prisons-jails-mdc-brooklyn-f985d47a1aa82ac330aa8a2e004f3db2</link>
+<pubDate>Sun, 04 Jan 2026 22:41:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +170,12 @@
 <title><![CDATA[Bangladesh mourns slain activist as tensions rise ahead of elections]]></title>
 <link>https://apnews.com/article/bangladesh-funeral-hadi-hasina-yunus-b137d572e22ebaf3dc1a1e684225da73</link>
 <pubDate>Mon, 05 Jan 2026 03:52:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Greece says a radio failure that grounded flights is unlikely to be a cyberattack]]></title>
+<link>https://apnews.com/article/greece-airports-flights-grounded-communications-f2ebc4dea125ab155526202301aabd9b</link>
+<pubDate>Mon, 05 Jan 2026 12:23:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,15 +269,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
+<link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
+<pubDate>Mon, 05 Jan 2026 12:08:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian rescuers find a second body as search for Spanish soccer coach and 2 children extended]]></title>
 <link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-second-body-9b03c7e1aa9139132142759f1c4dccab</link>
 <pubDate>Mon, 05 Jan 2026 02:23:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How cocaine and corruption led to the indictment of Maduro]]></title>
-<link>https://apnews.com/article/maduro-indictment-justice-department-trump-bondi-25a6fbd922472296c744eb5111cd914c</link>
-<pubDate>Mon, 05 Jan 2026 07:33:53 -0000</pubDate>
+<title><![CDATA[Rubio says US will press change in Venezuela with oil embargo, while Trump insists ‘we’re in charge’]]></title>
+<link>https://apnews.com/article/venezuela-maduro-trump-military-operation-85041a1ec03bafe839b785a95169d694</link>
+<pubDate>Mon, 05 Jan 2026 11:53:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From bus driver to president: Venezuela’s Maduro never escaped his predecessor’s shadow]]></title>
-<link>https://apnews.com/article/venezuela-maduro-capture-trump-attack-military-ceb21da088f0a06b1813e66922def9a3</link>
-<pubDate>Sun, 04 Jan 2026 14:55:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Maduro is set to make his first appearance in a US courtroom on drug trafficking charges]]></title>
 <link>https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328</link>
 <pubDate>Mon, 05 Jan 2026 08:18:53 -0000</pubDate>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syrian and Israeli officials set to resume US-mediated talks in Paris]]></title>
+<link>https://apnews.com/article/syria-israel-us-talks-paris-buffer-21623a9919d031e9d31620902a527089</link>
+<pubDate>Mon, 05 Jan 2026 12:23:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[International aid groups grapple with what Israel’s ban will mean for their work in Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-war-netanyahu-aid-groups-077833baa586d64de3246fcff056d864</link>
 <pubDate>Sun, 04 Jan 2026 09:23:05 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[Saudi-backed forces regain control of Yemen’s Hadramout after days of airstrikes]]></title>
 <link>https://apnews.com/article/yemen-separatists-mukalla-saudi-forces-85bf58559c19afa2851f777ceb970831</link>
 <pubDate>Sun, 04 Jan 2026 16:12:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian government and Kurdish-led forces discuss military merger]]></title>
-<link>https://apnews.com/article/syria-kurds-sdf-army-merger-damascus-35bdc0591e9ea2b303d0beae1d0b6d6a</link>
-<pubDate>Mon, 05 Jan 2026 00:30:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who is Delcy Rodriguez, Venezuela’s new leader after Maduro’s capture?]]></title>
-<link>https://apnews.com/article/venezuela-interim-president-rodriguez-maduro-chavez-b352b5af17deb0ab78684b8398045179</link>
-<pubDate>Mon, 05 Jan 2026 09:18:13 -0000</pubDate>
+<title><![CDATA[Cuba says 32 Cuban officers were killed in US operation in Venezuela]]></title>
+<link>https://apnews.com/article/cuba-us-venezuela-maduro-e66899b41f0b84cf83f77a69d399b486</link>
+<pubDate>Mon, 05 Jan 2026 03:08:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
