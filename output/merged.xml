@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 04:36:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 05:16:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[International aid groups grapple with what Israel’s ban will mean for their work in Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-war-netanyahu-aid-groups-077833baa586d64de3246fcff056d864</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea’s junta leader is confirmed president-elect after first vote since a 2021 coup]]></title>
-<link>https://apnews.com/article/guinea-doumbouya-president-election-supreme-court-conakry-b3cf4eb1e045a525542f59347b08fe1a</link>
-<pubDate>Tue, 06 Jan 2026 02:23:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US expands list of countries whose citizens must pay up to $15,000 bonds to apply for visas]]></title>
 <link>https://apnews.com/article/us-visa-restrictions-trump-bond-travel-7211e43ef4eb84144717c3331ab89e8e</link>
 <pubDate>Mon, 05 Jan 2026 16:58:54 -0000</pubDate>
@@ -92,6 +86,12 @@
 <title><![CDATA[Conservationists pay tribute to beloved ‘super tusker’ elephant Craig, who died at age 54]]></title>
 <link>https://apnews.com/article/kenya-elephant-craig-died-640cce608949bae6f9c4cf93953370e4</link>
 <pubDate>Mon, 05 Jan 2026 04:07:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A tall building under construction collapses in Nairobi, with 4 believed to be trapped]]></title>
+<link>https://apnews.com/article/kenya-nairobi-building-collapse-south-c-2a07a02a11447c4cfd2fafdf17a52881</link>
+<pubDate>Sat, 03 Jan 2026 13:25:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Protest erupts in India’s capital city over lynching of Hindu man in Bangladesh]]></title>
 <link>https://apnews.com/article/india-bangladesh-protest-new-delhi-dhaka-hindu-abcadd91cb85f6639bbed6d95b9a9763</link>
 <pubDate>Tue, 23 Dec 2025 10:12:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares and US futures advance and oil prices fall back]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-trump-ces-6d6f626287f9f0f8a7f8a6d98abce0f9</link>
+<pubDate>Tue, 06 Jan 2026 05:16:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen kill at least 30 villagers and abduct others during raid in northern Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-attack-niger-state-kasuwandaji-village-0af1e084e174c2016f665e0b6988bcee</link>
-<pubDate>Sun, 04 Jan 2026 17:23:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuelan government seeks to show it is operating free from US control]]></title>
 <link>https://apnews.com/article/venezuela-maduro-government-delcy-rodriguez-trump-b68f5e333c0195fb391baab18151a594</link>
 <pubDate>Mon, 05 Jan 2026 18:52:51 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy replaces Ukraine’s security chief and hires a Canadian economic adviser]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-government-security-peace-talks-bfd559c78e4c2dfedc81033b6db36a87</link>
-<pubDate>Mon, 05 Jan 2026 17:13:55 -0000</pubDate>
+<title><![CDATA[Central Africa Republic President Faustin Archange Touadéra reelected, provisional results show]]></title>
+<link>https://apnews.com/article/central-african-republic-election-touadera-586cdbe64c133ff9d5251694fb43ce18</link>
+<pubDate>Tue, 06 Jan 2026 02:53:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +443,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Progress for Ukraine talks in Paris uncertain with US focus shifting to Venezuela]]></title>
+<link>https://apnews.com/article/ukraine-russia-macron-starmer-witkoff-21195f5b6a67fd2ac445d05803ae5948</link>
+<pubDate>Tue, 06 Jan 2026 05:16:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Strong earthquake hits western Japan but no risk of tsunami]]></title>
 <link>https://apnews.com/article/japan-earthquake-tsunami-44959540a9aef32c4ddea8ccef2c0c41</link>
 <pubDate>Tue, 06 Jan 2026 03:57:36 -0000</pubDate>
@@ -455,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Central Africa Republic President Faustin Archange Touadéra reelected, provisional results show]]></title>
-<link>https://apnews.com/article/central-african-republic-election-touadera-586cdbe64c133ff9d5251694fb43ce18</link>
-<pubDate>Tue, 06 Jan 2026 02:53:26 -0000</pubDate>
+<title><![CDATA[Guinea’s junta leader is confirmed president-elect after first vote since a 2021 coup]]></title>
+<link>https://apnews.com/article/guinea-doumbouya-president-election-supreme-court-conakry-b3cf4eb1e045a525542f59347b08fe1a</link>
+<pubDate>Mon, 05 Jan 2026 06:16:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
