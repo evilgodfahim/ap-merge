@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 16:15:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 16:51:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[5-year-old and her uncle killed in airstrike in Gaza as Israel says it targeted an imminent threat]]></title>
 <link>https://apnews.com/article/gaza-israel-strike-girl-killed-ceasefire-lebanon-9707ef0fee755285bc466dd1cf285553</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Flash floods in Indonesia kill at least 16 people and sweep away homes]]></title>
-<link>https://apnews.com/article/indonesia-north-sulawesi-flash-floods-siau-d04a2fe55a51bebd32af0ce41322e3b6</link>
-<pubDate>Tue, 06 Jan 2026 09:58:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Curfew imposed in southern Nepal border city after mosque vandalism sparks protests]]></title>
-<link>https://apnews.com/article/nepal-curfew-violence-hindu-muslim-fa681bd2e66845b63ac4e88803f67f11</link>
-<pubDate>Tue, 06 Jan 2026 12:24:52 -0000</pubDate>
+<title><![CDATA[Earthquake shakes western Japan but causes no major damage or tsunami]]></title>
+<link>https://apnews.com/article/japan-earthquake-tsunami-44959540a9aef32c4ddea8ccef2c0c41</link>
+<pubDate>Tue, 06 Jan 2026 16:51:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Indonesia’s panda cub Rio thriving 40 days after birth]]></title>
 <link>https://apnews.com/article/indonesia-panda-cub-591c52a5e384d56bdccd15c4329e8ea0</link>
 <pubDate>Tue, 06 Jan 2026 12:09:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Flash floods in Indonesia kill at least 16 people and sweep away homes]]></title>
+<link>https://apnews.com/article/indonesia-north-sulawesi-flash-floods-siau-d04a2fe55a51bebd32af0ce41322e3b6</link>
+<pubDate>Tue, 06 Jan 2026 09:58:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says Indiana U.S. Rep. Jim Baird and his wife are recovering after a “pretty bad” car crash]]></title>
+<link>https://apnews.com/article/indiana-congressman-jim-baird-car-crash-f2a95109fd9bfeaadc9916654c9ba553</link>
+<pubDate>Tue, 06 Jan 2026 16:36:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[These numbers tell the story of the Los Angeles wildfires, one year later]]></title>
 <link>https://apnews.com/article/los-angeles-wildfires-by-numbers-palisades-altadena-9c077a61ab1482638d12885db76dce49</link>
 <pubDate>Tue, 06 Jan 2026 10:52:44 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Former Uvalde officer accused of not protecting students during 2022 shooting goes on trial]]></title>
 <link>https://apnews.com/article/uvalde-school-shooting-police-officer-trial-bbabc23c1dc8aefe630773aa5ad204b1</link>
 <pubDate>Tue, 06 Jan 2026 10:37:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FAA picks 2 firms to replace 612 outdated radar systems that air traffic controllers rely on]]></title>
-<link>https://apnews.com/article/aviation-safety-duffy-air-traffic-control-radar-f6a3cca968f273bcaf483fe46e6a2569</link>
-<pubDate>Tue, 06 Jan 2026 10:22:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan warns that Afghanistan is becoming ‘hub for terrorists’ and poses regional threat]]></title>
+<link>https://apnews.com/article/pakistan-military-afghanistan-extremism-hub-syria-5c774cc1203861397419afc666918d0c</link>
+<pubDate>Tue, 06 Jan 2026 16:51:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian rescuers recover third body from tour boat sinking]]></title>
 <link>https://apnews.com/article/indonesia-missing-tourists-spanish-1c3f38b054c1c8dfbfe9f17c9bb0773c</link>
 <pubDate>Tue, 06 Jan 2026 15:42:47 -0000</pubDate>
@@ -185,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungarian director Béla Tarr, known for darkly comic films, dies at 70]]></title>
+<title><![CDATA[Hungarian director Béla Tarr, known for his bleak and beautiful films, dies at 70]]></title>
 <link>https://apnews.com/article/hungary-bela-tarr-director-film-satantango-7d25dccc232837db07a61d7d4e9b2a50</link>
-<pubDate>Tue, 06 Jan 2026 14:13:37 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 16:36:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US capture of Maduro divides a changed region, thrilling Trump’s allies and threatening his foes]]></title>
-<link>https://apnews.com/article/venezuela-maduro-trump-milei-petro-sheinbaum-lula-petro-b3f36f0dc6026c5d57a249a7a2cdcc0b</link>
-<pubDate>Tue, 06 Jan 2026 15:12:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump administration’s capture of Maduro raises unease about the international legal framework]]></title>
 <link>https://apnews.com/article/trump-maduro-venezuela-law-un-2e400f5753570b70487fd3d3fa50261e</link>
 <pubDate>Tue, 06 Jan 2026 07:43:48 -0000</pubDate>
@@ -389,21 +389,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel strikes multiple sites in Lebanon ahead of a key disarmament meeting]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-hamas-airstrikes-bekaa-litani-c2a5eaa91827993cd9a81c404a5514ab</link>
-<pubDate>Tue, 06 Jan 2026 08:51:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters in Aleppo]]></title>
+<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters erupt in Aleppo]]></title>
 <link>https://apnews.com/article/syria-aleppo-clashes-kurdish-sdf-efd50af20a31addf3f54b31ee7a44111</link>
-<pubDate>Tue, 06 Jan 2026 13:43:38 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 16:51:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
 <link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
 <pubDate>Tue, 06 Jan 2026 13:28:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel strikes multiple sites in Lebanon ahead of a key disarmament meeting]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-hamas-airstrikes-bekaa-litani-c2a5eaa91827993cd9a81c404a5514ab</link>
+<pubDate>Tue, 06 Jan 2026 08:51:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Earthquake shakes western Japan but causes no major damage or tsunami]]></title>
-<link>https://apnews.com/article/japan-earthquake-tsunami-44959540a9aef32c4ddea8ccef2c0c41</link>
-<pubDate>Tue, 06 Jan 2026 07:28:48 -0000</pubDate>
+<title><![CDATA[Curfew imposed in southern Nepal border city after mosque vandalism sparks protests]]></title>
+<link>https://apnews.com/article/nepal-curfew-violence-hindu-muslim-fa681bd2e66845b63ac4e88803f67f11</link>
+<pubDate>Tue, 06 Jan 2026 16:36:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
