@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 23:38:53 GMT</lastBuildDate>
-<item>
-<title><![CDATA[International aid groups grapple with what Israel’s ban will mean for their work in Gaza]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-war-netanyahu-aid-groups-077833baa586d64de3246fcff056d864</link>
-<pubDate>Mon, 05 Jan 2026 20:13:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 06 Jan 2026 00:56:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Saudi-backed forces regain control of Yemen’s Hadramout after days of airstrikes]]></title>
 <link>https://apnews.com/article/yemen-separatists-mukalla-saudi-forces-85bf58559c19afa2851f777ceb970831</link>
 <pubDate>Sun, 04 Jan 2026 15:10:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian government and Kurdish-led forces discuss military merger]]></title>
+<link>https://apnews.com/article/syria-kurds-sdf-army-merger-damascus-35bdc0591e9ea2b303d0beae1d0b6d6a</link>
+<pubDate>Mon, 05 Jan 2026 12:23:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba faces uncertain future after US topples Venezuelan leader Maduro]]></title>
-<link>https://apnews.com/article/cuba-venezuela-maduro-cancel-allies-ties-trump-7bbbb164281d4d0e68454c4538c5865b</link>
-<pubDate>Mon, 05 Jan 2026 21:24:52 -0000</pubDate>
+<title><![CDATA[US capture of Maduro divides a changed region, thrilling Trump’s allies and threatening his foes]]></title>
+<link>https://apnews.com/article/venezuela-maduro-trump-milei-petro-sheinbaum-lula-petro-b3f36f0dc6026c5d57a249a7a2cdcc0b</link>
+<pubDate>Tue, 06 Jan 2026 00:56:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US allies and adversaries use UN meeting to critique Venezuela intervention as America defends it]]></title>
+<link>https://apnews.com/article/venezuela-united-nations-maduro-trump-waltz-1433e10bbb800fb41b21a70c7501ad88</link>
+<pubDate>Tue, 06 Jan 2026 00:41:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[After Maduro, who’s next? Trump spurs speculation about his plans for Greenland, Cuba and Colombia]]></title>
 <link>https://apnews.com/article/trump-venezuela-greenland-cuba-571aac35e259857fd512c46f5af11e4d</link>
 <pubDate>Mon, 05 Jan 2026 04:37:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Still shaken': Trepidation in Venezuela after US captures Maduro]]></title>
-<link>https://apnews.com/article/maduro-venezuela-caracas-us-a3607a328dbecaa30edc69ae6cc238ee</link>
-<pubDate>Mon, 05 Jan 2026 07:33:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India and New Zealand finalize a free trade agreement, eyeing growth as global uncertainties persist]]></title>
 <link>https://apnews.com/article/india-new-zealand-fta-dairy-modi-luxon-c7c6935528509aaaad00dbd79f1a583e</link>
 <pubDate>Mon, 22 Dec 2025 07:26:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Key moments in the US arrest of and case against Venezuelan leader Nicolás Maduro]]></title>
+<link>https://apnews.com/article/maduro-capture-venezuela-trump-timeline-79d4f2f778702bea4a2a822c9c4bc9c5</link>
+<pubDate>Tue, 06 Jan 2026 00:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico dismisses US military intervention despite Trump’s threats after Venezuela operation]]></title>
+<link>https://apnews.com/article/mexico-trump-cartels-military-e8a8080b9b5ff429b2cf8c960202fe7d</link>
+<pubDate>Tue, 06 Jan 2026 00:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,9 +305,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian government and Kurdish-led forces discuss military merger]]></title>
-<link>https://apnews.com/article/syria-kurds-sdf-army-merger-damascus-35bdc0591e9ea2b303d0beae1d0b6d6a</link>
-<pubDate>Mon, 05 Jan 2026 19:58:54 -0000</pubDate>
+<title><![CDATA[‘Still shaken': Trepidation in Venezuela after US captures Maduro]]></title>
+<link>https://apnews.com/article/maduro-venezuela-caracas-us-a3607a328dbecaa30edc69ae6cc238ee</link>
+<pubDate>Tue, 06 Jan 2026 00:26:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,45 +347,45 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[British and French warplanes strike suspected IS weapons facility in Syria]]></title>
-<link>https://apnews.com/article/syria-islamic-state-palmyra-britain-france-airstrikes-6618e3b320ab63b74c4e34eef9431ba4</link>
-<pubDate>Mon, 05 Jan 2026 12:08:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian rescuers find a second body as search for Spanish soccer coach and 2 children extended]]></title>
-<link>https://apnews.com/article/indonesia-spanish-tourists-boat-sinking-second-body-9b03c7e1aa9139132142759f1c4dccab</link>
-<pubDate>Mon, 05 Jan 2026 02:23:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuelan government seeks to show it is operating free from US control]]></title>
 <link>https://apnews.com/article/venezuela-maduro-government-delcy-rodriguez-trump-b68f5e333c0195fb391baab18151a594</link>
 <pubDate>Mon, 05 Jan 2026 18:52:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro says ‘I was captured’ as he pleads not guilty to drug trafficking charges]]></title>
-<link>https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328</link>
-<pubDate>Mon, 05 Jan 2026 18:37:51 -0000</pubDate>
+<title><![CDATA[Cuba faces uncertain future after US topples Venezuelan leader Maduro]]></title>
+<link>https://apnews.com/article/cuba-venezuela-maduro-cancel-allies-ties-trump-7bbbb164281d4d0e68454c4538c5865b</link>
+<pubDate>Mon, 05 Jan 2026 19:58:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FACT FOCUS: Fabricated and misrepresented images shared widely online after US removal of Maduro]]></title>
-<link>https://apnews.com/article/fact-check-us-venezuela-maduro-photos-videos-c6201e6f6b01872a43c36d344a118d28</link>
-<pubDate>Mon, 05 Jan 2026 21:39:53 -0000</pubDate>
+<title><![CDATA[At least 35 people have been killed and 1,200 detained in Iran’s economic protests]]></title>
+<link>https://apnews.com/article/iran-economic-protests-129cea0f8c39b6d5b5603c634acaa61e</link>
+<pubDate>Tue, 06 Jan 2026 00:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US capture of Maduro divides a changed region, thrilling Trump’s allies and threatening his foes]]></title>
-<link>https://apnews.com/article/venezuela-maduro-trump-milei-petro-sheinbaum-lula-petro-b3f36f0dc6026c5d57a249a7a2cdcc0b</link>
-<pubDate>Mon, 05 Jan 2026 05:41:03 -0000</pubDate>
+<title><![CDATA[Zelenskyy replaces Ukraine’s security chief and hires a Canadian economic adviser]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-government-security-peace-talks-bfd559c78e4c2dfedc81033b6db36a87</link>
+<pubDate>Mon, 05 Jan 2026 17:13:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela vice president says country ready to defend national resources]]></title>
-<link>https://apnews.com/video/venezuela-vice-president-says-country-ready-to-defend-national-resources-76ff06a4d6e5461fb2b8dd3d334aa563</link>
-<pubDate>Mon, 05 Jan 2026 16:16:22 -0000</pubDate>
+<title><![CDATA[5-year-old and her uncle killed in airstrike in Gaza as Israel says it targeted an imminent threat]]></title>
+<link>https://apnews.com/article/gaza-israel-strike-girl-killed-ceasefire-lebanon-9707ef0fee755285bc466dd1cf285553</link>
+<pubDate>Mon, 05 Jan 2026 19:43:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘Soy inocente’ Maduro says during New York court hearing]]></title>
+<link>https://apnews.com/video/soy-innocente-maduro-says-during-new-york-court-hearing-da661a6b4b4f48e69a78df7e9c425c87</link>
+<pubDate>Tue, 06 Jan 2026 00:41:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel strikes Hezbollah and Hamas targets in Lebanon ahead of key disarmament meeting]]></title>
+<link>https://apnews.com/video/israel-strikes-hezbollah-and-hamas-targets-in-lebanon-ahead-of-key-disarmament-meeting-c321bf111e5842ec9d0f3ba2a2958a8d</link>
+<pubDate>Tue, 06 Jan 2026 00:26:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,21 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paris court finds 10 people guilty of cyberbullying France’s first lady - AP explains]]></title>
-<link>https://apnews.com/video/paris-court-finds-10-people-guilty-of-cyberbullying-frances-first-lady-ap-explains-da6a32ed251948d0b9e58d2eb08395be</link>
-<pubDate>Mon, 05 Jan 2026 16:01:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Syrian and Israeli officials set to resume US-mediated talks in Paris]]></title>
 <link>https://apnews.com/article/syria-israel-us-talks-paris-buffer-21623a9919d031e9d31620902a527089</link>
 <pubDate>Mon, 05 Jan 2026 12:23:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[5-year-old and her uncle killed in airstrike in Gaza as Israel says it targeted an imminent threat]]></title>
-<link>https://apnews.com/article/gaza-israel-strike-girl-killed-ceasefire-lebanon-9707ef0fee755285bc466dd1cf285553</link>
-<pubDate>Mon, 05 Jan 2026 19:43:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,6 +410,12 @@
 <title><![CDATA[What we know so far about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
 <pubDate>Mon, 05 Jan 2026 16:58:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[International aid groups grapple with what Israel’s ban will mean for their work in Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-war-netanyahu-aid-groups-077833baa586d64de3246fcff056d864</link>
+<pubDate>Sun, 04 Jan 2026 09:23:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,21 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy replaces Ukraine’s security chief and hires a Canadian economic adviser]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-government-security-peace-talks-bfd559c78e4c2dfedc81033b6db36a87</link>
-<pubDate>Mon, 05 Jan 2026 17:13:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[North Korea says latest missile tests involve hypersonic weapons system]]></title>
 <link>https://apnews.com/article/north-korea-hypersonic-missiles-kim-e8e626f23e3e09632121605489ae25b4</link>
 <pubDate>Mon, 05 Jan 2026 02:38:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US allies and adversaries use UN meeting to critique Venezuela intervention as America defends it]]></title>
-<link>https://apnews.com/article/venezuela-united-nations-maduro-trump-waltz-1433e10bbb800fb41b21a70c7501ad88</link>
-<pubDate>Mon, 05 Jan 2026 20:13:55 -0000</pubDate>
+<title><![CDATA[Maduro says ‘I was captured’ as he pleads not guilty to drug trafficking charges]]></title>
+<link>https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328</link>
+<pubDate>Mon, 05 Jan 2026 18:37:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
