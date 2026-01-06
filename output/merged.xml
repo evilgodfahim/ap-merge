@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 09:45:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 10:13:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What we know so far about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Finnish children learn media literacy at 3 years old. It’s protection against Russian propaganda]]></title>
-<link>https://apnews.com/article/fake-news-classrooms-finland-russia-194b32d8829838bfe47469d6ff357689</link>
-<pubDate>Tue, 06 Jan 2026 03:57:34 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia]]></title>
+<link>https://apnews.com/article/vatican-holy-year-jubilee-pope-b376fc41b1d04ee361042c3acbdd6182</link>
+<pubDate>Tue, 06 Jan 2026 10:13:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Flash floods in Indonesia kill at least 16 people and sweep away homes]]></title>
+<link>https://apnews.com/article/indonesia-north-sulawesi-flash-floods-siau-d04a2fe55a51bebd32af0ce41322e3b6</link>
+<pubDate>Tue, 06 Jan 2026 09:58:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[China and South Korea pledge to bolster ties as regional tensions rise]]></title>
 <link>https://apnews.com/article/china-south-korea-trade-lee-xi-venezuela-fe0a027934d91a678481d9b77b9ac0df</link>
 <pubDate>Mon, 05 Jan 2026 14:43:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Founder of Indonesian ride-hailing app Gojek stands trial over procurement of school laptops]]></title>
-<link>https://apnews.com/article/indonesia-makarim-gojek-founder-corruption-trial-281c03632003a8e38076b8502edf7387</link>
-<pubDate>Tue, 06 Jan 2026 02:53:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,12 +173,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The most interesting tech AP saw on Day 1 of CES]]></title>
-<link>https://apnews.com/article/ces-nvidia-amd-lego-uber-a3e6e4e582ff83a4aa331d1791140369</link>
-<pubDate>Tue, 06 Jan 2026 07:43:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venus Williams loses in Auckland but shows she’s still competitive at 45]]></title>
 <link>https://apnews.com/article/venus-williams-tennis-auckland-be262f400faa5044776d2b4fb9c3250d</link>
 <pubDate>Tue, 06 Jan 2026 06:04:12 -0000</pubDate>
@@ -188,12 +182,6 @@
 <title><![CDATA[A rare ‘thank you’ to the media from the Trump administration]]></title>
 <link>https://apnews.com/article/venezuela-maduro-trump-rubio-media-a56813f2f4fe75cb0f21e382909e1334</link>
 <pubDate>Tue, 06 Jan 2026 05:49:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares and US futures advance, as Tokyo’s Nikkei 225 hits a record high]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-trump-ces-6d6f626287f9f0f8a7f8a6d98abce0f9</link>
-<pubDate>Tue, 06 Jan 2026 07:28:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Founder of Indonesian ride-hailing app Gojek stands trial over procurement of school laptops]]></title>
+<link>https://apnews.com/article/indonesia-makarim-gojek-founder-corruption-trial-281c03632003a8e38076b8502edf7387</link>
+<pubDate>Tue, 06 Jan 2026 10:13:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96]]></title>
 <link>https://apnews.com/article/holocaust-survivor-eva-schloss-dies-anne-frank-c14e4f5e2a792862f1938fdb589078dc</link>
 <pubDate>Mon, 05 Jan 2026 10:48:12 -0000</pubDate>
@@ -269,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[This Vietnamese town boomed as factories left China. Now it’s asking what’s next?]]></title>
+<link>https://apnews.com/article/vietnam-china-tariffs-trump-factory-b4c20f62725724e4d95ca11a5a7444fe</link>
+<pubDate>Mon, 05 Jan 2026 06:46:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Paris court finds 10 people guilty of cyberbullying France’s first lady Brigitte Macron]]></title>
 <link>https://apnews.com/article/brigitte-macron-ruling-cyberbullying-france-5f78de63dc14f765e509a004006808a2</link>
 <pubDate>Tue, 06 Jan 2026 03:42:35 -0000</pubDate>
@@ -278,6 +278,18 @@
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-january-5-2026-57909ce2470138a1a9323ffd42e0d9d1</link>
 <pubDate>Mon, 05 Jan 2026 05:56:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to expect from CES 2026, the annual show of all things tech]]></title>
+<link>https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4</link>
+<pubDate>Tue, 06 Jan 2026 09:58:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Finnish children learn media literacy at 3 years old. It’s protection against Russian propaganda]]></title>
+<link>https://apnews.com/article/fake-news-classrooms-finland-russia-194b32d8829838bfe47469d6ff357689</link>
+<pubDate>Mon, 05 Jan 2026 18:37:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,9 +311,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market]]></title>
+<link>https://apnews.com/article/japan-tuna-auction-fish-market-record-ee40ecf56d234a14a625cc09b7a2f8e1</link>
+<pubDate>Tue, 06 Jan 2026 09:43:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba says 32 Cuban officers were killed in US operation in Venezuela]]></title>
 <link>https://apnews.com/article/cuba-us-venezuela-maduro-e66899b41f0b84cf83f77a69d399b486</link>
 <pubDate>Mon, 05 Jan 2026 20:13:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Wall Street gains ground as crude prices and oil company stocks rise after the US raid on Venezuela]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
+<pubDate>Tue, 06 Jan 2026 09:28:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,30 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro’s case will revive a legal debate over immunity for foreign leaders tested in Noriega trial]]></title>
-<link>https://apnews.com/article/maduro-noriega-prosecution-legal-immunity-venezuela-panama-c0df9b1ecda36e9e1912729fa7ebf9e4</link>
-<pubDate>Mon, 05 Jan 2026 21:09:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Berlin power outage affecting 45,000 homes blamed on ‘politically motivated’ attack]]></title>
-<link>https://apnews.com/article/germany-berlin-electricity-outage-arson-287cf48d8234a0f990d12d77e392e6c7</link>
-<pubDate>Sun, 04 Jan 2026 17:38:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How the Monroe Doctrine factors into US arrest of Venezuela’s Nicolás Maduro]]></title>
-<link>https://apnews.com/article/monroe-doctrine-venezuela-trump-western-hemisphere-maduro-e5581d71ea15f2fb02461e74ac6b08ca</link>
-<pubDate>Mon, 05 Jan 2026 02:53:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of Venezuela the day after US forces captured President Nicolás Maduro]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-us-explosions-caracas-maduro-9d8d5ec0fab172bf7bf7930e7594e244</link>
-<pubDate>Sun, 04 Jan 2026 21:36:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cuba faces uncertain future after US topples Venezuelan leader Maduro]]></title>
 <link>https://apnews.com/article/cuba-venezuela-maduro-cancel-allies-ties-trump-7bbbb164281d4d0e68454c4538c5865b</link>
 <pubDate>Mon, 05 Jan 2026 19:58:55 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Progress for Ukraine talks in Paris uncertain with US focus shifting to Venezuela]]></title>
+<title><![CDATA[Progress for Ukraine talks in Paris uncertain with US focus on Venezuela and Greenland tension]]></title>
 <link>https://apnews.com/article/ukraine-russia-macron-starmer-witkoff-21195f5b6a67fd2ac445d05803ae5948</link>
-<pubDate>Tue, 06 Jan 2026 05:16:50 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 10:13:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,33 +413,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street gains ground as crude prices and oil company stocks rise after the US raid on Venezuela]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-venezuela-trump-gas-67c87db7e47d15e3bf01df7fe4d560b2</link>
-<pubDate>Mon, 05 Jan 2026 15:46:22 -0000</pubDate>
+<title><![CDATA[Asian shares and US futures advance, as Tokyo’s Nikkei 225 hits a record high]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-trump-ces-6d6f626287f9f0f8a7f8a6d98abce0f9</link>
+<pubDate>Tue, 06 Jan 2026 09:58:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[This Vietnamese town boomed as factories left China. Now it’s asking what’s next?]]></title>
-<link>https://apnews.com/article/vietnam-china-tariffs-trump-factory-b4c20f62725724e4d95ca11a5a7444fe</link>
-<pubDate>Mon, 05 Jan 2026 10:18:13 -0000</pubDate>
+<title><![CDATA[The most interesting tech AP saw on Day 1 of CES]]></title>
+<link>https://apnews.com/article/ces-nvidia-amd-lego-uber-a3e6e4e582ff83a4aa331d1791140369</link>
+<pubDate>Tue, 06 Jan 2026 09:43:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Last year’s odd economy in five charts, and what to watch for in 2026]]></title>
-<link>https://apnews.com/article/inflation-economy-trump-jobs-71f3d52f0fd63b34f4a8c59c60ffbe20</link>
-<pubDate>Mon, 05 Jan 2026 10:03:13 -0000</pubDate>
+<title><![CDATA[Record $9.6 million fine for Third Coast after substantial oil spill in the Gulf of Mexico]]></title>
+<link>https://apnews.com/article/gulf-oil-spill-pipeline-record-fine-99f9da1b10d8ff59f935f9989b55e5a2</link>
+<pubDate>Tue, 06 Jan 2026 09:28:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market]]></title>
-<link>https://apnews.com/article/japan-tuna-auction-fish-market-record-ee40ecf56d234a14a625cc09b7a2f8e1</link>
-<pubDate>Mon, 05 Jan 2026 09:48:13 -0000</pubDate>
+<title><![CDATA[Hyundai and Boston Dynamics unveil humanoid robot Atlas at CES]]></title>
+<link>https://apnews.com/article/ces-humanoid-robots-atlas-hyundai-boston-dynamics-8de7b2470c23f5f22441ad1ad7555136</link>
+<pubDate>Tue, 06 Jan 2026 09:13:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to expect from CES 2026, the annual show of all things tech]]></title>
-<link>https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4</link>
-<pubDate>Mon, 05 Jan 2026 09:33:13 -0000</pubDate>
+<title><![CDATA[China bans exports to Japan of dual-use goods that could enhance Tokyo’s military power]]></title>
+<link>https://apnews.com/article/china-japan-exports-ban-military-0ea90fa798771c9fb650422ca3e21e09</link>
+<pubDate>Tue, 06 Jan 2026 08:58:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Central Africa Republic President Faustin Archange Touadéra reelected, provisional results show]]></title>
+<title><![CDATA[Central African Republic President Faustin Archange Touadéra reelected, provisional results show]]></title>
 <link>https://apnews.com/article/central-african-republic-election-touadera-586cdbe64c133ff9d5251694fb43ce18</link>
-<pubDate>Tue, 06 Jan 2026 02:53:26 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 08:43:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
