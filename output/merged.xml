@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 19:09:06 GMT</lastBuildDate>
-<item>
-<title><![CDATA[5-year-old and her uncle killed in airstrike in Gaza as Israel says it targeted an imminent threat]]></title>
-<link>https://apnews.com/article/gaza-israel-strike-girl-killed-ceasefire-lebanon-9707ef0fee755285bc466dd1cf285553</link>
-<pubDate>Tue, 06 Jan 2026 14:13:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 06 Jan 2026 19:35:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran has been shaken by a series of protests over the past 50 years. Here’s a look at them]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
 <pubDate>Tue, 06 Jan 2026 13:58:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What we know so far about the protests shaking Iran]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Tue, 06 Jan 2026 08:51:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s allies meet in Paris but progress is uncertain with US focus on Venezuela and Greenland]]></title>
+<title><![CDATA[Ukraine’s allies agree to provide multilayered security guarantees as part of a peace proposal]]></title>
 <link>https://apnews.com/article/ukraine-russia-macron-starmer-witkoff-21195f5b6a67fd2ac445d05803ae5948</link>
-<pubDate>Tue, 06 Jan 2026 15:42:46 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 19:35:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Alaska Airlines pilot who safely landed plane after panel blew out says Boeing unfairly blamed him]]></title>
+<link>https://apnews.com/article/boeing-door-plug-lawsuit-alaska-airlines-pilot-e832d42c39f9c60b620b08cc572d4eed</link>
+<pubDate>Tue, 06 Jan 2026 19:20:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Police release footage of a person of interest in the killing of an Ohio couple]]></title>
 <link>https://apnews.com/article/dentist-ohio-couple-killed-51d310ada47235ea6aaa40c8bcc1e9af</link>
 <pubDate>Tue, 06 Jan 2026 17:47:03 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Abortion stays legal in Wyoming as its top court strikes down laws, including first US pill ban]]></title>
 <link>https://apnews.com/article/abortion-wyoming-ruling-legal-a8396f0ed4a3229eed5e9fea575be63e</link>
 <pubDate>Tue, 06 Jan 2026 17:32:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New report shows a 25% drop in deaths of on-duty law enforcement officers]]></title>
-<link>https://apnews.com/article/onduty-officer-deaths-2025-903002e6d28678f69d02123b9e3b05b4</link>
-<pubDate>Tue, 06 Jan 2026 11:07:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Shreyas Iyer returns for India’s ODI series against New Zealand]]></title>
 <link>https://apnews.com/article/india-squad-odi-new-zealand-iyer-b356d878c50a82e47e2d2a94bf592cd1</link>
 <pubDate>Mon, 05 Jan 2026 07:03:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cuba releases details of 32 officers killed in US strike on Venezuela as US defends attack]]></title>
+<link>https://apnews.com/article/cubans-killed-venezuela-strike-us-oas-a8d8fcbe3e825979c5d3171f9b076a85</link>
+<pubDate>Tue, 06 Jan 2026 19:35:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-trump-japan-skiing-football-ukraine-0ad29288f976a9ae858c46dc051ef903</link>
+<pubDate>Tue, 06 Jan 2026 19:20:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,33 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Harbin ice festival draws sculptors and spectators to northern China, in photos]]></title>
-<link>https://apnews.com/photo-gallery/china-ice-snow-festival-photos-94b8ab99450ddd86b904bb6e188e0b4d</link>
-<pubDate>Mon, 05 Jan 2026 09:06:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos from the Critics Choice Awards]]></title>
-<link>https://apnews.com/photo-gallery/critics-choice-awards-photos-a8575b0a1282a98c3fa0bd86513ec044</link>
-<pubDate>Mon, 05 Jan 2026 07:01:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration’s capture of Maduro raises unease about the international legal framework]]></title>
-<link>https://apnews.com/article/trump-maduro-venezuela-law-un-2e400f5753570b70487fd3d3fa50261e</link>
-<pubDate>Tue, 06 Jan 2026 07:43:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel clears final hurdle to start settlement construction that would cut the West Bank in two]]></title>
 <link>https://apnews.com/article/israel-settlement-construction-west-bank-cc5887809b15d336ecf16b88dfc0ee03</link>
 <pubDate>Tue, 06 Jan 2026 18:17:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says the US ‘needs’ Greenland for Arctic security. Here’s why]]></title>
-<link>https://apnews.com/article/greenland-denmark-security-trump-arctic-north-6066195d0c6b9e1bbe6da27d55b26ece</link>
-<pubDate>Tue, 06 Jan 2026 13:09:53 -0000</pubDate>
+<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters erupt in Aleppo]]></title>
+<link>https://apnews.com/article/syria-aleppo-clashes-kurdish-sdf-efd50af20a31addf3f54b31ee7a44111</link>
+<pubDate>Tue, 06 Jan 2026 16:51:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration’s capture of Maduro raises unease about the international legal framework]]></title>
+<link>https://apnews.com/article/trump-maduro-venezuela-law-un-2e400f5753570b70487fd3d3fa50261e</link>
+<pubDate>Tue, 06 Jan 2026 07:43:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,12 +383,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters erupt in Aleppo]]></title>
-<link>https://apnews.com/article/syria-aleppo-clashes-kurdish-sdf-efd50af20a31addf3f54b31ee7a44111</link>
-<pubDate>Tue, 06 Jan 2026 16:51:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
 <link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
 <pubDate>Tue, 06 Jan 2026 13:28:38 -0000</pubDate>
@@ -404,6 +398,12 @@
 <title><![CDATA[Syrian and Israeli officials set to resume US-mediated talks in Paris]]></title>
 <link>https://apnews.com/article/syria-israel-us-talks-paris-buffer-21623a9919d031e9d31620902a527089</link>
 <pubDate>Mon, 05 Jan 2026 12:23:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[5-year-old and her uncle killed in airstrike in Gaza as Israel says it targeted an imminent threat]]></title>
+<link>https://apnews.com/article/gaza-israel-strike-girl-killed-ceasefire-lebanon-9707ef0fee755285bc466dd1cf285553</link>
+<pubDate>Mon, 05 Jan 2026 19:43:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,21 +437,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says the US ‘needs’ Greenland for Arctic security. Here’s why]]></title>
+<link>https://apnews.com/article/greenland-denmark-security-trump-arctic-north-6066195d0c6b9e1bbe6da27d55b26ece</link>
+<pubDate>Tue, 06 Jan 2026 13:09:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Curfew imposed in southern Nepal border city after mosque vandalism sparks protests]]></title>
 <link>https://apnews.com/article/nepal-curfew-violence-hindu-muslim-fa681bd2e66845b63ac4e88803f67f11</link>
 <pubDate>Tue, 06 Jan 2026 16:36:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump pushes back against Democrats’ criticism of Maduro raid]]></title>
+<title><![CDATA[At least 24 Venezuelan security officers killed in US operation to capture Maduro, officials say]]></title>
 <link>https://apnews.com/article/venezuela-trump-democrats-9d16138866bebdc2644eb009c6326066</link>
-<pubDate>Tue, 06 Jan 2026 18:02:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What we know so far about the protests shaking Iran]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Mon, 05 Jan 2026 16:58:55 -0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 19:20:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
