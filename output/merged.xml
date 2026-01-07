@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 07 Jan 2026 19:13:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 19:38:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
+<link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
+<pubDate>Wed, 07 Jan 2026 19:38:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel clears final hurdle to start settlement construction that would cut the West Bank in two]]></title>
 <link>https://apnews.com/article/israel-settlement-construction-west-bank-cc5887809b15d336ecf16b88dfc0ee03</link>
 <pubDate>Wed, 07 Jan 2026 15:45:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters erupt in Aleppo]]></title>
-<link>https://apnews.com/article/syria-aleppo-clashes-kurdish-sdf-efd50af20a31addf3f54b31ee7a44111</link>
-<pubDate>Wed, 07 Jan 2026 14:14:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Petro’s clash with Trump over Venezuela backs Colombia into a corner]]></title>
-<link>https://apnews.com/article/colombia-petro-trump-venezuela-maduro-eaf98a41ae427a2d218910606a6fa3e0</link>
-<pubDate>Wed, 07 Jan 2026 17:48:24 -0000</pubDate>
+<title><![CDATA[Venezuela’s military buries soldiers slain in US operation to capture Maduro]]></title>
+<link>https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e</link>
+<pubDate>Wed, 07 Jan 2026 19:23:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Delcy Rodríguez courted Donald Trump and rose to power in Venezuela]]></title>
-<link>https://apnews.com/article/delcy-rodriguez-maduro-trump-venezuela-e71f2289bc801446e05550d8f900a8d1</link>
-<pubDate>Wed, 07 Jan 2026 12:26:02 -0000</pubDate>
+<title><![CDATA[Mexico becomes crucial fuel supplier to Cuba but pledges no extra shipments after Maduro toppled]]></title>
+<link>https://apnews.com/article/mexico-cuba-petroleum-oil-shipments-trump-venezuela-7ec85826c98f23226c2534954b2c2b6f</link>
+<pubDate>Wed, 07 Jan 2026 19:08:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
+<link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
+<pubDate>Wed, 07 Jan 2026 10:14:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Central African Republic President Faustin Archange Touadéra reelected, provisional results show]]></title>
 <link>https://apnews.com/article/central-african-republic-election-touadera-586cdbe64c133ff9d5251694fb43ce18</link>
 <pubDate>Wed, 07 Jan 2026 03:43:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
-<link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
-<pubDate>Wed, 07 Jan 2026 10:14:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gov. Ron DeSantis calls for special session in April to redraw Florida’s congressional districts]]></title>
-<link>https://apnews.com/article/florida-redistricting-census-desantis-b10b743019ba7f25a2f26d3ccdaf9a67</link>
-<pubDate>Wed, 07 Jan 2026 17:33:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Christian leaders minister to an anxious diaspora with Venezuela’s future in flux]]></title>
 <link>https://apnews.com/article/venezuela-diaspora-catholic-migrants-florida-miami-bd23a2a4cd68b472f5c9a8cac427d336</link>
 <pubDate>Wed, 07 Jan 2026 12:11:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fewer than a dozen homes have been rebuilt a year after being burned down in LA-area wildfires]]></title>
+<link>https://apnews.com/article/california-wildfires-la-altadena-rebuild-home-construction-c7bc38063fd8db94dc96522d9e60a836</link>
+<pubDate>Wed, 07 Jan 2026 18:53:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bolsonaro leaves Brazilian prison to undergo medical examinations after fall from his bed]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
+<pubDate>Wed, 07 Jan 2026 19:38:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[EU pushes forward long-discussed free trade deal with South America]]></title>
+<link>https://apnews.com/article/mercosur-italy-meloni-brussels-macron-france-farmers-a29714f10d4626cef803ab6972d3d102</link>
+<pubDate>Wed, 07 Jan 2026 19:23:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos from Cuba, Colombia and Mexico as Trump singles them out after US strike on Venezuela]]></title>
+<link>https://apnews.com/photo-gallery/trump-venezuela-cuba-colombia-mexico-imperialism-600f77e9930aaf6cd856b4a384c51287</link>
+<pubDate>Wed, 07 Jan 2026 19:08:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Millions celebrate Orthodox Christmas on Jan. 7, following ancient traditions]]></title>
 <link>https://apnews.com/article/orthodox-christians-christmas-celebrations-calendars-78c52fef68058953cbaea98974124dff</link>
 <pubDate>Wed, 07 Jan 2026 18:18:24 -0000</pubDate>
@@ -176,6 +194,12 @@
 <title><![CDATA[Cambodia extradites alleged scam kingpin Chen Zhi to China]]></title>
 <link>https://apnews.com/article/cambodia-scam-chen-zhi-prince-group-china-b32da55af90841d6b2b95cc6334f3fa7</link>
 <pubDate>Wed, 07 Jan 2026 18:03:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[President Petro’s clash with Trump over Venezuela backs Colombia into a corner]]></title>
+<link>https://apnews.com/article/colombia-petro-trump-venezuela-maduro-eaf98a41ae427a2d218910606a6fa3e0</link>
+<pubDate>Wed, 07 Jan 2026 18:53:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Delcy Rodríguez courted Donald Trump and rose to power in Venezuela]]></title>
+<link>https://apnews.com/article/delcy-rodriguez-maduro-trump-venezuela-e71f2289bc801446e05550d8f900a8d1</link>
+<pubDate>Wed, 07 Jan 2026 18:38:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What’s next in deposed Venezuela leader Nicolás Maduro’s criminal case]]></title>
 <link>https://apnews.com/article/maduro-venezuela-criminal-case-whats-next-5aebeae4392b4f24b816da0f2ee893f2</link>
 <pubDate>Wed, 07 Jan 2026 17:33:24 -0000</pubDate>
@@ -317,36 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lisette Oropesa shines and draws rave reactions in Met Opera’s ‘I Puritani’]]></title>
-<link>https://apnews.com/article/lisette-oropesa-metropolitan-opera-764f86bddec93b82fdb812d42c5219e8</link>
-<pubDate>Wed, 07 Jan 2026 02:39:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[More than 300 people flee Colombia’s Catatumbo to escape fighting in volatile border region]]></title>
-<link>https://apnews.com/article/colombia-displaced-catatumbo-venezuela-refugees-border-rebels-fa051c175a12b1ea1904fcf00f89d06f</link>
-<pubDate>Tue, 06 Jan 2026 18:17:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canada’s Indigenous governor general to visit Greenland as Trump renews talk of annexing it]]></title>
-<link>https://apnews.com/article/canada-greenland-indigenous-governor-general-trump-9eb4a1526a29a169fe14673069bed33d</link>
-<pubDate>Tue, 06 Jan 2026 18:02:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan warns that Afghanistan is becoming ‘hub for terrorists’ and poses regional threat]]></title>
-<link>https://apnews.com/article/pakistan-military-afghanistan-extremism-hub-syria-5c774cc1203861397419afc666918d0c</link>
-<pubDate>Tue, 06 Jan 2026 16:51:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian rescuers recover third body from tour boat sinking]]></title>
-<link>https://apnews.com/article/indonesia-missing-tourists-spanish-1c3f38b054c1c8dfbfe9f17c9bb0773c</link>
-<pubDate>Tue, 06 Jan 2026 15:42:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran army chief threatens preemptive attack over ‘rhetoric’ targeting country after Trump’s comments]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-dca88a657009aae21e2b8b5086c682ce</link>
 <pubDate>Wed, 07 Jan 2026 11:23:18 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio says he plans to meet Danish officials next week to talk about US interest in Greenland]]></title>
+<title><![CDATA[Rubio plans to meet with Danish officials next week to talk about US interest in Greenland]]></title>
 <link>https://apnews.com/article/trump-european-union-greenland-denmark-rubio-frederiksen-4d18970667b130d293ccaf4c0d55c300</link>
-<pubDate>Wed, 07 Jan 2026 17:48:25 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 19:38:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Separatist group in Yemen loses contact with delegation that went to Riyadh for talks]]></title>
-<link>https://apnews.com/article/yemen-separatists-war-houthis-uae-saudi-arabia-8957267e4b0e82b4e75cdab23fe939b6</link>
-<pubDate>Wed, 07 Jan 2026 17:33:25 -0000</pubDate>
+<title><![CDATA[Trump’s Greenland idea isn’t new. The US has pursued it at least 3 times before]]></title>
+<link>https://apnews.com/article/us-greenland-denmark-history-trump-b5e10babd57ae8ab4069e52df09d91df</link>
+<pubDate>Wed, 07 Jan 2026 19:23:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Separatist group in Yemen loses contact with delegation that went to Riyadh for talks]]></title>
+<link>https://apnews.com/article/yemen-separatists-war-houthis-uae-saudi-arabia-8957267e4b0e82b4e75cdab23fe939b6</link>
+<pubDate>Wed, 07 Jan 2026 17:33:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protest-hit Iran warily watches the US after its raid on Venezuela]]></title>
 <link>https://apnews.com/article/iran-protests-us-venezuela-raid-israel-e9fd7acf6d13640d59c2b56b4a0375ce</link>
 <pubDate>Wed, 07 Jan 2026 06:04:05 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Netanyahu tries to calm tensions after Israeli bus runs over and kills ultra-Orthodox teen]]></title>
 <link>https://apnews.com/article/ultra-orthodox-israel-netanyahu-draft-law-protest-5e91c26f2c033b41305a3ff8db6aff95</link>
 <pubDate>Wed, 07 Jan 2026 15:45:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
-<link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
-<pubDate>Wed, 07 Jan 2026 08:51:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,15 +455,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[New deadly clashes between Syrian forces and Kurdish fighters erupt in Aleppo]]></title>
+<link>https://apnews.com/article/syria-aleppo-clashes-kurdish-sdf-efd50af20a31addf3f54b31ee7a44111</link>
+<pubDate>Tue, 06 Jan 2026 16:51:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Election runner-up in Central African Republic alleges fraud in vote]]></title>
 <link>https://apnews.com/article/central-african-republic-election-6ee1879dcbaa6d3cd975aaecdf7a7e14</link>
 <pubDate>Wed, 07 Jan 2026 15:15:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICE agent shoots and kills a woman during the Minneapolis immigration crackdown]]></title>
+<title><![CDATA[Minneapolis mayor says ICE officer’s killing of a motorist was ‘reckless’ and wasn’t self-defense]]></title>
 <link>https://apnews.com/article/minnesota-immigration-enforcement-shooting-crackdown-surge-173e00fa7388054e98c3b5b9417c1e5a</link>
-<pubDate>Wed, 07 Jan 2026 17:03:25 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 19:08:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
