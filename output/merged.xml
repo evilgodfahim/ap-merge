@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 07 Jan 2026 11:11:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 11:38:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
 <link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
@@ -95,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shooter who killed Brown students and MIT professor planned attack for years, DOJ says]]></title>
-<link>https://apnews.com/article/brown-university-mit-shooter-planning-killing-months-c5daf1283b181a1ef383fb099e0e719f</link>
-<pubDate>Wed, 07 Jan 2026 02:39:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[President Trump says his voters loved the Venezuela attack — here’s what they think]]></title>
 <link>https://apnews.com/article/trump-voters-venezuela-maduro-maga-c41299be874c6f798bcb31e012052714</link>
 <pubDate>Wed, 07 Jan 2026 00:26:33 -0000</pubDate>
@@ -119,6 +113,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nick Reiner to be arraigned in killing of parents Rob and Michele Singer Reiner]]></title>
+<link>https://apnews.com/article/rob-reiner-michele-nick-killing-001241300a3de5ecfa1323b0031fdfcf</link>
+<pubDate>Wed, 07 Jan 2026 11:38:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration’s capture of Maduro raises unease about the international legal framework]]></title>
+<link>https://apnews.com/article/trump-maduro-venezuela-law-un-2e400f5753570b70487fd3d3fa50261e</link>
+<pubDate>Tue, 06 Jan 2026 07:43:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mavericks, Rockets headed to China in October to play pair of preseason games]]></title>
 <link>https://apnews.com/article/nba-china-mavericks-rockets-macao-88cee91abdc43b87499db05f480bc7ee</link>
 <pubDate>Wed, 07 Jan 2026 09:14:06 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[North Korea says latest missile tests involve hypersonic weapons system]]></title>
 <link>https://apnews.com/article/north-korea-hypersonic-missiles-kim-e8e626f23e3e09632121605489ae25b4</link>
 <pubDate>Tue, 06 Jan 2026 03:42:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An annual ode to ice is carved in frozen northern China]]></title>
-<link>https://apnews.com/article/harbin-ice-festival-china-winter-c11eb2d322caf3f98b968c407c28c03d</link>
-<pubDate>Mon, 05 Jan 2026 14:28:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Protest erupts in India’s capital city over lynching of Hindu man in Bangladesh]]></title>
 <link>https://apnews.com/article/india-bangladesh-protest-new-delhi-dhaka-hindu-abcadd91cb85f6639bbed6d95b9a9763</link>
 <pubDate>Wed, 07 Jan 2026 05:49:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Power restored to thousands of Berlin households after attack on lines causes several-day outage]]></title>
+<link>https://apnews.com/article/germany-berlin-power-outage-attack-c945742c0b821b396244fd894f2d971c</link>
+<pubDate>Wed, 07 Jan 2026 11:38:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Entertainment leaders amp up discussions about AI, creators and innovative tech at CES 2026]]></title>
+<link>https://apnews.com/article/ces-entertainment-content-creators-streaming-0b2549f142a450794e46b926546c0f53</link>
+<pubDate>Wed, 07 Jan 2026 11:23:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +218,12 @@
 <title><![CDATA[US nearly triples list of countries whose citizens must post bonds up to $15,000 to apply for visas]]></title>
 <link>https://apnews.com/article/trump-visas-bond-8346bf4fa49791010dc3116aac2a5f89</link>
 <pubDate>Tue, 06 Jan 2026 21:41:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Guyana suspends mining licenses of more than 100 Brazilians in gold smuggling crackdown]]></title>
+<link>https://apnews.com/article/guyana-brazil-gold-mining-licenses-suspended-8de1bdf410b844211da24d2186ac5208</link>
+<pubDate>Tue, 06 Jan 2026 20:43:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,33 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration thanks the media for keeping quiet before the strike that captured Maduro]]></title>
-<link>https://apnews.com/article/venezuela-maduro-trump-rubio-media-a56813f2f4fe75cb0f21e382909e1334</link>
-<pubDate>Tue, 06 Jan 2026 12:24:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street reaches more records on gains by Big Tech]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-trump-ces-6d6f626287f9f0f8a7f8a6d98abce0f9</link>
-<pubDate>Wed, 07 Jan 2026 05:19:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio, Hegseth brief congressional leaders as questions mount over next steps in Venezuela]]></title>
-<link>https://apnews.com/article/venezuela-maduro-government-delcy-rodriguez-trump-be4ef9ce2a28dbb43a31dd0a87388f34</link>
-<pubDate>Tue, 06 Jan 2026 02:53:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says US to get 30 million to 50 million barrels of oil from Venezuela at market price]]></title>
-<link>https://apnews.com/article/venezuela-trump-democrats-9d16138866bebdc2644eb009c6326066</link>
-<pubDate>Wed, 07 Jan 2026 00:41:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump leaves Venezuela’s opposition sidelined and Maduro’s party in power]]></title>
+<title><![CDATA[Trump sidelines Nobel winner Machado and Venezuela’s opposition, leaving Maduro’s party in power]]></title>
 <link>https://apnews.com/article/venezuela-us-maduro-trump-opposition-machado-2d497c934d564e1c9d21376af1111e71</link>
-<pubDate>Wed, 07 Jan 2026 06:19:05 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 11:38:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran army chief threatens preemptive attack over ‘rhetoric’ targeting country after Trump’s comments]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-dca88a657009aae21e2b8b5086c682ce</link>
+<pubDate>Wed, 07 Jan 2026 11:23:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protest-hit Iran warily watches the US after its raid on Venezuela]]></title>
 <link>https://apnews.com/article/iran-protests-us-venezuela-raid-israel-e9fd7acf6d13640d59c2b56b4a0375ce</link>
 <pubDate>Wed, 07 Jan 2026 06:04:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel clears final hurdle to start settlement construction that would cut the West Bank in two]]></title>
-<link>https://apnews.com/article/israel-settlement-construction-west-bank-cc5887809b15d336ecf16b88dfc0ee03</link>
-<pubDate>Tue, 06 Jan 2026 18:17:04 -0000</pubDate>
+<title><![CDATA[Trump says US to get 30 million to 50 million barrels of oil from Venezuela at market price]]></title>
+<link>https://apnews.com/article/venezuela-trump-democrats-9d16138866bebdc2644eb009c6326066</link>
+<pubDate>Wed, 07 Jan 2026 00:41:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Security forces clash with protesters in Iran’s main market as toll rises to 36]]></title>
-<link>https://apnews.com/article/iran-economic-protests-129cea0f8c39b6d5b5603c634acaa61e</link>
-<pubDate>Wed, 07 Jan 2026 09:44:07 -0000</pubDate>
+<title><![CDATA[Israel clears final hurdle to start settlement construction that would cut the West Bank in two]]></title>
+<link>https://apnews.com/article/israel-settlement-construction-west-bank-cc5887809b15d336ecf16b88dfc0ee03</link>
+<pubDate>Tue, 06 Jan 2026 18:17:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China bans exports to Japan of dual-use goods that could enhance Tokyo’s military power]]></title>
-<link>https://apnews.com/article/china-japan-exports-ban-military-0ea90fa798771c9fb650422ca3e21e09</link>
-<pubDate>Tue, 06 Jan 2026 08:58:03 -0000</pubDate>
+<title><![CDATA[China announces another new trade measure against Japan as tensions rise]]></title>
+<link>https://apnews.com/article/china-japan-chips-korea-trade-rare-be0b160c721a62d6ea5ad130a212157b</link>
+<pubDate>Wed, 07 Jan 2026 11:08:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guyana suspends mining licenses of more than 100 Brazilians in gold smuggling crackdown]]></title>
-<link>https://apnews.com/article/guyana-brazil-gold-mining-licenses-suspended-8de1bdf410b844211da24d2186ac5208</link>
-<pubDate>Wed, 07 Jan 2026 05:19:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The coolest technology from Day 2 of CES 2026]]></title>
 <link>https://apnews.com/article/ces-tech-ai-robot-siemens-razer-fusion-573eaf2c9ebcc7f857e877759a6ade05</link>
 <pubDate>Wed, 07 Jan 2026 05:04:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[An eventful first week in his job for CBS News’ Tony Dokoupil, maybe not as intended]]></title>
+<link>https://apnews.com/article/cbs-news-dokoupil-cronkite-bari-weiss-28290218dd58a7db9bdd44e840965781</link>
+<pubDate>Wed, 07 Jan 2026 10:53:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,12 +461,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration’s capture of Maduro raises unease about the international legal framework]]></title>
-<link>https://apnews.com/article/trump-maduro-venezuela-law-un-2e400f5753570b70487fd3d3fa50261e</link>
-<pubDate>Tue, 06 Jan 2026 07:43:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ahead of election, Uganda’s security forces are accused of using violence against the opposition]]></title>
 <link>https://apnews.com/article/uganda-election-military-violence-bobi-wine-b3bec5ee8b68125c49ba9e91e9b992ac</link>
 <pubDate>Wed, 07 Jan 2026 03:43:11 -0000</pubDate>
@@ -476,6 +470,12 @@
 <title><![CDATA[Homeland Security plans 2,000 officers in Minnesota for its ‘largest immigration operation ever’]]></title>
 <link>https://apnews.com/article/immigration-enforcement-ice-noem-minnesota-somali-db661df6de1131a034da2bda4bb3d817</link>
 <pubDate>Wed, 07 Jan 2026 02:24:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China bans exports to Japan of dual-use goods that could enhance Tokyo’s military power]]></title>
+<link>https://apnews.com/article/china-japan-exports-ban-military-0ea90fa798771c9fb650422ca3e21e09</link>
+<pubDate>Tue, 06 Jan 2026 08:58:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
