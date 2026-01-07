@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 07 Jan 2026 20:13:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 20:44:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
 <link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s military buries soldiers slain in US operation to capture Maduro]]></title>
-<link>https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e</link>
-<pubDate>Wed, 07 Jan 2026 19:23:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mexico becomes crucial fuel supplier to Cuba but pledges no extra shipments after Maduro toppled]]></title>
 <link>https://apnews.com/article/mexico-cuba-petroleum-oil-shipments-trump-venezuela-7ec85826c98f23226c2534954b2c2b6f</link>
 <pubDate>Wed, 07 Jan 2026 19:08:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela’s military buries soldiers slain in US operation to capture Maduro]]></title>
+<link>https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e</link>
+<pubDate>Wed, 07 Jan 2026 19:23:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,27 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump immigration policies and aging population slow US growth projection, budget office says]]></title>
+<link>https://apnews.com/article/immigration-trump-census-population-growth-baby-boomers-7470b270a004ae779518722488de58d4</link>
+<pubDate>Wed, 07 Jan 2026 20:44:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[President Trump says his voters loved the Venezuela attack — here’s what they think]]></title>
 <link>https://apnews.com/article/trump-voters-venezuela-maduro-maga-c41299be874c6f798bcb31e012052714</link>
 <pubDate>Wed, 07 Jan 2026 00:26:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says he wants to ban large investors from buying houses. It’s part of his affordability plan]]></title>
+<link>https://apnews.com/article/trump-housing-plan-investors-davos-6ec9f96c03d16c0714a6804c5f703db2</link>
+<pubDate>Wed, 07 Jan 2026 20:29:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New dietary guidelines urge Americans to avoid processed foods and added sugar]]></title>
 <link>https://apnews.com/article/dietary-guidelines-health-agriculture-federal-nutrition-2d8fa56be3c5900fc45116af7c69d786</link>
 <pubDate>Wed, 07 Jan 2026 16:08:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Christian leaders minister to an anxious diaspora with Venezuela’s future in flux]]></title>
-<link>https://apnews.com/article/venezuela-diaspora-catholic-migrants-florida-miami-bd23a2a4cd68b472f5c9a8cac427d336</link>
-<pubDate>Wed, 07 Jan 2026 12:11:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fewer than a dozen homes have been rebuilt a year after being burned down in LA-area wildfires]]></title>
-<link>https://apnews.com/article/california-wildfires-la-altadena-rebuild-home-construction-c7bc38063fd8db94dc96522d9e60a836</link>
-<pubDate>Wed, 07 Jan 2026 18:53:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolsonaro leaves Brazilian prison to undergo medical examinations after fall from his bed]]></title>
+<title><![CDATA[Bolsonaro returns to prison in Brazil after undergoing medical examinations following fall from bed]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
-<pubDate>Wed, 07 Jan 2026 19:38:01 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 20:44:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,9 +239,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV convenes cardinals and signals reforms ahead now that the Holy Year is over]]></title>
+<title><![CDATA[US Christian leaders minister to an anxious diaspora with Venezuela’s future in flux]]></title>
+<link>https://apnews.com/article/venezuela-diaspora-catholic-migrants-florida-miami-bd23a2a4cd68b472f5c9a8cac427d336</link>
+<pubDate>Wed, 07 Jan 2026 20:29:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope convenes cardinals and asks their priorities for 2 years, with Latin Mass off the agenda]]></title>
 <link>https://apnews.com/article/vatican-cardinals-pope-reform-latin-215bc344c4fd86f634d140dc84c4f0f3</link>
-<pubDate>Wed, 07 Jan 2026 16:08:11 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 20:14:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-trump-japan-skiing-football-ukraine-0ad29288f976a9ae858c46dc051ef903</link>
-<pubDate>Tue, 06 Jan 2026 19:20:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran army chief threatens preemptive attack over ‘rhetoric’ targeting country after Trump’s comments]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-dca88a657009aae21e2b8b5086c682ce</link>
 <pubDate>Wed, 07 Jan 2026 11:23:18 -0000</pubDate>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street’s hot start to the year cools as stocks drift]]></title>
+<title><![CDATA[Wall Street’s strong start to the year slows as stocks drift]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-venezuela-rates-5b6274e10230325ebd9f5ecd224b002a</link>
-<pubDate>Wed, 07 Jan 2026 15:30:25 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 20:44:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
