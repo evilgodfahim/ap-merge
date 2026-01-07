@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 23:38:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 00:56:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian and Israeli officials set to resume US-mediated talks in Paris]]></title>
 <link>https://apnews.com/article/syria-israel-us-talks-paris-buffer-21623a9919d031e9d31620902a527089</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s allies praise major progress on defense guarantees if a peace deal is struck with Russia]]></title>
-<link>https://apnews.com/article/ukraine-russia-macron-starmer-witkoff-21195f5b6a67fd2ac445d05803ae5948</link>
-<pubDate>Tue, 06 Jan 2026 21:56:51 -0000</pubDate>
+<title><![CDATA[Snow and ice wreak havoc across Europe, causing deadly accidents and travel chaos]]></title>
+<link>https://apnews.com/article/snow-weather-europe-travel-chaos-715dbe412cffa68f87f21045bc74c85b</link>
+<pubDate>Tue, 06 Jan 2026 12:39:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Ukraine allies’ security guarantees as the war nears 4 years]]></title>
-<link>https://apnews.com/article/ukraine-war-russia-paris-macron-ed33052069b813110fe1aeb13d4268a4</link>
-<pubDate>Tue, 06 Jan 2026 21:41:51 -0000</pubDate>
+<title><![CDATA[Fire safety inspections lapsed for years at Swiss bar where 40 died in New Year’s blaze]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-constellation-bar-inspections-safety-d270a933adb9dd5589957ece1a4d5c59</link>
+<pubDate>Wed, 07 Jan 2026 00:56:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Flash floods in Indonesia kill at least 16 people and sweep away homes]]></title>
+<link>https://apnews.com/article/indonesia-north-sulawesi-flash-floods-siau-d04a2fe55a51bebd32af0ce41322e3b6</link>
+<pubDate>Tue, 06 Jan 2026 09:58:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Indonesia’s panda cub Rio thriving 40 days after birth]]></title>
 <link>https://apnews.com/article/indonesia-panda-cub-591c52a5e384d56bdccd15c4329e8ea0</link>
 <pubDate>Tue, 06 Jan 2026 12:09:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Flash floods in Indonesia kill at least 16 people and sweep away homes]]></title>
-<link>https://apnews.com/article/indonesia-north-sulawesi-flash-floods-siau-d04a2fe55a51bebd32af0ce41322e3b6</link>
-<pubDate>Tue, 06 Jan 2026 09:58:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +101,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Shooter who killed Brown students and MIT professor planned attack for months, says DOJ]]></title>
+<title><![CDATA[Shooter who killed Brown students and MIT professor planned attack for years, says DOJ]]></title>
 <link>https://apnews.com/article/brown-university-mit-shooter-planning-killing-months-c5daf1283b181a1ef383fb099e0e719f</link>
-<pubDate>Tue, 06 Jan 2026 23:23:51 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 00:41:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[President Trump says his voters loved the Venezuela attack — here’s what they think]]></title>
+<link>https://apnews.com/article/trump-voters-venezuela-maduro-maga-c41299be874c6f798bcb31e012052714</link>
+<pubDate>Wed, 07 Jan 2026 00:26:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump administration says it’s withholding social safety net money from 5 states over fraud concerns]]></title>
 <link>https://apnews.com/article/trump-administration-safety-net-funding-fraud-a5b5712a99ea20695a85d2ffe3b687d9</link>
 <pubDate>Tue, 06 Jan 2026 21:11:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pamela Smart seeks to overturn conviction for having teenager murder her husband]]></title>
-<link>https://apnews.com/article/pam-smart-husband-murdered-habeas-petition-57a7891b006073475850cb6d1d39f3f9</link>
-<pubDate>Tue, 06 Jan 2026 20:56:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,21 +263,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Snow and ice wreak havoc across Europe, causing deadly accidents and travel chaos]]></title>
-<link>https://apnews.com/article/snow-weather-europe-travel-chaos-715dbe412cffa68f87f21045bc74c85b</link>
-<pubDate>Tue, 06 Jan 2026 21:11:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Slovenia will hold parliamentary election on March 22]]></title>
 <link>https://apnews.com/article/slovenia-parliamentary-election-president-d2b045e747d54c0ad3a7d3e246c9ed48</link>
 <pubDate>Tue, 06 Jan 2026 11:37:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fire safety inspections lapsed for years at Swiss bar where 40 died in New Year’s blaze]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-constellation-bar-inspections-safety-d270a933adb9dd5589957ece1a4d5c59</link>
-<pubDate>Tue, 06 Jan 2026 12:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +341,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Trump says his voters loved the Venezuela attack — here’s what they think]]></title>
-<link>https://apnews.com/article/trump-voters-venezuela-maduro-maga-c41299be874c6f798bcb31e012052714</link>
-<pubDate>Tue, 06 Jan 2026 22:11:52 -0000</pubDate>
+<title><![CDATA[The Golden Globes are this week. Here’s what to know about the first major show of awards season]]></title>
+<link>https://apnews.com/article/golden-globes-2026-what-to-know-5c67be217f15e16da1b97c5d18fb8197</link>
+<pubDate>Mon, 05 Jan 2026 16:16:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Delcy Rodríguez courted Donald Trump and rose to power in Venezuela]]></title>
-<link>https://apnews.com/article/delcy-rodriguez-maduro-trump-venezuela-e71f2289bc801446e05550d8f900a8d1</link>
-<pubDate>Tue, 06 Jan 2026 21:56:52 -0000</pubDate>
+<title><![CDATA[Swiss police identify all 116 people injured in deadly New Year’s bar fire]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-injured-98752c0f5878ff213707ed95a349bed0</link>
+<pubDate>Mon, 05 Jan 2026 15:13:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israel clears final hurdle to start settlement construction that would cut the West Bank in two]]></title>
 <link>https://apnews.com/article/israel-settlement-construction-west-bank-cc5887809b15d336ecf16b88dfc0ee03</link>
 <pubDate>Tue, 06 Jan 2026 18:17:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine’s allies praise major progress on defense guarantees if a peace deal is struck with Russia]]></title>
+<link>https://apnews.com/article/ukraine-russia-macron-starmer-witkoff-21195f5b6a67fd2ac445d05803ae5948</link>
+<pubDate>Tue, 06 Jan 2026 21:41:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Ukraine allies’ security guarantees as the war nears 4 years]]></title>
+<link>https://apnews.com/article/ukraine-war-russia-paris-macron-ed33052069b813110fe1aeb13d4268a4</link>
+<pubDate>Tue, 06 Jan 2026 21:26:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How Delcy Rodríguez courted Donald Trump and rose to power in Venezuela]]></title>
+<link>https://apnews.com/article/delcy-rodriguez-maduro-trump-venezuela-e71f2289bc801446e05550d8f900a8d1</link>
+<pubDate>Tue, 06 Jan 2026 21:56:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela says 24 security officers killed in Maduro operation as new president snaps back at Trump]]></title>
+<title><![CDATA[Trump says US to get 30 million to 50 million barrels of oil from Venezuela at market price]]></title>
 <link>https://apnews.com/article/venezuela-trump-democrats-9d16138866bebdc2644eb009c6326066</link>
-<pubDate>Tue, 06 Jan 2026 23:08:52 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 00:41:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
