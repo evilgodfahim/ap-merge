@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 07 Jan 2026 21:39:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 22:11:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
 <link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
+<link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
+<pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gen Z protesters in Nepal are angry at the government they installed]]></title>
 <link>https://apnews.com/article/nepal-gen-z-protests-election-karki-c0e31196bce52064ac577e04170212c2</link>
 <pubDate>Wed, 07 Jan 2026 16:23:10 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Japan’s nuclear watchdog halts plant’s reactor safety screening over falsified data]]></title>
 <link>https://apnews.com/article/japan-hamaoka-nuclear-fabrication-data-893d7cf94e790ffb51cb1cf85254d658</link>
 <pubDate>Wed, 07 Jan 2026 13:59:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Curfew imposed in southern Nepal city after mosque vandalism sparks protests]]></title>
-<link>https://apnews.com/article/nepal-curfew-violence-hindu-muslim-fa681bd2e66845b63ac4e88803f67f11</link>
-<pubDate>Wed, 07 Jan 2026 07:43:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,27 +89,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea’s junta leader is confirmed president-elect after first vote since a 2021 coup]]></title>
-<link>https://apnews.com/article/guinea-doumbouya-president-election-supreme-court-conakry-b3cf4eb1e045a525542f59347b08fe1a</link>
-<pubDate>Tue, 06 Jan 2026 02:23:25 -0000</pubDate>
+<title><![CDATA[US suspends assistance to Somalia’s federal government, alleging it seized food aid]]></title>
+<link>https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158</link>
+<pubDate>Wed, 07 Jan 2026 21:56:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump immigration policies and aging population slow US growth projection, budget office says]]></title>
-<link>https://apnews.com/article/immigration-trump-census-population-growth-baby-boomers-7470b270a004ae779518722488de58d4</link>
-<pubDate>Wed, 07 Jan 2026 20:44:36 -0000</pubDate>
+<title><![CDATA[Trump administration funding threats set child care providers and parents on edge]]></title>
+<link>https://apnews.com/article/child-care-subsidies-trump-dda080acfe3a461a2f41712ce25b9e9e</link>
+<pubDate>Wed, 07 Jan 2026 21:41:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Trump says his voters loved the Venezuela attack — here’s what they think]]></title>
-<link>https://apnews.com/article/trump-voters-venezuela-maduro-maga-c41299be874c6f798bcb31e012052714</link>
-<pubDate>Wed, 07 Jan 2026 00:26:33 -0000</pubDate>
+<title><![CDATA[Attorney for Rob Reiner’s son resigns but says his client is not guilty of murder under state law]]></title>
+<link>https://apnews.com/article/rob-reiner-michele-nick-killing-001241300a3de5ecfa1323b0031fdfcf</link>
+<pubDate>Wed, 07 Jan 2026 21:26:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he wants to ban large investors from buying houses. It’s part of his affordability plan]]></title>
-<link>https://apnews.com/article/trump-housing-plan-investors-davos-6ec9f96c03d16c0714a6804c5f703db2</link>
-<pubDate>Wed, 07 Jan 2026 20:29:36 -0000</pubDate>
+<title><![CDATA[California loses $160M for delaying revocation of 17,000 commercial driver’s licenses for immigrants]]></title>
+<link>https://apnews.com/article/california-commercial-drivers-license-immigrants-funding-a8904a07754ba2a5c8ec9781e6262ec1</link>
+<pubDate>Wed, 07 Jan 2026 21:11:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolsonaro returns to prison in Brazil after undergoing medical examinations following fall from bed]]></title>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-7-2026-bf1ac0776f64f81a8b059b0d9a9f60d0</link>
+<pubDate>Wed, 07 Jan 2026 22:11:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump proposes massive increase in 2027 defense spending to $1.5T, citing ‘dangerous times’]]></title>
+<link>https://apnews.com/article/trump-defense-spending-3bbea1ccc679ee8a388386d60e651fd7</link>
+<pubDate>Wed, 07 Jan 2026 21:56:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bolsonaro briefly leaves Brazilian prison for medical tests after a fall from his bed]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
-<pubDate>Wed, 07 Jan 2026 20:44:36 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 21:41:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show celebrations of Epiphany, also known as Three Kings Day]]></title>
-<link>https://apnews.com/photo-gallery/epiphany-christians-three-kings-religion-ec1a180ebb835bde8de997e1cd437482</link>
-<pubDate>Tue, 06 Jan 2026 20:28:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba releases details of 32 officers killed in US strike on Venezuela as US defends attack]]></title>
-<link>https://apnews.com/article/cubans-killed-venezuela-strike-us-oas-a8d8fcbe3e825979c5d3171f9b076a85</link>
-<pubDate>Tue, 06 Jan 2026 19:35:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran army chief threatens preemptive attack over ‘rhetoric’ targeting country after Trump’s comments]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-dca88a657009aae21e2b8b5086c682ce</link>
 <pubDate>Wed, 07 Jan 2026 11:23:18 -0000</pubDate>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street’s strong start to the year slows as stocks drift]]></title>
+<title><![CDATA[Wall Street’s strong start to the year slows]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-venezuela-rates-5b6274e10230325ebd9f5ecd224b002a</link>
-<pubDate>Wed, 07 Jan 2026 20:44:37 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 22:11:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minneapolis mayor says ICE officer’s killing of a motorist was ‘reckless’ and wasn’t self-defense]]></title>
+<title><![CDATA[ICE officer kills a Minneapolis driver in a deadly start to Trump’s latest immigration operation]]></title>
 <link>https://apnews.com/article/minnesota-immigration-enforcement-shooting-crackdown-surge-173e00fa7388054e98c3b5b9417c1e5a</link>
-<pubDate>Wed, 07 Jan 2026 19:08:02 -0000</pubDate>
+<pubDate>Wed, 07 Jan 2026 21:56:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
