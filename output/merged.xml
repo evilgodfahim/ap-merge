@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 09:47:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 10:14:09 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Netanyahu tries to calm tensions after Israeli bus runs over and kills ultra-Orthodox teen]]></title>
-<link>https://apnews.com/article/ultra-orthodox-israel-netanyahu-draft-law-protest-5e91c26f2c033b41305a3ff8db6aff95</link>
-<pubDate>Thu, 08 Jan 2026 02:53:46 -0000</pubDate>
+<title><![CDATA[What to know about the latest tensions in Yemen and parties involved]]></title>
+<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
+<pubDate>Thu, 08 Jan 2026 10:14:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
-<link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
-<pubDate>Wed, 07 Jan 2026 19:38:00 -0000</pubDate>
+<title><![CDATA[Protest-hit Iran warily watches the US after its raid on Venezuela]]></title>
+<link>https://apnews.com/article/iran-protests-us-venezuela-raid-israel-e9fd7acf6d13640d59c2b56b4a0375ce</link>
+<pubDate>Thu, 08 Jan 2026 09:59:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French farmers force their way through Paris with tractors to protest free trade deal]]></title>
+<link>https://apnews.com/article/france-farmers-protest-mercosur-deal-paris-a1b0b7caff7ed163ddbbd43b3bf0306d</link>
+<pubDate>Thu, 08 Jan 2026 09:44:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Why Greenland is strategically important to Arctic security]]></title>
 <link>https://apnews.com/article/greenland-denmark-security-trump-arctic-north-6066195d0c6b9e1bbe6da27d55b26ece</link>
 <pubDate>Wed, 07 Jan 2026 16:53:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Ukraine allies’ security guarantees as the war nears 4 years]]></title>
-<link>https://apnews.com/article/ukraine-war-russia-paris-macron-ed33052069b813110fe1aeb13d4268a4</link>
-<pubDate>Tue, 06 Jan 2026 21:41:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran has been shaken by a series of protests over the past 50 years. Here’s a look at them]]></title>
-<link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
-<pubDate>Tue, 06 Jan 2026 13:58:37 -0000</pubDate>
+<title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
+<link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
+<pubDate>Wed, 07 Jan 2026 19:38:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Family of Malaysian ex-leader Mahathir says broken hip serious but not life-threatening]]></title>
-<link>https://apnews.com/article/malaysia-mahathir-fall-broken-hip-hospital-6020343ab31bbf2098a18c9446619713</link>
-<pubDate>Wed, 07 Jan 2026 13:44:44 -0000</pubDate>
+<title><![CDATA[Netanyahu tries to calm tensions after Israeli bus runs over and kills ultra-Orthodox teen]]></title>
+<link>https://apnews.com/article/ultra-orthodox-israel-netanyahu-draft-law-protest-5e91c26f2c033b41305a3ff8db6aff95</link>
+<pubDate>Thu, 08 Jan 2026 10:14:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +401,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syrian authorities urge civilians to evacuate Aleppo neighborhoods as clashes with Kurds continue]]></title>
+<link>https://apnews.com/article/syria-aleppo-sdf-kurds-fighting-6f5f8e317793e8724afc5d240ac732aa</link>
+<pubDate>Thu, 08 Jan 2026 10:14:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese military moves to new phase of disarmament plan of non-state groups like Hezbollah]]></title>
+<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
+<pubDate>Thu, 08 Jan 2026 09:59:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran army chief threatens preemptive attack over ‘rhetoric’ targeting country after Trump’s comments]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-dca88a657009aae21e2b8b5086c682ce</link>
 <pubDate>Wed, 07 Jan 2026 11:23:18 -0000</pubDate>
@@ -410,18 +422,6 @@
 <title><![CDATA[Civilians flee Aleppo as clashes between Syrian government and Kurdish forces escalate]]></title>
 <link>https://apnews.com/article/syria-aleppo-clashes-sdf-145d0c9a79453f8acdfbce7fbd9d1e80</link>
 <pubDate>Thu, 08 Jan 2026 00:11:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the latest tensions in Yemen and parties involved]]></title>
-<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
-<pubDate>Wed, 07 Jan 2026 17:18:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protest-hit Iran warily watches the US after its raid on Venezuela]]></title>
-<link>https://apnews.com/article/iran-protests-us-venezuela-raid-israel-e9fd7acf6d13640d59c2b56b4a0375ce</link>
-<pubDate>Wed, 07 Jan 2026 06:04:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
