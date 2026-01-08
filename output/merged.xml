@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 21:40:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 22:11:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran ‘does not desire a war but we are ready for it,’ says foreign minister]]></title>
 <link>https://apnews.com/article/lebanon-iran-israel-us-nuclear-war-beirut-5e16a8e55def5966c1b073adfe1c6bf1</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bahrain court sentences long-targeted activist to 6 months in prison over interview in Beirut]]></title>
-<link>https://apnews.com/article/bahrain-activist-imprisoned-speech-crackdown-f1d998b6fe93bd678ba42144e890b2ec</link>
-<pubDate>Thu, 08 Jan 2026 17:00:37 -0000</pubDate>
+<title><![CDATA[Photos of Syrians fleeing violence in Aleppo]]></title>
+<link>https://apnews.com/photo-gallery/evacuation-flee-aleppo-syria-kurds-88fa5a143a72d07f7daac17365c0af12</link>
+<pubDate>Thu, 08 Jan 2026 22:11:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,12 +101,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICE shooting reinforces Minnesota’s grim role as Trump’s public enemy No. 1]]></title>
-<link>https://apnews.com/article/trump-targets-minnesota-2a8eb0a8d1b8ed506df9d33a25c73449</link>
-<pubDate>Thu, 08 Jan 2026 20:13:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The shooting outside a Utah church grew out of a dispute between funeral goers, police say]]></title>
 <link>https://apnews.com/article/utah-church-shooting-funeral-salt-lake-dcc63668aebf300be751e8f9e9cf9b7c</link>
 <pubDate>Thu, 08 Jan 2026 19:22:46 -0000</pubDate>
@@ -116,6 +110,12 @@
 <title><![CDATA[Judge disqualifies federal prosecutor in investigation into New York Attorney General Letitia James]]></title>
 <link>https://apnews.com/article/trump-letitia-james-halligan-sarcone-subpoenas-8fc9eddaa512de4e98e4a9d73aea997a</link>
 <pubDate>Thu, 08 Jan 2026 16:45:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Harvey Weinstein weighs plea on rape charge but insists he ‘never assaulted anyone’]]></title>
+<link>https://apnews.com/article/harvey-weinstein-sexual-assault-retrial-metoo-47205d9c8743c6adb2b8a11fac6fb126</link>
+<pubDate>Thu, 08 Jan 2026 21:56:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-8-2026-c43608120885c76c04e4d866a8bddb21</link>
+<pubDate>Thu, 08 Jan 2026 22:11:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-week-top-ap-7bdf17930f927f332da271fd6150c7b4</link>
+<pubDate>Thu, 08 Jan 2026 21:56:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia harshly condemns US seizure of oil tanker, warns of a spike in tensions]]></title>
 <link>https://apnews.com/article/russia-us-tanker-seizure-trump-putin-ukraine-898c8340203bd68588f472c1e430c2a0</link>
 <pubDate>Thu, 08 Jan 2026 20:43:39 -0000</pubDate>
@@ -206,6 +218,12 @@
 <title><![CDATA[Britain says tanker seizure is a win for trans-Atlantic security but tensions loom over Greenland]]></title>
 <link>https://apnews.com/article/us-venezuela-tanker-seized-uk-starmer-ffd280138a86865f7afc094077852302</link>
 <pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bahrain court sentences long-targeted activist to 6 months in prison over interview in Beirut]]></title>
+<link>https://apnews.com/article/bahrain-activist-imprisoned-speech-crackdown-f1d998b6fe93bd678ba42144e890b2ec</link>
+<pubDate>Thu, 08 Jan 2026 15:46:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s Greenland idea isn’t new. The US has pursued it at least 3 times before]]></title>
-<link>https://apnews.com/article/us-greenland-denmark-history-trump-b5e10babd57ae8ab4069e52df09d91df</link>
-<pubDate>Wed, 07 Jan 2026 22:57:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico becomes crucial fuel supplier to Cuba but pledges no extra shipments after Maduro toppled]]></title>
-<link>https://apnews.com/article/mexico-cuba-petroleum-oil-shipments-trump-venezuela-7ec85826c98f23226c2534954b2c2b6f</link>
-<pubDate>Thu, 08 Jan 2026 18:00:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bolsonaro briefly leaves Brazilian prison for medical tests after a fall from his bed]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
-<pubDate>Wed, 07 Jan 2026 21:41:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US seeks to assert its control over Venezuelan oil with tanker seizures and sales worldwide]]></title>
 <link>https://apnews.com/article/us-venezuela-oil-tanker-77f2c1441dda8217b37f9e38c3ae9131</link>
 <pubDate>Thu, 08 Jan 2026 00:56:36 -0000</pubDate>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Denmark sees talks with the US as a chance for ‘the dialogue that is needed’ over Greenland]]></title>
+<title><![CDATA[Denmark, Greenland envoys met with White House officials over Trump’s call for a ‘takeover’]]></title>
 <link>https://apnews.com/article/denmark-us-trump-greenland-talks-1b783621cbbbc1218986151be9c6836c</link>
-<pubDate>Thu, 08 Jan 2026 12:26:49 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 22:11:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minneapolis protesters vent their outrage after an ICE officer kills a woman]]></title>
+<title><![CDATA[Minnesota must play a role in the investigation into Renee Good’s killing by ICE, governor says]]></title>
 <link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
-<pubDate>Thu, 08 Jan 2026 14:46:15 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 21:56:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
