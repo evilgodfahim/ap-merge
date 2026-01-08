@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 07:17:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 07:41:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran executes a man convicted of spying for Israel’s Mossad]]></title>
 <link>https://apnews.com/article/iran-execution-israel-mossad-spy-fc37853bd469cf82aac41b8a80a4cabb</link>
@@ -65,15 +65,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[President Petro’s clash with Trump over Venezuela backs Colombia into a corner]]></title>
-<link>https://apnews.com/article/colombia-petro-trump-venezuela-maduro-eaf98a41ae427a2d218910606a6fa3e0</link>
-<pubDate>Wed, 07 Jan 2026 17:48:24 -0000</pubDate>
+<title><![CDATA[Bolsonaro briefly leaves Brazilian prison for medical tests after a fall from his bed]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
+<pubDate>Thu, 08 Jan 2026 07:41:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israel strikes multiple sites in Lebanon ahead of a key disarmament meeting]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-hamas-airstrikes-bekaa-litani-c2a5eaa91827993cd9a81c404a5514ab</link>
 <pubDate>Wed, 07 Jan 2026 09:59:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Somalia’s fight against extremist militants shows signs of success on the streets of Mogadishu]]></title>
+<link>https://apnews.com/article/somalia-intelligence-alshabab-militants-64cfbc1e76f2eb6bf9556332fae7f6f7</link>
+<pubDate>Thu, 08 Jan 2026 03:42:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Election runner-up in Central African Republic alleges fraud in vote]]></title>
+<link>https://apnews.com/article/central-african-republic-election-6ee1879dcbaa6d3cd975aaecdf7a7e14</link>
+<pubDate>Thu, 08 Jan 2026 00:26:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -86,18 +98,6 @@
 <title><![CDATA[Guinea’s junta leader is confirmed president-elect after first vote since a 2021 coup]]></title>
 <link>https://apnews.com/article/guinea-doumbouya-president-election-supreme-court-conakry-b3cf4eb1e045a525542f59347b08fe1a</link>
 <pubDate>Tue, 06 Jan 2026 02:23:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US expands list of countries whose citizens must pay up to $15,000 bonds to apply for visas]]></title>
-<link>https://apnews.com/article/us-visa-restrictions-trump-bond-travel-7211e43ef4eb84144717c3331ab89e8e</link>
-<pubDate>Mon, 05 Jan 2026 16:58:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Driving instructors teach students to dodge danger on Zimbabwe roads]]></title>
-<link>https://apnews.com/article/road-safety-accidents-deaths-festive-season-12416042cc492e64b7e8772ca3207189</link>
-<pubDate>Mon, 05 Jan 2026 06:16:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,12 +251,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolsonaro briefly leaves Brazilian prison for medical tests after a fall from his bed]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-fall-bed-prison-hospital-health-c20b5d799863cb65e9642a27b0d088ce</link>
-<pubDate>Wed, 07 Jan 2026 21:41:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU pushes forward long-discussed free trade deal with South America]]></title>
 <link>https://apnews.com/article/mercosur-italy-meloni-brussels-macron-france-farmers-a29714f10d4626cef803ab6972d3d102</link>
 <pubDate>Wed, 07 Jan 2026 19:23:01 -0000</pubDate>
@@ -353,9 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump sidelines Nobel winner Machado and Venezuela’s opposition, leaving Maduro’s party in power]]></title>
+<link>https://apnews.com/article/venezuela-us-maduro-trump-opposition-machado-2d497c934d564e1c9d21376af1111e71</link>
+<pubDate>Thu, 08 Jan 2026 03:12:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US seeks to assert its control over Venezuelan oil with tanker seizures and sales worldwide]]></title>
 <link>https://apnews.com/article/us-venezuela-oil-tanker-77f2c1441dda8217b37f9e38c3ae9131</link>
 <pubDate>Thu, 08 Jan 2026 00:56:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[President Petro’s clash with Trump over Venezuela backs Colombia into a corner]]></title>
+<link>https://apnews.com/article/colombia-petro-trump-venezuela-maduro-eaf98a41ae427a2d218910606a6fa3e0</link>
+<pubDate>Thu, 08 Jan 2026 07:41:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Australia’s leader announces a royal commission into antisemitism after Bondi mass shooting]]></title>
+<link>https://apnews.com/article/bondi-royal-commission-shooters-antisemitism-australia-4ea9dc7ab8db5d4b1edc869413e3111c</link>
+<pubDate>Thu, 08 Jan 2026 07:26:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US will exit 66 international organizations as it further retreats from global cooperation]]></title>
 <link>https://apnews.com/article/united-nations-trump-international-organizations-withdrawal-d704fb9b444dc9cf569865d391b544a6</link>
 <pubDate>Thu, 08 Jan 2026 00:26:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Somalia’s fight against extremist militants shows signs of success on the streets of Mogadishu]]></title>
-<link>https://apnews.com/article/somalia-intelligence-alshabab-militants-64cfbc1e76f2eb6bf9556332fae7f6f7</link>
-<pubDate>Thu, 08 Jan 2026 06:03:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US suspends assistance to Somalia’s federal government, alleging it seized food aid]]></title>
-<link>https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158</link>
-<pubDate>Wed, 07 Jan 2026 23:41:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,15 +479,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Election runner-up in Central African Republic alleges fraud in vote]]></title>
-<link>https://apnews.com/article/central-african-republic-election-6ee1879dcbaa6d3cd975aaecdf7a7e14</link>
-<pubDate>Wed, 07 Jan 2026 15:15:25 -0000</pubDate>
+<title><![CDATA[US suspends assistance to Somalia’s federal government, alleging it seized food aid]]></title>
+<link>https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158</link>
+<pubDate>Wed, 07 Jan 2026 23:41:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICE officer kills a Minneapolis driver in a deadly start to Trump’s latest immigration operation]]></title>
-<link>https://apnews.com/article/minnesota-immigration-enforcement-shooting-crackdown-surge-173e00fa7388054e98c3b5b9417c1e5a</link>
-<pubDate>Wed, 07 Jan 2026 21:56:26 -0000</pubDate>
+<title><![CDATA[Minneapolis on edge after fatal shooting of woman by ICE officer]]></title>
+<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
+<pubDate>Thu, 08 Jan 2026 07:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
