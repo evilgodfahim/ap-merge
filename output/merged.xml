@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 20:13:12 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Lebanese pop star turned militant Fadel Shaker tells court he is innocent]]></title>
-<link>https://apnews.com/article/lebanon-fadel-shaker-sidon-alassir-hezbollah-assad-50cd5c5d6bc42271fd54c9dd0758c9ed</link>
-<pubDate>Thu, 08 Jan 2026 15:46:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 08 Jan 2026 20:43:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran ‘does not desire a war but we are ready for it,’ says foreign minister]]></title>
 <link>https://apnews.com/article/lebanon-iran-israel-us-nuclear-war-beirut-5e16a8e55def5966c1b073adfe1c6bf1</link>
 <pubDate>Thu, 08 Jan 2026 14:16:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bahrain court sentences long-targeted activist to 6 months in prison over interview in Beirut]]></title>
+<link>https://apnews.com/article/bahrain-activist-imprisoned-speech-crackdown-f1d998b6fe93bd678ba42144e890b2ec</link>
+<pubDate>Thu, 08 Jan 2026 17:00:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico boasts sharp decline in homicides, but analysts urge caution]]></title>
+<link>https://apnews.com/article/mexico-homicides-cartels-violence-sheinbaum-bafeb371339789bea1f533e2410acfc3</link>
+<pubDate>Thu, 08 Jan 2026 20:43:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Lula vetoes bill that could reduce Bolsonaro’s prison time]]></title>
 <link>https://apnews.com/article/brazil-lula-veto-bolsonaro-coup-anniversary-3da8182efdb773060196b54a0f03a0b4</link>
 <pubDate>Thu, 08 Jan 2026 17:30:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Senate rejects Trump’s military threats against Venezuela with war powers vote]]></title>
+<title><![CDATA[Senate pushes back on Trump’s military threats against Venezuela with war powers vote]]></title>
 <link>https://apnews.com/article/senate-war-powers-venezuela-trump-maduro-greenland-e1c5c8390eb2331779504b710fe85025</link>
-<pubDate>Thu, 08 Jan 2026 17:15:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela’s military buries soldiers killed in US operation to capture Maduro]]></title>
-<link>https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e</link>
-<pubDate>Thu, 08 Jan 2026 03:57:53 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 20:28:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ICE shooting reinforces Minnesota’s grim role as Trump’s public enemy No. 1]]></title>
+<link>https://apnews.com/article/trump-targets-minnesota-2a8eb0a8d1b8ed506df9d33a25c73449</link>
+<pubDate>Thu, 08 Jan 2026 20:13:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The shooting outside a Utah church grew out of a dispute between funeral goers, police say]]></title>
 <link>https://apnews.com/article/utah-church-shooting-funeral-salt-lake-dcc63668aebf300be751e8f9e9cf9b7c</link>
 <pubDate>Thu, 08 Jan 2026 19:22:46 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Judge disqualifies federal prosecutor in investigation into New York Attorney General Letitia James]]></title>
 <link>https://apnews.com/article/trump-letitia-james-halligan-sarcone-subpoenas-8fc9eddaa512de4e98e4a9d73aea997a</link>
 <pubDate>Thu, 08 Jan 2026 16:45:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Harvey Weinstein weighing plea on unresolved charge after judge declines to nix conviction]]></title>
-<link>https://apnews.com/article/harvey-weinstein-sexual-assault-retrial-metoo-47205d9c8743c6adb2b8a11fac6fb126</link>
-<pubDate>Thu, 08 Jan 2026 19:07:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia harshly condemns US seizure of oil tanker, warns of a spike in tensions]]></title>
+<link>https://apnews.com/article/russia-us-tanker-seizure-trump-putin-ukraine-898c8340203bd68588f472c1e430c2a0</link>
+<pubDate>Thu, 08 Jan 2026 20:43:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN says the US has ‘legal obligation’ to fund agencies after Trump withdraws from several]]></title>
+<link>https://apnews.com/article/trump-united-nations-international-organizations-withdrawal-b97c82ba21c7da01fa554542f2b18d47</link>
+<pubDate>Thu, 08 Jan 2026 20:28:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘Worst in Show’ CES products include AI refrigerators, AI companions and AI doorbells]]></title>
+<link>https://apnews.com/article/ces-worst-show-ai-0ce7fbc5aff68e8ff6d7b8e6fb7b007d</link>
+<pubDate>Thu, 08 Jan 2026 20:13:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gang violence forces medical nonprofit Doctors Without Borders to suspend services at Haiti clinic]]></title>
 <link>https://apnews.com/article/haiti-gangs-doctors-without-borders-clinic-msf-52eb140ee9185c983eb4a03ebeb2bf9f</link>
 <pubDate>Thu, 08 Jan 2026 19:37:47 -0000</pubDate>
@@ -188,12 +206,6 @@
 <title><![CDATA[Britain says tanker seizure is a win for trans-Atlantic security but tensions loom over Greenland]]></title>
 <link>https://apnews.com/article/us-venezuela-tanker-seized-uk-starmer-ffd280138a86865f7afc094077852302</link>
 <pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bahrain court sentences long-targeted activist to 6 months in prison over interview in Beirut]]></title>
-<link>https://apnews.com/article/bahrain-activist-imprisoned-speech-crackdown-f1d998b6fe93bd678ba42144e890b2ec</link>
-<pubDate>Thu, 08 Jan 2026 15:46:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela’s military buries soldiers killed in US operation to capture Maduro]]></title>
+<link>https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e</link>
+<pubDate>Thu, 08 Jan 2026 01:53:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s Greenland idea isn’t new. The US has pursued it at least 3 times before]]></title>
 <link>https://apnews.com/article/us-greenland-denmark-history-trump-b5e10babd57ae8ab4069e52df09d91df</link>
 <pubDate>Wed, 07 Jan 2026 22:57:00 -0000</pubDate>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU pushes forward long-discussed free trade deal with South America]]></title>
-<link>https://apnews.com/article/mercosur-italy-meloni-brussels-macron-france-farmers-a29714f10d4626cef803ab6972d3d102</link>
-<pubDate>Wed, 07 Jan 2026 19:23:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos from Cuba, Colombia and Mexico as Trump singles them out after US strike on Venezuela]]></title>
-<link>https://apnews.com/photo-gallery/trump-venezuela-cuba-colombia-mexico-imperialism-600f77e9930aaf6cd856b4a384c51287</link>
-<pubDate>Wed, 07 Jan 2026 19:08:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Millions celebrate Orthodox Christmas on Jan. 7, following ancient traditions]]></title>
-<link>https://apnews.com/article/orthodox-christians-christmas-celebrations-calendars-78c52fef68058953cbaea98974124dff</link>
-<pubDate>Wed, 07 Jan 2026 18:18:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US seeks to assert its control over Venezuelan oil with tanker seizures and sales worldwide]]></title>
 <link>https://apnews.com/article/us-venezuela-oil-tanker-77f2c1441dda8217b37f9e38c3ae9131</link>
 <pubDate>Thu, 08 Jan 2026 00:56:36 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel says Bulgarian diplomat Nickolay Mladenov to be director-general of peace board]]></title>
+<title><![CDATA[Israel says Bulgarian diplomat Nickolay Mladenov to direct Trump’s Board of Peace for Gaza]]></title>
 <link>https://apnews.com/article/israel-gaza-ceasefire-deaths-ad9aca7bd2b62e98b4d9d19b81e80245</link>
-<pubDate>Thu, 08 Jan 2026 18:15:39 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 20:43:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[House heading toward vote to extend health care subsidies in a rebuke of GOP leadership]]></title>
-<link>https://apnews.com/article/house-democrats-republicans-vote-health-care-subsidies-7d69148c6619a190f8d4abb85a7344b8</link>
-<pubDate>Thu, 08 Jan 2026 19:22:47 -0000</pubDate>
+<title><![CDATA[Saudi Arabia alleges UAE smuggled wanted Yemen separatist leader out of the country]]></title>
+<link>https://apnews.com/article/yemen-war-saudi-arabia-uae-separatist-leader-a27d0caefece2c5e9c096c57b0bb7d5b</link>
+<pubDate>Thu, 08 Jan 2026 06:18:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi Arabia alleges UAE smuggled wanted Yemen separatist leader out of the country]]></title>
-<link>https://apnews.com/article/yemen-war-saudi-arabia-uae-separatist-leader-a27d0caefece2c5e9c096c57b0bb7d5b</link>
-<pubDate>Thu, 08 Jan 2026 06:18:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
 <link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
 <pubDate>Thu, 08 Jan 2026 10:39:00 -0000</pubDate>
@@ -416,6 +410,12 @@
 <title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
 <link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
 <pubDate>Thu, 08 Jan 2026 12:56:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese pop star turned militant Fadel Shaker tells court he is innocent]]></title>
+<link>https://apnews.com/article/lebanon-fadel-shaker-sidon-alassir-hezbollah-assad-50cd5c5d6bc42271fd54c9dd0758c9ed</link>
+<pubDate>Thu, 08 Jan 2026 20:28:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
