@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 15:15:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 15:46:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanese pop star turned militant Fadel Shaker tells court he is innocent]]></title>
+<link>https://apnews.com/article/lebanon-fadel-shaker-sidon-alassir-hezbollah-assad-50cd5c5d6bc42271fd54c9dd0758c9ed</link>
+<pubDate>Thu, 08 Jan 2026 15:46:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran ‘does not desire a war but we are ready for it,’ says foreign minister]]></title>
 <link>https://apnews.com/article/lebanon-iran-israel-us-nuclear-war-beirut-5e16a8e55def5966c1b073adfe1c6bf1</link>
 <pubDate>Thu, 08 Jan 2026 14:16:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Civilians flee Aleppo as clashes between Syrian government and Kurdish forces escalate]]></title>
-<link>https://apnews.com/article/syria-aleppo-clashes-sdf-145d0c9a79453f8acdfbce7fbd9d1e80</link>
-<pubDate>Thu, 08 Jan 2026 11:23:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK braced for heavy snow as cold weather snap in Europe persists]]></title>
+<title><![CDATA[UK braces for heavy snow as cold weather snap in Europe persists]]></title>
 <link>https://apnews.com/article/europe-weather-storm-britain-france-snow-8814833b2910eabba063e92d0aa6398c</link>
-<pubDate>Thu, 08 Jan 2026 12:41:48 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 15:31:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu tries to calm tensions after Israeli bus runs over and kills ultra-Orthodox teen]]></title>
-<link>https://apnews.com/article/ultra-orthodox-israel-netanyahu-draft-law-protest-5e91c26f2c033b41305a3ff8db6aff95</link>
-<pubDate>Thu, 08 Jan 2026 02:53:46 -0000</pubDate>
+<title><![CDATA[Civilians flee Aleppo as clashes between Syrian government and Kurdish forces escalate]]></title>
+<link>https://apnews.com/article/syria-aleppo-clashes-sdf-145d0c9a79453f8acdfbce7fbd9d1e80</link>
+<pubDate>Thu, 08 Jan 2026 11:23:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US suspends assistance to Somalia’s federal government, alleging it seized food aid]]></title>
+<link>https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158</link>
+<pubDate>Wed, 07 Jan 2026 21:56:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,21 +89,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protesters in South Africa condemn US intervention in Venezuela, call for Maduro’s release]]></title>
+<link>https://apnews.com/article/south-africa-venezuela-protest-trump-maduro-3e0c96fe8a241202a5d5a8f2364909a5</link>
+<pubDate>Thu, 08 Jan 2026 15:16:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Election runner-up in Central African Republic alleges fraud in vote]]></title>
 <link>https://apnews.com/article/central-african-republic-election-6ee1879dcbaa6d3cd975aaecdf7a7e14</link>
 <pubDate>Thu, 08 Jan 2026 00:26:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ahead of election, Uganda’s security forces are accused of using violence against the opposition]]></title>
-<link>https://apnews.com/article/uganda-election-military-violence-bobi-wine-b3bec5ee8b68125c49ba9e91e9b992ac</link>
-<pubDate>Wed, 07 Jan 2026 15:30:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli foreign minister visits Somaliland after contentious recognition of breakaway territory]]></title>
-<link>https://apnews.com/article/somalia-somaliland-israel-recognition-saar-irro-hargeisa-2447736e7355da4ac1ed182771f2e85e</link>
-<pubDate>Wed, 07 Jan 2026 10:14:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bahrain court sentences long-targeted activist to 6 months in prison over interview in Beirut]]></title>
+<link>https://apnews.com/article/bahrain-activist-imprisoned-speech-crackdown-f1d998b6fe93bd678ba42144e890b2ec</link>
+<pubDate>Thu, 08 Jan 2026 15:46:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia frees French political scholar in a prisoner swap for a basketball player]]></title>
+<link>https://apnews.com/article/russia-french-scholar-released-prisoner-exchange-kasatkin-447ff50c13c42d74ea75b050c115f62d</link>
+<pubDate>Thu, 08 Jan 2026 15:31:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Google adds new AI features to Gmail, turning it into a personal assistant]]></title>
 <link>https://apnews.com/article/google-gmail-artificial-intelligence-personal-assistant-63d6b29a82cb3de7702529b54b3c5071</link>
 <pubDate>Thu, 08 Jan 2026 14:16:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bishops and Spanish government agree on a plan to compensate sexual abuse victims]]></title>
+<title><![CDATA[Spain’s bishops agree to let government ombudsman oversee compensation of sexual abuse victims]]></title>
 <link>https://apnews.com/article/church-clergy-spain-sexual-abuse-victims-cce4029c5e31ab2282c1cb1e41b7bb1b</link>
-<pubDate>Thu, 08 Jan 2026 13:11:48 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 15:16:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Clashes between residents and gold mining company kill 4 in Afghanistan]]></title>
-<link>https://apnews.com/article/afghanistan-gold-mine-clashes-casualties-reported-e09915ce77265c09a9709e8e918c9ba9</link>
-<pubDate>Thu, 08 Jan 2026 01:38:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Snow and ice ground flights and choke highways in parts of Europe]]></title>
-<link>https://apnews.com/article/europe-snow-amsterdam-delays-airport-d512c8903d7b0402f4a8e41e12fe688a</link>
-<pubDate>Thu, 08 Jan 2026 01:23:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Christian leaders minister to an anxious diaspora with Venezuela’s future in flux]]></title>
-<link>https://apnews.com/article/venezuela-diaspora-catholic-migrants-florida-miami-bd23a2a4cd68b472f5c9a8cac427d336</link>
-<pubDate>Wed, 07 Jan 2026 20:29:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US seeks to assert its control over Venezuelan oil with tanker seizures and sales worldwide]]></title>
 <link>https://apnews.com/article/us-venezuela-oil-tanker-77f2c1441dda8217b37f9e38c3ae9131</link>
 <pubDate>Thu, 08 Jan 2026 00:56:36 -0000</pubDate>
@@ -407,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian authorities urge civilians to evacuate Aleppo neighborhoods as clashes with Kurds continue]]></title>
+<title><![CDATA[Tens of thousands flee Aleppo neighborhoods as Syrian government clashes with Kurds intensify]]></title>
 <link>https://apnews.com/article/syria-aleppo-sdf-kurds-fighting-6f5f8e317793e8724afc5d240ac732aa</link>
-<pubDate>Thu, 08 Jan 2026 10:14:09 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 15:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US markets lower before the bell after hot start to the year]]></title>
+<title><![CDATA[Most of Wall Street drifts as defense companies rocket higher]]></title>
 <link>https://apnews.com/article/stocks-markets-venezuela-trump-oil-ai-01e18594af8d435ce14ec862eb508f96</link>
-<pubDate>Thu, 08 Jan 2026 12:41:49 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 15:31:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,21 +467,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protest-hit Iran warily watches the US after its raid on Venezuela]]></title>
-<link>https://apnews.com/article/iran-protests-us-venezuela-raid-israel-e9fd7acf6d13640d59c2b56b4a0375ce</link>
-<pubDate>Wed, 07 Jan 2026 06:04:05 -0000</pubDate>
+<title><![CDATA[Somalia denies US allegation that it destroyed food aid warehouse]]></title>
+<link>https://apnews.com/article/somalia-united-states-world-food-program-warehouse-ad0befb6d102a18365ad91bfee9845a9</link>
+<pubDate>Thu, 08 Jan 2026 15:01:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US suspends assistance to Somalia’s federal government, alleging it seized food aid]]></title>
-<link>https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158</link>
-<pubDate>Wed, 07 Jan 2026 23:41:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Minneapolis on edge after fatal shooting of woman by ICE officer]]></title>
+<title><![CDATA[Minneapolis protesters vent their outrage after an ICE officer kills a woman]]></title>
 <link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
-<pubDate>Thu, 08 Jan 2026 07:11:53 -0000</pubDate>
+<pubDate>Thu, 08 Jan 2026 14:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
