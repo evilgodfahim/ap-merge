@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 04:38:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 05:17:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
+<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
+<pubDate>Fri, 09 Jan 2026 05:17:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Lebanon’s financial recovery will rest on security and political reforms, economy minister says]]></title>
 <link>https://apnews.com/article/lebanon-bisat-economy-reforms-018c2f96af8c65f1ed4997e4d854c6a1</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
-<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
-<pubDate>Thu, 08 Jan 2026 18:15:37 -0000</pubDate>
+<title><![CDATA[Russia attacks Ukraine with drones and missiles, killing 3 in Kyiv]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
+<pubDate>Fri, 09 Jan 2026 05:02:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threats against Greenland pose new, potentially unprecedented challenge to NATO]]></title>
-<link>https://apnews.com/article/nato-greenland-trump-russia-deterrence-threat-07d6c18ed968c25736eca2c25d935edb</link>
-<pubDate>Wed, 07 Jan 2026 18:18:24 -0000</pubDate>
+<title><![CDATA[Why Southeast Asia’s online scam industry is so hard to shut down]]></title>
+<link>https://apnews.com/article/southeast-asia-scam-centers-cambodia-myanmar-thailand-70c9bbbdc8275def4488aeb768e8c0d7</link>
+<pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Australia’s leader announces a royal commission into antisemitism after Bondi mass shooting]]></title>
 <link>https://apnews.com/article/bondi-royal-commission-shooters-antisemitism-australia-4ea9dc7ab8db5d4b1edc869413e3111c</link>
 <pubDate>Thu, 08 Jan 2026 19:37:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
-<link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
-<pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Family and neighbors mourn woman who was shot by ICE agent and made Minneapolis home]]></title>
-<link>https://apnews.com/article/ice-shooting-minneapolis-minnesota-9aa822670b705c89906f2c699f1d16c5</link>
-<pubDate>Fri, 09 Jan 2026 03:28:06 -0000</pubDate>
+<title><![CDATA[Luigi Mangione heads to court as he fights to block death penalty, murder charge and key evidence]]></title>
+<link>https://apnews.com/article/mangione-unitedhealthcare-murder-death-penalty-031e32785dcebaaac643440336b8c222</link>
+<pubDate>Fri, 09 Jan 2026 04:32:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
+<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
+<pubDate>Fri, 09 Jan 2026 04:17:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China announces another new trade measure against Japan as tensions rise]]></title>
-<link>https://apnews.com/article/china-japan-chips-korea-trade-rare-be0b160c721a62d6ea5ad130a212157b</link>
-<pubDate>Thu, 08 Jan 2026 10:53:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean leader says he asked China’s Xi to act as mediator on North Korea issues]]></title>
-<link>https://apnews.com/article/south-korea-china-lee-xi-north-korea-nuclear-5fc31c50b486770b4a5c9b90c284f0eb</link>
-<pubDate>Thu, 08 Jan 2026 00:56:35 -0000</pubDate>
+<title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
+<link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
+<pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Will K-pop earn its first Grammy in 2026? Maybe, but it’s complicated]]></title>
+<link>https://apnews.com/article/kpop-grammys-katseye-golden-kpop-demon-hunters-eda880405598583059f44841fb19d457</link>
+<pubDate>Fri, 09 Jan 2026 05:17:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crime reporter killed in Mexico’s Veracruz state]]></title>
+<link>https://apnews.com/article/mexico-journalist-killed-veracruz-cb6117ba879f8eb7fc2ebc271a371ceb</link>
+<pubDate>Fri, 09 Jan 2026 05:02:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Reactions to Nicolás Maduro’s capture and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-364bc0383ad4a81242010d97eba4b205</link>
 <pubDate>Fri, 09 Jan 2026 02:55:04 -0000</pubDate>
@@ -185,9 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police say 1 person killed, at least 27 missing in landfill collapse in central Philippine city]]></title>
+<title><![CDATA[Landfill collapse kills 1 and leaves at least 27 missing, Philippine police say]]></title>
 <link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
-<pubDate>Fri, 09 Jan 2026 02:40:04 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,9 +317,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Internet and phones cut in Iran as protesters heed exiled prince’s call for mass demonstration]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ebddd998fbe7903e70ca62127250ebcb</link>
+<pubDate>Fri, 09 Jan 2026 04:32:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Elina Svitolina stays on track with another win in Auckland]]></title>
 <link>https://apnews.com/article/asb-classic-auckland-elina-svitolina-0f540e49e37ae0d3381740cbe4858c8d</link>
 <pubDate>Thu, 08 Jan 2026 08:36:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
+<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
+<pubDate>Fri, 09 Jan 2026 04:17:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -320,36 +344,6 @@
 <title><![CDATA[Mourners mark a year since Los Angeles wildfires, in photos]]></title>
 <link>https://apnews.com/photo-gallery/los-angeles-wildfires-anniversary-photos-42b799936e668e9fca3a1a28a70066d8</link>
 <pubDate>Thu, 08 Jan 2026 05:16:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dose of uncertainty: Experts wary of AI health gadgets at CES]]></title>
-<link>https://apnews.com/article/ces-las-vegas-health-tech-3292f60379d434b1e9ebf1b364180b95</link>
-<pubDate>Thu, 08 Jan 2026 03:57:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show migratory birds after their arrival at an Indian wildlife sanctuary]]></title>
-<link>https://apnews.com/photo-gallery/migratory-birds-wetland-wildlife-sanctuary-photos-04ec1143ca2a3182691bb06ff0d54d9e</link>
-<pubDate>Thu, 08 Jan 2026 02:53:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sen. Graham says Trump has ‘greenlit’ sanctions bill aiming to punish Russia for war in Ukraine]]></title>
-<link>https://apnews.com/article/donald-trump-lindsey-graham-russia-ukraine-9eab4b687497ff67b1d2e7738f4aec93</link>
-<pubDate>Thu, 08 Jan 2026 02:38:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[These are the 66 global organizations the Trump administration is leaving]]></title>
-<link>https://apnews.com/article/trump-administration-global-organizations-un-daaa4c9f459d7a492536a1a4e3b7697c</link>
-<pubDate>Thu, 08 Jan 2026 03:42:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Internet and phones cut in Iran as protesters heed exiled prince’s call for mass demonstration]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ebddd998fbe7903e70ca62127250ebcb</link>
-<pubDate>Fri, 09 Jan 2026 02:55:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the protests shaking Iran as government shuts down internet and phone networks]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Fri, 09 Jan 2026 05:02:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
 <pubDate>Fri, 09 Jan 2026 02:25:05 -0000</pubDate>
@@ -410,12 +410,6 @@
 <title><![CDATA[Saudi Arabia alleges UAE smuggled wanted Yemen separatist leader out of the country]]></title>
 <link>https://apnews.com/article/yemen-war-saudi-arabia-uae-separatist-leader-a27d0caefece2c5e9c096c57b0bb7d5b</link>
 <pubDate>Thu, 08 Jan 2026 06:18:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
-<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
-<pubDate>Thu, 08 Jan 2026 10:39:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Southeast Asia’s online scam industry is so hard to shut down]]></title>
-<link>https://apnews.com/article/southeast-asia-scam-centers-cambodia-myanmar-thailand-70c9bbbdc8275def4488aeb768e8c0d7</link>
-<pubDate>Fri, 09 Jan 2026 00:26:55 -0000</pubDate>
+<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
+<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
+<pubDate>Fri, 09 Jan 2026 04:47:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
-<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
-<pubDate>Fri, 09 Jan 2026 02:10:05 -0000</pubDate>
+<title><![CDATA[Asian shares rise and US futures are flat after modest Wall Street moves]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-oil-ai-d6cf868b23a814a3a2038aca24a0de93</link>
+<pubDate>Fri, 09 Jan 2026 04:32:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
