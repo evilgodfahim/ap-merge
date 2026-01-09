@@ -3,23 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 07:17:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 07:43:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
+<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
+<pubDate>Fri, 09 Jan 2026 05:17:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Lebanon’s financial recovery will rest on security and political reforms, economy minister says]]></title>
 <link>https://apnews.com/article/lebanon-bisat-economy-reforms-018c2f96af8c65f1ed4997e4d854c6a1</link>
 <pubDate>Fri, 09 Jan 2026 02:55:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
-<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
-<pubDate>Thu, 08 Jan 2026 18:15:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia attacks Ukraine with drones and missiles, killing 4 in Kyiv]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
-<pubDate>Fri, 09 Jan 2026 06:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +29,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump pick for Gaza board Nickolay Mladenov frequently worked to ease Mideast tensions]]></title>
+<link>https://apnews.com/article/bulgaria-middle-east-gaza-nikolay-mladenov-5b4f02c2deb0ba621951c71e6ac60dd1</link>
+<pubDate>Fri, 09 Jan 2026 07:43:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
 <link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
 <pubDate>Fri, 09 Jan 2026 06:04:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Southeast Asia’s online scam industry is so hard to shut down]]></title>
-<link>https://apnews.com/article/southeast-asia-scam-centers-cambodia-myanmar-thailand-70c9bbbdc8275def4488aeb768e8c0d7</link>
-<pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
+<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
+<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
+<pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China and Japan, uneasy neighbors in East Asia, are at odds again]]></title>
-<link>https://apnews.com/article/china-japan-tensions-nuclear-taiwan-history-1d50ae5508c8e958ccf2b577302948bc</link>
-<pubDate>Fri, 09 Jan 2026 00:56:54 -0000</pubDate>
+<title><![CDATA[Why Southeast Asia’s online scam industry is so hard to shut down]]></title>
+<link>https://apnews.com/article/southeast-asia-scam-centers-cambodia-myanmar-thailand-70c9bbbdc8275def4488aeb768e8c0d7</link>
+<pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
-<link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
-<pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
+<title><![CDATA[China and Japan, uneasy neighbors in East Asia, are at odds again]]></title>
+<link>https://apnews.com/article/china-japan-tensions-nuclear-taiwan-history-1d50ae5508c8e958ccf2b577302948bc</link>
+<pubDate>Fri, 09 Jan 2026 00:56:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Will K-pop earn its first Grammy in 2026? Maybe, but it’s complicated]]></title>
+<title><![CDATA[K-pop might win at the Grammys for the first time]]></title>
 <link>https://apnews.com/article/kpop-grammys-katseye-golden-kpop-demon-hunters-eda880405598583059f44841fb19d457</link>
-<pubDate>Fri, 09 Jan 2026 05:17:02 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 07:43:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,12 +194,6 @@
 <title><![CDATA[UN forecasts global economic growth of 2.7% this year, down slightly from 2025]]></title>
 <link>https://apnews.com/article/un-global-economic-forecast-tariffs-tensions-growth-64933d8d1c531bb002497537f7a6a122</link>
 <pubDate>Fri, 09 Jan 2026 00:41:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Landfill collapse kills 1 and leaves at least 27 missing, Philippine police say]]></title>
-<link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
-<pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Denmark, Greenland envoys met with White House officials over Trump’s call for a ‘takeover’]]></title>
+<link>https://apnews.com/article/denmark-us-trump-greenland-talks-1b783621cbbbc1218986151be9c6836c</link>
+<pubDate>Fri, 09 Jan 2026 07:28:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Farmers block highways across Greece in protest over rising costs and EU trade deal]]></title>
 <link>https://apnews.com/article/greece-farmers-protests-europe-mercosur-2c15d088553c652ffa94bcc9fb2b6dbf</link>
 <pubDate>Thu, 08 Jan 2026 12:56:48 -0000</pubDate>
@@ -323,9 +323,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tens of thousands flee Aleppo neighborhoods as Syrian government clashes with Kurds intensify]]></title>
+<link>https://apnews.com/article/syria-aleppo-sdf-kurds-fighting-6f5f8e317793e8724afc5d240ac732aa</link>
+<pubDate>Fri, 09 Jan 2026 07:13:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Elina Svitolina stays on track with another win in Auckland]]></title>
 <link>https://apnews.com/article/asb-classic-auckland-elina-svitolina-0f540e49e37ae0d3381740cbe4858c8d</link>
 <pubDate>Thu, 08 Jan 2026 08:36:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
+<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
+<pubDate>Fri, 09 Jan 2026 04:17:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Europe’s most active volcano is erupting, and tour guides are told to stay away]]></title>
-<link>https://apnews.com/article/italy-mount-etna-volcano-tourists-guides-eruption-60f0280bd4af580abb405deaf2969d2e</link>
-<pubDate>Thu, 08 Jan 2026 14:01:08 -0000</pubDate>
+<title><![CDATA[Russia says it used new Oreshnik ballistic missile against Ukraine]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
+<pubDate>Fri, 09 Jan 2026 07:43:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mourners mark a year since Los Angeles wildfires, in photos]]></title>
-<link>https://apnews.com/photo-gallery/los-angeles-wildfires-anniversary-photos-42b799936e668e9fca3a1a28a70066d8</link>
-<pubDate>Thu, 08 Jan 2026 05:16:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran protests sweep nation despite internet shutdown as state TV warns of ‘casualties’]]></title>
+<title><![CDATA[Protests sweep Iran despite internet shutdown as state TV warns of casualties]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-economy-54e4024a0b9e6a9f3ab49153c8e28f05</link>
-<pubDate>Fri, 09 Jan 2026 06:19:10 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 07:28:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[An Argentine court offers hope for Venezuelans seeking justice for abuses under Maduro]]></title>
 <link>https://apnews.com/article/argentina-venezuela-trump-maduro-milei-5121d5506734904d15c5014d743dea32</link>
 <pubDate>Fri, 09 Jan 2026 02:40:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel says Bulgarian diplomat Nickolay Mladenov to direct Trump’s Board of Peace for Gaza]]></title>
-<link>https://apnews.com/article/israel-gaza-ceasefire-deaths-ad9aca7bd2b62e98b4d9d19b81e80245</link>
-<pubDate>Thu, 08 Jan 2026 20:43:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,21 +395,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tens of thousands flee Aleppo neighborhoods as Syrian government clashes with Kurds intensify]]></title>
-<link>https://apnews.com/article/syria-aleppo-sdf-kurds-fighting-6f5f8e317793e8724afc5d240ac732aa</link>
-<pubDate>Thu, 08 Jan 2026 15:46:15 -0000</pubDate>
+<title><![CDATA[Israel says Bulgarian diplomat Nickolay Mladenov to direct Trump’s Board of Peace for Gaza]]></title>
+<link>https://apnews.com/article/israel-gaza-ceasefire-deaths-ad9aca7bd2b62e98b4d9d19b81e80245</link>
+<pubDate>Thu, 08 Jan 2026 20:43:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syria announces ceasefire after days of clashes with Kurdish fighters in Aleppo]]></title>
+<link>https://apnews.com/article/syria-kurdish-fighters-ceasefire-aleppo-clashes-4603f723b7883bd6adc13c4310fc0bf3</link>
+<pubDate>Fri, 09 Jan 2026 06:58:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Saudi Arabia alleges UAE smuggled wanted Yemen separatist leader out of the country]]></title>
 <link>https://apnews.com/article/yemen-war-saudi-arabia-uae-separatist-leader-a27d0caefece2c5e9c096c57b0bb7d5b</link>
 <pubDate>Thu, 08 Jan 2026 06:18:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
-<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
-<pubDate>Thu, 08 Jan 2026 10:39:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Denmark, Greenland envoys met with White House officials over Trump’s call for a ‘takeover’]]></title>
-<link>https://apnews.com/article/denmark-us-trump-greenland-talks-1b783621cbbbc1218986151be9c6836c</link>
-<pubDate>Thu, 08 Jan 2026 22:11:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
-<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
-<pubDate>Thu, 08 Jan 2026 13:11:49 -0000</pubDate>
+<title><![CDATA[Mound of garbage collapses at Philippine landfill, burying and trapping 38 people and killing 1]]></title>
+<link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
+<pubDate>Fri, 09 Jan 2026 06:43:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
