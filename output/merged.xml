@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 05:46:25 GMT</lastBuildDate>
-<item>
-<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
-<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
-<pubDate>Fri, 09 Jan 2026 05:17:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Fri, 09 Jan 2026 06:19:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon’s financial recovery will rest on security and political reforms, economy minister says]]></title>
 <link>https://apnews.com/article/lebanon-bisat-economy-reforms-018c2f96af8c65f1ed4997e4d854c6a1</link>
@@ -17,9 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia attacks Ukraine with drones and missiles, killing 3 in Kyiv]]></title>
+<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
+<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
+<pubDate>Thu, 08 Jan 2026 18:15:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia attacks Ukraine with drones and missiles, killing 4 in Kyiv]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
-<pubDate>Fri, 09 Jan 2026 05:02:02 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 06:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
+<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
+<pubDate>Fri, 09 Jan 2026 06:04:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Why Southeast Asia’s online scam industry is so hard to shut down]]></title>
 <link>https://apnews.com/article/southeast-asia-scam-centers-cambodia-myanmar-thailand-70c9bbbdc8275def4488aeb768e8c0d7</link>
 <pubDate>Fri, 09 Jan 2026 04:47:02 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[China and Japan, uneasy neighbors in East Asia, are at odds again]]></title>
 <link>https://apnews.com/article/china-japan-tensions-nuclear-taiwan-history-1d50ae5508c8e958ccf2b577302948bc</link>
 <pubDate>Fri, 09 Jan 2026 00:56:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia’s leader announces a royal commission into antisemitism after Bondi mass shooting]]></title>
-<link>https://apnews.com/article/bondi-royal-commission-shooters-antisemitism-australia-4ea9dc7ab8db5d4b1edc869413e3111c</link>
-<pubDate>Thu, 08 Jan 2026 19:37:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,9 +329,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanese military moves to new phase of disarming non-state groups like Hezbollah]]></title>
-<link>https://apnews.com/article/lebanon-hezbollah-israel-disarmament-a5a91244462acc70bea984f841750c40</link>
-<pubDate>Fri, 09 Jan 2026 04:17:02 -0000</pubDate>
+<title><![CDATA[Australia’s leader announces a royal commission into antisemitism after Bondi mass shooting]]></title>
+<link>https://apnews.com/article/bondi-royal-commission-shooters-antisemitism-australia-4ea9dc7ab8db5d4b1edc869413e3111c</link>
+<pubDate>Fri, 09 Jan 2026 06:19:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -344,6 +344,12 @@
 <title><![CDATA[Mourners mark a year since Los Angeles wildfires, in photos]]></title>
 <link>https://apnews.com/photo-gallery/los-angeles-wildfires-anniversary-photos-42b799936e668e9fca3a1a28a70066d8</link>
 <pubDate>Thu, 08 Jan 2026 05:16:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran protests sweep nation despite internet shutdown as state TV warns of ‘casualties’]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-economy-54e4024a0b9e6a9f3ab49153c8e28f05</link>
+<pubDate>Fri, 09 Jan 2026 06:19:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
-<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
-<pubDate>Thu, 08 Jan 2026 13:11:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[White House: US will dictate Venezuelan decisions; oil marketing already in motion]]></title>
 <link>https://apnews.com/video/white-house-us-will-dictate-venezuelan-decisions-oil-marketing-already-in-motion-825f1d682ef341498b5f7bb435a2ddc4</link>
 <pubDate>Fri, 09 Jan 2026 00:41:55 -0000</pubDate>
@@ -389,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the protests shaking Iran as government shuts down internet and phone networks]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Fri, 09 Jan 2026 05:02:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
 <pubDate>Fri, 09 Jan 2026 02:25:05 -0000</pubDate>
@@ -410,6 +404,12 @@
 <title><![CDATA[Saudi Arabia alleges UAE smuggled wanted Yemen separatist leader out of the country]]></title>
 <link>https://apnews.com/article/yemen-war-saudi-arabia-uae-separatist-leader-a27d0caefece2c5e9c096c57b0bb7d5b</link>
 <pubDate>Thu, 08 Jan 2026 06:18:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the latest tensions in Yemen and the parties involved]]></title>
+<link>https://apnews.com/article/yemen-houthis-saudi-arabia-coalition-uae-separatists-d512fecd3cadd484e35f0c774bae31bd</link>
+<pubDate>Thu, 08 Jan 2026 10:39:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
-<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
-<pubDate>Fri, 09 Jan 2026 04:47:03 -0000</pubDate>
+<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
+<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
+<pubDate>Thu, 08 Jan 2026 13:11:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -468,8 +468,8 @@
 </item>
 <item>
 <title><![CDATA[Anger and outrage spills onto Minneapolis streets after ICE officer’s fatal shooting of Renee Good]]></title>
-<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
-<pubDate>Fri, 09 Jan 2026 03:43:07 -0000</pubDate>
+<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-1aeabfaf747eff0162c15216bf41c9e7</link>
+<pubDate>Fri, 09 Jan 2026 05:49:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
