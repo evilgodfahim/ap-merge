@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 02:55:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 03:58:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon’s financial recovery will rest on security and political reforms, economy minister says]]></title>
 <link>https://apnews.com/article/lebanon-bisat-economy-reforms-018c2f96af8c65f1ed4997e4d854c6a1</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Honduran lawmaker injured in Congress by homemade explosive]]></title>
+<link>https://apnews.com/article/honduras-election-explosion-congress-5d642319028b191e0c83b2ba36423cc2</link>
+<pubDate>Fri, 09 Jan 2026 03:58:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Lula vetoes bill that could reduce Bolsonaro’s prison time]]></title>
 <link>https://apnews.com/article/brazil-lula-veto-bolsonaro-coup-anniversary-3da8182efdb773060196b54a0f03a0b4</link>
 <pubDate>Thu, 08 Jan 2026 17:30:37 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Senate pushes back on Trump’s military threats against Venezuela with war powers vote]]></title>
 <link>https://apnews.com/article/senate-war-powers-venezuela-trump-maduro-greenland-e1c5c8390eb2331779504b710fe85025</link>
 <pubDate>Thu, 08 Jan 2026 20:28:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela helps vault Rubio to quarterback of Trump’s foreign policy team]]></title>
-<link>https://apnews.com/article/rubio-venezuela-greenland-trump-maduro-60481ca89c1fa4ec94f692d648141051</link>
-<pubDate>Fri, 09 Jan 2026 00:41:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Anger and outrage spills onto Minneapolis streets after ICE officer’s fatal shooting of Renee Good]]></title>
-<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
-<pubDate>Fri, 09 Jan 2026 02:40:03 -0000</pubDate>
+<title><![CDATA[Federal immigration officers shoot and wound 2 people in Portland, Oregon, authorities say]]></title>
+<link>https://apnews.com/article/immigration-shooting-oregon-5eeffe06106f711b8a17f6072ad9b53d</link>
+<pubDate>Fri, 09 Jan 2026 00:11:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fatal ICE shooting sparks jurisdiction clash between state and federal authorities]]></title>
+<link>https://apnews.com/article/minneapolis-shooting-jurisdiction-ice-lethal-force-61f88fd04e337a10d1c83fa9dd3c42a2</link>
+<pubDate>Fri, 09 Jan 2026 03:43:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal immigration officers shoot and wound 2 people in Portland, Oregon, authorities say]]></title>
-<link>https://apnews.com/article/immigration-shooting-oregon-5eeffe06106f711b8a17f6072ad9b53d</link>
-<pubDate>Fri, 09 Jan 2026 00:11:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The deadly shooting outside a Utah church grew out of a dispute between funeral goers, police say]]></title>
-<link>https://apnews.com/article/utah-church-shooting-funeral-salt-lake-dcc63668aebf300be751e8f9e9cf9b7c</link>
-<pubDate>Fri, 09 Jan 2026 02:25:03 -0000</pubDate>
+<title><![CDATA[Family and neighbors mourn woman who was shot by ICE agent and made Minneapolis home]]></title>
+<link>https://apnews.com/article/ice-shooting-minneapolis-minnesota-9aa822670b705c89906f2c699f1d16c5</link>
+<pubDate>Fri, 09 Jan 2026 03:28:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela releases some journalists and activists from prison as a gesture to ‘seek peace’]]></title>
+<title><![CDATA[Venezuela releases imprisoned opposition figures and activists, which Trump says US requested]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-garcia-peace-us-fe90dc9364dc50ffee47569f7190940c</link>
-<pubDate>Thu, 08 Jan 2026 23:36:36 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 03:58:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
-<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
-<pubDate>Thu, 08 Jan 2026 13:11:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel says Bulgarian diplomat Nickolay Mladenov to direct Trump’s Board of Peace for Gaza]]></title>
 <link>https://apnews.com/article/israel-gaza-ceasefire-deaths-ad9aca7bd2b62e98b4d9d19b81e80245</link>
 <pubDate>Thu, 08 Jan 2026 20:43:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
+<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
+<pubDate>Thu, 08 Jan 2026 13:11:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fatal ICE shooting sparks jurisdiction clash between state and federal authorities]]></title>
-<link>https://apnews.com/article/minneapolis-shooting-jurisdiction-ice-lethal-force-61f88fd04e337a10d1c83fa9dd3c42a2</link>
-<pubDate>Thu, 08 Jan 2026 23:41:55 -0000</pubDate>
+<title><![CDATA[Anger and outrage spills onto Minneapolis streets after ICE officer’s fatal shooting of Renee Good]]></title>
+<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03</link>
+<pubDate>Fri, 09 Jan 2026 03:43:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
