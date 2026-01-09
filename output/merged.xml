@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 20:13:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 20:42:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
@@ -107,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump meets with oil executives at the White House, announces meeting with Columbia’s Petro]]></title>
+<title><![CDATA[Trump meets with oil executives at the White House, announces meeting with Colombia’s Petro]]></title>
 <link>https://apnews.com/article/trump-venezuela-oil-chevron-exxonmobil-conocophillips-0e0619a991e92fd546504f1a613161e7</link>
-<pubDate>Fri, 09 Jan 2026 19:22:25 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 20:42:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,24 @@
 <title><![CDATA[Shreyas Iyer returns for India’s ODI series against New Zealand]]></title>
 <link>https://apnews.com/article/india-squad-odi-new-zealand-iyer-b356d878c50a82e47e2d2a94bf592cd1</link>
 <pubDate>Mon, 05 Jan 2026 07:03:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Officials say a shark killed an American woman along a beach in the US Virgin Islands]]></title>
+<link>https://apnews.com/article/usvi-shark-attack-killed-american-virgin-islands-57ddb343ee8d4eccfebe237fa6d96f49</link>
+<pubDate>Fri, 09 Jan 2026 20:42:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Judge to temporarily block effort to end protections for relatives of citizens, green card holders]]></title>
+<link>https://apnews.com/article/trump-administration-family-reunification-parole-court-hearing-c26e30ee3d511f44e540a754b6dde00d</link>
+<pubDate>Fri, 09 Jan 2026 20:27:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cyprus says video alleging the country is corrupt is likely the product of Russian disinformation]]></title>
+<link>https://apnews.com/article/cyprus-russia-disinformation-corruption-doppelganger-8de4f13769252b5a89a5b0fa5079e4a0</link>
+<pubDate>Fri, 09 Jan 2026 20:12:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon’s financial recovery will rest on security and political reforms, economy minister says]]></title>
-<link>https://apnews.com/article/lebanon-bisat-economy-reforms-018c2f96af8c65f1ed4997e4d854c6a1</link>
-<pubDate>Fri, 09 Jan 2026 08:51:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Lula vetoes bill that could reduce Bolsonaro’s prison time]]></title>
-<link>https://apnews.com/article/brazil-lula-veto-bolsonaro-coup-anniversary-3da8182efdb773060196b54a0f03a0b4</link>
-<pubDate>Fri, 09 Jan 2026 11:08:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela releases imprisoned opposition figures and activists, which Trump says US requested]]></title>
-<link>https://apnews.com/article/venezuela-political-prisoners-garcia-peace-us-fe90dc9364dc50ffee47569f7190940c</link>
-<pubDate>Fri, 09 Jan 2026 17:48:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
 <pubDate>Fri, 09 Jan 2026 15:43:53 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After Venezuela frees fewer than 1% of prisoners, activists try to stay hopeful]]></title>
+<title><![CDATA[After Venezuela frees 1% of prisoners, activists try to stay hopeful]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-maduro-902c2fbe9e08b95a73585b2a83afc492</link>
-<pubDate>Fri, 09 Jan 2026 18:18:04 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 20:42:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street rises toward records following mixed data on the job market]]></title>
+<title><![CDATA[Wall Street rises toward records]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-oil-ai-d6cf868b23a814a3a2038aca24a0de93</link>
-<pubDate>Fri, 09 Jan 2026 18:03:04 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 20:27:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hennepin County prosecutor calls on the public to share Renee Good shooting evidence with her office]]></title>
+<title><![CDATA[Minnesota prosecutor calls on the public to share Renee Good shooting evidence with her office]]></title>
 <link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-1aeabfaf747eff0162c15216bf41c9e7</link>
-<pubDate>Fri, 09 Jan 2026 17:33:04 -0000</pubDate>
+<pubDate>Fri, 09 Jan 2026 20:12:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
