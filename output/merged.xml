@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 16:12:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 16:44:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk]]></title>
+<link>https://apnews.com/article/trump-credit-cards-interest-rates-savings-banks-dba221f122789427c1c625ba873c9b71</link>
+<pubDate>Sat, 10 Jan 2026 16:44:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Minneapolis schools offer remote learning as tensions rise over federal immigration enforcement]]></title>
 <link>https://apnews.com/article/immigration-enforcement-ice-minnesota-schools-432efd7448a925748ca32ffd1f72b2df</link>
 <pubDate>Fri, 09 Jan 2026 22:11:30 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Trump promises oil executives ‘total safety’ if they invest in Venezuela after Maduro ouster]]></title>
 <link>https://apnews.com/article/trump-venezuela-oil-chevron-exxonmobil-conocophillips-0e0619a991e92fd546504f1a613161e7</link>
 <pubDate>Fri, 09 Jan 2026 21:56:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Doctors say changes to US vaccine recommendations are confusing parents and could harm kids]]></title>
-<link>https://apnews.com/article/vaccines-rfk-shared-decision-making-pediatrician-70cf2dad36ca9934e033edd71025ea63</link>
-<pubDate>Sat, 10 Jan 2026 13:55:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen as regional tensions rise]]></title>
+<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
 <link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
-<pubDate>Sat, 10 Jan 2026 15:23:39 -0000</pubDate>
+<pubDate>Sat, 10 Jan 2026 16:44:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
