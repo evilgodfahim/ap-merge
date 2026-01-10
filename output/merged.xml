@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 05:41:31 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 06:16:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
+<pubDate>Sat, 10 Jan 2026 06:16:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia just used its new hypersonic missile again in Ukraine. Here’s what to know about the Oreshnik]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-missile-hypersonic-oreshnik-40502d366170b9830f007913e0b8aa9e</link>
 <pubDate>Fri, 09 Jan 2026 15:28:51 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[The pope in a major foreign policy address blasts how countries are using force to assert dominion]]></title>
 <link>https://apnews.com/article/pope-foreign-policy-un-russia-abortion-ee708df6669536c4d2a9858bbafb7d98</link>
 <pubDate>Fri, 09 Jan 2026 11:23:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show snow and ice hitting parts of Europe]]></title>
-<link>https://apnews.com/photo-gallery/photos-cold-winter-weather-europe-ice-snow-ce01201f48a626b2e09eacf3a198dc22</link>
-<pubDate>Fri, 09 Jan 2026 15:13:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[After Venezuela frees 1% of prisoners, families and activists strain to stay hopeful]]></title>
+<link>https://apnews.com/article/venezuela-political-prisoners-maduro-902c2fbe9e08b95a73585b2a83afc492</link>
+<pubDate>Sat, 10 Jan 2026 06:01:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US and Venezuela take first steps toward restoring relations after Maduro’s ouster]]></title>
+<link>https://apnews.com/article/venezuela-us-diplomatic-relations-maduro-12eca94ea60dbdbc8d8ac37535a5d23b</link>
+<pubDate>Sat, 10 Jan 2026 05:46:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dispute erupts over who will represent former Venezuelan leader Nicolás Maduro in court]]></title>
 <link>https://apnews.com/article/maduro-venezuela-criminal-case-lawyers-379d8b836a4448a8ef78cffa2d84d3a7</link>
 <pubDate>Fri, 09 Jan 2026 23:38:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show relatives waiting outside prisons as Venezuela frees a handful of detainees]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-political-prisoners-photos-03a097107300159f1c322db7f1e3f8c2</link>
-<pubDate>Sat, 10 Jan 2026 02:46:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why boosting production of Venezuela’s ‘very dense, very sloppy’ oil could harm the environment]]></title>
-<link>https://apnews.com/article/venezuela-oil-pollution-0485a3d37f474bacb478e1d5160736fd</link>
-<pubDate>Fri, 09 Jan 2026 18:18:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protests against ICE planned across US after shootings in Minneapolis and Portland, Oregon]]></title>
+<link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-a5922ea4b414afa485f324c0adf1d232</link>
+<pubDate>Sat, 10 Jan 2026 06:16:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show relatives waiting outside prisons as Venezuela frees a handful of detainees]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-political-prisoners-photos-03a097107300159f1c322db7f1e3f8c2</link>
+<pubDate>Sat, 10 Jan 2026 06:01:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Officials say a shark killed an American woman along a beach in the US Virgin Islands]]></title>
 <link>https://apnews.com/article/usvi-shark-attack-killed-american-virgin-islands-57ddb343ee8d4eccfebe237fa6d96f49</link>
 <pubDate>Fri, 09 Jan 2026 20:42:52 -0000</pubDate>
@@ -194,6 +206,18 @@
 <title><![CDATA[US treasury secretary says Argentina has repaid its US credit line in a win for Milei]]></title>
 <link>https://apnews.com/article/argentina-us-treasury-scott-bessent-javier-milei-trump-21125705220bd1ca7e84f8b23e6d7037</link>
 <pubDate>Sat, 10 Jan 2026 02:46:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show snow and ice hitting parts of Europe]]></title>
+<link>https://apnews.com/photo-gallery/photos-cold-winter-weather-europe-ice-snow-ce01201f48a626b2e09eacf3a198dc22</link>
+<pubDate>Sat, 10 Jan 2026 05:46:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why boosting production of Venezuela’s ‘very dense, very sloppy’ oil could harm the environment]]></title>
+<link>https://apnews.com/article/venezuela-oil-pollution-0485a3d37f474bacb478e1d5160736fd</link>
+<pubDate>Sat, 10 Jan 2026 05:31:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,33 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia harshly condemns US seizure of oil tanker, warns of a spike in tensions]]></title>
-<link>https://apnews.com/article/russia-us-tanker-seizure-trump-putin-ukraine-898c8340203bd68588f472c1e430c2a0</link>
-<pubDate>Thu, 08 Jan 2026 20:43:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN says the US has ‘legal obligation’ to fund agencies after Trump withdraws from several]]></title>
-<link>https://apnews.com/article/trump-united-nations-international-organizations-withdrawal-b97c82ba21c7da01fa554542f2b18d47</link>
-<pubDate>Thu, 08 Jan 2026 20:28:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Worst in Show’ CES products include AI refrigerators, AI companions and AI doorbells]]></title>
-<link>https://apnews.com/article/ces-worst-show-ai-0ce7fbc5aff68e8ff6d7b8e6fb7b007d</link>
-<pubDate>Thu, 08 Jan 2026 20:13:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gang violence forces medical nonprofit Doctors Without Borders to suspend services at Haiti clinic]]></title>
-<link>https://apnews.com/article/haiti-gangs-doctors-without-borders-clinic-msf-52eb140ee9185c983eb4a03ebeb2bf9f</link>
-<pubDate>Thu, 08 Jan 2026 19:37:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
-<pubDate>Fri, 09 Jan 2026 15:43:53 -0000</pubDate>
+<title><![CDATA[How the US could take over Greenland and the potential challenges]]></title>
+<link>https://apnews.com/article/greenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9</link>
+<pubDate>Sat, 10 Jan 2026 06:16:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +362,6 @@
 <title><![CDATA[As Trump promises Venezuelan renaissance, locals struggle with crumbling economy]]></title>
 <link>https://apnews.com/article/venezuela-economy-trump-4f363a76216a20c64e42704a2ef4ef31</link>
 <pubDate>Fri, 09 Jan 2026 14:14:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After Venezuela frees 1% of prisoners, families and activists strain to stay hopeful]]></title>
-<link>https://apnews.com/article/venezuela-political-prisoners-maduro-902c2fbe9e08b95a73585b2a83afc492</link>
-<pubDate>Fri, 09 Jan 2026 23:38:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and Venezuela take first steps toward restoring relations after Maduro’s ouster]]></title>
-<link>https://apnews.com/article/venezuela-us-diplomatic-relations-maduro-12eca94ea60dbdbc8d8ac37535a5d23b</link>
-<pubDate>Sat, 10 Jan 2026 02:46:25 -0000</pubDate>
+<title><![CDATA[A battered Cuba braces for aftershocks as US seizures of oil tankers linked to Venezuela surge]]></title>
+<link>https://apnews.com/article/cuba-venezuela-us-oil-economy-outages-tankers-155b49ee43bffbbc750768fc2a3efce6</link>
+<pubDate>Sat, 10 Jan 2026 06:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
