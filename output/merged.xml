@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 12:19:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 13:04:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
@@ -17,21 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greenland’s party leaders firmly reject Trump’s push for US control of the island]]></title>
-<link>https://apnews.com/article/greenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545</link>
-<pubDate>Sat, 10 Jan 2026 10:11:28 -0000</pubDate>
+<title><![CDATA[How the US could take over Greenland and the potential challenges]]></title>
+<link>https://apnews.com/article/greenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9</link>
+<pubDate>Sat, 10 Jan 2026 13:03:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
-<pubDate>Sat, 10 Jan 2026 06:16:47 -0000</pubDate>
+<title><![CDATA[Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-oil-volgograd-011c41c7ae5f9027f6792e394a56d408</link>
+<pubDate>Sat, 10 Jan 2026 12:48:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Russia just used its new hypersonic missile again in Ukraine. Here’s what to know about the Oreshnik]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-missile-hypersonic-oreshnik-40502d366170b9830f007913e0b8aa9e</link>
 <pubDate>Fri, 09 Jan 2026 15:28:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea vows response as it accuses the South of flying drones across the border]]></title>
+<link>https://apnews.com/article/north-south-korea-drones-tensions-7fe161e1d0fe212bea86fdf82c92679d</link>
+<pubDate>Sat, 10 Jan 2026 12:33:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[US will provide $45 million in aid to Thailand and Cambodia in a bid to ensure regional stability]]></title>
 <link>https://apnews.com/article/thailand-us-cambodia-aid-border-fighting-e36d1e936b4b66f9416a7beed88a8de4</link>
 <pubDate>Fri, 09 Jan 2026 14:58:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
-<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
-<pubDate>Fri, 09 Jan 2026 06:04:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
+<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
+<pubDate>Sat, 10 Jan 2026 13:03:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Honduran lawmaker injured in Congress by homemade explosive]]></title>
 <link>https://apnews.com/article/honduras-election-explosion-congress-5d642319028b191e0c83b2ba36423cc2</link>
 <pubDate>Fri, 09 Jan 2026 14:28:52 -0000</pubDate>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-8-2026-c43608120885c76c04e4d866a8bddb21</link>
-<pubDate>Thu, 08 Jan 2026 22:11:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How the US could take over Greenland and the potential challenges]]></title>
-<link>https://apnews.com/article/greenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9</link>
-<pubDate>Sat, 10 Jan 2026 06:16:48 -0000</pubDate>
+<title><![CDATA[Greenland’s party leaders firmly reject Trump’s push for US control of the island]]></title>
+<link>https://apnews.com/article/greenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545</link>
+<pubDate>Sat, 10 Jan 2026 10:11:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Filipino rescuers detect ‘signs of life’ in garbage avalanche that killed 4 and left dozens missing]]></title>
-<link>https://apnews.com/article/philippines-landfill-garbage-collapse-search-98569359af3bc93cc33cc442844a618e</link>
-<pubDate>Sat, 10 Jan 2026 07:36:40 -0000</pubDate>
+<title><![CDATA[Video shows masked, armed men beating a Palestinian in the occupied West Bank]]></title>
+<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
+<pubDate>Sat, 10 Jan 2026 12:48:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea vows response as it accuses the South of flying drones across the border]]></title>
-<link>https://apnews.com/article/north-south-korea-drones-tensions-7fe161e1d0fe212bea86fdf82c92679d</link>
-<pubDate>Sat, 10 Jan 2026 05:13:38 -0000</pubDate>
+<title><![CDATA[Filipino rescuers detect ‘signs of life’ in garbage avalanche that killed 4 and left dozens missing]]></title>
+<link>https://apnews.com/article/philippines-landfill-garbage-collapse-search-98569359af3bc93cc33cc442844a618e</link>
+<pubDate>Sat, 10 Jan 2026 07:36:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
