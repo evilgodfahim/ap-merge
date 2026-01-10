@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 17:38:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 18:16:20 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
+<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
+<pubDate>Sat, 10 Jan 2026 18:16:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[What to know about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
 <pubDate>Sat, 10 Jan 2026 11:34:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
-<link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
-<pubDate>Fri, 09 Jan 2026 15:43:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
-<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
-<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
+<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
+<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
+<pubDate>Sat, 10 Jan 2026 18:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syrian security forces enter Aleppo neighborhood after clashes with Kurdish fighters]]></title>
+<link>https://apnews.com/article/aleppo-syria-kurds-sdf-fighting-4cb2f16a58436205aea2cd8503a85296</link>
+<pubDate>Sat, 10 Jan 2026 18:01:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
 <link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
 <pubDate>Sat, 10 Jan 2026 16:44:37 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
 <pubDate>Fri, 09 Jan 2026 08:51:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
-<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
-<pubDate>Fri, 09 Jan 2026 14:43:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
+<link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
+<pubDate>Fri, 09 Jan 2026 02:25:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN rights office cites ‘widespread repression’ in Uganda before next week’s presidential election]]></title>
 <link>https://apnews.com/article/uganda-election-un-rights-report-1e30ab4e21419dad8cd73567fbc0759c</link>
 <pubDate>Fri, 09 Jan 2026 13:44:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protests against ICE planned across US after shootings in Minneapolis and Portland, Oregon]]></title>
+<title><![CDATA[Anti-ICE protesters assemble across the US after shootings in Minneapolis and Portland, Oregon]]></title>
 <link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-a5922ea4b414afa485f324c0adf1d232</link>
-<pubDate>Sat, 10 Jan 2026 15:08:39 -0000</pubDate>
+<pubDate>Sat, 10 Jan 2026 17:46:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
