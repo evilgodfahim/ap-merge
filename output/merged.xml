@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 15:10:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 15:38:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about the protests shaking Iran]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congress is debating the possible consequences for ICE and even Noem after Renee Good’s killing]]></title>
+<link>https://apnews.com/article/immigration-customs-enforcement-democrats-noem-impeachment-funding-03095f6a4041bef063afe22becf1a788</link>
+<pubDate>Sat, 10 Jan 2026 15:38:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Minneapolis schools offer remote learning as tensions rise over federal immigration enforcement]]></title>
 <link>https://apnews.com/article/immigration-enforcement-ice-minnesota-schools-432efd7448a925748ca32ffd1f72b2df</link>
 <pubDate>Fri, 09 Jan 2026 22:11:30 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Doctors say changes to US vaccine recommendations are confusing parents and could harm kids]]></title>
 <link>https://apnews.com/article/vaccines-rfk-shared-decision-making-pediatrician-70cf2dad36ca9934e033edd71025ea63</link>
 <pubDate>Sat, 10 Jan 2026 13:55:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know as Trump targets child care and social service funding to 5 states led by Democrats]]></title>
-<link>https://apnews.com/article/social-service-funds-frozen-child-care-states-c1959f3a2d6c6083801d4724d8ead224</link>
-<pubDate>Sat, 10 Jan 2026 04:58:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,12 +170,6 @@
 <title><![CDATA[Dakar Rally moves through sweeping desert landscapes, in photos]]></title>
 <link>https://apnews.com/photo-gallery/dakar-rally-a2d6acc10b07d6f05eb72846c1f920a8</link>
 <pubDate>Sat, 10 Jan 2026 10:11:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protests against ICE planned across US after shootings in Minneapolis and Portland, Oregon]]></title>
-<link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-a5922ea4b414afa485f324c0adf1d232</link>
-<pubDate>Sat, 10 Jan 2026 06:16:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,6 +236,12 @@
 <title><![CDATA[David Bowie’s childhood home in London is set to open to the public next year]]></title>
 <link>https://apnews.com/article/david-bowie-childhood-house-london-tourist-attraction-b06c598cff9109cf9e2d48248c3accd5</link>
 <pubDate>Fri, 09 Jan 2026 11:38:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Separatist group in southern Yemen announces dissolution after its leader flees to the UAE]]></title>
+<link>https://apnews.com/article/yemen-war-saudi-arabia-uae-southern-transitional-council-7303d1d01a49f959bfb9baeeb5ff400d</link>
+<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows masked, armed men beating a Palestinian in the occupied West Bank]]></title>
+<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
 <link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
-<pubDate>Sat, 10 Jan 2026 12:48:59 -0000</pubDate>
+<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Separatist group in southern Yemen announces dissolution after its leader flees to the UAE]]></title>
-<link>https://apnews.com/article/yemen-war-saudi-arabia-uae-southern-transitional-council-7303d1d01a49f959bfb9baeeb5ff400d</link>
-<pubDate>Sat, 10 Jan 2026 11:34:51 -0000</pubDate>
+<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen as regional tensions rise]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
+<pubDate>Sat, 10 Jan 2026 15:23:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New video of fatal Minnesota ICE shooting, from officer’s perspective, brings fresh scrutiny]]></title>
-<link>https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-1aeabfaf747eff0162c15216bf41c9e7</link>
-<pubDate>Sat, 10 Jan 2026 00:09:54 -0000</pubDate>
+<title><![CDATA[Protests against ICE planned across US after shootings in Minneapolis and Portland, Oregon]]></title>
+<link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-a5922ea4b414afa485f324c0adf1d232</link>
+<pubDate>Sat, 10 Jan 2026 15:08:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
