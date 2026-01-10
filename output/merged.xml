@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 04:50:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 05:13:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mound of garbage collapses at Philippine landfill, killing 2 and leaving 36 others missing]]></title>
+<link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
+<pubDate>Sat, 10 Jan 2026 05:13:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US will provide $45 million in aid to Thailand and Cambodia in a bid to ensure regional stability]]></title>
 <link>https://apnews.com/article/thailand-us-cambodia-aid-border-fighting-e36d1e936b4b66f9416a7beed88a8de4</link>
 <pubDate>Fri, 09 Jan 2026 14:58:51 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
 <link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
 <pubDate>Fri, 09 Jan 2026 06:04:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
-<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
-<pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about restrictions on state use of money for child care and other social services]]></title>
+<title><![CDATA[What to know as Trump targets child care and social service funding to 5 states led by Democrats]]></title>
 <link>https://apnews.com/article/social-service-funds-frozen-child-care-states-c1959f3a2d6c6083801d4724d8ead224</link>
-<pubDate>Fri, 09 Jan 2026 17:18:03 -0000</pubDate>
+<pubDate>Sat, 10 Jan 2026 04:58:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Luigi Mangione’s federal death penalty trial could start before the end of the year]]></title>
 <link>https://apnews.com/article/mangione-unitedhealthcare-murder-death-penalty-031e32785dcebaaac643440336b8c222</link>
 <pubDate>Fri, 09 Jan 2026 19:07:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
+<link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
+<pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,12 +146,6 @@
 <title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
 <link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
 <pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China announces another new trade measure against Japan as tensions rise]]></title>
-<link>https://apnews.com/article/china-japan-chips-korea-trade-rare-be0b160c721a62d6ea5ad130a212157b</link>
-<pubDate>Thu, 08 Jan 2026 10:53:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,12 +194,6 @@
 <title><![CDATA[US treasury secretary says Argentina has repaid its US credit line in a win for Milei]]></title>
 <link>https://apnews.com/article/argentina-us-treasury-scott-bessent-javier-milei-trump-21125705220bd1ca7e84f8b23e6d7037</link>
 <pubDate>Sat, 10 Jan 2026 02:46:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italy’s Meloni rules out US military move on Greenland and urges stronger NATO role in Arctic]]></title>
-<link>https://apnews.com/article/italy-meloni-trump-us-greenland-denmark-military-action-c15bb5780c64f41fd44417599c10b7c9</link>
-<pubDate>Fri, 09 Jan 2026 15:43:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gang violence forces medical nonprofit Doctors Without Borders to suspend services at Haiti clinic]]></title>
+<link>https://apnews.com/article/haiti-gangs-doctors-without-borders-clinic-msf-52eb140ee9185c983eb4a03ebeb2bf9f</link>
+<pubDate>Thu, 08 Jan 2026 19:37:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-missile-kyiv-56655401d55ab4818800c43b7035b2a9</link>
 <pubDate>Fri, 09 Jan 2026 15:43:53 -0000</pubDate>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mound of garbage collapses at Philippine landfill, killing 2 and leaving 36 others missing]]></title>
-<link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
-<pubDate>Fri, 09 Jan 2026 12:40:34 -0000</pubDate>
+<title><![CDATA[North Korea vows response as it accuses the South of flying drones across the border]]></title>
+<link>https://apnews.com/article/north-south-korea-drones-tensions-7fe161e1d0fe212bea86fdf82c92679d</link>
+<pubDate>Sat, 10 Jan 2026 05:13:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
