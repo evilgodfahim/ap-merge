@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 11:09:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 11:34:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What to know about the protests shaking Iran]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Sat, 10 Jan 2026 11:34:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[A look at major protests that have shaken Iran over the past 50 years]]></title>
 <link>https://apnews.com/article/iran-protests-us-nuclear-tensions-economy-be92269aa913782c82a3fe5aa93a6adf</link>
 <pubDate>Fri, 09 Jan 2026 15:43:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace]]></title>
-<link>https://apnews.com/article/israel-gaza-ceasefire-deaths-c5abec46b78dd3863e98c40140150dfb</link>
-<pubDate>Fri, 09 Jan 2026 14:14:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As tensions flare in Minnesota, Treasury Secretary Bessent pushes a crackdown on fraud]]></title>
-<link>https://apnews.com/article/treasury-bessent-minnesota-somalia-fraud-0e1536f770cff273e44008100b29c4ca</link>
-<pubDate>Fri, 09 Jan 2026 19:37:25 -0000</pubDate>
+<title><![CDATA[Hollywood couple Meagan Good and Jonathan Majors gain Guinean citizenship]]></title>
+<link>https://apnews.com/article/guinea-jonathan-majors-meagan-citizenship-a7c9ba611a981e8cd012cdb7d2b10a8c</link>
+<pubDate>Sat, 10 Jan 2026 11:19:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Somalia denies US allegation that it destroyed food aid warehouse]]></title>
-<link>https://apnews.com/article/somalia-united-states-world-food-program-warehouse-ad0befb6d102a18365ad91bfee9845a9</link>
-<pubDate>Fri, 09 Jan 2026 13:59:20 -0000</pubDate>
+<title><![CDATA[As tensions flare in Minnesota, Treasury Secretary Bessent pushes a crackdown on fraud]]></title>
+<link>https://apnews.com/article/treasury-bessent-minnesota-somalia-fraud-0e1536f770cff273e44008100b29c4ca</link>
+<pubDate>Fri, 09 Jan 2026 19:37:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace]]></title>
+<link>https://apnews.com/article/israel-gaza-ceasefire-deaths-c5abec46b78dd3863e98c40140150dfb</link>
+<pubDate>Sat, 10 Jan 2026 11:34:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump pick for Gaza board Nickolay Mladenov frequently worked to ease Mideast tensions]]></title>
 <link>https://apnews.com/article/bulgaria-middle-east-gaza-nikolay-mladenov-5b4f02c2deb0ba621951c71e6ac60dd1</link>
 <pubDate>Fri, 09 Jan 2026 12:40:34 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/photos-week-top-ap-7bdf17930f927f332da271fd6150c7b4</link>
-<pubDate>Thu, 08 Jan 2026 21:56:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How the US could take over Greenland and the potential challenges]]></title>
 <link>https://apnews.com/article/greenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9</link>
 <pubDate>Sat, 10 Jan 2026 06:16:48 -0000</pubDate>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Separatist group in southern Yemen announces dissolution after its leader flees to the UAE]]></title>
+<link>https://apnews.com/article/yemen-war-saudi-arabia-uae-southern-transitional-council-7303d1d01a49f959bfb9baeeb5ff400d</link>
+<pubDate>Sat, 10 Jan 2026 11:34:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran’s exiled crown prince rises as a figure in protests, decades after leaving his homeland]]></title>
 <link>https://apnews.com/article/iran-protests-crown-prince-reza-pahlavi-cec4123ec75a0953bc0726e46ad32f1f</link>
 <pubDate>Fri, 09 Jan 2026 14:58:53 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
 <link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
 <pubDate>Fri, 09 Jan 2026 14:43:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the protests shaking Iran]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Fri, 09 Jan 2026 11:23:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
