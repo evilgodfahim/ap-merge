@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 22:40:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 23:10:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Slow-moving prisoner releases in Venezuela enter 3rd day]]></title>
+<link>https://apnews.com/article/venezuela-us-prisoners-624fc981b7541d85b0b3c35eb58cd58b</link>
+<pubDate>Sat, 10 Jan 2026 23:10:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A battered Cuba braces for aftershocks as US seizures of oil tankers linked to Venezuela surge]]></title>
 <link>https://apnews.com/article/cuba-venezuela-us-oil-economy-outages-tankers-155b49ee43bffbbc750768fc2a3efce6</link>
 <pubDate>Sat, 10 Jan 2026 21:55:33 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Brazil soy industry’s exit from moratorium on using Amazon land could spur deforestation]]></title>
 <link>https://apnews.com/article/brazil-amazon-soy-production-moratorium-deforestation-pact-109dee463fdcd6931a4bb01799cba577</link>
 <pubDate>Sat, 10 Jan 2026 14:10:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nicaragua’s government says it’s freeing detainees after pressure from the US]]></title>
-<link>https://apnews.com/article/nicaragua-prisoners-release-venezuela-9045547a8a3a7e06a652cf060bd6818b</link>
-<pubDate>Sat, 10 Jan 2026 21:40:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[6 people killed in Mississippi rampage, including 7-year-old girl. Suspect charged with murder]]></title>
+<link>https://apnews.com/article/mississippi-shooting-deaths-west-point-e7fcceb607e0e830c0215c4ae560e1c1</link>
+<pubDate>Sat, 10 Jan 2026 22:55:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congress is debating the possible consequences for ICE and even Noem after Renee Good’s killing]]></title>
 <link>https://apnews.com/article/immigration-customs-enforcement-democrats-noem-impeachment-funding-03095f6a4041bef063afe22becf1a788</link>
 <pubDate>Sat, 10 Jan 2026 15:38:38 -0000</pubDate>
@@ -113,18 +119,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump promises oil executives ‘total safety’ if they invest in Venezuela after Maduro ouster]]></title>
-<link>https://apnews.com/article/trump-venezuela-oil-chevron-exxonmobil-conocophillips-0e0619a991e92fd546504f1a613161e7</link>
-<pubDate>Fri, 09 Jan 2026 21:56:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[DeepSeek’s AI gains traction in developing nations, Microsoft report says]]></title>
-<link>https://apnews.com/article/ai-deepseek-chatbot-china-microsoft-3ffc9b26f5798de8a7014fcd9bb343b0</link>
-<pubDate>Fri, 09 Jan 2026 02:10:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
 <link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
 <pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
@@ -140,6 +134,12 @@
 <title><![CDATA[China and Japan, uneasy neighbors in East Asia, are at odds again]]></title>
 <link>https://apnews.com/article/china-japan-tensions-nuclear-taiwan-history-1d50ae5508c8e958ccf2b577302948bc</link>
 <pubDate>Fri, 09 Jan 2026 00:56:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prime Minister Mark Carney to visit China next week as Canada pivots away from the US]]></title>
+<link>https://apnews.com/article/canada-china-carney-xi-306dd153e57524f6c8394cb7543c5a27</link>
+<pubDate>Wed, 07 Jan 2026 22:11:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Shreyas Iyer returns for India’s ODI series against New Zealand]]></title>
 <link>https://apnews.com/article/india-squad-odi-new-zealand-iyer-b356d878c50a82e47e2d2a94bf592cd1</link>
 <pubDate>Mon, 05 Jan 2026 07:03:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nicaragua’s government says it’s freeing detainees after pressure from the US]]></title>
+<link>https://apnews.com/article/nicaragua-prisoners-release-venezuela-9045547a8a3a7e06a652cf060bd6818b</link>
+<pubDate>Sat, 10 Jan 2026 23:10:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[An Argentine court offers hope for Venezuelans seeking justice for abuses under Maduro]]></title>
-<link>https://apnews.com/article/argentina-venezuela-trump-maduro-milei-5121d5506734904d15c5014d743dea32</link>
-<pubDate>Fri, 09 Jan 2026 23:23:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Greenland’s party leaders firmly reject Trump’s push for US control of the island]]></title>
 <link>https://apnews.com/article/greenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545</link>
 <pubDate>Sat, 10 Jan 2026 10:11:29 -0000</pubDate>
@@ -425,15 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US treasury secretary says Argentina has repaid its US credit line in a win for Milei]]></title>
-<link>https://apnews.com/article/argentina-us-treasury-scott-bessent-javier-milei-trump-21125705220bd1ca7e84f8b23e6d7037</link>
-<pubDate>Sat, 10 Jan 2026 08:15:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Lebanon signs gas exploration deal with international consortium amid economic crisis]]></title>
 <link>https://apnews.com/article/lebanon-israel-gas-exploration-eni-totalenergies-qatar-energy-d26487dd070ec084188526e16ec02747</link>
 <pubDate>Fri, 09 Jan 2026 13:58:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
+<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
+<pubDate>Fri, 09 Jan 2026 02:10:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
-<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
-<pubDate>Fri, 09 Jan 2026 02:10:05 -0000</pubDate>
+<title><![CDATA[DeepSeek’s AI gains traction in developing nations, Microsoft report says]]></title>
+<link>https://apnews.com/article/ai-deepseek-chatbot-china-microsoft-3ffc9b26f5798de8a7014fcd9bb343b0</link>
+<pubDate>Thu, 08 Jan 2026 16:22:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
