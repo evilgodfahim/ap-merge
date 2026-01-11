@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 18:15:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 18:48:05 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US launches new retaliatory strikes against IS in Syria after deadly ambush]]></title>
+<link>https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4</link>
+<pubDate>Sun, 11 Jan 2026 15:10:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Kurdish fighters evacuated from Aleppo after days of violent clashes]]></title>
 <link>https://apnews.com/article/aleppo-syria-kurds-sdf-fighting-4cb2f16a58436205aea2cd8503a85296</link>
 <pubDate>Sun, 11 Jan 2026 14:55:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
-<pubDate>Sun, 11 Jan 2026 05:45:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands of tourists stranded in northern Finland as deep freeze halts flights]]></title>
-<link>https://apnews.com/article/finland-flights-canceled-europe-cold-weather-c95ec0c51effea12b378e1af7408b754</link>
-<pubDate>Sun, 11 Jan 2026 17:38:51 -0000</pubDate>
+<title><![CDATA[Britain is in talks with NATO to counter Russia and China in the Arctic]]></title>
+<link>https://apnews.com/article/british-military-nato-greenland-us-threat-russia-china-e4e76cae7577151135080911cddc9627</link>
+<pubDate>Sun, 11 Jan 2026 18:48:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Germany sharply rejects RFK Jr.'s claims that it prosecutes doctors for vaccine exemptions]]></title>
-<link>https://apnews.com/article/germany-us-health-kennedy-accusations-covid-patients-5bb5d4b7c004ef2b31dc809b732ca590</link>
-<pubDate>Sun, 11 Jan 2026 17:23:51 -0000</pubDate>
+<title><![CDATA[Thousands of tourists stranded in northern Finland as deep freeze halts flights]]></title>
+<link>https://apnews.com/article/finland-flights-canceled-europe-cold-weather-c95ec0c51effea12b378e1af7408b754</link>
+<pubDate>Sun, 11 Jan 2026 17:38:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,15 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suspect arrested after a fire damages a historic Mississippi synagogue]]></title>
-<link>https://apnews.com/article/mississippi-fire-arson-beth-israel-7a11b4b0f6524571da85fe4ed96e42bd</link>
-<pubDate>Sun, 11 Jan 2026 14:25:27 -0000</pubDate>
+<title><![CDATA[Congress is debating the possible consequences for ICE and even Noem after Renee Good’s killing]]></title>
+<link>https://apnews.com/article/immigration-customs-enforcement-democrats-noem-impeachment-funding-03095f6a4041bef063afe22becf1a788</link>
+<pubDate>Sat, 10 Jan 2026 15:38:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[6 people killed in Mississippi rampage, including 7-year-old girl. Suspect charged with murder]]></title>
-<link>https://apnews.com/article/mississippi-shooting-deaths-west-point-e7fcceb607e0e830c0215c4ae560e1c1</link>
-<pubDate>Sat, 10 Jan 2026 22:55:39 -0000</pubDate>
+<title><![CDATA[Lawsuits by Trump allies could shape how the 2030 census is done and who will be counted]]></title>
+<link>https://apnews.com/article/census-bureau-2030-lawsuits-trump-justice-department-ec3df3a18350a73266ea0b0b12c82f72</link>
+<pubDate>Sun, 11 Jan 2026 13:29:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lawsuits by Trump allies could shape how the 2030 census is done and who will be counted]]></title>
-<link>https://apnews.com/article/census-bureau-2030-lawsuits-trump-justice-department-ec3df3a18350a73266ea0b0b12c82f72</link>
-<pubDate>Sun, 11 Jan 2026 13:29:57 -0000</pubDate>
+<title><![CDATA[Suspect arrested after a fire damages a historic Mississippi synagogue]]></title>
+<link>https://apnews.com/article/mississippi-fire-arson-beth-israel-7a11b4b0f6524571da85fe4ed96e42bd</link>
+<pubDate>Sun, 11 Jan 2026 14:25:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guard at Winter Olympic construction site dies in nighttime sub-freezing temperatures]]></title>
+<title><![CDATA[Guard at Winter Olympic construction site dies in nighttime subfreezing temperatures]]></title>
 <link>https://apnews.com/article/winter-olympics-milan-cortina-games-death-guard-641eff7f048f9df8ad1dbff9f43a19fb</link>
-<pubDate>Sun, 11 Jan 2026 13:44:58 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 18:48:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Andrea Bocelli will headline the Milan Cortina Winter Olympic opening ceremony]]></title>
 <link>https://apnews.com/article/winter-olympics-milan-opening-bocelli-884a38887098840b63ea059c74ab954f</link>
 <pubDate>Sun, 11 Jan 2026 13:14:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Germany sharply rejects RFK Jr.'s claims that it prosecutes doctors for vaccine exemptions]]></title>
+<link>https://apnews.com/article/germany-us-health-kennedy-accusations-covid-patients-5bb5d4b7c004ef2b31dc809b732ca590</link>
+<pubDate>Sun, 11 Jan 2026 12:20:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +212,12 @@
 <title><![CDATA[A week in photos from Venezuela after U.S. strike removed its president]]></title>
 <link>https://apnews.com/photo-gallery/photos-venezuela-trump-strike-economy-daily-life-cc0a7825ff717f234a38b2a69e68e9cf</link>
 <pubDate>Sat, 10 Jan 2026 22:10:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
+<pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
-<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
-<pubDate>Sun, 11 Jan 2026 05:15:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[David Bowie’s childhood home in London is set to open to the public next year]]></title>
-<link>https://apnews.com/article/david-bowie-childhood-house-london-tourist-attraction-b06c598cff9109cf9e2d48248c3accd5</link>
-<pubDate>Fri, 09 Jan 2026 11:38:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Death toll in crackdown on protests in Iran spikes to at least 538, activists say]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
 <pubDate>Sun, 11 Jan 2026 17:38:52 -0000</pubDate>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
+<link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
+<pubDate>Sun, 11 Jan 2026 18:48:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
 <link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
 <pubDate>Sat, 10 Jan 2026 18:16:19 -0000</pubDate>
@@ -410,12 +416,6 @@
 <title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
 <link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
 <pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US launches new retaliatory strikes against IS in Syria after deadly ambush]]></title>
-<link>https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4</link>
-<pubDate>Sun, 11 Jan 2026 12:05:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minnesota Democrats are demanding a broader investigation into Renee Good’s shooting]]></title>
+<title><![CDATA[Minnesota braces for what’s next amid immigration arrests and in the wake of Renee Good shooting]]></title>
 <link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-3f9db36657dda5bfebf9c240b6011ee5</link>
-<pubDate>Sun, 11 Jan 2026 17:08:52 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 18:33:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
