@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 11:34:54 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
-<pubDate>Sun, 11 Jan 2026 05:45:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 11 Jan 2026 12:20:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s exiled crown prince rises as a figure in protests, decades after leaving his homeland]]></title>
 <link>https://apnews.com/article/iran-protests-crown-prince-reza-pahlavi-cec4123ec75a0953bc0726e46ad32f1f</link>
 <pubDate>Sun, 11 Jan 2026 05:30:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
+<pubDate>Sat, 10 Jan 2026 22:10:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian drone attack in Russia kills 1 following Moscow’s intense bombardment]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-voronezh-drones-1f81528293f9ee2f7cccef7695090a2d</link>
+<pubDate>Sun, 11 Jan 2026 12:20:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[How the US could take over Greenland and the potential challenges]]></title>
 <link>https://apnews.com/article/greenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9</link>
 <pubDate>Sat, 10 Jan 2026 13:03:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Drone attack on Voronezh in Russia kills 1 person and wounds 3]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-voronezh-drones-1f81528293f9ee2f7cccef7695090a2d</link>
-<pubDate>Sun, 11 Jan 2026 08:14:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Brazil soy industry’s exit from moratorium on using Amazon land could spur deforestation]]></title>
 <link>https://apnews.com/article/brazil-amazon-soy-production-moratorium-deforestation-pact-109dee463fdcd6931a4bb01799cba577</link>
 <pubDate>Sat, 10 Jan 2026 14:10:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
-<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
-<pubDate>Sat, 10 Jan 2026 18:16:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,12 @@
 <title><![CDATA[Bangladesh refuses to travel to India for T20 World Cup, requests its matches be played in Sri Lanka]]></title>
 <link>https://apnews.com/article/bangladesh-t20-world-cup-india-tensions-2b564bd12be76ebef931f9c3df7ee3cc</link>
 <pubDate>Mon, 05 Jan 2026 15:46:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Germany sharply rejects RFK Jr.'s claims that it prosecutes doctors for vaccine exemptions]]></title>
+<link>https://apnews.com/article/germany-us-health-kennedy-accusations-covid-patients-5bb5d4b7c004ef2b31dc809b732ca590</link>
+<pubDate>Sun, 11 Jan 2026 12:20:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
+<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
+<pubDate>Sun, 11 Jan 2026 05:15:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[David Bowie’s childhood home in London is set to open to the public next year]]></title>
 <link>https://apnews.com/article/david-bowie-childhood-house-london-tourist-attraction-b06c598cff9109cf9e2d48248c3accd5</link>
 <pubDate>Fri, 09 Jan 2026 11:38:08 -0000</pubDate>
@@ -341,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
-<pubDate>Sun, 11 Jan 2026 05:00:10 -0000</pubDate>
+<title><![CDATA[Iran warns it will target US troops and Israel if America strikes over protests]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
+<pubDate>Sun, 11 Jan 2026 10:42:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran warns it will target US troops and Israel if America strikes over protests]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
-<pubDate>Sun, 11 Jan 2026 10:42:47 -0000</pubDate>
+<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
+<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
+<pubDate>Sat, 10 Jan 2026 18:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,15 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
-<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
-<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US launches new retaliatory strikes against ISIS in Syria after deadly ambush]]></title>
+<title><![CDATA[US launches new retaliatory strikes against IS in Syria after deadly ambush]]></title>
 <link>https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4</link>
-<pubDate>Sat, 10 Jan 2026 21:55:34 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 12:05:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Retouched images of Israel’s first lady, distributed by the state, ignite a fiery ethics debate]]></title>
+<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
 <link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
-<pubDate>Sun, 11 Jan 2026 05:15:10 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 11:50:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
+<pubDate>Sat, 10 Jan 2026 16:44:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
