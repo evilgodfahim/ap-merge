@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 05:17:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 05:45:11 GMT</lastBuildDate>
 <item>
-<title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
-<pubDate>Sat, 10 Jan 2026 22:10:33 -0000</pubDate>
+<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
+<pubDate>Sun, 11 Jan 2026 05:45:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
-<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
-<pubDate>Sat, 10 Jan 2026 18:16:18 -0000</pubDate>
+<title><![CDATA[Iran’s exiled crown prince rises as a figure in protests, decades after leaving his homeland]]></title>
+<link>https://apnews.com/article/iran-protests-crown-prince-reza-pahlavi-cec4123ec75a0953bc0726e46ad32f1f</link>
+<pubDate>Sun, 11 Jan 2026 05:30:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Greenland’s party leaders firmly reject Trump’s push for US control of the island]]></title>
+<link>https://apnews.com/article/greenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545</link>
+<pubDate>Sat, 10 Jan 2026 10:11:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-oil-volgograd-011c41c7ae5f9027f6792e394a56d408</link>
 <pubDate>Sat, 10 Jan 2026 12:48:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia just used its new hypersonic missile again in Ukraine. Here’s what to know about the Oreshnik]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-missile-hypersonic-oreshnik-40502d366170b9830f007913e0b8aa9e</link>
-<pubDate>Fri, 09 Jan 2026 15:28:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[Brazil soy industry’s exit from moratorium on using Amazon land could spur deforestation]]></title>
 <link>https://apnews.com/article/brazil-amazon-soy-production-moratorium-deforestation-pact-109dee463fdcd6931a4bb01799cba577</link>
 <pubDate>Sat, 10 Jan 2026 14:10:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Visiting EU leaders pledge to support Syria’s recovery after years of civil war]]></title>
+<link>https://apnews.com/article/syria-lebanon-eu-visit-von-der-leyen-1ed2f398ffa8f2e8668d545db20b9d89</link>
+<pubDate>Sat, 10 Jan 2026 18:16:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Golden Globes are tonight. Here’s what to look for and how to watch and stream the show]]></title>
+<link>https://apnews.com/article/2026-golden-globes-1538032b1bb06383484b15c3c4b9c16f</link>
+<pubDate>Sun, 11 Jan 2026 05:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nicaragua’s government says it’s freeing detainees after pressure from the US]]></title>
 <link>https://apnews.com/article/nicaragua-prisoners-release-venezuela-9045547a8a3a7e06a652cf060bd6818b</link>
 <pubDate>Sat, 10 Jan 2026 23:10:40 -0000</pubDate>
@@ -221,12 +233,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After Venezuela frees 1% of prisoners, families and activists strain to stay hopeful]]></title>
-<link>https://apnews.com/article/venezuela-political-prisoners-maduro-902c2fbe9e08b95a73585b2a83afc492</link>
-<pubDate>Sat, 10 Jan 2026 19:32:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show snow and ice hitting parts of Europe]]></title>
 <link>https://apnews.com/photo-gallery/photos-cold-winter-weather-europe-ice-snow-ce01201f48a626b2e09eacf3a198dc22</link>
 <pubDate>Sat, 10 Jan 2026 05:46:48 -0000</pubDate>
@@ -248,6 +254,12 @@
 <title><![CDATA[As Trump promises Venezuelan renaissance, locals struggle with crumbling economy]]></title>
 <link>https://apnews.com/article/venezuela-economy-trump-4f363a76216a20c64e42704a2ef4ef31</link>
 <pubDate>Sat, 10 Jan 2026 21:55:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia just used its new hypersonic missile again in Ukraine. Here’s what to know about the Oreshnik]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-missile-hypersonic-oreshnik-40502d366170b9830f007913e0b8aa9e</link>
+<pubDate>Sun, 11 Jan 2026 05:30:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
+<pubDate>Sun, 11 Jan 2026 05:00:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump pick for Gaza board Nickolay Mladenov frequently worked to ease Mideast tensions]]></title>
 <link>https://apnews.com/article/bulgaria-middle-east-gaza-nikolay-mladenov-5b4f02c2deb0ba621951c71e6ac60dd1</link>
 <pubDate>Fri, 09 Jan 2026 12:40:34 -0000</pubDate>
@@ -329,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street rises to records after the unemployment rate improves]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-oil-ai-d6cf868b23a814a3a2038aca24a0de93</link>
-<pubDate>Sat, 10 Jan 2026 08:45:34 -0000</pubDate>
+<title><![CDATA[Greenland’s harsh environment and lack of infrastructure have prevented rare earth mining]]></title>
+<link>https://apnews.com/article/denmark-greenland-trump-rare-earths-mining-3f47c0b2ae3edfb322a908ee39c42c05</link>
+<pubDate>Sun, 11 Jan 2026 05:45:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Filipino Catholics express outrage over corruption scandal during massive religious procession]]></title>
-<link>https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13</link>
-<pubDate>Sat, 10 Jan 2026 13:03:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Honduran lawmaker injured in Congress by homemade explosive]]></title>
-<link>https://apnews.com/article/honduras-election-explosion-congress-5d642319028b191e0c83b2ba36423cc2</link>
-<pubDate>Fri, 09 Jan 2026 14:28:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Greenland’s party leaders firmly reject Trump’s push for US control of the island]]></title>
-<link>https://apnews.com/article/greenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545</link>
-<pubDate>Sat, 10 Jan 2026 10:11:29 -0000</pubDate>
+<title><![CDATA[Millions of Venezuelans scattered across Latin America cautiously watch what comes next]]></title>
+<link>https://apnews.com/article/venezuela-migrants-trump-maduro-chile-mexico-colombia-a13345cf133c783b523a30fcc4e174b5</link>
+<pubDate>Sun, 11 Jan 2026 05:30:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Myanmar holds 2nd round of elections amid armed conflict]]></title>
 <link>https://apnews.com/article/myanmar-election-military-party-second-phase-6661c927e1b6079d899ccc022f0a981d</link>
 <pubDate>Sun, 11 Jan 2026 01:01:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
-<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
-<pubDate>Sat, 10 Jan 2026 18:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
+<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
+<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US launches new retaliatory strikes against ISIS in Syria after deadly ambush]]></title>
 <link>https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4</link>
 <pubDate>Sat, 10 Jan 2026 21:55:34 -0000</pubDate>
@@ -401,15 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
-<pubDate>Sat, 10 Jan 2026 16:44:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s exiled crown prince rises as a figure in protests, decades after leaving his homeland]]></title>
-<link>https://apnews.com/article/iran-protests-crown-prince-reza-pahlavi-cec4123ec75a0953bc0726e46ad32f1f</link>
-<pubDate>Fri, 09 Jan 2026 14:58:53 -0000</pubDate>
+<title><![CDATA[Retouched images of Israel’s first lady, distributed by the state, ignite a fiery ethics debate]]></title>
+<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
+<pubDate>Sun, 11 Jan 2026 05:15:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +452,6 @@
 <title><![CDATA[Nobel Institute says Venezuelan leader Machado can’t give Peace Prize to Trump]]></title>
 <link>https://apnews.com/article/trump-machado-nobel-peace-prize-c7f47c161edc9b719dea3d0165f32a1f</link>
 <pubDate>Sat, 10 Jan 2026 21:40:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the protests shaking Iran]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Fri, 09 Jan 2026 11:23:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
