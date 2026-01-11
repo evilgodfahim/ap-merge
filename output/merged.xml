@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 06:17:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 06:51:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
 <link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Death toll in violence surrounding protests challenging Iran’s theocracy reaches 116, activists say]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-c867cd53c99585cc5e0cd98eafe95d16</link>
+<pubDate>Sun, 11 Jan 2026 06:51:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dakar Rally moves through sweeping desert landscapes, in photos]]></title>
 <link>https://apnews.com/photo-gallery/dakar-rally-a2d6acc10b07d6f05eb72846c1f920a8</link>
 <pubDate>Sat, 10 Jan 2026 10:11:28 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crime reporter killed in Mexico’s Veracruz state]]></title>
-<link>https://apnews.com/article/mexico-journalist-killed-veracruz-cb6117ba879f8eb7fc2ebc271a371ceb</link>
-<pubDate>Fri, 09 Jan 2026 05:02:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Greenland’s harsh environment and lack of infrastructure have prevented rare earth mining]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-rare-earths-mining-3f47c0b2ae3edfb322a908ee39c42c05</link>
 <pubDate>Sun, 11 Jan 2026 05:45:10 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in violence surrounding protests challenging Iran’s theocracy reaches 116, activists say]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-c867cd53c99585cc5e0cd98eafe95d16</link>
-<pubDate>Sun, 11 Jan 2026 03:20:42 -0000</pubDate>
+<title><![CDATA[Iran warns US and Israel will be targets if America strikes over protests]]></title>
+<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
+<pubDate>Sun, 11 Jan 2026 06:51:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar holds 2nd round of elections amid armed conflict]]></title>
+<title><![CDATA[Myanmar holds second round of voting in first general election since military takeover]]></title>
 <link>https://apnews.com/article/myanmar-election-military-party-second-phase-6661c927e1b6079d899ccc022f0a981d</link>
-<pubDate>Sun, 11 Jan 2026 01:01:42 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 06:36:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
