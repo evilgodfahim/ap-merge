@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 09:11:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 09:39:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
 <link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital]]></title>
+<link>https://apnews.com/article/pakistan-gas-cylinder-explosion-capital-wedding-09a04eb81b84b87026be320cfa1848ad</link>
+<pubDate>Sun, 11 Jan 2026 09:39:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Filipino rescuers detect ‘signs of life’ in garbage avalanche that killed 4 and left dozens missing]]></title>
 <link>https://apnews.com/article/philippines-landfill-garbage-collapse-search-98569359af3bc93cc33cc442844a618e</link>
 <pubDate>Sun, 11 Jan 2026 07:59:44 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[North Korea vows response as it accuses the South of flying drones across the border]]></title>
 <link>https://apnews.com/article/north-south-korea-drones-tensions-7fe161e1d0fe212bea86fdf82c92679d</link>
 <pubDate>Sat, 10 Jan 2026 12:33:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mound of garbage collapses at Philippine landfill, killing 2 and leaving 36 others missing]]></title>
-<link>https://apnews.com/article/philippines-landfill-collapse-binaliw-b53f521b4642d8c6b4bc1c7e3d3aa5c5</link>
-<pubDate>Sat, 10 Jan 2026 05:13:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,12 +170,6 @@
 <title><![CDATA[Bangladesh refuses to travel to India for T20 World Cup, requests its matches be played in Sri Lanka]]></title>
 <link>https://apnews.com/article/bangladesh-t20-world-cup-india-tensions-2b564bd12be76ebef931f9c3df7ee3cc</link>
 <pubDate>Mon, 05 Jan 2026 15:46:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital]]></title>
-<link>https://apnews.com/article/pakistan-gas-cylinder-explosion-capital-wedding-09a04eb81b84b87026be320cfa1848ad</link>
-<pubDate>Sun, 11 Jan 2026 08:14:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -344,6 +338,12 @@
 <title><![CDATA[Trump pick for Gaza board Nickolay Mladenov frequently worked to ease Mideast tensions]]></title>
 <link>https://apnews.com/article/bulgaria-middle-east-gaza-nikolay-mladenov-5b4f02c2deb0ba621951c71e6ac60dd1</link>
 <pubDate>Fri, 09 Jan 2026 12:40:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ceasefire quickly unravels after days of clashes between Syrian security forces and Kurdish fighters]]></title>
+<link>https://apnews.com/article/syria-kurdish-fighters-ceasefire-aleppo-clashes-4603f723b7883bd6adc13c4310fc0bf3</link>
+<pubDate>Fri, 09 Jan 2026 23:38:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
