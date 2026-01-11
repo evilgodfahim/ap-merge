@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 21:09:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 21:37:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US launches new retaliatory strikes against IS in Syria after deadly ambush]]></title>
 <link>https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Wildfires in south Argentina rip through nearly 12,000 hectares of forest, threatening communities]]></title>
+<link>https://apnews.com/article/argentina-patagonia-wildfires-32fe2870e43a5a3e93b20eaa7723b830</link>
+<pubDate>Sun, 11 Jan 2026 21:37:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[With Cuban ally Maduro ousted, Trump warns Havana to make a ‘deal’ before it’s too late]]></title>
 <link>https://apnews.com/article/trump-cuba-venezuela-maduro-oil-economy-b9ffd24928e34dc7e3fc1fdcb22709a1</link>
 <pubDate>Sun, 11 Jan 2026 17:08:51 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Nobel Institute says Venezuelan leader Machado can’t give Peace Prize to Trump]]></title>
 <link>https://apnews.com/article/trump-machado-nobel-peace-prize-c7f47c161edc9b719dea3d0165f32a1f</link>
 <pubDate>Sun, 11 Jan 2026 16:12:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Slow-moving prisoner releases in Venezuela enter 3rd day after government announces goodwill effort]]></title>
-<link>https://apnews.com/article/venezuela-us-prisoners-624fc981b7541d85b0b3c35eb58cd58b</link>
-<pubDate>Sun, 11 Jan 2026 01:01:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +200,12 @@
 <title><![CDATA[The Golden Globes are tonight. Here’s what to look for and how to watch and stream the show]]></title>
 <link>https://apnews.com/article/2026-golden-globes-1538032b1bb06383484b15c3c4b9c16f</link>
 <pubDate>Sun, 11 Jan 2026 05:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Slow-moving prisoner releases in Venezuela enter 3rd day after government announces goodwill effort]]></title>
+<link>https://apnews.com/article/venezuela-us-prisoners-624fc981b7541d85b0b3c35eb58cd58b</link>
+<pubDate>Sun, 11 Jan 2026 21:37:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The pope in a major foreign policy address blasts how countries are using force to assert dominion]]></title>
-<link>https://apnews.com/article/pope-foreign-policy-un-russia-abortion-ee708df6669536c4d2a9858bbafb7d98</link>
-<pubDate>Sat, 10 Jan 2026 09:56:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in crackdown on protests in Iran spikes to at least 538 , activists say]]></title>
+<title><![CDATA[Death toll in crackdown on protests in Iran spikes to at least 538, activists say]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
-<pubDate>Sun, 11 Jan 2026 20:12:13 -0000</pubDate>
+<pubDate>Sun, 11 Jan 2026 17:38:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
