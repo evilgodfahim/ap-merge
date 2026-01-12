@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 11:39:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 12:25:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
 <link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties]]></title>
+<link>https://apnews.com/article/china-canada-carney-trump-us-tariffs-economy-c8227349417cd2fdd134e8a4894bc1e5</link>
+<pubDate>Mon, 12 Jan 2026 12:25:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
 <link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
 <pubDate>Mon, 12 Jan 2026 10:17:49 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
 <link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
 <pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen]]></title>
-<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-2899452cb65dbe4e8ac7ca8473784c96</link>
-<pubDate>Mon, 12 Jan 2026 09:06:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Reference to Trump’s impeachments is removed from the display of his Smithsonian photo portrait]]></title>
-<link>https://apnews.com/article/trump-smithsonian-impeachment-national-portrait-gallery-photo-47a192aa3fdb9c434e405812a36b455a</link>
-<pubDate>Sun, 11 Jan 2026 20:12:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Minneapolis church holds a service of ‘Lament and Hope’ amid fears over immigration crackdown]]></title>
 <link>https://apnews.com/article/immigration-church-minneapolis-service-ice-783f8e4fd551d9abacb8856cbc6576d3</link>
 <pubDate>Mon, 12 Jan 2026 00:44:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thousands of nurses go on strike at several major New York City hospitals]]></title>
+<link>https://apnews.com/article/nursing-strike-new-york-5647ac366a8d067785b9cb4005204878</link>
+<pubDate>Mon, 12 Jan 2026 12:10:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuelans in the US are torn between joy and worry after ousting of Maduro]]></title>
 <link>https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c</link>
 <pubDate>Mon, 12 Jan 2026 05:04:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen]]></title>
+<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-2899452cb65dbe4e8ac7ca8473784c96</link>
+<pubDate>Mon, 12 Jan 2026 09:06:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[Businessman extradited from Cambodia to China suspected of running vast online criminal empire]]></title>
 <link>https://apnews.com/article/who-is-chen-zhi-china-cambodia-scams-89f5a44cdb9d870c409616ce3b597774</link>
 <pubDate>Thu, 08 Jan 2026 16:37:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China to probe Meta’s acquisition of artificial intelligence startup Manus]]></title>
-<link>https://apnews.com/article/china-tech-meta-manus-purchase-ai-31f82d5696985ebdb982798bfbf380b5</link>
-<pubDate>Thu, 08 Jan 2026 15:52:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Bangladesh refuses to travel to India for T20 World Cup, requests its matches be played in Sri Lanka]]></title>
 <link>https://apnews.com/article/bangladesh-t20-world-cup-india-tensions-2b564bd12be76ebef931f9c3df7ee3cc</link>
 <pubDate>Mon, 05 Jan 2026 15:46:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Former Polish justice minister who faces prosecution at home says he’s received asylum in Hungary]]></title>
+<link>https://apnews.com/article/poland-justice-ziobro-hungary-asylum-c133880e3bf5067e4c1ce9de53991ff2</link>
+<pubDate>Mon, 12 Jan 2026 12:25:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
-<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
-<pubDate>Mon, 12 Jan 2026 06:13:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pro-government supporters take to the streets in protest-rocked Iran]]></title>
+<title><![CDATA[Trump says Iran wants to negotiate as the death toll in protests rises to at least 544]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-53f2b79c8a0de827b1b8602ac9f0a57b</link>
-<pubDate>Mon, 12 Jan 2026 10:47:50 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 06:58:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong court hearing arguments on sentencing in former publisher Jimmy Lai’s case]]></title>
+<title><![CDATA[Hong Kong court hears arguments on sentencing of former publisher Jimmy Lai; no decision yet]]></title>
 <link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
-<pubDate>Mon, 12 Jan 2026 05:49:57 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 12:25:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
