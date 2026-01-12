@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 00:59:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 03:05:28 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Kurdish fighters evacuated from Aleppo after days of violent clashes]]></title>
-<link>https://apnews.com/article/aleppo-syria-kurds-sdf-fighting-4cb2f16a58436205aea2cd8503a85296</link>
-<pubDate>Sun, 11 Jan 2026 14:55:27 -0000</pubDate>
+<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
+<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
+<pubDate>Mon, 12 Jan 2026 03:05:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Red lines and increasing self-censorship reshape Hong Kong’s once freewheeling press scene]]></title>
+<link>https://apnews.com/article/hong-kong-media-changes-press-f4960fa39ff7f06e171a0ce88d1e9151</link>
+<pubDate>Mon, 12 Jan 2026 02:50:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nepalese royalists demand monarchy restoration ahead of March elections]]></title>
 <link>https://apnews.com/article/nepal-rally-gyanendra-monarchy-9e50553cd921b28f5f267435e6938261</link>
 <pubDate>Sun, 11 Jan 2026 10:42:46 -0000</pubDate>
@@ -38,12 +44,6 @@
 <title><![CDATA[Bride and groom among 8 killed in gas cylinder blast at wedding in Pakistan’s capital]]></title>
 <link>https://apnews.com/article/pakistan-gas-cylinder-explosion-capital-wedding-09a04eb81b84b87026be320cfa1848ad</link>
 <pubDate>Sun, 11 Jan 2026 09:39:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Braving the cold: Tokyo’s New Year’s ritual of ice baths, in photos]]></title>
-<link>https://apnews.com/photo-gallery/japan-new-years-ice-baths-02744e3c8fb287175c979b8a54fd44a0</link>
-<pubDate>Sun, 11 Jan 2026 10:27:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Congress is debating the possible consequences for ICE and even Noem after Renee Good’s killing]]></title>
-<link>https://apnews.com/article/immigration-customs-enforcement-democrats-noem-impeachment-funding-03095f6a4041bef063afe22becf1a788</link>
-<pubDate>Sat, 10 Jan 2026 15:38:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Minneapolis church holds a service of ‘Lament and Hope’ amid fears over immigration crackdown]]></title>
 <link>https://apnews.com/article/immigration-church-minneapolis-service-ice-783f8e4fd551d9abacb8856cbc6576d3</link>
 <pubDate>Mon, 12 Jan 2026 00:44:14 -0000</pubDate>
@@ -110,6 +104,12 @@
 <title><![CDATA[Lawsuits by Trump allies could shape how the 2030 census is done and who will be counted]]></title>
 <link>https://apnews.com/article/census-bureau-2030-lawsuits-trump-justice-department-ec3df3a18350a73266ea0b0b12c82f72</link>
 <pubDate>Sun, 11 Jan 2026 13:29:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Transgender teen athlete in a Supreme Court fight knows the upcoming sports season could be her last]]></title>
+<link>https://apnews.com/article/supreme-court-transgender-athletes-trump-title-ix-ee41b615b2a44c6b8dc24072a208265d</link>
+<pubDate>Sun, 11 Jan 2026 13:44:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,9 +161,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Red lines and increasing self-censorship reshape Hong Kong’s once freewheeling press scene]]></title>
-<link>https://apnews.com/article/hong-kong-media-changes-press-f4960fa39ff7f06e171a0ce88d1e9151</link>
-<pubDate>Mon, 12 Jan 2026 00:59:15 -0000</pubDate>
+<title><![CDATA[Nikki Glaser takes swings at CBS and Leo, goes gentle on Julia in Golden Globes monologue]]></title>
+<link>https://apnews.com/article/nikki-glazer-golden-globes-monologue-909f4723a2469bb8bef34998c95e840f</link>
+<pubDate>Mon, 12 Jan 2026 03:05:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Partial list of 2026 Golden Globe Award winners]]></title>
+<link>https://apnews.com/article/golden-globes-2026-winners-list-a6196d411e889258ff55a692fe1077b2</link>
+<pubDate>Mon, 12 Jan 2026 02:50:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How to watch the 2026 Australian Open on TV, the schedule, seedings and more]]></title>
+<link>https://apnews.com/article/australian-open-2026-guide-tv-schedule-tennis-b3d09f4a648d20d95303d5b713af4bf7</link>
+<pubDate>Mon, 12 Jan 2026 02:35:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +209,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Golden Globes are tonight. Here’s what to look for and how to watch and stream the show]]></title>
+<title><![CDATA[Braving the cold: Tokyo’s New Year’s ritual of ice baths, in photos]]></title>
+<link>https://apnews.com/photo-gallery/japan-new-years-ice-baths-02744e3c8fb287175c979b8a54fd44a0</link>
+<pubDate>Mon, 12 Jan 2026 02:20:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Timothée Chalamet wins his first Golden Globe, ‘Sinners’ wins for cinematic achievement]]></title>
 <link>https://apnews.com/article/2026-golden-globes-1538032b1bb06383484b15c3c4b9c16f</link>
-<pubDate>Sun, 11 Jan 2026 05:45:10 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 02:05:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +248,12 @@
 <title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
 <link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
 <pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kurdish fighters evacuated from Aleppo after days of violent clashes]]></title>
+<link>https://apnews.com/article/aleppo-syria-kurds-sdf-fighting-4cb2f16a58436205aea2cd8503a85296</link>
+<pubDate>Mon, 12 Jan 2026 01:50:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,33 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why boosting production of Venezuela’s ‘very dense, very sloppy’ oil could harm the environment]]></title>
-<link>https://apnews.com/article/venezuela-oil-pollution-0485a3d37f474bacb478e1d5160736fd</link>
-<pubDate>Sat, 10 Jan 2026 05:31:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s exiled crown prince rises as a figure in protests, decades after leaving his homeland]]></title>
-<link>https://apnews.com/article/iran-protests-crown-prince-reza-pahlavi-cec4123ec75a0953bc0726e46ad32f1f</link>
-<pubDate>Sun, 11 Jan 2026 14:40:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US intercepts fifth sanctioned tanker as it exerts control over Venezuelan oil distribution]]></title>
-<link>https://apnews.com/article/sanctioned-oil-tanker-intercepted-c3b6e0cee49af87f78a22425f505249d</link>
-<pubDate>Fri, 09 Jan 2026 15:28:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As Trump promises Venezuelan renaissance, locals struggle with crumbling economy]]></title>
-<link>https://apnews.com/article/venezuela-economy-trump-4f363a76216a20c64e42704a2ef4ef31</link>
-<pubDate>Sat, 10 Jan 2026 21:55:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in crackdown on protests in Iran spikes to at least 538, activists say]]></title>
+<title><![CDATA[Death toll from protests in Iran hits at least 544, activists say, as Trump says Iran wants to talk]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ae5add408f0dbc724962d41cc37c939a</link>
-<pubDate>Sun, 11 Jan 2026 17:38:52 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 03:05:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows armed men beating a Palestinian in the Israeli-occupied West Bank]]></title>
-<link>https://apnews.com/article/mideast-west-bank-b8d10ce49065bf791a37a49ae45f340e</link>
-<pubDate>Sat, 10 Jan 2026 15:38:39 -0000</pubDate>
+<title><![CDATA[Protesters try to attack driver after truck speeds through anti-Iran demonstration in Los Angeles]]></title>
+<link>https://apnews.com/article/iran-protest-los-angeles-8de62f3546b02cbf98f72f91d8405065</link>
+<pubDate>Mon, 12 Jan 2026 02:50:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong court to hear plea for lighter sentence in pro-democracy ex-media mogul Jimmy Lai’s case]]></title>
+<title><![CDATA[Hong Kong court hearing a plea for a lighter sentence for former publisher Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
-<pubDate>Mon, 12 Jan 2026 00:59:16 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 02:35:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
