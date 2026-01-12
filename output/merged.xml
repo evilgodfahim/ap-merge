@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 21:11:15 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
-<link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
-<pubDate>Mon, 12 Jan 2026 17:42:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Mon, 12 Jan 2026 21:40:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
 <link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
@@ -143,6 +137,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
+<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
+<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Virat Kohli hits 93 to lead India to 4-wicket win over New Zealand in first ODI]]></title>
 <link>https://apnews.com/article/cricket-odi-india-new-zealand-fdbc678f2f3da4affdf6434e2759d703</link>
 <pubDate>Mon, 12 Jan 2026 19:29:05 -0000</pubDate>
@@ -158,12 +158,6 @@
 <title><![CDATA[Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi]]></title>
 <link>https://apnews.com/article/pakistan-militants-explosives-bla-karachi-96d6d0f99cdaeaa64005c78fc45d81e7</link>
 <pubDate>Mon, 05 Jan 2026 16:16:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial]]></title>
-<link>https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79</link>
-<pubDate>Mon, 05 Jan 2026 08:03:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +194,12 @@
 <title><![CDATA[Mexican president tells Trump that US intervention against cartels is ‘unnecessary’]]></title>
 <link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-3b90e4a7efaf26f8f481dedf5e6423f4</link>
 <pubDate>Mon, 12 Jan 2026 17:27:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Swiss court orders 3 months of pretrial detention for bar manager over fatal fire]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-detention-9cc084534b9f74438dab7c140cb4298f</link>
+<pubDate>Mon, 12 Jan 2026 17:12:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -257,9 +257,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks of credit card companies slump as Wall Street overall drifts in mixed trading]]></title>
+<title><![CDATA[Wall Street ticks to records after shaking off worries about Trump’s feud with the Fed]]></title>
 <link>https://apnews.com/article/stocks-markets-powell-trump-rates-9eb79e89fec160c7c64dfcef6871e693</link>
-<pubDate>Mon, 12 Jan 2026 15:16:17 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 21:40:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Germany sharply rejects RFK Jr.'s claims that it prosecutes doctors for vaccine exemptions]]></title>
-<link>https://apnews.com/article/germany-us-health-kennedy-accusations-covid-patients-5bb5d4b7c004ef2b31dc809b732ca590</link>
-<pubDate>Sun, 11 Jan 2026 12:20:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says Iran wants to negotiate as the death toll in protests rises to at least 599]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-53f2b79c8a0de827b1b8602ac9f0a57b</link>
 <pubDate>Mon, 12 Jan 2026 17:42:25 -0000</pubDate>
@@ -359,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Drone strike kills 3 in Gaza as Hamas prepares to transfer governance to new committee]]></title>
+<link>https://apnews.com/article/gaza-israel-hamas-drone-strike-governance-f59c7e742149366e67549e7dd2e10309</link>
+<pubDate>Mon, 12 Jan 2026 17:12:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hong Kong court hears arguments on sentencing of former publisher Jimmy Lai; no decision yet]]></title>
 <link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
 <pubDate>Mon, 12 Jan 2026 12:25:04 -0000</pubDate>
@@ -368,18 +368,6 @@
 <title><![CDATA[Cuba’s president says no current talks with the US following Trump’s threats]]></title>
 <link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
 <pubDate>Mon, 12 Jan 2026 16:57:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Swiss court orders 3 months of pretrial detention for bar manager over fatal fire]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-detention-9cc084534b9f74438dab7c140cb4298f</link>
-<pubDate>Mon, 12 Jan 2026 20:14:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US launches new retaliatory strikes against ISIS in Syria after deadly ambush]]></title>
-<link>https://apnews.com/video/us-launches-new-retaliatory-strikes-against-isis-in-syria-after-deadly-ambush-b942a08c11fa4fbea341b5fa530bef54</link>
-<pubDate>Sun, 11 Jan 2026 19:57:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone strike kills 3 in Gaza as Hamas prepares to transfer governance to new committee]]></title>
-<link>https://apnews.com/article/gaza-israel-hamas-drone-strike-governance-f59c7e742149366e67549e7dd2e10309</link>
-<pubDate>Mon, 12 Jan 2026 17:12:25 -0000</pubDate>
+<title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
+<link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
+<pubDate>Sun, 11 Jan 2026 14:40:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video captures Minneapolis immigration arrest in a city on edge after shooting of Renee Good]]></title>
-<link>https://apnews.com/article/ice-protests-shootings-minneapolis-portland-3f9db36657dda5bfebf9c240b6011ee5</link>
-<pubDate>Mon, 12 Jan 2026 00:29:16 -0000</pubDate>
+<title><![CDATA[Minnesota and the Twin Cities sue the federal government to stop the immigration crackdown]]></title>
+<link>https://apnews.com/article/minneapolis-renee-good-immigration-sweeps-6ae64be5a0d6a718b658a938fb56e567</link>
+<pubDate>Mon, 12 Jan 2026 21:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
-<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
-<pubDate>Mon, 12 Jan 2026 19:44:06 -0000</pubDate>
+<title><![CDATA[Australia captain Alyssa Healy retiring after India series]]></title>
+<link>https://apnews.com/article/alyssa-healy-cricket-retirement-d5d3549db9383262b48b4c625249883a</link>
+<pubDate>Mon, 12 Jan 2026 21:25:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
