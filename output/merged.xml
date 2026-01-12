@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 14:50:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 15:16:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Protesters try to attack driver after truck speeds through Iran demonstration in Los Angeles]]></title>
+<link>https://apnews.com/article/iran-protest-los-angeles-8de62f3546b02cbf98f72f91d8405065</link>
+<pubDate>Mon, 12 Jan 2026 15:15:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
 <link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
 <pubDate>Mon, 12 Jan 2026 06:58:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
-<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
-<pubDate>Mon, 12 Jan 2026 06:43:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba’s president says no current talks with the US after Trump threatens it]]></title>
+<link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
+<pubDate>Mon, 12 Jan 2026 15:00:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Millions of Venezuelans scattered across Latin America cautiously watch what comes next]]></title>
 <link>https://apnews.com/article/venezuela-migrants-trump-maduro-chile-mexico-colombia-a13345cf133c783b523a30fcc4e174b5</link>
 <pubDate>Mon, 12 Jan 2026 00:59:14 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Wildfires in south Argentina rip through nearly 12,000 hectares of forest, threatening communities]]></title>
 <link>https://apnews.com/article/argentina-patagonia-wildfires-32fe2870e43a5a3e93b20eaa7723b830</link>
 <pubDate>Sun, 11 Jan 2026 21:37:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV meets with Venezuelan opposition leader María Corina Machado in a surprise audience]]></title>
-<link>https://apnews.com/article/vatican-venezuela-pope-leo-machado-opposition-maduro-80558aa40a434c3e6c09d4bcd38cad28</link>
-<pubDate>Mon, 12 Jan 2026 13:56:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How NATO works at a time of Trump’s Greenland threats]]></title>
+<link>https://apnews.com/article/nato-greenland-trump-denmark-threat-annex-4907c132b499531d8d5fe6cd549c0beb</link>
+<pubDate>Mon, 12 Jan 2026 15:15:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV meets with Venezuelan opposition leader María Corina Machado in a surprise audience]]></title>
+<link>https://apnews.com/article/vatican-venezuela-pope-leo-machado-opposition-maduro-80558aa40a434c3e6c09d4bcd38cad28</link>
+<pubDate>Mon, 12 Jan 2026 15:00:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Former Polish justice minister who faces prosecution at home says he’s received asylum in Hungary]]></title>
 <link>https://apnews.com/article/poland-justice-ziobro-hungary-asylum-c133880e3bf5067e4c1ce9de53991ff2</link>
 <pubDate>Mon, 12 Jan 2026 12:25:03 -0000</pubDate>
@@ -197,9 +209,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US futures slip while world shares are mixed as Fed chair Powell faces legal threat]]></title>
+<title><![CDATA[US stocks drift lower as Wall Street shows some concern about the White House’s and Fed’s feud]]></title>
 <link>https://apnews.com/article/stocks-markets-powell-trump-rates-9eb79e89fec160c7c64dfcef6871e693</link>
-<pubDate>Mon, 12 Jan 2026 09:06:58 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 14:45:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
+<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
+<pubDate>Mon, 12 Jan 2026 14:30:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘Hamnet’ and ‘One Battle After Another’ take top honors at Golden Globes]]></title>
 <link>https://apnews.com/article/2026-golden-globes-1538032b1bb06383484b15c3c4b9c16f</link>
 <pubDate>Mon, 12 Jan 2026 08:18:22 -0000</pubDate>
@@ -329,27 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump signs executive order meant to protect the money from Venezuelan oil]]></title>
-<link>https://apnews.com/article/trump-venezuela-oil-revenue-companies-sales-bdd21181e08889d6cca93f5acc7c0ee0</link>
-<pubDate>Sat, 10 Jan 2026 20:40:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A week in photos from Venezuela after U.S. strike removed its president]]></title>
-<link>https://apnews.com/photo-gallery/photos-venezuela-trump-strike-economy-daily-life-cc0a7825ff717f234a38b2a69e68e9cf</link>
-<pubDate>Sat, 10 Jan 2026 22:10:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Supporters of UAE-backed separatist group rally in southern Yemen]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-aden-2de533f8af3435e8a705baefc0456a78</link>
-<pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says Iran wants to negotiate as the death toll in protests rises to at least 544]]></title>
+<title><![CDATA[Trump says Iran wants to negotiate as the death toll in protests rises to at least 572]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-53f2b79c8a0de827b1b8602ac9f0a57b</link>
-<pubDate>Mon, 12 Jan 2026 06:58:22 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 15:16:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the protests shaking Iran]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Fri, 09 Jan 2026 11:23:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hamas says it will dissolve its Gaza government when new Palestinian body takes over]]></title>
 <link>https://apnews.com/article/israel-hamas-war-palestinians-gaza-a7f07c3c9680b34c563124964885efa8</link>
 <pubDate>Sun, 11 Jan 2026 17:23:52 -0000</pubDate>
@@ -398,12 +404,6 @@
 <title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
 <link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
 <pubDate>Sun, 11 Jan 2026 18:48:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters try to attack driver after truck speeds through Iran demonstration in Los Angeles]]></title>
-<link>https://apnews.com/article/iran-protest-los-angeles-8de62f3546b02cbf98f72f91d8405065</link>
-<pubDate>Mon, 12 Jan 2026 10:02:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China and the EU agree on steps to resolve their dispute over EV imports]]></title>
+<title><![CDATA[China and EU agree on steps to resolve EV imports dispute]]></title>
 <link>https://apnews.com/article/china-eu-evs-autos-tariffs-trump-c9fac664d657ae5735cb806eab8cac49</link>
-<pubDate>Mon, 12 Jan 2026 09:32:50 -0000</pubDate>
+<pubDate>Mon, 12 Jan 2026 15:01:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
