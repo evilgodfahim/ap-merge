@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 04:37:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 05:17:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
+<link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
+<pubDate>Tue, 13 Jan 2026 05:17:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
 <link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
 <pubDate>Mon, 12 Jan 2026 17:42:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
-<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
-<pubDate>Mon, 12 Jan 2026 06:58:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court]]></title>
-<link>https://apnews.com/article/un-court-rohingya-myanmar-genocide-gambia-c72b3e9a7b3ac18b44d49ec7e17fa965</link>
-<pubDate>Mon, 12 Jan 2026 10:32:49 -0000</pubDate>
+<title><![CDATA[French far-right leader Le Pen faces appeal trial that could decide her 2027 presidential run]]></title>
+<link>https://apnews.com/article/marine-le-pen-appeal-trial-paris-1f06183468c669d99093634ba7472c72</link>
+<pubDate>Tue, 13 Jan 2026 05:02:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
+<link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
+<pubDate>Mon, 12 Jan 2026 10:17:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
-<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
-<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
+<title><![CDATA[Cuba’s president says no current talks with the US following Trump’s threats]]></title>
+<link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
+<pubDate>Mon, 12 Jan 2026 16:16:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Venezuelans in the US are torn between joy and worry after ousting of Maduro]]></title>
 <link>https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c</link>
 <pubDate>Mon, 12 Jan 2026 05:04:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump ‘inclined’ to keep ExxonMobil out of Venezuela after CEO response at White House meeting]]></title>
-<link>https://apnews.com/article/venezuela-us-oil-trump-exxon-137a77039675e6483a75673f02138d0f</link>
-<pubDate>Mon, 12 Jan 2026 17:12:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FBI says arson suspect targeted Mississippi synagogue because it’s a Jewish house of worship]]></title>
-<link>https://apnews.com/article/mississippi-synagogue-arson-jewish-south-0e489adc986bfaddd55662075bdb6443</link>
-<pubDate>Mon, 12 Jan 2026 23:52:16 -0000</pubDate>
+<title><![CDATA[Supreme Court takes up culture war battle over transgender athletes in school sports]]></title>
+<link>https://apnews.com/article/supreme-court-transgender-athletes-a0e50014fbf7f3ef5b1d1e9b5e8b662d</link>
+<pubDate>Tue, 13 Jan 2026 04:47:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China and EU agree on steps to resolve EV imports dispute]]></title>
+<link>https://apnews.com/article/china-eu-evs-autos-tariffs-trump-c9fac664d657ae5735cb806eab8cac49</link>
+<pubDate>Tue, 13 Jan 2026 04:32:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[DeepSeek’s AI gains traction in developing nations, Microsoft report says]]></title>
-<link>https://apnews.com/article/ai-deepseek-chatbot-china-microsoft-3ffc9b26f5798de8a7014fcd9bb343b0</link>
-<pubDate>Fri, 09 Jan 2026 02:10:03 -0000</pubDate>
+<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
+<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
+<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial]]></title>
-<link>https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79</link>
-<pubDate>Mon, 05 Jan 2026 08:03:52 -0000</pubDate>
+<title><![CDATA[Asian shares mostly rise and Tokyo hits a record, tracking fresh highs on Wall Street]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
+<pubDate>Tue, 13 Jan 2026 05:17:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,12 +239,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Machado seeks Pope Leo’s support for Venezuela’s transition during Vatican meeting]]></title>
-<link>https://apnews.com/article/vatican-venezuela-pope-leo-machado-opposition-maduro-80558aa40a434c3e6c09d4bcd38cad28</link>
-<pubDate>Mon, 12 Jan 2026 15:31:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Former Polish justice minister who faces prosecution at home says he’s received asylum in Hungary]]></title>
 <link>https://apnews.com/article/poland-justice-ziobro-hungary-asylum-c133880e3bf5067e4c1ce9de53991ff2</link>
 <pubDate>Mon, 12 Jan 2026 12:25:03 -0000</pubDate>
@@ -254,6 +254,12 @@
 <title><![CDATA[Photos of 20-year-olds at a Coming of Age Day ceremony in Japan]]></title>
 <link>https://apnews.com/photo-gallery/japan-photos-coming-of-age-ceremony-9406640c307953bf328c195015aae4ab</link>
 <pubDate>Tue, 13 Jan 2026 02:50:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court]]></title>
+<link>https://apnews.com/article/un-court-rohingya-myanmar-genocide-gambia-c72b3e9a7b3ac18b44d49ec7e17fa965</link>
+<pubDate>Tue, 13 Jan 2026 05:02:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump ‘inclined’ to keep ExxonMobil out of Venezuela after CEO response at White House meeting]]></title>
+<link>https://apnews.com/article/venezuela-us-oil-trump-exxon-137a77039675e6483a75673f02138d0f</link>
+<pubDate>Tue, 13 Jan 2026 04:47:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Human heads found hanging on a beach in southwestern Ecuador]]></title>
 <link>https://apnews.com/article/ecuador-violence-human-heads-5eb3816fcf8f0e5682b72f596f5a4879</link>
 <pubDate>Mon, 12 Jan 2026 00:44:15 -0000</pubDate>
@@ -332,18 +344,6 @@
 <title><![CDATA[Britain is in talks with NATO to counter Russia and China in the Arctic]]></title>
 <link>https://apnews.com/article/british-military-nato-greenland-us-threat-russia-china-e4e76cae7577151135080911cddc9627</link>
 <pubDate>Tue, 13 Jan 2026 00:22:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of tourists stranded in northern Finland as deep freeze halts flights]]></title>
-<link>https://apnews.com/article/finland-flights-canceled-europe-cold-weather-c95ec0c51effea12b378e1af7408b754</link>
-<pubDate>Mon, 12 Jan 2026 08:51:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[With Cuban ally Maduro ousted, Trump warns Havana to make a ‘deal’ before it’s too late]]></title>
-<link>https://apnews.com/article/trump-cuba-venezuela-maduro-oil-economy-b9ffd24928e34dc7e3fc1fdcb22709a1</link>
-<pubDate>Mon, 12 Jan 2026 13:56:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the protests shaking Iran]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Fri, 09 Jan 2026 11:23:09 -0000</pubDate>
+<title><![CDATA[Priest by day, DJ by night: Padre Guilherme’s rave in Beirut draws cheers and controversy]]></title>
+<link>https://apnews.com/article/lebanon-religion-dj-padre-guilherme-582c925170b81fbf0fb0966143a672d4</link>
+<pubDate>Tue, 13 Jan 2026 05:17:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
-<link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
-<pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
+<title><![CDATA[What to know about the protests shaking Iran]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Fri, 09 Jan 2026 11:23:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,21 +437,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
-<link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
-<pubDate>Tue, 13 Jan 2026 03:57:58 -0000</pubDate>
+<title><![CDATA[Japan-South Korea summit to discuss economy and regional challenges]]></title>
+<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
+<pubDate>Tue, 13 Jan 2026 05:02:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s president says no current talks with the US following Trump’s threats]]></title>
-<link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
-<pubDate>Mon, 12 Jan 2026 16:57:25 -0000</pubDate>
+<title><![CDATA[Machado seeks Pope Leo’s support for Venezuela’s transition during Vatican meeting]]></title>
+<link>https://apnews.com/article/vatican-venezuela-pope-leo-machado-opposition-maduro-80558aa40a434c3e6c09d4bcd38cad28</link>
+<pubDate>Tue, 13 Jan 2026 04:47:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
-<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
-<pubDate>Sun, 11 Jan 2026 11:50:40 -0000</pubDate>
+<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
+<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
+<pubDate>Sat, 10 Jan 2026 18:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China and EU agree on steps to resolve EV imports dispute]]></title>
-<link>https://apnews.com/article/china-eu-evs-autos-tariffs-trump-c9fac664d657ae5735cb806eab8cac49</link>
-<pubDate>Mon, 12 Jan 2026 15:01:00 -0000</pubDate>
+<title><![CDATA[Former Navy sailor sentenced to 16 years for selling information about ships to Chinese intelligence]]></title>
+<link>https://apnews.com/article/navy-sailor-china-espionage-sentencing-0c08194ecd0a718a69d5aa42d0ee59ad</link>
+<pubDate>Tue, 13 Jan 2026 04:32:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
