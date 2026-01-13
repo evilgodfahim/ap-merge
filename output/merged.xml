@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 07:17:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 07:42:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
 <link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
-<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
-<pubDate>Mon, 12 Jan 2026 06:43:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Kenyan women lost their husbands and then their land. But some are fighting back]]></title>
 <link>https://apnews.com/article/kenya-widows-women-land-inheritance-rights-07a8482eefd789dc6e58dfd4fe94c877</link>
 <pubDate>Mon, 12 Jan 2026 04:32:32 -0000</pubDate>
@@ -101,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Minnesota and the Twin Cities sue the federal government to stop the immigration crackdown]]></title>
+<link>https://apnews.com/article/minneapolis-renee-good-immigration-sweeps-6ae64be5a0d6a718b658a938fb56e567</link>
+<pubDate>Tue, 13 Jan 2026 07:42:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New video shows the minutes before immigration officer fatally shoots woman in Minneapolis]]></title>
 <link>https://apnews.com/article/minneapolis-ice-immigration-renee-good-shooting-3f2a9e26ddac9455b931fecee5989d18</link>
 <pubDate>Tue, 13 Jan 2026 00:22:16 -0000</pubDate>
@@ -116,12 +116,6 @@
 <title><![CDATA[FBI says it has found no video of Border Patrol agent shooting 2 people in Oregon]]></title>
 <link>https://apnews.com/article/portland-oregon-immigration-shooting-1763e091a3542a00215d87347fad23ba</link>
 <pubDate>Tue, 13 Jan 2026 00:07:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Supreme Court takes up culture war battle over transgender athletes in school sports]]></title>
-<link>https://apnews.com/article/supreme-court-transgender-athletes-a0e50014fbf7f3ef5b1d1e9b5e8b662d</link>
-<pubDate>Tue, 13 Jan 2026 04:47:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,12 @@
 <title><![CDATA[Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi]]></title>
 <link>https://apnews.com/article/pakistan-militants-explosives-bla-karachi-96d6d0f99cdaeaa64005c78fc45d81e7</link>
 <pubDate>Mon, 05 Jan 2026 16:16:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venus Williams loses in 1st round of Australian Open tuneup event in Hobart]]></title>
+<link>https://apnews.com/article/venus-williams-tennis-australia-hobart-7d22eac6b6ea7d94ce68406616612efc</link>
+<pubDate>Tue, 13 Jan 2026 07:42:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
-<link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
-<pubDate>Tue, 13 Jan 2026 02:35:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians able to make some calls abroad while internet access is still out after protests]]></title>
+<title><![CDATA[People inside Iran describe heavy security and scattered damage in first calls to outside world]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-1b2368e0804676d33d6aa0696815a102</link>
-<pubDate>Tue, 13 Jan 2026 06:19:05 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 07:42:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan-South Korea summit to discuss economy and regional challenges]]></title>
+<title><![CDATA[Leaders of Japan and South Korea discuss economy and regional challenges at summit]]></title>
 <link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
-<pubDate>Tue, 13 Jan 2026 05:02:51 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 07:27:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minnesota and the Twin Cities sue the federal government to stop the immigration crackdown]]></title>
-<link>https://apnews.com/article/minneapolis-renee-good-immigration-sweeps-6ae64be5a0d6a718b658a938fb56e567</link>
-<pubDate>Mon, 12 Jan 2026 21:40:13 -0000</pubDate>
+<title><![CDATA[Tensions flare in Minnesota as protesters and federal agents repeatedly square off]]></title>
+<link>https://apnews.com/article/minneapolis-immigration-tension-lawsuit-renee-good-8c80b7e47788c58140ce4442eb02f7c3</link>
+<pubDate>Tue, 13 Jan 2026 07:12:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
