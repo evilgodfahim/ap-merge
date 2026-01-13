@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 02:50:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 03:57:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
 <link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
-<link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
-<pubDate>Mon, 12 Jan 2026 10:17:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong court hears arguments on sentencing of former publisher Jimmy Lai; no decision yet]]></title>
 <link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
 <pubDate>Tue, 13 Jan 2026 00:37:16 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Red lines and increasing self-censorship reshape Hong Kong’s once freewheeling press scene]]></title>
 <link>https://apnews.com/article/hong-kong-media-changes-press-f4960fa39ff7f06e171a0ce88d1e9151</link>
 <pubDate>Mon, 12 Jan 2026 02:50:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
+<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
+<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
-<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
-<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Virat Kohli hits 93 to lead India to 4-wicket win over New Zealand in first ODI]]></title>
 <link>https://apnews.com/article/cricket-odi-india-new-zealand-fdbc678f2f3da4affdf6434e2759d703</link>
 <pubDate>Mon, 12 Jan 2026 19:29:05 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[Pakistani counterterrorism police seize 2 tons of explosives and arrest 3 in Karachi]]></title>
 <link>https://apnews.com/article/pakistan-militants-explosives-bla-karachi-96d6d0f99cdaeaa64005c78fc45d81e7</link>
 <pubDate>Mon, 05 Jan 2026 16:16:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial]]></title>
+<link>https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79</link>
+<pubDate>Mon, 05 Jan 2026 08:03:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Carney visits China this week in a bid to rebuild ties and reduce Canadian dependence on US]]></title>
-<link>https://apnews.com/article/china-canada-carney-trump-us-tariffs-economy-c8227349417cd2fdd134e8a4894bc1e5</link>
-<pubDate>Tue, 13 Jan 2026 00:22:18 -0000</pubDate>
+<title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
+<link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
+<pubDate>Tue, 13 Jan 2026 03:57:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
