@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 13:55:23 GMT</lastBuildDate>
-<item>
-<title><![CDATA[What to know about the protests shaking Iran]]></title>
-<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
-<pubDate>Sat, 10 Jan 2026 11:34:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 13 Jan 2026 14:16:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Priest by day, DJ by night: Padre Guilherme’s rave in Beirut draws cheers and controversy]]></title>
 <link>https://apnews.com/article/lebanon-religion-dj-padre-guilherme-582c925170b81fbf0fb0966143a672d4</link>
 <pubDate>Tue, 13 Jan 2026 08:51:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian army declares a closed military zone east of Aleppo as tensions rise with Kurds]]></title>
+<link>https://apnews.com/article/syria-army-aleppo-kurds-closed-military-zone-57699cbaa66e83cf57df6b50dbe05f1e</link>
+<pubDate>Tue, 13 Jan 2026 14:16:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia launches another major strike on Ukraine’s power grid in freezing temperatures]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-aa7d5c2e54619fefabab72165444f8e3</link>
+<pubDate>Tue, 13 Jan 2026 14:01:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[The BBC seeks to dismiss Trump’s $10B defamation lawsuit in a Florida court]]></title>
 <link>https://apnews.com/article/trump-bbc-defamation-lawsuit-62d3dd4df76c16c6f5612052d2a22a82</link>
 <pubDate>Tue, 13 Jan 2026 11:24:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Freezing rain and ice disrupt travel across central and eastern Europe]]></title>
-<link>https://apnews.com/article/europe-weather-ice-travel-flights-4f0a8b9205636ff4064f56248b8576f0</link>
-<pubDate>Tue, 13 Jan 2026 12:57:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[Colombian rebels call for a ‘national accord’ after the US intervention in Venezuela]]></title>
 <link>https://apnews.com/article/colombia-eln-rebels-venezuela-maduro-4cdf09becee1e918bd8610b938f81698</link>
 <pubDate>Tue, 13 Jan 2026 02:35:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the protests shaking Iran]]></title>
+<link>https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46</link>
+<pubDate>Sat, 10 Jan 2026 11:34:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations]]></title>
+<link>https://apnews.com/article/muslim-brotherhood-terrorist-organizations-trump-sanctions-d862fcc5b04558f9af8d648dd4e9a0d1</link>
+<pubDate>Tue, 13 Jan 2026 14:16:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czech Prime Minister Babiš faces confidence vote as government shifts Ukraine policy]]></title>
 <link>https://apnews.com/article/czech-new-government-confidence-vote-c476f9c0a2033170a7a0ccfbc0b170f8</link>
 <pubDate>Tue, 13 Jan 2026 13:12:42 -0000</pubDate>
@@ -176,6 +188,18 @@
 <title><![CDATA[Hungary sets April 12 election date as Orbán faces tough challenge]]></title>
 <link>https://apnews.com/article/hungary-election-scheduled-orban-challenge-magyar-71b54205f00252ca7c466eb5407a2aa1</link>
 <pubDate>Tue, 13 Jan 2026 12:57:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Freezing rain and ice disrupt travel across central and eastern Europe]]></title>
+<link>https://apnews.com/article/europe-weather-ice-travel-flights-4f0a8b9205636ff4064f56248b8576f0</link>
+<pubDate>Tue, 13 Jan 2026 14:01:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon ex-central bank chief’s corruption case being sent to top court, officials say]]></title>
+<link>https://apnews.com/article/lebanon-central-bank-corruption-riad-salameh-court-d0d64a05178a41a7c056f868d22f5cf7</link>
+<pubDate>Tue, 13 Jan 2026 13:46:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,27 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelans in the US are torn between joy and worry after ousting of Maduro]]></title>
-<link>https://apnews.com/article/venezuela-us-migrants-maduro-ouster-tps-deportation-2b00b6057435fafe1828a06bd1e7a14c</link>
-<pubDate>Tue, 13 Jan 2026 10:24:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Malaysia and Indonesia become the first countries to block Musk’s Grok over sexualized AI images]]></title>
-<link>https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225</link>
-<pubDate>Tue, 13 Jan 2026 00:37:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street ticks to records after shaking off worries about Trump’s feud with the Fed]]></title>
-<link>https://apnews.com/article/stocks-markets-powell-trump-rates-9eb79e89fec160c7c64dfcef6871e693</link>
-<pubDate>Mon, 12 Jan 2026 21:40:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[People inside Iran describe heavy security and scattered damage in first calls to outside world]]></title>
+<title><![CDATA[Death toll from nationwide protests in Iran spikes to at least 2,000, activists say]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-1b2368e0804676d33d6aa0696815a102</link>
-<pubDate>Tue, 13 Jan 2026 07:42:36 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 14:16:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia launches another major strike on Ukraine’s power grid in freezing temperatures]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-aa7d5c2e54619fefabab72165444f8e3</link>
-<pubDate>Tue, 13 Jan 2026 12:57:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US accuses Russia of ‘dangerous and inexplicable escalation’ of war in Ukraine as Trump seeks peace]]></title>
-<link>https://apnews.com/article/un-us-russia-ukraine-war-oreshnik-nato-3fa1fda56fe6c537ec762829b145296d</link>
-<pubDate>Tue, 13 Jan 2026 00:37:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Howling winds send walls crashing down on Gaza tent camps, killing 4]]></title>
-<link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
-<pubDate>Tue, 13 Jan 2026 11:39:04 -0000</pubDate>
+<title><![CDATA[Danish foreign minister says Vance will host meeting on Greenland in Washington]]></title>
+<link>https://apnews.com/article/greenland-denmark-trump-vance-meeting-6a9ab923e04411cf518ec3e0f6a67e38</link>
+<pubDate>Tue, 13 Jan 2026 13:46:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Howling winds collapse walls on Gaza tent camps, killing 4. A 1-year-old boy dies of hypothermia]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
+<pubDate>Tue, 13 Jan 2026 13:31:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran’s leadership is under pressure as protests continue. Here’s what to know]]></title>
 <link>https://apnews.com/article/iran-protests-explainer-leadership-khamenei-02464b460af9f608bb3a2de59dc3905c</link>
 <pubDate>Mon, 12 Jan 2026 16:16:17 -0000</pubDate>
@@ -401,21 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian army declares a closed military zone east of Aleppo as tensions rise with Kurds]]></title>
-<link>https://apnews.com/article/syria-army-aleppo-kurds-closed-military-zone-57699cbaa66e83cf57df6b50dbe05f1e</link>
-<pubDate>Tue, 13 Jan 2026 11:24:04 -0000</pubDate>
+<title><![CDATA[Iraq’s prime minister steps aside for rival in post-election wrangling over government]]></title>
+<link>https://apnews.com/article/iraq-prime-minister-sudani-maliki-government-cf3291c8325f5e31ebb1a42f2d0c2825</link>
+<pubDate>Tue, 13 Jan 2026 13:16:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon ex-central bank chief’s corruption case being sent to top court, officials say]]></title>
-<link>https://apnews.com/article/lebanon-central-bank-corruption-riad-salameh-court-d0d64a05178a41a7c056f868d22f5cf7</link>
-<pubDate>Tue, 13 Jan 2026 12:42:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World shares are mixed and Tokyo hits a record, tracking fresh highs on Wall Street]]></title>
+<title><![CDATA[Wall Street ticks lower as first earnings reports trickle in ahead of latest US inflation data]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
-<pubDate>Tue, 13 Jan 2026 11:09:04 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 13:01:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Consumer prices likely stayed elevated in December as data recovers from shutdown]]></title>
+<title><![CDATA[Inflation cooled slightly in December though it remains above Fed’s target]]></title>
 <link>https://apnews.com/article/inflation-trump-federal-reserve-ed245660d83628e9ff3df1988bdf6d00</link>
-<pubDate>Tue, 13 Jan 2026 09:43:50 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 12:46:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
