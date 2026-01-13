@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 09:47:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 10:13:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Priest by day, DJ by night: Padre Guilherme’s rave in Beirut draws cheers and controversy]]></title>
 <link>https://apnews.com/article/lebanon-religion-dj-padre-guilherme-582c925170b81fbf0fb0966143a672d4</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
 <link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
 <pubDate>Tue, 13 Jan 2026 05:17:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US accuses Russia of ‘dangerous and inexplicable escalation’ of war in Ukraine as Trump seeks peace]]></title>
+<link>https://apnews.com/article/un-us-russia-ukraine-war-oreshnik-nato-3fa1fda56fe6c537ec762829b145296d</link>
+<pubDate>Tue, 13 Jan 2026 10:13:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French far-right leader Le Pen faces appeal trial that could decide her 2027 presidential run]]></title>
-<link>https://apnews.com/article/marine-le-pen-appeal-trial-paris-1f06183468c669d99093634ba7472c72</link>
-<pubDate>Tue, 13 Jan 2026 05:02:50 -0000</pubDate>
+<title><![CDATA[Former Apple Daily staff plead for lighter sentences in landmark Hong Kong national security case]]></title>
+<link>https://apnews.com/article/jimmy-lai-apple-daily-mitigation-sentence-hong-3201ebeb5130f1cf5a299a1ab0c770a6</link>
+<pubDate>Tue, 13 Jan 2026 09:58:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
 <link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
 <pubDate>Mon, 12 Jan 2026 10:17:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong court hears arguments on sentencing of former publisher Jimmy Lai; no decision yet]]></title>
-<link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
-<pubDate>Tue, 13 Jan 2026 00:37:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
-<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
-<pubDate>Fri, 09 Jan 2026 04:17:02 -0000</pubDate>
+<title><![CDATA[More diplomatic and economic tensions surface between China, Japan as a bumpy week ends]]></title>
+<link>https://apnews.com/article/china-japan-dispute-trade-diplomatic-taiwan-40b6604f00ce61598e09f6b0a83335d7</link>
+<pubDate>Tue, 13 Jan 2026 09:43:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares mostly rise and Tokyo hits a record, tracking fresh highs on Wall Street]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
-<pubDate>Tue, 13 Jan 2026 05:17:50 -0000</pubDate>
+<title><![CDATA[French far-right leader Le Pen faces appeal trial that could decide her 2027 presidential run]]></title>
+<link>https://apnews.com/article/marine-le-pen-appeal-trial-paris-1f06183468c669d99093634ba7472c72</link>
+<pubDate>Tue, 13 Jan 2026 10:13:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Red lines and increasing self-censorship reshape Hong Kong’s once freewheeling press scene]]></title>
-<link>https://apnews.com/article/hong-kong-media-changes-press-f4960fa39ff7f06e171a0ce88d1e9151</link>
-<pubDate>Mon, 12 Jan 2026 00:59:15 -0000</pubDate>
+<title><![CDATA[Hong Kong court hears arguments on sentencing of former publisher Jimmy Lai; no decision yet]]></title>
+<link>https://apnews.com/article/jimmy-lai-apple-daily-foreign-collusion-mitigation-6c475aacc05e570b89d536c66cad10ca</link>
+<pubDate>Tue, 13 Jan 2026 09:58:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US accuses Russia of ‘dangerous and inexplicable escalation’ of war in Ukraine as Trump seeks peace]]></title>
-<link>https://apnews.com/article/un-us-russia-ukraine-war-oreshnik-nato-3fa1fda56fe6c537ec762829b145296d</link>
-<pubDate>Tue, 13 Jan 2026 00:37:18 -0000</pubDate>
+<title><![CDATA[Russia launches another major attack on Ukraine’s power grid and other sites, killing 4]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-aa7d5c2e54619fefabab72165444f8e3</link>
+<pubDate>Tue, 13 Jan 2026 10:13:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Families of prisoners in Venezuela wait in anguish as promised releases trickle]]></title>
 <link>https://apnews.com/article/venezuela-prisoners-released-delcy-trump-machado-75e8d841947695415703dc0dc5502ab5</link>
 <pubDate>Mon, 12 Jan 2026 19:59:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Leaders of Japan and South Korea discuss economy and regional challenges at summit]]></title>
-<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
-<pubDate>Tue, 13 Jan 2026 07:27:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,39 +407,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italy backs historic EU-Mercosur trade deal after 25 years of negotiations]]></title>
-<link>https://apnews.com/article/mercosur-france-italy-meloni-macron-ireland-micheal-taosieach-ae9ee396b245dbf307b7592b9421432c</link>
-<pubDate>Sat, 10 Jan 2026 08:45:35 -0000</pubDate>
+<title><![CDATA[Asian shares mostly rise and Tokyo hits a record, tracking fresh highs on Wall Street]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
+<pubDate>Tue, 13 Jan 2026 09:58:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More diplomatic and economic tensions surface between China, Japan as a bumpy week ends]]></title>
-<link>https://apnews.com/article/china-japan-dispute-trade-diplomatic-taiwan-40b6604f00ce61598e09f6b0a83335d7</link>
-<pubDate>Fri, 09 Jan 2026 08:21:06 -0000</pubDate>
+<title><![CDATA[Consumer prices likely stayed elevated in December as data recovers from shutdown]]></title>
+<link>https://apnews.com/article/inflation-trump-federal-reserve-ed245660d83628e9ff3df1988bdf6d00</link>
+<pubDate>Tue, 13 Jan 2026 09:43:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Meta lines up massive supply of nuclear power to energize AI data centers]]></title>
-<link>https://apnews.com/article/facebook-meta-zuckerberg-ai-vistra-oklo-terrapower-0eb051a9a11d96f7ce200e186ad13476</link>
-<pubDate>Sat, 10 Jan 2026 08:30:35 -0000</pubDate>
+<title><![CDATA[Trump will visit a Ford factory and promote manufacturing in Detroit]]></title>
+<link>https://apnews.com/article/trump-michigan-manufacturing-8843cdb26cdfcdf9bf8c8273823c6d84</link>
+<pubDate>Tue, 13 Jan 2026 09:28:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US treasury secretary says Argentina has repaid its US credit line in a win for Milei]]></title>
-<link>https://apnews.com/article/argentina-us-treasury-scott-bessent-javier-milei-trump-21125705220bd1ca7e84f8b23e6d7037</link>
-<pubDate>Sat, 10 Jan 2026 08:15:35 -0000</pubDate>
+<title><![CDATA[DOJ investigation of Fed Chair Powell sparks backlash, support for Fed independence]]></title>
+<link>https://apnews.com/article/trump-powell-federal-reserve-d87eedf1e35195957f903f9963aeaf99</link>
+<pubDate>Tue, 13 Jan 2026 09:13:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon signs gas exploration deal with international consortium amid economic crisis]]></title>
-<link>https://apnews.com/article/lebanon-israel-gas-exploration-eni-totalenergies-qatar-energy-d26487dd070ec084188526e16ec02747</link>
-<pubDate>Fri, 09 Jan 2026 13:58:53 -0000</pubDate>
+<title><![CDATA[Trump has a China problem in Venezuela: What to do with Beijing’s debt and oil stakes]]></title>
+<link>https://apnews.com/article/china-venezuela-trump-oil-trade-bcad22bff074e46b9dd5703440edc937</link>
+<pubDate>Fri, 09 Jan 2026 02:10:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Apple Daily staff plead for lighter sentences in landmark Hong Kong national security case]]></title>
-<link>https://apnews.com/article/jimmy-lai-apple-daily-mitigation-sentence-hong-3201ebeb5130f1cf5a299a1ab0c770a6</link>
-<pubDate>Tue, 13 Jan 2026 06:04:05 -0000</pubDate>
+<title><![CDATA[Leaders of Japan and South Korea vow to cooperate on economy and regional challenges at summit]]></title>
+<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
+<pubDate>Tue, 13 Jan 2026 08:58:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
