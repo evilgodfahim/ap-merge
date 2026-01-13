@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 00:52:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 02:50:55 GMT</lastBuildDate>
 <item>
-<title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
-<link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
-<pubDate>Mon, 12 Jan 2026 17:27:24 -0000</pubDate>
+<title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
+<link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
+<pubDate>Mon, 12 Jan 2026 17:42:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As protests rage, Iran pulls the plug on contact with the world]]></title>
+<link>https://apnews.com/article/iran-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139</link>
+<pubDate>Mon, 12 Jan 2026 06:58:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -17,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How NATO works at a time of Trump’s Greenland threats]]></title>
+<title><![CDATA[How NATO works at a time when Trump is threatening to seize Greenland]]></title>
 <link>https://apnews.com/article/nato-greenland-trump-denmark-threat-annex-4907c132b499531d8d5fe6cd549c0beb</link>
-<pubDate>Tue, 13 Jan 2026 00:52:16 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 02:50:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s president says no current talks with the US following Trump’s threats]]></title>
-<link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
-<pubDate>Mon, 12 Jan 2026 16:16:16 -0000</pubDate>
+<title><![CDATA[Colombian rebels call for a ‘national accord’ after the US intervention in Venezuela]]></title>
+<link>https://apnews.com/article/colombia-eln-rebels-venezuela-maduro-4cdf09becee1e918bd8610b938f81698</link>
+<pubDate>Tue, 13 Jan 2026 02:35:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,12 +173,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombian rebels call for a ‘national accord’ after the US intervention in Venezuela]]></title>
-<link>https://apnews.com/article/colombia-eln-rebels-venezuela-maduro-4cdf09becee1e918bd8610b938f81698</link>
-<pubDate>Mon, 12 Jan 2026 22:40:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Here’s how to register for a chance to buy tickets to the 2028 Los Angeles Olympics]]></title>
 <link>https://apnews.com/article/los-angeles-olympics-tickets-lottery-2028-registration-7a7777e9d3c13abd97825acac49e2871</link>
 <pubDate>Mon, 12 Jan 2026 20:14:06 -0000</pubDate>
@@ -251,9 +251,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of 20-year-olds gathering in kimonos for Coming of Age Day ceremony in Japan]]></title>
+<title><![CDATA[Photos of 20-year-olds at a Coming of Age Day ceremony in Japan]]></title>
 <link>https://apnews.com/photo-gallery/japan-photos-coming-of-age-ceremony-9406640c307953bf328c195015aae4ab</link>
-<pubDate>Mon, 12 Jan 2026 09:21:58 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 02:50:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[First responders enter devastated Aleppo neighborhood after days of deadly fighting]]></title>
+<link>https://apnews.com/article/aleppo-syria-conflict-kurds-sdf-176ac30cd9cd4b5965e168f982660213</link>
+<pubDate>Tue, 13 Jan 2026 02:35:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Britain is in talks with NATO to counter Russia and China in the Arctic]]></title>
 <link>https://apnews.com/article/british-military-nato-greenland-us-threat-russia-china-e4e76cae7577151135080911cddc9627</link>
 <pubDate>Tue, 13 Jan 2026 00:22:17 -0000</pubDate>
@@ -341,9 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Iran wants to negotiate as the death toll in protests rises to at least 599]]></title>
-<link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-53f2b79c8a0de827b1b8602ac9f0a57b</link>
-<pubDate>Mon, 12 Jan 2026 17:42:25 -0000</pubDate>
+<title><![CDATA[US accuses Russia of ‘dangerous and inexplicable escalation’ of war in Ukraine as Trump seeks peace]]></title>
+<link>https://apnews.com/article/un-us-russia-ukraine-war-oreshnik-nato-3fa1fda56fe6c537ec762829b145296d</link>
+<pubDate>Tue, 13 Jan 2026 00:37:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Families of prisoners in Venezuela wait in anguish as promised releases trickle]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-released-delcy-trump-machado-75e8d841947695415703dc0dc5502ab5</link>
+<pubDate>Mon, 12 Jan 2026 19:59:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone strike kills 3 in Gaza as Hamas prepares to transfer governance to new committee]]></title>
-<link>https://apnews.com/article/gaza-israel-hamas-drone-strike-governance-f59c7e742149366e67549e7dd2e10309</link>
-<pubDate>Mon, 12 Jan 2026 17:12:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US accuses Russia of ‘dangerous and inexplicable escalation’ of war in Ukraine as Trump seeks peace]]></title>
-<link>https://apnews.com/article/un-us-russia-ukraine-war-oreshnik-nato-3fa1fda56fe6c537ec762829b145296d</link>
-<pubDate>Tue, 13 Jan 2026 00:37:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Video shows masked, armed men beating Palestinian during attack on plant nursery in West Bank]]></title>
 <link>https://apnews.com/video/video-shows-masked-armed-men-beating-palestinian-during-attack-on-plant-nursery-in-west-bank-2f810d5306224bbc8955db6c32398518</link>
 <pubDate>Sun, 11 Jan 2026 19:42:13 -0000</pubDate>
@@ -383,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Here’s how AP reports on the death toll from Iran’s protests]]></title>
-<link>https://apnews.com/article/iran-protests-death-toll-ec00ffa50f818d4a66aec5942aec629b</link>
-<pubDate>Mon, 12 Jan 2026 17:27:25 -0000</pubDate>
+<title><![CDATA[Drone strike kills 3 in Gaza as Hamas prepares to transfer governance to new committee]]></title>
+<link>https://apnews.com/article/gaza-israel-hamas-drone-strike-governance-f59c7e742149366e67549e7dd2e10309</link>
+<pubDate>Mon, 12 Jan 2026 17:12:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
-<link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
-<pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
+<title><![CDATA[Displaced Aleppo residents return home after days of intense clashes]]></title>
+<link>https://apnews.com/article/syria-aleppo-clashes-displaced-residents-kurds-bd461551bd622671c31c2ec0923306ee</link>
+<pubDate>Tue, 13 Jan 2026 02:35:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Settler violence in the Jordan Valley expels Palestinians from one of the few towns left standing]]></title>
-<link>https://apnews.com/article/israel-west-bank-displaced-2926a8fd8ff8dae5277820ac0518e0a8</link>
-<pubDate>Sun, 11 Jan 2026 14:40:28 -0000</pubDate>
+<title><![CDATA[Iranian protests are growing. Israel is watching closely]]></title>
+<link>https://apnews.com/article/israel-iran-protests-war-nuclear-388a52c539a4774a0eeb1b80fe3a2374</link>
+<pubDate>Sun, 11 Jan 2026 14:55:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Families of prisoners in Venezuela wait in anguish as promised releases trickle]]></title>
-<link>https://apnews.com/article/venezuela-prisoners-released-delcy-trump-machado-75e8d841947695415703dc0dc5502ab5</link>
-<pubDate>Mon, 12 Jan 2026 19:59:06 -0000</pubDate>
+<title><![CDATA[Cuba’s president says no current talks with the US following Trump’s threats]]></title>
+<link>https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db</link>
+<pubDate>Mon, 12 Jan 2026 16:57:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Retouched images of Netanyahu’s wife, distributed by the state, ignite a fiery ethics debate]]></title>
+<link>https://apnews.com/article/israel-sara-netanyahu-photos-217896b96d01bf5cfcd7aa606b5fa78e</link>
+<pubDate>Sun, 11 Jan 2026 11:50:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia captain Alyssa Healy retiring after India series]]></title>
+<title><![CDATA[Australia captain Alyssa Healy plans to retire after India series]]></title>
 <link>https://apnews.com/article/alyssa-healy-cricket-retirement-d5d3549db9383262b48b4c625249883a</link>
-<pubDate>Mon, 12 Jan 2026 21:25:13 -0000</pubDate>
+<pubDate>Tue, 13 Jan 2026 02:20:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
