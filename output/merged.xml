@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 10:14:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 10:47:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq’s prime minister steps aside for rival in post-election wrangling over government]]></title>
 <link>https://apnews.com/article/iraq-prime-minister-sudani-maliki-government-cf3291c8325f5e31ebb1a42f2d0c2825</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese and South Korean leaders jam to K-pop hits at a summit]]></title>
-<link>https://apnews.com/article/japan-korea-kpop-bts-takaichi-lee-drums-243faf64ebc377a1d6a4db53e723c5d1</link>
-<pubDate>Wed, 14 Jan 2026 05:15:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong officials want to expand oversight of building maintenance after deadly fire]]></title>
 <link>https://apnews.com/article/hong-kong-fire-building-safety-oversight-1c6174de3656a953a7c1599eca4efe8b</link>
 <pubDate>Wed, 14 Jan 2026 08:17:08 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[See the dates and ticket plans for the BTS tour that starts in April]]></title>
 <link>https://apnews.com/article/bts-world-tour-kpop-2026-2027-01db0e428723c0febc514373969333bd</link>
 <pubDate>Wed, 14 Jan 2026 04:30:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Adelaide Writers Week canceled as 180 speakers withdraw after the exclusion of a Palestinian writer]]></title>
+<link>https://apnews.com/article/adelaide-writers-week-festival-bondi-randa-abdelfattah-ea353861a4a466b76c8ebd689441f33c</link>
+<pubDate>Tue, 13 Jan 2026 08:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show sacred deer wandering through Japan’s ancient capital during Japan-South Korea summit]]></title>
+<link>https://apnews.com/photo-gallery/japan-korea-nara-deer-photos-85e3e28870fd63c564e6947b34bf03cf</link>
+<pubDate>Wed, 14 Jan 2026 10:47:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show rescue workers at scene of crane collapse and train derailment in Thailand]]></title>
+<link>https://apnews.com/photo-gallery/thailand-train-crane-accident-deaths-images-9e705c188031d58a2b799327224efceb</link>
+<pubDate>Wed, 14 Jan 2026 10:32:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The UK is watering down plans for mandatory digital ID cards after a backlash]]></title>
+<link>https://apnews.com/article/britain-digital-id-cards-retreat-starmer-immigration-6fad47dc1e4e0de79606e6ac4c73046e</link>
+<pubDate>Wed, 14 Jan 2026 10:17:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Serbians mark Orthodox Christian New Year according to old tradition]]></title>
 <link>https://apnews.com/article/serbia-orthodox-new-year-celebration-4a93e7103cca9614b12df8680854df54</link>
 <pubDate>Wed, 14 Jan 2026 09:19:23 -0000</pubDate>
@@ -200,12 +218,6 @@
 <title><![CDATA[Senate readies vote on Venezuela war powers as Trump pressures GOP defectors]]></title>
 <link>https://apnews.com/article/trump-venezuela-senate-war-powers-2350b162d116090759a7428c4b915eea</link>
 <pubDate>Wed, 14 Jan 2026 05:45:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian benchmarks mostly rise after Wall Street pulls back and global uncertainty grows]]></title>
-<link>https://apnews.com/article/stock-markets-trump-inflation-fed-economy-848ef168fa3c4f55a5fb443e390fc0df</link>
-<pubDate>Wed, 14 Jan 2026 07:32:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Freezing rain and ice disrupt travel across central and eastern Europe]]></title>
-<link>https://apnews.com/article/europe-weather-ice-travel-flights-4f0a8b9205636ff4064f56248b8576f0</link>
-<pubDate>Tue, 13 Jan 2026 14:01:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon ex-central bank chief’s corruption case being sent to top court, officials say]]></title>
-<link>https://apnews.com/article/lebanon-central-bank-corruption-riad-salameh-court-d0d64a05178a41a7c056f868d22f5cf7</link>
-<pubDate>Tue, 13 Jan 2026 13:46:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran signals fast trials and executions for protesters as death toll in crackdown goes over 2,500]]></title>
 <link>https://apnews.com/article/iran-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f</link>
 <pubDate>Wed, 14 Jan 2026 08:17:09 -0000</pubDate>
@@ -401,33 +401,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street pulls back from its records as JPMorgan Chase and Delta kick off earnings season]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
-<pubDate>Tue, 13 Jan 2026 21:27:18 -0000</pubDate>
+<title><![CDATA[China’s trade surplus surges 20% to a record $1.2 trillion, even with Trump’s tariffs]]></title>
+<link>https://apnews.com/article/china-economy-trade-surplus-record-59f6fcc80ee3afc204a024f57766d319</link>
+<pubDate>Wed, 14 Jan 2026 06:09:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China urges Canada to break from US influence as Carney visits Beijing]]></title>
-<link>https://apnews.com/article/china-canada-carney-trump-strategic-autonomy-66f1277efa034750f0fd817b3a69bebb</link>
-<pubDate>Wed, 14 Jan 2026 00:13:23 -0000</pubDate>
+<title><![CDATA[Luxury retailer Saks Global files for bankruptcy as it prepares to restructure]]></title>
+<link>https://apnews.com/article/saks-bankruptcy-neiman-retail-69767dc507055d394b54488b71626835</link>
+<pubDate>Wed, 14 Jan 2026 10:47:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Inflation cooled slightly in December though it remains above Fed’s target]]></title>
-<link>https://apnews.com/article/inflation-trump-federal-reserve-ed245660d83628e9ff3df1988bdf6d00</link>
-<pubDate>Tue, 13 Jan 2026 12:46:47 -0000</pubDate>
+<title><![CDATA[Global share prices mostly rise ahead of US wholesale price report]]></title>
+<link>https://apnews.com/article/stock-markets-trump-inflation-fed-economy-848ef168fa3c4f55a5fb443e390fc0df</link>
+<pubDate>Wed, 14 Jan 2026 10:32:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[JPMorgan Chase profits rise 9% in the fourth quarter excluding hit from the Apple Card acquisition]]></title>
-<link>https://apnews.com/article/jpmorgan-chase-dimon-trump-banks-wall-street-2cef23cf8f690bb5e7e8c3e89fb0aafe</link>
-<pubDate>Tue, 13 Jan 2026 12:12:43 -0000</pubDate>
+<title><![CDATA[Trump pressures Iran with tariffs that could raise prices in the US]]></title>
+<link>https://apnews.com/article/iran-protests-trump-tariffs-0e37b712aee645d20af5b79acd207ddf</link>
+<pubDate>Tue, 13 Jan 2026 20:57:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French farmers drive 350 tractors to Parliament to protest low incomes and EU trade deal]]></title>
-<link>https://apnews.com/article/france-farmer-protest-mercosur-e585de9be293245605eb2e2ce20f5577</link>
-<pubDate>Tue, 13 Jan 2026 10:54:04 -0000</pubDate>
+<title><![CDATA[Wall Street executives warn Trump: Stop attacking the Fed and credit card industry]]></title>
+<link>https://apnews.com/article/banks-trump-jamie-dimon-jpmorgan-credit-cards-bny-b4f31993a64c31687c91f17beab0a98a</link>
+<pubDate>Wed, 14 Jan 2026 10:17:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s trade surplus surges 20% to a record $1.2 trillion, even with Trump’s tariffs]]></title>
-<link>https://apnews.com/article/china-economy-trade-surplus-record-59f6fcc80ee3afc204a024f57766d319</link>
-<pubDate>Wed, 14 Jan 2026 06:09:39 -0000</pubDate>
+<title><![CDATA[Japanese and South Korean leaders jam to K-pop hits at a summit]]></title>
+<link>https://apnews.com/article/japan-korea-kpop-bts-takaichi-lee-drums-243faf64ebc377a1d6a4db53e723c5d1</link>
+<pubDate>Wed, 14 Jan 2026 10:02:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump pressures Iran with tariffs that could raise prices in the US]]></title>
-<link>https://apnews.com/article/iran-protests-trump-tariffs-0e37b712aee645d20af5b79acd207ddf</link>
-<pubDate>Tue, 13 Jan 2026 20:57:18 -0000</pubDate>
+<title><![CDATA[China urges Canada to break from US influence as Carney visits Beijing]]></title>
+<link>https://apnews.com/article/china-canada-carney-trump-strategic-autonomy-66f1277efa034750f0fd817b3a69bebb</link>
+<pubDate>Wed, 14 Jan 2026 00:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
