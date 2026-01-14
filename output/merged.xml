@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 15:43:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 16:16:51 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Beirut’s Commodore Hotel, a haven for journalists during Lebanon’s civil war, shuts down]]></title>
-<link>https://apnews.com/article/lebanon-beirut-commodore-civil-war-western-journalists-09989e10ab4fedfd4b027dd33946059a</link>
-<pubDate>Wed, 14 Jan 2026 15:15:54 -0000</pubDate>
+<title><![CDATA[Syrian army and Kurdish forces exchange strikes east of Aleppo]]></title>
+<link>https://apnews.com/article/syria-army-aleppo-kurds-closed-military-zone-57699cbaa66e83cf57df6b50dbe05f1e</link>
+<pubDate>Wed, 14 Jan 2026 16:16:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia attacks Ukraine’s power grid again in freezing temperatures]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-aa7d5c2e54619fefabab72165444f8e3</link>
-<pubDate>Wed, 14 Jan 2026 03:02:38 -0000</pubDate>
+<title><![CDATA[UK government urges police official to quit over ban of Maccabi Tel Aviv soccer fans]]></title>
+<link>https://apnews.com/article/maccabi-fans-ban-aston-villa-police-320439b1e2f3bc267528a95e85c89d4b</link>
+<pubDate>Wed, 14 Jan 2026 16:01:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sudan peace talks resume in Cairo as war nears 3-year mark]]></title>
+<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
+<pubDate>Wed, 14 Jan 2026 15:46:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Uganda’s military deployed in national capital before presidential election]]></title>
 <link>https://apnews.com/article/uganda-election-museveni-bobi-wine-ff7524b2ff935efbe6a712f83bb98143</link>
 <pubDate>Wed, 14 Jan 2026 08:02:08 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Off the ballot, Ugandan president’s son waits in the wings this election]]></title>
 <link>https://apnews.com/article/uganda-presidents-son-muhoozi-army-election-9005cd934b2f294b027bb4a00c8a7d95</link>
 <pubDate>Tue, 13 Jan 2026 12:27:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyan women lost their husbands and then their land. But some are fighting back]]></title>
-<link>https://apnews.com/article/kenya-widows-women-land-inheritance-rights-07a8482eefd789dc6e58dfd4fe94c877</link>
-<pubDate>Mon, 12 Jan 2026 04:32:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +161,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Dutch court hears arguments in Nexperia mismanagement case that upset the global auto industry]]></title>
+<link>https://apnews.com/article/nexperia-wingtech-china-netherlands-semiconductors-chips-ace06d7b7b268658dc4dcd1b5127227b</link>
+<pubDate>Wed, 14 Jan 2026 16:16:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Community leader says armed men kill 15 people in northwestern Cameroon]]></title>
 <link>https://apnews.com/article/cameroon-attack-separatists-8fbd680e37671e02929a9e817b57e9dc</link>
 <pubDate>Wed, 14 Jan 2026 15:15:55 -0000</pubDate>
@@ -233,15 +239,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as the Louvre’s ticket price goes up by nearly half]]></title>
+<title><![CDATA[What to know as the Louvre’s ticket price goes up by 45%]]></title>
 <link>https://apnews.com/article/louvre-ticket-prices-increase-museum-paris-3fc95de7132a83edac5932efc2798649</link>
-<pubDate>Wed, 14 Jan 2026 11:53:17 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 16:01:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Senate readies vote on Venezuela war powers as Trump pressures GOP defectors]]></title>
 <link>https://apnews.com/article/trump-venezuela-senate-war-powers-2350b162d116090759a7428c4b915eea</link>
 <pubDate>Wed, 14 Jan 2026 05:45:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Beirut’s Commodore Hotel, a haven for journalists during Lebanon’s civil war, shuts down]]></title>
+<link>https://apnews.com/article/lebanon-beirut-commodore-civil-war-western-journalists-09989e10ab4fedfd4b027dd33946059a</link>
+<pubDate>Wed, 14 Jan 2026 15:46:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,18 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump calls on Tehran to show protesters humanity amid reports of rising death toll in crackdown]]></title>
-<link>https://apnews.com/article/iran-protests-trump-80f937dfbb3e04e5322dae30db3ad4b3</link>
-<pubDate>Wed, 14 Jan 2026 00:28:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian investigators launch criminal case after nine babies die at Siberian maternity hospital]]></title>
-<link>https://apnews.com/article/russia-novokuznetsk-maternity-hospital-deaths-b00c472f5a273fe0a23519eccd285706</link>
-<pubDate>Tue, 13 Jan 2026 15:16:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran signals fast trials and executions for protesters as crackdown death toll exceeds 2,500]]></title>
 <link>https://apnews.com/article/iran-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f</link>
 <pubDate>Wed, 14 Jan 2026 15:15:55 -0000</pubDate>
@@ -377,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lebanon arrests Syrian citizen suspected of funding pro-Assad fighters]]></title>
+<link>https://apnews.com/article/syria-lebanon-assad-alawites-ahmad-dunia-arrested-a400aeae3bb5d85cb2610f2b8afc1144</link>
+<pubDate>Wed, 14 Jan 2026 16:16:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gaza’s living conditions worsen as strong winds and hypothermia kill 5]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
 <pubDate>Tue, 13 Jan 2026 14:46:29 -0000</pubDate>
@@ -395,12 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian army and Kurdish forces exchange strikes east of Aleppo]]></title>
-<link>https://apnews.com/article/syria-army-aleppo-kurds-closed-military-zone-57699cbaa66e83cf57df6b50dbe05f1e</link>
-<pubDate>Wed, 14 Jan 2026 05:30:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China’s trade surplus surges 20% to a record $1.2 trillion, even with Trump’s tariffs]]></title>
 <link>https://apnews.com/article/china-economy-trade-surplus-record-59f6fcc80ee3afc204a024f57766d319</link>
 <pubDate>Wed, 14 Jan 2026 06:09:39 -0000</pubDate>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks fall again as oil and gold prices rise]]></title>
+<title><![CDATA[Wall Street slumps as bank and tech stocks fall]]></title>
 <link>https://apnews.com/article/stock-markets-trump-inflation-fed-economy-848ef168fa3c4f55a5fb443e390fc0df</link>
-<pubDate>Wed, 14 Jan 2026 14:30:55 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 16:01:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
