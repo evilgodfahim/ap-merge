@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 16:53:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 17:19:13 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Syrian army and Kurdish forces exchange strikes east of Aleppo]]></title>
-<link>https://apnews.com/article/syria-army-aleppo-kurds-closed-military-zone-57699cbaa66e83cf57df6b50dbe05f1e</link>
-<pubDate>Wed, 14 Jan 2026 16:16:49 -0000</pubDate>
+<title><![CDATA[Israel’s recognition of breakaway Somaliland brings uproar and threats to a volatile region]]></title>
+<link>https://apnews.com/article/israel-somaliland-gaza-palestinians-somalia-recognition-f512b6ab8d17833229376417287a372b</link>
+<pubDate>Wed, 14 Jan 2026 17:19:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainians endure freezing temperatures at home as emergency crews rush to restore power]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-power-blackouts-13e814e9c51eb7f2048a1f662c7433ce</link>
+<pubDate>Wed, 14 Jan 2026 17:04:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -20,12 +26,6 @@
 <title><![CDATA[EU targets Ukraine’s military needs with massive new loan program plus billions in budget support]]></title>
 <link>https://apnews.com/article/eu-funds-ukraine-loan-russia-war-military-91052fbed37575ab76f15205f3fd7b4f</link>
 <pubDate>Wed, 14 Jan 2026 13:54:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK government urges police official to quit over ban of Maccabi Tel Aviv soccer fans]]></title>
-<link>https://apnews.com/article/maccabi-fans-ban-aston-villa-police-320439b1e2f3bc267528a95e85c89d4b</link>
-<pubDate>Wed, 14 Jan 2026 16:01:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan peace talks resume in Cairo as war nears 3-year mark]]></title>
-<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
-<pubDate>Wed, 14 Jan 2026 15:46:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Uganda’s military deployed in national capital before presidential election]]></title>
 <link>https://apnews.com/article/uganda-election-museveni-bobi-wine-ff7524b2ff935efbe6a712f83bb98143</link>
 <pubDate>Wed, 14 Jan 2026 08:02:08 -0000</pubDate>
@@ -89,9 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minnesota protesters, agents repeatedly square off while prosecutors quit after Renee Good’s death]]></title>
-<link>https://apnews.com/article/minneapolis-immigration-tension-lawsuit-renee-good-8c80b7e47788c58140ce4442eb02f7c3</link>
-<pubDate>Wed, 14 Jan 2026 11:38:16 -0000</pubDate>
+<title><![CDATA[Kenyan women lost their husbands and then their land. But some are fighting back]]></title>
+<link>https://apnews.com/article/kenya-widows-women-land-inheritance-rights-07a8482eefd789dc6e58dfd4fe94c877</link>
+<pubDate>Mon, 12 Jan 2026 04:32:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[No immediate judicial decision on a request to stop the immigration crackdown in Minnesota]]></title>
+<link>https://apnews.com/article/immigration-crackdown-minnesota-renee-good-337c778dc7667e765697ea2173220fe1</link>
+<pubDate>Wed, 14 Jan 2026 16:49:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,9 +161,45 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US suspending immigrant visa processing from 75 countries over public assistance]]></title>
+<link>https://apnews.com/article/trump-immigration-visas-79909bd01e9e1e3dedde144f865a1b9d</link>
+<pubDate>Wed, 14 Jan 2026 17:19:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump envoy says Gaza is entering second phase of ceasefire plan]]></title>
+<link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-trump-witkoff-bb39015d25aeb627a5b9ce73dd4e1155</link>
+<pubDate>Wed, 14 Jan 2026 17:04:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Quebec’s premier announces his resignation ahead of provincial election this year]]></title>
+<link>https://apnews.com/article/quebec-premier-resignation-1463be7a84d1dcc51f9f8ed5cfb38c42</link>
+<pubDate>Wed, 14 Jan 2026 16:49:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Italian influencer Chiara Ferragni cleared of aggravated fraud charges in Pandorogate trial]]></title>
+<link>https://apnews.com/article/italy-influencer-ferragni-pandorogate-f0a95d23ab3396858d65ee9180b592da</link>
+<pubDate>Wed, 14 Jan 2026 16:34:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As Trump’s envoy, Louisiana Gov. Jeff Landry says he wants to meet Greenlanders and not diplomats]]></title>
+<link>https://apnews.com/article/greenland-trump-landry-denmark-louisiana-9f120dade00849082a42556074ddf35a</link>
+<pubDate>Wed, 14 Jan 2026 16:19:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dutch court hears arguments in Nexperia mismanagement case that upset the global auto industry]]></title>
 <link>https://apnews.com/article/nexperia-wingtech-china-netherlands-semiconductors-chips-ace06d7b7b268658dc4dcd1b5127227b</link>
 <pubDate>Wed, 14 Jan 2026 16:16:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK government urges police official to quit over ban of Maccabi Tel Aviv soccer fans]]></title>
+<link>https://apnews.com/article/maccabi-fans-ban-aston-villa-police-320439b1e2f3bc267528a95e85c89d4b</link>
+<pubDate>Wed, 14 Jan 2026 16:04:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,45 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of a community catch in an Indian fishing village marking the end of the harvest season]]></title>
-<link>https://apnews.com/photo-gallery/fishing-india-bhogali-biu-harvest-6945f433f74058c395e82e5085724dcd</link>
-<pubDate>Tue, 13 Jan 2026 18:19:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the dates and ticket plans for the BTS tour that starts in April]]></title>
-<link>https://apnews.com/article/bts-world-tour-kpop-2026-2027-01db0e428723c0febc514373969333bd</link>
-<pubDate>Wed, 14 Jan 2026 05:15:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico arrests 6 alleged members of Tren de Aragua and 4 of Jalisco New Generation Cartel]]></title>
-<link>https://apnews.com/article/mexico-venezuela-tren-de-aragua-trump-19cb1262524c69f62aeb71799199b932</link>
-<pubDate>Wed, 14 Jan 2026 00:58:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Puerto Rico announces compulsory visits to assess conditions in housing projects]]></title>
-<link>https://apnews.com/article/puerto-rico-public-housing-compulsory-visits-3d24d7c4891f539fd04de99f6e968e2d</link>
-<pubDate>Tue, 13 Jan 2026 16:39:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours]]></title>
-<link>https://apnews.com/article/italy-palatine-hill-livestream-tours-emperor-frescoes-e63327f43424e12536173f216f88c915</link>
-<pubDate>Wed, 14 Jan 2026 00:43:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[David Webb, prominent Hong Kong shareholder activist, dies at 60]]></title>
-<link>https://apnews.com/article/david-webb-hong-kong-investor-activism-death-a7b7b3bc19b286eed7a7d0d518deeca4</link>
-<pubDate>Tue, 13 Jan 2026 15:46:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran signals fast trials and executions for protesters as crackdown death toll exceeds 2,500]]></title>
+<title><![CDATA[Iran signals plans for fast trials and executions for detained protesters despite US warnings]]></title>
 <link>https://apnews.com/article/iran-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f</link>
-<pubDate>Wed, 14 Jan 2026 15:15:55 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 17:19:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Activists say Iran has aired at least 97 coerced confessions from protesters, often after torture]]></title>
-<link>https://apnews.com/article/iran-protests-tehran-forced-confessions-human-rights-f7cd9b1987480a8024a6e549fc51535d</link>
-<pubDate>Wed, 14 Jan 2026 02:47:39 -0000</pubDate>
+<title><![CDATA[Greenlandic and Danish officials meet with Vance and Rubio as Trump insists on US control of island]]></title>
+<link>https://apnews.com/article/greenland-united-states-denmark-trump-vance-rubio-meeting-cc278af4f3daf725029101966ba03568</link>
+<pubDate>Wed, 14 Jan 2026 17:04:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says anything less than having Greenland in US hands is ‘unacceptable’]]></title>
-<link>https://apnews.com/article/greenland-united-states-denmark-trump-vance-rubio-meeting-cc278af4f3daf725029101966ba03568</link>
-<pubDate>Wed, 14 Jan 2026 15:00:55 -0000</pubDate>
+<title><![CDATA[Activists say Iran has aired at least 97 coerced confessions from protesters, often after torture]]></title>
+<link>https://apnews.com/article/iran-protests-tehran-forced-confessions-human-rights-f7cd9b1987480a8024a6e549fc51535d</link>
+<pubDate>Wed, 14 Jan 2026 02:47:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Discussions to end Sudan war resume in Cairo as it nears the 3-year mark]]></title>
+<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
+<pubDate>Wed, 14 Jan 2026 16:49:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gaza’s living conditions worsen as strong winds and hypothermia kill 5]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
 <pubDate>Tue, 13 Jan 2026 14:46:29 -0000</pubDate>
@@ -392,12 +398,6 @@
 <title><![CDATA[What to know about the Muslim Brotherhood after the US terrorist designation]]></title>
 <link>https://apnews.com/article/muslim-brotherhood-political-islam-lebanon-jordan-egypt-9003258fa8f3c8713ad8804f2783324c</link>
 <pubDate>Tue, 13 Jan 2026 18:19:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s recognition of breakaway Somaliland brings uproar and threats to a volatile region]]></title>
-<link>https://apnews.com/article/israel-somaliland-gaza-palestinians-somalia-recognition-f512b6ab8d17833229376417287a372b</link>
-<pubDate>Tue, 13 Jan 2026 16:39:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand wins the toss and bowls against India in the 2nd ODI match]]></title>
+<title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
-<pubDate>Wed, 14 Jan 2026 07:17:09 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 16:34:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
