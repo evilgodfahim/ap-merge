@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 23:36:51 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran’s leadership is under pressure as protests continue. Here’s what to know]]></title>
-<link>https://apnews.com/article/iran-protests-explainer-leadership-khamenei-02464b460af9f608bb3a2de59dc3905c</link>
-<pubDate>Tue, 13 Jan 2026 22:12:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 14 Jan 2026 00:58:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Here’s how AP reports on the death toll from Iran’s protests]]></title>
 <link>https://apnews.com/article/iran-protests-death-toll-ec00ffa50f818d4a66aec5942aec629b</link>
@@ -17,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Denmark, Greenland leaders stand united against Trump’s Greenland takeover call ahead of key meeting]]></title>
-<link>https://apnews.com/article/greenland-denmark-trump-vance-meeting-6a9ab923e04411cf518ec3e0f6a67e38</link>
-<pubDate>Tue, 13 Jan 2026 21:57:17 -0000</pubDate>
+<title><![CDATA[Iraq’s prime minister steps aside for rival in post-election wrangling over government]]></title>
+<link>https://apnews.com/article/iraq-prime-minister-sudani-maliki-government-cf3291c8325f5e31ebb1a42f2d0c2825</link>
+<pubDate>Tue, 13 Jan 2026 18:19:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +29,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Marine Le Pen’s appeal trial opens in Paris, with far-right leader’s 2027 presidential bid at stake]]></title>
+<link>https://apnews.com/article/marine-le-pen-appeal-trial-paris-1f06183468c669d99093634ba7472c72</link>
+<pubDate>Tue, 13 Jan 2026 13:12:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Leaders of South Korea and Japan agree to improve cooperation]]></title>
+<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
+<pubDate>Wed, 14 Jan 2026 00:58:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hong Kong court moves closer to sentencing activist Jimmy Lai after hearing lighter penalty pleas]]></title>
 <link>https://apnews.com/article/jimmy-lai-apple-daily-mitigation-sentence-hong-3201ebeb5130f1cf5a299a1ab0c770a6</link>
 <pubDate>Tue, 13 Jan 2026 11:09:03 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Adelaide Writers Week canceled as 180 speakers withdraw after the exclusion of a Palestinian writer]]></title>
 <link>https://apnews.com/article/adelaide-writers-week-festival-bondi-randa-abdelfattah-ea353861a4a466b76c8ebd689441f33c</link>
 <pubDate>Tue, 13 Jan 2026 08:36:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Malaysia will take legal action against Musk’s X and xAI over misuse of Grok chatbot]]></title>
-<link>https://apnews.com/article/grok-musk-deepfakes-lawsuit-x-malaysia-e6e87bea7c704b8ef4a8097814c7438f</link>
-<pubDate>Tue, 13 Jan 2026 12:42:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Minneapolis duo details their ICE detention, including pressure to rat on protest organizers]]></title>
+<link>https://apnews.com/article/immigration-protest-arrests-detention-ice-8993bfd5d54b870521ec5b44fc42cd71</link>
+<pubDate>Wed, 14 Jan 2026 00:43:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Wisconsin Gov. Evers questions his lieutenant governor’s immigration enforcement proposal]]></title>
 <link>https://apnews.com/article/wisconsin-ice-renee-good-trump-immigration-6bdbe952536c9a631021b711af6f855e</link>
 <pubDate>Tue, 13 Jan 2026 19:06:45 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[‘West Wing’ actor Timothy Busfield turns himself in to face child sex abuse charges in New Mexico]]></title>
 <link>https://apnews.com/article/timothy-busfield-child-sex-abuse-charge-82d413e86b62a151564e75b0ba535551</link>
 <pubDate>Tue, 13 Jan 2026 23:21:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[NYC Council employee’s arrest sparks protests and a dispute over his immigration status]]></title>
-<link>https://apnews.com/article/new-york-city-council-immigration-arrest-protests-5f7613c92afacdced21f37075c0a4fe3</link>
-<pubDate>Tue, 13 Jan 2026 23:06:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +209,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico arrests 6 alleged Tren de Aragua gang members]]></title>
+<title><![CDATA[Mexico arrests 6 alleged members of Tren de Aragua and 4 of Jalisco New Generation Cartel]]></title>
 <link>https://apnews.com/article/mexico-venezuela-tren-de-aragua-trump-19cb1262524c69f62aeb71799199b932</link>
-<pubDate>Tue, 13 Jan 2026 16:54:35 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 00:58:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,9 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours]]></title>
+<link>https://apnews.com/article/italy-palatine-hill-livestream-tours-emperor-frescoes-e63327f43424e12536173f216f88c915</link>
+<pubDate>Wed, 14 Jan 2026 00:43:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[David Webb, prominent Hong Kong shareholder activist, dies at 60]]></title>
 <link>https://apnews.com/article/david-webb-hong-kong-investor-activism-death-a7b7b3bc19b286eed7a7d0d518deeca4</link>
 <pubDate>Tue, 13 Jan 2026 15:46:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump calls on Tehran to show protesters humanity amid reports of rising death toll in crackdown]]></title>
+<link>https://apnews.com/article/iran-protests-trump-80f937dfbb3e04e5322dae30db3ad4b3</link>
+<pubDate>Wed, 14 Jan 2026 00:28:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,12 +254,6 @@
 <title><![CDATA[Trump set to lead largest-ever US delegation to World Economic Forum in Davos next week]]></title>
 <link>https://apnews.com/article/world-economic-forum-davos-trump-66b6375e80c129ed58fed70df247cecd</link>
 <pubDate>Tue, 13 Jan 2026 14:46:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq’s prime minister steps aside for rival in post-election wrangling over government]]></title>
-<link>https://apnews.com/article/iraq-prime-minister-sudani-maliki-government-cf3291c8325f5e31ebb1a42f2d0c2825</link>
-<pubDate>Tue, 13 Jan 2026 21:12:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Malaysia will take legal action against Musk’s X and xAI over misuse of Grok chatbot]]></title>
+<link>https://apnews.com/article/grok-musk-deepfakes-lawsuit-x-malaysia-e6e87bea7c704b8ef4a8097814c7438f</link>
+<pubDate>Tue, 13 Jan 2026 11:39:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Top central bankers express ‘full solidarity’ with Fed Chair Powell in clash with Trump]]></title>
 <link>https://apnews.com/article/fed-powell-central-banks-trump-98403522c4a6315229f4b87fab467820</link>
 <pubDate>Tue, 13 Jan 2026 11:24:04 -0000</pubDate>
@@ -311,12 +323,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Marine Le Pen’s appeal trial opens in Paris, with far-right leader’s 2027 presidential bid at stake]]></title>
-<link>https://apnews.com/article/marine-le-pen-appeal-trial-paris-1f06183468c669d99093634ba7472c72</link>
-<pubDate>Tue, 13 Jan 2026 20:57:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump holds off on military action against Iran’s protest crackdown as he ‘explores’ Tehran messages]]></title>
 <link>https://apnews.com/article/trump-iran-protests-military-tariffs-28972b6ac7f67b5f28a7a3089ea2cf23</link>
 <pubDate>Tue, 13 Jan 2026 06:19:04 -0000</pubDate>
@@ -341,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cyprus president’s top aide quits after online video alleging government corruption]]></title>
-<link>https://apnews.com/article/cyprus-president-aide-resigns-disinformation-video-russia-3bcdffc1431e959915f950a0eb6c7132</link>
-<pubDate>Mon, 12 Jan 2026 19:59:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Death toll from Iranian protests surpasses 2,000, activists say, as chaos recalls 1979 revolution]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-1b2368e0804676d33d6aa0696815a102</link>
 <pubDate>Tue, 13 Jan 2026 16:54:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump calls on Tehran to show protesters humanity amid reports of rising death toll in crackdown]]></title>
-<link>https://apnews.com/article/iran-protests-trump-80f937dfbb3e04e5322dae30db3ad4b3</link>
-<pubDate>Tue, 13 Jan 2026 23:36:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,33 +359,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza’s living conditions worsen as strong winds and hypothermia kill 5]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
+<pubDate>Tue, 13 Jan 2026 14:46:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Denmark, Greenland leaders stand united against Trump’s Greenland takeover call ahead of key meeting]]></title>
+<link>https://apnews.com/article/greenland-denmark-trump-vance-meeting-6a9ab923e04411cf518ec3e0f6a67e38</link>
+<pubDate>Wed, 14 Jan 2026 00:58:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Plane used in boat strike off Venezuela was painted to look like a civilian aircraft, AP sources say]]></title>
 <link>https://apnews.com/article/drug-boats-trump-military-law-venezuela-beb8ebd91d8c2d8950c9438ad379d5b2</link>
 <pubDate>Tue, 13 Jan 2026 21:42:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean prosecutor seeks death sentence for ex-leader Yoon over martial law decree]]></title>
-<link>https://apnews.com/article/south-korea-yoon-martial-law-death-sentence-26b90a07c792ec2ba91619cec579aaca</link>
-<pubDate>Tue, 13 Jan 2026 15:46:29 -0000</pubDate>
+<title><![CDATA[Activists say death toll in Iran protests passes 2,000 killed, AP explains]]></title>
+<link>https://apnews.com/video/activists-say-death-toll-in-iran-protests-passes-2000-killed-ap-explains-bedcc84da9784843b2b364e697361613</link>
+<pubDate>Wed, 14 Jan 2026 00:43:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump travel ban leaves Senegal, Ivory Coast fans in limbo for World Cup]]></title>
-<link>https://apnews.com/video/trump-travel-ban-leaves-senegal-ivory-coast-fans-in-limbo-for-world-cup-0000019bb72cdeaba7fbb76e16540000</link>
-<pubDate>Tue, 13 Jan 2026 15:16:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France’s far-right Le Pen faces appeal trial that may decide her 2027 presidential run, AP explains]]></title>
-<link>https://apnews.com/video/frances-far-right-le-pen-faces-appeal-trial-that-may-decide-her-2027-presidential-run-ap-explains-0816adddbba845458c484e242ed98990</link>
-<pubDate>Tue, 13 Jan 2026 15:01:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza’s living conditions worsen as strong winds and hypothermia kill 5]]></title>
-<link>https://apnews.com/article/israel-hamas-war-gaza-1-13-2026-03966101946e3f6e68ff4df758bd87f2</link>
-<pubDate>Tue, 13 Jan 2026 14:46:29 -0000</pubDate>
+<title><![CDATA[Trump wants Greenland. Greenland says it’s not for sale; AP Explains]]></title>
+<link>https://apnews.com/video/trump-wants-greenland-greenland-says-its-not-for-sale-ap-explains-1cddada8915842db8396f53078554bab</link>
+<pubDate>Wed, 14 Jan 2026 00:28:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,15 +407,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s leadership is under pressure as protests continue. Here’s what to know]]></title>
+<link>https://apnews.com/article/iran-protests-explainer-leadership-khamenei-02464b460af9f608bb3a2de59dc3905c</link>
+<pubDate>Mon, 12 Jan 2026 16:16:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Wall Street pulls back from its records as JPMorgan Chase and Delta kick off earnings season]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-nikkei-trump-fed-99cf05edb6084854aa91e54d6d322886</link>
 <pubDate>Tue, 13 Jan 2026 21:27:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China urges Canada to break from US influence as PM Carney visits Beijing]]></title>
+<title><![CDATA[China urges Canada to break from US influence as Carney visits Beijing]]></title>
 <link>https://apnews.com/article/china-canada-carney-trump-strategic-autonomy-66f1277efa034750f0fd817b3a69bebb</link>
-<pubDate>Tue, 13 Jan 2026 12:27:43 -0000</pubDate>
+<pubDate>Wed, 14 Jan 2026 00:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours]]></title>
-<link>https://apnews.com/article/italy-palatine-hill-livestream-tours-emperor-frescoes-e63327f43424e12536173f216f88c915</link>
-<pubDate>Tue, 13 Jan 2026 16:24:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Leaders of South Korea and Japan agree to improve cooperation]]></title>
-<link>https://apnews.com/article/japan-south-korea-china-takaichi-lee-summit-8523995d0a2bad880c62b3dbfe0b9035</link>
-<pubDate>Tue, 13 Jan 2026 11:57:43 -0000</pubDate>
+<title><![CDATA[South Korean prosecutor seeks death sentence for ex-leader Yoon over martial law decree]]></title>
+<link>https://apnews.com/article/south-korea-yoon-martial-law-death-sentence-26b90a07c792ec2ba91619cec579aaca</link>
+<pubDate>Tue, 13 Jan 2026 15:46:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
