@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 15 Jan 2026 17:00:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 17:35:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Civilians flee on foot as Syrian military offensive looms east of Aleppo]]></title>
 <link>https://apnews.com/article/syria-aleppo-sdf-deir-hafer-evacuation-4a925c73404d3b3a1d6b81ad01060c00</link>
@@ -41,9 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The loneliness app topping China’s charts is simple — and all about not dying alone]]></title>
+<title><![CDATA[An app’s blunt life check adds another layer to the loneliness crisis in China]]></title>
 <link>https://apnews.com/article/app-tech-death-china-elderly-living-alone-163f051b9108b93b0356c4e9aa01c1ef</link>
-<pubDate>Thu, 15 Jan 2026 15:14:45 -0000</pubDate>
+<pubDate>Thu, 15 Jan 2026 17:35:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela’s new leader faces competing pressures from the US and a government loyal to Maduro]]></title>
+<link>https://apnews.com/article/venezuela-delcy-rodriguez-state-of-union-trump-us-b5c53860386752930a56d1d8846d6440</link>
+<pubDate>Thu, 15 Jan 2026 17:20:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -56,12 +62,6 @@
 <title><![CDATA[Trump administration lawyers blessed US operation to remove Maduro from power, memo shows]]></title>
 <link>https://apnews.com/article/venezuela-justice-department-memo-maduro-presidential-power-ccbcacd42872e98c25cc0b1d2782403b</link>
 <pubDate>Wed, 14 Jan 2026 18:24:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Virgin Mary procession draws thousands as Venezuela faces uncertain future]]></title>
-<link>https://apnews.com/article/venezuela-divina-pastora-virgin-mary-procession-13c8e4d207c1004de50ce7c5585f4a3c</link>
-<pubDate>Thu, 15 Jan 2026 03:45:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Court ruling jeopardizes freedom for pro-Palestinian activist Mahmoud Khalil]]></title>
-<link>https://apnews.com/article/mahmoud-khalil-protester-immigration-appeals-court-deportation-2b6d321d5157632412a82fba14eb3bd4</link>
-<pubDate>Thu, 15 Jan 2026 15:21:49 -0000</pubDate>
+<title><![CDATA[Judge hands offshore wind industry another victory against Trump in clearing way for NY project]]></title>
+<link>https://apnews.com/article/trump-offshore-wind-energy-climate-lawsuits-8858476578ffec6ea9ada70704ef7299</link>
+<pubDate>Thu, 15 Jan 2026 17:05:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,6 +161,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What you need to know about Grok and the controversies surrounding it]]></title>
+<link>https://apnews.com/article/grok-ai-elon-musk-xai-f3f8195a17698aefc517e43da973f2ea</link>
+<pubDate>Thu, 15 Jan 2026 17:35:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Explosion in the Netherlands injures at least 4 and causes widespread damage]]></title>
+<link>https://apnews.com/article/netherlands-utrecht-explosion-injuries-fire-b8d426ae3f9d14cbf726e509aec4defb</link>
+<pubDate>Thu, 15 Jan 2026 17:20:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French Olympic swimming champion Yannick Agnel to stand trial on rape, sexual assault charges]]></title>
 <link>https://apnews.com/article/france-olympic-agnel-rape-charges-77abc8ffdfbae8234f73a901766c5300</link>
 <pubDate>Thu, 15 Jan 2026 16:21:50 -0000</pubDate>
@@ -191,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Floods in South Africa force evacuations from famed Kruger National Park; 19 dead in other regions]]></title>
+<title><![CDATA[Floods force evacuations from South Africa’s Kruger National Park and leave 19 dead in other regions]]></title>
 <link>https://apnews.com/article/south-africa-floods-weather-kruger-national-park-rains-4611db4d92141aa5f071a1efea626424</link>
-<pubDate>Thu, 15 Jan 2026 15:06:50 -0000</pubDate>
+<pubDate>Thu, 15 Jan 2026 17:05:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Virgin Mary procession draws thousands as Venezuela faces uncertain future]]></title>
+<link>https://apnews.com/article/venezuela-divina-pastora-virgin-mary-procession-13c8e4d207c1004de50ce7c5585f4a3c</link>
+<pubDate>Thu, 15 Jan 2026 00:54:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[FIFA says it has received more than 500 million ticket requests for 2026 World Cup]]></title>
 <link>https://apnews.com/article/fifa-2026-world-cup-tickets-2047bf2d46cd4de549b7b6d853fbb770</link>
 <pubDate>Wed, 14 Jan 2026 23:34:39 -0000</pubDate>
@@ -323,24 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian military tells civilians to evacuate contested area east of Aleppo amid rising tensions]]></title>
-<link>https://apnews.com/article/aleppo-clashes-kurdish-forces-evacuation-d6095a865d35d94b491b6364b15b41ad</link>
-<pubDate>Thu, 15 Jan 2026 11:52:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US will suspend immigrant visa processing from 75 countries over public assistance concerns]]></title>
-<link>https://apnews.com/article/trump-immigration-visas-79909bd01e9e1e3dedde144f865a1b9d</link>
-<pubDate>Thu, 15 Jan 2026 00:39:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza is entering the second phase of the ceasefire plan Trump helped broker, US says]]></title>
-<link>https://apnews.com/article/mideast-wars-israel-hamas-gaza-trump-witkoff-bb39015d25aeb627a5b9ce73dd4e1155</link>
-<pubDate>Thu, 15 Jan 2026 13:24:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s nationwide protests appear increasingly smothered after crackdown and internet outage]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-trump-us-flights-airspace-cba8a40c366f5bca855f465b6c717b25</link>
 <pubDate>Thu, 15 Jan 2026 16:21:50 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump set to meet Venezuelan opposition leader after cozying up to Maduro’s successor]]></title>
+<title><![CDATA[Trump is meeting with Venezuelan opposition leader after cozying up to Maduro’s successor]]></title>
 <link>https://apnews.com/article/trump-machado-venezuela-maduro-nobel-peace-prize-ed23992bccabf128b7e849259d3c29a8</link>
-<pubDate>Thu, 15 Jan 2026 05:21:19 -0000</pubDate>
+<pubDate>Thu, 15 Jan 2026 17:35:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street steadies as Big Tech bounces back and oil prices ease]]></title>
+<title><![CDATA[Wall Street strengthens as Big Tech bounces back and oil prices ease]]></title>
 <link>https://apnews.com/article/stock-markets-tech-trump-iran-10049feb11f3a6bf7b2a79f1ad997edc</link>
-<pubDate>Thu, 15 Jan 2026 14:59:47 -0000</pubDate>
+<pubDate>Thu, 15 Jan 2026 17:20:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
