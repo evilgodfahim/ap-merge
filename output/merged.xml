@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 15 Jan 2026 06:19:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 06:54:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel’s recognition of breakaway Somaliland brings uproar and threats to a volatile region]]></title>
 <link>https://apnews.com/article/israel-somaliland-gaza-palestinians-somalia-recognition-f512b6ab8d17833229376417287a372b</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FACT FOCUS: Trump repeats false claims when discussing Greenland’s security in the Arctic]]></title>
-<link>https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b</link>
-<pubDate>Tue, 13 Jan 2026 19:21:45 -0000</pubDate>
+<title><![CDATA[Russia attacks Ukraine’s power grid again in freezing temperatures]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-missile-attack-aa7d5c2e54619fefabab72165444f8e3</link>
+<pubDate>Wed, 14 Jan 2026 03:02:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU targets Ukraine’s military needs with massive new loan program plus billions in budget support]]></title>
-<link>https://apnews.com/article/eu-funds-ukraine-loan-russia-war-military-91052fbed37575ab76f15205f3fd7b4f</link>
-<pubDate>Wed, 14 Jan 2026 13:54:41 -0000</pubDate>
+<title><![CDATA[Forget tariff wars: The EU and Mercosur build one of the world’s biggest free-trade zones]]></title>
+<link>https://apnews.com/article/argentina-mercosur-european-union-trade-lula-milei-trump-china-c61f55cd655fd8695f3edcd6ee5a5b9e</link>
+<pubDate>Thu, 15 Jan 2026 06:54:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ugandan voters face soldiers in the street and an internet shutdown before presidential election]]></title>
+<link>https://apnews.com/article/uganda-election-yoweri-museveni-bobi-wine-1743698c9d63b8fc8c73674baf30f813</link>
+<pubDate>Thu, 15 Jan 2026 06:39:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ugandan opposition leader campaigns in flak jacket]]></title>
 <link>https://apnews.com/article/uganda-election-wine-photo-dabe0a37631b642030bb70f7b8924ed3</link>
 <pubDate>Wed, 14 Jan 2026 06:24:38 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Off the ballot, Ugandan president’s son waits in the wings this election]]></title>
 <link>https://apnews.com/article/uganda-presidents-son-muhoozi-army-election-9005cd934b2f294b027bb4a00c8a7d95</link>
 <pubDate>Tue, 13 Jan 2026 12:27:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyan women lost their husbands and then their land. But some are fighting back]]></title>
-<link>https://apnews.com/article/kenya-widows-women-land-inheritance-rights-07a8482eefd789dc6e58dfd4fe94c877</link>
-<pubDate>Mon, 12 Jan 2026 04:32:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,6 +158,12 @@
 <title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
 <link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
 <pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[X says Grok, Musk’s AI chatbot, is blocked from undressing images in places where it’s illegal]]></title>
+<link>https://apnews.com/article/grok-musk-deepfake-nudification-abuse-f0d62ec68576dcfe203cada2424bd107</link>
+<pubDate>Thu, 15 Jan 2026 06:54:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU targets Ukraine’s military needs with massive new loan program plus billions in budget support]]></title>
+<link>https://apnews.com/article/eu-funds-ukraine-loan-russia-war-military-91052fbed37575ab76f15205f3fd7b4f</link>
+<pubDate>Thu, 15 Jan 2026 06:39:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Free Starlink access for Iran seen as game changer for demonstrators getting their message out]]></title>
 <link>https://apnews.com/article/iran-protests-starlink-spacex-musk-satellite-9c153cf164959ddd99e4d0f0d4ebd544</link>
 <pubDate>Thu, 15 Jan 2026 02:52:46 -0000</pubDate>
@@ -326,18 +338,6 @@
 <title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-vertical-photos-ice-renee-good-trump-iran-protests-venezuela-dda2f1dab66de85df094f12de26691b8</link>
 <pubDate>Wed, 14 Jan 2026 08:02:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong officials want to expand oversight of building maintenance after deadly fire]]></title>
-<link>https://apnews.com/article/hong-kong-fire-building-safety-oversight-1c6174de3656a953a7c1599eca4efe8b</link>
-<pubDate>Wed, 14 Jan 2026 12:08:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran signals plans for fast trials and executions while promising retaliation against US, Israel]]></title>
-<link>https://apnews.com/article/iran-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f</link>
-<pubDate>Thu, 15 Jan 2026 02:37:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A construction crane falls onto a moving train in Thailand, killing at least 32 people]]></title>
-<link>https://apnews.com/article/thailand-train-construction-crane-accident-deaths-4103e4d6806fe007d4e35f5eb9133a97</link>
-<pubDate>Wed, 14 Jan 2026 13:09:43 -0000</pubDate>
+<title><![CDATA[Thailand suffers another construction accident just a day after rail tragedy that killed 32]]></title>
+<link>https://apnews.com/article/thailand-railway-construction-crane-expressway-503e0c3b0091a563f653203cf35a0b3b</link>
+<pubDate>Thu, 15 Jan 2026 06:39:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ugandan voters face soldiers in the street and an internet shutdown before presidential election]]></title>
-<link>https://apnews.com/article/uganda-election-yoweri-museveni-bobi-wine-1743698c9d63b8fc8c73674baf30f813</link>
-<pubDate>Wed, 14 Jan 2026 07:32:09 -0000</pubDate>
+<title><![CDATA[Voting begins in Uganda’s presidential election during internet shutdown and polling station delays]]></title>
+<link>https://apnews.com/article/uganda-election-museveni-kyagulanyi-bobi-wine-8231b6ec57cf93cc67bcfd0ea4a46136</link>
+<pubDate>Thu, 15 Jan 2026 06:24:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal officer shoots person in leg after being attacked during Minneapolis arrest, officials say]]></title>
-<link>https://apnews.com/article/immigration-crackdown-minnesota-renee-good-337c778dc7667e765697ea2173220fe1</link>
-<pubDate>Thu, 15 Jan 2026 03:15:40 -0000</pubDate>
+<title><![CDATA[Fear and anger spread after another immigration shooting in Minneapolis]]></title>
+<link>https://apnews.com/article/immigration-crackdown-minnesota-shootings-renee-good-a0c368079c106b599245996fded8c1b9</link>
+<pubDate>Thu, 15 Jan 2026 06:09:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
