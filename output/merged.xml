@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 16 Jan 2026 07:16:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 07:42:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian swimmer among activists cleared by Greek court of aiding migrant rescues]]></title>
 <link>https://apnews.com/article/greece-court-migration-trial-mardini-db069c553029504a3f5b31281b3628bb</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[European troops arrive in Greenland as talks with US highlight ‘disagreement’ over island’s future]]></title>
+<link>https://apnews.com/article/greenland-united-states-denmark-trump-vance-rubio-meeting-b10f5151008f1f18a788dc0751473c0e</link>
+<pubDate>Fri, 16 Jan 2026 07:42:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What’s next for Greenland and Denmark after difficult meeting with Trump administration]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-diplomacy-military-options-502b9d33a42fd368dd2e9f7db59ba353</link>
 <pubDate>Thu, 15 Jan 2026 13:39:55 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[International media flock to Greenland as Trump turns the Arctic island into a geopolitical hot spot]]></title>
 <link>https://apnews.com/article/greenland-united-states-journalists-international-media-56700602f0873102e94b3c5c43cc5a1a</link>
 <pubDate>Thu, 15 Jan 2026 20:13:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelans in Spain are caught between hope and fear after Maduro’s capture]]></title>
-<link>https://apnews.com/article/spain-venezuela-maduro-capture-9647d2bb367dcafef85e56de8f430ecd</link>
-<pubDate>Fri, 16 Jan 2026 06:04:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela’s Machado says she presented her Nobel Peace Prize to Trump during their meeting]]></title>
+<link>https://apnews.com/article/trump-machado-venezuela-maduro-nobel-peace-prize-ed23992bccabf128b7e849259d3c29a8</link>
+<pubDate>Fri, 16 Jan 2026 07:27:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show daily life along Venezuela’s oil coast after Maduro’s capture]]></title>
 <link>https://apnews.com/photo-gallery/oil-industry-coast-paraguana-photos-fisherman-salt-flats-569102f029e69fb452ea58a8927feb68</link>
 <pubDate>Fri, 16 Jan 2026 00:12:00 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers]]></title>
 <link>https://apnews.com/article/cuba-32-bodies-repatriated-us-venezuela-killed-ae6597fff284a2e87a422d968eb765e5</link>
 <pubDate>Fri, 16 Jan 2026 02:56:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Supreme Court moves Bolsonaro to larger cell with outdoor area]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-prison-68d63217f7f7e7cc6da5d48a47bd0593</link>
-<pubDate>Thu, 15 Jan 2026 22:43:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Point made. Tennis stars like Sinner, Swiatek and Coco Gauff loved the 1-point Australian Open prep]]></title>
+<link>https://apnews.com/article/1-point-slam-australia-sinner-gauff-swiatek-56e046e30ace8f0ef8291106c7003062</link>
+<pubDate>Fri, 16 Jan 2026 07:42:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asian shares are mixed and US futures edge higher after Wall Street steadies]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-ai-de230d7cc846c215b4d004416b12bf1e</link>
 <pubDate>Fri, 16 Jan 2026 06:19:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelans in Spain are caught between hope and fear after Maduro’s capture]]></title>
+<link>https://apnews.com/article/spain-venezuela-maduro-capture-9647d2bb367dcafef85e56de8f430ecd</link>
+<pubDate>Fri, 16 Jan 2026 07:27:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +206,12 @@
 <title><![CDATA[US names major sporting events other than World Cup, Olympics exempt from Trump visa ban]]></title>
 <link>https://apnews.com/article/trump-visas-travel-ban-world-cup-olympics-869bace5a2eb40b7f1aac1e6b8667474</link>
 <pubDate>Fri, 16 Jan 2026 00:42:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Supreme Court moves Bolsonaro to larger cell with outdoor area]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-prison-68d63217f7f7e7cc6da5d48a47bd0593</link>
+<pubDate>Fri, 16 Jan 2026 07:12:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,24 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope meets families of young Italian victims of the Swiss Alps bar fire]]></title>
-<link>https://apnews.com/article/vatican-switzerland-bar-fire-italy-pope-victims-d58bb91d7b0803b0b6bffb4a02048d11</link>
-<pubDate>Thu, 15 Jan 2026 14:36:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rachel Goldberg-Polin’s memoir recounts her journey after her son’s abduction by Hamas]]></title>
-<link>https://apnews.com/article/rachel-goldbergpolin-memoir-son-hamas-hostage-0d6295ba748bdd2f1a31f007ac7651ee</link>
-<pubDate>Thu, 15 Jan 2026 14:21:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish Airlines flight makes emergency landing in Barcelona after ‘threat’ alert]]></title>
-<link>https://apnews.com/article/turkish-airlines-emergency-landing-threat-barcelona-5ea2fedc73d06074e805de20e5b94dff</link>
-<pubDate>Thu, 15 Jan 2026 13:39:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US warns Iran that ‘all options are on the table’ in emergency UN meeting]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-trump-us-flights-airspace-cba8a40c366f5bca855f465b6c717b25</link>
 <pubDate>Thu, 15 Jan 2026 22:43:11 -0000</pubDate>
@@ -365,21 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European troops arrive in Greenland as talks with US highlight ‘disagreement’ over island’s future]]></title>
-<link>https://apnews.com/article/greenland-united-states-denmark-trump-vance-rubio-meeting-b10f5151008f1f18a788dc0751473c0e</link>
-<pubDate>Thu, 15 Jan 2026 11:52:58 -0000</pubDate>
+<title><![CDATA[In their words: Greenlanders talk about Trump’s desire to own their Arctic island]]></title>
+<link>https://apnews.com/article/greenland-united-states-denmark-arctic-9d24bac57acc1c6e88fb73840ebe0720</link>
+<pubDate>Fri, 16 Jan 2026 07:42:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US and Taiwan sign $250B trade deal, cutting tariffs on Taiwanese goods]]></title>
 <link>https://apnews.com/article/semiconductors-chips-tsmc-taiwan-trump-china-95de4082d5e36a3c0a0b00f613a5df39</link>
 <pubDate>Thu, 15 Jan 2026 21:43:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela’s new leader calls for opening oil industry to foreign investment and warmer US ties]]></title>
-<link>https://apnews.com/article/venezuela-delcy-rodriguez-state-of-union-trump-us-b5c53860386752930a56d1d8846d6440</link>
-<pubDate>Fri, 16 Jan 2026 02:56:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s Machado says she presented her Nobel Peace Prize to Trump during their meeting]]></title>
-<link>https://apnews.com/article/trump-machado-venezuela-maduro-nobel-peace-prize-ed23992bccabf128b7e849259d3c29a8</link>
-<pubDate>Thu, 15 Jan 2026 22:28:11 -0000</pubDate>
+<title><![CDATA[Venezuela’s new leader calls for opening oil industry to foreign investment and warmer US ties]]></title>
+<link>https://apnews.com/article/venezuela-delcy-rodriguez-state-of-union-trump-us-b5c53860386752930a56d1d8846d6440</link>
+<pubDate>Fri, 16 Jan 2026 02:56:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A timeline of how the protests in Iran unfolded and grew]]></title>
+<title><![CDATA[A timeline of how the protests in Iran unfolded and the crackdown that followed]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
-<pubDate>Fri, 09 Jan 2026 08:51:06 -0000</pubDate>
+<pubDate>Fri, 16 Jan 2026 07:27:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
