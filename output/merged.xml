@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 16 Jan 2026 02:56:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 03:59:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mummified cheetahs found in Saudi caves shed light on lost populations]]></title>
 <link>https://apnews.com/article/cheetah-mummy-saudi-arabia-caves-f4a42d5842eb3ff1a97a151c2b502255</link>
@@ -77,12 +77,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ugandan voters face soldiers in the street and an internet shutdown before presidential election]]></title>
-<link>https://apnews.com/article/uganda-election-yoweri-museveni-bobi-wine-1743698c9d63b8fc8c73674baf30f813</link>
-<pubDate>Thu, 15 Jan 2026 06:39:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ugandan opposition leader campaigns in flak jacket]]></title>
 <link>https://apnews.com/article/uganda-election-wine-photo-dabe0a37631b642030bb70f7b8924ed3</link>
 <pubDate>Wed, 14 Jan 2026 06:24:38 -0000</pubDate>
@@ -92,6 +86,12 @@
 <title><![CDATA[Discussions to end Sudan war resume in Cairo as it nears the 3-year mark]]></title>
 <link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
 <pubDate>Wed, 14 Jan 2026 23:34:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s recognition of breakaway Somaliland brings uproar and threats to a volatile region]]></title>
+<link>https://apnews.com/article/israel-somaliland-gaza-palestinians-somalia-recognition-f512b6ab8d17833229376417287a372b</link>
+<pubDate>Wed, 14 Jan 2026 17:19:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Explosion in the Netherlands injures at least 4 and causes widespread damage]]></title>
+<title><![CDATA[Explosion damages homes and injures at least 4 in the Netherlands]]></title>
 <link>https://apnews.com/article/netherlands-utrecht-explosion-injuries-fire-b8d426ae3f9d14cbf726e509aec4defb</link>
-<pubDate>Thu, 15 Jan 2026 17:20:13 -0000</pubDate>
+<pubDate>Fri, 16 Jan 2026 03:59:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
