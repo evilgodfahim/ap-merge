@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 16 Jan 2026 15:13:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 15:43:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Analysis: Scale of protests and violence in Iran echoes chaos around its 1979 Islamic Revolution]]></title>
 <link>https://apnews.com/article/iran-protests-1979-revolution-analysis-c06cfb0df138c78f00641324bf74ffe8</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa investigates Iran’s participation in naval drills off its coast after US criticism]]></title>
+<link>https://apnews.com/article/iran-south-africa-united-states-military-warships-a42810b272de325eae7d7ef6708226ce</link>
+<pubDate>Fri, 16 Jan 2026 15:43:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tanzania president remorseful over internet shutdown on election day]]></title>
 <link>https://apnews.com/article/tanzania-samia-suluhu-hassan-internet-shutdown-october-election-1ec66b897e7809865d8971699a7284e0</link>
 <pubDate>Thu, 15 Jan 2026 21:10:47 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Ugandan opposition leader campaigns in flak jacket]]></title>
 <link>https://apnews.com/article/uganda-election-wine-photo-dabe0a37631b642030bb70f7b8924ed3</link>
 <pubDate>Wed, 14 Jan 2026 06:24:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Discussions to end Sudan war resume in Cairo as it nears the 3-year mark]]></title>
-<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
-<pubDate>Wed, 14 Jan 2026 23:34:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prayer leader in Iran and the faithful call for executions over protests, a red line for Trump]]></title>
+<title><![CDATA[A hard-line cleric in Iran calls for executions over protests, a red line for Trump]]></title>
 <link>https://apnews.com/article/iran-protests-us-trump-khatami-0934b4a569a3f6c60c9706b1d8a40287</link>
-<pubDate>Fri, 16 Jan 2026 13:10:10 -0000</pubDate>
+<pubDate>Fri, 16 Jan 2026 15:43:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US futures gain as 1st week of earnings season ends with markets near near records]]></title>
+<title><![CDATA[Stocks waver on Wall Street and remain near records]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-ai-de230d7cc846c215b4d004416b12bf1e</link>
-<pubDate>Fri, 16 Jan 2026 12:55:10 -0000</pubDate>
+<pubDate>Fri, 16 Jan 2026 15:28:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
