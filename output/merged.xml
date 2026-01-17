@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 17 Jan 2026 05:41:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 06:17:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Protesters rally in south Yemen to call for a separate state]]></title>
 <link>https://apnews.com/article/yemen-protesters-aden-southern-transitional-council-0fd93e4760f86ba3fc86664d15ddb7a7</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In their words, Greenlanders talk about Trump’s desire to own their Arctic island]]></title>
+<link>https://apnews.com/article/greenland-united-states-denmark-arctic-9d24bac57acc1c6e88fb73840ebe0720</link>
+<pubDate>Sat, 17 Jan 2026 06:17:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In Spain, Venezuelan migrants balance hope and fear about their country’s future]]></title>
 <link>https://apnews.com/article/spain-venezuela-maduro-capture-9647d2bb367dcafef85e56de8f430ecd</link>
 <pubDate>Fri, 16 Jan 2026 11:38:55 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Trump says he may punish countries with tariffs if they don’t back the US controlling Greenland]]></title>
 <link>https://apnews.com/article/denmark-greenland-us-trump-tariffs-c8c17c89cbc4ca9819eb728102d0a2b3</link>
 <pubDate>Sat, 17 Jan 2026 05:12:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Julio Iglesias calls sexual abuse allegations against him ‘absolutely untrue’]]></title>
-<link>https://apnews.com/article/julio-iglesias-sexual-assault-accusations-26c85c676727da9a00d7b1d2caa4b239</link>
-<pubDate>Fri, 16 Jan 2026 13:44:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Actor Timothy Busfield’s attorneys say an investigation undermines state’s child sex abuse charges]]></title>
+<link>https://apnews.com/article/timothy-busfield-child-sex-abuse-charges-6f5db56a12be69202d14d07ee90d5010</link>
+<pubDate>Sat, 17 Jan 2026 06:17:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Morocco hosts Senegal for the Africa Cup final. Here’s what you need to know]]></title>
 <link>https://apnews.com/article/africa-cup-morocco-senegal-final-preview-23a0a7b2d069dccbcb23b282cc8a37a7</link>
 <pubDate>Sat, 17 Jan 2026 05:12:25 -0000</pubDate>
@@ -275,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Julio Iglesias calls sexual abuse allegations against him ‘absolutely untrue’]]></title>
+<link>https://apnews.com/article/julio-iglesias-sexual-assault-accusations-26c85c676727da9a00d7b1d2caa4b239</link>
+<pubDate>Sat, 17 Jan 2026 06:02:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Test your knowledge on Trump’s first year back in the White House]]></title>
 <link>https://apnews.com/article/trump-quiz-first-year-second-term-white-house</link>
 <pubDate>Fri, 16 Jan 2026 10:13:32 -0000</pubDate>
@@ -338,18 +350,6 @@
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/pictures-week-global-photo-gallery-photos-3c6f016f9f21f283f006035be9102af2</link>
 <pubDate>Thu, 15 Jan 2026 21:25:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New Czech government of populist leader Andrej Babiš wins a mandatory confidence vote]]></title>
-<link>https://apnews.com/article/czech-new-government-confidence-vote-babis-34a9ee9ea171d70268112b146b8dbfa5</link>
-<pubDate>Fri, 16 Jan 2026 02:56:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Defense Department says military newspaper Stars and Stripes must eliminate ‘woke distractions’]]></title>
-<link>https://apnews.com/article/stars-stripes-pentagon-trump-hegseth-3bcc613b19a92587b16ce5d9adddffec</link>
-<pubDate>Thu, 15 Jan 2026 21:10:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In their words, Greenlanders talk about Trump’s desire to own their Arctic island]]></title>
-<link>https://apnews.com/article/greenland-united-states-denmark-arctic-9d24bac57acc1c6e88fb73840ebe0720</link>
-<pubDate>Sat, 17 Jan 2026 03:50:14 -0000</pubDate>
+<title><![CDATA[Photos of horses leaping through flames in centuries-old Spanish tradition]]></title>
+<link>https://apnews.com/photo-gallery/spain-horse-fire-las-luminarias-festival-st-anthony-5496d381d2e4e22d8ec05004499a44dc</link>
+<pubDate>Sat, 17 Jan 2026 06:17:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
