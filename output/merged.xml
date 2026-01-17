@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 17 Jan 2026 09:38:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 10:11:22 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kurdish-led forces to withdraw from contested area in Syria]]></title>
+<link>https://apnews.com/article/syria-aleppo-sdf-kurds-deir-hafer-us-d287ef2425bee41d485ee99f4d61a70f</link>
+<pubDate>Sat, 17 Jan 2026 10:11:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Protesters rally in south Yemen to call for a separate state]]></title>
 <link>https://apnews.com/article/yemen-protesters-aden-southern-transitional-council-0fd93e4760f86ba3fc86664d15ddb7a7</link>
 <pubDate>Fri, 16 Jan 2026 18:18:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Libya to try a gang member linked to a mass grave of 21 migrants for human trafficking]]></title>
-<link>https://apnews.com/article/migrants-libya-mass-grave-ac274da4a2c0dbb70c9995c185057be5</link>
-<pubDate>Fri, 16 Jan 2026 18:03:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A South Korean court sentences Yoon to 5 years in prison on charges related to martial law decree]]></title>
+<link>https://apnews.com/article/south-korea-yoon-martial-law-arrest-893ccfbd6432af36028732563769393b</link>
+<pubDate>Sat, 17 Jan 2026 09:56:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada agrees to cut its 100% tariff on Chinese EVs, breaking with the US]]></title>
 <link>https://apnews.com/article/china-canada-carney-xi-beijing-b71c1b67d3489a8b4058c650152b0cb9</link>
 <pubDate>Sat, 17 Jan 2026 08:45:10 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[At top UN court, Myanmar denies deadly Rohingya campaign amounts to genocide]]></title>
 <link>https://apnews.com/article/rohingya-myanmar-gambia-genocide-icj-court-889d610a194ac1030fac822ab52fb6e5</link>
 <pubDate>Fri, 16 Jan 2026 11:23:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar military-backed party extends lead ahead of final election round]]></title>
-<link>https://apnews.com/article/myanmar-election-union-solidarity-development-party-second-round-voting-fa8d7ad8dec1ece541218388c402df6a</link>
-<pubDate>Fri, 16 Jan 2026 17:48:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Libya to try a gang member linked to a mass grave of 21 migrants for human trafficking]]></title>
+<link>https://apnews.com/article/migrants-libya-mass-grave-ac274da4a2c0dbb70c9995c185057be5</link>
+<pubDate>Fri, 16 Jan 2026 18:03:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tanzania president remorseful over internet shutdown on election day]]></title>
 <link>https://apnews.com/article/tanzania-samia-suluhu-hassan-internet-shutdown-october-election-1ec66b897e7809865d8971699a7284e0</link>
 <pubDate>Thu, 15 Jan 2026 21:10:47 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Ugandan opposition leader campaigns in flak jacket]]></title>
 <link>https://apnews.com/article/uganda-election-wine-photo-dabe0a37631b642030bb70f7b8924ed3</link>
 <pubDate>Wed, 14 Jan 2026 06:24:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Discussions to end Sudan war resume in Cairo as it nears the 3-year mark]]></title>
-<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
-<pubDate>Wed, 14 Jan 2026 23:34:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar military-backed party extends lead ahead of final election round]]></title>
+<link>https://apnews.com/article/myanmar-election-union-solidarity-development-party-second-round-voting-fa8d7ad8dec1ece541218388c402df6a</link>
+<pubDate>Sat, 17 Jan 2026 10:11:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of daily life in Greenland as Trump pushes to take it over]]></title>
 <link>https://apnews.com/photo-gallery/greenland-united-states-trump-5a0f5d4d245b42949c07d0723ad4d660</link>
 <pubDate>Fri, 16 Jan 2026 18:03:27 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show daily life along Venezuela’s oil coast after Maduro’s capture]]></title>
-<link>https://apnews.com/photo-gallery/oil-industry-coast-paraguana-photos-fisherman-salt-flats-569102f029e69fb452ea58a8927feb68</link>
-<pubDate>Fri, 16 Jan 2026 17:33:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[No sign of new protests in Iran as a hard-line cleric calls for executions and threatens Trump]]></title>
 <link>https://apnews.com/article/iran-protests-us-trump-khatami-0934b4a569a3f6c60c9706b1d8a40287</link>
 <pubDate>Fri, 16 Jan 2026 16:51:31 -0000</pubDate>
@@ -356,6 +356,12 @@
 <title><![CDATA[Family of Iranian protester searched for her body in a pile of corpses and buried her on a roadside]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-killings-student-aminian-3bcf37ee725bc59ac672b6a55f7cea56</link>
 <pubDate>Sat, 17 Jan 2026 08:45:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Analysis: Canada’s leader leaves China pronouncing success, but Trump lurks in the background]]></title>
+<link>https://apnews.com/article/china-canada-us-xi-carney-trump-404596761e826bbdc1e0313062902137</link>
+<pubDate>Sat, 17 Jan 2026 10:11:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A South Korean court sentences Yoon to 5 years in prison on charges related to martial law decree]]></title>
-<link>https://apnews.com/article/south-korea-yoon-martial-law-arrest-893ccfbd6432af36028732563769393b</link>
-<pubDate>Fri, 16 Jan 2026 06:19:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump: ‘I greatly respect’ Iran’s cancelling of the hangings]]></title>
 <link>https://apnews.com/video/trump-i-greatly-respect-irans-cancelling-of-the-hangings-8568695b8890493f9a15d9ceefeb5d2a</link>
 <pubDate>Sat, 17 Jan 2026 02:44:57 -0000</pubDate>
@@ -386,6 +386,12 @@
 <title><![CDATA[Prime Minister Carney: Canada and China ‘forging a new strategic partnership’]]></title>
 <link>https://apnews.com/video/prime-minister-carney-canada-and-china-forging-a-new-strategic-partnership-450b386b503440ed84ca495afbbb907e</link>
 <pubDate>Sat, 17 Jan 2026 02:29:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[She set a photo afire, lit a cigarette — and became a symbol of resistance for Iran protesters]]></title>
+<link>https://apnews.com/article/woman-cigarette-iran-ayatollah-protest-viral-06bc57dd42c0e250a98074f0ee00b555</link>
+<pubDate>Fri, 16 Jan 2026 08:49:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +410,6 @@
 <title><![CDATA[Kurdish separatist group claims to have mounted ‘armed operations’ in Iran to defend protesters]]></title>
 <link>https://apnews.com/article/iran-iraq-kurdish-separatists-pak-attack-c04c8c65d4e2241476ed210cf7134327</link>
 <pubDate>Fri, 16 Jan 2026 14:14:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kurdish-led forces to withdraw from contested area in Syria]]></title>
-<link>https://apnews.com/article/syria-aleppo-sdf-kurds-deir-hafer-us-d287ef2425bee41d485ee99f4d61a70f</link>
-<pubDate>Fri, 16 Jan 2026 22:11:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
