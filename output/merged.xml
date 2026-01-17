@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 17 Jan 2026 08:14:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 08:45:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Protesters rally in south Yemen to call for a separate state]]></title>
 <link>https://apnews.com/article/yemen-protesters-aden-southern-transitional-council-0fd93e4760f86ba3fc86664d15ddb7a7</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canada agrees to cut its 100% tariff on Chinese EVs, breaking with the US]]></title>
+<link>https://apnews.com/article/china-canada-carney-xi-beijing-b71c1b67d3489a8b4058c650152b0cb9</link>
+<pubDate>Sat, 17 Jan 2026 08:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[At top UN court, Myanmar denies deadly Rohingya campaign amounts to genocide]]></title>
 <link>https://apnews.com/article/rohingya-myanmar-gambia-genocide-icj-court-889d610a194ac1030fac822ab52fb6e5</link>
 <pubDate>Fri, 16 Jan 2026 11:23:55 -0000</pubDate>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Social media ban resulted in 4.7 million accounts being removed in Australia]]></title>
-<link>https://apnews.com/article/australia-social-media-ban-children-2ae8c00402098db69797eb64c52e3d56</link>
-<pubDate>Fri, 16 Jan 2026 08:49:45 -0000</pubDate>
+<title><![CDATA[Mexican president highlights ‘compelling results’ in crackdown of cartels in face of Trump threats]]></title>
+<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-582836f84da21a61ec75d4c7be880fef</link>
+<pubDate>Sat, 17 Jan 2026 08:30:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,24 +68,6 @@
 <title><![CDATA[CIA director meets Venezuela’s acting president in Caracas]]></title>
 <link>https://apnews.com/article/ratcliffe-cia-venezuela-maduro-trump-7f29b37161100b6cab31036f5292559d</link>
 <pubDate>Fri, 16 Jan 2026 17:33:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Lula hails historic EU-Mercosur deal ahead of no-show at its signing]]></title>
-<link>https://apnews.com/article/brazil-mercosur-eu-trade-590d5c9296e1a6adbd7a6ee5d8f5661f</link>
-<pubDate>Sat, 17 Jan 2026 04:57:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Gaza ceasefire plan faces great uncertainty as it moves into a new phase]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-trump-ceasefire-plan-22d24eb0c279e192e4726b6acb32f005</link>
-<pubDate>Fri, 16 Jan 2026 16:51:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Uganda’s president leads in tense election marred by internet shutdown and voting interference]]></title>
-<link>https://apnews.com/article/uganda-election-yoweri-museveni-bobi-wine-81719cda953ef03e365d7b6409d4ff8b</link>
-<pubDate>Fri, 16 Jan 2026 13:10:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -98,6 +86,12 @@
 <title><![CDATA[Ugandan opposition leader campaigns in flak jacket]]></title>
 <link>https://apnews.com/article/uganda-election-wine-photo-dabe0a37631b642030bb70f7b8924ed3</link>
 <pubDate>Wed, 14 Jan 2026 06:24:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Discussions to end Sudan war resume in Cairo as it nears the 3-year mark]]></title>
+<link>https://apnews.com/article/sudan-peace-talks-cairo-rsf-darfur-army-777a15f219b445613d4cd265da4e2dee</link>
+<pubDate>Wed, 14 Jan 2026 23:34:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,27 +119,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Thailand’s deadly construction accidents are sparking outrage and scrutiny]]></title>
-<link>https://apnews.com/article/thailand-construction-cranes-railway-building-collapse-0e209e157c6ce168189ce28f5cd98b34</link>
-<pubDate>Fri, 16 Jan 2026 21:56:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan hails its ‘best’ trade deal with US, as China protests]]></title>
-<link>https://apnews.com/article/taiwan-us-china-tsmc-trump-c4ef262af7cf5f75c1a4ada5e03bdfa1</link>
-<pubDate>Fri, 16 Jan 2026 09:43:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[White House and governors pressure grid operator to boost power supply]]></title>
 <link>https://apnews.com/article/trump-electricity-ai-data-centers-62e8118b069f36aa9d0844f904047933</link>
 <pubDate>Sat, 17 Jan 2026 02:44:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Survey says slowing economy is the No. 1 worry for US businesses in China, not trade friction]]></title>
+<link>https://apnews.com/article/china-us-business-economy-trade-trump-a8f0f1faedadf4f1885f765486bc4e86</link>
+<pubDate>Sat, 17 Jan 2026 08:15:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[At Detroit auto show, spotlight dims for EVs]]></title>
 <link>https://apnews.com/article/detroit-auto-show-electric-vehicles-evs-trump-7dda882748aea036821009340e6dbaa8</link>
 <pubDate>Fri, 16 Jan 2026 05:02:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lawmakers propose $2.5B agency to boost production of rare earths and other critical minerals]]></title>
+<link>https://apnews.com/article/congress-trump-china-rare-earths-minerals-bc17f99065400233c3dadd7bb4c6521b</link>
+<pubDate>Thu, 15 Jan 2026 20:25:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,18 @@
 <title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
 <link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
 <pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fiorentina owner and Mediacom chairman Rocco Commisso dies at 76]]></title>
+<link>https://apnews.com/article/rocco-commisso-fiorentina-86ac3db4536a493197d6cab5a95c1da2</link>
+<pubDate>Sat, 17 Jan 2026 08:45:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Djokovic’s new approach heading into the Australian Open: ’24 is not a bad number’]]></title>
+<link>https://apnews.com/article/novak-djokovic-australian-open-tennis-dbd58a0c7571479af09bc0d3da4de9b5</link>
+<pubDate>Sat, 17 Jan 2026 08:30:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +206,12 @@
 <title><![CDATA[Trump offers to restart US mediation in Nile River dispute between Egypt and Ethiopia]]></title>
 <link>https://apnews.com/article/trump-nile-egypt-ethiopia-us-mediation-ba5c3b0a96889e2ee0249e4522cd4577</link>
 <pubDate>Fri, 16 Jan 2026 23:39:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Lula hails historic EU-Mercosur deal ahead of no-show at its signing]]></title>
+<link>https://apnews.com/article/brazil-mercosur-eu-trade-590d5c9296e1a6adbd7a6ee5d8f5661f</link>
+<pubDate>Fri, 16 Jan 2026 19:33:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,9 +311,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Uganda’s president leads in tense election marred by internet shutdown and voting interference]]></title>
+<link>https://apnews.com/article/uganda-election-yoweri-museveni-bobi-wine-81719cda953ef03e365d7b6409d4ff8b</link>
+<pubDate>Sat, 17 Jan 2026 08:15:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Point made. Tennis stars like Sinner, Swiatek and Coco Gauff loved the 1-point Australian Open prep]]></title>
 <link>https://apnews.com/article/1-point-slam-australia-sinner-gauff-swiatek-56e046e30ace8f0ef8291106c7003062</link>
 <pubDate>Fri, 16 Jan 2026 07:42:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Stocks edge a bit below their latest records on Wall Street]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-ai-de230d7cc846c215b4d004416b12bf1e</link>
+<pubDate>Sat, 17 Jan 2026 08:00:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,39 +347,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Venezuela caught between Machado’s diplomacy and Rodríguez’s rule]]></title>
-<link>https://apnews.com/photo-gallery/trump-machado-venezuela-nobel-prize-photos-rodriguez-de5976deb4f392c8ab88f3d97cfdc730</link>
-<pubDate>Fri, 16 Jan 2026 00:57:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US names major sporting events other than World Cup, Olympics exempt from Trump visa ban]]></title>
-<link>https://apnews.com/article/trump-visas-travel-ban-world-cup-olympics-869bace5a2eb40b7f1aac1e6b8667474</link>
-<pubDate>Fri, 16 Jan 2026 00:42:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Supreme Court moves Bolsonaro to larger cell with outdoor area]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-prison-68d63217f7f7e7cc6da5d48a47bd0593</link>
-<pubDate>Fri, 16 Jan 2026 07:12:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Middle East allies in blitz of diplomacy urged Trump to hold off on Iran strikes, diplomat says]]></title>
-<link>https://apnews.com/article/trump-iran-middle-east-allies-strikes-diplomat-24f75a6b2ab3716be47163fcb0817bc7</link>
-<pubDate>Thu, 15 Jan 2026 21:40:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/pictures-week-global-photo-gallery-photos-3c6f016f9f21f283f006035be9102af2</link>
-<pubDate>Thu, 15 Jan 2026 21:25:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[No sign of new protests in Iran as a hard-line cleric calls for executions and threatens Trump]]></title>
 <link>https://apnews.com/article/iran-protests-us-trump-khatami-0934b4a569a3f6c60c9706b1d8a40287</link>
 <pubDate>Fri, 16 Jan 2026 16:51:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Family of Iranian protester searched for her body in a pile of corpses and buried her on a roadside]]></title>
+<link>https://apnews.com/article/iran-protests-crackdown-killings-student-aminian-3bcf37ee725bc59ac672b6a55f7cea56</link>
+<pubDate>Sat, 17 Jan 2026 08:45:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ugandan police deny arrest of opposition leader as country awaits final election results]]></title>
+<link>https://apnews.com/article/uganda-election-bobi-wine-arrested-yoweri-museveni-7ba4e6d8ecf1eace2cb9c46453594346</link>
+<pubDate>Sat, 17 Jan 2026 08:30:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US warns Iran that ‘all options are on the table’ in emergency UN meeting]]></title>
-<link>https://apnews.com/article/iran-protests-crackdown-trump-us-flights-airspace-cba8a40c366f5bca855f465b6c717b25</link>
-<pubDate>Thu, 15 Jan 2026 22:43:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A South Korean court sentences Yoon to 5 years in prison on charges related to martial law decree]]></title>
 <link>https://apnews.com/article/south-korea-yoon-martial-law-arrest-893ccfbd6432af36028732563769393b</link>
 <pubDate>Fri, 16 Jan 2026 06:19:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexican president highlights ‘compelling results’ in crackdown of cartels in face of Trump threats]]></title>
-<link>https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-582836f84da21a61ec75d4c7be880fef</link>
-<pubDate>Fri, 16 Jan 2026 16:36:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,33 +413,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UEFA cites fall in US dollar last year for $55 million loss in accounts]]></title>
-<link>https://apnews.com/article/uefa-finances-us-dollar-82523ad5b2b13427a596b89e72ff4ab3</link>
-<pubDate>Fri, 16 Jan 2026 08:19:46 -0000</pubDate>
+<title><![CDATA[Chinese EVs are making inroads in North America. That worries industry experts]]></title>
+<link>https://apnews.com/article/china-electric-vehicles-automakers-canada-tariffs-7d396ab9ab0a7ee6c2c56cda23534918</link>
+<pubDate>Fri, 16 Jan 2026 21:41:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Survey says slowing economy is the No. 1 worry for US businesses in China, not trade friction]]></title>
-<link>https://apnews.com/article/china-us-business-economy-trade-trump-a8f0f1faedadf4f1885f765486bc4e86</link>
-<pubDate>Fri, 16 Jan 2026 05:02:35 -0000</pubDate>
+<title><![CDATA[YouTube relaxes monetization policy on videos with controversial content]]></title>
+<link>https://apnews.com/article/youtube-monetization-update-policy-controversial-issues-545e27e27e26e0baefb937c86620b676</link>
+<pubDate>Sat, 17 Jan 2026 08:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks edge a bit below their latest records on Wall Street]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-ai-de230d7cc846c215b4d004416b12bf1e</link>
-<pubDate>Fri, 16 Jan 2026 21:56:37 -0000</pubDate>
+<title><![CDATA[Why Thailand’s deadly construction accidents are sparking outrage and scrutiny]]></title>
+<link>https://apnews.com/article/thailand-construction-cranes-railway-building-collapse-0e209e157c6ce168189ce28f5cd98b34</link>
+<pubDate>Fri, 16 Jan 2026 15:51:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Free Starlink access for Iran seen as game changer for demonstrators getting their message out]]></title>
-<link>https://apnews.com/article/iran-protests-starlink-spacex-musk-satellite-9c153cf164959ddd99e4d0f0d4ebd544</link>
-<pubDate>Wed, 14 Jan 2026 13:54:43 -0000</pubDate>
+<title><![CDATA[Mother of Elon Musk’s child sues his AI company over sexual deepfake images created by Grok]]></title>
+<link>https://apnews.com/article/grok-deepfakes-lawsuit-elon-musk-5fda06fb0694f036c483395f4d0e4fc3</link>
+<pubDate>Sat, 17 Jan 2026 08:00:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday]]></title>
-<link>https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7</link>
-<pubDate>Fri, 16 Jan 2026 07:49:46 -0000</pubDate>
+<title><![CDATA[Social media ban resulted in 4.7 million accounts being removed in Australia]]></title>
+<link>https://apnews.com/article/australia-social-media-ban-children-2ae8c00402098db69797eb64c52e3d56</link>
+<pubDate>Sat, 17 Jan 2026 07:45:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada agrees to cut its 100% tariff on Chinese EVs, breaking with the US]]></title>
-<link>https://apnews.com/article/china-canada-carney-xi-beijing-b71c1b67d3489a8b4058c650152b0cb9</link>
-<pubDate>Fri, 16 Jan 2026 13:29:35 -0000</pubDate>
+<title><![CDATA[Things to know about the High Seas Treaty as it takes effect]]></title>
+<link>https://apnews.com/article/high-seas-treaty-oceans-overfishing-mining-climate-change-052f310eadaacf0bc1c48b8956e6eacb</link>
+<pubDate>Sat, 17 Jan 2026 07:30:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese EVs are making inroads in North America. That worries industry experts]]></title>
-<link>https://apnews.com/article/china-electric-vehicles-automakers-canada-tariffs-7d396ab9ab0a7ee6c2c56cda23534918</link>
-<pubDate>Fri, 16 Jan 2026 21:41:37 -0000</pubDate>
+<title><![CDATA[Taiwan hails its ‘best’ trade deal with US, as China protests]]></title>
+<link>https://apnews.com/article/taiwan-us-china-tsmc-trump-c4ef262af7cf5f75c1a4ada5e03bdfa1</link>
+<pubDate>Sat, 17 Jan 2026 07:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
