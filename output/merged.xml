@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 18 Jan 2026 18:15:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 18:46:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump confidants, former British leader and Middle East officials are at forefront of US Gaza plan]]></title>
+<link>https://apnews.com/article/mideast-wars-gaza-appointments-efe95e29fb1cfe099f44e3ac48d06fa2</link>
+<pubDate>Sun, 18 Jan 2026 15:10:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iraqi army fully takes over key base following US withdrawal]]></title>
 <link>https://apnews.com/article/iraq-us-ain-assad-troops-withdraw-coalition-3da685f80b49fe2c33a430958e36f771</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
-<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
-<pubDate>Sun, 18 Jan 2026 15:57:50 -0000</pubDate>
+<title><![CDATA[A timeline of how the US and Europe have been at odds]]></title>
+<link>https://apnews.com/article/trump-greenland-us-europe-history-disputes-bbd9b17ae1d653bd1544d8706277b0c3</link>
+<pubDate>Sun, 18 Jan 2026 18:46:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukrainian drone strikes cut power to hundreds of thousands in Russia-occupied southern Ukraine]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-energy-zelenskyy-talks-8e945e499bc5cf8ded99e389f9fd81d9</link>
 <pubDate>Sun, 18 Jan 2026 15:42:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Portugal’s presidential election may deliver another gain for populists in Europe]]></title>
-<link>https://apnews.com/article/portugal-presidential-election-candidates-populist-runoff-9c9976eaff53e70f28050a3556288622</link>
-<pubDate>Sun, 18 Jan 2026 05:43:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Bernice King sees MLK Day as a ‘saving grace’ in today’s political climate]]></title>
-<link>https://apnews.com/article/mlk-holiday-bernice-king-a35864c47b88ab40254f45232a7568f6</link>
-<pubDate>Sun, 18 Jan 2026 14:40:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Small part of Sunshine State becomes Snowy State as Florida gets snow second year in a row]]></title>
 <link>https://apnews.com/article/florida-snow-deep-south-panhandle-d899349708b890876e3f8cc2a0988d56</link>
 <pubDate>Sun, 18 Jan 2026 17:08:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why Bernice King sees MLK Day as a ‘saving grace’ in today’s political climate]]></title>
+<link>https://apnews.com/article/mlk-holiday-bernice-king-a35864c47b88ab40254f45232a7568f6</link>
+<pubDate>Sun, 18 Jan 2026 14:40:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +209,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Portugal’s presidential election may deliver another gain for populists in Europe]]></title>
+<link>https://apnews.com/article/portugal-presidential-election-candidates-populist-runoff-9c9976eaff53e70f28050a3556288622</link>
+<pubDate>Sun, 18 Jan 2026 18:46:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Inmates in 3 Guatemalan prisons hold dozens of guards hostage]]></title>
 <link>https://apnews.com/article/guatemala-prison-guards-hostage-ad8e025ba2bd8b9498c22e360a61327d</link>
 <pubDate>Sun, 18 Jan 2026 03:17:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
+<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
+<pubDate>Sun, 18 Jan 2026 18:31:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,12 +299,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump confidants, former British leader and Middle East officials are at forefront of US Gaza plan]]></title>
-<link>https://apnews.com/article/mideast-wars-gaza-appointments-efe95e29fb1cfe099f44e3ac48d06fa2</link>
-<pubDate>Sun, 18 Jan 2026 15:42:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Here’s where Trump’s most jaw-dropping promises stand a year into his second term]]></title>
 <link>https://apnews.com/article/trump-promises-second-term-greenland-alcatraz-canada-858c0f1d3ec934dc696a70a5b38eace3</link>
 <pubDate>Sat, 17 Jan 2026 13:54:57 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Syrian government forces enter northern towns after Kurdish fighters withdraw]]></title>
 <link>https://apnews.com/article/syria-aleppo-deir-hafer-sdf-alsharaa-kurdish-9e8129a43f241dd23bd9a910a261633e</link>
 <pubDate>Sun, 18 Jan 2026 14:55:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fiorentina owner and Mediacom chairman Rocco Commisso dies at 76]]></title>
-<link>https://apnews.com/article/rocco-commisso-fiorentina-86ac3db4536a493197d6cab5a95c1da2</link>
-<pubDate>Sat, 17 Jan 2026 08:45:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
