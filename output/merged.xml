@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 18 Jan 2026 07:37:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 08:14:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Portugal’s presidential election may deliver another gain for populists in Europe]]></title>
 <link>https://apnews.com/article/portugal-presidential-election-candidates-populist-runoff-9c9976eaff53e70f28050a3556288622</link>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
+<link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
+<pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bangladesh stays firm in its stand not to play T20 World Cup matches in India]]></title>
 <link>https://apnews.com/article/bangladesh-icc-t20-world-cup-50012cca873d7bb47dcf2a3a57398121</link>
 <pubDate>Wed, 14 Jan 2026 07:47:08 -0000</pubDate>
@@ -149,9 +155,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and Germany sign deals to deepen economic and security ties]]></title>
-<link>https://apnews.com/article/india-germany-modi-merz-defense-cooperation-8c73b02ad2bbe6cc4938b91d4771e48b</link>
-<pubDate>Mon, 12 Jan 2026 09:21:57 -0000</pubDate>
+<title><![CDATA[Moutet’s underarm serve seals Australian Open first-round win]]></title>
+<link>https://apnews.com/article/underarm-serve-moutet-australian-open-8710512fb83b9f6d1e8944f225a270c5</link>
+<pubDate>Sun, 18 Jan 2026 08:14:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,12 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump thanks Iran for not following through on executions of political prisoners]]></title>
-<link>https://apnews.com/article/trump-iran-hangings-protests-dae7dca429c9823f4f5690b368ebfe15</link>
-<pubDate>Fri, 16 Jan 2026 18:48:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s leader calls Trump a ‘criminal’ for backing protests and blames demonstrators for deaths]]></title>
 <link>https://apnews.com/article/iran-protests-trump-khamenei-fc11b1082fb75fca02205f668c822751</link>
 <pubDate>Sat, 17 Jan 2026 12:48:39 -0000</pubDate>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
-<link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
-<pubDate>Wed, 14 Jan 2026 16:34:13 -0000</pubDate>
+<title><![CDATA[India wins toss and opts to bowl against New Zealand in series-deciding third ODI]]></title>
+<link>https://apnews.com/article/india-new-zealand-cricket-odi-6ff82e98ceaaac393500ae44f59cc8eb</link>
+<pubDate>Sun, 18 Jan 2026 08:14:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
