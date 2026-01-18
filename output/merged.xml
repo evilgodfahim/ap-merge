@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 18 Jan 2026 23:10:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 23:37:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Yemeni politicians meet in Riyadh after dissolving a southern separatist group]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-b1883db14e968792455f029d20cf53ca</link>
+<pubDate>Sun, 18 Jan 2026 23:37:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump confidants, former British leader and Middle East officials are at forefront of US Gaza plan]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-appointments-efe95e29fb1cfe099f44e3ac48d06fa2</link>
 <pubDate>Sun, 18 Jan 2026 15:10:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraqi army fully takes over key base following US withdrawal]]></title>
-<link>https://apnews.com/article/iraq-us-ain-assad-troops-withdraw-coalition-3da685f80b49fe2c33a430958e36f771</link>
-<pubDate>Sun, 18 Jan 2026 16:12:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[High-speed trains collide after one derails in southern Spain, killing at least 5 and injuring 25]]></title>
+<title><![CDATA[High-speed trains collide after one derails in southern Spain, killing at least 20]]></title>
 <link>https://apnews.com/article/spain-highspeed-train-crash-1cc76cbe8320f46e82f87062b4b8d0e4</link>
-<pubDate>Sun, 18 Jan 2026 22:10:57 -0000</pubDate>
+<pubDate>Sun, 18 Jan 2026 23:22:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[AP obtains documents showing Venezuelan leader Delcy Rodríguez has been on DEA’s radar for years]]></title>
 <link>https://apnews.com/article/delcy-rodriguez-donald-trump-venezuela-drugs-maduro-70ffbe17378fe0fa9b7f12a40e07b2f3</link>
 <pubDate>Sun, 18 Jan 2026 17:23:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
+<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
+<pubDate>Sun, 18 Jan 2026 15:57:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Small part of Sunshine State becomes Snowy State as Florida gets snow for 2nd year in a row]]></title>
-<link>https://apnews.com/article/florida-snow-deep-south-panhandle-d899349708b890876e3f8cc2a0988d56</link>
-<pubDate>Sun, 18 Jan 2026 21:09:42 -0000</pubDate>
+<title><![CDATA[“60 Minutes” airing report on Trump deportations that was suddenly pulled a month ago]]></title>
+<link>https://apnews.com/article/60-minutes-deportations-trump-2cf999bb391290f6f6b4bb4f537fa145</link>
+<pubDate>Sun, 18 Jan 2026 23:07:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,12 +224,6 @@
 <title><![CDATA[Inmates in 3 Guatemalan prisons hold dozens of guards hostage]]></title>
 <link>https://apnews.com/article/guatemala-prison-guards-hostage-ad8e025ba2bd8b9498c22e360a61327d</link>
 <pubDate>Sun, 18 Jan 2026 03:17:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
-<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
-<pubDate>Sun, 18 Jan 2026 18:31:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[$1 billion gets a permanent seat on Trump’s ‘Board of Peace’ for Gaza, as India and others invited]]></title>
-<link>https://apnews.com/article/gaza-israel-palestinians-board-peace-hamas-5f902ea2b1158f0a806c247d139ff62f</link>
-<pubDate>Sun, 18 Jan 2026 19:55:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump: ‘I greatly respect’ Iran’s cancelling of the hangings]]></title>
 <link>https://apnews.com/video/trump-i-greatly-respect-irans-cancelling-of-the-hangings-8568695b8890493f9a15d9ceefeb5d2a</link>
 <pubDate>Sat, 17 Jan 2026 02:44:57 -0000</pubDate>
@@ -374,6 +368,12 @@
 <title><![CDATA[Prime Minister Carney: Canada and China ‘forging a new strategic partnership’]]></title>
 <link>https://apnews.com/video/prime-minister-carney-canada-and-china-forging-a-new-strategic-partnership-450b386b503440ed84ca495afbbb907e</link>
 <pubDate>Sat, 17 Jan 2026 02:29:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces]]></title>
+<link>https://apnews.com/article/syria-sdf-kurds-tabaqa-hts-clashes-raqqa-3014df2335a2fa9cb8ba160555ef2bb5</link>
+<pubDate>Sun, 18 Jan 2026 23:22:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,12 +392,6 @@
 <title><![CDATA[US-based activist agency says it has verified 3,919 deaths from Iran protests]]></title>
 <link>https://apnews.com/article/iran-protests-deaths-trump-khamenei-95207b62fb2c8a4f3745d981ea0f9849</link>
 <pubDate>Sun, 18 Jan 2026 21:09:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemeni politicians meet in Riyadh after dissolving a southern separatist group]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-b1883db14e968792455f029d20cf53ca</link>
-<pubDate>Sun, 18 Jan 2026 14:25:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +431,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wildfires race across Chile, leaving 15 dead and forcing thousands to flee]]></title>
+<title><![CDATA[Wildfires race across Chile, leaving 18 dead and forcing thousands to flee]]></title>
 <link>https://apnews.com/article/chile-wildfires-heat-wave-boric-biobio-emergency-c70c05758271270353606fa409fb504d</link>
-<pubDate>Sun, 18 Jan 2026 17:23:50 -0000</pubDate>
+<pubDate>Sun, 18 Jan 2026 23:07:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraqi army fully takes over key base following US withdrawal]]></title>
+<link>https://apnews.com/article/iraq-us-ain-assad-troops-withdraw-coalition-3da685f80b49fe2c33a430958e36f771</link>
+<pubDate>Sun, 18 Jan 2026 09:38:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
