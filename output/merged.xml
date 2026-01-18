@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 18 Jan 2026 13:03:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 13:44:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranians use Turkey border to access internet during blackouts]]></title>
 <link>https://apnews.com/article/turkey-iran-border-internet-f280a7d15f5832d877af232a0e926b6a</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-peace-talks-energy-c7fc7a01ac9976dd617482b6ef6f1fa0</link>
-<pubDate>Sat, 17 Jan 2026 11:34:17 -0000</pubDate>
+<title><![CDATA[Drone strikes cut power to over 200,000 homes in Russian-occupied Ukraine, local official says]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-energy-zelenskyy-talks-8e945e499bc5cf8ded99e389f9fd81d9</link>
+<pubDate>Sun, 18 Jan 2026 13:44:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Analysis: Canada’s leader leaves China pronouncing success, but Trump lurks in the background]]></title>
-<link>https://apnews.com/article/china-canada-us-xi-carney-trump-404596761e826bbdc1e0313062902137</link>
-<pubDate>Sun, 18 Jan 2026 11:35:15 -0000</pubDate>
+<title><![CDATA[Photos show devotees taking a holy dip at Sangam during Mauni Amavasya festival in India]]></title>
+<link>https://apnews.com/photo-gallery/india-hindu-festival-magh-mela-photo-gallery-c3e7968a56ff70fa417188c47a07cfa7</link>
+<pubDate>Sun, 18 Jan 2026 13:29:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ugandan President Yoweri Museveni secures 7th term as opposition rejects results]]></title>
+<link>https://apnews.com/article/uganda-election-bobi-wine-arrested-yoweri-museveni-7ba4e6d8ecf1eace2cb9c46453594346</link>
+<pubDate>Sun, 18 Jan 2026 13:14:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[More than 100 dead in torrential rains and floods across southern Africa]]></title>
 <link>https://apnews.com/article/south-africa-mozambique-flooding-weather-1e22c38611b1c8aba3ce4f9cf37ab9df</link>
 <pubDate>Sat, 17 Jan 2026 10:49:17 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Libya to try a gang member linked to a mass grave of 21 migrants for human trafficking]]></title>
 <link>https://apnews.com/article/migrants-libya-mass-grave-ac274da4a2c0dbb70c9995c185057be5</link>
 <pubDate>Fri, 16 Jan 2026 18:03:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Egypt and Sudan welcome Trump’s offer to mediate Nile River dam dispute]]></title>
-<link>https://apnews.com/article/trump-egypt-ethiopia-sudan-nile-dam-e215dba08e9d60d42902427d1e928ce1</link>
-<pubDate>Sat, 17 Jan 2026 20:11:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,27 +119,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Opponents protest against China’s planned UK ‘mega embassy’ as decision deadline loons]]></title>
+<link>https://apnews.com/article/uk-china-mega-embassy-protest-decision-20a077280328e2125178656786009b24</link>
+<pubDate>Sat, 17 Jan 2026 17:22:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s protectionist trade policies allow China to swoop in]]></title>
 <link>https://apnews.com/article/china-canada-trade-ev-trump-aa2904669445a9ea0b56ebe64f611928</link>
 <pubDate>Sun, 18 Jan 2026 11:20:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Analysis: Canada’s leader leaves China pronouncing success, but Trump lurks in the background]]></title>
+<link>https://apnews.com/article/china-canada-us-xi-carney-trump-404596761e826bbdc1e0313062902137</link>
+<pubDate>Sun, 18 Jan 2026 11:35:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan hails its ‘best’ trade deal with US, as China protests]]></title>
 <link>https://apnews.com/article/taiwan-us-china-tsmc-trump-c4ef262af7cf5f75c1a4ada5e03bdfa1</link>
 <pubDate>Fri, 16 Jan 2026 09:43:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canada agrees to cut its 100% tariff on Chinese EVs, breaking with the US]]></title>
-<link>https://apnews.com/article/china-canada-carney-xi-beijing-b71c1b67d3489a8b4058c650152b0cb9</link>
-<pubDate>Sat, 17 Jan 2026 08:45:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[White House and governors pressure grid operator to boost power supply]]></title>
-<link>https://apnews.com/article/trump-electricity-ai-data-centers-62e8118b069f36aa9d0844f904047933</link>
-<pubDate>Sat, 17 Jan 2026 02:44:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[New US ambassador to India pushes for deeper trade ties despite tension over Russian oil]]></title>
 <link>https://apnews.com/article/india-us-ambassador-trump-modi-trade-a71870e8eb2f62cb698bda074f4ecd49</link>
 <pubDate>Mon, 12 Jan 2026 10:17:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[8 skiers killed in avalanches in Austria]]></title>
+<link>https://apnews.com/article/avalanche-austria-skiers-killed-4d091686e6d2b376e92c38c19ff3ed4a</link>
+<pubDate>Sun, 18 Jan 2026 13:44:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Opposition loses all seats in Benin election weeks after a thwarted coup, provisional results show]]></title>
+<link>https://apnews.com/article/benin-election-talon-coup-opposition-parliament-ef605fa41d9a0aeb624a5d557bcf0488</link>
+<pubDate>Sun, 18 Jan 2026 13:29:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Egypt and Sudan welcome Trump’s offer to mediate Nile River dam dispute]]></title>
+<link>https://apnews.com/article/trump-egypt-ethiopia-sudan-nile-dam-e215dba08e9d60d42902427d1e928ce1</link>
+<pubDate>Sun, 18 Jan 2026 13:14:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Roger Federer steals the show at Australian Open’s first formal opening ceremony]]></title>
 <link>https://apnews.com/article/federer-agassi-australian-open-tennis-f9188d4c0c2cc4cba335a84410f561a8</link>
 <pubDate>Sat, 17 Jan 2026 11:34:17 -0000</pubDate>
@@ -326,24 +344,6 @@
 <title><![CDATA[Morocco hosts Senegal for the Africa Cup final. Here’s what you need to know]]></title>
 <link>https://apnews.com/article/africa-cup-morocco-senegal-final-preview-23a0a7b2d069dccbcb23b282cc8a37a7</link>
 <pubDate>Sat, 17 Jan 2026 05:12:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FAA urges pilots to exercise caution over eastern Pacific, citing ‘military activities’]]></title>
-<link>https://apnews.com/article/faa-flight-warnings-pacific-ocean-dd0cbe105d75f6d8acf16f02884865c0</link>
-<pubDate>Sat, 17 Jan 2026 03:50:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yay for me! Venus Williams set for a record at the Australian Open]]></title>
-<link>https://apnews.com/article/venus-williams-australian-open-tennis-melbourne-1f40bad4e1f8ab413af16a0dac5fc0e1</link>
-<pubDate>Sat, 17 Jan 2026 03:35:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump offers to restart US mediation in Nile River dispute between Egypt and Ethiopia]]></title>
-<link>https://apnews.com/article/trump-nile-egypt-ethiopia-us-mediation-ba5c3b0a96889e2ee0249e4522cd4577</link>
-<pubDate>Fri, 16 Jan 2026 23:39:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ugandan President Yoweri Museveni secures 7th term as opposition rejects results]]></title>
-<link>https://apnews.com/article/uganda-election-bobi-wine-arrested-yoweri-museveni-7ba4e6d8ecf1eace2cb9c46453594346</link>
-<pubDate>Sat, 17 Jan 2026 19:26:34 -0000</pubDate>
+<title><![CDATA[Uganda’s president says strong election victory over his youthful challenger a taste of his strength]]></title>
+<link>https://apnews.com/article/uganda-election-result-president-museveni-52f1428b60b23b96f6cab08c47823702</link>
+<pubDate>Sun, 18 Jan 2026 13:44:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Opponents protest against China’s planned UK ‘mega embassy’ as decision deadline loons]]></title>
-<link>https://apnews.com/article/uk-china-mega-embassy-protest-decision-20a077280328e2125178656786009b24</link>
-<pubDate>Sun, 18 Jan 2026 11:35:16 -0000</pubDate>
+<title><![CDATA[Factory explosion in China’s Inner Mongolia region kills 2 and hospitalizes 66]]></title>
+<link>https://apnews.com/article/china-factory-explosion-kill-inner-mongolia-9a62583efbbb43571599030086ce7d64</link>
+<pubDate>Sun, 18 Jan 2026 13:29:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
