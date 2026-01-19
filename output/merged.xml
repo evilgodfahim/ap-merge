@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 19 Jan 2026 22:12:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 22:43:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Border guards kill 4 Afghan gunmen who crossed into Tajikistan, authorities say]]></title>
 <link>https://apnews.com/article/afghanistan-tajikistan-border-gunmen-c2164d2a3739e9baed9a95d47e2ef3f0</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congolese soldiers reenter key eastern city after M23 rebels’ withdrawal, army and residents say]]></title>
+<link>https://apnews.com/article/congo-m23-uvira-81b4ff4e609551321d3e7ee4195122a5</link>
+<pubDate>Mon, 19 Jan 2026 22:43:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Senegal erupts in joy after dramatic win to take the Africa Cup of Nations]]></title>
 <link>https://apnews.com/article/africa-cup-senegal-morocco-3c66008dc043132757b1cb4be3bce080</link>
 <pubDate>Mon, 19 Jan 2026 04:33:29 -0000</pubDate>
@@ -95,15 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ethiopian Orthodox Christians celebrate Epiphany to mark baptism of Jesus]]></title>
-<link>https://apnews.com/article/ethiopia-epiphany-orthodox-christians-d1e78871f8f5d80465e381abbe94065a</link>
-<pubDate>Mon, 19 Jan 2026 14:46:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Christian leaders urge the protection of worshippers’ rights after protesters interrupt service]]></title>
+<title><![CDATA[Christian leaders urge protecting worshippers’ rights after protesters interrupt service]]></title>
 <link>https://apnews.com/article/ice-protest-church-minneapolis-fcc97a29b9c4434c665d76d4811c5a3e</link>
-<pubDate>Mon, 19 Jan 2026 19:13:27 -0000</pubDate>
+<pubDate>Mon, 19 Jan 2026 22:28:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +218,12 @@
 <title><![CDATA[Diplomacy or retaliation? The EU mulls its options as tensions with U.S. rise over Greenland]]></title>
 <link>https://apnews.com/article/tariffs-coercion-greenland-trade-eu-us-brussels-8b32f5c35a4568aacd105253065bcb9f</link>
 <pubDate>Mon, 19 Jan 2026 17:18:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ethiopian Orthodox Christians celebrate Epiphany to mark baptism of Jesus]]></title>
+<link>https://apnews.com/article/ethiopia-epiphany-orthodox-christians-d1e78871f8f5d80465e381abbe94065a</link>
+<pubDate>Mon, 19 Jan 2026 15:16:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -344,12 +350,6 @@
 <title><![CDATA[Video shows fires in Palestinian village in West Bank during Israeli settler attack]]></title>
 <link>https://apnews.com/article/mideast-wars-israeli-settlers-palestinians-west-bank-0eaa662c76cdc2cd18bd9f4713d4d28d</link>
 <pubDate>Mon, 19 Jan 2026 12:38:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa declares a national disaster over flooding and severe weather]]></title>
-<link>https://apnews.com/article/south-africa-flood-rain-disaster-8b5744763b6a41ca479c0c9a8254b051</link>
-<pubDate>Mon, 19 Jan 2026 15:31:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
