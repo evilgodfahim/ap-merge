@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 19 Jan 2026 10:17:59 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 10:51:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Yemeni politicians meet in Riyadh after dissolving a southern separatist group]]></title>
+<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-b1883db14e968792455f029d20cf53ca</link>
+<pubDate>Sun, 18 Jan 2026 23:37:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iraqi army fully takes over key base following US withdrawal]]></title>
 <link>https://apnews.com/article/iraq-us-ain-assad-troops-withdraw-coalition-3da685f80b49fe2c33a430958e36f771</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
-<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
-<pubDate>Sun, 18 Jan 2026 15:57:50 -0000</pubDate>
+<title><![CDATA[Starmer says a trade war is in no one’s interest after Trump’s Greenland tariff threat]]></title>
+<link>https://apnews.com/article/greenland-denmark-us-trump-starmer-9b01eb577363ee6e913722fe3d40d68e</link>
+<pubDate>Mon, 19 Jan 2026 10:51:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Europe warns of ‘dangerous downward spiral’ after Trump threatens tariffs over Greenland]]></title>
-<link>https://apnews.com/article/greenland-denmark-us-trump-eu-tariffs-4e63efa690604004c69fc89a7c14e7c2</link>
-<pubDate>Mon, 19 Jan 2026 07:00:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A timeline of how the US and Europe have been at odds]]></title>
 <link>https://apnews.com/article/trump-greenland-us-europe-history-disputes-bbd9b17ae1d653bd1544d8706277b0c3</link>
 <pubDate>Sun, 18 Jan 2026 18:46:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s population falls again as births drop to lowest rate since 1949 communist revolution]]></title>
+<link>https://apnews.com/article/china-population-shrinks-births-tax-condoms-868cd1ffc949af5a2e94c523e750e97e</link>
+<pubDate>Mon, 19 Jan 2026 10:36:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Chinese steel factory officials detained after explosion that leaves 2 dead, 8 missing]]></title>
 <link>https://apnews.com/article/china-inner-mongolia-factory-explosion-baotou-steel-2ea4d95cb5ceac49acd92924133a6a82</link>
 <pubDate>Mon, 19 Jan 2026 06:45:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in Karachi shopping plaza fire rises to 11 as search continues for about 60 missing]]></title>
-<link>https://apnews.com/article/pakkistan-shopping-plaza-fire-death-toll-rises-306c43748c37572d3714ae54567560bd</link>
-<pubDate>Mon, 19 Jan 2026 08:04:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Family of Iranian protester searched for her body in a pile of corpses and buried her on a roadside]]></title>
-<link>https://apnews.com/article/iran-protests-crackdown-killings-student-aminian-3bcf37ee725bc59ac672b6a55f7cea56</link>
-<pubDate>Mon, 19 Jan 2026 06:30:54 -0000</pubDate>
+<title><![CDATA[Iranians use Turkey border to access internet during blackouts]]></title>
+<link>https://apnews.com/article/turkey-iran-border-internet-f280a7d15f5832d877af232a0e926b6a</link>
+<pubDate>Sun, 18 Jan 2026 12:20:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,12 +125,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Factory explosion in China’s Inner Mongolia region kills 2 and hospitalizes 66]]></title>
-<link>https://apnews.com/article/china-factory-explosion-kill-inner-mongolia-9a62583efbbb43571599030086ce7d64</link>
-<pubDate>Mon, 19 Jan 2026 00:45:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Taiwan detains journalist for allegedly bribing military officers to provide information to China]]></title>
 <link>https://apnews.com/article/taiwan-national-security-journalist-cti-78a8064cc0efa1cf1644ef0676329293</link>
 <pubDate>Sun, 18 Jan 2026 06:51:07 -0000</pubDate>
@@ -146,6 +140,12 @@
 <title><![CDATA[Trump’s protectionist trade policies allow China to swoop in]]></title>
 <link>https://apnews.com/article/china-canada-trade-ev-trump-aa2904669445a9ea0b56ebe64f611928</link>
 <pubDate>Sun, 18 Jan 2026 11:20:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Analysis: Canada’s leader leaves China pronouncing success, but Trump lurks in the background]]></title>
+<link>https://apnews.com/article/china-canada-us-xi-carney-trump-404596761e826bbdc1e0313062902137</link>
+<pubDate>Sun, 18 Jan 2026 11:35:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-greenland-earnings-df4db0546f46195d477e0306c830abf9</link>
-<pubDate>Mon, 19 Jan 2026 08:19:28 -0000</pubDate>
+<title><![CDATA[1 dead and 4 wounded in Czech town hall shooting]]></title>
+<link>https://apnews.com/article/czech-shooting-town-hall-693cb17412846b0d1c0b613c6b6cdc34</link>
+<pubDate>Mon, 19 Jan 2026 10:51:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Philippine president announces new gas find in waters facing the disputed South China Sea]]></title>
+<link>https://apnews.com/article/philippines-malampaya-gas-field-palawan-china-sea-c748d1b5ae9766ebfe2aae8fad0df02c</link>
+<pubDate>Mon, 19 Jan 2026 10:36:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prince Harry returns to court in battle with British tabloids]]></title>
+<title><![CDATA[Prince Harry’s court battle against British tabloids reaches final chapter]]></title>
 <link>https://apnews.com/article/prince-harry-lawsuit-daily-mail-tabloid-hacking-2f2664502c36ed5401ec4204b66d4bb2</link>
-<pubDate>Mon, 19 Jan 2026 05:36:28 -0000</pubDate>
+<pubDate>Mon, 19 Jan 2026 10:21:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush]]></title>
+<link>https://apnews.com/article/syria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1</link>
+<pubDate>Sun, 18 Jan 2026 18:31:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Massive fire engulfs dozens of shops at a shopping mall in southern Pakistan, killing 3 people]]></title>
 <link>https://apnews.com/article/pakistan-massive-fire-erupt-shopping-mall-karachi-29d879a1c568f7883db1c2aac1f9d8e6</link>
 <pubDate>Sun, 18 Jan 2026 12:05:16 -0000</pubDate>
@@ -323,12 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranians use Turkey border to access internet during blackouts]]></title>
-<link>https://apnews.com/article/turkey-iran-border-internet-f280a7d15f5832d877af232a0e926b6a</link>
-<pubDate>Sun, 18 Jan 2026 15:57:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel objects to US announcement of leaders who will help oversee next steps in Gaza]]></title>
 <link>https://apnews.com/article/israel-white-housoe-gaza-next-steps-17579d16219d79982e48556d85a47e81</link>
 <pubDate>Sun, 18 Jan 2026 15:10:16 -0000</pubDate>
@@ -341,21 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sri Lanka unveils a rare purple star sapphire claimed to be the biggest of its kind]]></title>
-<link>https://apnews.com/article/sri-lanka-biggest-gem-sapphire-ad477c534852d758dee38a646dd8f435</link>
-<pubDate>Sat, 17 Jan 2026 20:36:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian plane with 11 people vanishes in mountainous region and a search is underway]]></title>
-<link>https://apnews.com/article/indonesia-plane-missing-7a74e3382229426580080670359e0ae2</link>
-<pubDate>Sat, 17 Jan 2026 16:12:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in Spanish train collision rises to 39 and authorities say it could still rise]]></title>
+<title><![CDATA[Death toll in Spanish train collision rises to 39 and authorities fear more bodies could be found]]></title>
 <link>https://apnews.com/article/spain-train-crash-adamuz-2705807909c7bfb3ed80bcf27a52ad7d</link>
-<pubDate>Mon, 19 Jan 2026 09:24:28 -0000</pubDate>
+<pubDate>Mon, 19 Jan 2026 10:51:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Border guards kill 4 Afghan gunmen who crossed into Tajikistan, authorities say]]></title>
+<link>https://apnews.com/article/afghanistan-tajikistan-border-gunmen-c2164d2a3739e9baed9a95d47e2ef3f0</link>
+<pubDate>Mon, 19 Jan 2026 10:21:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces]]></title>
 <link>https://apnews.com/article/syria-sdf-kurds-tabaqa-hts-clashes-raqqa-3014df2335a2fa9cb8ba160555ef2bb5</link>
 <pubDate>Sun, 18 Jan 2026 23:22:47 -0000</pubDate>
@@ -401,27 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemeni politicians meet in Riyadh after dissolving a southern separatist group]]></title>
-<link>https://apnews.com/article/yemen-war-stc-saudi-arabia-uae-b1883db14e968792455f029d20cf53ca</link>
-<pubDate>Sun, 18 Jan 2026 14:25:16 -0000</pubDate>
+<title><![CDATA[China’s economy grows 5% in 2025, buoyed by strong exports despite Trump’s tariffs]]></title>
+<link>https://apnews.com/article/china-economy-exports-trump-tariffs-6b3f53af8f22692bcd4d276c0695b1fc</link>
+<pubDate>Mon, 19 Jan 2026 03:18:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese EVs are making inroads in North America. That worries industry experts]]></title>
-<link>https://apnews.com/article/china-electric-vehicles-automakers-canada-tariffs-7d396ab9ab0a7ee6c2c56cda23534918</link>
-<pubDate>Fri, 16 Jan 2026 21:41:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[YouTube relaxes monetization policy on videos with controversial content]]></title>
-<link>https://apnews.com/article/youtube-monetization-update-policy-controversial-issues-545e27e27e26e0baefb937c86620b676</link>
-<pubDate>Sat, 17 Jan 2026 08:15:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why Thailand’s deadly construction accidents are sparking outrage and scrutiny]]></title>
-<link>https://apnews.com/article/thailand-construction-cranes-railway-building-collapse-0e209e157c6ce168189ce28f5cd98b34</link>
-<pubDate>Fri, 16 Jan 2026 15:51:31 -0000</pubDate>
+<title><![CDATA[US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-greenland-earnings-df4db0546f46195d477e0306c830abf9</link>
+<pubDate>Mon, 19 Jan 2026 06:15:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s population falls again as births drop to lowest rate since 1949 communist revolution]]></title>
-<link>https://apnews.com/article/china-population-shrinks-births-tax-condoms-868cd1ffc949af5a2e94c523e750e97e</link>
-<pubDate>Mon, 19 Jan 2026 08:04:28 -0000</pubDate>
+<title><![CDATA[Death toll in Karachi shopping plaza fire rises to 11 as search continues for about 60 missing]]></title>
+<link>https://apnews.com/article/pakkistan-shopping-plaza-fire-death-toll-rises-306c43748c37572d3714ae54567560bd</link>
+<pubDate>Mon, 19 Jan 2026 10:06:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s economy grows 5% in 2025, buoyed by strong exports despite Trump’s tariffs]]></title>
-<link>https://apnews.com/article/china-economy-exports-trump-tariffs-6b3f53af8f22692bcd4d276c0695b1fc</link>
-<pubDate>Mon, 19 Jan 2026 03:18:53 -0000</pubDate>
+<title><![CDATA[Factory explosion in China’s Inner Mongolia region kills 2 and hospitalizes 66]]></title>
+<link>https://apnews.com/article/china-factory-explosion-kill-inner-mongolia-9a62583efbbb43571599030086ce7d64</link>
+<pubDate>Sun, 18 Jan 2026 13:29:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
