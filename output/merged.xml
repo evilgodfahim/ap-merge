@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 20 Jan 2026 06:21:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 06:58:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[India agrees to boost trade and strategic ties with UAE amid regional tensions]]></title>
 <link>https://apnews.com/article/india-uae-trade-defense-deals-818b244218560d44fc21492d2c8f3374</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea’s Kim dismisses vice premier over factory project]]></title>
+<link>https://apnews.com/article/north-korea-politics-kim-dismiss-vice-premier-e0ae9be5d8f3d73273f13c20a8bb3bbe</link>
+<pubDate>Tue, 20 Jan 2026 06:58:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Karachi mall fire death toll rises to 23 as rescuers search for dozens missing]]></title>
 <link>https://apnews.com/article/pakkistan-shopping-plaza-fire-death-toll-rises-306c43748c37572d3714ae54567560bd</link>
 <pubDate>Tue, 20 Jan 2026 02:41:21 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Surfer bitten in 4th shark attack off Australia’s east coast in 3 days]]></title>
 <link>https://apnews.com/article/australia-shark-attack-sydney-3591126f9361ea66228b6b6c71d234e5</link>
 <pubDate>Tue, 20 Jan 2026 05:34:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canadian woman found dead on Australian beach in suspected dingo attack]]></title>
-<link>https://apnews.com/article/australia-dingoes-dead-canadian-island-53f5cd4e6dda4abc9c6a37d09be0e49e</link>
-<pubDate>Tue, 20 Jan 2026 05:19:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US citizen says ICE removed him from his Minnesota home in his underwear after warrantless search]]></title>
+<link>https://apnews.com/article/minnesota-immigration-us-citizen-detained-hmong-d009590a491c0c8243ef21ef24db7182</link>
+<pubDate>Tue, 20 Jan 2026 06:43:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Oregon baby is still battling infant botulism after ByHeart formula exposure]]></title>
 <link>https://apnews.com/article/infant-botulism-byheart-recall-donation-acc5b72784c063d1cf9bbd1f5ca5cc32</link>
 <pubDate>Mon, 19 Jan 2026 18:08:07 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[100 vehicles pile up in Michigan crash as snowstorm moves across the country]]></title>
 <link>https://apnews.com/article/winter-weather-snow-pileup-michigan-cfb7f2d1ad0355b917c1eb972e5c90c6</link>
 <pubDate>Mon, 19 Jan 2026 21:09:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Parts of the US could see northern lights Monday]]></title>
-<link>https://apnews.com/article/northern-lights-geomagnetic-storm-792c985d4422261dea66427e26acab2a</link>
-<pubDate>Tue, 20 Jan 2026 00:40:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Marine Le Pen faces crucial Paris appeals trial over misuse of EU funds]]></title>
+<link>https://apnews.com/article/marine-le-pen-trial-france-2589c65c52c7732115d77a58b20f2e3d</link>
+<pubDate>Tue, 20 Jan 2026 06:58:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Surrounded by billionaires in Davos, Trump plans to lay out how he’ll make housing more affordable]]></title>
 <link>https://apnews.com/article/trump-anniversary-davos-billionaires-housing-90f2e691725539c8d5cba6131baccb3f</link>
 <pubDate>Tue, 20 Jan 2026 05:49:44 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[Shares in Asia track European markets lower on concern over Trump’s push on Greenland]]></title>
 <link>https://apnews.com/article/stock-markets-trump-greenland-inflation-58a6fed13a1e04afd57f0a22a2c9cfb0</link>
 <pubDate>Tue, 20 Jan 2026 05:19:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Canadian woman found dead on Australian beach in suspected dingo attack]]></title>
+<link>https://apnews.com/article/australia-dingoes-dead-canadian-island-53f5cd4e6dda4abc9c6a37d09be0e49e</link>
+<pubDate>Tue, 20 Jan 2026 06:43:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam party meeting opens with leadership and economic growth on the line]]></title>
-<link>https://apnews.com/article/vietnam-communist-party-congress-to-lam-128c6fbef2434c179a65ad3797df6ffd</link>
-<pubDate>Tue, 20 Jan 2026 01:26:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-19-2026-a0ee42d743fbac5f65b5e3f50ff4e199</link>
-<pubDate>Mon, 19 Jan 2026 05:51:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump ties his stance on Greenland to not getting Nobel Peace Prize]]></title>
 <link>https://apnews.com/article/greenland-denmark-us-trump-starmer-9b01eb577363ee6e913722fe3d40d68e</link>
 <pubDate>Mon, 19 Jan 2026 20:13:29 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea’s Kim dismisses vice premier over factory project]]></title>
-<link>https://apnews.com/article/north-korea-politics-kim-dismiss-vice-premier-e0ae9be5d8f3d73273f13c20a8bb3bbe</link>
-<pubDate>Tue, 20 Jan 2026 05:49:44 -0000</pubDate>
+<title><![CDATA[Analysis: China’s birth-rate struggles underscore its millennia-long struggle to manage ‘the masses’]]></title>
+<link>https://apnews.com/article/china-population-children-birth-rate-fc4dd28a2e015413637a036dc690b8a8</link>
+<pubDate>Tue, 20 Jan 2026 06:58:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
