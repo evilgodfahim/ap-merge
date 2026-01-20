@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 20 Jan 2026 15:52:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 16:21:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Palestinians endure ‘systemic abuse’ in Israeli prisons, rights group says]]></title>
 <link>https://apnews.com/article/israel-prisons-report-abuse-ed7d2a9f3730fc575559f3e6218ebd2d</link>
@@ -71,6 +71,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ivory Coast will buy unsold cocoa stocks as prices plunge]]></title>
+<link>https://apnews.com/article/ivory-coast-cocoa-11cecd9dbebb41deba5cded8c3515ff1</link>
+<pubDate>Tue, 20 Jan 2026 16:21:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Togo says it has extradited Burkina Faso’s former junta leader]]></title>
+<link>https://apnews.com/article/togo-burkina-faso-extradition-damiba-cb462943d9d9892dd4ded610e6506685</link>
+<pubDate>Tue, 20 Jan 2026 16:06:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Sudan president fires interior minister in a move threatening peace agreement]]></title>
 <link>https://apnews.com/article/south-sudan-interior-minister-kiir-machar-74e07071134457a1ce8f7b5b98abaa44</link>
 <pubDate>Tue, 20 Jan 2026 12:59:15 -0000</pubDate>
@@ -80,18 +92,6 @@
 <title><![CDATA[School bus crash in South Africa kills at least 13 children, police say]]></title>
 <link>https://apnews.com/article/south-africa-school-bus-crash-students-dead-2bccb9d3eb7ccff50c0d0d9108477391</link>
 <pubDate>Tue, 20 Jan 2026 08:38:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Congolese soldiers reenter key eastern city after M23 rebels’ withdrawal, army and residents say]]></title>
-<link>https://apnews.com/article/congo-m23-uvira-81b4ff4e609551321d3e7ee4195122a5</link>
-<pubDate>Mon, 19 Jan 2026 22:43:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Senegal erupts in joy after dramatic win to take the Africa Cup of Nations]]></title>
-<link>https://apnews.com/article/africa-cup-senegal-morocco-3c66008dc043132757b1cb4be3bce080</link>
-<pubDate>Mon, 19 Jan 2026 04:33:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ivory Coast to buy unsold cocoa stocks as prices plunge]]></title>
-<link>https://apnews.com/article/ivory-coast-cocoa-11cecd9dbebb41deba5cded8c3515ff1</link>
-<pubDate>Tue, 20 Jan 2026 15:20:23 -0000</pubDate>
+<title><![CDATA[In their words: Trump’s threats over Greenland draw warnings and profanities at global forum]]></title>
+<link>https://apnews.com/article/davos-greenland-trump-macron-newsom-wef-leyen-ee1791fd72153cef9bd428e2d37cc354</link>
+<pubDate>Tue, 20 Jan 2026 16:21:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congolese soldiers reenter key eastern city after M23 rebels’ withdrawal, army and residents say]]></title>
+<link>https://apnews.com/article/congo-m23-uvira-81b4ff4e609551321d3e7ee4195122a5</link>
+<pubDate>Tue, 20 Jan 2026 16:06:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Colombia’s ELN rebels free 5 police officers as they push for national accord]]></title>
 <link>https://apnews.com/article/colombia-eln-rebels-hostages-freed-catatumbo-kidnapping-e42c81bffe5573cd5576f3c34b664273</link>
 <pubDate>Mon, 19 Jan 2026 21:39:27 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary’s MOL to buy Serbia’s Russia-owned NIS oil company if US approves]]></title>
-<link>https://apnews.com/article/serbia-hungary-russia-us-oil-company-mol-e393243d9fdd5b62481b1f3317240831</link>
-<pubDate>Mon, 19 Jan 2026 18:53:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Top EU official questions Trump’s trustworthiness over Greenland tariff threat]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-bessent-davos-ab05ebfaae6a413d1f8125cb9726a4c5</link>
 <pubDate>Tue, 20 Jan 2026 10:36:21 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Read what France’s Macron and the head of NATO are saying to Trump behind the scenes]]></title>
+<title><![CDATA[Despite Greenland, France’s Macron and NATO’s head make nice with Trump behind the scenes]]></title>
 <link>https://apnews.com/article/trump-macron-greenland-rutte-nato-82b855f0acd7d1a1d28cfa91acf66131</link>
-<pubDate>Tue, 20 Jan 2026 13:44:17 -0000</pubDate>
+<pubDate>Tue, 20 Jan 2026 16:21:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian military accuses Kurdish forces of allowing IS-linked detainees to escape from al-Hol camp]]></title>
+<title><![CDATA[Guards from Kurdish forces abandon camp in northeastern Syria housing IS-linked detainees]]></title>
 <link>https://apnews.com/article/syria-clashes-islamic-state-prison-break-2d562b15fe1c36c8ffa00d787e496546</link>
-<pubDate>Tue, 20 Jan 2026 13:29:17 -0000</pubDate>
+<pubDate>Tue, 20 Jan 2026 16:06:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +380,12 @@
 <title><![CDATA[Make America Go Away! Danish protesters mock MAGA hats at Greenland rallies]]></title>
 <link>https://apnews.com/video/make-america-go-away-danish-protesters-mock-maga-hats-at-greenland-rallies-4125b80b832e40e580a4d95ea940df0d</link>
 <pubDate>Tue, 20 Jan 2026 09:36:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkey’s pro-Kurdish party warns Syria violence threatens peace efforts]]></title>
+<link>https://apnews.com/article/turkey-syria-kurdish-party-peace-dem-sdf-4f40657249501906a90fb63e049609e7</link>
+<pubDate>Tue, 20 Jan 2026 15:51:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street slumps after Trump threatens 8 NATO members with punishing tariffs over Greenland]]></title>
+<title><![CDATA[Wall Street slumps and Europe stocks sink as Trump threatens tariffs on 8 NATO members]]></title>
 <link>https://apnews.com/article/stock-markets-trump-greenland-inflation-58a6fed13a1e04afd57f0a22a2c9cfb0</link>
-<pubDate>Tue, 20 Jan 2026 14:55:28 -0000</pubDate>
+<pubDate>Tue, 20 Jan 2026 15:36:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +446,6 @@
 <title><![CDATA[Death toll rises to 10 in gangsters’ attacks on Guatemalan police as state of emergency is declared]]></title>
 <link>https://apnews.com/article/guatemala-gangs-arevalo-prisons-siege-83079456c59dc70dbf04a781a7189990</link>
 <pubDate>Tue, 20 Jan 2026 05:34:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Border guards kill 4 Afghan gunmen who crossed into Tajikistan, authorities say]]></title>
-<link>https://apnews.com/article/afghanistan-tajikistan-border-gunmen-c2164d2a3739e9baed9a95d47e2ef3f0</link>
-<pubDate>Mon, 19 Jan 2026 10:21:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
