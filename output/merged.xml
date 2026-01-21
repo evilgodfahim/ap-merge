@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 21 Jan 2026 18:30:06 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Israel’s settler movement takes victory lap as a sparse outpost becomes a settlement within a month]]></title>
-<link>https://apnews.com/article/israel-settlers-west-bank-ad62cc10b512a607aee77cc91873519f</link>
-<pubDate>Wed, 21 Jan 2026 15:15:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 21 Jan 2026 19:06:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli crews target UN facilities for Palestinian refugees in east Jerusalem]]></title>
 <link>https://apnews.com/article/israel-palestinians-gaza-east-jerusalem-unrwa-cc9c5b2cac2332f0207d485f381be53d</link>
 <pubDate>Wed, 21 Jan 2026 13:59:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at Trump’s Board of Peace and who has been invited]]></title>
+<link>https://apnews.com/article/hamas-israel-ceasefire-netanyahu-trump-6a29026f0308ba3757c975810e2f90c4</link>
+<pubDate>Wed, 21 Jan 2026 13:44:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU lawmakers vote to hold up Mercosur trade agreement over legal concerns]]></title>
-<link>https://apnews.com/article/mercosur-eu-deal-vote-court-36db5285a4b22c61da15c5bee02ef43e</link>
-<pubDate>Wed, 21 Jan 2026 13:29:29 -0000</pubDate>
+<title><![CDATA[What to know about the fatal train crashes in Spain]]></title>
+<link>https://apnews.com/article/spain-train-crash-adamuz-06d996533125414a2dc5948ef666ce15</link>
+<pubDate>Wed, 21 Jan 2026 19:06:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela in Trump’s effort to control its oil]]></title>
-<link>https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf</link>
-<pubDate>Wed, 21 Jan 2026 13:14:29 -0000</pubDate>
+<title><![CDATA[EU lawmakers vote to hold up Mercosur trade agreement over legal concerns]]></title>
+<link>https://apnews.com/article/mercosur-eu-deal-vote-court-36db5285a4b22c61da15c5bee02ef43e</link>
+<pubDate>Wed, 21 Jan 2026 13:29:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico sends 37 cartel members to US in latest offer to Trump administration]]></title>
-<link>https://apnews.com/article/mexico-us-trump-cartel-members-garcia-harfuch-e6af78fd8a5c851a81f7174324d55e51</link>
-<pubDate>Tue, 20 Jan 2026 18:59:29 -0000</pubDate>
+<title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela in Trump’s effort to control its oil]]></title>
+<link>https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf</link>
+<pubDate>Wed, 21 Jan 2026 13:14:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former Uvalde officer did his job during 2022 attack, his lawyers tell jurors in closing remarks]]></title>
+<title><![CDATA[Jury deliberating case of former Uvalde officer charged over response to 2022 school attack]]></title>
 <link>https://apnews.com/article/uvalde-school-shooting-officer-trial-63c0598465a28955db41ca7cfbc727ca</link>
-<pubDate>Wed, 21 Jan 2026 16:49:04 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 18:51:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A former flight attendant posed as a pilot and received hundreds of free flights, US authorities say]]></title>
+<title><![CDATA[Canadian man posed as a pilot and flight attendant to get hundreds of free flights, authorities say]]></title>
 <link>https://apnews.com/article/fake-airline-pilot-fraud-58a2d18d66aabe462e11c3d72002c8ec</link>
-<pubDate>Wed, 21 Jan 2026 11:56:02 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 18:36:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India agrees to boost trade and strategic ties with UAE amid regional tensions]]></title>
+<link>https://apnews.com/article/india-uae-trade-defense-deals-818b244218560d44fc21492d2c8f3374</link>
+<pubDate>Mon, 19 Jan 2026 16:16:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[$1 billion gets a permanent seat on Trump’s Board of Peace for Gaza, as India and others invited]]></title>
 <link>https://apnews.com/article/gaza-israel-palestinians-board-peace-hamas-5f902ea2b1158f0a806c247d139ff62f</link>
 <pubDate>Tue, 20 Jan 2026 00:55:45 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
 <pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh stays firm in its stand not to play T20 World Cup matches in India]]></title>
-<link>https://apnews.com/article/bangladesh-icc-t20-world-cup-50012cca873d7bb47dcf2a3a57398121</link>
-<pubDate>Wed, 14 Jan 2026 07:47:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +353,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Divisions emerge among western European nations over Trump’s Board of Peace for Gaza]]></title>
+<title><![CDATA[Iranian state TV issues first official death toll from recent protests, saying 3,117 were killed]]></title>
+<link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
+<pubDate>Wed, 21 Jan 2026 18:43:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s Board of Peace is dividing countries in Europe and the Middle East]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-board-of-peace-trump-1-21-2026-2f0e063d03babbd3276f31289ba5f2a2</link>
-<pubDate>Wed, 21 Jan 2026 13:59:31 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 18:28:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A US shift marked Kurdish-led forces’ fall from power in Syria]]></title>
 <link>https://apnews.com/article/syria-sdf-kurdish-washington-military-islamic-state-dcf6869b06e95931a7a40fa4494006c2</link>
 <pubDate>Wed, 21 Jan 2026 16:24:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US military transfers first 150 Islamic State detainees from Syria to Iraq]]></title>
+<link>https://apnews.com/article/syria-alhol-sdf-hassakeh-islamic-state-prisoners-2b4ec1e38c689b1858655de0c25e10ef</link>
+<pubDate>Wed, 21 Jan 2026 18:13:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,21 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military transfers the first 150 Islamic State group detainees from Syria to Iraq]]></title>
-<link>https://apnews.com/article/syria-alhol-sdf-hassakeh-islamic-state-prisoners-2b4ec1e38c689b1858655de0c25e10ef</link>
-<pubDate>Wed, 21 Jan 2026 17:04:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s top diplomat issues most direct threat yet to US after crackdown on protests]]></title>
-<link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
-<pubDate>Wed, 21 Jan 2026 16:49:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Car bomb in Yemen kills 3 and is said to target a leader with Saudi-backed group]]></title>
 <link>https://apnews.com/article/yemen-aden-explosion-saudi-giants-brigades-9bef49035de52be4d03ed2fd345ba5a8</link>
 <pubDate>Wed, 21 Jan 2026 14:50:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s settler movement takes victory lap as a sparse outpost becomes a settlement within a month]]></title>
+<link>https://apnews.com/article/israel-settlers-west-bank-ad62cc10b512a607aee77cc91873519f</link>
+<pubDate>Tue, 20 Jan 2026 20:37:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[IRS head announces a shake-up on the eve of the 2026 tax season]]></title>
+<title><![CDATA[IRS head announces a shake-up on eve of 2026 tax season]]></title>
 <link>https://apnews.com/article/treasury-irs-tax-season-fd379f43d501d064cdad046eb32fb9f6</link>
-<pubDate>Wed, 21 Jan 2026 07:37:19 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 17:58:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at Trump’s Board of Peace and who has been invited]]></title>
-<link>https://apnews.com/article/hamas-israel-ceasefire-netanyahu-trump-6a29026f0308ba3757c975810e2f90c4</link>
-<pubDate>Tue, 20 Jan 2026 20:07:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Jailed Ugandan opposition figure Besigye’s health is failing, his party says]]></title>
 <link>https://apnews.com/article/uganda-opposition-figure-besigye-health-663a191bd05f5e6418f7fb6f3cadf9b4</link>
 <pubDate>Tue, 20 Jan 2026 07:53:45 -0000</pubDate>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India agrees to boost trade and strategic ties with UAE amid regional tensions]]></title>
-<link>https://apnews.com/article/india-uae-trade-defense-deals-818b244218560d44fc21492d2c8f3374</link>
-<pubDate>Mon, 19 Jan 2026 18:23:09 -0000</pubDate>
+<title><![CDATA[India wins T20 series opener against New Zealand by 48 runs]]></title>
+<link>https://apnews.com/article/india-new-zealand-t20-cricket-272155825a592efa8ca58a7c3e8fbe61</link>
+<pubDate>Wed, 21 Jan 2026 17:43:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
