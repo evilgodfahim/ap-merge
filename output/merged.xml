@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 21 Jan 2026 11:42:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 12:26:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Internet shutdown squeezes Iran’s ailing businesses already hurt by crashing currency]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-internet-business-costs-a0bd2df1d13355dcc28f46e5b5b3c893</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU chief says Trump’s threats challenge Europe’s security and prosperity, ahead of emergency summit]]></title>
+<link>https://apnews.com/article/europe-trump-greenland-summit-tariffs-4f813d720136c374c1a0051c7f0de0fb</link>
+<pubDate>Wed, 21 Jan 2026 12:26:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s Greenland threats spark outrage from EU and test longtime NATO alliance]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-bessent-davos-ab05ebfaae6a413d1f8125cb9726a4c5</link>
 <pubDate>Wed, 21 Jan 2026 08:18:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Danish veterans of US wars feel betrayed by Trump’s threats against Greenland]]></title>
-<link>https://apnews.com/article/denmark-veterans-greenland-us-afghanistan-3a2ddb39ad5404550fff6e375fc84933</link>
-<pubDate>Wed, 21 Jan 2026 10:52:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia batters Ukraine’s power grid again as officials seek momentum in US-led peace talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-drones-missiles-electricity-cc5f4542e0a5d3c05b948d4e0c64984f</link>
-<pubDate>Tue, 20 Jan 2026 13:44:15 -0000</pubDate>
+<title><![CDATA[Macron urges EU to consider trade ‘bazooka’ in response to US tariffs threat]]></title>
+<link>https://apnews.com/article/eu-us-tensions-trade-tariffs-greenland-e30b341ce1c6d95a168067dd4348586b</link>
+<pubDate>Wed, 21 Jan 2026 12:11:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico sends 37 cartel members to US in latest offer to Trump administration]]></title>
+<link>https://apnews.com/article/mexico-us-trump-cartel-members-garcia-harfuch-e6af78fd8a5c851a81f7174324d55e51</link>
+<pubDate>Tue, 20 Jan 2026 18:59:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Veteran AP videographer describes grisly images and ‘burning smoke’ of a Haitian gang attack]]></title>
 <link>https://apnews.com/article/haiti-violence-port-au-prince-photographer-interview-e156bb2d8ff5add06194946d2030d865</link>
 <pubDate>Wed, 21 Jan 2026 00:57:46 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[As fires in Chile burn, a mobile clinic fights to save furry survivors]]></title>
 <link>https://apnews.com/article/chile-wildfires-pets-rescue-first-aid-2f6a8e031c5e4102407621b864ebe6b3</link>
 <pubDate>Wed, 21 Jan 2026 04:45:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia slashes wages for its legislators as public spending balloons ahead of election]]></title>
-<link>https://apnews.com/article/colombia-petro-congress-wages-cut-slashed-reduced-election-c72b54a7c4f8d07a0427eb5a9a9b7dc2</link>
-<pubDate>Wed, 21 Jan 2026 00:42:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Forecasters warn of a ‘potentially catastrophic’ storm from Texas to the Carolinas]]></title>
-<link>https://apnews.com/article/winter-weather-snow-ice-weekend-storm-ba67d30f05cbe14e9568907f09d2f13f</link>
-<pubDate>Tue, 20 Jan 2026 19:52:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Doctors in Minnesota decry fear and chaos amid Trump administration’s immigration crackdown]]></title>
 <link>https://apnews.com/article/immigration-minneapolis-trump-crackdown-7ed3b62246d19ff4e6c5be8813415a83</link>
 <pubDate>Tue, 20 Jan 2026 21:25:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Forecasters warn of a ‘potentially catastrophic’ storm from Texas to the Carolinas]]></title>
+<link>https://apnews.com/article/winter-weather-snow-ice-weekend-storm-ba67d30f05cbe14e9568907f09d2f13f</link>
+<pubDate>Tue, 20 Jan 2026 19:52:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘West Wing’ actor Timothy Busfield released from New Mexico jail pending trial]]></title>
-<link>https://apnews.com/article/timothy-busfield-child-sex-abuse-charges-d35a83ab57dc0e7a37c25a92ffc63a11</link>
-<pubDate>Wed, 21 Jan 2026 10:07:12 -0000</pubDate>
+<title><![CDATA[A former flight attendant posed as a pilot and received hundreds of free flights, US authorities say]]></title>
+<link>https://apnews.com/article/fake-airline-pilot-fraud-58a2d18d66aabe462e11c3d72002c8ec</link>
+<pubDate>Wed, 21 Jan 2026 11:56:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Power cut affects the Danish Baltic Sea island of Bornholm]]></title>
-<link>https://apnews.com/article/denmark-bornholm-baltic-island-power-cut-5afc37ac812501febdd5d27b784c827e</link>
-<pubDate>Wed, 21 Jan 2026 10:52:12 -0000</pubDate>
+<title><![CDATA[Malaysia to charge 2 former generals in high-profile military corruption case]]></title>
+<link>https://apnews.com/article/malaysia-military-chiefs-corruption-c47789e197b53d941123ad89bc05a745</link>
+<pubDate>Wed, 21 Jan 2026 12:26:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prince Harry set to give evidence at London’s High Court in privacy case]]></title>
+<title><![CDATA[Olympic visitors to Milan get a rare chance to glimpse restoration of a long-hidden Leonardo gem]]></title>
+<link>https://apnews.com/article/leonardo-restoration-milan-cortina-olympics-6bb38de2810f194fe359efc5ef26f308</link>
+<pubDate>Wed, 21 Jan 2026 12:11:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Social media users mobilize to find Boro, a dog who survived Spain’s train crash]]></title>
+<link>https://apnews.com/article/spain-train-crash-lost-dog-1013dc63268082f988f846e55764099f</link>
+<pubDate>Wed, 21 Jan 2026 11:56:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK inflation inches up in December but a decline toward 2% is expected in 2026]]></title>
+<link>https://apnews.com/article/britain-inflation-interest-rates-22023905efd245316a0cb909df587899</link>
+<pubDate>Wed, 21 Jan 2026 11:41:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Power cut caused by technical fault affects the Danish Baltic Sea island of Bornholm]]></title>
+<link>https://apnews.com/article/denmark-bornholm-baltic-island-power-cut-5afc37ac812501febdd5d27b784c827e</link>
+<pubDate>Wed, 21 Jan 2026 11:26:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prince Harry takes the stand in his phone hacking lawsuit against Daily Mail]]></title>
 <link>https://apnews.com/article/uk-prince-harry-daily-mail-lawsuit-49b30ef0c67c3a716514208119d1db5d</link>
-<pubDate>Wed, 21 Jan 2026 10:37:12 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 11:11:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Danish veterans of US wars feel betrayed by Trump’s threats against Greenland]]></title>
+<link>https://apnews.com/article/denmark-veterans-greenland-us-afghanistan-3a2ddb39ad5404550fff6e375fc84933</link>
+<pubDate>Wed, 21 Jan 2026 10:56:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ambush in northwest Nigeria kills 5 soldiers and 1 police officer]]></title>
 <link>https://apnews.com/article/nigeria-ambush-zamfara-kidnap-boko-haram-iswap-5c3cc1cd09a1d9a46c4bd4a00e822d09</link>
 <pubDate>Wed, 21 Jan 2026 09:22:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Another train crashes in Spain, killing at least 1 person]]></title>
+<title><![CDATA[Another train crashes in Spain, killing 1 person, days after fatal high-speed collision]]></title>
 <link>https://apnews.com/article/spain-train-crash-adamuz-barcelona-71f6ad926cd48044df6854fdd52ba722</link>
-<pubDate>Wed, 21 Jan 2026 09:52:12 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 10:41:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -236,6 +266,12 @@
 <title><![CDATA[Trump recaps his first year back in office with winding remarks, paper tossing and impressions]]></title>
 <link>https://apnews.com/article/trump-news-conference-one-year-0c23d44f51f60f94c730a0cd80fe7fac</link>
 <pubDate>Wed, 21 Jan 2026 00:57:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Colombia slashes wages for its legislators as public spending balloons ahead of election]]></title>
+<link>https://apnews.com/article/colombia-petro-congress-wages-cut-slashed-reduced-election-c72b54a7c4f8d07a0427eb5a9a9b7dc2</link>
+<pubDate>Wed, 21 Jan 2026 05:00:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,39 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU plans phase out of high risk telecom suppliers, in proposals seen as targeting China]]></title>
-<link>https://apnews.com/article/european-union-brussels-telecom-cybersecurity-china-a6b8324b19d1f4e8ec135b2846d207f1</link>
-<pubDate>Tue, 20 Jan 2026 17:22:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In their words: Trump’s threats over Greenland draw warnings and profanities at global forum]]></title>
-<link>https://apnews.com/article/davos-greenland-trump-macron-newsom-wef-leyen-ee1791fd72153cef9bd428e2d37cc354</link>
-<pubDate>Tue, 20 Jan 2026 16:21:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia’s top diplomat says NATO faces a deep crisis over Greenland]]></title>
-<link>https://apnews.com/article/russia-lavrov-trump-putin-nato-greenland-ukraine-f4026977b1f4fb4d08be07ed54c34c07</link>
-<pubDate>Tue, 20 Jan 2026 22:26:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Baby dies from cold in Gaza as leaders meet to discuss Trump’s Board of Peace]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-trump-board-2ee74b98369ee1bcd574ac2dce3a0645</link>
-<pubDate>Tue, 20 Jan 2026 20:07:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[7 lawmakers quit Geert Wilders’ far-right party in stunning setback for Dutch anti-Islam firebrand]]></title>
-<link>https://apnews.com/article/wilders-netherlands-lawmaker-politics-e567e9c4712b002a944c68c5867be4c8</link>
-<pubDate>Tue, 20 Jan 2026 15:05:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump is on his way to Davos, where his quest to own Greenland could overshadow his other goals]]></title>
+<title><![CDATA[Trump will talk domestic policy at Davos, where his quest for Greenland could overshadow other goals]]></title>
 <link>https://apnews.com/article/trump-davos-housing-greenland-gaza-a2f3f4c18ba321c8025a3e208fc0ddf6</link>
-<pubDate>Wed, 21 Jan 2026 05:30:14 -0000</pubDate>
+<pubDate>Wed, 21 Jan 2026 12:26:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,12 +374,6 @@
 <title><![CDATA[Top ally of South Korea’s Yoon given 23 years in prison for rebellion over martial law crisis]]></title>
 <link>https://apnews.com/article/south-korea-rebellion-han-yoon-martial-law-02cd62787fae86f1f86db8b8e6c9b1f4</link>
 <pubDate>Wed, 21 Jan 2026 09:07:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela in Trump’s effort to control its oil]]></title>
-<link>https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf</link>
-<pubDate>Tue, 20 Jan 2026 22:41:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico sends 37 cartel members to US in latest offer to Trump administration]]></title>
-<link>https://apnews.com/article/mexico-us-trump-cartel-members-garcia-harfuch-e6af78fd8a5c851a81f7174324d55e51</link>
-<pubDate>Wed, 21 Jan 2026 06:27:18 -0000</pubDate>
+<title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela in Trump’s effort to control its oil]]></title>
+<link>https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf</link>
+<pubDate>Tue, 20 Jan 2026 22:41:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
