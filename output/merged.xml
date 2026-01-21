@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 21 Jan 2026 04:59:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 05:30:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Internet shutdown squeezes Iran’s ailing businesses already hurt by crashing currency]]></title>
+<link>https://apnews.com/article/iran-protests-crackdown-internet-business-costs-a0bd2df1d13355dcc28f46e5b5b3c893</link>
+<pubDate>Wed, 21 Jan 2026 05:30:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran warns Trump not to take action against Khamenei]]></title>
 <link>https://apnews.com/article/iran-protests-trump-khamenei-internet-shutdown-f1350fbcf2b85ac0652a476ba1842749</link>
 <pubDate>Tue, 20 Jan 2026 22:41:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey’s pro-Kurdish party warns Syria violence threatens peace efforts]]></title>
-<link>https://apnews.com/article/turkey-syria-kurdish-party-peace-dem-sdf-4f40657249501906a90fb63e049609e7</link>
-<pubDate>Tue, 20 Jan 2026 20:37:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump slams UK deal to hand over Chagos Islands after he previously backed it]]></title>
-<link>https://apnews.com/article/trump-britain-chagos-islands-greenland-0a6ac404299861b43769f57930839825</link>
-<pubDate>Tue, 20 Jan 2026 10:36:20 -0000</pubDate>
+<title><![CDATA[Trump is on his way to Davos, where his quest to own Greenland could overshadow his other goals]]></title>
+<link>https://apnews.com/article/trump-davos-housing-greenland-gaza-a2f3f4c18ba321c8025a3e208fc0ddf6</link>
+<pubDate>Wed, 21 Jan 2026 05:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Barcelona commuter train crashes, killing 1, days after deadly train collision in Spain]]></title>
-<link>https://apnews.com/article/spain-train-crash-adamuz-e4385320da523b41a4916d93a9063657</link>
-<pubDate>Tue, 20 Jan 2026 22:26:39 -0000</pubDate>
+<title><![CDATA[Trump slams UK deal to hand over Chagos Islands after he previously backed it]]></title>
+<link>https://apnews.com/article/trump-britain-chagos-islands-greenland-0a6ac404299861b43769f57930839825</link>
+<pubDate>Tue, 20 Jan 2026 10:36:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia’s Parliament passes gun restrictions and anti-hate speech law after Bondi shooting]]></title>
-<link>https://apnews.com/article/australia-gun-laws-hate-speech-parliament-2cf0b2e74634027945a6e10b6398c3ae</link>
-<pubDate>Wed, 21 Jan 2026 04:04:42 -0000</pubDate>
+<title><![CDATA[Man who assassinated former Japanese prime minister gets life in prison]]></title>
+<link>https://apnews.com/article/japan-abe-assassination-trial-unification-church-925d6cc24e58c50d530736af15fe8c35</link>
+<pubDate>Wed, 21 Jan 2026 05:00:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK approves a ‘mega’ Chinese Embassy in London, despite criticism of security risks]]></title>
-<link>https://apnews.com/article/britain-chinese-embassy-security-2ba7218fba9881acec81968ecf71aaaf</link>
-<pubDate>Tue, 20 Jan 2026 19:22:50 -0000</pubDate>
+<title><![CDATA[Australia’s Parliament passes gun restrictions and anti-hate speech law after Bondi shooting]]></title>
+<link>https://apnews.com/article/australia-gun-laws-hate-speech-parliament-2cf0b2e74634027945a6e10b6398c3ae</link>
+<pubDate>Wed, 21 Jan 2026 04:04:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia slashes wages for its legislators as public spending balloons ahead of election]]></title>
-<link>https://apnews.com/article/colombia-petro-congress-wages-cut-slashed-reduced-election-c72b54a7c4f8d07a0427eb5a9a9b7dc2</link>
-<pubDate>Wed, 21 Jan 2026 00:42:46 -0000</pubDate>
+<title><![CDATA[As fires in Chile burn, a mobile clinic fights to save furry survivors]]></title>
+<link>https://apnews.com/article/chile-wildfires-pets-rescue-first-aid-2f6a8e031c5e4102407621b864ebe6b3</link>
+<pubDate>Wed, 21 Jan 2026 04:45:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK approves a ‘mega’ Chinese Embassy in London, despite criticism of security risks]]></title>
+<link>https://apnews.com/article/britain-chinese-embassy-security-2ba7218fba9881acec81968ecf71aaaf</link>
+<pubDate>Tue, 20 Jan 2026 19:22:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Islamic State group claims blast on Chinese restaurant in Kabul that killed 7]]></title>
 <link>https://apnews.com/article/afghanistan-kabul-explosion-islamic-state-group-claim-1b450333f11a4b82379259701ed54ab1</link>
 <pubDate>Tue, 20 Jan 2026 12:44:15 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s population falls again as births drop to lowest rate since 1949 communist revolution]]></title>
 <link>https://apnews.com/article/china-population-shrinks-births-tax-condoms-868cd1ffc949af5a2e94c523e750e97e</link>
 <pubDate>Mon, 19 Jan 2026 10:36:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese steel factory officials detained after explosion that leaves 4 dead, 6 missing]]></title>
-<link>https://apnews.com/article/china-inner-mongolia-factory-explosion-baotou-steel-2ea4d95cb5ceac49acd92924133a6a82</link>
-<pubDate>Mon, 19 Jan 2026 13:57:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US futures edge higher and gold hits another record as markets swoon over Greenland dispute]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-bonds-gold-82e0341ef60b2719d79e1631e006bfed</link>
+<pubDate>Wed, 21 Jan 2026 05:30:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PHOTO ESSAY: Centuries-old bull festival in southern India remains a popular draw]]></title>
+<link>https://apnews.com/photo-essay/india-bull-festival-pongal-tamil-nadu-402e0ea0575af0cf292591af28e32766</link>
+<pubDate>Wed, 21 Jan 2026 05:15:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air Force One returns to Washington area due to minor electrical issue, White House says]]></title>
 <link>https://apnews.com/article/trump-air-force-one-electrical-issue-c3044b52b792a8c12f6211718d94f8fe</link>
 <pubDate>Wed, 21 Jan 2026 04:04:42 -0000</pubDate>
@@ -176,6 +188,12 @@
 <title><![CDATA[Trump recaps his first year back in office with winding remarks, paper tossing and impressions]]></title>
 <link>https://apnews.com/article/trump-news-conference-one-year-0c23d44f51f60f94c730a0cd80fe7fac</link>
 <pubDate>Wed, 21 Jan 2026 00:57:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Colombia slashes wages for its legislators as public spending balloons ahead of election]]></title>
+<link>https://apnews.com/article/colombia-petro-congress-wages-cut-slashed-reduced-election-c72b54a7c4f8d07a0427eb5a9a9b7dc2</link>
+<pubDate>Wed, 21 Jan 2026 05:00:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Turkey’s pro-Kurdish party warns Syria violence threatens peace efforts]]></title>
+<link>https://apnews.com/article/turkey-syria-kurdish-party-peace-dem-sdf-4f40657249501906a90fb63e049609e7</link>
+<pubDate>Wed, 21 Jan 2026 04:45:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia’s top diplomat says NATO faces a deep crisis over Greenland]]></title>
 <link>https://apnews.com/article/russia-lavrov-trump-putin-nato-greenland-ukraine-f4026977b1f4fb4d08be07ed54c34c07</link>
 <pubDate>Tue, 20 Jan 2026 22:26:40 -0000</pubDate>
@@ -323,30 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show the first year of President Donald Trump’s second term]]></title>
-<link>https://apnews.com/photo-gallery/trump-photo-gallery-first-year-second-term-bb787b84e5b2116ef25f44b056dd8796</link>
-<pubDate>Tue, 20 Jan 2026 12:44:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel will aid Greece in countering military drone swarms]]></title>
-<link>https://apnews.com/article/greece-israel-defense-drones-turkey-1d72b4be222c1796b0b79b27489ed5db</link>
-<pubDate>Tue, 20 Jan 2026 12:25:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why experts question whether China’s one-child policy was necessary in the first place]]></title>
-<link>https://apnews.com/article/china-one-child-policy-population-birth-rate-a4ca6cee5b50c9f95dc6d809587c17cc</link>
-<pubDate>Wed, 21 Jan 2026 03:34:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Sudan president fires interior minister in a move threatening peace agreement]]></title>
-<link>https://apnews.com/article/south-sudan-interior-minister-kiir-machar-74e07071134457a1ce8f7b5b98abaa44</link>
-<pubDate>Tue, 20 Jan 2026 12:10:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela in Trump’s effort to control its oil]]></title>
 <link>https://apnews.com/article/venezuela-oil-tanker-us-military-trump-086d42db3d56f0e952014f97fa30faaf</link>
 <pubDate>Tue, 20 Jan 2026 22:41:40 -0000</pubDate>
@@ -377,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli crews target UN facilities for Palestinian refugees in east Jerusalem]]></title>
+<link>https://apnews.com/article/israel-palestinians-gaza-east-jerusalem-unrwa-cc9c5b2cac2332f0207d485f381be53d</link>
+<pubDate>Tue, 20 Jan 2026 13:59:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Syrian military, Kurdish-led forces announce new truce after guards leave camp housing IS families]]></title>
 <link>https://apnews.com/article/syria-clashes-islamic-state-prison-break-2d562b15fe1c36c8ffa00d787e496546</link>
 <pubDate>Tue, 20 Jan 2026 17:23:00 -0000</pubDate>
@@ -392,12 +398,6 @@
 <title><![CDATA[A look at Trump’s Board of Peace and who has been invited]]></title>
 <link>https://apnews.com/article/hamas-israel-ceasefire-netanyahu-trump-6a29026f0308ba3757c975810e2f90c4</link>
 <pubDate>Tue, 20 Jan 2026 20:07:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Internet shutdown squeezes Iran’s ailing businesses already hurt by crashing currency]]></title>
-<link>https://apnews.com/article/iran-protests-crackdown-internet-business-costs-a0bd2df1d13355dcc28f46e5b5b3c893</link>
-<pubDate>Tue, 20 Jan 2026 12:25:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +440,6 @@
 <title><![CDATA[Trump threats and Bukele model on crime back Latin American progressives into corner]]></title>
 <link>https://apnews.com/article/latin-america-politics-bukele-organized-crime-5d76ddc581eda87584372a84d505b602</link>
 <pubDate>Tue, 20 Jan 2026 08:03:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian government deal with Kurdish fighters appears to unravel as IS prisoners escape]]></title>
-<link>https://apnews.com/article/raqqa-shaddadeh-syria-sdf-islamic-state-prisoners-70a503ea8eb45c505ab84b5405180a76</link>
-<pubDate>Mon, 19 Jan 2026 21:39:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
