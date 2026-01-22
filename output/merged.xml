@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 22 Jan 2026 03:02:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 04:30:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel’s settler movement takes victory lap as a sparse outpost becomes a settlement within a month]]></title>
 <link>https://apnews.com/article/israel-settlers-west-bank-ad62cc10b512a607aee77cc91873519f</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As Trump talks tariffs, his Argentine ally welcomes a first shipload of Chinese EVs]]></title>
+<link>https://apnews.com/article/argentina-chinese-electric-vehicles-javier-milei-trump-eu-mercosur-trump-8cda0de9cf2da3add6d898700b80c386</link>
+<pubDate>Thu, 22 Jan 2026 04:30:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Police begin to flex new powers in Guatemala in effort to confront gangs]]></title>
 <link>https://apnews.com/article/guatemala-gangs-police-arevalo-536079ecd1383a6850bdffa090c02395</link>
 <pubDate>Thu, 22 Jan 2026 00:42:32 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Catholicism shrinks in Latin America while more are religiously unaffiliated, Pew surveys find]]></title>
 <link>https://apnews.com/article/latin-america-religion-catholic-pew-research-aa0e9dff137f997c43000285263914d9</link>
 <pubDate>Wed, 21 Jan 2026 14:45:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Former Iowa superintendent expected to plead guilty to falsely claiming US citizenship]]></title>
-<link>https://apnews.com/article/ian-roberts-ice-superintendent-iowa-514ce37646ecbfaa624275494083110d</link>
-<pubDate>Wed, 21 Jan 2026 23:12:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the trial in Hong Kong against Tiananmen vigil organizers]]></title>
+<link>https://apnews.com/article/hong-kong-tiananmen-vigil-organizers-trial-efbe6b32254c6eeda681828d7bc40240</link>
+<pubDate>Wed, 21 Jan 2026 02:57:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China meets initial soybean purchase goal, but Trump’s shifting trade policy could disrupt deal]]></title>
 <link>https://apnews.com/article/trump-china-soybeans-trade-war-tariffs-xi-b973ce99802403b7c1759320c225a524</link>
 <pubDate>Wed, 21 Jan 2026 15:39:10 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[UK approves a ‘mega’ Chinese Embassy in London, despite criticism of security risks]]></title>
 <link>https://apnews.com/article/britain-chinese-embassy-security-2ba7218fba9881acec81968ecf71aaaf</link>
 <pubDate>Tue, 20 Jan 2026 19:22:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Islamic State group claims blast on Chinese restaurant in Kabul that killed 7]]></title>
-<link>https://apnews.com/article/afghanistan-kabul-explosion-islamic-state-group-claim-1b450333f11a4b82379259701ed54ab1</link>
-<pubDate>Tue, 20 Jan 2026 12:44:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
 <pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Malaysia’s former army chief charged with money laundering in defense scandal]]></title>
+<link>https://apnews.com/article/malaysia-military-chief-corruption-0e23fb6277d15f0e6eb0d6a292db7056</link>
+<pubDate>Thu, 22 Jan 2026 04:03:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Second fatal train crash shocks Spain as death toll in the first collision rises to 43]]></title>
-<link>https://apnews.com/article/spain-train-crash-adamuz-barcelona-71f6ad926cd48044df6854fdd52ba722</link>
-<pubDate>Wed, 21 Jan 2026 16:21:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump backs down on Greenland and cancels tariff threat after NATO agrees to future Arctic deal]]></title>
 <link>https://apnews.com/article/trump-davos-housing-greenland-gaza-a2f3f4c18ba321c8025a3e208fc0ddf6</link>
 <pubDate>Wed, 21 Jan 2026 23:15:40 -0000</pubDate>
@@ -362,6 +362,12 @@
 <title><![CDATA[Israeli fire strikes journalists and children on one of Gaza’s deadliest days since ceasefire]]></title>
 <link>https://apnews.com/article/gaza-israel-fire-palestinian-deaths-d40bf79679b73bc11e2d7d6743724290</link>
 <pubDate>Wed, 21 Jan 2026 22:14:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran offers first government-issued death toll from protest crackdown, one far lower than activists]]></title>
+<link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
+<pubDate>Thu, 22 Jan 2026 02:06:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran offers first government-issued death toll from protest crackdown, one far lower than activists]]></title>
-<link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
-<pubDate>Thu, 22 Jan 2026 02:06:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A list of countries joining Trump’s Board of Peace, those not joining and those not committed]]></title>
 <link>https://apnews.com/article/trump-netanyahu-gaza-board-of-peace-a4a296f736474e8c6a4edacd7109b8e5</link>
 <pubDate>Wed, 21 Jan 2026 19:02:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Car bomb in Yemen kills 3 and is said to target a leader with Saudi-backed group]]></title>
+<link>https://apnews.com/article/yemen-aden-explosion-saudi-giants-brigades-9bef49035de52be4d03ed2fd345ba5a8</link>
+<pubDate>Wed, 21 Jan 2026 14:50:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[National security trial for Hong Kong’s Tiananmen vigil organizers to open]]></title>
+<title><![CDATA[National security trial for Hong Kong’s Tiananmen vigil organizers opens]]></title>
 <link>https://apnews.com/article/tiananmen-trial-vigil-lee-ho-chow-open-b5e78e5f92b505e53ecb46301eb11bec</link>
-<pubDate>Thu, 22 Jan 2026 00:57:34 -0000</pubDate>
+<pubDate>Thu, 22 Jan 2026 04:30:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As Trump talks tariffs, his Argentine ally welcomes a first shipload of Chinese EVs]]></title>
-<link>https://apnews.com/article/argentina-chinese-electric-vehicles-javier-milei-trump-eu-mercosur-trump-8cda0de9cf2da3add6d898700b80c386</link>
-<pubDate>Thu, 22 Jan 2026 01:51:20 -0000</pubDate>
+<title><![CDATA[In the ashes of Lirquén: How a small town is rising from Chile’s devastating wildfires]]></title>
+<link>https://apnews.com/article/chile-wildfires-south-burn-lirquen-aid-eec400de5de505d68bc37c08e588f161</link>
+<pubDate>Thu, 22 Jan 2026 04:15:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the trial in Hong Kong against Tiananmen vigil organizers]]></title>
-<link>https://apnews.com/article/hong-kong-tiananmen-vigil-organizers-trial-efbe6b32254c6eeda681828d7bc40240</link>
-<pubDate>Wed, 21 Jan 2026 15:39:11 -0000</pubDate>
+<title><![CDATA[Japan records a 5th straight yearly trade deficit]]></title>
+<link>https://apnews.com/article/japan-trump-trade-economy-tariffs-takaichi-a26b35639a1a25fb144e73995bbe4bdf</link>
+<pubDate>Thu, 22 Jan 2026 04:00:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
