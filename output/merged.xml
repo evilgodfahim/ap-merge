@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 22 Jan 2026 18:17:57 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US military transfers first 150 Islamic State detainees from Syria to Iraq]]></title>
-<link>https://apnews.com/article/syria-alhol-sdf-hassakeh-islamic-state-prisoners-2b4ec1e38c689b1858655de0c25e10ef</link>
-<pubDate>Thu, 22 Jan 2026 16:21:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 22 Jan 2026 18:56:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran offers first government-issued death toll from protest crackdown, one far lower than activists]]></title>
 <link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
 <pubDate>Thu, 22 Jan 2026 15:02:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Who’s on Trump’s Board of Peace and who said no]]></title>
+<link>https://apnews.com/article/trump-netanyahu-gaza-board-of-peace-a4a296f736474e8c6a4edacd7109b8e5</link>
+<pubDate>Thu, 22 Jan 2026 10:51:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France’s navy intercepts an oil tanker in the Mediterranean sailing from Russia]]></title>
-<link>https://apnews.com/article/france-navy-russia-shadow-fleet-tanker-32fe6c46d2ad32219c01f49ef7c9dc16</link>
-<pubDate>Thu, 22 Jan 2026 17:25:29 -0000</pubDate>
+<title><![CDATA[Denmark and Greenland say sovereignty is not negotiable after Trump’s reversal on tariffs]]></title>
+<link>https://apnews.com/article/denmark-greenland-trump-arctic-security-nato-d74c0ffcf1db904a2a9c3b2c5c5b8d03</link>
+<pubDate>Thu, 22 Jan 2026 18:56:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s Zelenskyy says his repeated warnings to Europe feel like ‘Groundhog Day’]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-davos-peace-europe-2868a90778ddd304002b91f5d06fe454</link>
-<pubDate>Thu, 22 Jan 2026 17:10:29 -0000</pubDate>
+<title><![CDATA[France’s navy intercepts an oil tanker in the Mediterranean sailing from Russia]]></title>
+<link>https://apnews.com/article/france-navy-russia-shadow-fleet-tanker-32fe6c46d2ad32219c01f49ef7c9dc16</link>
+<pubDate>Thu, 22 Jan 2026 17:25:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli fire strikes journalists and children on one of Gaza’s deadliest days since ceasefire]]></title>
-<link>https://apnews.com/article/gaza-israel-fire-palestinian-deaths-d40bf79679b73bc11e2d7d6743724290</link>
-<pubDate>Thu, 22 Jan 2026 08:18:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Car bomb in Yemen kills 3 and is said to target a leader with Saudi-backed group]]></title>
 <link>https://apnews.com/article/yemen-aden-explosion-saudi-giants-brigades-9bef49035de52be4d03ed2fd345ba5a8</link>
 <pubDate>Thu, 22 Jan 2026 00:57:32 -0000</pubDate>
@@ -95,15 +89,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nigeria church attackers demand ransoms as search intensifies for over 150 hostages]]></title>
+<link>https://apnews.com/article/nigeria-church-attack-abduction-3b475c2cb7399aed0bf07cbbd86fa9c1</link>
+<pubDate>Thu, 22 Jan 2026 18:41:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Guinea-Bissau suspends Trump-backed hepatitis B vaccine study for ethical review]]></title>
 <link>https://apnews.com/article/guinea-bissau-suspends-us-hepatitis-b-study-9d172d68afb36c62a85d1236f639ddcf</link>
 <pubDate>Thu, 22 Jan 2026 14:36:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda to test AI-powered technology in clinics under a new Gates Foundation project]]></title>
-<link>https://apnews.com/article/rwanda-health-bill-gates-openai-5a415ed39247c674c15e33e12bf7fb11</link>
-<pubDate>Thu, 22 Jan 2026 16:40:29 -0000</pubDate>
+<title><![CDATA[Maine’s governor demands data on immigration arrests as fear spreads amid enforcement surge]]></title>
+<link>https://apnews.com/article/maine-immigration-enforcement-trump-ice-1e5d1dcf3f387b2c629fa7389df4167e</link>
+<pubDate>Thu, 22 Jan 2026 18:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,15 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Huge US winter storm to bring crippling snow, sleet and ice from Texas to Boston]]></title>
-<link>https://apnews.com/article/winter-storm-ice-snow-freezing-rain-f8f2277db0d87b1aa3d4893c565ce57c</link>
-<pubDate>Thu, 22 Jan 2026 16:25:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Millions of Americans prepare for potentially catastrophic ice storm. Here’s what the numbers show]]></title>
-<link>https://apnews.com/article/winter-weather-snow-ice-weekend-storm-e82e152fea39809180714137d7aa56a4</link>
-<pubDate>Thu, 22 Jan 2026 09:36:09 -0000</pubDate>
+<title><![CDATA[Trial of Chicago man accused of putting bounty on top Border Patrol leader sent to jury]]></title>
+<link>https://apnews.com/article/immigration-arrests-murder-bounty-chicago-trial-bf73aa9f3f0b5478e199a38b09311364</link>
+<pubDate>Thu, 22 Jan 2026 18:11:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +173,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Google offers users option to plug AI mode into their photos, email for more personalized answers]]></title>
-<link>https://apnews.com/article/google-search-personal-artificial-intelligence-gemini-95f056c7c4bbd728d931578d3be49d31</link>
-<pubDate>Thu, 22 Jan 2026 16:21:06 -0000</pubDate>
+<title><![CDATA[‘Heated Rivalry’ co-stars to be torchbearers for the Milan Cortina Olympics]]></title>
+<link>https://apnews.com/article/heated-rivarly-milan-olympics-torchebearers-aeddfdd31c00c0ea27a271977fab923d</link>
+<pubDate>Thu, 22 Jan 2026 18:38:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nigeria church attackers demand ransoms as search intensifies for over 150 hostages]]></title>
-<link>https://apnews.com/article/nigeria-church-attack-abduction-3b475c2cb7399aed0bf07cbbd86fa9c1</link>
-<pubDate>Thu, 22 Jan 2026 16:06:06 -0000</pubDate>
+<title><![CDATA[Harry Styles announces 2026 global tour: See the dates]]></title>
+<link>https://apnews.com/article/harry-styles-tour-tickets-2e172903f357ee8c827ab0acad19f1d8</link>
+<pubDate>Thu, 22 Jan 2026 18:23:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican authorities arrest alleged crime figure ‘El Botox’ in killing of lime growers’ leader]]></title>
+<link>https://apnews.com/article/mexico-michoacan-sheinbaum-limes-botox-536262256e71ef85b2841035dede8d31</link>
+<pubDate>Thu, 22 Jan 2026 18:08:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Olympic flame makes historic passage down Venice’s Grand Canal]]></title>
+<link>https://apnews.com/article/winter-games-flame-venice-acabf5f07599676f214761e580af0fa4</link>
+<pubDate>Thu, 22 Jan 2026 17:53:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Google offers users option to plug AI mode into their photos, email for more personalized answers]]></title>
+<link>https://apnews.com/article/google-search-personal-artificial-intelligence-gemini-95f056c7c4bbd728d931578d3be49d31</link>
+<pubDate>Thu, 22 Jan 2026 16:21:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU leaders gather to chart a new course for transatlantic ties after Trump threats over Greenland]]></title>
+<title><![CDATA[French leader says European pressure forced Trump to back down as the EU reconsiders ties]]></title>
 <link>https://apnews.com/article/europe-trump-summit-greenland-tariffs-peace-board-9d4567fc6943b2cfe2556c6d0c6d5674</link>
-<pubDate>Thu, 22 Jan 2026 15:21:06 -0000</pubDate>
+<pubDate>Thu, 22 Jan 2026 17:38:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s European threats could cause lasting damage to US standing in the world]]></title>
+<link>https://apnews.com/article/trump-nato-europe-greenland-denmark-627268004024f111097d7e1c5c2da357</link>
+<pubDate>Thu, 22 Jan 2026 17:23:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In the ashes of Lirquén: How a small town is rising from Chile’s devastating wildfires]]></title>
 <link>https://apnews.com/article/chile-wildfires-south-burn-lirquen-aid-eec400de5de505d68bc37c08e588f161</link>
 <pubDate>Thu, 22 Jan 2026 15:06:06 -0000</pubDate>
@@ -326,36 +344,6 @@
 <title><![CDATA[Djokovic one away from 400 Grand Slam match wins; Wawrinka makes history]]></title>
 <link>https://apnews.com/article/keys-pegula-djokovic-sinner-australian-open-b45c3be1ba7fad0a5a304bae492a1e6b</link>
 <pubDate>Thu, 22 Jan 2026 11:41:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Board of Peace poses latest in a series of US challenges to the United Nations]]></title>
-<link>https://apnews.com/article/board-of-peace-trump-united-nations-security-council-59678c95239b416164d291715f40ac8e</link>
-<pubDate>Thu, 22 Jan 2026 02:32:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazilians affected by US visa suspension evoke frustration but try to remain hopeful]]></title>
-<link>https://apnews.com/article/brazil-us-visa-immigration-c806e79cf4a3e8da1573db5230b672b3</link>
-<pubDate>Thu, 22 Jan 2026 00:24:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Peru’s interim president faces calls for removal over unregistered meetings with Chinese businessmen]]></title>
-<link>https://apnews.com/article/peru-president-jeri-investigation-chinese-businessmen-8c4e1967b6d5364bfb21b68661649a2a</link>
-<pubDate>Wed, 21 Jan 2026 22:14:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-21-2026-57f1bb95d430e5459780b6799baa83be</link>
-<pubDate>Wed, 21 Jan 2026 21:59:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia watches US-European tensions over Greenland with glee, gloating and wariness]]></title>
-<link>https://apnews.com/article/russia-us-greenland-ukraine-war-aa9ec1941fd219ab840863946018346b</link>
-<pubDate>Wed, 21 Jan 2026 21:44:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US military transfers first 150 Islamic State detainees from Syria to Iraq]]></title>
+<link>https://apnews.com/article/syria-alhol-sdf-hassakeh-islamic-state-prisoners-2b4ec1e38c689b1858655de0c25e10ef</link>
+<pubDate>Wed, 21 Jan 2026 18:13:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US stocks climb some more after Trump calls off his tariffs for Greenland]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-greenland-trump-4834e3bc03fa1d3073e027bd67763cc4</link>
 <pubDate>Thu, 22 Jan 2026 16:13:03 -0000</pubDate>
@@ -458,6 +452,12 @@
 <title><![CDATA[Why Chile’s wildfires are spreading faster and burning hotter]]></title>
 <link>https://apnews.com/article/chile-wildfires-climate-change-plantations-drought-448d20e4fb24aca74458db739a20b318</link>
 <pubDate>Thu, 22 Jan 2026 14:18:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli fire strikes journalists and children on one of Gaza’s deadliest days since ceasefire]]></title>
+<link>https://apnews.com/article/gaza-israel-fire-palestinian-deaths-d40bf79679b73bc11e2d7d6743724290</link>
+<pubDate>Wed, 21 Jan 2026 22:14:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
