@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 22 Jan 2026 00:57:34 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Car bomb in Yemen kills 3 and is said to target a leader with Saudi-backed group]]></title>
-<link>https://apnews.com/article/yemen-aden-explosion-saudi-giants-brigades-9bef49035de52be4d03ed2fd345ba5a8</link>
-<pubDate>Thu, 22 Jan 2026 00:57:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 22 Jan 2026 03:02:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel’s settler movement takes victory lap as a sparse outpost becomes a settlement within a month]]></title>
 <link>https://apnews.com/article/israel-settlers-west-bank-ad62cc10b512a607aee77cc91873519f</link>
 <pubDate>Wed, 21 Jan 2026 15:15:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli crews target UN facilities for Palestinian refugees in east Jerusalem]]></title>
+<link>https://apnews.com/article/israel-palestinians-gaza-east-jerusalem-unrwa-cc9c5b2cac2332f0207d485f381be53d</link>
+<pubDate>Wed, 21 Jan 2026 13:59:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rescue efforts underway after landslides hit New Zealand campground and house]]></title>
+<link>https://apnews.com/article/new-zealand-landslide-maunganui-adf7342fac9b80f854dd575520930d5d</link>
+<pubDate>Thu, 22 Jan 2026 03:02:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korea’s former prime minister jailed for 23 years in martial law case]]></title>
+<link>https://apnews.com/article/south-korea-rebellion-han-yoon-martial-law-02cd62787fae86f1f86db8b8e6c9b1f4</link>
+<pubDate>Thu, 22 Jan 2026 02:47:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man who assassinated former Japanese prime minister gets life in prison]]></title>
 <link>https://apnews.com/article/japan-abe-assassination-trial-unification-church-925d6cc24e58c50d530736af15fe8c35</link>
 <pubDate>Wed, 21 Jan 2026 05:00:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dozens of body parts are found after Pakistan’s shopping plaza fire]]></title>
-<link>https://apnews.com/article/pakistan-shopping-plaza-fire-remains-karachi-b2a0c73a2f9ae55b4bc3efcb51fe92b6</link>
-<pubDate>Wed, 21 Jan 2026 16:09:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fukushima nuclear plant operator restarts reactor at another plant, reviving safety concerns]]></title>
-<link>https://apnews.com/article/japan-nuclear-energy-kashiwazaki-kariwa-tepco-fukushima-6c8885be5baa57ca2b2d82e8b325e324</link>
-<pubDate>Wed, 21 Jan 2026 10:37:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Meteorologists blame a stretched polar vortex, moisture, lack of sea ice for dangerous winter blast]]></title>
-<link>https://apnews.com/article/winter-storm-polar-vortex-snow-ice-freezing-06beb5eef46fba3fc81ac3213e5568e0</link>
-<pubDate>Wed, 21 Jan 2026 14:30:53 -0000</pubDate>
+<title><![CDATA[Former Uvalde officer acquitted in trial over police response to Robb Elementary attack]]></title>
+<link>https://apnews.com/article/uvalde-school-shooting-officer-trial-63c0598465a28955db41ca7cfbc727ca</link>
+<pubDate>Thu, 22 Jan 2026 02:32:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Teen pleads guilty to North Carolina mass shooting that killed 5]]></title>
-<link>https://apnews.com/article/north-carolina-mass-shooting-plea-e33aa4a5763c033e10139fab11d150fe</link>
-<pubDate>Thu, 22 Jan 2026 00:27:32 -0000</pubDate>
+<title><![CDATA[Meteorologists blame a stretched polar vortex, moisture, lack of sea ice for dangerous winter blast]]></title>
+<link>https://apnews.com/article/winter-storm-polar-vortex-snow-ice-freezing-06beb5eef46fba3fc81ac3213e5568e0</link>
+<pubDate>Wed, 21 Jan 2026 14:30:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Immigration officials allow suspect in $100M jewelry heist to self deport, avoiding trial]]></title>
+<link>https://apnews.com/article/brinks-jewelry-heist-ice-deportation-687c0197eda0ee6c8bfd1fb7f5987f35</link>
+<pubDate>Thu, 22 Jan 2026 03:02:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Stock market cuts through to Trump on Greenland in a way allies’ messages failed to resonate]]></title>
+<link>https://apnews.com/article/trump-greenland-denmark-stock-markets-davos-3ec896e5f68f21f8c8b067bc7c31d5fc</link>
+<pubDate>Thu, 22 Jan 2026 02:47:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s Board of Peace poses latest in a series of US challenges to the United Nations]]></title>
+<link>https://apnews.com/article/board-of-peace-trump-united-nations-security-council-59678c95239b416164d291715f40ac8e</link>
+<pubDate>Thu, 22 Jan 2026 02:32:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazilians affected by US visa suspension evoke frustration but try to remain hopeful]]></title>
 <link>https://apnews.com/article/brazil-us-visa-immigration-c806e79cf4a3e8da1573db5230b672b3</link>
 <pubDate>Thu, 22 Jan 2026 00:24:21 -0000</pubDate>
@@ -200,6 +218,12 @@
 <title><![CDATA[Rescuers spot wreckage possibly from a helicopter that went missing near a volcano in Japan]]></title>
 <link>https://apnews.com/article/japan-volcano-helicopter-tour-crash-05ea84a0244586dd67eb5192106012bf</link>
 <pubDate>Wed, 21 Jan 2026 17:06:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dozens of body parts are found after Pakistan’s shopping plaza fire]]></title>
+<link>https://apnews.com/article/pakistan-shopping-plaza-fire-remains-karachi-b2a0c73a2f9ae55b4bc3efcb51fe92b6</link>
+<pubDate>Thu, 22 Jan 2026 02:17:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Fukushima nuclear plant operator restarts reactor at another plant, reviving safety concerns]]></title>
+<link>https://apnews.com/article/japan-nuclear-energy-kashiwazaki-kariwa-tepco-fukushima-6c8885be5baa57ca2b2d82e8b325e324</link>
+<pubDate>Thu, 22 Jan 2026 02:02:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rome pays last respects to fashion ‘emperor’ Valentino in a two-day public viewing]]></title>
 <link>https://apnews.com/article/rome-valentino-death-public-viewing-spanish-steps-632c402b9c9214406ded5f70d2c200bd</link>
 <pubDate>Wed, 21 Jan 2026 15:39:06 -0000</pubDate>
@@ -314,30 +344,6 @@
 <title><![CDATA[Second fatal train crash shocks Spain as death toll in the first collision rises to 43]]></title>
 <link>https://apnews.com/article/spain-train-crash-adamuz-barcelona-71f6ad926cd48044df6854fdd52ba722</link>
 <pubDate>Wed, 21 Jan 2026 16:21:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-vertical-photos-ukraine-iran-greenland-f9a09e553732f6a803c3e782537e4666</link>
-<pubDate>Wed, 21 Jan 2026 08:18:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Svitolina is refreshed after a mental health break and into Australian Open’s 3rd round]]></title>
-<link>https://apnews.com/article/elina-svitolina-australian-open-423ca1d4fdb6ddd0e37e6ddaeb5bf7bd</link>
-<pubDate>Wed, 21 Jan 2026 06:58:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As fires in Chile burn, a mobile clinic fights to save furry survivors]]></title>
-<link>https://apnews.com/article/chile-wildfires-pets-rescue-first-aid-2f6a8e031c5e4102407621b864ebe6b3</link>
-<pubDate>Wed, 21 Jan 2026 12:47:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: Centuries-old bull festival in southern India remains a popular draw]]></title>
-<link>https://apnews.com/photo-essay/india-bull-festival-pongal-tamil-nadu-402e0ea0575af0cf292591af28e32766</link>
-<pubDate>Wed, 21 Jan 2026 05:15:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea’s former prime minister jailed for 23 years in martial law case]]></title>
-<link>https://apnews.com/article/south-korea-rebellion-han-yoon-martial-law-02cd62787fae86f1f86db8b8e6c9b1f4</link>
-<pubDate>Wed, 21 Jan 2026 13:44:31 -0000</pubDate>
+<title><![CDATA[Trump keeps calling Greenland ‘Iceland’ during Davos speech]]></title>
+<link>https://apnews.com/video/greenland-is-the-object-of-trumps-desire-but-he-keeps-calling-it-iceland-3483f4e3846f4039b73b07a5a8be3d17</link>
+<pubDate>Thu, 22 Jan 2026 02:36:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US forces seize seventh sanctioned tanker linked to Venezuela]]></title>
-<link>https://apnews.com/video/us-forces-seize-seventh-sanctioned-tanker-linked-to-venezuela-b09e15c0f2ff44029b2e96dbb9334177</link>
-<pubDate>Wed, 21 Jan 2026 08:52:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nuuk resident stages a daily protest in front of the US Consulate]]></title>
-<link>https://apnews.com/video/nuuk-resident-stages-a-daily-protest-in-front-of-the-us-consulate-000983ff4cdc4adf8b9a475d073a6deb</link>
-<pubDate>Wed, 21 Jan 2026 08:37:19 -0000</pubDate>
+<title><![CDATA[PM Carney says ‘Canada strongly opposes tariffs over Greenland’]]></title>
+<link>https://apnews.com/video/pm-carney-says-canada-strongly-opposes-tariffs-over-greenland-177c4a86dc434294b5ce77d7e85a89a8</link>
+<pubDate>Thu, 22 Jan 2026 02:21:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian state TV issues first official death toll from recent protests, saying 3,117 were killed]]></title>
+<title><![CDATA[Iran offers first government-issued death toll from protest crackdown, one far lower than activists]]></title>
 <link>https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5</link>
-<pubDate>Wed, 21 Jan 2026 18:43:51 -0000</pubDate>
+<pubDate>Thu, 22 Jan 2026 02:06:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As Trump talks tariffs, his Argentine ally welcomes a shipload of Chinese EVs for the first time]]></title>
+<title><![CDATA[As Trump talks tariffs, his Argentine ally welcomes a first shipload of Chinese EVs]]></title>
 <link>https://apnews.com/article/argentina-chinese-electric-vehicles-javier-milei-trump-eu-mercosur-trump-8cda0de9cf2da3add6d898700b80c386</link>
-<pubDate>Wed, 21 Jan 2026 23:00:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli crews target UN facilities for Palestinian refugees in east Jerusalem]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-east-jerusalem-unrwa-cc9c5b2cac2332f0207d485f381be53d</link>
-<pubDate>Tue, 20 Jan 2026 13:59:17 -0000</pubDate>
+<pubDate>Thu, 22 Jan 2026 01:51:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
