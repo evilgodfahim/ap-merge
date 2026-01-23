@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 23 Jan 2026 17:43:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 18:18:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The decision to move IS prisoners from Syria to Iraq came at the request of Baghdad, officials say]]></title>
 <link>https://apnews.com/article/syria-iraq-islamic-state-group-prisoners-transfer-67fae9f9b32a09ed2a771cc2a155c4c9</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s Starmer urges Trump to apologize for ‘insulting and frankly appalling’ NATO remark]]></title>
+<title><![CDATA[UK’s Starmer slams Trump remarks on non-US NATO troops in Afghanistan as ‘insulting’ and ‘appalling’]]></title>
 <link>https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01</link>
-<pubDate>Fri, 23 Jan 2026 17:03:20 -0000</pubDate>
+<pubDate>Fri, 23 Jan 2026 18:18:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
 <link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
 <pubDate>Fri, 23 Jan 2026 16:48:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[An avalanche in Pakistan and snowstorms in neighboring Afghanistan kill at least 20 people]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-avalanche-snowfall-killed-0d531f937810beabb81af97aded559f5</link>
+<pubDate>Fri, 23 Jan 2026 18:03:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Hong Kong vigil organizer says she was seeking democracy, not end to Communist Party rule]]></title>
 <link>https://apnews.com/article/hong-kong-trial-tiananmen-vigil-organizer-chow-5e0312b0192d43a910b116bc0fbdb68a</link>
 <pubDate>Fri, 23 Jan 2026 09:20:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vietnam leader To Lam consolidates power with reelection as country targets 10% growth]]></title>
-<link>https://apnews.com/article/vietnam-congress-communist-to-5bdceb29f3e95bf612b04f35fc329e8f</link>
-<pubDate>Fri, 23 Jan 2026 13:41:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Floods push crocodiles into Mozambican towns as health concerns rise]]></title>
+<link>https://apnews.com/article/mozambique-floods-crocodiles-health-ebfc9dfd5eafeabc441284b122ff69fd</link>
+<pubDate>Fri, 23 Jan 2026 17:48:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Malawi rolls out cholera vaccines as rains and floods raise the threat of deadly outbreaks]]></title>
 <link>https://apnews.com/article/africa-cholera-vaccines-health-malawi-1168f0a2727dfb7fcac4f7ce70faf6e6</link>
 <pubDate>Fri, 23 Jan 2026 16:18:20 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[UN warns of ‘catastrophic’ hunger crisis in Nigeria as food aid funding runs out]]></title>
 <link>https://apnews.com/article/nigeria-world-food-program-hunger-aid-cuts-6e9a8ee2ad55c4f07171645a6510d80f</link>
 <pubDate>Fri, 23 Jan 2026 12:09:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After presidential election, Ugandan police detain a key ally of opposition figure Bobi Wine]]></title>
-<link>https://apnews.com/article/uganda-election-opposition-arrest-bobi-wine-violence-436db4379108b8cca0d3594de8d92dd7</link>
-<pubDate>Thu, 22 Jan 2026 11:26:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Swiss court orders release on bail of bar owner in probe of fatal New Year’s fire]]></title>
+<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-manager-bail-7a8b27370303990df3dc9c9ba102a95f</link>
+<pubDate>Fri, 23 Jan 2026 18:18:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[German soccer federation official wants World Cup boycott considered because of Trump]]></title>
 <link>https://apnews.com/article/germany-boycott-world-cup-trump-6c27c98a5ebb312f5c9cc62316bc7dd6</link>
 <pubDate>Fri, 23 Jan 2026 17:18:21 -0000</pubDate>
@@ -224,6 +230,12 @@
 <title><![CDATA[A meeting of experience and youth: Sabalenka set to play Mboko at Australian Open]]></title>
 <link>https://apnews.com/article/sabalenka-mboko-gucci-rolex-australian-open-tennis-86d7f9454a7595fd8e2591e5c7151f2c</link>
 <pubDate>Fri, 23 Jan 2026 10:18:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vietnam leader To Lam consolidates power with reelection as country targets 10% growth]]></title>
+<link>https://apnews.com/article/vietnam-congress-communist-to-5bdceb29f3e95bf612b04f35fc329e8f</link>
+<pubDate>Fri, 23 Jan 2026 18:03:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,12 +299,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US completes withdrawal from World Health Organization]]></title>
-<link>https://apnews.com/article/world-health-organization-trump-b6e0be566c7db9aece0334e987d516f1</link>
-<pubDate>Fri, 23 Jan 2026 00:42:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-january-22-2026-8ddbe1be27b2c3f8e8d67d29b3e85445</link>
 <pubDate>Thu, 22 Jan 2026 22:12:54 -0000</pubDate>
@@ -347,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Heated Rivalry’ stars Hudson Williams and Connor Storrie to be torchbearers for Winter Olympics]]></title>
-<link>https://apnews.com/article/heated-rivarly-milan-olympics-torchebearers-aeddfdd31c00c0ea27a271977fab923d</link>
-<pubDate>Thu, 22 Jan 2026 18:57:15 -0000</pubDate>
+<title><![CDATA[US completes withdrawal from World Health Organization]]></title>
+<link>https://apnews.com/article/world-health-organization-trump-b6e0be566c7db9aece0334e987d516f1</link>
+<pubDate>Thu, 22 Jan 2026 23:40:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Iranian prosecutor denies Trump’s claim 800 prisoners were spared execution]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-death-toll-acb1968a973f19be217ea28b4a7adb0b</link>
 <pubDate>Fri, 23 Jan 2026 10:48:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Floods push crocodiles into Mozambican towns as health concerns rise]]></title>
-<link>https://apnews.com/article/mozambique-floods-crocodiles-health-ebfc9dfd5eafeabc441284b122ff69fd</link>
-<pubDate>Fri, 23 Jan 2026 16:02:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
