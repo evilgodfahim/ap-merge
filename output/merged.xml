@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 23 Jan 2026 11:40:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 12:24:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Miscalculations and a US turnaround led to Kurdish-led forces’ fall from power in Syria]]></title>
 <link>https://apnews.com/article/syria-sdf-kurdish-washington-military-islamic-state-dcf6869b06e95931a7a40fa4494006c2</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘The ultimate insult': Trump downplaying NATO’s Afghanistan involvement causes distress in UK]]></title>
+<link>https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01</link>
+<pubDate>Fri, 23 Jan 2026 12:24:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Icebreakers, the key tech to unlock Greenland, are only made by either US allies or adversaries]]></title>
 <link>https://apnews.com/article/icebreakers-ice-greenland-c69ac5648b97298c537619aa72be5e1f</link>
 <pubDate>Fri, 23 Jan 2026 06:53:47 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[What to know about Greenland’s role in nuclear defense and Trump’s ‘Golden Dome’]]></title>
 <link>https://apnews.com/article/trump-greenland-denmark-nato-golden-dome-defense-724eb464d41d7abec3f36ff9d5193dab</link>
 <pubDate>Fri, 23 Jan 2026 04:02:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU Commission indicates it’s ready to implement Mercosur trade deal despite parliament vote to delay]]></title>
-<link>https://apnews.com/article/mercosur-trade-eu-ratification-b0f83cf6610d171de2aa4fabb5c10865</link>
-<pubDate>Fri, 23 Jan 2026 08:17:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN warns of ‘catastrophic’ hunger crisis in Nigeria as food aid funding runs out]]></title>
+<link>https://apnews.com/article/nigeria-world-food-program-hunger-aid-cuts-6e9a8ee2ad55c4f07171645a6510d80f</link>
+<pubDate>Fri, 23 Jan 2026 12:09:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After presidential election, Ugandan police detain a key ally of opposition figure Bobi Wine]]></title>
 <link>https://apnews.com/article/uganda-election-opposition-arrest-bobi-wine-violence-436db4379108b8cca0d3594de8d92dd7</link>
 <pubDate>Thu, 22 Jan 2026 11:26:06 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[What to know about the devastating floods in southern Africa]]></title>
 <link>https://apnews.com/article/africa-flood-mozambique-disaster-weather-076db3415ee1c90fc08c46516d326dd8</link>
 <pubDate>Thu, 22 Jan 2026 21:13:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria church attackers demand ransoms as search intensifies for over 150 hostages]]></title>
-<link>https://apnews.com/article/nigeria-church-attack-abduction-3b475c2cb7399aed0bf07cbbd86fa9c1</link>
-<pubDate>Thu, 22 Jan 2026 18:41:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Second former Malaysian general charged this week in corruption crackdown]]></title>
+<link>https://apnews.com/article/malaysian-military-procurement-corruption-c2cbb66cc51b52413234c0063e54fc36</link>
+<pubDate>Fri, 23 Jan 2026 12:24:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Korea imposes travel bans on 3 civilians over alleged drone flights into North Korea]]></title>
 <link>https://apnews.com/article/north-south-korea-drones-investigation-5a2300852cdbcc7d0b0ff15d465700d3</link>
 <pubDate>Fri, 23 Jan 2026 10:48:09 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[A meeting of experience and youth: Sabalenka set to play Mboko at Australian Open]]></title>
 <link>https://apnews.com/article/sabalenka-mboko-gucci-rolex-australian-open-tennis-86d7f9454a7595fd8e2591e5c7151f2c</link>
 <pubDate>Fri, 23 Jan 2026 10:18:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[EU Commission indicates it’s ready to implement Mercosur trade deal despite parliament vote to delay]]></title>
+<link>https://apnews.com/article/mercosur-trade-eu-ratification-b0f83cf6610d171de2aa4fabb5c10865</link>
+<pubDate>Fri, 23 Jan 2026 12:09:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia imposes tariffs and halts energy sales to Ecuador as trade feud escalates]]></title>
-<link>https://apnews.com/article/colombia-ecuador-tariffs-trade-petro-noboa-af61ae0793a9041a8f1f6b1e3a31d5e3</link>
-<pubDate>Fri, 23 Jan 2026 05:10:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Oscar nominations snubs and surprises: Paul Mescal and Ariana Grande among biggest oversights]]></title>
-<link>https://apnews.com/article/oscar-nominations-2026-snubs-surprises-1d503fb445dee459160971d95b40a346</link>
-<pubDate>Thu, 22 Jan 2026 15:51:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Putin meets Trump’s envoys as Kremlin says Ukraine settlement hinges on territory]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-e985cdc189a479c7618ba4523a50463a</link>
 <pubDate>Fri, 23 Jan 2026 04:02:55 -0000</pubDate>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN warns of ‘catastrophic’ hunger crisis in Nigeria as food aid funding runs out]]></title>
-<link>https://apnews.com/article/nigeria-world-food-program-hunger-aid-cuts-6e9a8ee2ad55c4f07171645a6510d80f</link>
-<pubDate>Thu, 22 Jan 2026 12:25:39 -0000</pubDate>
+<title><![CDATA[Malawi rolls out cholera vaccines as rains and floods raise the threat of deadly outbreaks]]></title>
+<link>https://apnews.com/article/africa-cholera-vaccines-health-malawi-1168f0a2727dfb7fcac4f7ce70faf6e6</link>
+<pubDate>Fri, 23 Jan 2026 12:24:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
