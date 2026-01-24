@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 20:11:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 20:40:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kushner’s vision for rebuilding Gaza faces major obstacles]]></title>
+<link>https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca</link>
+<pubDate>Sat, 24 Jan 2026 20:39:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syrian forces take control of prison housing IS members after Kurdish fighters evacuate]]></title>
 <link>https://apnews.com/article/syria-prisons-islamic-state-group-detainees-iraq-10059952904836fbde3327bf9e5dd85f</link>
 <pubDate>Sat, 24 Jan 2026 19:32:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey celebrates as Syrian government makes gains against Kurdish-led force]]></title>
-<link>https://apnews.com/article/turkey-syria-kurds-sdf-6ae87a5f1dee56df161853c7026904e5</link>
-<pubDate>Sat, 24 Jan 2026 19:17:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump steals the show in Davos with a mixed bag of rhetoric and results at elite gathering]]></title>
-<link>https://apnews.com/article/wef-davos-trump-ukraine-carney-musk-9f9a80ba7b80139f6bcfdf7b2a620c1a</link>
-<pubDate>Fri, 23 Jan 2026 15:15:31 -0000</pubDate>
+<title><![CDATA[Trump heaps praise on UK troops following furor over Afghanistan comments]]></title>
+<link>https://apnews.com/article/trump-nato-uk-afghanistan-starmer-ab45d8f9e1265c95cb41aac7f494407a</link>
+<pubDate>Sat, 24 Jan 2026 20:24:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
 <pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[NBA game in Minneapolis between Warriors and Timberwolves postponed after shooting]]></title>
+<link>https://apnews.com/article/minneapolis-shooting-wolves-warriors-nba-postponed-60175e238176b61437a43368f17c1cba</link>
+<pubDate>Sat, 24 Jan 2026 20:40:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump steals the show in Davos with a mixed bag of rhetoric and results at elite gathering]]></title>
+<link>https://apnews.com/article/wef-davos-trump-ukraine-carney-musk-9f9a80ba7b80139f6bcfdf7b2a620c1a</link>
+<pubDate>Sat, 24 Jan 2026 20:25:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nigeria says US will deliver outstanding military equipment purchased over the past 5 years]]></title>
 <link>https://apnews.com/article/nigeria-us-military-equipment-00b1e5a9cb97b941de53903e8035ffab</link>
 <pubDate>Fri, 23 Jan 2026 13:56:22 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stars and the public say a final goodbye to fashion icon Valentino at a Rome funeral]]></title>
-<link>https://apnews.com/article/italy-rome-valentino-funeral-fashion-designer-stars-263508a69ae052c502ba2b99f09bb90a</link>
-<pubDate>Fri, 23 Jan 2026 13:26:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A meeting of experience and youth: Sabalenka set to play Mboko at Australian Open]]></title>
-<link>https://apnews.com/article/sabalenka-mboko-gucci-rolex-australian-open-tennis-86d7f9454a7595fd8e2591e5c7151f2c</link>
-<pubDate>Fri, 23 Jan 2026 10:18:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Scale of Iran’s nationwide protests and bloody crackdown come into focus even as internet is out]]></title>
 <link>https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2</link>
 <pubDate>Sat, 24 Jan 2026 07:37:40 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
-<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
-<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
+<title><![CDATA[Ceasefire with Kurdish-led force extended for another 15 days, Syrian army says]]></title>
+<link>https://apnews.com/article/syria-kurds-islamic-state-truce-hassakeh-ceasefire-67f5d1f2e90d9a45fb6be1c246fd8d40</link>
+<pubDate>Sat, 24 Jan 2026 20:40:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US envoys urge Netanyahu to move into Gaza ceasefire’s second phase]]></title>
-<link>https://apnews.com/article/israel-gaza-war-trump-news-01-24-2026-90e36ca7d2e27ca8a21d1727e9e0119f</link>
-<pubDate>Sat, 24 Jan 2026 16:30:13 -0000</pubDate>
+<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
+<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
+<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,21 +395,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
-<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
-<pubDate>Sat, 24 Jan 2026 08:16:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kushner’s vision for rebuilding Gaza faces major obstacles]]></title>
-<link>https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca</link>
-<pubDate>Fri, 23 Jan 2026 05:25:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
 <link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
 <pubDate>Sat, 24 Jan 2026 19:17:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
+<link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
+<pubDate>Sat, 24 Jan 2026 20:25:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
+<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
+<pubDate>Sat, 24 Jan 2026 08:16:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown]]></title>
+<title><![CDATA[Man is shot and killed during Minneapolis immigration crackdown, National Guard activated]]></title>
 <link>https://apnews.com/article/immigration-enforcement-minnesota-4d1499fc5962ab880f3816259e04bdbf</link>
-<pubDate>Sat, 24 Jan 2026 18:47:56 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 20:10:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
