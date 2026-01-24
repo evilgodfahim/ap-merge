@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 02:49:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 03:55:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The decision to move IS prisoners from Syria to Iraq came at the request of Baghdad, officials say]]></title>
 <link>https://apnews.com/article/syria-iraq-islamic-state-group-prisoners-transfer-67fae9f9b32a09ed2a771cc2a155c4c9</link>
@@ -59,27 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show miners in El Callao, Venezuela, where gold has become an important source of income]]></title>
-<link>https://apnews.com/photo-gallery/el-callao-venezuela-mining-gold-9d907f53eed0cf3396a924dc84ffd5ae</link>
-<pubDate>Fri, 23 Jan 2026 20:29:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Firefighters face attacks, drones and arsonists while battling deadly blazes in Chile]]></title>
 <link>https://apnews.com/article/chile-wildfires-firefighters-drones-arson-3566c8c5d5a2d3a9ea8e592c5dea8ab6</link>
 <pubDate>Fri, 23 Jan 2026 19:24:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s Board of Peace is dividing countries in Europe and the Middle East]]></title>
-<link>https://apnews.com/article/mideast-wars-gaza-board-of-peace-trump-1-21-2026-2f0e063d03babbd3276f31289ba5f2a2</link>
-<pubDate>Fri, 23 Jan 2026 02:56:31 -0000</pubDate>
+<title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
+<link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
+<pubDate>Sat, 24 Jan 2026 03:55:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attorney fears for safety of Ugandan opposition figure Bobi Wine after army chief threats]]></title>
-<link>https://apnews.com/article/uganda-opposition-bobi-wine-0756ac1b8ad88073dee86ecc05fdb091</link>
-<pubDate>Fri, 23 Jan 2026 22:10:01 -0000</pubDate>
+<title><![CDATA[Trump’s Board of Peace is dividing countries in Europe and the Middle East]]></title>
+<link>https://apnews.com/article/mideast-wars-gaza-board-of-peace-trump-1-21-2026-2f0e063d03babbd3276f31289ba5f2a2</link>
+<pubDate>Fri, 23 Jan 2026 02:56:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -98,6 +92,12 @@
 <title><![CDATA[UN warns of ‘catastrophic’ hunger crisis in Nigeria as food aid funding runs out]]></title>
 <link>https://apnews.com/article/nigeria-world-food-program-hunger-aid-cuts-6e9a8ee2ad55c4f07171645a6510d80f</link>
 <pubDate>Fri, 23 Jan 2026 12:09:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[After presidential election, Ugandan police detain a key ally of opposition figure Bobi Wine]]></title>
+<link>https://apnews.com/article/uganda-election-opposition-arrest-bobi-wine-violence-436db4379108b8cca0d3594de8d92dd7</link>
+<pubDate>Thu, 22 Jan 2026 11:26:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US carries out first known strike on alleged drug boat since Maduro’s capture]]></title>
-<link>https://apnews.com/article/trump-cartels-drug-trafficking-maduro-venezuela-af363f997081aeec85f10effe83631e6</link>
-<pubDate>Fri, 23 Jan 2026 23:12:04 -0000</pubDate>
+<title><![CDATA[What to know about the heat policy at the Australian Open]]></title>
+<link>https://apnews.com/article/heat-australian-open-tennis-319015c7f3a575c106a6ae650a070242</link>
+<pubDate>Sat, 24 Jan 2026 03:55:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
-<link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
-<pubDate>Fri, 23 Jan 2026 22:57:04 -0000</pubDate>
+<title><![CDATA[US carries out first known strike on alleged drug boat since Maduro’s capture]]></title>
+<link>https://apnews.com/article/trump-cartels-drug-trafficking-maduro-venezuela-af363f997081aeec85f10effe83631e6</link>
+<pubDate>Fri, 23 Jan 2026 23:12:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,12 +245,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Economic leaders at Davos say global growth is resilient despite Trump disruption]]></title>
-<link>https://apnews.com/article/trump-trade-global-economy-growth-ac5cb2e0a2f75b14dec3d9a3a7fe258b</link>
-<pubDate>Fri, 23 Jan 2026 15:15:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Second former Malaysian general charged this week in corruption crackdown]]></title>
 <link>https://apnews.com/article/malaysian-military-procurement-corruption-c2cbb66cc51b52413234c0063e54fc36</link>
 <pubDate>Fri, 23 Jan 2026 12:24:28 -0000</pubDate>
@@ -284,12 +278,6 @@
 <title><![CDATA[Police seek man wanted in fatal shootings of 3 in small Australian town]]></title>
 <link>https://apnews.com/article/australia-shooting-lake-cargelligo-bondi-6f1b86649ce41a3b007c32a76eb545dc</link>
 <pubDate>Fri, 23 Jan 2026 15:00:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU Commission indicates it’s ready to implement Mercosur trade deal despite parliament vote to delay]]></title>
-<link>https://apnews.com/article/mercosur-trade-eu-ratification-b0f83cf6610d171de2aa4fabb5c10865</link>
-<pubDate>Fri, 23 Jan 2026 12:09:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +341,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-22-2026-8ddbe1be27b2c3f8e8d67d29b3e85445</link>
+<pubDate>Thu, 22 Jan 2026 22:12:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/pictures-of-week-global-photo-gallery-c820d5f4364a952a6227ef5cf0a86fa7</link>
+<pubDate>Thu, 22 Jan 2026 21:57:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine, Russia, US discuss fraught issue of territorial concessions in Abu Dhabi]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-e985cdc189a479c7618ba4523a50463a</link>
 <pubDate>Sat, 24 Jan 2026 02:49:28 -0000</pubDate>
@@ -413,33 +413,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks climb some more after Trump calls off his tariffs for Greenland]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-greenland-trump-4834e3bc03fa1d3073e027bd67763cc4</link>
-<pubDate>Thu, 22 Jan 2026 16:13:03 -0000</pubDate>
+<title><![CDATA[Photos show miners in El Callao, Venezuela, where gold has become an important source of income]]></title>
+<link>https://apnews.com/photo-gallery/el-callao-venezuela-mining-gold-9d907f53eed0cf3396a924dc84ffd5ae</link>
+<pubDate>Sat, 24 Jan 2026 03:55:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Inflation fears are high. A new poll shows one group is particularly worried]]></title>
-<link>https://apnews.com/article/aapi-asian-american-government-priorities-inflation-poll-38cb5590190dcc726ba6655be6f55aed</link>
-<pubDate>Thu, 22 Jan 2026 14:33:27 -0000</pubDate>
+<title><![CDATA[Economic leaders at Davos say global growth is resilient despite Trump disruption]]></title>
+<link>https://apnews.com/article/trump-trade-global-economy-growth-ac5cb2e0a2f75b14dec3d9a3a7fe258b</link>
+<pubDate>Sat, 24 Jan 2026 03:40:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan records a 5th straight yearly trade deficit]]></title>
-<link>https://apnews.com/article/japan-trump-trade-economy-tariffs-takaichi-a26b35639a1a25fb144e73995bbe4bdf</link>
-<pubDate>Thu, 22 Jan 2026 04:00:30 -0000</pubDate>
+<title><![CDATA[There is a massive demand for World Cup tickets and savvy resellers could be big winners]]></title>
+<link>https://apnews.com/article/world-cup-tickets-price-fifa-697281ba3b1c7106804f9c251aff96b2</link>
+<pubDate>Sat, 24 Jan 2026 03:25:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As Trump talks tariffs, his ally Milei welcomes a first shipload of Chinese EVs]]></title>
-<link>https://apnews.com/article/argentina-chinese-electric-vehicles-javier-milei-trump-eu-mercosur-trump-8cda0de9cf2da3add6d898700b80c386</link>
-<pubDate>Thu, 22 Jan 2026 09:58:31 -0000</pubDate>
+<title><![CDATA[EU Commission indicates it’s ready to implement Mercosur trade deal despite parliament vote to delay]]></title>
+<link>https://apnews.com/article/mercosur-trade-eu-ratification-b0f83cf6610d171de2aa4fabb5c10865</link>
+<pubDate>Sat, 24 Jan 2026 03:10:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court seems inclined to keep Lisa Cook on Fed board despite Trump attempt to fire her]]></title>
-<link>https://apnews.com/article/supreme-court-cook-federal-reserve-powell-a8572f8a1f62cf653e822a64c714d05a</link>
-<pubDate>Thu, 22 Jan 2026 09:43:31 -0000</pubDate>
+<title><![CDATA[Mali’s government moves to impose fuel rationing as al-Qaida-linked attacks cut off supplies]]></title>
+<link>https://apnews.com/article/mali-alqaida-attacks-fuel-crisis-58de63f87003e03a577fbdcefbe2f64b</link>
+<pubDate>Fri, 23 Jan 2026 17:03:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mali’s government moves to impose fuel rationing as al-Qaida-linked attacks cut off supplies]]></title>
-<link>https://apnews.com/article/mali-alqaida-attacks-fuel-crisis-58de63f87003e03a577fbdcefbe2f64b</link>
-<pubDate>Fri, 23 Jan 2026 17:03:22 -0000</pubDate>
+<title><![CDATA[Attorney fears for safety of Ugandan opposition figure Bobi Wine after army chief threats]]></title>
+<link>https://apnews.com/article/uganda-opposition-bobi-wine-0756ac1b8ad88073dee86ecc05fdb091</link>
+<pubDate>Sat, 24 Jan 2026 02:55:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
