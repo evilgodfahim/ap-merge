@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 11:09:19 GMT</lastBuildDate>
-<item>
-<title><![CDATA[People in Gaza dig through garbage for things to burn to keep warm — a far cry from Trump’s vision]]></title>
-<link>https://apnews.com/article/gaza-hamas-israel-crisis-palestinian-b0bb6f00ab69c82f52c8758745eaea78</link>
-<pubDate>Sat, 24 Jan 2026 08:45:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 24 Jan 2026 11:35:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The decision to move IS prisoners from Syria to Iraq came at the request of Baghdad, officials say]]></title>
 <link>https://apnews.com/article/syria-iraq-islamic-state-group-prisoners-transfer-67fae9f9b32a09ed2a771cc2a155c4c9</link>
 <pubDate>Fri, 23 Jan 2026 17:18:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why Islamic State group prisoners in northeast Syria are being transferred to Iraq]]></title>
+<link>https://apnews.com/article/syria-sdf-islamic-state-prisons-alhol-roj-5d3ada50c29956383b92fd03c77f4701</link>
+<pubDate>Fri, 23 Jan 2026 16:17:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
 <link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
 <pubDate>Sat, 24 Jan 2026 03:55:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Miscalculations and a US turnaround led to Kurdish-led forces’ fall from power in Syria]]></title>
-<link>https://apnews.com/article/syria-sdf-kurdish-washington-military-islamic-state-dcf6869b06e95931a7a40fa4494006c2</link>
-<pubDate>Fri, 23 Jan 2026 10:48:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cheers! Stan Wawrinka bids farewell at Australian Open with beers and gratitude]]></title>
+<link>https://apnews.com/article/wawrinka-fritz-australian-open-tennis-beer-475b0cbf0056159ff9e3e9f2e083d80e</link>
+<pubDate>Sat, 24 Jan 2026 11:35:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Spizzirri acknowledges ‘funny timing’ but accepts Australian Open heat rules after loss to Sinner]]></title>
 <link>https://apnews.com/article/sinner-spizzirri-heat-australian-open-tennis-melbourne-d3f5296070d23c0de18d57f3039b5700</link>
 <pubDate>Sat, 24 Jan 2026 10:11:32 -0000</pubDate>
@@ -263,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK’s Starmer slams Trump remarks on non-US NATO troops in Afghanistan as ‘insulting’ and ‘appalling’]]></title>
+<link>https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01</link>
+<pubDate>Sat, 24 Jan 2026 11:20:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Second former Malaysian general charged this week in corruption crackdown]]></title>
 <link>https://apnews.com/article/malaysian-military-procurement-corruption-c2cbb66cc51b52413234c0063e54fc36</link>
 <pubDate>Fri, 23 Jan 2026 12:24:28 -0000</pubDate>
@@ -341,39 +347,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Scotland, fishing trawlers scrape the seabed despite protection promises]]></title>
-<link>https://apnews.com/article/scotland-bottom-trawling-fishing-conservation-oceans-5d10f2e4b4d10bd8422df64aad88d3c7</link>
-<pubDate>Fri, 23 Jan 2026 04:02:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[TikTok’s finalized deal avoids US ban that would have affected 200 million users]]></title>
-<link>https://apnews.com/article/tiktok-deal-us-china-eccb46c3bfee4cf3d362a01fe4968a4f</link>
-<pubDate>Fri, 23 Jan 2026 15:47:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Scale of Iran’s nationwide protests and bloody crackdown come into focus even as internet is out]]></title>
 <link>https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2</link>
 <pubDate>Sat, 24 Jan 2026 07:37:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks on Ukraine kill 1 and wound 23 people ahead of second day of peace talks]]></title>
+<title><![CDATA[Russian attacks on Ukraine kill 1 and wound 31 people ahead of second day of peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
-<pubDate>Sat, 24 Jan 2026 10:11:32 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 11:35:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s Revolutionary Guard commander warns the US, says his force has its ‘finger on the trigger’]]></title>
+<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
+<pubDate>Sat, 24 Jan 2026 11:20:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[China’s top general under investigation in latest military purge]]></title>
 <link>https://apnews.com/article/china-military-general-zhang-corruption-probe-1a87a7f041bb2bba26a5fd7cba74b06b</link>
 <pubDate>Sat, 24 Jan 2026 08:31:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK’s Starmer slams Trump remarks on non-US NATO troops in Afghanistan as ‘insulting’ and ‘appalling’]]></title>
-<link>https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01</link>
-<pubDate>Fri, 23 Jan 2026 18:18:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
-<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
-<pubDate>Sat, 24 Jan 2026 08:16:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Kushner’s vision for rebuilding Gaza faces major obstacles]]></title>
 <link>https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca</link>
 <pubDate>Fri, 23 Jan 2026 05:25:54 -0000</pubDate>
@@ -416,6 +404,12 @@
 <title><![CDATA[Turkey celebrates as Syrian government makes gains against Kurdish-led force]]></title>
 <link>https://apnews.com/article/turkey-syria-kurds-sdf-6ae87a5f1dee56df161853c7026904e5</link>
 <pubDate>Fri, 23 Jan 2026 10:33:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[People in Gaza dig through garbage for things to burn to keep warm — a far cry from Trump’s vision]]></title>
+<link>https://apnews.com/article/gaza-hamas-israel-crisis-palestinian-b0bb6f00ab69c82f52c8758745eaea78</link>
+<pubDate>Fri, 23 Jan 2026 02:13:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Islamic State group prisoners in northeast Syria are being transferred to Iraq]]></title>
-<link>https://apnews.com/article/syria-sdf-islamic-state-prisons-alhol-roj-5d3ada50c29956383b92fd03c77f4701</link>
-<pubDate>Wed, 21 Jan 2026 19:32:17 -0000</pubDate>
+<title><![CDATA[Miscalculations and a US turnaround led to Kurdish-led forces’ fall from power in Syria]]></title>
+<link>https://apnews.com/article/syria-sdf-kurdish-washington-military-islamic-state-dcf6869b06e95931a7a40fa4494006c2</link>
+<pubDate>Thu, 22 Jan 2026 05:19:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
