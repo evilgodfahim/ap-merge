@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 09:39:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 10:11:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[People in Gaza dig through garbage for things to burn to keep warm — a far cry from Trump’s vision]]></title>
 <link>https://apnews.com/article/gaza-hamas-israel-crisis-palestinian-b0bb6f00ab69c82f52c8758745eaea78</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A US warship is making a friendship visit to a Cambodian naval base upgraded with China’s help]]></title>
+<link>https://apnews.com/article/cambodia-ream-base-uss-cincinnati-china-a8d9fe4d1dda8c7cf9bec2639718b19c</link>
+<pubDate>Sat, 24 Jan 2026 10:11:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Myanmar military airstrike on a village sheltering displaced people killed 21, rebels say]]></title>
 <link>https://apnews.com/article/myanmar-airstrike-bhamo-hteelin-village-21-killed-7b8a56ad60d7d5282ac28f9681b751aa</link>
 <pubDate>Sat, 24 Jan 2026 07:37:38 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[An avalanche in Pakistan and snowstorms in neighboring Afghanistan kill at least 20 people]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-avalanche-snowfall-killed-0d531f937810beabb81af97aded559f5</link>
 <pubDate>Fri, 23 Jan 2026 18:03:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A suicide bomber strikes a wedding in northwestern Pakistan and kills 7 people]]></title>
-<link>https://apnews.com/article/pakistan-suicide-bombing-wedding-ceremony-northwest-4962ee33d1db9c08368c2a386356a579</link>
-<pubDate>Sat, 24 Jan 2026 08:30:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A landslide on Indonesia’s Java island kills at least 8 people and leaves more than 80 missing]]></title>
-<link>https://apnews.com/article/indonesia-west-java-landslide-186f09157d57ae56fb9d0988f26b8585</link>
-<pubDate>Sat, 24 Jan 2026 08:46:03 -0000</pubDate>
+<title><![CDATA[Spizzirri acknowledges ‘funny timing’ but accepts Australian Open heat rules after loss to Sinner]]></title>
+<link>https://apnews.com/article/sinner-spizzirri-heat-australian-open-tennis-melbourne-d3f5296070d23c0de18d57f3039b5700</link>
+<pubDate>Sat, 24 Jan 2026 10:11:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +224,12 @@
 <title><![CDATA[How Macron’s Davos sunglasses spoke to the politics of friction with Trump]]></title>
 <link>https://apnews.com/article/macron-davos-trump-sunglasses-tom-cruise-74ed312a9bf8cbb6af13644b3487e7ea</link>
 <pubDate>Fri, 23 Jan 2026 19:39:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A suicide bomber strikes a wedding in northwestern Pakistan and kills 7 people]]></title>
+<link>https://apnews.com/article/pakistan-suicide-bombing-wedding-ceremony-northwest-4962ee33d1db9c08368c2a386356a579</link>
+<pubDate>Sat, 24 Jan 2026 09:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,21 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘The Secret Agent’ earns 4 Oscar nominations, boosting Brazilian cinema]]></title>
-<link>https://apnews.com/article/brazil-oscars-film-secret-agent-dictatorship-87c5baa1bfd69f89107cbed46739f496</link>
-<pubDate>Fri, 23 Jan 2026 00:57:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Scale of Iran’s nationwide protests and bloody crackdown come into focus even as internet is out]]></title>
 <link>https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2</link>
 <pubDate>Sat, 24 Jan 2026 07:37:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks on Ukraine kill 1 and wound 23 ahead of second day of peace talks]]></title>
+<title><![CDATA[Russian attacks on Ukraine kill 1 and wound 23 people ahead of second day of peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
-<pubDate>Sat, 24 Jan 2026 08:46:05 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 10:11:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A US warship is making a friendship visit to a Cambodian naval base upgraded with China’s help]]></title>
-<link>https://apnews.com/article/cambodia-ream-base-uss-cincinnati-china-a8d9fe4d1dda8c7cf9bec2639718b19c</link>
-<pubDate>Sat, 24 Jan 2026 07:07:40 -0000</pubDate>
+<title><![CDATA[A landslide on Indonesia’s Java island kills at least 8 people and leaves more than 80 missing]]></title>
+<link>https://apnews.com/article/indonesia-west-java-landslide-186f09157d57ae56fb9d0988f26b8585</link>
+<pubDate>Sat, 24 Jan 2026 09:56:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
