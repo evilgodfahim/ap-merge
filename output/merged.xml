@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 16:12:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 16:45:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[People in Gaza dig through garbage for things to burn to keep warm — a far cry from Trump’s vision]]></title>
 <link>https://apnews.com/article/gaza-hamas-israel-crisis-palestinian-b0bb6f00ab69c82f52c8758745eaea78</link>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands rally against immigration enforcement in subzero Minnesota temperatures]]></title>
-<link>https://apnews.com/article/minnesota-ice-immigration-protest-unions-faith-leaders-edc6c4884f8cc26be9ad34a28d82a7a5</link>
-<pubDate>Sat, 24 Jan 2026 07:22:38 -0000</pubDate>
+<title><![CDATA[Federal officers shot another person in Minneapolis amid immigration crackdown, governor says]]></title>
+<link>https://apnews.com/article/immigration-enforcement-minnesota-4d1499fc5962ab880f3816259e04bdbf</link>
+<pubDate>Sat, 24 Jan 2026 16:45:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
 <pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hotel fire in Pakistan’s eastern city of Lahore leaves 3 dead, 8 others injured]]></title>
+<link>https://apnews.com/article/pakistan-lahore-fire-at-hotel-killed-people-4a4a60b3a6c233c51b62b5f692122b90</link>
+<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong vigil organizer says she was seeking democracy, not end to Communist Party rule]]></title>
-<link>https://apnews.com/article/hong-kong-trial-tiananmen-vigil-organizer-chow-5e0312b0192d43a910b116bc0fbdb68a</link>
-<pubDate>Sat, 24 Jan 2026 12:50:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Scale of Iran’s nationwide protests and bloody crackdown come into focus even as internet is out]]></title>
 <link>https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2</link>
 <pubDate>Sat, 24 Jan 2026 07:37:40 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s Revolutionary Guard commander warns the US, says his force has its ‘finger on the trigger’]]></title>
+<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
 <link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
-<pubDate>Sat, 24 Jan 2026 11:20:52 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US envoys meet with Netanyahu and urge Israel to move into the second phase of Gaza ceasefire]]></title>
+<title><![CDATA[US envoys urge Netanyahu to move into Gaza ceasefire’s second phase]]></title>
 <link>https://apnews.com/article/israel-gaza-war-trump-news-01-24-2026-90e36ca7d2e27ca8a21d1727e9e0119f</link>
-<pubDate>Sat, 24 Jan 2026 15:23:53 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 16:30:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Almost 10,000 flights canceled as major winter storm bears down across much of the US]]></title>
+<title><![CDATA[More than 10,000 flights canceled as major winter storm bears down across much of the US]]></title>
 <link>https://apnews.com/article/storm-texas-oklahoma-ice-snow-a94c9d155615333a50e174a4d7d54fc1</link>
-<pubDate>Sat, 24 Jan 2026 14:53:53 -0000</pubDate>
+<pubDate>Sat, 24 Jan 2026 16:15:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
