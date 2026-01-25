@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 01:02:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 03:23:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
 <link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Freezing and in the dark, Kyiv residents are stranded in tower blocks as Russia targets power system]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-energy-property-stairs-4eebf3a859afe1dbcf7033d051af8b5c</link>
-<pubDate>Sat, 24 Jan 2026 06:17:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[In the rehearsal tent: Here’s what makes the Milan Cortina Winter Olympics opening ceremony special]]></title>
 <link>https://apnews.com/article/milan-cortina-opening-ceremony-rehearsals-olympics-1acc32327bc435e01c5b6f178db3f260</link>
 <pubDate>Sat, 24 Jan 2026 18:16:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy says trilateral talks ended constructively and more are possible next week]]></title>
+<link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
+<pubDate>Sun, 25 Jan 2026 02:29:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From frigid quiet to outraged sorrow, a few hours on Minneapolis street where agents killed man]]></title>
-<link>https://apnews.com/article/minneapolis-shooting-scene-border-patrol-97ddd0efae8d061395d1a9a38d5e7084</link>
-<pubDate>Sun, 25 Jan 2026 01:02:29 -0000</pubDate>
+<title><![CDATA[Videos show deadly Minneapolis shooting and political leaders reach different conclusions]]></title>
+<link>https://apnews.com/article/minneapolis-ice-alex-pretti-videos-861a0d8f3ee182f3b5909b3613900e2e</link>
+<pubDate>Sun, 25 Jan 2026 02:14:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philadelphia sues over removal of slavery exhibit at Independence National Historical Park]]></title>
-<link>https://apnews.com/article/slavery-exhibit-removed-philadelphia-trump-executive-order-dd764277133f47ec1173e8dc16703958</link>
-<pubDate>Fri, 23 Jan 2026 15:32:10 -0000</pubDate>
+<title><![CDATA[From frigid quiet to outraged sorrow, a few hours on Minneapolis street where agents killed man]]></title>
+<link>https://apnews.com/article/minneapolis-shooting-scene-border-patrol-97ddd0efae8d061395d1a9a38d5e7084</link>
+<pubDate>Sun, 25 Jan 2026 01:02:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s Starmer slams Trump remarks on non-US NATO troops in Afghanistan as ‘insulting’ and ‘appalling’]]></title>
-<link>https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01</link>
-<pubDate>Sat, 24 Jan 2026 11:20:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Myanmar holds its last election round with the army already certain to keep control over government]]></title>
 <link>https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4</link>
 <pubDate>Sun, 25 Jan 2026 01:02:30 -0000</pubDate>
@@ -359,9 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says trilateral talks ended constructively and more are possible next week]]></title>
-<link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
-<pubDate>Sat, 24 Jan 2026 18:16:21 -0000</pubDate>
+<title><![CDATA[Freezing and in the dark, Kyiv residents are stranded in tower blocks as Russia targets power system]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-energy-property-stairs-4eebf3a859afe1dbcf7033d051af8b5c</link>
+<pubDate>Sat, 24 Jan 2026 06:17:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A landslide on Indonesia’s Java island kills at least 8 people and leaves more than 80 missing]]></title>
-<link>https://apnews.com/article/indonesia-west-java-landslide-186f09157d57ae56fb9d0988f26b8585</link>
-<pubDate>Sat, 24 Jan 2026 09:56:32 -0000</pubDate>
+<title><![CDATA[American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes]]></title>
+<link>https://apnews.com/article/alex-honnold-taipei-101-solo-climb-netflix-cfe8960237290086cdee581075056fbf</link>
+<pubDate>Sun, 25 Jan 2026 03:23:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
