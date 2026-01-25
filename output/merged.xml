@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 21:10:13 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 21:37:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
 <link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Haiti’s transitional council deepens political chaos by voting to oust the prime minister]]></title>
+<link>https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a</link>
+<pubDate>Sun, 25 Jan 2026 21:37:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Chilean court extends detention of suspect accused of starting wildfire that killed 20]]></title>
 <link>https://apnews.com/article/chile-wildfires-arrest-biobio-tragedy-arson-aa8941f1c71aa94807ab0ed0cd9b6e58</link>
 <pubDate>Fri, 23 Jan 2026 20:44:23 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Firefighters face attacks, drones and arsonists while battling deadly blazes in Chile]]></title>
 <link>https://apnews.com/article/chile-wildfires-firefighters-drones-arson-3566c8c5d5a2d3a9ea8e592c5dea8ab6</link>
 <pubDate>Fri, 23 Jan 2026 19:24:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
-<link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
-<pubDate>Sat, 24 Jan 2026 03:55:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Latest shooting in Minnesota enforcement surge fuels more calls for immigration agents to leave]]></title>
+<title><![CDATA[Federal and state officials both claim moral high ground in immigration crackdown after shooting]]></title>
 <link>https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-0af10ec433181aa9300deea26d1cc8c5</link>
-<pubDate>Sun, 25 Jan 2026 17:24:57 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 21:22:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,15 +335,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the US military assets heading to the Middle East]]></title>
-<link>https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40</link>
-<pubDate>Fri, 23 Jan 2026 22:42:04 -0000</pubDate>
+<title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
+<link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
+<pubDate>Fri, 23 Jan 2026 22:57:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FACT FOCUS: As cold hits, Trump asks, where’s global warming? Scientists say it’s still here]]></title>
-<link>https://apnews.com/article/trump-warming-denial-fact-check-winter-storm-49eeee83a8acd35c89bcf33d346b9b38</link>
-<pubDate>Fri, 23 Jan 2026 22:10:01 -0000</pubDate>
+<title><![CDATA[A look at the US military assets heading to the Middle East]]></title>
+<link>https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40</link>
+<pubDate>Fri, 23 Jan 2026 22:42:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel launches ‘large scale operation’ to locate last hostage in Gaza]]></title>
+<title><![CDATA[Israel launches ‘large-scale operation’ to locate last hostage in Gaza]]></title>
 <link>https://apnews.com/article/gaza-israel-hamas-palestinians-hostage-gvili-d57a28eb5371785588d4b955f9dd2a46</link>
-<pubDate>Sun, 25 Jan 2026 20:13:02 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 21:37:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Haiti’s transitional council deepens political chaos by voting to oust the prime minister]]></title>
-<link>https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a</link>
-<pubDate>Fri, 23 Jan 2026 19:39:17 -0000</pubDate>
+<title><![CDATA[Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid]]></title>
+<link>https://apnews.com/article/trump-venezuela-weapon-maduro-drug-strikes-c052fd24a350a04a458f501b4b536e62</link>
+<pubDate>Sun, 25 Jan 2026 21:22:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ice from winter storm leaves a million customers without power across the South]]></title>
+<title><![CDATA[Ice from winter storm leaves hundreds of thousands of customers without power across the South]]></title>
 <link>https://apnews.com/article/winter-storm-snow-ice-power-outages-7ea143995026e68db42ed1b4aec396cb</link>
-<pubDate>Sun, 25 Jan 2026 19:58:02 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 21:07:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
