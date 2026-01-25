@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 11:35:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 12:21:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
+<link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
+<pubDate>Sun, 25 Jan 2026 12:21:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
 <link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
 <pubDate>Sun, 25 Jan 2026 08:15:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
-<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
-<pubDate>Fri, 23 Jan 2026 16:48:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Singing contest in Rio prison provides creative outlet for women behind bars]]></title>
 <link>https://apnews.com/article/brazil-prison-music-f621996b0a8c7995aaeb76628a85560b</link>
 <pubDate>Sat, 24 Jan 2026 03:55:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian forces take control of prison housing IS members after Kurdish fighters evacuate]]></title>
-<link>https://apnews.com/article/syria-prisons-islamic-state-group-detainees-iraq-10059952904836fbde3327bf9e5dd85f</link>
-<pubDate>Sat, 24 Jan 2026 19:32:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,18 @@
 <title><![CDATA[Mitchell’s unbeaten 131 powers New Zealand to ODI series-leveling win over India]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-a3b3064b034ea54db8bdda1ffe532ace</link>
 <pubDate>Sun, 18 Jan 2026 08:14:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos shows Japan’s love of pandas as twins Xiao Xiao and Lei Lei return to China]]></title>
+<link>https://apnews.com/photo-gallery/japan-china-pandas-ueno-zoo-return-diplomacy-9f5ecf5d57eecbbee25e3c89097409bb</link>
+<pubDate>Sun, 25 Jan 2026 12:21:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK plans to create ‘British FBI’ to bring national investigations under single police force]]></title>
+<link>https://apnews.com/article/britain-police-terrorism-fraud-gangs-1feb74571e874e12514d8b9f4b59fc98</link>
+<pubDate>Sun, 25 Jan 2026 12:06:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German soccer federation official wants World Cup boycott considered because of Trump]]></title>
-<link>https://apnews.com/article/germany-boycott-world-cup-trump-6c27c98a5ebb312f5c9cc62316bc7dd6</link>
-<pubDate>Fri, 23 Jan 2026 17:18:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kosovo authorities arrest over 100 people over alleged ballot manipulation in December vote]]></title>
-<link>https://apnews.com/article/kosovo-election-arrests-fraud-6f2f7e4bf147c4e24bb15757655e64ab</link>
-<pubDate>Fri, 23 Jan 2026 17:03:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Myanmar holds its last election round with the army already certain to keep control over government]]></title>
 <link>https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4</link>
 <pubDate>Sun, 25 Jan 2026 01:02:30 -0000</pubDate>
@@ -395,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
+<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
+<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ceasefire with Kurdish-led force extended for another 15 days, Syrian army says]]></title>
 <link>https://apnews.com/article/syria-kurds-islamic-state-truce-hassakeh-ceasefire-67f5d1f2e90d9a45fb6be1c246fd8d40</link>
 <pubDate>Sat, 24 Jan 2026 20:40:00 -0000</pubDate>
@@ -410,12 +410,6 @@
 <title><![CDATA[Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan, authorities say]]></title>
 <link>https://apnews.com/article/afghanistan-snow-rain-weather-09777dc9a99059c30165b4b0c4d50168</link>
 <pubDate>Sat, 24 Jan 2026 19:32:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
-<link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
-<pubDate>Sat, 24 Jan 2026 19:17:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
