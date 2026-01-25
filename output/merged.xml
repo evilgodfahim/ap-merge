@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 13:07:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 13:47:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
 <link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
@@ -11,9 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
-<link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
-<pubDate>Sun, 25 Jan 2026 08:15:08 -0000</pubDate>
+<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
+<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
+<pubDate>Sun, 25 Jan 2026 13:47:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s Greenland ambitions strain MAGA ties with Europe’s far-right]]></title>
+<link>https://apnews.com/article/trump-greenland-europe-far-right-maga-c6b44e151d81e990129c2d58ab0ee192</link>
+<pubDate>Sun, 25 Jan 2026 13:32:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Freezing and in the dark, Kyiv residents are stranded in tower blocks as Russia targets power system]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-energy-property-stairs-4eebf3a859afe1dbcf7033d051af8b5c</link>
 <pubDate>Sat, 24 Jan 2026 06:17:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In the rehearsal tent: Here’s what makes the Milan Cortina Winter Olympics opening ceremony special]]></title>
-<link>https://apnews.com/article/milan-cortina-opening-ceremony-rehearsals-olympics-1acc32327bc435e01c5b6f178db3f260</link>
-<pubDate>Sat, 24 Jan 2026 18:16:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[At 21, Coco Gauff has enjoyed hanging out with emerging teens at Australian Open]]></title>
+<link>https://apnews.com/article/coco-gauff-jovic-australian-open-tennis-e5bf9db0f09d5433eac2e36c821828da</link>
+<pubDate>Sun, 25 Jan 2026 13:47:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos shows Japan’s love of pandas as twins Xiao Xiao and Lei Lei return to China]]></title>
 <link>https://apnews.com/photo-gallery/japan-china-pandas-ueno-zoo-return-diplomacy-9f5ecf5d57eecbbee25e3c89097409bb</link>
 <pubDate>Sun, 25 Jan 2026 12:21:48 -0000</pubDate>
@@ -215,9 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
+<link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
+<pubDate>Sun, 25 Jan 2026 13:32:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[People brace themselves for the winter storm moving across the US, in photos]]></title>
 <link>https://apnews.com/photo-gallery/ice-snow-cold-winter-f9b6d228de628490db7c1fc965373bd7</link>
 <pubDate>Sat, 24 Jan 2026 19:32:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[In the rehearsal tent: Here’s what makes the Milan Cortina Winter Olympics opening ceremony special]]></title>
+<link>https://apnews.com/article/milan-cortina-opening-ceremony-rehearsals-olympics-1acc32327bc435e01c5b6f178db3f260</link>
+<pubDate>Sun, 25 Jan 2026 13:17:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A suicide bomber strikes a wedding in northwestern Pakistan and kills 7 people]]></title>
-<link>https://apnews.com/article/pakistan-suicide-bombing-wedding-ceremony-northwest-4962ee33d1db9c08368c2a386356a579</link>
-<pubDate>Sat, 24 Jan 2026 09:56:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An avalanche in Pakistan and snowstorms in neighboring Afghanistan kill at least 20 people]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-avalanche-snowfall-killed-0d531f937810beabb81af97aded559f5</link>
-<pubDate>Sat, 24 Jan 2026 15:08:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Swiss court orders release on bail of bar owner in probe of fatal New Year’s fire]]></title>
-<link>https://apnews.com/article/switzerland-crans-montana-bar-fire-manager-bail-7a8b27370303990df3dc9c9ba102a95f</link>
-<pubDate>Fri, 23 Jan 2026 18:18:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Myanmar holds its last election round with the army already certain to keep control over government]]></title>
 <link>https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4</link>
 <pubDate>Sun, 25 Jan 2026 01:02:30 -0000</pubDate>
@@ -362,12 +362,6 @@
 <title><![CDATA[Zelenskyy says trilateral talks ended constructively and more are possible next week]]></title>
 <link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
 <pubDate>Sat, 24 Jan 2026 18:16:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Greenland ambitions strain MAGA ties with Europe’s far-right]]></title>
-<link>https://apnews.com/article/trump-greenland-europe-far-right-maga-c6b44e151d81e990129c2d58ab0ee192</link>
-<pubDate>Sun, 25 Jan 2026 08:15:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’]]></title>
-<link>https://apnews.com/article/iran-protests-trump-revolutionary-guard-059ba55b8e169d57f978fc3c52ccd05a</link>
-<pubDate>Sat, 24 Jan 2026 16:45:13 -0000</pubDate>
+<title><![CDATA[Iran unveils mural warning of retaliation if US conducts a military strike]]></title>
+<link>https://apnews.com/article/iran-trump-mural-protests-military-4b2ceb8aff9dc448036341e86023b6c8</link>
+<pubDate>Sun, 25 Jan 2026 13:47:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +437,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Getting to ‘no': Europe’s leaders find a way to speak with one voice against Trump]]></title>
+<link>https://apnews.com/article/trump-european-leaders-nato-greenland-diplomacy-b01f2d1e73e6a44fb3bc1d757aeb5110</link>
+<pubDate>Sun, 25 Jan 2026 13:32:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesian rescuers struggle with mud and debris in search for dozens missing after deadly landslide]]></title>
 <link>https://apnews.com/article/indonesia-west-java-landslide-d453d653fdd6f05ab7ebe85979c2a61b</link>
 <pubDate>Sun, 25 Jan 2026 08:00:09 -0000</pubDate>
@@ -452,12 +452,6 @@
 <title><![CDATA[Haiti’s transitional council deepens political chaos by voting to oust the prime minister]]></title>
 <link>https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a</link>
 <pubDate>Fri, 23 Jan 2026 19:39:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kushner’s vision for rebuilding Gaza faces major obstacles]]></title>
-<link>https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca</link>
-<pubDate>Fri, 23 Jan 2026 05:25:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
