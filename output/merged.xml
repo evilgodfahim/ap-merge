@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 10:11:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 10:43:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
 <link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Macron pushes for fast-track ban on social media for children under 15]]></title>
+<link>https://apnews.com/article/france-macron-social-media-teenagers-ban-8bfd1b572d1852818d74115f8a1c45d7</link>
+<pubDate>Sun, 25 Jan 2026 10:43:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Freezing and in the dark, Kyiv residents are stranded in tower blocks as Russia targets power system]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-energy-property-stairs-4eebf3a859afe1dbcf7033d051af8b5c</link>
 <pubDate>Sat, 24 Jan 2026 06:17:33 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[In the rehearsal tent: Here’s what makes the Milan Cortina Winter Olympics opening ceremony special]]></title>
 <link>https://apnews.com/article/milan-cortina-opening-ceremony-rehearsals-olympics-1acc32327bc435e01c5b6f178db3f260</link>
 <pubDate>Sat, 24 Jan 2026 18:16:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Zelenskyy says trilateral talks ended constructively and more are possible next week]]></title>
-<link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
-<pubDate>Sun, 25 Jan 2026 02:29:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,6 +362,12 @@
 <title><![CDATA[Scale of Iran’s nationwide protests and bloody crackdown come into focus even as internet is out]]></title>
 <link>https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2</link>
 <pubDate>Sat, 24 Jan 2026 07:37:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelenskyy says trilateral talks ended constructively and more are possible next week]]></title>
+<link>https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54</link>
+<pubDate>Sat, 24 Jan 2026 18:16:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
