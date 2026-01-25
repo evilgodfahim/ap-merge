@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 03:23:42 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
-<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
-<pubDate>Fri, 23 Jan 2026 16:48:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 25 Jan 2026 04:34:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Kushner’s vision for rebuilding Gaza faces major obstacles]]></title>
 <link>https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca</link>
 <pubDate>Sat, 24 Jan 2026 20:39:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian forces take control of prison housing IS members after Kurdish fighters evacuate]]></title>
+<link>https://apnews.com/article/syria-prisons-islamic-state-group-detainees-iraq-10059952904836fbde3327bf9e5dd85f</link>
+<pubDate>Sat, 24 Jan 2026 19:32:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A landslide on Indonesia’s Java island kills at least 8 people and leaves more than 80 missing]]></title>
+<link>https://apnews.com/article/indonesia-west-java-landslide-186f09157d57ae56fb9d0988f26b8585</link>
+<pubDate>Sun, 25 Jan 2026 04:34:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s top general under investigation in latest military purge]]></title>
 <link>https://apnews.com/article/china-military-general-zhang-corruption-probe-1a87a7f041bb2bba26a5fd7cba74b06b</link>
 <pubDate>Sat, 24 Jan 2026 15:38:51 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[A US warship is making a friendship visit to a Cambodian naval base upgraded with China’s help]]></title>
 <link>https://apnews.com/article/cambodia-ream-base-uss-cincinnati-china-a8d9fe4d1dda8c7cf9bec2639718b19c</link>
 <pubDate>Sat, 24 Jan 2026 10:11:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Myanmar military airstrike on a village sheltering displaced people killed 21, rebels say]]></title>
-<link>https://apnews.com/article/myanmar-airstrike-bhamo-hteelin-village-21-killed-7b8a56ad60d7d5282ac28f9681b751aa</link>
-<pubDate>Sat, 24 Jan 2026 07:37:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Myanmar military airstrike on a village sheltering displaced people killed 21, rebels say]]></title>
+<link>https://apnews.com/article/myanmar-airstrike-bhamo-hteelin-village-21-killed-7b8a56ad60d7d5282ac28f9681b751aa</link>
+<pubDate>Sun, 25 Jan 2026 03:23:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump steals the show in Davos with a mixed bag of rhetoric and results at elite gathering]]></title>
 <link>https://apnews.com/article/wef-davos-trump-ukraine-carney-musk-9f9a80ba7b80139f6bcfdf7b2a620c1a</link>
 <pubDate>Sat, 24 Jan 2026 20:25:00 -0000</pubDate>
@@ -383,12 +389,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US envoys urge Netanyahu to move into Gaza ceasefire’s second phase]]></title>
-<link>https://apnews.com/article/israel-gaza-war-trump-news-01-24-2026-90e36ca7d2e27ca8a21d1727e9e0119f</link>
-<pubDate>Sat, 24 Jan 2026 16:30:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan, authorities say]]></title>
 <link>https://apnews.com/article/afghanistan-snow-rain-weather-09777dc9a99059c30165b4b0c4d50168</link>
 <pubDate>Sat, 24 Jan 2026 19:32:56 -0000</pubDate>
@@ -404,6 +404,12 @@
 <title><![CDATA[Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate]]></title>
 <link>https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65</link>
 <pubDate>Sat, 24 Jan 2026 20:25:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
+<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
+<pubDate>Sat, 24 Jan 2026 08:16:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,21 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[American rock climber Alex Honnold climbs Taipei 101 skyscraper without ropes]]></title>
+<title><![CDATA[American rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes]]></title>
 <link>https://apnews.com/article/alex-honnold-taipei-101-solo-climb-netflix-cfe8960237290086cdee581075056fbf</link>
-<pubDate>Sun, 25 Jan 2026 03:23:41 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 04:34:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Haiti’s transitional council deepens political chaos by voting to oust the prime minister]]></title>
 <link>https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a</link>
 <pubDate>Fri, 23 Jan 2026 19:39:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian forces take control of prison housing IS members after Kurdish fighters evacuate]]></title>
-<link>https://apnews.com/article/syria-prisons-islamic-state-group-detainees-iraq-10059952904836fbde3327bf9e5dd85f</link>
-<pubDate>Fri, 23 Jan 2026 15:47:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
