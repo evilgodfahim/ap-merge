@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 19:34:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 20:13:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
 <link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some Republicans call for investigation after fatal shooting in Minneapolis]]></title>
+<title><![CDATA[Republican calls are growing for a deeper investigation into the fatal Minneapolis shooting]]></title>
 <link>https://apnews.com/article/minneapolis-immigration-republicans-trump-pretti-988f694e4e1187033551fd23afde4c02</link>
-<pubDate>Sun, 25 Jan 2026 18:49:43 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 20:13:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The last 2 pandas in Japan are leaving for China as ties are strained]]></title>
+<link>https://apnews.com/article/japan-china-pandas-ueno-zoo-return-diplomacy-9cf7aff53bc94e03f651eb48eee7f7b8</link>
+<pubDate>Sun, 25 Jan 2026 19:58:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[Trump administration’s defense strategy tells allies to handle their own security]]></title>
 <link>https://apnews.com/article/national-defense-strategy-hegseth-trump-china-greenland-08fdbe1f8e3f557d688f289fbf4a2c84</link>
 <pubDate>Sat, 24 Jan 2026 13:05:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese asylum seeker who exposed rights abuses fights to stay in the US]]></title>
-<link>https://apnews.com/article/guan-heng-china-deportation-defector-asylum-trump-a63ab1448c2d719523c75269095f3c0a</link>
-<pubDate>Sat, 24 Jan 2026 02:42:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[New Zealand wins its first ODI bilateral series in India despite Kohli’s century]]></title>
 <link>https://apnews.com/article/india-new-zealand-cricket-odi-6ff82e98ceaaac393500ae44f59cc8eb</link>
 <pubDate>Mon, 19 Jan 2026 17:53:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil takes over Mexico’s embassy in Peru following diplomatic rift]]></title>
+<link>https://apnews.com/article/brazil-mexico-peru-embassy-6073d39405bfbcee983c1607b8860ded</link>
+<pubDate>Sun, 25 Jan 2026 20:13:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese asylum seeker who exposed rights abuses fights to stay in the US]]></title>
+<link>https://apnews.com/article/guan-heng-china-deportation-defector-asylum-trump-a63ab1448c2d719523c75269095f3c0a</link>
+<pubDate>Sun, 25 Jan 2026 19:58:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[King Charles III believes harmony can help save the planet. His documentary explains how]]></title>
 <link>https://apnews.com/article/harmony-king-charles-iii-environment-climate-change-76b1d572a8b2a00d53f63c8386841134</link>
 <pubDate>Sat, 24 Jan 2026 18:12:38 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spanish prosecutors drop sexual assault complaint against Julio Iglesias]]></title>
-<link>https://apnews.com/article/julio-iglesias-sexual-assault-accusations-a8cd29ecd9ed1e3b9f22dce9d59754af</link>
-<pubDate>Fri, 23 Jan 2026 21:55:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Colombian President Petro optimistic about high-stakes White House meeting with Trump]]></title>
-<link>https://apnews.com/article/colombia-us-petro-meeting-trump-cdaddced43a05cb94d23a5d106bf3074</link>
-<pubDate>Fri, 23 Jan 2026 20:44:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Myanmar holds its last election round with the army already certain to keep control over government]]></title>
 <link>https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4</link>
 <pubDate>Sun, 25 Jan 2026 01:02:30 -0000</pubDate>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs]]></title>
-<link>https://apnews.com/article/carney-trump-trade-canada-united-states-china-11175a5c513730d8a894bdabe70b8c01</link>
-<pubDate>Sun, 25 Jan 2026 17:39:58 -0000</pubDate>
+<title><![CDATA[Israel launches ‘large scale operation’ to locate last hostage in Gaza]]></title>
+<link>https://apnews.com/article/gaza-israel-hamas-palestinians-hostage-gvili-d57a28eb5371785588d4b955f9dd2a46</link>
+<pubDate>Sun, 25 Jan 2026 20:13:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,27 +461,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia, Ukraine and the US are holding peace talks in Abu Dhabi. They’re coming at a key moment]]></title>
-<link>https://apnews.com/article/russia-ukraine-us-peace-talks-f74851700659a5a724558a5a5ad070b8</link>
-<pubDate>Sat, 24 Jan 2026 08:16:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Wife of Uganda’s opposition leader describes moment armed men attacked her at home]]></title>
 <link>https://apnews.com/article/uganda-opposition-bobi-wine-wife-19ee8a1bce8d0f14e9d337eba561c286</link>
 <pubDate>Sat, 24 Jan 2026 19:02:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Massive winter storm across the US brings ice, frigid temperatures and widespread power outages]]></title>
+<title><![CDATA[Ice from winter storm leaves a million customers without power across the South]]></title>
 <link>https://apnews.com/article/winter-storm-snow-ice-power-outages-7ea143995026e68db42ed1b4aec396cb</link>
-<pubDate>Sun, 25 Jan 2026 14:55:37 -0000</pubDate>
+<pubDate>Sun, 25 Jan 2026 19:58:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The last 2 pandas in Japan are leaving for China as ties are strained]]></title>
-<link>https://apnews.com/article/japan-china-pandas-ueno-zoo-return-diplomacy-9cf7aff53bc94e03f651eb48eee7f7b8</link>
-<pubDate>Sun, 25 Jan 2026 06:52:24 -0000</pubDate>
+<title><![CDATA[Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs]]></title>
+<link>https://apnews.com/article/carney-trump-trade-canada-united-states-china-11175a5c513730d8a894bdabe70b8c01</link>
+<pubDate>Sun, 25 Jan 2026 17:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
