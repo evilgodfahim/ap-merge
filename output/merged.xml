@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 26 Jan 2026 21:14:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 21:43:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Who’s on Trump’s Board of Peace and who has said no]]></title>
 <link>https://apnews.com/article/trump-netanyahu-gaza-board-of-peace-a4a296f736474e8c6a4edacd7109b8e5</link>
@@ -53,15 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Haiti’s transitional council deepens political chaos by voting to oust the prime minister]]></title>
-<link>https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a</link>
-<pubDate>Sun, 25 Jan 2026 21:37:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mexico’s president joins ARMY fan base in BTS concert push]]></title>
 <link>https://apnews.com/article/bts-mexico-concerts-president-claudia-sheinbaum-1907d0dd6fd6e55dff074812ede2920a</link>
 <pubDate>Mon, 26 Jan 2026 18:42:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico investigates soccer field attack that killed at least 11 people]]></title>
+<link>https://apnews.com/article/mexico-cartel-salamanca-guanajuato-sheinbaum-violence-3811864805e417a741d43d696e9a83a1</link>
+<pubDate>Mon, 26 Jan 2026 21:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Northeast sees more snow from the tail end of a colossal winter storm, at least 25 deaths reported]]></title>
-<link>https://apnews.com/article/winter-weather-storm-snow-ice-cbdc1977b810322baf976c91b622516b</link>
-<pubDate>Mon, 26 Jan 2026 19:29:16 -0000</pubDate>
+<title><![CDATA[What to know about Tom Homan, Trump’s border czar, as he heads to Minneapolis]]></title>
+<link>https://apnews.com/article/tom-homan-minneapolis-donald-trump-immigration-minnesota-29e2d3b1ba1cab7cfe971f92ee04abd6</link>
+<pubDate>Mon, 26 Jan 2026 21:28:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Minnesota nurse is the 6th person to die during the US immigration crackdown]]></title>
-<link>https://apnews.com/article/immigration-enforcement-deaths-six-ee1221223c15f6aee8e4ed8f15fb4dc9</link>
-<pubDate>Mon, 26 Jan 2026 17:57:47 -0000</pubDate>
+<title><![CDATA[Northeast sees more snow from the tail end of a colossal winter storm, at least 25 deaths reported]]></title>
+<link>https://apnews.com/article/winter-weather-storm-snow-ice-cbdc1977b810322baf976c91b622516b</link>
+<pubDate>Mon, 26 Jan 2026 19:29:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -161,9 +161,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico investigates soccer field attack that killed at least 11 people]]></title>
-<link>https://apnews.com/article/mexico-cartel-salamanca-guanajuato-sheinbaum-violence-3811864805e417a741d43d696e9a83a1</link>
-<pubDate>Mon, 26 Jan 2026 20:14:17 -0000</pubDate>
+<title><![CDATA[Venezuela releases dozens of prisoners in 2 days, hundreds more still detained]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-delcy-rodriguez-foro-penal-machado-50dd4d4702143954661e133a19d31b5b</link>
+<pubDate>Mon, 26 Jan 2026 21:43:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sly Dunbar, legendary reggae drummer who anchored tracks from Bob Marley to Bob Dylan, dies as 73]]></title>
+<link>https://apnews.com/article/sly-dunbar-dies-81f29debb9f9946df1622ceab6929515</link>
+<pubDate>Mon, 26 Jan 2026 21:28:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos shows Japan’s love of pandas as twins Xiao Xiao and Lei Lei return to China]]></title>
-<link>https://apnews.com/photo-gallery/japan-china-pandas-ueno-zoo-return-diplomacy-9f5ecf5d57eecbbee25e3c89097409bb</link>
-<pubDate>Sun, 25 Jan 2026 12:21:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel recovers remains of the last hostage in Gaza. Ceasefire moves into tricky new phase]]></title>
 <link>https://apnews.com/article/israel-gaza-hamas-rafah-26-1-2026-c0b373a26ef7f4524b9b2bdad766cfda</link>
 <pubDate>Mon, 26 Jan 2026 18:57:49 -0000</pubDate>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Federal judge hears arguments on Minnesota’s immigration crackdown after fatal shootings]]></title>
+<title><![CDATA[Trump sends border czar to Minnesota and says he and governor are now on a ‘similar wavelength’]]></title>
 <link>https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-lawsuit-5bd12d70d3c76bfe5eacd802ce7480a7</link>
-<pubDate>Mon, 26 Jan 2026 19:44:18 -0000</pubDate>
+<pubDate>Mon, 26 Jan 2026 21:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
