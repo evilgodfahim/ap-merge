@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 26 Jan 2026 07:46:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 08:18:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A bereaved father in Gaza tries to will his son back from the dead]]></title>
 <link>https://apnews.com/article/gaza-glimpse-israel-palestinians-father-74042f3a8f549e726d7f29159a64d335</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers recover more bodies from landslide in Indonesia, with 72 still missing]]></title>
-<link>https://apnews.com/article/indonesia-west-java-landslide-d453d653fdd6f05ab7ebe85979c2a61b</link>
-<pubDate>Mon, 26 Jan 2026 03:26:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Myanmar holds its last election round with the army already certain to keep control over government]]></title>
 <link>https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4</link>
 <pubDate>Mon, 26 Jan 2026 00:46:35 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[He left the US for an internship. Trump’s travel ban made it impossible to return]]></title>
 <link>https://apnews.com/article/travel-ban-international-student-myanmar-michigan-7367b73398296f1bbca5dbe473442390</link>
 <pubDate>Mon, 26 Jan 2026 06:59:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[American rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes]]></title>
+<link>https://apnews.com/article/alex-honnold-taipei-101-solo-climb-netflix-cfe8960237290086cdee581075056fbf</link>
+<pubDate>Sun, 25 Jan 2026 08:00:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The last 2 pandas in Japan are leaving for China as ties are strained]]></title>
+<link>https://apnews.com/article/japan-china-pandas-ueno-zoo-return-diplomacy-9cf7aff53bc94e03f651eb48eee7f7b8</link>
+<pubDate>Sun, 25 Jan 2026 19:58:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump threatens Canada with a 100% tariff over its China trade deal and escalates feud with Carney]]></title>
 <link>https://apnews.com/article/trump-canada-carney-china-tariffs-5079e910df071b45d2b16949efb8f11a</link>
 <pubDate>Sat, 24 Jan 2026 23:11:11 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[China’s top general under investigation in latest military purge]]></title>
 <link>https://apnews.com/article/china-military-general-zhang-corruption-probe-1a87a7f041bb2bba26a5fd7cba74b06b</link>
 <pubDate>Sat, 24 Jan 2026 15:38:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A US warship is making a friendship visit to a Cambodian naval base upgraded with China’s help]]></title>
-<link>https://apnews.com/article/cambodia-ream-base-uss-cincinnati-china-a8d9fe4d1dda8c7cf9bec2639718b19c</link>
-<pubDate>Sat, 24 Jan 2026 10:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,12 +245,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[American rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes]]></title>
-<link>https://apnews.com/article/alex-honnold-taipei-101-solo-climb-netflix-cfe8960237290086cdee581075056fbf</link>
-<pubDate>Mon, 26 Jan 2026 05:37:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Immigrant families protest at Texas facility housing 5-year-old boy, father detained in Minnesota]]></title>
 <link>https://apnews.com/article/texas-immigration-detention-7fa98244c1b0245deb4462e9dc25292f</link>
 <pubDate>Sun, 25 Jan 2026 01:02:29 -0000</pubDate>
@@ -335,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A US warship is making a friendship visit to a Cambodian naval base upgraded with China’s help]]></title>
+<link>https://apnews.com/article/cambodia-ream-base-uss-cincinnati-china-a8d9fe4d1dda8c7cf9bec2639718b19c</link>
+<pubDate>Mon, 26 Jan 2026 08:18:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Combining exercise with volunteering works out for members of a UK alternative to gyms]]></title>
 <link>https://apnews.com/article/goodgym-fitness-volunteering-1feb0fcea89a0c1a947c4174bbd70993</link>
 <pubDate>Sat, 24 Jan 2026 06:17:34 -0000</pubDate>
@@ -350,6 +350,12 @@
 <title><![CDATA[Israel launches ‘large-scale operation’ to locate last hostage in Gaza]]></title>
 <link>https://apnews.com/article/gaza-israel-hamas-palestinians-hostage-gvili-d57a28eb5371785588d4b955f9dd2a46</link>
 <pubDate>Sun, 25 Jan 2026 21:37:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hundreds rescued from deadly ferry disaster in Philippines]]></title>
+<link>https://apnews.com/article/philippines-ferry-sinking-passengers-772cfd1802a7ad0ca184869201772754</link>
+<pubDate>Mon, 26 Jan 2026 05:52:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds rescued from deadly ferry disaster in Philippines]]></title>
-<link>https://apnews.com/article/philippines-ferry-sinking-passengers-772cfd1802a7ad0ca184869201772754</link>
-<pubDate>Mon, 26 Jan 2026 05:52:06 -0000</pubDate>
+<title><![CDATA[Rescuers recover more bodies from landslide in Indonesia, with 72 still missing]]></title>
+<link>https://apnews.com/article/indonesia-west-java-landslide-d453d653fdd6f05ab7ebe85979c2a61b</link>
+<pubDate>Sun, 25 Jan 2026 15:10:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A girls’ soccer tournament drives HPV vaccine awareness in Zimbabwe]]></title>
+<title><![CDATA[Health officials team with a soccer tournament for cervical cancer vaccination for African girls]]></title>
 <link>https://apnews.com/article/zimbabwe-vaccine-cervical-cancer-soccer-665129396362bc128593e6abb61e9f7f</link>
-<pubDate>Mon, 26 Jan 2026 04:38:24 -0000</pubDate>
+<pubDate>Mon, 26 Jan 2026 08:18:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The last 2 pandas in Japan are leaving for China as ties are strained]]></title>
-<link>https://apnews.com/article/japan-china-pandas-ueno-zoo-return-diplomacy-9cf7aff53bc94e03f651eb48eee7f7b8</link>
-<pubDate>Sun, 25 Jan 2026 06:52:24 -0000</pubDate>
+<title><![CDATA[How a purge of China’s military leadership could impact the army and the future of Taiwan]]></title>
+<link>https://apnews.com/article/china-military-purge-general-zhang-investigation-76271533450c6fe6614e65e8016676ee</link>
+<pubDate>Mon, 26 Jan 2026 08:03:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
