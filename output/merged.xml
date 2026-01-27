@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 27 Jan 2026 15:48:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 16:17:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
+<link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
+<pubDate>Tue, 27 Jan 2026 06:57:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Russian forces begin pulling out of bases in northeast Syria]]></title>
 <link>https://apnews.com/article/syria-russia-sdf-qamishli-bd34938a4ce46b48b669b43b3247184f</link>
 <pubDate>Tue, 27 Jan 2026 14:54:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
-<pubDate>Tue, 27 Jan 2026 14:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippines grounds company’s fleet of passenger ships after at least 18 die in ferry sinking]]></title>
-<link>https://apnews.com/article/philippines-ferry-sinking-mv-trisha-kerstin-3-deffdbd16e56d57950a4dde3161c87cc</link>
-<pubDate>Tue, 27 Jan 2026 09:07:40 -0000</pubDate>
+<title><![CDATA[Tens of thousands flee northwest Pakistan over fears of military operation]]></title>
+<link>https://apnews.com/article/pakistan-military-operation-evacuations-northwest-tirah-valley-afed17b931a5ee402b2138cfbceeedb6</link>
+<pubDate>Tue, 27 Jan 2026 16:17:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US aircraft carrier arrives in the Middle East as tensions with Iran remain high]]></title>
-<link>https://apnews.com/article/aircraft-carrier-iran-protests-us-military-58e6da912f9167df94f913d7dafe5af4</link>
-<pubDate>Tue, 27 Jan 2026 09:22:40 -0000</pubDate>
+<title><![CDATA[The Rafah crossing is Gaza’s lifeline to the world and could open soon]]></title>
+<link>https://apnews.com/article/gaza-rafah-crossing-israel-palestinians-hamas-ceasefire-0812af849b8f48ed0fb1c8a09e24f5b4</link>
+<pubDate>Tue, 27 Jan 2026 10:52:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,27 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bovino is set to leave Minneapolis as Trump reshuffles the leadership of his immigration crackdown]]></title>
-<link>https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-lawsuit-5bd12d70d3c76bfe5eacd802ce7480a7</link>
-<pubDate>Tue, 27 Jan 2026 13:54:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Minneapolis shooting scrambles Second Amendment politics for Trump]]></title>
 <link>https://apnews.com/article/trump-pretti-minnesota-second-amendment-ice-ffef56cab9930e52273f8227251452f4</link>
 <pubDate>Tue, 27 Jan 2026 13:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Tom Homan, Trump’s border czar, as he heads to Minneapolis]]></title>
-<link>https://apnews.com/article/tom-homan-minneapolis-donald-trump-immigration-minnesota-29e2d3b1ba1cab7cfe971f92ee04abd6</link>
-<pubDate>Mon, 26 Jan 2026 21:28:18 -0000</pubDate>
+<title><![CDATA[What to know about Gregory Bovino, the commander of Trump’s immigration crackdown]]></title>
+<link>https://apnews.com/article/gregory-bovino-immigration-minneapolis-d90e0f478f1119d773989196b3db393e</link>
+<pubDate>Tue, 27 Jan 2026 16:02:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More arctic air expected in parts of the South still covered in ice and riddled with power outages]]></title>
+<title><![CDATA[Trump’s use of AI images pushes new boundaries, further eroding public trust, experts say]]></title>
+<link>https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31</link>
+<pubDate>Tue, 27 Jan 2026 15:47:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[More arctic air is expected for Southern states hit by ice and riddled with power outages]]></title>
 <link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
-<pubDate>Tue, 27 Jan 2026 05:57:30 -0000</pubDate>
+<pubDate>Tue, 27 Jan 2026 15:32:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tens of thousands flee northwest Pakistan over fears of impending military operation]]></title>
-<link>https://apnews.com/article/pakistan-military-operation-evacuations-northwest-tirah-valley-afed17b931a5ee402b2138cfbceeedb6</link>
-<pubDate>Tue, 27 Jan 2026 14:54:59 -0000</pubDate>
+<title><![CDATA[‘Doomsday Clock’ moves closer to midnight over threats from nuclear weapons, climate change and AI]]></title>
+<link>https://apnews.com/article/doomsday-clock-midnight-nuclear-climate-humanity-da3566c5d3b972952b6cf03b13fb7e7f</link>
+<pubDate>Tue, 27 Jan 2026 16:17:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Neil Young’s gift to Greenland: Free access to his entire music catalog]]></title>
+<link>https://apnews.com/article/neil-young-greenland-amazon-19a795c9a574fe6e628d4a640c9a6ae1</link>
+<pubDate>Tue, 27 Jan 2026 16:02:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Carney rolls his eyes at US Treasury secretary, telling Trump he meant what he said at Davos]]></title>
+<link>https://apnews.com/article/carney-trump-canada-trade-davos-bessent-tariffs-8e83cdd9443f6f4a523b6e05fd63843a</link>
+<pubDate>Tue, 27 Jan 2026 15:47:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French lawmaker recounts trauma in trial of ex-senator accused of drugging her with MDMA]]></title>
+<link>https://apnews.com/article/france-drugging-trial-senator-josso-guerriau-bad5b248c3687c5c343fe3a5cf010150</link>
+<pubDate>Tue, 27 Jan 2026 15:32:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In surprise move, Spain to grant legal status to thousands of immigrants lacking permission]]></title>
+<title><![CDATA[In surprise move, Spain will grant legal status to thousands of immigrants lacking permission]]></title>
 <link>https://apnews.com/article/spain-immigration-legal-status-permits-ec1b8c64fb89b348ee4b394b55a94cbe</link>
-<pubDate>Tue, 27 Jan 2026 13:10:32 -0000</pubDate>
+<pubDate>Tue, 27 Jan 2026 15:17:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,6 +224,12 @@
 <title><![CDATA[World pauses to commemorate International Holocaust Remembrance Day]]></title>
 <link>https://apnews.com/article/holocaust-remembrance-auschwitz-un-anniversary-2273ee4e2b86ee9161c8ccc4c543851a</link>
 <pubDate>Tue, 27 Jan 2026 10:52:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Philippines grounds company’s fleet of passenger ships after at least 18 die in ferry sinking]]></title>
+<link>https://apnews.com/article/philippines-ferry-sinking-mv-trisha-kerstin-3-deffdbd16e56d57950a4dde3161c87cc</link>
+<pubDate>Tue, 27 Jan 2026 15:02:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
+<pubDate>Tue, 27 Jan 2026 14:47:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mexico’s president joins ARMY fan base in BTS concert push]]></title>
 <link>https://apnews.com/article/bts-mexico-concerts-president-claudia-sheinbaum-1907d0dd6fd6e55dff074812ede2920a</link>
 <pubDate>Tue, 27 Jan 2026 00:29:52 -0000</pubDate>
@@ -299,12 +329,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Rafah crossing is Gaza’s lifeline to the world and could open soon]]></title>
-<link>https://apnews.com/article/gaza-rafah-crossing-israel-palestinians-hamas-ceasefire-0812af849b8f48ed0fb1c8a09e24f5b4</link>
-<pubDate>Tue, 27 Jan 2026 14:39:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Couture and Lauren Sánchez are everywhere in Paris as Dior and Schiaparelli mix wonder and wit]]></title>
 <link>https://apnews.com/article/dior-couture-jonathan-anderson-fashion-france-paris-a16df800305aab95324a60a46f55f12e</link>
 <pubDate>Mon, 26 Jan 2026 18:27:48 -0000</pubDate>
@@ -320,36 +344,6 @@
 <title><![CDATA[Ethiopia declares the end of its first Marburg virus outbreak]]></title>
 <link>https://apnews.com/article/ethiopia-marburg-virus-outbreak-6389ca72d840bbf4a1a4118dc03fbefc</link>
 <pubDate>Mon, 26 Jan 2026 15:18:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Britain’s Conservative Party loses another high-profile lawmaker to hard-right Reform]]></title>
-<link>https://apnews.com/article/conservative-defection-reform-braverman-tories-farage-016fc9889334cd788598024772e5e070</link>
-<pubDate>Mon, 26 Jan 2026 15:03:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Qatar to invest hundreds of millions in Lebanon’s electricity sector and help return Syrian refugees]]></title>
-<link>https://apnews.com/article/lebanon-qatar-electricity-syrian-refugees-army-hezbollah-6ecd22f05f1060ac1ad4c5b9ad1073cc</link>
-<pubDate>Tue, 27 Jan 2026 09:07:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Interpol arrests more than 3,700 suspects in global trafficking crackdown]]></title>
-<link>https://apnews.com/article/interpol-global-human-trafficking-arrests-operation-liberterra-ee830f01740aa705a42ba9785a10fab1</link>
-<pubDate>Tue, 27 Jan 2026 06:12:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Military-backed party secures Myanmar election win with opposition excluded]]></title>
-<link>https://apnews.com/article/myanmar-election-military-party-6c0e5330696d421e4c58d7a363d75175</link>
-<pubDate>Mon, 26 Jan 2026 16:41:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar uses ‘ghost ships’ to import aviation fuel for deadly air attacks, Amnesty says]]></title>
-<link>https://apnews.com/article/myanmar-russia-iran-oil-ghost-ships-88a789b288bcd7420349056ed0f3c41e</link>
-<pubDate>Mon, 26 Jan 2026 12:25:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s crackdown has killed at least 6,126 people, activists say as the country’s currency plunges]]></title>
+<title><![CDATA[Israel marks the return of the final hostage’s remains after more than two years of war and grief]]></title>
+<link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
+<pubDate>Tue, 27 Jan 2026 16:17:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Activists say Iran’s crackdown has killed at least 6,159 people, as the country’s currency plunges]]></title>
 <link>https://apnews.com/article/iran-protests-deaths-crackdown-aeaeb26493d25d86d5169f8ae455e405</link>
-<pubDate>Tue, 27 Jan 2026 11:55:21 -0000</pubDate>
+<pubDate>Tue, 27 Jan 2026 16:02:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +404,6 @@
 <title><![CDATA[Israel recovers remains of the last hostage in Gaza. Ceasefire moves into tricky new phase]]></title>
 <link>https://apnews.com/article/israel-gaza-hamas-rafah-26-1-2026-c0b373a26ef7f4524b9b2bdad766cfda</link>
 <pubDate>Mon, 26 Jan 2026 18:57:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
-<link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
-<pubDate>Tue, 27 Jan 2026 05:47:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
