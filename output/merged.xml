@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 27 Jan 2026 16:54:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 17:20:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
 <link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tourism in Cuba plummets as tensions with US increase and Venezuela oil shipments drop]]></title>
+<link>https://apnews.com/article/cuba-tourism-drop-us-venezuela-economy-a75e492eba3390ddb5e81eb9d9443f1d</link>
+<pubDate>Tue, 27 Jan 2026 17:19:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid]]></title>
 <link>https://apnews.com/article/trump-venezuela-weapon-maduro-drug-strikes-c052fd24a350a04a458f501b4b536e62</link>
 <pubDate>Mon, 26 Jan 2026 22:29:37 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexico investigates soccer field attack that killed at least 11 people]]></title>
 <link>https://apnews.com/article/mexico-cartel-salamanca-guanajuato-sheinbaum-violence-3811864805e417a741d43d696e9a83a1</link>
 <pubDate>Mon, 26 Jan 2026 21:43:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela releases dozens of prisoners in 2 days, hundreds more still detained]]></title>
-<link>https://apnews.com/article/venezuela-prisoners-delcy-rodriguez-foro-penal-machado-50dd4d4702143954661e133a19d31b5b</link>
-<pubDate>Tue, 27 Jan 2026 03:05:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,12 +209,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘One Battle After Another’ leads the pack in nominations for UK’s BAFTA film awards]]></title>
-<link>https://apnews.com/article/britain-film-bafta-awards-battle-hamnet-b01b0549399ee1d8c70d1a7002443598</link>
-<pubDate>Tue, 27 Jan 2026 12:55:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[French lawmakers approve bill banning social media for children under 15]]></title>
 <link>https://apnews.com/article/france-social-media-ban-children-d3c4010741dd1a39f61c1f6d5bb3c85b</link>
 <pubDate>Tue, 27 Jan 2026 12:10:20 -0000</pubDate>
@@ -266,6 +260,12 @@
 <title><![CDATA[Canada gives conditional approval for Marineland to export remaining belugas to the US]]></title>
 <link>https://apnews.com/article/whales-marineland-canada-captive-e3a9891e18e8d09ca4af97ad354c0bb0</link>
 <pubDate>Tue, 27 Jan 2026 00:59:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela releases dozens of prisoners in 2 days, hundreds more still detained]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-delcy-rodriguez-foro-penal-machado-50dd4d4702143954661e133a19d31b5b</link>
+<pubDate>Mon, 26 Jan 2026 21:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +347,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘One Battle After Another’ leads the pack in nominations for UK’s BAFTA film awards]]></title>
+<link>https://apnews.com/article/britain-film-bafta-awards-battle-hamnet-b01b0549399ee1d8c70d1a7002443598</link>
+<pubDate>Tue, 27 Jan 2026 17:20:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia offers cash bonuses, frees prisoners and lures foreigners to replenish its troops in Ukraine]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-recruits-foreigners-78285219e6e10be694e8e1e007c5b6e4</link>
 <pubDate>Tue, 27 Jan 2026 06:42:31 -0000</pubDate>
@@ -356,12 +362,6 @@
 <title><![CDATA[India and the EU announce a free trade deal affecting up to 2 billion people]]></title>
 <link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
 <pubDate>Tue, 27 Jan 2026 14:54:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian drones kill 3 and wound children in Ukraine as Zelenskyy urges speedier diplomacy]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-odesa-drone-attack-7607e48fd216b8fa7516e7ab6425d271</link>
-<pubDate>Tue, 27 Jan 2026 14:39:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks zigzag on Wall Street following mixed profit reports from UnitedHealth, GM and others]]></title>
+<title><![CDATA[Wall Street flirts with a record as stocks zigzag following mixed profit reports]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-gold-federal-9490a04190f0cb649966b3b8d7724bef</link>
-<pubDate>Tue, 27 Jan 2026 14:24:59 -0000</pubDate>
+<pubDate>Tue, 27 Jan 2026 17:05:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
