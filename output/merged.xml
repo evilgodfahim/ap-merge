@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 10:17:49 GMT</lastBuildDate>
-<item>
-<title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
-<link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
-<pubDate>Tue, 27 Jan 2026 06:57:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 28 Jan 2026 10:52:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russian forces begin pulling out of bases in northeast Syria]]></title>
 <link>https://apnews.com/article/syria-russia-sdf-qamishli-bd34938a4ce46b48b669b43b3247184f</link>
 <pubDate>Tue, 27 Jan 2026 14:54:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[3 French tourists drown when their boat capsizes in Oman]]></title>
+<link>https://apnews.com/article/oman-france-drownings-tourists-6ec3194edf935bdedef6edbde2f933df</link>
+<pubDate>Tue, 27 Jan 2026 22:13:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ASEAN’s top diplomats under pressure to end Myanmar war and finalize South China Sea pact]]></title>
+<title><![CDATA[ASEAN top diplomats under pressure to end Myanmar war and finalize South China Sea pact]]></title>
 <link>https://apnews.com/article/asean-philippines-south-china-sea-myanmar-2fd4918d0b43280d408c21862ad15661</link>
-<pubDate>Wed, 28 Jan 2026 08:54:19 -0000</pubDate>
+<pubDate>Wed, 28 Jan 2026 10:52:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
-<pubDate>Tue, 27 Jan 2026 14:39:58 -0000</pubDate>
+<title><![CDATA[Top US trading partners pledged to invest $5 trillion in America. These researchers have doubts.]]></title>
+<link>https://apnews.com/article/trump-economy-investment-foreign-2f7dc458d48f044c31fbc9128e867206</link>
+<pubDate>Tue, 27 Jan 2026 12:25:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[More ‘No Kings’ protests planned for March 28 as outrage spreads over Minneapolis deaths]]></title>
+<link>https://apnews.com/article/no-kings-protest-alex-pretti-minneapolis-immigration-0b34386da0bb3eeac939d9f934680b6c</link>
+<pubDate>Wed, 28 Jan 2026 10:37:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Investigators say deadly midair collision near DC followed years of ignored warnings about traffic]]></title>
 <link>https://apnews.com/article/dc-plane-crash-army-helicopter-ntsb-cause-c2ebc159a163068b782dd4824097b00b</link>
 <pubDate>Tue, 27 Jan 2026 23:26:07 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Bitter cold grips the eastern US as winter storm deaths rise and power outages linger]]></title>
 <link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
 <pubDate>Tue, 27 Jan 2026 23:11:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Judge finds Virginia Democrats’ redistricting resolution illegal; new Maryland map advances]]></title>
-<link>https://apnews.com/article/virginia-judge-rules-redistricting-plans-illegal-aa92e2eceeef476b4045b31c2c5affdc</link>
-<pubDate>Wed, 28 Jan 2026 02:15:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lawmakers in German state elect new governor to counter far-right rise]]></title>
+<link>https://apnews.com/article/germany-state-governor-election-afd-5e81285a1dfbcf61a6fe7708794cbb57</link>
+<pubDate>Wed, 28 Jan 2026 10:52:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Being a night owl may not be great for your heart but you can do something about it]]></title>
+<link>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</link>
+<pubDate>Wed, 28 Jan 2026 10:37:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-vertical-photos-fashion-ice-minneapolis-8e433566c330dded98584e7004f0c9d7</link>
 <pubDate>Wed, 28 Jan 2026 08:18:14 -0000</pubDate>
@@ -182,12 +194,6 @@
 <title><![CDATA[A historic house in Serbia’s capital hangs on with intimate theatrical productions]]></title>
 <link>https://apnews.com/article/serbia-belgrade-historic-house-theater-8ff72e9482637d88bd8a21b65c3065c2</link>
 <pubDate>Wed, 28 Jan 2026 05:48:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares mostly gain after Wall St sets a record, while gold and silver fly higher]]></title>
-<link>https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6</link>
-<pubDate>Wed, 28 Jan 2026 08:03:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,12 +323,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 French tourists drown when their boat capsizes in Oman]]></title>
-<link>https://apnews.com/article/oman-france-drownings-tourists-6ec3194edf935bdedef6edbde2f933df</link>
-<pubDate>Wed, 28 Jan 2026 03:00:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Philippines grounds company’s fleet of passenger ships after at least 18 die in ferry sinking]]></title>
 <link>https://apnews.com/article/philippines-ferry-sinking-mv-trisha-kerstin-3-deffdbd16e56d57950a4dde3161c87cc</link>
 <pubDate>Tue, 27 Jan 2026 15:02:27 -0000</pubDate>
@@ -350,6 +350,12 @@
 <title><![CDATA[Seven Malaysia soccer players suspended by FIFA are cleared to play pending appeal]]></title>
 <link>https://apnews.com/article/malaysia-football-fake-documents-2251ac0a520b01a69dbc51482c1ad365</link>
 <pubDate>Tue, 27 Jan 2026 05:47:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A month after Iran protests began, worry and fear pervades Mideast over possible US strike]]></title>
+<link>https://apnews.com/article/iran-protests-us-military-crackdown-5f6cb15275c575cefbb8fb41868a018a</link>
+<pubDate>Wed, 28 Jan 2026 10:52:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Activists say Iran’s crackdown has killed at least 6,221 people, as the country’s currency plunges]]></title>
-<link>https://apnews.com/article/iran-protests-deaths-crackdown-aeaeb26493d25d86d5169f8ae455e405</link>
-<pubDate>Wed, 28 Jan 2026 02:45:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Holocaust survivor born in a concentration camp shares her story]]></title>
 <link>https://apnews.com/article/israel-holocaust-remembrance-day-auschwitz-survivors-f6ed4882964e9455cc014f243b307fec</link>
 <pubDate>Tue, 27 Jan 2026 08:03:28 -0000</pubDate>
@@ -413,33 +413,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
+<link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
+<pubDate>Tue, 27 Jan 2026 05:47:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[World shares are mixed after Wall St sets a record, while gold and silver fly higher]]></title>
+<link>https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6</link>
+<pubDate>Wed, 28 Jan 2026 10:37:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Federal Reserve may keep rates unchanged for months as economy shows signs of health]]></title>
+<link>https://apnews.com/article/federal-reserve-trump-powell-inflation-c13913c9e007981f075fb3b22d4a4cec</link>
+<pubDate>Wed, 28 Jan 2026 10:22:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Amazon is closing all Amazon Go and Amazon Fresh stores]]></title>
+<link>https://apnews.com/article/amazon-amazon-go-amazon-fresh-deliveries-6db095b6631fecfe03e5f2fc2ad63b69</link>
+<pubDate>Wed, 28 Jan 2026 10:07:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[ASML made record $11.5 billion profit in 2025 thanks to AI-driven demand, plans to cut 1,700 jobs]]></title>
+<link>https://apnews.com/article/asml-semiconductor-profit-netherlands-jobs-artificial-intelligence-446babea4e88330a7c493412644fa3f3</link>
+<pubDate>Wed, 28 Jan 2026 09:52:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
 <link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
 <pubDate>Wed, 28 Jan 2026 03:00:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street sets a record while the US dollar’s value slides again]]></title>
-<link>https://apnews.com/article/stocks-markets-trump-gold-federal-9490a04190f0cb649966b3b8d7724bef</link>
-<pubDate>Tue, 27 Jan 2026 21:58:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Top US trading partners pledged to invest $5 trillion in America. These researchers have doubts.]]></title>
-<link>https://apnews.com/article/trump-economy-investment-foreign-2f7dc458d48f044c31fbc9128e867206</link>
-<pubDate>Tue, 27 Jan 2026 09:37:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fed expected to keep rates unchanged as Chair Powell pivots back to economics]]></title>
-<link>https://apnews.com/article/federal-reserve-trump-powell-inflation-c1e2c5222795bda4a1d294f6406f66fc</link>
-<pubDate>Tue, 27 Jan 2026 09:22:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump threatens to hike tariffs on South Korean goods over inaction on trade deal]]></title>
-<link>https://apnews.com/article/trump-south-korea-tariffs-trade-deal-3c5accc4bb4585837d670d44e1acf8e2</link>
-<pubDate>Tue, 27 Jan 2026 00:29:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,6 +458,12 @@
 <title><![CDATA[Rubio set to warn of future military action if Venezuela’s new leaders stray from US goals]]></title>
 <link>https://apnews.com/article/us-venezuela-trump-rubio-congress-maduro-rodriguez-e157b5d08a39047df4ac46764900ae77</link>
 <pubDate>Wed, 28 Jan 2026 05:48:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
+<pubDate>Mon, 26 Jan 2026 18:42:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
