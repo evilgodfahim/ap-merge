@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 12:26:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 13:27:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli diplomat pledges to investigate case of Italian officers held at gunpoint in West Bank]]></title>
+<link>https://apnews.com/article/israel-italy-west-bank-e0a471f064201e7854fd1ac1e8431ad3</link>
+<pubDate>Wed, 28 Jan 2026 13:27:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
 <link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
 <pubDate>Tue, 27 Jan 2026 06:57:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian forces begin pulling out of bases in northeast Syria]]></title>
-<link>https://apnews.com/article/syria-russia-sdf-qamishli-bd34938a4ce46b48b669b43b3247184f</link>
-<pubDate>Tue, 27 Jan 2026 14:54:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea’s Kim says upcoming party congress will unveil plans to bolster nuclear deterrent]]></title>
+<link>https://apnews.com/article/north-korea-kim-nuclear-missiles-00767953733da9a7acf0076d87d18c48</link>
+<pubDate>Wed, 28 Jan 2026 13:12:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Senior state official among 5 dead after private plane crash in western India]]></title>
 <link>https://apnews.com/article/india-plane-crash-ajit-pawar-modi-c9c3e127107bb606b24b6ae77e9fe939</link>
 <pubDate>Wed, 28 Jan 2026 11:56:28 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[India says it has contained Nipah virus outbreak as some Asian countries ramp up health screenings]]></title>
 <link>https://apnews.com/article/india-nipah-virus-outbreak-contained-asia-166df6c637780b99ede380bf4ddccfcc</link>
 <pubDate>Wed, 28 Jan 2026 08:03:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[ASEAN top diplomats under pressure to end Myanmar war and finalize South China Sea pact]]></title>
-<link>https://apnews.com/article/asean-philippines-south-china-sea-myanmar-2fd4918d0b43280d408c21862ad15661</link>
-<pubDate>Wed, 28 Jan 2026 10:52:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Tourism in Cuba plummets as tensions with US increase and Venezuela oil shipments drop]]></title>
 <link>https://apnews.com/article/cuba-tourism-drop-us-venezuela-economy-a75e492eba3390ddb5e81eb9d9443f1d</link>
 <pubDate>Tue, 27 Jan 2026 17:19:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
-<pubDate>Tue, 27 Jan 2026 14:39:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +107,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bitter cold grips the eastern US as winter storm deaths rise and power outages linger]]></title>
+<link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
+<pubDate>Tue, 27 Jan 2026 23:11:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Investigators say deadly midair collision near DC followed years of ignored warnings about traffic]]></title>
 <link>https://apnews.com/article/dc-plane-crash-army-helicopter-ntsb-cause-c2ebc159a163068b782dd4824097b00b</link>
 <pubDate>Tue, 27 Jan 2026 23:26:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bitter cold grips the eastern US as winter storm deaths rise and power outages linger]]></title>
-<link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
-<pubDate>Tue, 27 Jan 2026 23:11:07 -0000</pubDate>
+<title><![CDATA[Japan’s last pair of pandas have arrived back in China]]></title>
+<link>https://apnews.com/article/china-japan-pandas-return-xiao-xiao-lei-lei-e5440adbf0a062b55e5dab8f468959af</link>
+<pubDate>Wed, 28 Jan 2026 05:33:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,12 +140,6 @@
 <title><![CDATA[Philippines tells Beijing it is alarmed over escalating verbal tussle in South China Sea dispute]]></title>
 <link>https://apnews.com/article/philippines-beijing-south-china-sea-disputes-dac69e3e7159dc3672879feeee87de5d</link>
 <pubDate>Mon, 26 Jan 2026 11:40:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How a purge of China’s military leadership could impact the army and the future of Taiwan]]></title>
-<link>https://apnews.com/article/china-military-purge-general-zhang-investigation-76271533450c6fe6614e65e8016676ee</link>
-<pubDate>Mon, 26 Jan 2026 17:11:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian forces begin pulling out of bases in northeast Syria]]></title>
+<link>https://apnews.com/article/syria-russia-sdf-qamishli-bd34938a4ce46b48b669b43b3247184f</link>
+<pubDate>Tue, 27 Jan 2026 20:09:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tens of thousands flee northwest Pakistan over fears of military operation]]></title>
 <link>https://apnews.com/article/pakistan-military-operation-evacuations-northwest-tirah-valley-afed17b931a5ee402b2138cfbceeedb6</link>
 <pubDate>Wed, 28 Jan 2026 06:42:34 -0000</pubDate>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World pauses to commemorate International Holocaust Remembrance Day]]></title>
-<link>https://apnews.com/article/holocaust-remembrance-auschwitz-un-anniversary-2273ee4e2b86ee9161c8ccc4c543851a</link>
-<pubDate>Tue, 27 Jan 2026 10:52:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A month after Iran protests began, worry pervades Mideast over possible US strike]]></title>
 <link>https://apnews.com/article/iran-protests-us-military-crackdown-5f6cb15275c575cefbb8fb41868a018a</link>
 <pubDate>Wed, 28 Jan 2026 12:26:29 -0000</pubDate>
@@ -365,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain is granting legal status to immigrants lacking authorization — potentially 500,000 people]]></title>
-<link>https://apnews.com/article/spain-immigration-legal-status-permits-ec1b8c64fb89b348ee4b394b55a94cbe</link>
-<pubDate>Wed, 28 Jan 2026 00:57:25 -0000</pubDate>
+<title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
+<link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
+<pubDate>Wed, 28 Jan 2026 13:27:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea’s former first lady sentenced to 20 months in prison for corruption]]></title>
-<link>https://apnews.com/article/south-korea-kim-keon-hee-daa044141adca1a59f21974ad2a08b72</link>
-<pubDate>Wed, 28 Jan 2026 06:57:34 -0000</pubDate>
+<title><![CDATA[Spain is granting legal status to immigrants lacking authorization — potentially 500,000 people]]></title>
+<link>https://apnews.com/article/spain-immigration-legal-status-permits-ec1b8c64fb89b348ee4b394b55a94cbe</link>
+<pubDate>Wed, 28 Jan 2026 00:57:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Putin is hosting Syria’s interim leader for talks, with Russian military bases on the agenda]]></title>
+<link>https://apnews.com/article/russia-syria-putin-alsharaa-assad-24cb3546e93d5ab573792de66e841438</link>
+<pubDate>Wed, 28 Jan 2026 13:12:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Holocaust survivor born in a concentration camp shares her story]]></title>
 <link>https://apnews.com/article/israel-holocaust-remembrance-day-auschwitz-survivors-f6ed4882964e9455cc014f243b307fec</link>
 <pubDate>Tue, 27 Jan 2026 08:03:28 -0000</pubDate>
@@ -419,15 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli diplomat pledges to investigate case of Italian officers held at gunpoint in West Bank]]></title>
-<link>https://apnews.com/article/israel-italy-west-bank-e0a471f064201e7854fd1ac1e8431ad3</link>
-<pubDate>Tue, 27 Jan 2026 21:09:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World shares are mixed after Wall St sets a record, while gold and silver fly higher]]></title>
+<title><![CDATA[Wall Street set to open with gains ahead of Federal Reserve interest rate call; gold and silver soar]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6</link>
-<pubDate>Wed, 28 Jan 2026 10:37:24 -0000</pubDate>
+<pubDate>Wed, 28 Jan 2026 12:57:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Amazon cuts 16,000 jobs in its latest round of layoffs]]></title>
+<title><![CDATA[Amazon cuts about 16,000 corporate jobs in the latest round of layoffs]]></title>
 <link>https://apnews.com/article/amazon-layoffs-job-cuts-tech-74387fae2313ff7b0b1e638c00863443</link>
-<pubDate>Wed, 28 Jan 2026 11:41:29 -0000</pubDate>
+<pubDate>Wed, 28 Jan 2026 12:42:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea’s Kim says upcoming party congress will unveil plans to bolster nuclear deterrent]]></title>
-<link>https://apnews.com/article/north-korea-kim-nuclear-missiles-00767953733da9a7acf0076d87d18c48</link>
-<pubDate>Wed, 28 Jan 2026 02:30:17 -0000</pubDate>
+<title><![CDATA[South Korea’s former first lady sentenced to 20 months in prison for corruption]]></title>
+<link>https://apnews.com/article/south-korea-kim-keon-hee-daa044141adca1a59f21974ad2a08b72</link>
+<pubDate>Wed, 28 Jan 2026 06:57:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Rubio is set to warn of future military action if Venezuela’s new leaders stray from US goals]]></title>
 <link>https://apnews.com/article/us-venezuela-trump-rubio-congress-maduro-rodriguez-e157b5d08a39047df4ac46764900ae77</link>
 <pubDate>Wed, 28 Jan 2026 11:26:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 French tourists drown when their boat capsizes in Oman]]></title>
-<link>https://apnews.com/article/oman-france-drownings-tourists-6ec3194edf935bdedef6edbde2f933df</link>
-<pubDate>Tue, 27 Jan 2026 09:22:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s last pair of pandas have arrived back in China]]></title>
-<link>https://apnews.com/article/china-japan-pandas-return-xiao-xiao-lei-lei-e5440adbf0a062b55e5dab8f468959af</link>
-<pubDate>Wed, 28 Jan 2026 08:18:15 -0000</pubDate>
+<title><![CDATA[ASEAN top diplomats under pressure to end Myanmar war and finalize South China Sea pact]]></title>
+<link>https://apnews.com/article/asean-philippines-south-china-sea-myanmar-2fd4918d0b43280d408c21862ad15661</link>
+<pubDate>Wed, 28 Jan 2026 12:27:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
