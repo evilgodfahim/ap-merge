@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 03:00:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 04:28:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
 <link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tourism in Cuba plummets as tensions with US increase and Venezuela oil shipments drop]]></title>
-<link>https://apnews.com/article/cuba-tourism-drop-us-venezuela-economy-a75e492eba3390ddb5e81eb9d9443f1d</link>
-<pubDate>Tue, 27 Jan 2026 17:19:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mexican president says her country has paused oil shipments to Cuba]]></title>
 <link>https://apnews.com/article/mexico-cuba-oil-shipments-trump-venezuela-fb5f082572ee12144908f45802448f67</link>
 <pubDate>Tue, 27 Jan 2026 21:58:18 -0000</pubDate>
@@ -71,9 +65,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Judge issues temporary order barring removal of boy, 5, and father who were detained in Minnesota]]></title>
+<link>https://apnews.com/article/immigration-boy-detained-d8c54f4629bbaec08c97ffd870791e93</link>
+<pubDate>Tue, 27 Jan 2026 23:41:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The last hostage recovered from Gaza, Ran Gvili, died fighting to save a kibbutz]]></title>
 <link>https://apnews.com/article/israel-hamas-gaza-hostage-gvili-750f22a45177d571326800b697c93f99</link>
 <pubDate>Tue, 27 Jan 2026 14:39:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Days after a disputed election, Uganda’s army is on the hunt for opposition leader Bobi Wine]]></title>
+<link>https://apnews.com/article/uganda-bobi-wine-hiding-kainerugaba-9e106ae7b19dc9b1afae6539a886e735</link>
+<pubDate>Tue, 27 Jan 2026 11:55:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[Goma in eastern Congo is hanging by a thread a year after the city fell to Rwanda-backed rebels]]></title>
 <link>https://apnews.com/article/congo-goma-m23-minerals-rebels-rwanda-1cc0b58f54d9034eb21d651c53f70a12</link>
 <pubDate>Tue, 27 Jan 2026 14:09:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Several Nigerian military officers will be tried on accusations they plotted a coup]]></title>
-<link>https://apnews.com/article/nigeria-coup-westafrica-military-e4a67707f03ff8059d77ddb1f369632a</link>
-<pubDate>Tue, 27 Jan 2026 08:03:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,12 @@
 <title><![CDATA[India wins T20 series opener against New Zealand by 48 runs]]></title>
 <link>https://apnews.com/article/india-new-zealand-t20-cricket-272155825a592efa8ca58a7c3e8fbe61</link>
 <pubDate>Sun, 25 Jan 2026 17:09:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Are tennis players being treated like zoo animals? Iga Świątek thinks so]]></title>
+<link>https://apnews.com/article/coco-gauff-swiatek-cameras-tennis-australian-open-26e2cefe12e25f2a51f3f4f6c34ad671</link>
+<pubDate>Wed, 28 Jan 2026 04:28:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[World pauses to commemorate International Holocaust Remembrance Day]]></title>
+<link>https://apnews.com/article/holocaust-remembrance-auschwitz-un-anniversary-2273ee4e2b86ee9161c8ccc4c543851a</link>
+<pubDate>Tue, 27 Jan 2026 10:52:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[3 French tourists drown when their boat capsizes in Oman]]></title>
 <link>https://apnews.com/article/oman-france-drownings-tourists-6ec3194edf935bdedef6edbde2f933df</link>
 <pubDate>Wed, 28 Jan 2026 03:00:16 -0000</pubDate>
@@ -341,33 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-Olympic snowboarder pleads not guilty to running a drug smuggling ring]]></title>
-<link>https://apnews.com/article/ryan-wedding-olympic-snowboarder-drug-ring-1733b8338204e5386d09ff76f08f7921</link>
-<pubDate>Tue, 27 Jan 2026 00:44:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hungary’s Orbán accuses Ukraine of election interference and summons ambassador]]></title>
-<link>https://apnews.com/article/hungary-ukraine-orban-summons-ambassador-election-russia-6d157340d5b3f6fd74a2173230979629</link>
-<pubDate>Tue, 27 Jan 2026 05:02:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
 <link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
 <pubDate>Wed, 28 Jan 2026 03:00:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump warns Iraq against returning former PM al-Maliki to power amid worries about Iran influence]]></title>
-<link>https://apnews.com/article/trump-iraq-al-maliki-iran-prime-minister-73f97d9cdf7285cc2a955789ab94a350</link>
-<pubDate>Wed, 28 Jan 2026 00:42:25 -0000</pubDate>
+<title><![CDATA[Tourism in Cuba plummets as tensions with US increase and Venezuela oil shipments drop]]></title>
+<link>https://apnews.com/article/cuba-tourism-drop-us-venezuela-economy-a75e492eba3390ddb5e81eb9d9443f1d</link>
+<pubDate>Tue, 27 Jan 2026 21:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World pauses to commemorate International Holocaust Remembrance Day]]></title>
-<link>https://apnews.com/article/holocaust-remembrance-auschwitz-un-anniversary-2273ee4e2b86ee9161c8ccc4c543851a</link>
-<pubDate>Wed, 28 Jan 2026 00:27:25 -0000</pubDate>
+<title><![CDATA[Trump warns Iraq against returning former PM al-Maliki to power amid worries about Iran influence]]></title>
+<link>https://apnews.com/article/trump-iraq-al-maliki-iran-prime-minister-73f97d9cdf7285cc2a955789ab94a350</link>
+<pubDate>Wed, 28 Jan 2026 00:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Days after a disputed election, Uganda’s army is on the hunt for opposition leader Bobi Wine]]></title>
-<link>https://apnews.com/article/uganda-bobi-wine-hiding-kainerugaba-9e106ae7b19dc9b1afae6539a886e735</link>
-<pubDate>Tue, 27 Jan 2026 14:09:59 -0000</pubDate>
+<title><![CDATA[What to know about South Sudan’s major offensive against opposition forces]]></title>
+<link>https://apnews.com/article/south-sudan-army-rebel-fighting-what-to-know-d94c30115247faed4130bd96036fc4be</link>
+<pubDate>Wed, 28 Jan 2026 04:28:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
