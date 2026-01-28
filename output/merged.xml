@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 06:21:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 06:57:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
 <link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[Russian forces begin pulling out of bases in northeast Syria]]></title>
 <link>https://apnews.com/article/syria-russia-sdf-qamishli-bd34938a4ce46b48b669b43b3247184f</link>
 <pubDate>Tue, 27 Jan 2026 14:54:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The EU is seeking new trade partnerships. Here’s why]]></title>
+<link>https://apnews.com/article/india-eu-european-union-trade-deal-4d2b0333040d7f4d055a7dfe9d8484a3</link>
+<pubDate>Wed, 28 Jan 2026 06:57:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US sending ICE unit to Winter Olympics for security, prompting concern and confusion in Italy]]></title>
-<link>https://apnews.com/article/ice-milan-cortina-olympics-immigration-enforcement-us-110fa4b2066e1fb920dba2a71c3a89e0</link>
-<pubDate>Tue, 27 Jan 2026 18:23:18 -0000</pubDate>
+<title><![CDATA[A private plane crashes in western India and kills a deputy chief minister and 4 others]]></title>
+<link>https://apnews.com/article/india-plane-crash-ajit-pawar-modi-c9c3e127107bb606b24b6ae77e9fe939</link>
+<pubDate>Wed, 28 Jan 2026 06:42:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tens of thousands flee northwest Pakistan over fears of military operation]]></title>
-<link>https://apnews.com/article/pakistan-military-operation-evacuations-northwest-tirah-valley-afed17b931a5ee402b2138cfbceeedb6</link>
-<pubDate>Tue, 27 Jan 2026 16:17:27 -0000</pubDate>
+<title><![CDATA[US takes first steps to possibly reopen embassy in Venezuela after Maduro’s ouster]]></title>
+<link>https://apnews.com/article/venezuela-us-embassy-maduro-ade84a3a33eda565a850f2c6a8bde157</link>
+<pubDate>Wed, 28 Jan 2026 06:27:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexican president says her country has paused oil shipments to Cuba]]></title>
 <link>https://apnews.com/article/mexico-cuba-oil-shipments-trump-venezuela-fb5f082572ee12144908f45802448f67</link>
 <pubDate>Tue, 27 Jan 2026 21:58:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll from US strikes on alleged drug boats reaches 126 people]]></title>
-<link>https://apnews.com/article/boat-strikes-military-death-toll-venezuela-20cef307b035c386f390df846b6056b7</link>
-<pubDate>Tue, 27 Jan 2026 21:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Three months after rapidly scheduled arguments, Supreme Court has yet to decide on Trump’s tariffs]]></title>
+<link>https://apnews.com/article/trump-tariffs-supreme-court-ruling-e00f24f16f327413efbab1af04a960df</link>
+<pubDate>Wed, 28 Jan 2026 06:57:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Are tennis players being treated like zoo animals? Iga Swiatek thinks so]]></title>
 <link>https://apnews.com/article/coco-gauff-swiatek-cameras-tennis-australian-open-26e2cefe12e25f2a51f3f4f6c34ad671</link>
 <pubDate>Wed, 28 Jan 2026 05:18:47 -0000</pubDate>
@@ -269,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tens of thousands flee northwest Pakistan over fears of military operation]]></title>
+<link>https://apnews.com/article/pakistan-military-operation-evacuations-northwest-tirah-valley-afed17b931a5ee402b2138cfbceeedb6</link>
+<pubDate>Wed, 28 Jan 2026 06:42:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind]]></title>
 <link>https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2</link>
 <pubDate>Tue, 27 Jan 2026 13:25:32 -0000</pubDate>
@@ -341,33 +353,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Senegal’s aquagym classes offer hope and healing for people with reduced mobility]]></title>
-<link>https://apnews.com/article/senegal-aquagym-health-diseases-exercise-beach-7fcf317591c8ef7126719cd885ea8940</link>
-<pubDate>Tue, 27 Jan 2026 11:55:20 -0000</pubDate>
+<title><![CDATA[US sending ICE unit to Winter Olympics for security, prompting concern and confusion in Italy]]></title>
+<link>https://apnews.com/article/ice-milan-cortina-olympics-immigration-enforcement-us-110fa4b2066e1fb920dba2a71c3a89e0</link>
+<pubDate>Tue, 27 Jan 2026 18:23:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the heat policy at the Australian Open]]></title>
-<link>https://apnews.com/article/australian-open-heat-what-to-know-51ef8a7cac2b45be7b87796a5715bc57</link>
-<pubDate>Tue, 27 Jan 2026 04:29:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
-<link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
-<pubDate>Wed, 28 Jan 2026 03:00:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio set to warn of future military action if Venezuela’s new leaders stray from US goals]]></title>
-<link>https://apnews.com/article/us-venezuela-trump-rubio-congress-maduro-rodriguez-e157b5d08a39047df4ac46764900ae77</link>
-<pubDate>Wed, 28 Jan 2026 05:48:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Three months after rapidly scheduled arguments, Supreme Court has yet to decide on Trump’s tariffs]]></title>
-<link>https://apnews.com/article/trump-tariffs-supreme-court-ruling-e00f24f16f327413efbab1af04a960df</link>
-<pubDate>Wed, 28 Jan 2026 05:33:48 -0000</pubDate>
+<title><![CDATA[South Korea’s former first lady sentenced to 20 months in prison for corruption]]></title>
+<link>https://apnews.com/article/south-korea-kim-keon-hee-daa044141adca1a59f21974ad2a08b72</link>
+<pubDate>Wed, 28 Jan 2026 06:57:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +407,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
+<link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
+<pubDate>Wed, 28 Jan 2026 03:00:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Wall Street sets a record while the US dollar’s value slides again]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-gold-federal-9490a04190f0cb649966b3b8d7724bef</link>
 <pubDate>Tue, 27 Jan 2026 21:58:19 -0000</pubDate>
@@ -437,21 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Carney calls Trump’s tariff threats bluster ahead of US-Canada free trade talks]]></title>
-<link>https://apnews.com/article/carney-trump-trade-tariffs-canada-us-5f7d187d6676414ba6a7f4ab9a3d119a</link>
-<pubDate>Tue, 27 Jan 2026 02:35:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[North Korea’s Kim says upcoming party congress will unveil plans to bolster nuclear deterrent]]></title>
 <link>https://apnews.com/article/north-korea-kim-nuclear-missiles-00767953733da9a7acf0076d87d18c48</link>
 <pubDate>Wed, 28 Jan 2026 02:30:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US takes first steps to possibly reopen embassy in Venezuela after Maduro’s ouster]]></title>
-<link>https://apnews.com/article/venezuela-us-embassy-maduro-ade84a3a33eda565a850f2c6a8bde157</link>
-<pubDate>Wed, 28 Jan 2026 00:12:25 -0000</pubDate>
+<title><![CDATA[Rubio set to warn of future military action if Venezuela’s new leaders stray from US goals]]></title>
+<link>https://apnews.com/article/us-venezuela-trump-rubio-congress-maduro-rodriguez-e157b5d08a39047df4ac46764900ae77</link>
+<pubDate>Wed, 28 Jan 2026 05:48:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
