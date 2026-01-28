@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 15:21:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 15:55:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli diplomat pledges to investigate case of Italian officers held at gunpoint in West Bank]]></title>
 <link>https://apnews.com/article/israel-italy-west-bank-e0a471f064201e7854fd1ac1e8431ad3</link>
@@ -14,6 +14,12 @@
 <title><![CDATA[A ceasefire holds in Syria but civilians live with fear and resentment]]></title>
 <link>https://apnews.com/article/syria-ceasefire-kurds-sdf-civilians-c8d577d4f62958fb7e23bf8178076048</link>
 <pubDate>Tue, 27 Jan 2026 06:57:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A new report warns that combined war casualties in Russia’s war on Ukraine could soon hit 2 million]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-casualties-dd4fae88202ba92cafd59455da69dedc</link>
+<pubDate>Wed, 28 Jan 2026 15:55:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[British leader’s trip to China is a balancing act between trade, national security and Trump]]></title>
-<link>https://apnews.com/article/uk-china-starmer-visit-beijing-xi-trade-ecf9f2736489546818673c8f1b53483a</link>
-<pubDate>Wed, 28 Jan 2026 12:11:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[North Korea’s Kim says upcoming party congress will unveil plans to bolster nuclear deterrent]]></title>
 <link>https://apnews.com/article/north-korea-kim-nuclear-missiles-00767953733da9a7acf0076d87d18c48</link>
 <pubDate>Wed, 28 Jan 2026 13:12:16 -0000</pubDate>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India says it has contained Nipah virus outbreak as some Asian countries ramp up health screenings]]></title>
-<link>https://apnews.com/article/india-nipah-virus-outbreak-contained-asia-166df6c637780b99ede380bf4ddccfcc</link>
-<pubDate>Wed, 28 Jan 2026 08:03:13 -0000</pubDate>
+<title><![CDATA[British leader’s trip to China is a balancing act between trade, national security and Trump]]></title>
+<link>https://apnews.com/article/uk-china-starmer-visit-beijing-xi-trade-ecf9f2736489546818673c8f1b53483a</link>
+<pubDate>Wed, 28 Jan 2026 12:11:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bitter cold grips the eastern US as winter storm deaths rise and power outages linger]]></title>
-<link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
-<pubDate>Tue, 27 Jan 2026 23:11:07 -0000</pubDate>
+<title><![CDATA[IRS faces stiff challenges in 2026 tax season due to workforce cuts and new laws, a watchdog says]]></title>
+<link>https://apnews.com/article/irs-tax-season-taxpayer-advocate-report-cd82286bb60e7e896b5372da25178b1e</link>
+<pubDate>Wed, 28 Jan 2026 15:40:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Investigators say deadly midair collision near DC followed years of ignored warnings about traffic]]></title>
-<link>https://apnews.com/article/dc-plane-crash-army-helicopter-ntsb-cause-c2ebc159a163068b782dd4824097b00b</link>
-<pubDate>Tue, 27 Jan 2026 23:26:07 -0000</pubDate>
+<title><![CDATA[Bitter cold grips the eastern US as winter storm deaths rise and power outages linger]]></title>
+<link>https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64</link>
+<pubDate>Tue, 27 Jan 2026 23:11:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
+<link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
+<pubDate>Wed, 28 Jan 2026 12:26:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India celebrates its 77th Republic Day in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-republic-day-new-delhi-c4c711ca8324104baf63555df4ef1ab6</link>
 <pubDate>Wed, 28 Jan 2026 14:24:15 -0000</pubDate>
@@ -161,9 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sharma hits 14-ball 50 as India beats NZ with 10 overs to spare and wins T20 series]]></title>
-<link>https://apnews.com/article/india-new-zealand-t20-cricket-sharma-bfb0a1bcdc642483e91d4c10961108c9</link>
-<pubDate>Mon, 26 Jan 2026 05:07:04 -0000</pubDate>
+<title><![CDATA[Al Habtoor Group exits Lebanon and lays off employees after dispute with authorities]]></title>
+<link>https://apnews.com/article/lebanon-uae-habtoor-investment-dispute-66b09d25b4e543bb0b43950efa8058fe</link>
+<pubDate>Wed, 28 Jan 2026 15:55:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,27 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘One Battle After Another’ leads the pack in nominations for UK’s BAFTA film awards]]></title>
-<link>https://apnews.com/article/britain-film-bafta-awards-battle-hamnet-b01b0549399ee1d8c70d1a7002443598</link>
-<pubDate>Tue, 27 Jan 2026 12:55:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French lawmakers approve bill banning social media for children under 15]]></title>
-<link>https://apnews.com/article/france-social-media-ban-children-d3c4010741dd1a39f61c1f6d5bb3c85b</link>
-<pubDate>Tue, 27 Jan 2026 12:10:20 -0000</pubDate>
+<title><![CDATA[Spain is granting legal status to immigrants lacking authorization — potentially 500,000 people]]></title>
+<link>https://apnews.com/article/spain-immigration-legal-status-permits-ec1b8c64fb89b348ee4b394b55a94cbe</link>
+<pubDate>Wed, 28 Jan 2026 15:40:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Middle East worries over possible US strike on Iran one month after protests began]]></title>
 <link>https://apnews.com/article/iran-protests-us-military-crackdown-5f6cb15275c575cefbb8fb41868a018a</link>
 <pubDate>Wed, 28 Jan 2026 14:54:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A new report warns that combined war casualties in Russia’s war on Ukraine could soon hit 2 million]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-casualties-dd4fae88202ba92cafd59455da69dedc</link>
-<pubDate>Wed, 28 Jan 2026 12:11:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain is granting legal status to immigrants lacking authorization — potentially 500,000 people]]></title>
-<link>https://apnews.com/article/spain-immigration-legal-status-permits-ec1b8c64fb89b348ee4b394b55a94cbe</link>
-<pubDate>Wed, 28 Jan 2026 00:57:25 -0000</pubDate>
+<title><![CDATA[Haiti faces a sexual violence and abuse crisis as gang violence spreads, health charity warns]]></title>
+<link>https://apnews.com/article/haiti-sexual-abuse-violence-gangs-msf-3e8854f52bd81dd22612eaf5a0f98d2f</link>
+<pubDate>Wed, 28 Jan 2026 15:55:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Putin is hosting Syria’s interim leader for talks, with Russian military bases on the agenda]]></title>
+<title><![CDATA[Putin hosts Syria’s interim leader for talks, with Russian military bases on the agenda]]></title>
 <link>https://apnews.com/article/russia-syria-putin-alsharaa-assad-24cb3546e93d5ab573792de66e841438</link>
-<pubDate>Wed, 28 Jan 2026 13:12:17 -0000</pubDate>
+<pubDate>Wed, 28 Jan 2026 15:40:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tech stocks lead Wall Street higher while the US dollar stabilizes]]></title>
+<title><![CDATA[US stocks tick higher while the dollar’s value stabilizes]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6</link>
-<pubDate>Wed, 28 Jan 2026 14:39:16 -0000</pubDate>
+<pubDate>Wed, 28 Jan 2026 15:25:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[ASML made record $11.5 billion profit in 2025 thanks to AI-driven demand, plans to cut 1,700 jobs]]></title>
 <link>https://apnews.com/article/asml-semiconductor-profit-netherlands-jobs-artificial-intelligence-446babea4e88330a7c493412644fa3f3</link>
 <pubDate>Wed, 28 Jan 2026 09:52:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gay ice hockey drama ‘Heated Rivalry’ becomes a surprise hit in Russia despite anti-LGBTQ+ laws]]></title>
+<link>https://apnews.com/article/heated-rivalry-tv-russia-gay-ice-hockey-f788b1dce58063e3797922402c9f7f3c</link>
+<pubDate>Wed, 28 Jan 2026 15:10:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and the European Union reach a free trade deal representing a third of global trade]]></title>
-<link>https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38</link>
-<pubDate>Wed, 28 Jan 2026 03:00:17 -0000</pubDate>
+<title><![CDATA[India says it has contained Nipah virus outbreak as some Asian countries ramp up health screenings]]></title>
+<link>https://apnews.com/article/india-nipah-virus-outbreak-contained-asia-166df6c637780b99ede380bf4ddccfcc</link>
+<pubDate>Wed, 28 Jan 2026 14:55:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
