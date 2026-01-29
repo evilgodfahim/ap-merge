@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 29 Jan 2026 07:57:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2026 08:33:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Putin hosts Syria’s interim leader for talks, with Russian military bases on the agenda]]></title>
 <link>https://apnews.com/article/russia-syria-putin-alsharaa-assad-24cb3546e93d5ab573792de66e841438</link>
@@ -101,12 +101,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump signals interest in easing tensions, but Minneapolis sees little change on the streets]]></title>
-<link>https://apnews.com/article/minnesota-immigration-enforcement-trump-ice-3a948e7e3a4d7e254e9c1fab93625953</link>
-<pubDate>Thu, 29 Jan 2026 03:07:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[New videos show Alex Pretti scuffle with federal officers in Minneapolis 11 days before his death]]></title>
 <link>https://apnews.com/article/minneapolis-ice-alex-pretti-videos-immigration-809506eb23f44a3e8f6e53b9fda7b700</link>
 <pubDate>Thu, 29 Jan 2026 04:45:22 -0000</pubDate>
@@ -119,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Democrats poised to trigger government shutdown if White House won’t meet demands for ICE reform]]></title>
-<link>https://apnews.com/article/senate-democrats-budget-shutdown-trump-homeland-security-5e6788e433e51399c8aa4399035aee22</link>
-<pubDate>Thu, 29 Jan 2026 04:48:08 -0000</pubDate>
+<title><![CDATA[FEMA could still support winter storm response in a shutdown, despite administration warnings]]></title>
+<link>https://apnews.com/article/fema-dhs-funding-bill-shutdown-trump-688f3e78ec93fe27cfb00bcfbf135fd3</link>
+<pubDate>Thu, 29 Jan 2026 08:33:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[FBI raid in Georgia highlights Trump’s 2020 election obsession and hints at possible future actions]]></title>
+<link>https://apnews.com/article/trump-2020-election-false-claims-fraud-georgia-55786848ca20c02cbcf749ede2db8852</link>
+<pubDate>Thu, 29 Jan 2026 04:33:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,15 +173,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Senegal and Morocco fined and players banned after African Cup final walk-off and chaos]]></title>
+<link>https://apnews.com/article/african-cup-senegal-thiaw-banned-63210c04e79ac5432cc8d400e254b8d7</link>
+<pubDate>Thu, 29 Jan 2026 08:33:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China bans 73 persons from soccer for life in latest anti-corruption controversy]]></title>
+<link>https://apnews.com/article/china-soccer-bribes-a3fee6547c9fe9f3734d65d23108cf46</link>
+<pubDate>Thu, 29 Jan 2026 08:18:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[One Tech Tip: Fed up with AI slop? A few platforms will let you dial it down]]></title>
 <link>https://apnews.com/article/ai-content-slop-pinterest-tiktok-deezer-6bdf29efebc631fe63de13831e14b95f</link>
 <pubDate>Thu, 29 Jan 2026 07:10:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares mostly fall and gold jumps more than 4% after the Fed keeps rates unchanged]]></title>
+<title><![CDATA[Asian shares trade mixed and gold jumps more than 4% after the Fed keeps rates unchanged]]></title>
 <link>https://apnews.com/article/stock-markets-dollar-gold-fed-2a3715ff96ba5c10b97c49e04ad9f8ec</link>
-<pubDate>Thu, 29 Jan 2026 05:00:23 -0000</pubDate>
+<pubDate>Thu, 29 Jan 2026 08:03:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks hold near their all-time high while the dollar’s value stabilizes]]></title>
-<link>https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6</link>
-<pubDate>Thu, 29 Jan 2026 04:45:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 months after rapidly scheduled arguments, the Supreme Court has yet to decide on Trump’s tariffs]]></title>
-<link>https://apnews.com/article/trump-tariffs-supreme-court-ruling-e00f24f16f327413efbab1af04a960df</link>
-<pubDate>Wed, 28 Jan 2026 11:26:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU appears poised to sanction Iran’s Revolutionary Guard over protest crackdown]]></title>
 <link>https://apnews.com/article/european-union-iran-revolutionary-guard-terrorist-f7d9d64b1302cfc2d9311417b2dfeaf6</link>
 <pubDate>Thu, 29 Jan 2026 06:55:07 -0000</pubDate>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump facing growing cultural revolt against immigration crackdown]]></title>
-<link>https://apnews.com/article/trump-immigration-revolt-ice-backlash-pretti-31dc5f8751a6aa283d37e4eda3819c4e</link>
-<pubDate>Thu, 29 Jan 2026 02:52:05 -0000</pubDate>
+<title><![CDATA[Trump signals interest in easing tensions, but Minneapolis sees little change on the streets]]></title>
+<link>https://apnews.com/article/minnesota-immigration-enforcement-trump-ice-3a948e7e3a4d7e254e9c1fab93625953</link>
+<pubDate>Wed, 28 Jan 2026 18:08:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
