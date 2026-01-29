@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 29 Jan 2026 19:48:31 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Israel marks the return of the final hostage’s remains after more than 2 years of war and grief]]></title>
-<link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
-<pubDate>Thu, 29 Jan 2026 03:37:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 29 Jan 2026 20:18:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
 <link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
 <pubDate>Thu, 29 Jan 2026 18:01:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Turkish authorities arrest 6 on suspicion of spying for Iran]]></title>
+<link>https://apnews.com/article/turkey-iran-spying-suspects-arrested-50bc849de2e62147db739c6d97c77324</link>
+<pubDate>Thu, 29 Jan 2026 13:52:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vietnam and the EU upgrade ties as US tariffs reshape global trade]]></title>
+<link>https://apnews.com/article/vietnam-european-union-strategic-partnership-trade-e1476edcca25f10635b029d506e66dea</link>
+<pubDate>Thu, 29 Jan 2026 06:55:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Unmentioned but present, Trump is a common denominator in efforts to strengthen Asia-Europe ties]]></title>
 <link>https://apnews.com/article/trump-china-vietnam-india-britain-510ebfcfe921bfaa8fce1803a9a216bc</link>
 <pubDate>Thu, 29 Jan 2026 15:24:56 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Bangladesh’s ousted leader Hasina denounces the upcoming election from her exile in India]]></title>
 <link>https://apnews.com/article/bangladesh-election-sheikh-hasina-yunus-2c2660332e986b99f3fccec992799523</link>
 <pubDate>Thu, 29 Jan 2026 17:31:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[ASEAN does not recognize military-ruled Myanmar’s elections, top Philippine diplomat says]]></title>
-<link>https://apnews.com/article/asean-philippines-international-law-conflict-c1651405c9fbe7883970ec26f02cd388</link>
-<pubDate>Thu, 29 Jan 2026 10:10:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s border czar suggests a possible drawdown in Minnesota, but only after ‘cooperation’]]></title>
-<link>https://apnews.com/article/homan-minneapolis-immigration-enforcement-0d559bf53b630d7cc525fd3219f430ba</link>
-<pubDate>Thu, 29 Jan 2026 19:06:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[New videos show Alex Pretti scuffle with federal officers in Minneapolis 11 days before his death]]></title>
 <link>https://apnews.com/article/minneapolis-ice-alex-pretti-videos-immigration-809506eb23f44a3e8f6e53b9fda7b700</link>
 <pubDate>Thu, 29 Jan 2026 04:45:22 -0000</pubDate>
@@ -110,6 +104,12 @@
 <title><![CDATA[A shadow network in Minneapolis defies ICE and protects immigrants]]></title>
 <link>https://apnews.com/article/protests-activists-minnesota-immigration-enforcement-ice-f86ce49f26230a1e5ad1592dcac0a5a9</link>
 <pubDate>Thu, 29 Jan 2026 13:22:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Man who squirted apple cider vinegar on Omar is charged with assaulting and intimidating her]]></title>
+<link>https://apnews.com/article/ihan-omar-vinegar-attack-minneapolis-385a30eaf6acc40d6ba5c6c45c09304d</link>
+<pubDate>Thu, 29 Jan 2026 20:18:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jewelry, art and toy train top list of priciest foreign gifts to Biden and other officials in 2024]]></title>
+<link>https://apnews.com/article/biden-foreign-gifts-diplomacy-harris-74b54e038729d00ca085598fc5568d02</link>
+<pubDate>Thu, 29 Jan 2026 20:18:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After a terrifying fall, Red Panda retraces what went wrong and the support that carried her back]]></title>
 <link>https://apnews.com/article/red-panda-halftime-shows-nba-miami-41d34e45356992a67eb5a130320e15be</link>
 <pubDate>Thu, 29 Jan 2026 19:06:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Grammy-nominated Edgar Barrera wishes be a pioneer for Latin songwriters]]></title>
+<title><![CDATA[Grammy-nominated Edgar Barrera wishes to be a pioneer for Latin songwriters]]></title>
 <link>https://apnews.com/article/grammys-edgar-barrera-interview-3bdaa2cb2da3fc360057bc55d9511a1b</link>
-<pubDate>Thu, 29 Jan 2026 18:01:37 -0000</pubDate>
+<pubDate>Thu, 29 Jan 2026 20:03:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ASEAN does not recognize military-ruled Myanmar’s elections, top Philippine diplomat says]]></title>
+<link>https://apnews.com/article/asean-philippines-international-law-conflict-c1651405c9fbe7883970ec26f02cd388</link>
+<pubDate>Thu, 29 Jan 2026 19:48:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Microsoft yanks Wall Street lower as gold’s price swings sharply]]></title>
 <link>https://apnews.com/article/stock-markets-dollar-gold-fed-2a3715ff96ba5c10b97c49e04ad9f8ec</link>
 <pubDate>Thu, 29 Jan 2026 18:36:59 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rwanda sues the UK over controversial migrant deal]]></title>
-<link>https://apnews.com/article/rwanda-britain-migrant-deal-lawsuit-20605f441441b1c622c27621a341993d</link>
-<pubDate>Thu, 29 Jan 2026 08:10:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Google adds AI image generation to Chrome browser, side panel option for virtual assistant]]></title>
-<link>https://apnews.com/article/google-chrome-artificial-intelligence-nano-banana-d4d9a95fd997f7feefd712a333ce5169</link>
-<pubDate>Wed, 28 Jan 2026 18:23:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU lists Iran’s paramilitary Revolutionary Guard as terrorist organization over protest crackdown]]></title>
 <link>https://apnews.com/article/european-union-iran-revolutionary-guard-terrorist-f7d9d64b1302cfc2d9311417b2dfeaf6</link>
 <pubDate>Thu, 29 Jan 2026 18:01:38 -0000</pubDate>
@@ -359,15 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam and the EU upgrade ties as US tariffs reshape global trade]]></title>
-<link>https://apnews.com/article/vietnam-european-union-strategic-partnership-trade-e1476edcca25f10635b029d506e66dea</link>
-<pubDate>Thu, 29 Jan 2026 07:10:07 -0000</pubDate>
+<title><![CDATA[Israel returns Palestinian bodies, marking last exchange between Israel and Hamas]]></title>
+<link>https://apnews.com/article/israel-hamas-hostages-ceasefire-d7976d765e233c89368f14fdf76b376c</link>
+<pubDate>Thu, 29 Jan 2026 20:18:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jewelry, art and toy train top list of priciest foreign gifts to Biden and other officials in 2024]]></title>
-<link>https://apnews.com/article/biden-foreign-gifts-diplomacy-harris-74b54e038729d00ca085598fc5568d02</link>
-<pubDate>Thu, 29 Jan 2026 19:07:00 -0000</pubDate>
+<title><![CDATA[Mexico’s Sheinbaum reiterates sovereignty in Trump call after Olympic snowboarder detained]]></title>
+<link>https://apnews.com/article/sheinbaum-trump-ryan-wedding-mexico-olympic-canadian-snowboarder-cartels-58f67e3eaaf237b78998a1ee5bb41b7c</link>
+<pubDate>Thu, 29 Jan 2026 20:03:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel returns Palestinian bodies, official says, marking last exchange between Israel and Hamas]]></title>
-<link>https://apnews.com/article/israel-hamas-hostages-ceasefire-d7976d765e233c89368f14fdf76b376c</link>
-<pubDate>Thu, 29 Jan 2026 17:31:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
 <link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
 <pubDate>Wed, 28 Jan 2026 19:48:26 -0000</pubDate>
@@ -410,6 +404,12 @@
 <title><![CDATA[Man sentenced to 15 years for assassination plot against Iranian American journalist]]></title>
 <link>https://apnews.com/article/iran-fbi-justice-department-iran-126036c0a99d73dcf75222bf1c52f410</link>
 <pubDate>Wed, 28 Jan 2026 23:17:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel marks the return of the final hostage’s remains after more than 2 years of war and grief]]></title>
+<link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
+<pubDate>Wed, 28 Jan 2026 11:56:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Justice Department charges man who squirted vinegar on Rep. Ilhan Omar]]></title>
-<link>https://apnews.com/article/ihan-omar-vinegar-attack-minneapolis-385a30eaf6acc40d6ba5c6c45c09304d</link>
-<pubDate>Thu, 29 Jan 2026 18:22:00 -0000</pubDate>
+<title><![CDATA[Trump’s border czar suggests a possible drawdown in Minnesota, but only after ‘cooperation’]]></title>
+<link>https://apnews.com/article/homan-minneapolis-immigration-enforcement-0d559bf53b630d7cc525fd3219f430ba</link>
+<pubDate>Thu, 29 Jan 2026 16:24:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
