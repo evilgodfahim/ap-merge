@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 30 Jan 2026 06:05:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 07:11:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
+<link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
+<pubDate>Fri, 30 Jan 2026 07:11:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Man sentenced to 15 years for assassination plot against Iranian American journalist]]></title>
 <link>https://apnews.com/article/iran-fbi-justice-department-iran-126036c0a99d73dcf75222bf1c52f410</link>
 <pubDate>Fri, 30 Jan 2026 06:05:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel marks the return of the final hostage’s remains after more than 2 years of war and grief]]></title>
-<link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
-<pubDate>Thu, 29 Jan 2026 03:37:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
+<link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
+<pubDate>Thu, 29 Jan 2026 18:01:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from AP report on toxic spills from gold mining in Liberia]]></title>
+<link>https://apnews.com/article/investigation-liberia-gold-mining-bea-mountain-takeaways-be146771ed2e387a366028e5d7444d4e</link>
+<pubDate>Fri, 30 Jan 2026 06:56:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PHOTO ESSAY: Liberia’s largest gold miner and community tensions]]></title>
+<link>https://apnews.com/photo-essay/liberia-gold-mining-photo-essay-investigation-06953c58b9c2a96d327cc766be4f5c84</link>
+<pubDate>Fri, 30 Jan 2026 06:41:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Climate change worsened rains and floods which killed dozens in southern Africa, study shows]]></title>
 <link>https://apnews.com/article/southern-africa-floods-climate-change-disaster-8f753c96bbfc264f8db6144b552dcaa7</link>
 <pubDate>Thu, 29 Jan 2026 05:03:08 -0000</pubDate>
@@ -80,18 +98,6 @@
 <title><![CDATA[11 dead in South Africa minibus and truck collision days after similar crash killed 14 children]]></title>
 <link>https://apnews.com/article/south-africa-taxi-truck-crash-f0291dbd9413393b74cd39693df14000</link>
 <pubDate>Thu, 29 Jan 2026 13:37:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Africa has the worst road safety record in the world. Here’s what to know]]></title>
-<link>https://apnews.com/article/africa-road-safety-cars-crashes-d4e243d9807bbb60f9804d575094310e</link>
-<pubDate>Thu, 29 Jan 2026 16:24:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US says aid will resume while Somali officials deny causing disruption leading to suspension]]></title>
-<link>https://apnews.com/article/somalia-us-aid-suspension-world-food-program-f7134a4b8b7671dd8aac530f9f577c93</link>
-<pubDate>Thu, 29 Jan 2026 09:55:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +179,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mostly lower after a wild day on Wall St ends with modest moves]]></title>
+<title><![CDATA[US futures and Asian shares slip after a wild day on Wall St ends with a whimper]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-rates-oil-7f0eadba91bc2e550945eb49bc1085f3</link>
-<pubDate>Fri, 30 Jan 2026 03:37:36 -0000</pubDate>
+<pubDate>Fri, 30 Jan 2026 07:11:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Africa has the worst road safety record in the world. Here’s what to know]]></title>
+<link>https://apnews.com/article/africa-road-safety-cars-crashes-d4e243d9807bbb60f9804d575094310e</link>
+<pubDate>Fri, 30 Jan 2026 06:56:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French energy giant TotalEnergies resumes Mozambique $20 billion project as insurgency slows]]></title>
 <link>https://apnews.com/article/mozambique-gas-project-totalenergies-insurgency-c243116ce93ac1a7bd28747801bae010</link>
 <pubDate>Thu, 29 Jan 2026 22:36:18 -0000</pubDate>
@@ -299,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US says aid will resume while Somali officials deny causing disruption leading to suspension]]></title>
+<link>https://apnews.com/article/somalia-us-aid-suspension-world-food-program-f7134a4b8b7671dd8aac530f9f577c93</link>
+<pubDate>Fri, 30 Jan 2026 06:41:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[$1 million in fines and bans for Senegal and Morocco after chaotic Africa Cup final]]></title>
 <link>https://apnews.com/article/african-cup-senegal-thiaw-banned-63210c04e79ac5432cc8d400e254b8d7</link>
 <pubDate>Thu, 29 Jan 2026 08:55:43 -0000</pubDate>
@@ -335,18 +353,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rio’s favelas become hot tourist destination as visitors seek cultural immersion]]></title>
-<link>https://apnews.com/article/brazil-favela-tourism-dede37e061f2f830d6d3d33ee8985a63</link>
-<pubDate>Wed, 28 Jan 2026 23:02:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Small plane crashes in rural area of Colombia, killing 15 people including congressman]]></title>
-<link>https://apnews.com/article/colombia-norte-de-santander-plane-crash-e608d09263a2312fb8084a25a1e4ac9d</link>
-<pubDate>Wed, 28 Jan 2026 22:47:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela’s acting president signs oil industry overhaul, easing state control to lure investors]]></title>
 <link>https://apnews.com/article/venezuela-oil-reform-delcy-rodriguez-5784394afdc3ee0017d2f41427253fd8</link>
 <pubDate>Fri, 30 Jan 2026 01:05:22 -0000</pubDate>
@@ -365,15 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU lists Iran’s paramilitary Revolutionary Guard as terrorist organization over protest crackdown]]></title>
-<link>https://apnews.com/article/european-union-iran-revolutionary-guard-terrorist-f7d9d64b1302cfc2d9311417b2dfeaf6</link>
-<pubDate>Thu, 29 Jan 2026 18:01:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Through the eyes of Iranian protesters, glimpses of disorder, disarray and death]]></title>
 <link>https://apnews.com/article/iran-protests-tehran-crackdown-demonstrations-khamenei-d43414787f764ae83c608c5f19563cbb</link>
 <pubDate>Fri, 30 Jan 2026 05:50:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Liberia’s largest gold miner repeatedly spilled dangerous chemicals, records show]]></title>
+<link>https://apnews.com/article/liberia-gold-investigation-bea-mountain-pollution-9f4879611ac06d3beb8205af25740ef4</link>
+<pubDate>Fri, 30 Jan 2026 07:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Iran’s Revolutionary Guard became a powerful force within the country’s theocracy]]></title>
+<link>https://apnews.com/article/iran-revolutionary-guard-what-to-know-eu-sanctions-552568b0f7538e5534d0f1df33b338ab</link>
+<pubDate>Thu, 29 Jan 2026 16:39:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A timeline of how the protests in Iran unfolded and the crackdown that followed]]></title>
 <link>https://apnews.com/article/iran-protests-us-israel-war-economy-d5da3b5f56449dd3871c9438c07f069f</link>
 <pubDate>Thu, 29 Jan 2026 17:46:38 -0000</pubDate>
@@ -410,12 +422,6 @@
 <title><![CDATA[Israel returns Palestinian bodies, marking last exchange between Israel and Hamas]]></title>
 <link>https://apnews.com/article/israel-hamas-hostages-ceasefire-d7976d765e233c89368f14fdf76b376c</link>
 <pubDate>Thu, 29 Jan 2026 20:18:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
-<link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
-<pubDate>Wed, 28 Jan 2026 19:48:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,6 +455,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU lists Iran’s paramilitary Revolutionary Guard as terrorist organization over protest crackdown]]></title>
+<link>https://apnews.com/article/european-union-iran-revolutionary-guard-terrorist-f7d9d64b1302cfc2d9311417b2dfeaf6</link>
+<pubDate>Thu, 29 Jan 2026 18:01:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[ASEAN does not recognize Myanmar’s elections, which military-backed party claims to have won]]></title>
 <link>https://apnews.com/article/asean-philippines-international-law-conflict-c1651405c9fbe7883970ec26f02cd388</link>
 <pubDate>Fri, 30 Jan 2026 00:35:22 -0000</pubDate>
@@ -461,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
-<link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
-<pubDate>Wed, 28 Jan 2026 13:27:17 -0000</pubDate>
+<title><![CDATA[Israel marks the return of the final hostage’s remains after more than 2 years of war and grief]]></title>
+<link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
+<pubDate>Wed, 28 Jan 2026 11:56:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
