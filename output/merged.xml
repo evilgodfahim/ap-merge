@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 30 Jan 2026 10:59:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 11:28:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
 <link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ethiopia’s national carrier cancels flights to Tigray region as fears grow of renewed fighting]]></title>
+<link>https://apnews.com/article/ethiopia-tigray-fighting-ethiopian-airlines-flights-canceled-142daa3702199385ab5a66478af752b1</link>
+<pubDate>Fri, 30 Jan 2026 11:28:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Niger’s junta leader accuses France, Benin and Ivory Coast of being behind airport attack]]></title>
 <link>https://apnews.com/article/niger-attack-airport-france-benin-ivory-coast-04fbe259d6d2edd8cb06e94245a6e983</link>
 <pubDate>Fri, 30 Jan 2026 09:16:08 -0000</pubDate>
@@ -89,33 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from AP report on toxic spills from gold mining in Liberia]]></title>
-<link>https://apnews.com/article/investigation-liberia-gold-mining-bea-mountain-takeaways-be146771ed2e387a366028e5d7444d4e</link>
-<pubDate>Fri, 30 Jan 2026 06:56:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A shadow network in Minneapolis defies ICE and protects immigrants]]></title>
-<link>https://apnews.com/article/protests-activists-minnesota-immigration-enforcement-ice-f86ce49f26230a1e5ad1592dcac0a5a9</link>
-<pubDate>Thu, 29 Jan 2026 13:22:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Masked agents, face scans and a question: Are you a citizen? Inside Trump’s Minnesota crackdown]]></title>
 <link>https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12</link>
 <pubDate>Fri, 30 Jan 2026 05:35:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man who squirted apple cider vinegar on Omar is charged with assaulting and intimidating her]]></title>
-<link>https://apnews.com/article/ihan-omar-vinegar-attack-minneapolis-385a30eaf6acc40d6ba5c6c45c09304d</link>
-<pubDate>Thu, 29 Jan 2026 20:18:07 -0000</pubDate>
+<title><![CDATA[Fearing ICE, Native Americans rush to prove their right to belong in the US]]></title>
+<link>https://apnews.com/article/native-american-tribe-immigration-ice-minneapolis-id-7ea8ef784039d908135f22bf312f20d2</link>
+<pubDate>Fri, 30 Jan 2026 11:13:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Hypothermia risks increase in Mississippi and Tennessee with next wave of frigid temperatures]]></title>
 <link>https://apnews.com/article/freezing-temperatures-hypothermia-mississippi-tennessee-6ae30d4be75522f7c0cd3566ba664957</link>
 <pubDate>Fri, 30 Jan 2026 05:20:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Florida braces for frost and possible snow flurries as winter storms hit other parts of the US]]></title>
+<link>https://apnews.com/article/winter-weather-frozen-florida-8a4498e73dcda031f94ca0bb6ac5489c</link>
+<pubDate>Fri, 30 Jan 2026 10:58:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Europe sees modest growth, but the weaker dollar looms as a threat]]></title>
+<link>https://apnews.com/article/europe-economy-q4-dollar-euro-107a38acd00cc077c8b089373bd78d75</link>
+<pubDate>Fri, 30 Jan 2026 11:28:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pharrell calls for empathy from US leaders after being honored at Black Music Collective event]]></title>
+<link>https://apnews.com/article/black-music-collective-pharrell-brandy-kirk-franklin-886993c86f0f9ff2dc41c971a5aee76e</link>
+<pubDate>Fri, 30 Jan 2026 11:13:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[41 militants killed in Pakistan military raids in the country’s southwest]]></title>
 <link>https://apnews.com/article/pakistan-security-forces-killed-insurgents-balochistan-5274b5e34f390e91a884193d8042b3be</link>
 <pubDate>Fri, 30 Jan 2026 10:01:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Alcaraz fends off Zverev in an epic semifinal to reach the Australian Open final]]></title>
+<title><![CDATA[Alcaraz fends off Zverev and cramps in an epic five-set semifinal to reach the Australian Open final]]></title>
 <link>https://apnews.com/article/alcaraz-zverev-sinner-djokovic-australian-semifinals-dace8fb9ff848d6f6a77f2079818eac6</link>
-<pubDate>Fri, 30 Jan 2026 09:46:09 -0000</pubDate>
+<pubDate>Fri, 30 Jan 2026 10:58:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +206,12 @@
 <title><![CDATA[PHOTO ESSAY: Liberia’s largest gold miner and community tensions]]></title>
 <link>https://apnews.com/photo-essay/liberia-gold-mining-photo-essay-investigation-06953c58b9c2a96d327cc766be4f5c84</link>
 <pubDate>Fri, 30 Jan 2026 09:01:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from AP report on toxic spills from gold mining in Liberia]]></title>
+<link>https://apnews.com/article/investigation-liberia-gold-mining-bea-mountain-takeaways-be146771ed2e387a366028e5d7444d4e</link>
+<pubDate>Fri, 30 Jan 2026 10:43:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,12 +272,6 @@
 <title><![CDATA[Pope tells Vatican office that processes sex abuse cases to uphold truth, justice and charity]]></title>
 <link>https://apnews.com/article/pop-leo-vatican-sex-abuse-5208119eb1e33fd19e907edae615caf2</link>
 <pubDate>Thu, 29 Jan 2026 17:46:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s wide ambitions for Board of Peace spark new support for the United Nations]]></title>
-<link>https://apnews.com/article/board-peace-trump-un-security-council-china-df62e5087f3e8097f856c637a75cbc51</link>
-<pubDate>Thu, 29 Jan 2026 21:47:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -332,18 +344,6 @@
 <title><![CDATA[Thai Air Force says 2 pilots killed in plane crash during training mission]]></title>
 <link>https://apnews.com/article/thailand-plane-crash-deaths-ab3958e101692123c90971a7cc328a55</link>
 <pubDate>Thu, 29 Jan 2026 09:40:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Niger says gunmen attacked air force base in the capital, resulting in heavy gunfire, explosions]]></title>
-<link>https://apnews.com/article/niger-niamey-explosions-gunfire-airport-bc48cd981039217f33bec07863f8e02c</link>
-<pubDate>Thu, 29 Jan 2026 22:21:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan says imprisoned ex-Prime Minister Imran Khan is in good health after an eye procedure]]></title>
-<link>https://apnews.com/article/pakistan-khan-eye-procedure-hospital-214e59efc0daeacf65a62bd4c4660dc2</link>
-<pubDate>Thu, 29 Jan 2026 18:51:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
