@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 30 Jan 2026 05:03:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 06:05:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Man sentenced to 15 years for assassination plot against Iranian American journalist]]></title>
+<link>https://apnews.com/article/iran-fbi-justice-department-iran-126036c0a99d73dcf75222bf1c52f410</link>
+<pubDate>Fri, 30 Jan 2026 06:05:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel marks the return of the final hostage’s remains after more than 2 years of war and grief]]></title>
 <link>https://apnews.com/article/israel-final-hostage-return-gvili-d45bf64ffe40152dfc3e5113b2ae52d5</link>
 <pubDate>Thu, 29 Jan 2026 03:37:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
-<link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
-<pubDate>Thu, 29 Jan 2026 18:01:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuelan prisoners’ families and other top photos from Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/photos-latin-america-caribbean-venezuela-guatemala-colombia-d97e8d1850aba670db70efbc9d8af504</link>
+<pubDate>Fri, 30 Jan 2026 05:50:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Legal setbacks against a dam in the Amazon raise questions about Brazil’s reliance on hydropower]]></title>
 <link>https://apnews.com/article/brazil-amazon-rainforest-belo-monte-hydropower-6a8b015016297312305578a82bfd2a7c</link>
 <pubDate>Thu, 29 Jan 2026 17:16:36 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Mexico’s Sheinbaum reiterates sovereignty in Trump call after Olympic snowboarder detained]]></title>
 <link>https://apnews.com/article/sheinbaum-trump-ryan-wedding-mexico-olympic-canadian-snowboarder-cartels-58f67e3eaaf237b78998a1ee5bb41b7c</link>
 <pubDate>Thu, 29 Jan 2026 21:47:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cause of plane crash in Colombia that killed 15, including Congress member, under investigation]]></title>
-<link>https://apnews.com/article/colombia-plane-crash-investigation-15-killed-809d967f33825c6ac285e362969fe8f2</link>
-<pubDate>Fri, 30 Jan 2026 01:05:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,21 +101,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Masked agents, face scans and a question: Are you a citizen? Inside Trump’s Minnesota crackdown]]></title>
+<link>https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12</link>
+<pubDate>Fri, 30 Jan 2026 05:35:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man who squirted apple cider vinegar on Omar is charged with assaulting and intimidating her]]></title>
 <link>https://apnews.com/article/ihan-omar-vinegar-attack-minneapolis-385a30eaf6acc40d6ba5c6c45c09304d</link>
 <pubDate>Thu, 29 Jan 2026 20:18:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New cold snap adds urgency to winter storm recovery across the South]]></title>
-<link>https://apnews.com/article/frigid-temperatures-power-outages-mississippi-tennessee-4dc03f84a5f6c2ae8b8c8de39995e8ac</link>
-<pubDate>Thu, 29 Jan 2026 21:32:33 -0000</pubDate>
+<title><![CDATA[Hypothermia risks increase in Mississippi and Tennessee with next wave of frigid temperatures]]></title>
+<link>https://apnews.com/article/freezing-temperatures-hypothermia-mississippi-tennessee-6ae30d4be75522f7c0cd3566ba664957</link>
+<pubDate>Fri, 30 Jan 2026 05:20:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A former Illinois deputy is sentenced to 20 years in prison for killing Sonya Massey]]></title>
-<link>https://apnews.com/article/sonya-massey-grayson-murder-sentence-b4af388a9e7133449e861033a741d2ff</link>
-<pubDate>Thu, 29 Jan 2026 15:39:33 -0000</pubDate>
+<title><![CDATA[China bans 73 people from soccer for life in latest anti-corruption controversy]]></title>
+<link>https://apnews.com/article/china-soccer-bribes-a3fee6547c9fe9f3734d65d23108cf46</link>
+<pubDate>Fri, 30 Jan 2026 05:05:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[ASEAN top diplomats under pressure to end Myanmar war and finalize South China Sea pact]]></title>
 <link>https://apnews.com/article/asean-philippines-south-china-sea-myanmar-2fd4918d0b43280d408c21862ad15661</link>
 <pubDate>Wed, 28 Jan 2026 10:52:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[British leader’s trip to China is a balancing act between trade, national security and Trump]]></title>
-<link>https://apnews.com/article/uk-china-starmer-visit-beijing-xi-trade-ecf9f2736489546818673c8f1b53483a</link>
-<pubDate>Wed, 28 Jan 2026 12:11:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Olympic organizers invoke an ancient pledge to call for the suspension of all wars]]></title>
+<link>https://apnews.com/article/olympics-truce-explainer-milan-cortina-632c68789384433f19c40f193005a215</link>
+<pubDate>Fri, 30 Jan 2026 06:05:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asian shares are mostly lower after a wild day on Wall St ends with modest moves]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-rates-oil-7f0eadba91bc2e550945eb49bc1085f3</link>
 <pubDate>Fri, 30 Jan 2026 03:37:36 -0000</pubDate>
@@ -176,6 +182,12 @@
 <title><![CDATA[UN criticizes Haiti for lack of progress on a political transition]]></title>
 <link>https://apnews.com/article/un-haiti-resolution-gangs-transition-elections-violence-060708a1db4d17c7644ab320c73cbac9</link>
 <pubDate>Fri, 30 Jan 2026 01:05:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cause of plane crash in Colombia that killed 15, including Congress member, under investigation]]></title>
+<link>https://apnews.com/article/colombia-plane-crash-investigation-15-killed-809d967f33825c6ac285e362969fe8f2</link>
+<pubDate>Fri, 30 Jan 2026 05:50:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,12 +305,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China bans 73 people from soccer for life in latest anti-corruption controversy]]></title>
-<link>https://apnews.com/article/china-soccer-bribes-a3fee6547c9fe9f3734d65d23108cf46</link>
-<pubDate>Thu, 29 Jan 2026 08:40:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[One Tech Tip: Escape the AI junk crowding your social media and music streams]]></title>
 <link>https://apnews.com/article/ai-content-slop-pinterest-tiktok-deezer-6bdf29efebc631fe63de13831e14b95f</link>
 <pubDate>Thu, 29 Jan 2026 21:32:34 -0000</pubDate>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indigenous protesters block Cargill facility in Brazil over President Lula’s decree]]></title>
-<link>https://apnews.com/article/brazil-amazon-rainforest-cargill-indigenous-protest-soybean-e83edf0677250700bf899522a1af6020</link>
-<pubDate>Wed, 28 Jan 2026 22:16:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela’s acting president signs oil industry overhaul, easing state control to lure investors]]></title>
 <link>https://apnews.com/article/venezuela-oil-reform-delcy-rodriguez-5784394afdc3ee0017d2f41427253fd8</link>
 <pubDate>Fri, 30 Jan 2026 01:05:22 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens tariffs on any country selling oil to Cuba, a move that puts pressure on Mexico]]></title>
+<title><![CDATA[Trump threatens tariffs on any country selling oil to Cuba, backing Mexico into a corner]]></title>
 <link>https://apnews.com/article/oil-cuba-tariffs-trump-mexico-30f1d74a766fee23001684a5bb8079d9</link>
-<pubDate>Fri, 30 Jan 2026 00:50:22 -0000</pubDate>
+<pubDate>Fri, 30 Jan 2026 06:05:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel returns Palestinian bodies, marking last exchange between Israel and Hamas]]></title>
-<link>https://apnews.com/article/israel-hamas-hostages-ceasefire-d7976d765e233c89368f14fdf76b376c</link>
-<pubDate>Thu, 29 Jan 2026 20:18:09 -0000</pubDate>
+<title><![CDATA[Through the eyes of Iranian protesters, glimpses of disorder, disarray and death]]></title>
+<link>https://apnews.com/article/iran-protests-tehran-crackdown-demonstrations-khamenei-d43414787f764ae83c608c5f19563cbb</link>
+<pubDate>Fri, 30 Jan 2026 05:50:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +407,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
-<link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
-<pubDate>Wed, 28 Jan 2026 19:48:26 -0000</pubDate>
+<title><![CDATA[Israel returns Palestinian bodies, marking last exchange between Israel and Hamas]]></title>
+<link>https://apnews.com/article/israel-hamas-hostages-ceasefire-d7976d765e233c89368f14fdf76b376c</link>
+<pubDate>Thu, 29 Jan 2026 20:18:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man sentenced to 15 years for assassination plot against Iranian American journalist]]></title>
-<link>https://apnews.com/article/iran-fbi-justice-department-iran-126036c0a99d73dcf75222bf1c52f410</link>
-<pubDate>Wed, 28 Jan 2026 23:17:06 -0000</pubDate>
+<title><![CDATA[What to know about Gaza’s Rafah crossing, which could open within days]]></title>
+<link>https://apnews.com/article/israel-hamas-ceasefire-rafah-crossing-netanyahu-palestinians-af5c54167d1addbfa1d8da5d9aaf05c8</link>
+<pubDate>Wed, 28 Jan 2026 19:48:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +458,12 @@
 <title><![CDATA[Trump says Venezuelan airspace will reopen to commercial travel and Americans soon can visit]]></title>
 <link>https://apnews.com/article/venezuela-us-trump-airspace-d6d3f64997da8c2570b702f3e9e6d693</link>
 <pubDate>Thu, 29 Jan 2026 18:37:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Al-Maliki is defiant after Trump threatens to withdraw US support for Iraq]]></title>
+<link>https://apnews.com/article/iraq-prime-minister-maliki-trump-1c558500a121b2ecb3e8ca5ac7a1cece</link>
+<pubDate>Wed, 28 Jan 2026 13:27:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
