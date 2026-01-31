@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 31 Jan 2026 15:12:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 15:43:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Arab allies urge restraint from US and Iran as Trump demands deal on nuclear program]]></title>
 <link>https://apnews.com/article/trump-iran-united-states-protests-nuclear-5cac82fc0230b761361706cdd9b249d9</link>
@@ -17,9 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In an increasingly hostile world, migrants are hopeful as Spain moves to integrate them]]></title>
+<title><![CDATA[Spain offers hundreds of thousands of immigrants a way to stay legally. But who are they?]]></title>
 <link>https://apnews.com/article/migration-spain-immigration-residency-work-permits-borders-a97eeb91d81d10832addf0ff35ef1332</link>
-<pubDate>Sat, 31 Jan 2026 14:14:40 -0000</pubDate>
+<pubDate>Sat, 31 Jan 2026 15:43:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Demonstrators in Milan protest ICE unit at Winter Olympics, criticizing ‘creeping fascism’]]></title>
+<link>https://apnews.com/article/ice-milan-cortina-olympics-immigration-enforcement-0cf0308828bd0ae672e1c81b0ba33d5f</link>
+<pubDate>Sat, 31 Jan 2026 15:28:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,27 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Starmer says UK ‘can’t stick its head in the sand’ over China after Trump issues warning]]></title>
-<link>https://apnews.com/article/uk-prime-minister-starmer-shanghai-china-afd270becada9e2dd22a140f274f1369</link>
-<pubDate>Fri, 30 Jan 2026 14:45:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pokemon card event at controversial shrine to Japanese war dead canceled after China protests]]></title>
 <link>https://apnews.com/article/japan-china-yasumuni-pokemon-b826a5a8ecee7888e1a80322544e6b18</link>
 <pubDate>Sat, 31 Jan 2026 10:13:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ASEAN to stick to Myanmar peace plan despite its failure to stop deadly civil war]]></title>
-<link>https://apnews.com/article/myanmar-philippines-asean-thailand-peace-plan-election-1bf5c4ff57363dc53d451910352574b7</link>
-<pubDate>Sat, 31 Jan 2026 07:45:45 -0000</pubDate>
+<title><![CDATA[Starmer says UK ‘can’t stick its head in the sand’ over China after Trump issues warning]]></title>
+<link>https://apnews.com/article/uk-prime-minister-starmer-shanghai-china-afd270becada9e2dd22a140f274f1369</link>
+<pubDate>Fri, 30 Jan 2026 14:45:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ASEAN does not recognize Myanmar’s elections, which military-backed party claims to have won]]></title>
-<link>https://apnews.com/article/asean-philippines-international-law-conflict-c1651405c9fbe7883970ec26f02cd388</link>
-<pubDate>Fri, 30 Jan 2026 12:29:54 -0000</pubDate>
+<title><![CDATA[ASEAN to stick to Myanmar peace plan despite its failure to stop deadly civil war]]></title>
+<link>https://apnews.com/article/myanmar-philippines-asean-thailand-peace-plan-election-1bf5c4ff57363dc53d451910352574b7</link>
+<pubDate>Sat, 31 Jan 2026 07:45:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As officials disparage Pretti and Good, families of Black people killed by police have déjà vu]]></title>
-<link>https://apnews.com/article/minneapolis-ice-shootings-racial-justice-pretti-good-2958f284a7f434726c0f09e89266cf7b</link>
-<pubDate>Sat, 31 Jan 2026 13:14:40 -0000</pubDate>
+<title><![CDATA[Thousands face another arctic blast without power as East Coast preps for a storm]]></title>
+<link>https://apnews.com/article/freezing-temperatures-hypothermia-mississippi-tennessee-6ae30d4be75522f7c0cd3566ba664957</link>
+<pubDate>Sat, 31 Jan 2026 15:13:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[India celebrates its 77th Republic Day in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-republic-day-new-delhi-c4c711ca8324104baf63555df4ef1ab6</link>
 <pubDate>Wed, 28 Jan 2026 14:24:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan, Britain to boost cybersecurity and critical minerals cooperation as China’s influence grows]]></title>
+<link>https://apnews.com/article/japan-britain-china-starmer-cybersecurity-761fe959eb6ae78f73066be129e0e9ec</link>
+<pubDate>Sat, 31 Jan 2026 15:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -338,12 +344,6 @@
 <title><![CDATA[Taiwan’s economy grows 8.6% in 2025, fastest rate in 15 years, turbocharged by the AI boom]]></title>
 <link>https://apnews.com/article/taiwan-economy-ai-tsmc-foxconn-trump-5e82e948f51b56d6044aebeadc6acd1c</link>
 <pubDate>Fri, 30 Jan 2026 09:31:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bank of Thailand plans to tighten regulations on online gold trading as its price soars]]></title>
-<link>https://apnews.com/article/thailand-online-gold-trade-regulations-e4e77b20661b122b60355e0159ac0498</link>
-<pubDate>Fri, 30 Jan 2026 09:16:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
