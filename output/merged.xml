@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 31 Jan 2026 08:16:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 08:50:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cut off from most communication, Iranian protesters share rare stories of determination and dissent]]></title>
 <link>https://apnews.com/article/iran-protests-tehran-crackdown-demonstrations-khamenei-d43414787f764ae83c608c5f19563cbb</link>
@@ -164,6 +164,12 @@
 <title><![CDATA[India celebrates its 77th Republic Day in photos]]></title>
 <link>https://apnews.com/photo-gallery/india-republic-day-new-delhi-c4c711ca8324104baf63555df4ef1ab6</link>
 <pubDate>Wed, 28 Jan 2026 14:24:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Djokovic and Alcaraz have shots at tennis history in the Australian Open final]]></title>
+<link>https://apnews.com/article/djokovic-alcaraz-slam-australian-tennis-f82fa34f53146759611109345990bb6f</link>
+<pubDate>Sat, 31 Jan 2026 08:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN criticizes Haiti for lack of progress on a political transition]]></title>
-<link>https://apnews.com/article/un-haiti-resolution-gangs-transition-elections-violence-060708a1db4d17c7644ab320c73cbac9</link>
-<pubDate>Fri, 30 Jan 2026 01:05:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As ceasefire advances and Rafah nears reopening, hospitals say 12 killed in Israeli strikes in Gaza]]></title>
+<title><![CDATA[Israeli strikes kill 12 Palestinians, including children, as Gaza ceasefire inches forward]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-israel-strikes-88fcbfdbe8ea6265fa3765b7a407a5a7</link>
-<pubDate>Sat, 31 Jan 2026 07:45:46 -0000</pubDate>
+<pubDate>Sat, 31 Jan 2026 08:50:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 200 killed in coltan mine collapse in eastern Congo, rebel authorities say]]></title>
+<title><![CDATA[Mine collapses in eastern Congo, leaving at least 200 dead, rebel authorities say]]></title>
 <link>https://apnews.com/article/congo-m23-mine-collapse-rubaya-1d3c09b2facd0b5c5574c638069de00d</link>
-<pubDate>Sat, 31 Jan 2026 06:09:41 -0000</pubDate>
+<pubDate>Sat, 31 Jan 2026 08:35:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
