@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Feb 2026 18:19:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 18:57:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Sudan’s war-torn capital sees second commercial flight land since conflict began]]></title>
+<link>https://apnews.com/article/sudan-war-military-rsf-khartoum-airport-sudanair-143c1d78590bc39982cf25e513b807bc</link>
+<pubDate>Sun, 01 Feb 2026 18:57:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Satellite photos show activity at Iran nuclear sites as tensions rise over protest crackdown]]></title>
 <link>https://apnews.com/article/iran-protests-nuclear-enrichment-satellite-d5c78b5fe974ec2fc338b8ad6d6a7d68</link>
@@ -11,27 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blast in Iran port city kills 1, wounds 14 before Strait of Hormuz naval drill watched by US]]></title>
-<link>https://apnews.com/article/iran-bandar-abbas-explosion-us-tensions-protests-881d9b0c3e1178242ff150bd8bb0e091</link>
-<pubDate>Sun, 01 Feb 2026 17:47:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian drone strike kills 15 in Dnipro as Zelenskyy says more Russia-Ukraine talks next week]]></title>
+<title><![CDATA[Russian drones kill at least 12 in Dnipro as Zelenskyy says more Russia-Ukraine talks next week]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-peace-talks-zelenskyy-abu-dhabi-cfc323e160c058891604be05ca8c56f9</link>
-<pubDate>Sun, 01 Feb 2026 17:32:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national]]></title>
-<link>https://apnews.com/article/switzerland-bar-fire-victim-7ee6db4a80c14182d8bde53bf9616480</link>
-<pubDate>Sun, 01 Feb 2026 12:52:46 -0000</pubDate>
+<pubDate>Sun, 01 Feb 2026 18:42:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Tens of thousands of Czechs rally in support of President Pavel over dispute with foreign minister]]></title>
 <link>https://apnews.com/article/czech-president-petr-pavel-spat-foreign-minister-28ffbe24ceb5f5f9e9d6087aa9381d3c</link>
 <pubDate>Sun, 01 Feb 2026 17:17:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national]]></title>
+<link>https://apnews.com/article/switzerland-bar-fire-victim-7ee6db4a80c14182d8bde53bf9616480</link>
+<pubDate>Sun, 01 Feb 2026 12:52:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Carlos Alcaraz becomes youngest man to complete a career Grand Slam. Is a calendar Slam next?]]></title>
+<link>https://apnews.com/article/alcaraz-career-grand-slam-tennis-australia-djokovic-bc6e14bf983761d2c58fe509e9aae808</link>
+<pubDate>Sun, 01 Feb 2026 18:57:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France’s Capgemini to sell subsidiary working with ICE during anger at US immigration crackdown]]></title>
+<link>https://apnews.com/article/france-ice-contract-capgemini-cd7e4c2625fd8e1ca2fa54b67c5c43e4</link>
+<pubDate>Sun, 01 Feb 2026 18:42:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[IOC president Kirsty Coventry says ICE and Epstein files are ‘sad’ distractions from Winter Olympics]]></title>
 <link>https://apnews.com/article/ice-epstein-ioc-milan-cortina-olympics-c96a411e01143db2d5032cec7741e362</link>
 <pubDate>Sun, 01 Feb 2026 17:47:18 -0000</pubDate>
@@ -251,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Blast in Iran port city kills 1, wounds 14 before Strait of Hormuz naval drill watched by US]]></title>
+<link>https://apnews.com/article/iran-bandar-abbas-explosion-us-tensions-protests-881d9b0c3e1178242ff150bd8bb0e091</link>
+<pubDate>Sun, 01 Feb 2026 18:27:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Former Prince Andrew can’t escape Epstein’s shadow as new documents reveal details about friendship]]></title>
 <link>https://apnews.com/article/jeffrey-epstein-andrew-prince-mountbatten-windsor-friend-7fa8aadad792e66963a1d18d9039235b</link>
 <pubDate>Sun, 01 Feb 2026 09:44:47 -0000</pubDate>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Djokovic and Alcaraz have shots at tennis history in the Australian Open final]]></title>
-<link>https://apnews.com/article/djokovic-alcaraz-slam-australian-tennis-f82fa34f53146759611109345990bb6f</link>
-<pubDate>Sat, 31 Jan 2026 08:50:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the Strait of Hormuz as Iran plans military drill while tensions are high with US]]></title>
-<link>https://apnews.com/article/iran-strait-hormuz-us-protests-persian-gulf-db7159d715453977279ab9cfd918e6e4</link>
-<pubDate>Sun, 01 Feb 2026 17:02:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New campaign calls on Mexicans to rediscover the capital’s heart through revered churches]]></title>
-<link>https://apnews.com/article/mexico-city-churches-architecture-historic-trust-heritage-80283f7e2bc45e26a4ecab81dc7f1b66</link>
-<pubDate>Sat, 31 Jan 2026 23:12:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s supreme leader warns any US attack would spark ‘regional war’]]></title>
 <link>https://apnews.com/article/iran-eu-terrorist-groups-protests-c0023d9ff1e7c4e6fa92077d640e244c</link>
 <pubDate>Sun, 01 Feb 2026 17:47:19 -0000</pubDate>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s failed bid to elevate an Arab American ally shows cracks in his political coalition]]></title>
+<link>https://apnews.com/article/trump-michigan-gaza-amer-ghalib-arab-americans-703621a99b5fdb89b84c34f3b8070bf1</link>
+<pubDate>Sun, 01 Feb 2026 13:07:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-israel-strikes-88fcbfdbe8ea6265fa3765b7a407a5a7</link>
 <pubDate>Sat, 31 Jan 2026 13:13:39 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Besieged by gang violence, Palestinian citizens in Israel demand more security]]></title>
 <link>https://apnews.com/article/crime-palestinian-citizens-israel-violence-5c8be2f9cc48b9b76fbc31ac02dd7dd8</link>
 <pubDate>Sun, 01 Feb 2026 07:29:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan’s war-torn capital sees second commercial flight land since conflict began]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-khartoum-airport-sudanair-143c1d78590bc39982cf25e513b807bc</link>
-<pubDate>Sun, 01 Feb 2026 14:48:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
