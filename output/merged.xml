@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Feb 2026 08:21:03 GMT</lastBuildDate>
-<item>
-<title><![CDATA[South Africa expels Israel’s top diplomat in a move that could prompt a strong reaction from the US]]></title>
-<link>https://apnews.com/article/south-africa-israel-diplomat-expelled-45ce43a54676b1400fabf2ef02e4f7ca</link>
-<pubDate>Sun, 01 Feb 2026 07:29:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 01 Feb 2026 08:53:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[NATO’s ability to deter Russia has taken a hit with trans-Atlantic infighting]]></title>
 <link>https://apnews.com/article/nato-russia-trump-greenland-deterrence-afghanistan-5c952037a53b8606bc9246934137d5b2</link>
@@ -341,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza border crossing buzzes with activity after years of near-complete closure]]></title>
+<link>https://apnews.com/article/gaza-rafah-hamas-israel-war-2-1-2026-4fdd33cfb3af77e9ecef1f3c9ebd947e</link>
+<pubDate>Sun, 01 Feb 2026 08:53:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-israel-strikes-88fcbfdbe8ea6265fa3765b7a407a5a7</link>
 <pubDate>Sat, 31 Jan 2026 13:13:39 -0000</pubDate>
@@ -362,12 +362,6 @@
 <title><![CDATA[Besieged by gang violence, Palestinian citizens in Israel demand more security]]></title>
 <link>https://apnews.com/article/crime-palestinian-citizens-israel-violence-5c8be2f9cc48b9b76fbc31ac02dd7dd8</link>
 <pubDate>Sun, 01 Feb 2026 07:29:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Power outages hit Ukraine and Moldova as Kyiv struggles against the winter cold]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-energy-ceasefire-blackout-winter-c4c3799925b83c2772bc49ca05d63140</link>
-<pubDate>Sat, 31 Jan 2026 13:59:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[Layoffs are piling up, heightening worker anxiety]]></title>
 <link>https://apnews.com/article/amazon-ups-layoffs-economy-washington-71bfde72b358fddb9a22c15aa13fe848</link>
 <pubDate>Thu, 29 Jan 2026 04:15:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Power outages hit Ukraine and Moldova as Kyiv struggles against the winter cold]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-energy-ceasefire-blackout-winter-c4c3799925b83c2772bc49ca05d63140</link>
+<pubDate>Sat, 31 Jan 2026 13:59:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
