@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Feb 2026 22:13:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 22:48:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sudan’s war-torn capital sees second commercial flight land since conflict began]]></title>
 <link>https://apnews.com/article/sudan-war-military-rsf-khartoum-airport-sudanair-143c1d78590bc39982cf25e513b807bc</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Costa Ricans vote on outgoing president’s conservative populist program]]></title>
+<link>https://apnews.com/article/costa-rica-chaves-election-42428350453e3ec05da0b25b18fc5094</link>
+<pubDate>Sun, 01 Feb 2026 05:25:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuelan activist Javier Tarazona released from prison as US diplomat assumes post]]></title>
 <link>https://apnews.com/article/venezuela-prisoner-released-tarazona-opposition-588a542c0e47fde6b328d8799d71d754</link>
 <pubDate>Sun, 01 Feb 2026 16:47:18 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Venezuela announces amnesty bill that could lead to mass release of political prisoners]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-maduro-rodriguez-trump-amnesty-f116c004d8f480687ae8671093f8dad8</link>
 <pubDate>Sun, 01 Feb 2026 05:10:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Anger and anguish spread across Cuba as it learns of Trump’s tariff threat on those who provide oil]]></title>
-<link>https://apnews.com/article/cuba-oil-us-tariffs-trump-outages-1f2a66806b05b2dc71bb9808d61c2635</link>
-<pubDate>Sat, 31 Jan 2026 06:24:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mayor of Portland, Oregon, demands ICE leave the city after federal agents gas protesters]]></title>
+<link>https://apnews.com/article/portland-protest-tear-gas-mayor-keith-wilson-1f21fc3d3d4b7a2874239a29ece52c06</link>
+<pubDate>Sun, 01 Feb 2026 22:48:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man sentenced to 4 years in prison for throwing Molotov cocktail during LA immigration protest]]></title>
 <link>https://apnews.com/article/emiliano-garduno-galvez-molotov-sentencing-los-angeles-d5d567a422eb0a3211383ddc98d67246</link>
 <pubDate>Sun, 01 Feb 2026 20:14:21 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[More winter weather leads to heavy snow, canceled flights and, in Florida, falling iguanas]]></title>
 <link>https://apnews.com/article/winter-weather-ice-snow-cold-4b1aad9d5c8b380ae18e6e6c2e650dee</link>
 <pubDate>Sun, 01 Feb 2026 16:32:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Black history centennial channels angst over anti-DEI climate into education, free resources]]></title>
-<link>https://apnews.com/article/black-history-month-carter-woodson-juneteenth-ac6c93af68ff95738e2a8caa5de19906</link>
-<pubDate>Sun, 01 Feb 2026 12:37:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Costa Ricans vote on outgoing president’s conservative populist program]]></title>
-<link>https://apnews.com/article/costa-rica-chaves-election-42428350453e3ec05da0b25b18fc5094</link>
-<pubDate>Sun, 01 Feb 2026 17:17:19 -0000</pubDate>
+<title><![CDATA[Mexico’s Sheinbaum pledges to send humanitarian aid to Cuba]]></title>
+<link>https://apnews.com/article/mexico-cuba-sheinbaum-humanitarian-aid-oil-0cad2c4f270321c897dd54e094763235</link>
+<pubDate>Sun, 01 Feb 2026 22:48:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
