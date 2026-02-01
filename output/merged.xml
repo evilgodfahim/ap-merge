@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Feb 2026 01:16:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 04:06:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about Gaza’s Rafah crossing, set to open Sunday]]></title>
 <link>https://apnews.com/article/rafah-border-crossing-reopening-d34868b7817a090aae6dda09602cf116</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says US is ‘starting to talk to Cuba’ as he moves to cut its oil supplies]]></title>
+<link>https://apnews.com/article/cuba-trump-oil-venezuela-talks-mexico-b4237de7a66adc4524a2abade5e0df38</link>
+<pubDate>Sun, 01 Feb 2026 04:06:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Anger and anguish spread across Cuba as it learns of Trump’s tariff threat on those who provide oil]]></title>
 <link>https://apnews.com/article/cuba-oil-us-tariffs-trump-outages-1f2a66806b05b2dc71bb9808d61c2635</link>
 <pubDate>Sat, 31 Jan 2026 06:24:40 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[New US charge d’affaires arrives in Venezuela to reopen diplomatic mission after 7 years]]></title>
 <link>https://apnews.com/article/venezuela-prisoners-ambassador-united-states-80b5262f4254a0325df80c8126650e79</link>
 <pubDate>Sun, 01 Feb 2026 01:01:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cubans scramble to survive as US vise on island tightens in push to oust government]]></title>
-<link>https://apnews.com/article/cuba-us-trump-sanctions-oil-venezuela-177998b88333ba7d898bb8465367ba2d</link>
-<pubDate>Sat, 31 Jan 2026 01:02:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From Elon Musk to the former Prince Andrew, a who’s who of powerful men are named in Epstein files]]></title>
-<link>https://apnews.com/article/epstein-trump-musk-andrew-tisch-google-682447e50bf9a3643a36c9b54ccdfa22</link>
-<pubDate>Sun, 01 Feb 2026 00:31:39 -0000</pubDate>
+<title><![CDATA[NASA begins a practice countdown for its first moonshot with astronauts in more than 50 years]]></title>
+<link>https://apnews.com/article/nasa-artemis-astronauts-moon-540260c90a45e0de4cb28f3e481777ff</link>
+<pubDate>Sun, 01 Feb 2026 03:51:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[New Epstein files include emails between LA Olympics leader Wasserman and Ghislaine Maxwell]]></title>
 <link>https://apnews.com/article/epstein-maxwell-wasserman-olympics-bf365cd5231304395af05abc3deb9cf7</link>
 <pubDate>Sun, 01 Feb 2026 01:01:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[From Elon Musk to the former Prince Andrew, a who’s who of powerful men are named in Epstein files]]></title>
+<link>https://apnews.com/article/epstein-trump-musk-andrew-tisch-google-682447e50bf9a3643a36c9b54ccdfa22</link>
+<pubDate>Sun, 01 Feb 2026 04:06:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cubans scramble to survive as US vise on island tightens in push to oust government]]></title>
+<link>https://apnews.com/article/cuba-us-trump-sanctions-oil-venezuela-177998b88333ba7d898bb8465367ba2d</link>
+<pubDate>Sun, 01 Feb 2026 03:51:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[London’s Poems on the Underground celebrates 40 years of bringing verses to commuters]]></title>
 <link>https://apnews.com/article/london-underground-poems-anniversary-0d27882d04492e7d0c3cc119d9af787c</link>
 <pubDate>Fri, 30 Jan 2026 17:55:58 -0000</pubDate>
@@ -332,18 +344,6 @@
 <title><![CDATA[Dutch premier-in-waiting says Trump’s Greenland ambitions are a ‘wake-up call’ for Europe]]></title>
 <link>https://apnews.com/article/netherlands-politics-coalition-jetten-wilders-ee269ad5ae1ebf843f865000cb391c54</link>
 <pubDate>Fri, 30 Jan 2026 15:00:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran is ready for talks with the US, but there are no plans yet, foreign minister says]]></title>
-<link>https://apnews.com/article/iran-turkey-offers-negotiate-with-us-05c3eeaf0df58a52e18714d793d4cbbb</link>
-<pubDate>Fri, 30 Jan 2026 17:40:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-rafah-border-crossing-reopening-823d4b0aef641c3f19d4cc7b527325b1</link>
-<pubDate>Sat, 31 Jan 2026 07:30:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
