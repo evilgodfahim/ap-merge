@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Feb 2026 12:33:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 13:54:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Besieged by gang violence, Palestinian citizens in Israel demand more security]]></title>
 <link>https://apnews.com/article/crime-palestinian-citizens-israel-violence-5c8be2f9cc48b9b76fbc31ac02dd7dd8</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[British politician Peter Mandelson faces pressure to quit House of Lords over Jeffrey Epstein ties]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-peter-mandelson-allegations-454af816bc89e4d66aad00a107662890</link>
+<pubDate>Mon, 02 Feb 2026 13:54:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France’s budget set to clear the way for Macron’s military spending boost]]></title>
 <link>https://apnews.com/article/france-budget-military-spending-macron-6a0226c8015d28fcfb19f005ac481df6</link>
 <pubDate>Mon, 02 Feb 2026 12:33:32 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Balloons from Belarus cross into Polish airspace for a third night]]></title>
 <link>https://apnews.com/article/poland-belarus-lithuania-smuggling-balloons-hybrid-war-1c1a09b5fb2cc2b0b9e13b91409e890e</link>
 <pubDate>Mon, 02 Feb 2026 12:18:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany detains 5 men accused of illegally exporting goods to Russian defense companies]]></title>
-<link>https://apnews.com/article/germany-russia-sanctions-defense-companies-arrests-ab0de05f76e9343ca93538452922bd07</link>
-<pubDate>Mon, 02 Feb 2026 12:03:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s Sheinbaum pledges to send humanitarian aid to Cuba]]></title>
-<link>https://apnews.com/article/mexico-cuba-sheinbaum-humanitarian-aid-oil-0cad2c4f270321c897dd54e094763235</link>
-<pubDate>Mon, 02 Feb 2026 03:59:05 -0000</pubDate>
+<title><![CDATA[Trump says US is ‘starting to talk to Cuba’ as he moves to cut its oil supplies]]></title>
+<link>https://apnews.com/article/cuba-trump-oil-venezuela-talks-mexico-b4237de7a66adc4524a2abade5e0df38</link>
+<pubDate>Sun, 01 Feb 2026 04:06:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[When forever chemicals contaminate drinking water, private well owners may be the last to know]]></title>
+<title><![CDATA[A crisis emerges across the US as ‘forever chemicals’ quietly contaminate drinking water wells]]></title>
 <link>https://apnews.com/article/pfas-wells-contamination-forever-chemicals-water-b132294aca85d569926dbf47c0d02355</link>
-<pubDate>Mon, 02 Feb 2026 11:33:32 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 13:39:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More frigid temperatures expected in much of US after a weekend of heavy snow]]></title>
-<link>https://apnews.com/article/winter-weather-ice-snow-cold-4b1aad9d5c8b380ae18e6e6c2e650dee</link>
-<pubDate>Mon, 02 Feb 2026 03:44:05 -0000</pubDate>
+<title><![CDATA[Takeaways from the AP’s reporting on PFAS contamination of private drinking water wells]]></title>
+<link>https://apnews.com/article/pfas-wells-contamination-forever-chemicals-water-takeaways-c1056089feb0ab897882a47d15a4b913</link>
+<pubDate>Mon, 02 Feb 2026 13:24:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trevi Fountain fee goes into effect as Rome seeks to manage tourist flow at celebrated water feature]]></title>
+<link>https://apnews.com/article/vatican-trevi-fountain-fee-tourism-overtourism-rome-7c87061fab0da228317ed2a8edc717c7</link>
+<pubDate>Mon, 02 Feb 2026 13:54:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan retrieves rare earth-rich mud from seabed to lower reliance on China]]></title>
+<link>https://apnews.com/article/japan-rare-earths-china-deep-sea-c97d34522e23ed418cf068f4a0217188</link>
+<pubDate>Mon, 02 Feb 2026 13:39:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Germany detains 5 men accused of illegally exporting goods to Russian defense companies]]></title>
+<link>https://apnews.com/article/germany-russia-sanctions-defense-companies-arrests-ab0de05f76e9343ca93538452922bd07</link>
+<pubDate>Mon, 02 Feb 2026 13:24:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[EU’s foreign policy chief says a Europe-wide army could be ‘extremely dangerous’]]></title>
 <link>https://apnews.com/article/european-army-security-kallas-trump-nato-f321aa6923fe3c82d0626c35dd0acc79</link>
 <pubDate>Mon, 02 Feb 2026 12:33:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Groundhog Day’s traditions and Punxsutawney Phil]]></title>
+<title><![CDATA[What to know about Groundhog Day traditions and Punxsutawney Phil]]></title>
 <link>https://apnews.com/article/groundhog-day-punxsutawney-phil-history-d13aaf4f0e62b1bf0126935f0176d2f2</link>
-<pubDate>Mon, 02 Feb 2026 12:18:33 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 13:09:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Grammys had lots of Mars, Carpenter soaring and a near-naked Bieber. Here are some key moments]]></title>
+<title><![CDATA[Bad Bunny makes history, Bruno Mars shines and a near-naked Justin Bieber highlights Grammys moments]]></title>
 <link>https://apnews.com/article/grammys-2026-highlights-b2cf7a948629a602168eaf8cd56cdde1</link>
-<pubDate>Mon, 02 Feb 2026 09:35:31 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 12:54:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Son of Norway’s crown princess to go on trial on rape and other charges]]></title>
+<title><![CDATA[Son of Norway’s crown princess arrested before his trial on rape and other charges]]></title>
 <link>https://apnews.com/article/norway-royals-marius-borg-hoiby-trial-cff32cdfd942028d45f7a7ba2db52752</link>
-<pubDate>Mon, 02 Feb 2026 06:21:27 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 12:39:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +236,12 @@
 <title><![CDATA[Olivia Dean wins best new artist at the 2026 Grammy Awards]]></title>
 <link>https://apnews.com/article/grammy-best-new-artist-2026-bd221f7168ae909204ddbddbb819859a</link>
 <pubDate>Mon, 02 Feb 2026 09:20:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico’s Sheinbaum pledges to send humanitarian aid to Cuba]]></title>
+<link>https://apnews.com/article/mexico-cuba-sheinbaum-humanitarian-aid-oil-0cad2c4f270321c897dd54e094763235</link>
+<pubDate>Mon, 02 Feb 2026 12:24:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,39 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Understated triumph: Elena Rybakina wins the Australian Open with calm precision]]></title>
-<link>https://apnews.com/article/rybakina-australian-open-tennis-63fac299eb27dd13380f9f296077e8a7</link>
-<pubDate>Sun, 01 Feb 2026 05:10:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Children with disabilities find joy and support through horse therapy in Taiwan]]></title>
-<link>https://apnews.com/article/horse-therapy-taiwan-disabilities-5031f582f3f9d586a1626b658f175153</link>
-<pubDate>Sun, 01 Feb 2026 01:16:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New Epstein files include emails between LA Olympics leader Wasserman and Ghislaine Maxwell]]></title>
-<link>https://apnews.com/article/epstein-maxwell-wasserman-olympics-bf365cd5231304395af05abc3deb9cf7</link>
-<pubDate>Sun, 01 Feb 2026 01:01:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From Elon Musk to the former Prince Andrew, a who’s who of powerful people named in Epstein files]]></title>
-<link>https://apnews.com/article/epstein-trump-musk-andrew-tisch-google-682447e50bf9a3643a36c9b54ccdfa22</link>
-<pubDate>Mon, 02 Feb 2026 03:29:06 -0000</pubDate>
+<title><![CDATA[Gaza’s border crossing to Egypt reopens in a key step for truce but only few Palestinians can cross]]></title>
+<link>https://apnews.com/article/rafah-gaza-israel-palestinians-egypt-crossing-b78d6a15790148a697634cd303c3b5a9</link>
+<pubDate>Mon, 02 Feb 2026 09:35:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[A Kremlin official confirms that U.S.-brokered Russia-Ukraine talks are resuming this week]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-talks-drones-starlink-3ae862c4713a378b2d2ebb809b39120a</link>
 <pubDate>Mon, 02 Feb 2026 12:33:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza’s border crossing to Egypt reopens in a key step for truce but only few Palestinians can cross]]></title>
-<link>https://apnews.com/article/rafah-gaza-israel-palestinians-egypt-crossing-b78d6a15790148a697634cd303c3b5a9</link>
-<pubDate>Mon, 02 Feb 2026 09:35:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,12 +368,6 @@
 <title><![CDATA[A mix of hope and fear settles over Venezuela after US-imposed government change]]></title>
 <link>https://apnews.com/article/venezuela-maduro-capture-trump-rodriguez-oil-mood-978b680e56f5dad8841793c553f281ba</link>
 <pubDate>Mon, 02 Feb 2026 05:23:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says US is ‘starting to talk to Cuba’ as he moves to cut its oil supplies]]></title>
-<link>https://apnews.com/article/cuba-trump-oil-venezuela-talks-mexico-b4237de7a66adc4524a2abade5e0df38</link>
-<pubDate>Sun, 01 Feb 2026 05:40:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza’s crucial Rafah crossing prepares for limited travel to resume Monday]]></title>
-<link>https://apnews.com/article/gaza-rafah-hamas-israel-war-2-1-2026-4fdd33cfb3af77e9ecef1f3c9ebd947e</link>
-<pubDate>Sun, 01 Feb 2026 16:15:54 -0000</pubDate>
+<title><![CDATA[Syria’s interior ministry forces enter key city under deal with Kurdish-led SDF]]></title>
+<link>https://apnews.com/article/syria-sdf-hassakeh-hasakah-hasakeh-be92ab0aa2f3cc111a5a8a4740fc213a</link>
+<pubDate>Mon, 02 Feb 2026 13:39:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s supreme leader warns any US attack would spark ‘regional war’]]></title>
-<link>https://apnews.com/article/iran-eu-terrorist-groups-protests-c0023d9ff1e7c4e6fa92077d640e244c</link>
-<pubDate>Sun, 01 Feb 2026 17:47:19 -0000</pubDate>
+<title><![CDATA[Gaza’s crucial Rafah crossing prepares for limited travel to resume Monday]]></title>
+<link>https://apnews.com/article/gaza-rafah-hamas-israel-war-2-1-2026-4fdd33cfb3af77e9ecef1f3c9ebd947e</link>
+<pubDate>Sun, 01 Feb 2026 16:15:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US futures and world shares slip as worries over Trump’s Fed chief pick and AI weigh on markets]]></title>
+<title><![CDATA[US futures slide as worries over Trump’s pick to lead Federal Reserve, AI weigh on markets]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-oil-trump-fed-585ed1a8046d34fa3dedbb4854451681</link>
-<pubDate>Mon, 02 Feb 2026 09:05:32 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 13:24:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,15 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Preliminary, partial results put Costa Rican president’s handpicked successor on verge of presidency]]></title>
+<title><![CDATA[Conservative populist Laura Fernández wins Costa Rican presidency, preliminary results show]]></title>
 <link>https://apnews.com/article/costa-rica-election-results-fernandez-chaves-f072f4e01cde74a2f037072cc03293d5</link>
-<pubDate>Mon, 02 Feb 2026 04:38:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A bullet shattered her knee. Now a Gaza teen’s chances of walking depend on Rafah crossing’s opening]]></title>
-<link>https://apnews.com/article/gaza-patients-medical-evacuation-rafah-crossing-israel-3b97b2378ea9103bf70e85c16aa2f6ca</link>
-<pubDate>Sat, 31 Jan 2026 14:14:41 -0000</pubDate>
+<pubDate>Mon, 02 Feb 2026 13:09:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
