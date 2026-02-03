@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Feb 2026 21:36:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 22:19:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syria’s interior ministry forces enter key city under deal with Kurdish-led SDF]]></title>
 <link>https://apnews.com/article/syria-sdf-hassakeh-hasakah-hasakeh-be92ab0aa2f3cc111a5a8a4740fc213a</link>
@@ -29,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Even small EU nations go big on arms production, sending drones to the Ukrainian front and beyond]]></title>
-<link>https://apnews.com/article/cyprus-uav-drones-ukraine-defense-warfare-eu-9ad76834abbf938188b2b3c151dcf8f5</link>
-<pubDate>Tue, 03 Feb 2026 06:58:42 -0000</pubDate>
+<title><![CDATA[Collision between migrant speedboat, Greek coast guard vessel leaves at least 14 dead]]></title>
+<link>https://apnews.com/article/greece-migration-migrants-collision-5e35977a5044cd505157b9256efcf587</link>
+<pubDate>Tue, 03 Feb 2026 22:19:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[13-year-old swims for hours to save family swept out to sea]]></title>
+<title><![CDATA[A 13-year-old Australian boy swims for hours to save his mother and siblings who were swept away]]></title>
 <link>https://apnews.com/article/rescue-australia-swim-boy-c191a2f24e9aa594c073faa2d8c00086</link>
-<pubDate>Tue, 03 Feb 2026 11:23:48 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 22:04:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Families mourn those killed in a Congo mine landslide as some survivors prepare to return]]></title>
+<link>https://apnews.com/article/congo-mine-collapse-rubaya-goma-be74ff05187a0a43aceb36ecd2f502ec</link>
+<pubDate>Tue, 03 Feb 2026 21:49:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ethiopia’s prime minister accuses Eritrea of mass killings during Tigray war]]></title>
 <link>https://apnews.com/article/ethiopia-eritrea-tigray-war-108f32cdd0c24ed009bb623b597b7c96</link>
 <pubDate>Tue, 03 Feb 2026 20:59:51 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Fela Kuti’s Grammy lifetime achievement award is a major win for African music]]></title>
 <link>https://apnews.com/article/nigeria-fela-kuti-grammy-award-8f55a53a7538b7006ec9752d0f969750</link>
 <pubDate>Mon, 02 Feb 2026 16:07:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nine arraigned for deadly attack in Nigeria that killed over 150]]></title>
-<link>https://apnews.com/article/nigeria-attack-yelewata-benue-court-charges-43a690f213f5c285891563c50af00c88</link>
-<pubDate>Mon, 02 Feb 2026 15:52:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US announces military team sent to Nigeria after recent attacks]]></title>
-<link>https://apnews.com/article/nigeria-us-troops-b415141ca6ed27978ba52f081ca05405</link>
-<pubDate>Tue, 03 Feb 2026 20:59:52 -0000</pubDate>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-february-3-2026-8ee8da136c050e2bfd8463f91de7c3fb</link>
+<pubDate>Tue, 03 Feb 2026 22:19:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Seif al-Islam Gadhafi, son of Libya’s late dictator, killed in north Africa country, officials say]]></title>
-<link>https://apnews.com/article/libya-seif-alislam-gadhaf-killed-85f6d2b4cdd7a5067df4c790363f5f30</link>
-<pubDate>Tue, 03 Feb 2026 20:44:52 -0000</pubDate>
+<title><![CDATA[US announces military team sent to Nigeria after recent attacks]]></title>
+<link>https://apnews.com/article/nigeria-us-troops-b415141ca6ed27978ba52f081ca05405</link>
+<pubDate>Tue, 03 Feb 2026 20:59:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Even small EU nations go big on arms production, sending drones to the Ukrainian front and beyond]]></title>
+<link>https://apnews.com/article/cyprus-uav-drones-ukraine-defense-warfare-eu-9ad76834abbf938188b2b3c151dcf8f5</link>
+<pubDate>Tue, 03 Feb 2026 22:04:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Haiti’s Winter Olympics team shines a positive light even as IOC removes patriot from uniforms]]></title>
 <link>https://apnews.com/article/haiti-olympics-uniforms-winter-games-diversity-f85baa15a623fadbc15569325efc61b5</link>
 <pubDate>Tue, 03 Feb 2026 10:23:49 -0000</pubDate>
@@ -338,12 +344,6 @@
 <title><![CDATA[Aid agencies in South Sudan decry restricted access as government and opposition troops fight]]></title>
 <link>https://apnews.com/article/south-sudan-fighting-jonglei-aid-agencies-access-174d9f4bb51b107f497891beb03fe98f</link>
 <pubDate>Tue, 03 Feb 2026 14:08:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuban diplomat tells the AP there’s no dialogue with the US but the island is open to one]]></title>
-<link>https://apnews.com/article/cuba-cossio-us-trump-dialogue-negotiations-diplomat-bf386bb43bf9e101f0d76d24781c26e6</link>
-<pubDate>Tue, 03 Feb 2026 18:53:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big Tech pulls Wall Street lower as gold and silver prices bounce higher]]></title>
+<title><![CDATA[Tech stocks pull Wall Street lower as gold and silver prices bounce back]]></title>
 <link>https://apnews.com/article/stock-markets-gold-trump-earnings-604eb66eac5e7aab8a02790491ffa459</link>
-<pubDate>Tue, 03 Feb 2026 20:59:53 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 22:19:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump hosts Colombia’s Petro just weeks after insulting him as a ‘sick man’ fueling the drug trade]]></title>
+<title><![CDATA[Trump calls Colombia’s Petro ‘terrific’ just weeks after insulting him as a ‘sick man’]]></title>
 <link>https://apnews.com/article/trump-colombia-petro-venezuela-36bc47d628886ea20c471a63156ec550</link>
-<pubDate>Tue, 03 Feb 2026 13:11:13 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 22:04:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Families mourn those killed in a Congo mine landslide as some survivors prepare to return]]></title>
-<link>https://apnews.com/article/congo-mine-collapse-rubaya-goma-be74ff05187a0a43aceb36ecd2f502ec</link>
-<pubDate>Tue, 03 Feb 2026 04:40:21 -0000</pubDate>
+<title><![CDATA[Seif al-Islam Gadhafi, son of Libya’s late dictator, killed in north Africa country, officials say]]></title>
+<link>https://apnews.com/article/libya-seif-alislam-gadhaf-killed-85f6d2b4cdd7a5067df4c790363f5f30</link>
+<pubDate>Tue, 03 Feb 2026 21:49:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
