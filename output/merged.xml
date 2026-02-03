@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Feb 2026 14:38:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 15:38:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanon’s relations with Syria have made a dramatic positive shift post-Assad, deputy PM says]]></title>
+<link>https://apnews.com/article/lebanon-syria-relations-mitri-148a98ada4d06c3e7bce44564197a0f3</link>
+<pubDate>Tue, 03 Feb 2026 15:38:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Photos of Hasidic Jews celebrating the ‘New Year of Trees’ in Israel]]></title>
 <link>https://apnews.com/photo-gallery/israel-tu-bishvat-netanya-photos-a39dc4a83329b6cbd06ae0094c744679</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian rapper Al Darwish returns home after 13 years to perform in post-Assad Damascus]]></title>
-<link>https://apnews.com/article/syria-rap-music-assad-sawah-darwish-b524504806b016b082ef1fec84b80bb1</link>
-<pubDate>Mon, 02 Feb 2026 15:13:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In the Ukrainian capital, a mother struggles to keep her children warm and fed amid power outages]]></title>
+<title><![CDATA[Families suffer as Ukrainian engineers can no longer keep up with repairing infrastructure]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-winter-cold-kyiv-634d6b31ded0aabd8130086e9a1cf25c</link>
-<pubDate>Tue, 03 Feb 2026 11:53:48 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 15:23:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Argentina fires ravage pristine Patagonia forests, fueling criticism of Milei’s austerity]]></title>
-<link>https://apnews.com/article/argentina-patagonia-milei-trump-austerity-wildfires-drought-f07520babbbb3ea18f9da96d47a7c3b4</link>
-<pubDate>Mon, 02 Feb 2026 14:58:53 -0000</pubDate>
+<title><![CDATA[Trump hosts Colombia’s Petro just weeks after insulting him as a ‘sick man’ fueling the drug trade]]></title>
+<link>https://apnews.com/article/trump-colombia-petro-venezuela-36bc47d628886ea20c471a63156ec550</link>
+<pubDate>Tue, 03 Feb 2026 15:08:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[What to expect as Trump and Petro meet at White House after months of tension and insults]]></title>
 <link>https://apnews.com/article/colombia-us-petro-trump-meeting-5920071c2a557c6da56d8c8b27198961</link>
 <pubDate>Mon, 02 Feb 2026 22:32:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Aid agencies in South Sudan decry restricted access as government and opposition troops fight]]></title>
-<link>https://apnews.com/article/south-sudan-fighting-jonglei-aid-agencies-access-174d9f4bb51b107f497891beb03fe98f</link>
-<pubDate>Tue, 03 Feb 2026 04:55:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,15 +89,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Today’ show host Savannah Guthrie asks for prayers to help bring her missing mom home]]></title>
-<link>https://apnews.com/article/savannah-guthrie-mother-missing-arizona-tucson-74d845b070fefe2d94cb92d655308e91</link>
-<pubDate>Tue, 03 Feb 2026 13:41:11 -0000</pubDate>
+<title><![CDATA[What to know after a deadly landslide in eastern Congo kills at least 200 miners]]></title>
+<link>https://apnews.com/article/congo-rubaya-mine-collapse-coltan-deaths-m23-b9fec43392b2b5b7de2857b4d33b8c8e</link>
+<pubDate>Mon, 02 Feb 2026 14:43:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge blocks Trump administration from ending protections for Haitians]]></title>
-<link>https://apnews.com/article/haiti-springfield-immigration-ruling-202aef9c838bec43d19d6f1d67766b77</link>
-<pubDate>Tue, 03 Feb 2026 10:53:48 -0000</pubDate>
+<title><![CDATA[Signs of forced entry found at Arizona home of ‘Today’ show host Savannah Guthrie’s mother]]></title>
+<link>https://apnews.com/article/savannah-guthrie-mother-missing-arizona-tucson-74d845b070fefe2d94cb92d655308e91</link>
+<pubDate>Tue, 03 Feb 2026 14:53:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US-based Haitians are buoyed but wary after a judge stops Trump from ending their protections]]></title>
+<link>https://apnews.com/article/tps-haiti-immigration-ruling-79d4835a6d287cb470b50dd15e57d1fe</link>
+<pubDate>Tue, 03 Feb 2026 14:38:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,30 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sudanese military claims to have broken RSF siege of Kordofan’s regional capital]]></title>
+<link>https://apnews.com/article/sudan-war-military-rsf-kordofan-b047d3d473a4e2fe5d5fcf1c55deb08e</link>
+<pubDate>Tue, 03 Feb 2026 15:38:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vonn ‘confident’ she will race at Olympics despite ‘completely ruptured’ ACL in left knee]]></title>
+<link>https://apnews.com/article/vonn-crash-injury-olympics-milan-bdb3be60608cc894af5f2c0c5a54dea1</link>
+<pubDate>Tue, 03 Feb 2026 15:23:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spain considers social media ban for under-16s, joining others in Europe]]></title>
+<link>https://apnews.com/article/spain-social-media-ban-children-under-16s-77ac5a2e2078f175bd61dbfb5ad9deb7</link>
+<pubDate>Tue, 03 Feb 2026 15:08:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV faces crisis as a traditionalist group plans bishop consecrations without consent]]></title>
+<link>https://apnews.com/article/vatican-pope-tradionalists-latin-mass-sspx-6c0316d38ed135094c6f7e69ee3329ce</link>
+<pubDate>Tue, 03 Feb 2026 14:53:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Danish court convicts two Swedes of terrorism for grenade attack near Israeli embassy]]></title>
 <link>https://apnews.com/article/sweden-denmark-israel-embassy-grenade-attack-gangs-17629a639e375424c6dd8f9043c3ae11</link>
 <pubDate>Tue, 03 Feb 2026 13:56:12 -0000</pubDate>
@@ -197,9 +221,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK government contacts police over alleged leaks to Epstein by politician Peter Mandelson]]></title>
+<title><![CDATA[UK politician Peter Mandelson will quit House of Lords in a storm over Epstein ties]]></title>
 <link>https://apnews.com/article/uk-peter-mandelson-jeffrey-epstein-allegations-police-bd7d7f9831ad1eeaee4e5c7a951f2aeb</link>
-<pubDate>Tue, 03 Feb 2026 13:11:12 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 14:38:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +233,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[NASA targets a March launch of the moon rocket after test run reveals fuel leaks]]></title>
+<title><![CDATA[NASA delays astronauts’ lunar trip until March after hydrogen leaks mar fueling test]]></title>
 <link>https://apnews.com/article/nasa-moon-rocket-fuel-leaks-7a503ba4a4896d16b04c97afefea4967</link>
-<pubDate>Tue, 03 Feb 2026 10:06:04 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 14:23:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Aid agencies in South Sudan decry restricted access as government and opposition troops fight]]></title>
+<link>https://apnews.com/article/south-sudan-fighting-jonglei-aid-agencies-access-174d9f4bb51b107f497891beb03fe98f</link>
+<pubDate>Tue, 03 Feb 2026 14:08:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russian cargo ship captain is found guilty over North Sea tanker crash death]]></title>
 <link>https://apnews.com/article/uk-russia-north-sea-solong-tanker-crash-99e19151e6ea364abd29057c1d458593</link>
 <pubDate>Tue, 03 Feb 2026 06:58:42 -0000</pubDate>
@@ -305,12 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know after a deadly landslide in eastern Congo kills at least 200 miners]]></title>
-<link>https://apnews.com/article/congo-rubaya-mine-collapse-coltan-deaths-m23-b9fec43392b2b5b7de2857b4d33b8c8e</link>
-<pubDate>Tue, 03 Feb 2026 04:40:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mexico’s push for US natural gas sparks community opposition and threatens its climate pledges]]></title>
 <link>https://apnews.com/article/mexico-natural-gas-lng-pipeline-climate-change-8ebcbdb1e54c37c1ca8092d078cae25e</link>
 <pubDate>Mon, 02 Feb 2026 15:13:54 -0000</pubDate>
@@ -323,39 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds]]></title>
-<link>https://apnews.com/article/vatican-trevi-fountain-fee-tourism-overtourism-rome-7c87061fab0da228317ed2a8edc717c7</link>
-<pubDate>Tue, 03 Feb 2026 03:44:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan retrieves rare earth-rich mud from seabed to lower reliance on China]]></title>
-<link>https://apnews.com/article/japan-rare-earths-china-deep-sea-c97d34522e23ed418cf068f4a0217188</link>
-<pubDate>Mon, 02 Feb 2026 13:39:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany detains 5 men accused of illegally exporting goods to Russian defense companies]]></title>
-<link>https://apnews.com/article/germany-russia-sanctions-defense-companies-arrests-ab0de05f76e9343ca93538452922bd07</link>
-<pubDate>Mon, 02 Feb 2026 13:24:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU’s foreign policy chief says a Europe-wide army could be ‘extremely dangerous’]]></title>
-<link>https://apnews.com/article/european-army-security-kallas-trump-nato-f321aa6923fe3c82d0626c35dd0acc79</link>
-<pubDate>Mon, 02 Feb 2026 12:33:33 -0000</pubDate>
+<title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
+<pubDate>Tue, 03 Feb 2026 13:56:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Iran’s president seeks ‘fair and equitable negotiations’ with the United States]]></title>
 <link>https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b</link>
 <pubDate>Tue, 03 Feb 2026 07:13:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
-<pubDate>Tue, 03 Feb 2026 13:56:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street steadies as gold and silver rebound and markets in Japan and South Korea soar]]></title>
+<title><![CDATA[Wall Street drifts in mixed trading as gold and silver prices bounce back]]></title>
 <link>https://apnews.com/article/stock-markets-gold-trump-earnings-604eb66eac5e7aab8a02790491ffa459</link>
-<pubDate>Tue, 03 Feb 2026 13:41:13 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 15:38:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump hosts Colombia’s Petro just weeks after insulting him as a ‘sick man’ fueling the drug trade]]></title>
-<link>https://apnews.com/article/trump-colombia-petro-venezuela-36bc47d628886ea20c471a63156ec550</link>
-<pubDate>Tue, 03 Feb 2026 13:11:13 -0000</pubDate>
+<title><![CDATA[Argentina fires ravage pristine Patagonia forests, fueling criticism of Milei’s austerity]]></title>
+<link>https://apnews.com/article/argentina-patagonia-milei-trump-austerity-wildfires-drought-f07520babbbb3ea18f9da96d47a7c3b4</link>
+<pubDate>Mon, 02 Feb 2026 22:47:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oscar-nominated screenwriter of Iranian drama ‘It Was Just an Accident’ arrested in Tehran]]></title>
-<link>https://apnews.com/article/it-was-just-an-accident-writer-8dd742715484608c152b817858df2b7f</link>
-<pubDate>Mon, 02 Feb 2026 07:42:37 -0000</pubDate>
+<title><![CDATA[Syrian rapper Al Darwish returns home after 13 years to perform in post-Assad Damascus]]></title>
+<link>https://apnews.com/article/syria-rap-music-assad-sawah-darwish-b524504806b016b082ef1fec84b80bb1</link>
+<pubDate>Mon, 02 Feb 2026 06:36:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
