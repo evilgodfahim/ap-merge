@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Feb 2026 16:39:21 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Lebanon’s relations with Syria have made a dramatic positive shift post-Assad, deputy PM says]]></title>
-<link>https://apnews.com/article/lebanon-syria-relations-mitri-148a98ada4d06c3e7bce44564197a0f3</link>
-<pubDate>Tue, 03 Feb 2026 15:38:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 03 Feb 2026 17:43:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos of Hasidic Jews celebrating the ‘New Year of Trees’ in Israel]]></title>
 <link>https://apnews.com/photo-gallery/israel-tu-bishvat-netanya-photos-a39dc4a83329b6cbd06ae0094c744679</link>
 <pubDate>Tue, 03 Feb 2026 07:13:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian rapper Al Darwish returns home after 13 years to perform in post-Assad Damascus]]></title>
+<link>https://apnews.com/article/syria-rap-music-assad-sawah-darwish-b524504806b016b082ef1fec84b80bb1</link>
+<pubDate>Mon, 02 Feb 2026 15:13:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Savannah Guthrie says her mom is a woman of faith and a source of strength for the family]]></title>
+<link>https://apnews.com/article/savannah-guthrie-mother-missing-nancy-042abd04a6d87e14eecb22f0bc2893d1</link>
+<pubDate>Tue, 03 Feb 2026 17:43:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US-based Haitians are buoyed but wary after a judge stops Trump from ending their protections]]></title>
 <link>https://apnews.com/article/tps-haiti-immigration-ruling-79d4835a6d287cb470b50dd15e57d1fe</link>
 <pubDate>Tue, 03 Feb 2026 14:38:29 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Alabama man faces execution despite not pulling the trigger in auto store customer’s death]]></title>
 <link>https://apnews.com/article/alabama-death-penalty-triggerman-burton-debruce-2fd4d8abb9bca606c8037d428913c786</link>
 <pubDate>Tue, 03 Feb 2026 16:39:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[More departures at the US attorney’s office in Minnesota, AP sources say]]></title>
-<link>https://apnews.com/article/minnesota-justice-department-civil-rights-27b1e380562c71072fdbcde10ee8f468</link>
-<pubDate>Tue, 03 Feb 2026 16:24:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Inside Cortina’s Olympic Village: A snowy haven for hundreds of athletes]]></title>
+<link>https://apnews.com/article/cortina-olympic-village-tour-athletes-housing-9d1d993ff7c5ceead14d827dbb57d7cc</link>
+<pubDate>Tue, 03 Feb 2026 17:43:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The year in review: Influential people who have died in 2026]]></title>
 <link>https://apnews.com/article/deaths-this-year-2026-1381c5e67e0c832fdfa544f11f2e7ec0</link>
 <pubDate>Tue, 03 Feb 2026 16:39:20 -0000</pubDate>
@@ -197,15 +203,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vonn ‘confident’ she can race at Olympics with ruptured ACL in left knee]]></title>
+<title><![CDATA[Lindsey Vonn is ‘confident’ she can race at Olympics despite ruptured ACL in left knee]]></title>
 <link>https://apnews.com/article/vonn-crash-injury-olympics-milan-bdb3be60608cc894af5f2c0c5a54dea1</link>
-<pubDate>Tue, 03 Feb 2026 15:39:20 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 17:28:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain considers social media ban for under-16s, joining others in Europe]]></title>
+<title><![CDATA[Spain looks to ban social media for under-16s, joining others in Europe]]></title>
 <link>https://apnews.com/article/spain-social-media-ban-children-under-16s-77ac5a2e2078f175bd61dbfb5ad9deb7</link>
-<pubDate>Tue, 03 Feb 2026 15:08:30 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 17:13:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,9 +281,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The son of Norway’s crown princess pleads not guilty to rape charges as his trial opens in Oslo]]></title>
+<title><![CDATA[Son of Norway’s crown princess denies rape charges as trial begins]]></title>
 <link>https://apnews.com/article/norway-royals-hoiby-rape-trial-fd0b2d641e84e1ec7577a82f7e857b65</link>
-<pubDate>Tue, 03 Feb 2026 09:51:04 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 16:58:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Epstein victims want former Prince Andrew to testify before lawmakers. He’s unlikely to do so]]></title>
-<link>https://apnews.com/article/epstein-andrew-mountbattenwindsor-emails-96754cc6fcb500b2177807c3e4fb2d05</link>
-<pubDate>Mon, 02 Feb 2026 18:04:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
 <pubDate>Tue, 03 Feb 2026 13:56:13 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinians line up to cross Rafah after rocky first day of reopening of Gaza-Egypt border crossing]]></title>
+<title><![CDATA[Palestinians wait at border between Gaza and Egypt as uncertainty clouds reopening of Rafah crossing]]></title>
 <link>https://apnews.com/article/rafah-gaza-israel-palestinians-egypt-crossing-fb4fb8edf3ffd227a576cf01f8ce9b64</link>
-<pubDate>Tue, 03 Feb 2026 11:53:49 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 17:43:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street drifts in mixed trading as gold and silver prices bounce back]]></title>
+<title><![CDATA[Wall Street loses ground in mixed trading as gold and silver prices bounce back]]></title>
 <link>https://apnews.com/article/stock-markets-gold-trump-earnings-604eb66eac5e7aab8a02790491ffa459</link>
-<pubDate>Tue, 03 Feb 2026 15:38:31 -0000</pubDate>
+<pubDate>Tue, 03 Feb 2026 17:28:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian rapper Al Darwish returns home after 13 years to perform in post-Assad Damascus]]></title>
-<link>https://apnews.com/article/syria-rap-music-assad-sawah-darwish-b524504806b016b082ef1fec84b80bb1</link>
-<pubDate>Mon, 02 Feb 2026 06:36:27 -0000</pubDate>
+<title><![CDATA[Oscar-nominated screenwriter of Iranian drama ‘It Was Just an Accident’ arrested in Tehran]]></title>
+<link>https://apnews.com/article/it-was-just-an-accident-writer-8dd742715484608c152b817858df2b7f</link>
+<pubDate>Mon, 02 Feb 2026 07:42:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
