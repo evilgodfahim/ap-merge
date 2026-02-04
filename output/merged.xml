@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Feb 2026 03:41:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 05:04:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli police detain local officials suspected of pocketing aid sent after Oct 7 attack]]></title>
 <link>https://apnews.com/article/israel-fraud-investigation-oct-7-attack-031b65240b1cc015413a35ad11289e4d</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India’s Modi praised for US trade deal as opposition questions impact on agriculture]]></title>
+<link>https://apnews.com/article/india-us-trade-deal-trump-modi-3ce866a869dae9fd10449a6f70c2a4ed</link>
+<pubDate>Wed, 04 Feb 2026 05:04:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A 13-year-old Australian boy swims for hours to save his mother and siblings who were swept away]]></title>
 <link>https://apnews.com/article/rescue-australia-swim-boy-c191a2f24e9aa594c073faa2d8c00086</link>
 <pubDate>Tue, 03 Feb 2026 22:04:32 -0000</pubDate>
@@ -47,15 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australia’s central bank raises interest rate to 3.85% after 3 cuts]]></title>
-<link>https://apnews.com/article/australia-interest-rate-hike-inflation-ca0e5c5f64ad12de58a6e2d516423f16</link>
-<pubDate>Tue, 03 Feb 2026 06:43:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina fires ravage pristine Patagonia forests, fueling criticism of Milei’s austerity]]></title>
-<link>https://apnews.com/article/argentina-patagonia-milei-trump-austerity-wildfires-drought-f07520babbbb3ea18f9da96d47a7c3b4</link>
-<pubDate>Mon, 02 Feb 2026 14:58:53 -0000</pubDate>
+<title><![CDATA[Mexico agrees to make more predictable water deliveries to the US]]></title>
+<link>https://apnews.com/article/mexico-us-trump-sheinbaum-water-farmers-a62af1503f2f9df7199930e05938d94c</link>
+<pubDate>Wed, 04 Feb 2026 04:49:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,21 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Where is Evo Morales? Bolivia’s ex-leader vanishes from public view for nearly a month]]></title>
-<link>https://apnews.com/article/bolivia-evo-morales-donald-trump-nicolas-maduro-dea-rodrigo-paz-fd1d823cbd3ca7df35f0d4b234cfb328</link>
-<pubDate>Tue, 03 Feb 2026 18:53:09 -0000</pubDate>
+<title><![CDATA[Haiti’s Winter Olympics team shines a positive light even as IOC removes patriot from uniforms]]></title>
+<link>https://apnews.com/article/haiti-olympics-uniforms-winter-games-diversity-f85baa15a623fadbc15569325efc61b5</link>
+<pubDate>Wed, 04 Feb 2026 04:34:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Syrian rapper Al Darwish returns home after 13 years to perform in post-Assad Damascus]]></title>
 <link>https://apnews.com/article/syria-rap-music-assad-sawah-darwish-b524504806b016b082ef1fec84b80bb1</link>
 <pubDate>Mon, 02 Feb 2026 15:13:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Families mourn those killed in a Congo mine landslide as some survivors prepare to return]]></title>
-<link>https://apnews.com/article/congo-mine-collapse-rubaya-goma-be74ff05187a0a43aceb36ecd2f502ec</link>
-<pubDate>Tue, 03 Feb 2026 21:49:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -98,6 +92,12 @@
 <title><![CDATA[Fela Kuti’s Grammy lifetime achievement award is a major win for African music]]></title>
 <link>https://apnews.com/article/nigeria-fela-kuti-grammy-award-8f55a53a7538b7006ec9752d0f969750</link>
 <pubDate>Mon, 02 Feb 2026 16:07:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nine arraigned for deadly attack in Nigeria that killed over 150]]></title>
+<link>https://apnews.com/article/nigeria-attack-yelewata-benue-court-charges-43a690f213f5c285891563c50af00c88</link>
+<pubDate>Mon, 02 Feb 2026 15:52:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asian shares are mixed and gold and silver climb higher after a retreat on Wall St]]></title>
+<link>https://apnews.com/article/stocks-markets-gold-silver-oil-trump-696988a330fd224f3364709eaee6cf2a</link>
+<pubDate>Wed, 04 Feb 2026 05:04:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Guardiola speaks out on ‘hurt’ he feels about humanitarian tragedies around the world]]></title>
 <link>https://apnews.com/article/guardiola-man-city-social-issues-35d0b83a133fdc54bb4cc826898bcaa6</link>
 <pubDate>Wed, 04 Feb 2026 01:04:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ex-leader Harper says Canada should make ‘any sacrifice necessary’ to preserve independence from US]]></title>
+<link>https://apnews.com/article/stephen-harper-portrait-canada-carney-trump-927d29a327e67b49dfe7b9a0c8d6e1db</link>
+<pubDate>Wed, 04 Feb 2026 04:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK police open criminal investigation into politician Peter Mandelson over alleged leaks to Epstein]]></title>
+<link>https://apnews.com/article/uk-peter-mandelson-jeffrey-epstein-allegations-police-bd7d7f9831ad1eeaee4e5c7a951f2aeb</link>
+<pubDate>Tue, 03 Feb 2026 19:23:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Milan Cortina are the most spread-out Olympics ever. What this means for fans and athletes]]></title>
 <link>https://apnews.com/article/spread-out-games-milan-cortina-dba796da13d5a6a2824fc9abfd93d751</link>
 <pubDate>Tue, 03 Feb 2026 10:53:49 -0000</pubDate>
@@ -311,15 +329,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Australia’s central bank raises interest rate to 3.85% after 3 cuts]]></title>
+<link>https://apnews.com/article/australia-interest-rate-hike-inflation-ca0e5c5f64ad12de58a6e2d516423f16</link>
+<pubDate>Tue, 03 Feb 2026 09:36:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Even small EU nations go big on arms production, sending drones to the Ukrainian front and beyond]]></title>
 <link>https://apnews.com/article/cyprus-uav-drones-ukraine-defense-warfare-eu-9ad76834abbf938188b2b3c151dcf8f5</link>
 <pubDate>Tue, 03 Feb 2026 22:04:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Haiti’s Winter Olympics team shines a positive light even as IOC removes patriot from uniforms]]></title>
-<link>https://apnews.com/article/haiti-olympics-uniforms-winter-games-diversity-f85baa15a623fadbc15569325efc61b5</link>
-<pubDate>Tue, 03 Feb 2026 10:23:49 -0000</pubDate>
+<title><![CDATA[Where is Evo Morales? Bolivia’s ex-leader vanishes from public view for nearly a month]]></title>
+<link>https://apnews.com/article/bolivia-evo-morales-donald-trump-nicolas-maduro-dea-rodrigo-paz-fd1d823cbd3ca7df35f0d4b234cfb328</link>
+<pubDate>Wed, 04 Feb 2026 04:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,45 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Michelangelo’s ‘The Last Judgment’ fresco undergoes 3-month cleaning at Sistine Chapel]]></title>
-<link>https://apnews.com/article/last-judgment-fresco-restoration-sistine-chapel-michelangelo-1751304486d2c77935e1d938edd06b05</link>
-<pubDate>Tue, 03 Feb 2026 01:09:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dominican police say bodies of 4 decapitated women found near border with Haiti]]></title>
-<link>https://apnews.com/article/dominican-republic-women-killed-decapitated-haiti-e2206b670bf1e696061aba8bf7348ee4</link>
-<pubDate>Mon, 02 Feb 2026 22:47:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From Montreal to Milan: Christina Carreira’s journey to US citizenship and the Winter Olympics]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-figure-skating-citizenship-8b0bd32700c260d0365928a13262bf0e</link>
-<pubDate>Mon, 02 Feb 2026 22:32:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-january-29-2026-c7fa464e1621b8898ce8393b6bfa94a8</link>
-<pubDate>Mon, 02 Feb 2026 22:17:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s president seeks ‘fair and equitable’ negotiations, while US shoots down drone]]></title>
 <link>https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b</link>
 <pubDate>Tue, 03 Feb 2026 23:48:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police open criminal investigation into politician Peter Mandelson over alleged leaks to Epstein]]></title>
-<link>https://apnews.com/article/uk-peter-mandelson-jeffrey-epstein-allegations-police-bd7d7f9831ad1eeaee4e5c7a951f2aeb</link>
-<pubDate>Wed, 04 Feb 2026 01:04:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ex-leader Harper says Canada should make ‘any sacrifice necessary’ to preserve independence from US]]></title>
-<link>https://apnews.com/article/stephen-harper-portrait-canada-carney-trump-927d29a327e67b49dfe7b9a0c8d6e1db</link>
-<pubDate>Wed, 04 Feb 2026 00:49:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +368,12 @@
 <title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
 <pubDate>Tue, 03 Feb 2026 13:56:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Son of late dictator Gadhafi is killed in Libya]]></title>
+<link>https://apnews.com/article/libya-seif-alislam-gadhaf-killed-85f6d2b4cdd7a5067df4c790363f5f30</link>
+<pubDate>Wed, 04 Feb 2026 05:04:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India’s Modi praised for US trade deal as opposition questions impact on agriculture]]></title>
-<link>https://apnews.com/article/india-us-trade-deal-trump-modi-3ce866a869dae9fd10449a6f70c2a4ed</link>
-<pubDate>Tue, 03 Feb 2026 11:08:49 -0000</pubDate>
+<title><![CDATA[Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract]]></title>
+<link>https://apnews.com/article/panama-ports-ck-hutchison-abritribution-china-11bc6d615183236b16e78d6ea7524570</link>
+<pubDate>Wed, 04 Feb 2026 04:34:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Seif al-Islam Gadhafi, son of Libya’s late dictator, killed in north Africa country, officials say]]></title>
-<link>https://apnews.com/article/libya-seif-alislam-gadhaf-killed-85f6d2b4cdd7a5067df4c790363f5f30</link>
-<pubDate>Tue, 03 Feb 2026 21:49:33 -0000</pubDate>
+<title><![CDATA[Families mourn those killed in a Congo mine landslide as some survivors prepare to return]]></title>
+<link>https://apnews.com/article/congo-mine-collapse-rubaya-goma-be74ff05187a0a43aceb36ecd2f502ec</link>
+<pubDate>Tue, 03 Feb 2026 04:40:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
