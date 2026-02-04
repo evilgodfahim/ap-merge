@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Feb 2026 07:59:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 08:45:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli police detain local officials suspected of pocketing aid sent after Oct 7 attack]]></title>
 <link>https://apnews.com/article/israel-fraud-investigation-oct-7-attack-031b65240b1cc015413a35ad11289e4d</link>
@@ -17,21 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
+<pubDate>Wed, 04 Feb 2026 08:45:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Families suffer as Ukrainian engineers can no longer keep up with repairing infrastructure]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-winter-cold-kyiv-634d6b31ded0aabd8130086e9a1cf25c</link>
 <pubDate>Tue, 03 Feb 2026 15:23:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italy gets creative as it works to make art accessible for blind people]]></title>
-<link>https://apnews.com/article/italy-accessibility-blind-art-museums-8366360a2aa7c0f75411eb791de675ac</link>
-<pubDate>Wed, 04 Feb 2026 06:06:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[X offices raided in France as prosecutors investigate child abuse images and deepfakes]]></title>
-<link>https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc</link>
-<pubDate>Tue, 03 Feb 2026 13:56:11 -0000</pubDate>
+<title><![CDATA[Greek rescuers search for potential missing people after deadly migrant boat collision]]></title>
+<link>https://apnews.com/article/greece-migration-migrants-collision-e363fa975e843a483c679d406445a0c9</link>
+<pubDate>Wed, 04 Feb 2026 08:30:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Northern Japan hit by deadly snowfall, as warnings issued on more heavy snow]]></title>
+<title><![CDATA[Northern Japan hit by heavy snowfall, as warnings issued for more]]></title>
 <link>https://apnews.com/article/japan-niigata-weather-snow-deaths-climate-2fc942d248ce6eb5b4b9545f445b8c8a</link>
-<pubDate>Wed, 04 Feb 2026 05:21:57 -0000</pubDate>
+<pubDate>Wed, 04 Feb 2026 08:15:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know: India aims for consecutive T20 World Cup titles, Sri Lanka utilizing home advantage]]></title>
+<link>https://apnews.com/article/t20-cricket-world-cup-twenty20-b89d8c5844d3be9e0428ca7eea62b343</link>
+<pubDate>Wed, 04 Feb 2026 08:00:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan’s boycott of a game against India looms over cricket’s T20 World Cup]]></title>
 <link>https://apnews.com/article/t20-cricket-world-pakistan-india-boycott-4904f83dfe4c44457b500322dab8d947</link>
 <pubDate>Wed, 04 Feb 2026 07:13:37 -0000</pubDate>
@@ -167,9 +173,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump plans to lower tariffs on Indian goods to 18% after India agreed to stop buying Russian oil]]></title>
-<link>https://apnews.com/article/trump-india-tariffs-russia-oil-7ca672c7d00d543782d61116e482172c</link>
-<pubDate>Tue, 03 Feb 2026 10:06:03 -0000</pubDate>
+<title><![CDATA[UN Security Council condemns the latest militant attacks in Pakistan that killed dozens]]></title>
+<link>https://apnews.com/article/pakistan-security-council-militants-balochistan-5c907303dbdda4779be559f13c98984e</link>
+<pubDate>Wed, 04 Feb 2026 08:45:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PHOTO ESSAY: Making Italy’s art accessible to people with disabilities]]></title>
+<link>https://apnews.com/photo-essay/italy-accessible-art-photos-39cc67ce7165cb9f1a5296d34b0d373b</link>
+<pubDate>Wed, 04 Feb 2026 08:30:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +191,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed and gold and silver climb higher after a retreat on Wall St]]></title>
+<title><![CDATA[Italy gets creative as it works to make art accessible for blind people]]></title>
+<link>https://apnews.com/article/italy-accessibility-blind-art-museums-8366360a2aa7c0f75411eb791de675ac</link>
+<pubDate>Wed, 04 Feb 2026 08:15:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares gained and gold and silver climb higher after a retreat on Wall St]]></title>
 <link>https://apnews.com/article/stocks-markets-gold-silver-oil-trump-696988a330fd224f3364709eaee6cf2a</link>
-<pubDate>Wed, 04 Feb 2026 05:04:03 -0000</pubDate>
+<pubDate>Wed, 04 Feb 2026 08:00:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +212,12 @@
 <title><![CDATA[Ex-leader Harper says Canada should make ‘any sacrifice necessary’ to preserve independence from US]]></title>
 <link>https://apnews.com/article/stephen-harper-portrait-canada-carney-trump-927d29a327e67b49dfe7b9a0c8d6e1db</link>
 <pubDate>Wed, 04 Feb 2026 04:49:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Collision between migrant speedboat, Greek coast guard vessel leaves at least 15 dead]]></title>
+<link>https://apnews.com/article/greece-migration-migrants-collision-5e35977a5044cd505157b9256efcf587</link>
+<pubDate>Wed, 04 Feb 2026 07:45:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,33 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nintendo reports robust profits on hit Switch 2 console]]></title>
-<link>https://apnews.com/article/japan-nintendo-profit-switch-mario-c174e6d10c6bb6131a0e87f6dffc6b24</link>
-<pubDate>Tue, 03 Feb 2026 12:56:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Francis’ problematic secret decrees in spotlight in Vatican’s ‘trial of the century’]]></title>
-<link>https://apnews.com/article/vatican-trial-pope-becciu-cardinal-finance-835e6756154fc69f0558af2b5560dbd9</link>
-<pubDate>Tue, 03 Feb 2026 15:09:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Son of Norway’s crown princess denies rape charges as trial begins]]></title>
-<link>https://apnews.com/article/norway-royals-hoiby-rape-trial-fd0b2d641e84e1ec7577a82f7e857b65</link>
-<pubDate>Tue, 03 Feb 2026 16:58:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia’s central bank raises interest rate to 3.85% after 3 cuts]]></title>
-<link>https://apnews.com/article/australia-interest-rate-hike-inflation-ca0e5c5f64ad12de58a6e2d516423f16</link>
-<pubDate>Tue, 03 Feb 2026 09:36:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s president seeks ‘fair and equitable’ negotiations, while US shoots down drone]]></title>
-<link>https://apnews.com/article/iran-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b</link>
-<pubDate>Tue, 03 Feb 2026 23:48:13 -0000</pubDate>
+<title><![CDATA[The last US-Russian nuclear pact is about to expire, ending a half-century of arms control]]></title>
+<link>https://apnews.com/article/russia-us-nuclear-weapons-treaty-putin-trump-5b1af24b0b3e65a8acb6ca7153018beb</link>
+<pubDate>Wed, 04 Feb 2026 08:45:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia bombards Ukraine with drones and missiles a day before planned peace talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-missile-drone-attack-electricity-c10dbc6b621e196606fc79caab0eaad5</link>
-<pubDate>Tue, 03 Feb 2026 13:56:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Son of late dictator Gadhafi is killed in Libya]]></title>
 <link>https://apnews.com/article/libya-seif-alislam-gadhaf-killed-85f6d2b4cdd7a5067df4c790363f5f30</link>
 <pubDate>Wed, 04 Feb 2026 05:04:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Collision between migrant speedboat, Greek coast guard vessel leaves at least 15 dead]]></title>
-<link>https://apnews.com/article/greece-migration-migrants-collision-5e35977a5044cd505157b9256efcf587</link>
-<pubDate>Wed, 04 Feb 2026 04:49:04 -0000</pubDate>
+<title><![CDATA[Women returning to Gaza say Israeli troops bound and interrogated them after Rafah crossing]]></title>
+<link>https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0</link>
+<pubDate>Tue, 03 Feb 2026 19:23:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women returning to Gaza say Israeli troops bound and interrogated them after Rafah crossing]]></title>
-<link>https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0</link>
-<pubDate>Tue, 03 Feb 2026 19:23:11 -0000</pubDate>
+<title><![CDATA[Palestinians wait at border between Gaza and Egypt as uncertainty clouds reopening of Rafah crossing]]></title>
+<link>https://apnews.com/article/rafah-gaza-israel-palestinians-egypt-crossing-fb4fb8edf3ffd227a576cf01f8ce9b64</link>
+<pubDate>Tue, 03 Feb 2026 17:43:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know: India aims for consecutive T20 World Cup titles, Sri Lanka utilizing home advantage]]></title>
-<link>https://apnews.com/article/t20-cricket-world-cup-twenty20-b89d8c5844d3be9e0428ca7eea62b343</link>
-<pubDate>Wed, 04 Feb 2026 07:13:39 -0000</pubDate>
+<title><![CDATA[Five players to watch at the cricket’s T20 World Cup]]></title>
+<link>https://apnews.com/article/t20-cricket-world-cup-star-players-5a177026ae478d5996ebc234241a4ce8</link>
+<pubDate>Wed, 04 Feb 2026 08:15:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
