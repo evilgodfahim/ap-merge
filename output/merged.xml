@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Feb 2026 05:11:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 06:13:29 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syria signs landmark offshore oil field deal with Chevron and a Qatari investor]]></title>
+<link>https://apnews.com/article/syria-offshore-exploration-chevron-qater-investor-106eedbcc8d288e8953f53229542ca15</link>
+<pubDate>Thu, 05 Feb 2026 06:13:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Women returning to Gaza say Israeli troops bound and interrogated them after Rafah crossing]]></title>
 <link>https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0</link>
 <pubDate>Wed, 04 Feb 2026 15:32:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Envoys push a US plan for ending Russia’s war in Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-trump-peace-deal-diplomacy-563358928ede87d5a08ed5f4082a4d7c</link>
-<pubDate>Wed, 04 Feb 2026 13:55:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greek doctors work to identify parents of injured migrant children after deadly boat collision]]></title>
-<link>https://apnews.com/article/greece-migration-migrants-collision-e363fa975e843a483c679d406445a0c9</link>
-<pubDate>Thu, 05 Feb 2026 01:06:18 -0000</pubDate>
+<title><![CDATA[Vance heads overseas for the Winter Olympics. Then he’ll stop in Armenia and Azerbaijan]]></title>
+<link>https://apnews.com/article/vance-winter-olympics-armenia-azerbaijan-c3bd416df3afa3e64a5c29d9c438e8e5</link>
+<pubDate>Thu, 05 Feb 2026 05:58:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s Xi and Russia’s Putin discuss their growing links, ties with US and global crises]]></title>
+<link>https://apnews.com/article/china-russia-xi-putin-video-call-talks-051064d85fa6eda9ee52e489937a4b2c</link>
+<pubDate>Thu, 05 Feb 2026 05:43:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Malaysia bans e-waste imports, vows to end illegal dumping]]></title>
 <link>https://apnews.com/article/malaysia-bans-ewaste-dumping-607917a17a968ddfd0bb9e7a6861f6e3</link>
 <pubDate>Thu, 05 Feb 2026 04:56:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh’s Hindu minority in fear as attacks rise and a national election nears]]></title>
-<link>https://apnews.com/article/bangladesh-election-hindu-minority-attacks-b44be9ebdabacbfb3392074214e0e3f7</link>
-<pubDate>Thu, 05 Feb 2026 00:51:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Olympic hosting race for 2036 set to be more transparent when India, Qatar vie for votes]]></title>
+<link>https://apnews.com/article/ioc-2036-olympics-india-qatar-e976a10e58b947b017d1ec86312e6683</link>
+<pubDate>Thu, 05 Feb 2026 05:28:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Five players to watch at the cricket’s T20 World Cup]]></title>
 <link>https://apnews.com/article/t20-cricket-world-cup-star-players-5a177026ae478d5996ebc234241a4ce8</link>
 <pubDate>Wed, 04 Feb 2026 14:47:10 -0000</pubDate>
@@ -161,15 +167,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Seeking shelter from Trump’s fury, US trade partners reach deals with each other]]></title>
-<link>https://apnews.com/article/trump-tariffs-us-trade-deals-0f824d3023f1dc91d30b4f236950e24f</link>
-<pubDate>Wed, 04 Feb 2026 05:06:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vance heads overseas for the Winter Olympics. Then he’ll stop in Armenia and Azerbaijan]]></title>
-<link>https://apnews.com/article/vance-winter-olympics-armenia-azerbaijan-c3bd416df3afa3e64a5c29d9c438e8e5</link>
-<pubDate>Thu, 05 Feb 2026 05:11:47 -0000</pubDate>
+<title><![CDATA[Italy’s World Cup debut: Cricket team on the rise as storied soccer team falters]]></title>
+<link>https://apnews.com/article/italy-cricket-t20-world-cup-india-678a1916e9b0a303ac7e8dbe1ddd4b41</link>
+<pubDate>Thu, 05 Feb 2026 06:13:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Xi and Russia’s Putin discuss their growing links, ties with US and global crises]]></title>
-<link>https://apnews.com/article/china-russia-xi-putin-video-call-talks-051064d85fa6eda9ee52e489937a4b2c</link>
-<pubDate>Wed, 04 Feb 2026 15:32:12 -0000</pubDate>
+<title><![CDATA[Questions around a compound of Shiite refugees from Syria show lingering post-Assad fears]]></title>
+<link>https://apnews.com/article/lebanon-syria-shiites-hezbollah-iran-displaced-hermel-5ba9b7b69a70fec4dcd51a15cf004ec1</link>
+<pubDate>Thu, 05 Feb 2026 06:13:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +380,12 @@
 <title><![CDATA[Israeli jets strike southern Lebanese villages]]></title>
 <link>https://apnews.com/video/israeli-jets-strike-southern-lebanese-villages-3aa17b1692814da5b88a851449e9ff4d</link>
 <pubDate>Mon, 02 Feb 2026 22:17:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at the violence flaring in Gaza months into an Israel-Hamas ceasefire]]></title>
+<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
+<pubDate>Thu, 05 Feb 2026 05:58:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +404,6 @@
 <title><![CDATA[A dozen people including Israeli soldiers charged with smuggling goods into Gaza]]></title>
 <link>https://apnews.com/article/israel-smuggling-gaza-soldiers-hamas-1364a2673acfeaa00f853033f45e259e</link>
 <pubDate>Wed, 04 Feb 2026 20:42:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syria signs landmark offshore oil field deal with Chevron and a Qatari investor]]></title>
-<link>https://apnews.com/article/syria-offshore-exploration-chevron-qater-investor-106eedbcc8d288e8953f53229542ca15</link>
-<pubDate>Wed, 04 Feb 2026 15:02:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Olympic hosting race for 2036 set to be more transparent when India, Qatar vie for votes]]></title>
-<link>https://apnews.com/article/ioc-2036-olympics-india-qatar-e976a10e58b947b017d1ec86312e6683</link>
-<pubDate>Wed, 04 Feb 2026 14:02:12 -0000</pubDate>
+<title><![CDATA[New Zealand looks to its batting depth, game-breakers at the T20 World Cup]]></title>
+<link>https://apnews.com/article/t20-world-cup-cricket-new-zealand-52036e937d918cf771f76fd5d227e34c</link>
+<pubDate>Thu, 05 Feb 2026 05:43:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
