@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Feb 2026 08:30:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 09:10:08 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A dozen people, including Israeli soldiers, are charged with smuggling goods into Gaza]]></title>
+<link>https://apnews.com/article/israel-smuggling-gaza-soldiers-hamas-1364a2673acfeaa00f853033f45e259e</link>
+<pubDate>Thu, 05 Feb 2026 09:10:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syria signs landmark offshore oil field deal with Chevron and a Qatari investor]]></title>
 <link>https://apnews.com/article/syria-offshore-exploration-chevron-qater-investor-106eedbcc8d288e8953f53229542ca15</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women returning to Gaza say Israeli troops bound and interrogated them after Rafah crossing]]></title>
-<link>https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0</link>
-<pubDate>Wed, 04 Feb 2026 15:32:10 -0000</pubDate>
+<title><![CDATA[Russia and Ukraine hold a second day of US-brokered peace talks in Abu Dhabi]]></title>
+<link>https://apnews.com/article/russia-ukraine-talks-peace-abu-dhabi-witkoff-31ccc70ae7599507bc5a98a6cd87e2aa</link>
+<pubDate>Thu, 05 Feb 2026 08:55:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[The last US-Russian nuclear pact is about to expire, ending a half-century of arms control]]></title>
 <link>https://apnews.com/article/russia-us-nuclear-weapons-treaty-putin-trump-5b1af24b0b3e65a8acb6ca7153018beb</link>
 <pubDate>Wed, 04 Feb 2026 11:51:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vance heads overseas for the Winter Olympics. Then he’ll stop in Armenia and Azerbaijan]]></title>
-<link>https://apnews.com/article/vance-winter-olympics-armenia-azerbaijan-c3bd416df3afa3e64a5c29d9c438e8e5</link>
-<pubDate>Thu, 05 Feb 2026 05:58:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bank of England set to keep UK interest rates on hold as inflation remains above target]]></title>
+<link>https://apnews.com/article/britain-economy-interest-rates-ca125506b3f1f5ab112040f7bb885d64</link>
+<pubDate>Thu, 05 Feb 2026 09:10:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan entertainment and electronics giant Sony says profit up 11% on strong sensor and games sales]]></title>
+<link>https://apnews.com/article/sony-japan-entertainment-electronics-games-bf50d6b6265248f4cfbb2a9737b7ab07</link>
+<pubDate>Thu, 05 Feb 2026 08:55:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Italy’s World Cup debut: Cricket team on the rise as storied soccer team falters]]></title>
 <link>https://apnews.com/article/italy-cricket-t20-world-cup-india-678a1916e9b0a303ac7e8dbe1ddd4b41</link>
 <pubDate>Thu, 05 Feb 2026 06:13:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vance heads overseas for the Winter Olympics. Then he’ll stop in Armenia and Azerbaijan]]></title>
+<link>https://apnews.com/article/vance-winter-olympics-armenia-azerbaijan-c3bd416df3afa3e64a5c29d9c438e8e5</link>
+<pubDate>Thu, 05 Feb 2026 05:11:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,45 +347,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK will release files about Mandelson’s ambassador appointment as anger mounts over Epstein]]></title>
-<link>https://apnews.com/article/britain-jeffrey-epstein-mandelson-e6e21888de8a89b6f9dd2a5fe586ea6c</link>
-<pubDate>Wed, 04 Feb 2026 16:03:15 -0000</pubDate>
+<title><![CDATA[The last US-Russia nuclear pact expires, prompting fears of a new arms race]]></title>
+<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-0e82c7fb5e5feca89a9c3f45d6f4feae</link>
+<pubDate>Thu, 05 Feb 2026 09:10:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Norwegian skier hands IOC a petition to ‘ski fossil free’ ahead of the Olympics]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-climate-skiing-fossil-fuels-29b428b3d5dd9b2dd0cfa228cd4e3af8</link>
-<pubDate>Wed, 04 Feb 2026 10:36:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[European Union citizens want more unified and bold leadership, survey suggests]]></title>
-<link>https://apnews.com/article/europe-brussels-eu-poll-mood-26957d4abd8e1d562c54680c43e6124c</link>
-<pubDate>Wed, 04 Feb 2026 10:21:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel strikes across Gaza, killing 24, and says militants attacked its soldiers]]></title>
-<link>https://apnews.com/article/gaza-rafah-hamas-israel-war-2-4-2026-a3726ab659321430bf3ca73cae50936e</link>
-<pubDate>Thu, 05 Feb 2026 01:06:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia and Ukraine envoys meet in Abu Dhabi for 2 days of US-brokered talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-us-talks-abu-dhabi-e9307c98b7ec337a3364ed9de28e6eca</link>
-<pubDate>Wed, 04 Feb 2026 17:37:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran and US agree to hold nuclear talks Friday in Oman as Trump delivers blunt warning to Khamenei]]></title>
-<link>https://apnews.com/article/iran-protests-crackdown-2556ffcb5731de2753ffa044a6e2175b</link>
-<pubDate>Thu, 05 Feb 2026 03:42:51 -0000</pubDate>
+<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
+<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
+<pubDate>Thu, 05 Feb 2026 07:30:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Questions around a compound of Shiite refugees from Syria show lingering post-Assad fears]]></title>
 <link>https://apnews.com/article/lebanon-syria-shiites-hezbollah-iran-displaced-hermel-5ba9b7b69a70fec4dcd51a15cf004ec1</link>
 <pubDate>Thu, 05 Feb 2026 06:13:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the attacks in Nigeria that killed over 160 people]]></title>
+<link>https://apnews.com/article/nigeria-attack-kwara-what-to-know-7d4371e36d8f0504017b6c692c58ddc2</link>
+<pubDate>Thu, 05 Feb 2026 08:40:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
-<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
-<pubDate>Thu, 05 Feb 2026 07:30:12 -0000</pubDate>
+<title><![CDATA[Iran and US agree to hold nuclear talks Friday in Oman as Trump delivers blunt warning to Khamenei]]></title>
+<link>https://apnews.com/article/iran-protests-crackdown-2556ffcb5731de2753ffa044a6e2175b</link>
+<pubDate>Thu, 05 Feb 2026 03:42:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know as Iran and US set for nuclear talks in Oman]]></title>
+<link>https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae</link>
+<pubDate>Thu, 05 Feb 2026 08:25:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +404,6 @@
 <title><![CDATA[The US and UN launch a humanitarian fund with $700 million for war-ravaged Sudan]]></title>
 <link>https://apnews.com/article/sudan-us-uae-war-un-2a0ea03546391969bffd3ad845a6ee3f</link>
 <pubDate>Wed, 04 Feb 2026 10:14:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A dozen people, including Israeli soldiers, are charged with smuggling goods into Gaza]]></title>
-<link>https://apnews.com/article/israel-smuggling-gaza-soldiers-hamas-1364a2673acfeaa00f853033f45e259e</link>
-<pubDate>Thu, 05 Feb 2026 07:15:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[Argentina requests extradition of Maduro from the US on crimes against humanity charges]]></title>
 <link>https://apnews.com/article/argentina-maduro-milei-trump-extradition-universal-jurisdiction-f1c51e062ebe8a4973136120d32960c6</link>
 <pubDate>Wed, 04 Feb 2026 20:12:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Women returning to Gaza say Israeli troops bound and interrogated them after Rafah crossing]]></title>
+<link>https://apnews.com/article/rafah-crossing-gaza-interrogations-israel-cfe0bc79343e2701c7a339f2259770a0</link>
+<pubDate>Tue, 03 Feb 2026 19:23:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
