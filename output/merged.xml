@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Feb 2026 20:21:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 20:55:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Questions around a compound of Shiite refugees from Syria in Lebanon show lingering post-Assad fears]]></title>
 <link>https://apnews.com/article/lebanon-syria-shiites-hezbollah-iran-displaced-hermel-5ba9b7b69a70fec4dcd51a15cf004ec1</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina and US sign free trade deal in breakthrough for Milei]]></title>
+<link>https://apnews.com/article/argentina-milei-trump-bessent-trade-deal-us-f3a96730dbf2e03cb8f2bbec41443ef8</link>
+<pubDate>Thu, 05 Feb 2026 20:55:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Measles outbreak in Mexico prompts health alert in World Cup host Jalisco]]></title>
 <link>https://apnews.com/article/mexico-jalisco-measles-outbreak-world-cup-7af7f612db487976c1e6e4a4936f0b7d</link>
 <pubDate>Thu, 05 Feb 2026 19:15:25 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Photos of Cubans getting by without power as outages persist and tensions with US escalate]]></title>
 <link>https://apnews.com/photo-gallery/photos-power-energy-coal-cubans-havana-cuba-e98e87ce6bf6315e23954e366b774675</link>
 <pubDate>Thu, 05 Feb 2026 16:03:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Panama will not be threatened by China over canal court ruling, leader says]]></title>
-<link>https://apnews.com/article/panama-canal-hong-kong-china-united-states-fcb61b581e95064c110db5acd1c6bb07</link>
-<pubDate>Thu, 05 Feb 2026 15:48:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Homeland Security shutdown grows more likely as Republicans rebuff Democratic demands for ICE]]></title>
+<title><![CDATA[Minneapolis man is charged with threatening and cyberstalking ICE officers]]></title>
+<link>https://apnews.com/article/immigration-officers-minnesota-threats-doxing-385b11ccd93a9805aa31d4e058689c44</link>
+<pubDate>Thu, 05 Feb 2026 20:40:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Homeland Security shutdown grows more likely as Republicans rebuff Democrats’ ICE demands]]></title>
 <link>https://apnews.com/article/homeland-security-shutdown-ice-democrats-demands-ff3aadec8eeab250aea5bf8a8ecdb960</link>
-<pubDate>Thu, 05 Feb 2026 18:30:25 -0000</pubDate>
+<pubDate>Thu, 05 Feb 2026 20:25:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bessent says it would be up to Trump whether to sue his Fed nominee over interest rates]]></title>
-<link>https://apnews.com/article/treasury-bessent-trump-warsh-federal-reserve-bc96a1445dab659f262b73530ceee8f4</link>
-<pubDate>Thu, 05 Feb 2026 18:00:25 -0000</pubDate>
+<title><![CDATA[Trump and Xi discuss Iran in wide-ranging call as US presses China and others to break from Tehran]]></title>
+<link>https://apnews.com/article/us-china-trump-xi-iran-call-441425004d3d695df87f3f7c0b62492e</link>
+<pubDate>Thu, 05 Feb 2026 11:35:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[China will ban hidden door handles on cars starting in 2027]]></title>
 <link>https://apnews.com/article/china-car-door-handles-ev-tesla-0c8a310e8d5b38804a725ec698c84f8f</link>
 <pubDate>Wed, 04 Feb 2026 15:18:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why China is building so many coal plants despite its solar and wind boom]]></title>
-<link>https://apnews.com/article/china-coal-solar-climate-carbon-emissions-242abe76eb69f5a362e977de74ff3254</link>
-<pubDate>Tue, 03 Feb 2026 08:20:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia says it regrets expiration of last nuclear arms treaty but Trump says he wants a new pact]]></title>
+<title><![CDATA[Russia says it regrets expiration of last nuclear arms treaty, but Trump says he wants a new pact]]></title>
 <link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-0e82c7fb5e5feca89a9c3f45d6f4feae</link>
-<pubDate>Thu, 05 Feb 2026 19:30:26 -0000</pubDate>
+<pubDate>Thu, 05 Feb 2026 20:55:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Big Tech and dour data on the US job market hit Wall Street as bitcoin tumbles]]></title>
+<title><![CDATA[Drops for tech stocks and bad news on the US job market hit Wall Street as bitcoin plunges]]></title>
 <link>https://apnews.com/article/stocks-markets-tech-rates-gold-trump-d4ed66429ffa2f50f2feea99b0e583ed</link>
-<pubDate>Thu, 05 Feb 2026 19:00:26 -0000</pubDate>
+<pubDate>Thu, 05 Feb 2026 20:40:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and Xi discuss Iran in wide-ranging call as US presses China and others to break from Tehran]]></title>
-<link>https://apnews.com/article/us-china-trump-xi-iran-call-441425004d3d695df87f3f7c0b62492e</link>
-<pubDate>Wed, 04 Feb 2026 16:37:03 -0000</pubDate>
+<title><![CDATA[Panama will not be threatened by China over canal court ruling, leader says]]></title>
+<link>https://apnews.com/article/panama-canal-hong-kong-china-united-states-fcb61b581e95064c110db5acd1c6bb07</link>
+<pubDate>Thu, 05 Feb 2026 20:25:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
