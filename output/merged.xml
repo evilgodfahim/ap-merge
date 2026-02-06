@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Feb 2026 11:52:20 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 12:33:32 GMT</lastBuildDate>
+<item>
+<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
+<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
+<pubDate>Fri, 06 Feb 2026 12:33:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Organizers say a new civilian-led aid flotilla with over 100 boats will sail to Gaza in March]]></title>
 <link>https://apnews.com/article/global-sumud-flotilla-gaza-aid-mission-ce775ded494f4d7378c09267db7dddde</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Questions around a compound of Shiite refugees from Syria in Lebanon show lingering post-Assad fears]]></title>
-<link>https://apnews.com/article/lebanon-syria-shiites-hezbollah-iran-displaced-hermel-5ba9b7b69a70fec4dcd51a15cf004ec1</link>
-<pubDate>Thu, 05 Feb 2026 15:16:59 -0000</pubDate>
+<title><![CDATA[A deputy chief of Russia’s military intelligence service was shot and wounded in Moscow]]></title>
+<link>https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-82f1878b3ad7236b1d29279b522c2a2c</link>
+<pubDate>Fri, 06 Feb 2026 12:18:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia says it regrets expiration of last nuclear arms treaty, but Trump says he wants a new pact]]></title>
-<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-0e82c7fb5e5feca89a9c3f45d6f4feae</link>
-<pubDate>Fri, 06 Feb 2026 10:49:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and Russia agree to reestablish military dialogue after Ukraine talks]]></title>
-<link>https://apnews.com/article/russia-ukraine-talks-peace-abu-dhabi-witkoff-31ccc70ae7599507bc5a98a6cd87e2aa</link>
-<pubDate>Thu, 05 Feb 2026 16:33:40 -0000</pubDate>
+<title><![CDATA[Russia and US discussed nuclear arms and agreed talks need to start soon, Kremlin says]]></title>
+<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-d0e1b653c8a8d56a959d815edfb48cf5</link>
+<pubDate>Fri, 06 Feb 2026 12:03:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cubans rendered powerless as outages persist and tensions with US escalate]]></title>
+<link>https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f</link>
+<pubDate>Thu, 05 Feb 2026 22:16:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US announces $6M in aid for Cuba as island’s leader accuses it of imposing an ‘energy blockade’]]></title>
 <link>https://apnews.com/article/us-cuba-aid-melissa-trump-diaz-canel-636551892a2f59f43b657f1e71997b0b</link>
 <pubDate>Fri, 06 Feb 2026 00:49:47 -0000</pubDate>
@@ -65,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela advances amnesty bill that could lead to mass release of political prisoners]]></title>
-<link>https://apnews.com/article/venezuela-amnesty-bill-prisoners-c54cd9001132a1c9f6c4b14a23763acf</link>
-<pubDate>Fri, 06 Feb 2026 03:26:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli security service chief’s brother is accused of smuggling cigarettes into Gaza]]></title>
-<link>https://apnews.com/article/israel-smuggling-gaza-soldiers-hamas-69c704913f83cf99d8cd0f743fd8c8a2</link>
-<pubDate>Fri, 06 Feb 2026 01:04:47 -0000</pubDate>
+<title><![CDATA[Facing high Trump tariffs, Africa’s leading economy closes in on a trade agreement with China]]></title>
+<link>https://apnews.com/article/china-south-africa-trade-tariffs-trump-26d2b3798716a5c0d7661ad714843382</link>
+<pubDate>Fri, 06 Feb 2026 11:48:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,33 +95,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Families of plane crash victims ask US appeals court to revive a criminal case against Boeing]]></title>
-<link>https://apnews.com/article/boeing-737-max-crashes-criminal-charge-796dd2fc358752df842e6d1da4a339d0</link>
-<pubDate>Thu, 05 Feb 2026 23:44:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Savannah Guthrie’s demand for mom’s ‘proof of life’ is complicated in this era of AI and deepfakes]]></title>
 <link>https://apnews.com/article/nancy-guthrie-ai-deepfakes-fbi-16298b586ea0fb7d5a5578d2c54b342a</link>
 <pubDate>Fri, 06 Feb 2026 04:55:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fear among Minnesota’s Somali community compounds a public health woe: Low measles vaccination rates]]></title>
+<title><![CDATA[Fear in Minnesota’s Somali community deepens, hampering progress on measles vaccination]]></title>
 <link>https://apnews.com/article/measles-vaccine-autism-mmr-somali-community-minnesota-d69f2969f104cd9cd2da9fd120dd1025</link>
-<pubDate>Fri, 06 Feb 2026 10:19:52 -0000</pubDate>
+<pubDate>Fri, 06 Feb 2026 11:33:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Minneapolis man is charged with threatening and cyberstalking ICE officers]]></title>
-<link>https://apnews.com/article/immigration-officers-minnesota-threats-doxing-385b11ccd93a9805aa31d4e058689c44</link>
-<pubDate>Thu, 05 Feb 2026 20:40:54 -0000</pubDate>
+<title><![CDATA[In Minnesota, sending a child to school is an act of faith for immigrant families]]></title>
+<link>https://apnews.com/article/minnesota-school-children-immigration-enforcement-f5ae3c38217339d9e6630ee264b5a801</link>
+<pubDate>Fri, 06 Feb 2026 11:18:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Man whose mother was found among 189 decaying bodies tells the story]]></title>
 <link>https://apnews.com/article/funeral-home-colorado-decomposing-bodies-human-remains-ac3bcd47bf6f492ba177a70fb4b30d71</link>
 <pubDate>Fri, 06 Feb 2026 06:41:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia says it regrets expiration of last nuclear arms treaty, but Trump says he wants a new pact]]></title>
+<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-0e82c7fb5e5feca89a9c3f45d6f4feae</link>
+<pubDate>Fri, 06 Feb 2026 10:49:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract]]></title>
-<link>https://apnews.com/article/panama-ports-ck-hutchison-abritribution-china-11bc6d615183236b16e78d6ea7524570</link>
-<pubDate>Wed, 04 Feb 2026 05:51:57 -0000</pubDate>
+<title><![CDATA[A capsule history of the T20 World Cup]]></title>
+<link>https://apnews.com/article/t20-world-cup-history-87aca24834f8ca2012a1bea526a60fd6</link>
+<pubDate>Fri, 06 Feb 2026 11:03:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand looks to its batting depth, game-breakers at the T20 World Cup]]></title>
-<link>https://apnews.com/article/t20-world-cup-cricket-new-zealand-52036e937d918cf771f76fd5d227e34c</link>
-<pubDate>Thu, 05 Feb 2026 12:43:25 -0000</pubDate>
+<title><![CDATA[Takeaways on AP report about how US government worked against itself to let Marine adopt Afghan girl]]></title>
+<link>https://apnews.com/article/afghan-orphan-adoption-government-documents-marine-takeaways-c16f7bc6e0f6b4cc5dfb11e1b4657a8f</link>
+<pubDate>Fri, 06 Feb 2026 12:33:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Norway investigates former prime minister over Epstein ties]]></title>
+<link>https://apnews.com/article/norway-former-prime-minister-investigation-corruption-epstein-c5b3c12815c5d30539bc51a0d971a7eb</link>
+<pubDate>Fri, 06 Feb 2026 12:18:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope, an avid athlete, extols physical and spiritual benefits of sport in Olympic message]]></title>
+<link>https://apnews.com/article/pope-vatican-leo-olympics-benefits-sport-eb239279c5d4988b1500e87a99dd15f2</link>
+<pubDate>Fri, 06 Feb 2026 12:03:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bitcoin falls 8% and Asian shares mostly slip after Wall Street is hit by tech stock losses]]></title>
+<title><![CDATA[Bitcoin bounces and world shares are mixed after Wall Street is slammed by tech losses]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-gold-tech-199d4d65b7596d7c34f3a5d9a77c2326</link>
-<pubDate>Fri, 06 Feb 2026 07:50:23 -0000</pubDate>
+<pubDate>Fri, 06 Feb 2026 11:48:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +272,18 @@
 <title><![CDATA[Civil War scholar and retired Gettysburg College professor Gabor Boritt dies at 86]]></title>
 <link>https://apnews.com/article/gabor-boritt-lincoln-civil-war-gettysburg-9648104e1b9b5e85d5018112923a1de2</link>
 <pubDate>Thu, 05 Feb 2026 23:14:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Families of plane crash victims ask US appeals court to revive a criminal case against Boeing]]></title>
+<link>https://apnews.com/article/boeing-737-max-crashes-criminal-charge-796dd2fc358752df842e6d1da4a339d0</link>
+<pubDate>Fri, 06 Feb 2026 11:33:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela advances amnesty bill that could lead to mass release of political prisoners]]></title>
+<link>https://apnews.com/article/venezuela-amnesty-bill-prisoners-c54cd9001132a1c9f6c4b14a23763acf</link>
+<pubDate>Fri, 06 Feb 2026 07:11:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,63 +329,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A glimmer of hope for democracy in Venezuela as opponents test the limits of free speech]]></title>
+<link>https://apnews.com/article/venezuela-democracy-trump-maduro-rodriguez-oil-6b28b2713d73c7527a661ff47c122423</link>
+<pubDate>Fri, 06 Feb 2026 11:18:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of Cubans getting by without power as outages persist and tensions with US escalate]]></title>
 <link>https://apnews.com/photo-gallery/photos-power-energy-coal-cubans-havana-cuba-e98e87ce6bf6315e23954e366b774675</link>
 <pubDate>Thu, 05 Feb 2026 21:46:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As winter comes, so does garbage. A river in Bosnia chokes in tons of waste year after year]]></title>
-<link>https://apnews.com/article/bosnia-drina-river-garbage-activists-5b4505564d580ac3fd0312bd9515d201</link>
-<pubDate>Thu, 05 Feb 2026 15:32:00 -0000</pubDate>
+<title><![CDATA[Israeli security service chief’s brother is accused of smuggling cigarettes into Gaza]]></title>
+<link>https://apnews.com/article/israel-smuggling-gaza-soldiers-hamas-69c704913f83cf99d8cd0f743fd8c8a2</link>
+<pubDate>Fri, 06 Feb 2026 06:56:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users]]></title>
-<link>https://apnews.com/article/openai-anthropic-chatgpt-claude-rivalry-c19e0cca22c37190cc4e0dc08e889ef0</link>
-<pubDate>Thu, 05 Feb 2026 15:17:00 -0000</pubDate>
+<title><![CDATA[US and Russia agree to reestablish military dialogue after Ukraine talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-talks-peace-abu-dhabi-witkoff-31ccc70ae7599507bc5a98a6cd87e2aa</link>
+<pubDate>Thu, 05 Feb 2026 16:18:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran seizes 2 foreign oil tankers in Persian Gulf, state media says]]></title>
-<link>https://apnews.com/article/iran-oil-tankers-seized-persian-gulf-c1ac906a71d86d5ba37e4a6a8628f8c7</link>
-<pubDate>Thu, 05 Feb 2026 15:02:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Storm Leonardo slams Spain and Portugal, leaving 1 dead and a girl missing]]></title>
-<link>https://apnews.com/article/spain-portugal-storm-leonardo-7074be62614d34d23a4f246acc2ab190</link>
-<pubDate>Thu, 05 Feb 2026 13:58:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Europe’s central bank maintains interest rate with economic growth resilient]]></title>
-<link>https://apnews.com/article/europe-tariffs-economic-growth-trump-baa16bb4264d69b5c3fcbacad0dcb2ca</link>
-<pubDate>Thu, 05 Feb 2026 13:43:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show workers clearing waves of trash from Bosnia’s Drina River]]></title>
-<link>https://apnews.com/photo-gallery/bosnia-drina-river-pollution-visegrad-garbage-rain-6da665f1f1eed7bb48e43624bcf722b3</link>
-<pubDate>Thu, 05 Feb 2026 13:28:26 -0000</pubDate>
+<title><![CDATA[US government worked against itself to let Marine adopt Afghan girl, documents obtained by AP show]]></title>
+<link>https://apnews.com/article/afghan-war-orphan-adoption-government-documents-marine-ef37c65e8d5c0af015b10c71a4c46591</link>
+<pubDate>Fri, 06 Feb 2026 12:33:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Oman mediates indirect US-Iran talks over Tehran’s nuclear program]]></title>
 <link>https://apnews.com/article/iran-us-protests-nuclear-negotiations-oman-muscat-32d621b98f7a3a68831f885d262bb70e</link>
 <pubDate>Fri, 06 Feb 2026 11:04:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina and US sign a major trade deal to slash tariffs and boost a political alliance]]></title>
-<link>https://apnews.com/article/argentina-milei-trump-bessent-trade-deal-us-f3a96730dbf2e03cb8f2bbec41443ef8</link>
-<pubDate>Fri, 06 Feb 2026 01:04:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A glimmer of hope for democracy in Venezuela as opponents test the limits of free speech]]></title>
-<link>https://apnews.com/article/venezuela-democracy-trump-maduro-rodriguez-oil-6b28b2713d73c7527a661ff47c122423</link>
-<pubDate>Thu, 05 Feb 2026 16:33:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22]]></title>
-<link>https://apnews.com/article/sudan-famine-rsf-kordofan-darfur-war-hunger-9b16a0419f8d7cc67c7e95939a8a954d</link>
-<pubDate>Thu, 05 Feb 2026 15:48:41 -0000</pubDate>
+<title><![CDATA[Deal is signed in Beirut to transfer 300 Syrian prisoners in Lebanon to their home country]]></title>
+<link>https://apnews.com/article/lebanon-syria-prisoners-300-deal-signed-mitri-alwais-transfer-ad3ab11f6610a8b1200a73dd2dd30097</link>
+<pubDate>Fri, 06 Feb 2026 12:03:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
-<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
-<pubDate>Thu, 05 Feb 2026 07:30:12 -0000</pubDate>
+<title><![CDATA[Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22]]></title>
+<link>https://apnews.com/article/sudan-famine-rsf-kordofan-darfur-war-hunger-9b16a0419f8d7cc67c7e95939a8a954d</link>
+<pubDate>Thu, 05 Feb 2026 15:48:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,21 +431,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A deputy chief of Russian military intelligence was shot and wounded in Moscow]]></title>
-<link>https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-82f1878b3ad7236b1d29279b522c2a2c</link>
-<pubDate>Fri, 06 Feb 2026 10:34:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A bombing at a Shiite mosque on Islamabad’s outskirts kills at least 24 and wounds dozens]]></title>
+<title><![CDATA[A bombing at a Shiite mosque on Islamabad’s outskirts kills at least 31 and wounds scores]]></title>
 <link>https://apnews.com/article/pakistan-islamabad-shiite-mosque-blast-8f0b7b8a8783db37644d88610512c9af</link>
-<pubDate>Fri, 06 Feb 2026 10:19:53 -0000</pubDate>
+<pubDate>Fri, 06 Feb 2026 11:48:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cubans rendered powerless as outages persist and tensions with US escalate]]></title>
-<link>https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f</link>
-<pubDate>Thu, 05 Feb 2026 15:17:01 -0000</pubDate>
+<title><![CDATA[Argentina and US sign a major trade deal to slash tariffs and boost a political alliance]]></title>
+<link>https://apnews.com/article/argentina-milei-trump-bessent-trade-deal-us-f3a96730dbf2e03cb8f2bbec41443ef8</link>
+<pubDate>Fri, 06 Feb 2026 01:04:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Questions around a compound of Shiite refugees from Syria in Lebanon show lingering post-Assad fears]]></title>
+<link>https://apnews.com/article/lebanon-syria-shiites-hezbollah-iran-displaced-hermel-5ba9b7b69a70fec4dcd51a15cf004ec1</link>
+<pubDate>Thu, 05 Feb 2026 12:05:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A capsule history of the T20 World Cup]]></title>
-<link>https://apnews.com/article/t20-world-cup-history-87aca24834f8ca2012a1bea526a60fd6</link>
-<pubDate>Fri, 06 Feb 2026 08:35:24 -0000</pubDate>
+<title><![CDATA[Indian teenage cricket prodigy Suryavanshi smashes 175 runs against England in U19 final]]></title>
+<link>https://apnews.com/article/suryavanshi-prodigy-century-cricket-india-8148b2a16ddf8d193c37d2915718aaf1</link>
+<pubDate>Fri, 06 Feb 2026 11:33:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
