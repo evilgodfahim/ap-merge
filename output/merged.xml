@@ -3,23 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Feb 2026 18:57:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 19:20:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[UN peacekeepers in Lebanon say Israeli forces are increasingly harassing them]]></title>
+<link>https://apnews.com/article/israel-lebanon-violence-un-peacekeepers-afbcbb32a24c61387d0e6cc40ded5e9c</link>
+<pubDate>Sat, 07 Feb 2026 19:20:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran and US hold indirect talks in Oman. America’s military leader in the Mideast joins the talks]]></title>
 <link>https://apnews.com/article/iran-us-protests-nuclear-negotiations-oman-muscat-32d621b98f7a3a68831f885d262bb70e</link>
 <pubDate>Sat, 07 Feb 2026 16:54:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
-<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
-<pubDate>Fri, 06 Feb 2026 12:33:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US gave Ukraine and Russia a June deadline to reach agreement to end war, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-june-deadline-98da4e17de8ab377363ae9c3ff308001</link>
-<pubDate>Sat, 07 Feb 2026 18:19:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Olympics opening ceremony in Milan was lacking snow, but tiny winter wonderland was on its sidelines]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-slavas-snowshow-opening-ceremony-27f1d216caf9af37d622a247f65ec6ec</link>
-<pubDate>Sat, 07 Feb 2026 15:45:21 -0000</pubDate>
+<title><![CDATA[Italian police fire tear gas as protesters clash near Winter Olympics hockey venue]]></title>
+<link>https://apnews.com/article/winter-olympics-protest-milan-ice-demonstration-fb4df93ea831f8ddb67550ee9dfe7438</link>
+<pubDate>Sat, 07 Feb 2026 19:05:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tourists stopped from seeing The Last Supper, while Olympic VIPs including Vance visit]]></title>
+<link>https://apnews.com/article/milan-cortina-olympics-vance-last-supper-cfec5691fdaeb392ba58b85da346b6d5</link>
+<pubDate>Sat, 07 Feb 2026 18:50:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[A man tied to the killing of Colombian soccer player Andrés Escobar shot dead in Mexico]]></title>
 <link>https://apnews.com/article/mexico-colombia-soccer-escobar-petro-159fb3dfcc31d5ebe7000f46e14a4697</link>
 <pubDate>Sat, 07 Feb 2026 13:16:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of Libyans gather for the funeral of Gadhafi’s son who was shot and killed this week]]></title>
-<link>https://apnews.com/article/gadhafi-libya-civil-war-nato-seif-alislam-7b3c3222952a5d94af2287b0837b94ea</link>
-<pubDate>Sat, 07 Feb 2026 08:52:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli bobsled pilot says team apartment was robbed ahead of Milan Cortina Winter Games]]></title>
+<link>https://apnews.com/article/israel-bobsled-apartment-robbed-2fa991170eae9d482581586668d6562b</link>
+<pubDate>Sat, 07 Feb 2026 19:20:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Italians collect medals on a feel-good first day for the hosts at the Milan Cortina Olympics]]></title>
 <link>https://apnews.com/article/winter-olympics-vonn-vance-milan-cortina-08df6ed478708c753c8b6fbe610c806c</link>
 <pubDate>Sat, 07 Feb 2026 18:19:44 -0000</pubDate>
@@ -209,9 +209,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of Singapore Air Show display ‘the latest and the greatest’ in aviation]]></title>
+<title><![CDATA[Olympics opening ceremony in Milan was lacking snow, but tiny winter wonderland was on its sidelines]]></title>
+<link>https://apnews.com/article/milan-cortina-olympics-slavas-snowshow-opening-ceremony-27f1d216caf9af37d622a247f65ec6ec</link>
+<pubDate>Sat, 07 Feb 2026 13:16:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of the latest aviation tech at the Singapore Air Show]]></title>
 <link>https://apnews.com/photo-gallery/singapore-air-show-photo-gallery-e6dc9f4fb86885f7ed0c99dcae3466b0</link>
-<pubDate>Sat, 07 Feb 2026 07:33:37 -0000</pubDate>
+<pubDate>Sat, 07 Feb 2026 06:13:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Accused militant is taken into custody in the deadly 2012 Benghazi attack]]></title>
-<link>https://apnews.com/article/fbi-benghazi-justice-department-a0eadc00e01e892e6dba827ccfadbae0</link>
-<pubDate>Sat, 07 Feb 2026 17:49:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After Epstein fallout, UK leader Starmer faces hurdles and rivals as he battles to keep his job]]></title>
-<link>https://apnews.com/article/starmer-britain-epstein-mandelson-leadership-labour-1672f25ab8e2ec9fb4eaed9cb744c0b0</link>
-<pubDate>Fri, 06 Feb 2026 16:38:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[She filmed Iran’s violent crackdown on protesters. Now she is afraid to go outside]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-c680be58d32307dce77d65468ac80986</link>
 <pubDate>Sat, 07 Feb 2026 10:14:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US gave Ukraine and Russia a June deadline to reach agreement to end war, Zelenskyy says]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-june-deadline-98da4e17de8ab377363ae9c3ff308001</link>
+<pubDate>Sat, 07 Feb 2026 11:41:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tourists stopped from seeing The Last Supper, while Olympic VIPs including Vance visit]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-vance-last-supper-cfec5691fdaeb392ba58b85da346b6d5</link>
-<pubDate>Sat, 07 Feb 2026 18:04:45 -0000</pubDate>
+<title><![CDATA[Gaza’s Rafah border crossing has reopened but few people get through]]></title>
+<link>https://apnews.com/article/rafah-crossing-gaza-palestinians-israel-3347df733bc68f87db237da728f18451</link>
+<pubDate>Sat, 07 Feb 2026 19:20:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +380,12 @@
 <title><![CDATA[Police in Jerusalem drag away Jewish ultra-Orthodox men protesting against military enlistment]]></title>
 <link>https://apnews.com/video/police-in-jerusalem-drag-away-jewish-ultra-orthodox-men-protesting-against-military-enlistment-9319388cb19542d4be3300e497ad9ab2</link>
 <pubDate>Sat, 07 Feb 2026 00:34:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Drone attack by paramilitary group in Sudan kills 24, including 8 children, doctors’ group says]]></title>
+<link>https://apnews.com/article/sudan-attack-war-rfs-military-displaced-21c24cd642120884e3fc00b05c02f97e</link>
+<pubDate>Sat, 07 Feb 2026 08:37:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +404,6 @@
 <title><![CDATA[Syria and Saudi Arabia sign multibillion-dollar investment deals to boost economy]]></title>
 <link>https://apnews.com/article/syria-saudi-arabia-investments-telecommunications-2d135302860c4338d6a10e2862b7ea83</link>
 <pubDate>Sat, 07 Feb 2026 16:54:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN peacekeepers in Lebanon say Israeli forces are increasingly harassing them]]></title>
-<link>https://apnews.com/article/israel-lebanon-violence-un-peacekeepers-afbcbb32a24c61387d0e6cc40ded5e9c</link>
-<pubDate>Sat, 07 Feb 2026 10:56:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as Iran and US prepare for nuclear talks in Oman]]></title>
-<link>https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae</link>
-<pubDate>Thu, 05 Feb 2026 17:38:41 -0000</pubDate>
+<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
+<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
+<pubDate>Thu, 05 Feb 2026 07:30:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
