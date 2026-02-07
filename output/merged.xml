@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Feb 2026 07:07:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 07:48:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show an Israeli strike blowing up a Gaza building in split-second detail]]></title>
 <link>https://apnews.com/photo-gallery/israel-airstrike-gaza-building-photos-d0ae11a47d36b88e2556e07ad600dd64</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In a Nigerian village, extremists issued a call to prayer and then slaughtered those who turned up]]></title>
-<link>https://apnews.com/article/nigeria-extremists-attack-kwara-1cfe0914f838e9387bcf06be4df0b2f5</link>
-<pubDate>Sat, 07 Feb 2026 05:00:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Facing high Trump tariffs, Africa’s leading economy says it’s close to a new trade deal with China]]></title>
 <link>https://apnews.com/article/china-south-africa-trade-tariffs-trump-26d2b3798716a5c0d7661ad714843382</link>
 <pubDate>Fri, 06 Feb 2026 13:08:45 -0000</pubDate>
@@ -92,6 +86,18 @@
 <title><![CDATA[Republic of Congo’s president says he will run for reelection, possibly extending decades-long rule]]></title>
 <link>https://apnews.com/article/republic-of-congo-sassou-nguesso-election-8c07b1c0887b3a97f2af1a6bda181e26</link>
 <pubDate>Thu, 05 Feb 2026 19:00:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know after scores were killed in Nigeria while abducted Christians came home]]></title>
+<link>https://apnews.com/article/nigeria-attack-kwara-what-to-know-7d4371e36d8f0504017b6c692c58ddc2</link>
+<pubDate>Thu, 05 Feb 2026 18:45:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sheriff searching for Savannah Guthrie’s missing mom calls lack of video a disappointing setback]]></title>
+<link>https://apnews.com/article/savannah-guthrie-nancy-guthrie-mom-missing-b08641c7ba3f5258916eeeb1ecd7435a</link>
+<pubDate>Sat, 07 Feb 2026 07:48:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,12 +119,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Nancy Guthrie’s kidnapping and the race to find her]]></title>
-<link>https://apnews.com/article/savannah-guthrie-nancy-guthrie-mom-missing-534c68bfb666ab8e08123f130f937c2d</link>
-<pubDate>Sat, 07 Feb 2026 05:58:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Taiwan-US ties are ‘rock solid,’ the island’s president says after Trump-Xi call]]></title>
 <link>https://apnews.com/article/taiwan-president-lai-china-arms-sales-us-2d980ade9a1a299682d9ba62470d0369</link>
 <pubDate>Thu, 05 Feb 2026 05:11:46 -0000</pubDate>
@@ -137,9 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract]]></title>
-<link>https://apnews.com/article/panama-ports-ck-hutchison-abritribution-china-11bc6d615183236b16e78d6ea7524570</link>
-<pubDate>Wed, 04 Feb 2026 05:51:57 -0000</pubDate>
+<title><![CDATA[US wants to create a critical minerals trading bloc with its allies to counter China]]></title>
+<link>https://apnews.com/article/trump-china-rare-earths-critical-minerals-tariffs-aa82fd4c065c9b62300ff7834b660cfb</link>
+<pubDate>Sat, 07 Feb 2026 07:33:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India and US release a framework for an interim trade agreement]]></title>
+<title><![CDATA[India and US release a framework for an interim trade agreement to reduce Trump tariffs]]></title>
 <link>https://apnews.com/article/india-us-trade-deal-tariffs-exports-b8f7e1ce3439d023922e86f507ce9f8e</link>
-<pubDate>Sat, 07 Feb 2026 06:28:58 -0000</pubDate>
+<pubDate>Sat, 07 Feb 2026 07:48:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of the latest aviation tech at the Singapore Air Show]]></title>
+<title><![CDATA[Photos of Singapore Air Show display ‘the latest and the greatest’ in aviation]]></title>
 <link>https://apnews.com/photo-gallery/singapore-air-show-photo-gallery-e6dc9f4fb86885f7ed0c99dcae3466b0</link>
-<pubDate>Sat, 07 Feb 2026 06:13:58 -0000</pubDate>
+<pubDate>Sat, 07 Feb 2026 07:33:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,33 +413,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Falling tech stocks and a plunge for bitcoin hit Wall Street]]></title>
-<link>https://apnews.com/article/stocks-markets-tech-rates-gold-trump-d4ed66429ffa2f50f2feea99b0e583ed</link>
-<pubDate>Thu, 05 Feb 2026 22:01:21 -0000</pubDate>
+<title><![CDATA[E-bike riders demand more flexible battery networks]]></title>
+<link>https://apnews.com/article/kenya-uganda-rwanda-ebikes-motorcycles-battery-964b13f58358201a2b51818c9af2dd6c</link>
+<pubDate>Sat, 07 Feb 2026 06:28:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US wants to create a critical minerals trading bloc with its allies to counter China]]></title>
-<link>https://apnews.com/article/trump-china-rare-earths-critical-minerals-tariffs-aa82fd4c065c9b62300ff7834b660cfb</link>
-<pubDate>Wed, 04 Feb 2026 19:01:58 -0000</pubDate>
+<title><![CDATA[Japanese-based Kirin announces deal to sell the Four Roses bourbon brand to wine giant Gallo]]></title>
+<link>https://apnews.com/article/four-roses-bourbon-gallo-kirin-753f73cff23dfb7a0d7f124f46294402</link>
+<pubDate>Sat, 07 Feb 2026 07:48:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan entertainment and electronics giant Sony says profit up 11% on strong sensor and games sales]]></title>
-<link>https://apnews.com/article/sony-japan-entertainment-electronics-games-bf50d6b6265248f4cfbb2a9737b7ab07</link>
-<pubDate>Thu, 05 Feb 2026 10:35:58 -0000</pubDate>
+<title><![CDATA[Washington Post cuts a third of its staff in a blow to a legendary news brand]]></title>
+<link>https://apnews.com/article/washington-post-staff-reduction-layoffs-cuts-923f87d4bd319c8a64b278165d0a6e27</link>
+<pubDate>Sat, 07 Feb 2026 07:33:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Musk vows to put data centers in space and run them on solar power but experts have their doubts]]></title>
-<link>https://apnews.com/article/elon-musk-orbital-ai-data-centers-xai-spacex-92bc8ad95593bf3b5b801ddf36427194</link>
-<pubDate>Thu, 05 Feb 2026 10:20:58 -0000</pubDate>
+<title><![CDATA[Hims & Hers launches Wegovy knockoff pill, Novo Nordisk vows to sue]]></title>
+<link>https://apnews.com/article/wegovy-weight-loss-fda-hims-novo-nordisk-pill-d35e529de153c2df263ac10501584999</link>
+<pubDate>Sat, 07 Feb 2026 07:18:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Google’s quarterly results paint a picture of an internet powerhouse getting stronger in AI age]]></title>
-<link>https://apnews.com/article/google-alphabet-fourth-quarter-results-73922dd5d0c2398e1d4f23ddfccd0277</link>
-<pubDate>Thu, 05 Feb 2026 10:05:58 -0000</pubDate>
+<title><![CDATA[Japan’s top automaker Toyota names a new CEO after reporting drop in profits]]></title>
+<link>https://apnews.com/article/toyota-automaker-japan-tariffs-earnings-kon-sato-c46c1afb10990bbe2695bb5addc7566d</link>
+<pubDate>Sat, 07 Feb 2026 07:03:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +461,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[E-bike riders demand more flexible battery networks]]></title>
-<link>https://apnews.com/article/kenya-uganda-rwanda-ebikes-motorcycles-battery-964b13f58358201a2b51818c9af2dd6c</link>
-<pubDate>Sat, 07 Feb 2026 06:28:58 -0000</pubDate>
+<title><![CDATA[In a Nigerian village, extremists issued a call to prayer and then slaughtered those who turned up]]></title>
+<link>https://apnews.com/article/nigeria-extremists-attack-kwara-1cfe0914f838e9387bcf06be4df0b2f5</link>
+<pubDate>Fri, 06 Feb 2026 14:45:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sheriff searching for Savannah Guthrie’s missing mom calls lack of video a disappointing setback]]></title>
-<link>https://apnews.com/article/savannah-guthrie-nancy-guthrie-mom-missing-b08641c7ba3f5258916eeeb1ecd7435a</link>
-<pubDate>Fri, 06 Feb 2026 20:06:44 -0000</pubDate>
+<title><![CDATA[Savannah Guthrie’s mother may have been kidnapped. How does law enforcement handle negotiations?]]></title>
+<link>https://apnews.com/article/nancy-guthrie-kidnapper-negotiations-hostages-d40a08cab642016c5ea5565cd1f935dc</link>
+<pubDate>Sat, 07 Feb 2026 06:48:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
