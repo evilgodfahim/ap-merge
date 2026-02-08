@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 09:50:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 10:15:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump turns to US military leaders for diplomatic efforts on Iran and Ukraine]]></title>
+<link>https://apnews.com/article/military-diplomacy-trump-iran-ukraine-russia-09decddeb6264a4dd83cc3535553b2f2</link>
+<pubDate>Sun, 08 Feb 2026 10:15:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syria and Saudi Arabia sign multibillion-dollar investment deals to boost economy]]></title>
 <link>https://apnews.com/article/syria-saudi-arabia-investments-telecommunications-2d135302860c4338d6a10e2862b7ea83</link>
 <pubDate>Sun, 08 Feb 2026 01:26:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN peacekeepers in Lebanon say Israeli forces are increasingly harassing them]]></title>
-<link>https://apnews.com/article/israel-lebanon-violence-un-peacekeepers-afbcbb32a24c61387d0e6cc40ded5e9c</link>
-<pubDate>Sat, 07 Feb 2026 19:20:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Epstein revelations have toppled top figures in Europe while US fallout is more muted]]></title>
-<link>https://apnews.com/article/jeffrey-epstein-fallout-europe-us-mandelson-409c14e095a2e29bbea6398437411a8d</link>
-<pubDate>Sat, 07 Feb 2026 11:26:36 -0000</pubDate>
+<title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud probe]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
+<pubDate>Sun, 08 Feb 2026 10:00:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italian police fire tear gas as protesters clash near Winter Olympics hockey venue]]></title>
-<link>https://apnews.com/article/winter-olympics-protest-milan-ice-demonstration-fb4df93ea831f8ddb67550ee9dfe7438</link>
-<pubDate>Sat, 07 Feb 2026 19:05:12 -0000</pubDate>
+<title><![CDATA[Ukraine businesses struggle to cope as Russian attacks bring power cuts and uncertainty]]></title>
+<link>https://apnews.com/article/ukraine-russia-small-businesses-power-outages-fdfb152a0a4b1f324926191873733514</link>
+<pubDate>Sun, 08 Feb 2026 09:45:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s Takaichi is poised to expand her power in elections]]></title>
+<link>https://apnews.com/article/japan-election-takaichi-1df9580c5a018b28965cbed99565b4b7</link>
+<pubDate>Sun, 08 Feb 2026 09:30:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand votes in early election with 3 main parties vying for power]]></title>
+<title><![CDATA[Thailand counts votes in early election with 3 main parties vying for power]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
-<pubDate>Sun, 08 Feb 2026 07:31:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Thailand’s election as economic growth slows and nationalism rises]]></title>
-<link>https://apnews.com/article/thailand-2026-election-explainer-e6ac40ec705fbf836262f1ea45570dd1</link>
-<pubDate>Fri, 06 Feb 2026 03:41:51 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 09:15:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Gaza ceasefire began months ago. Here’s why the fighting persists]]></title>
-<link>https://apnews.com/article/israel-hamas-war-ceasefire-explainer-4c39a62c2ab250a7e365c8edcbadcfd3</link>
-<pubDate>Fri, 06 Feb 2026 12:33:29 -0000</pubDate>
+<title><![CDATA[Iran and US hold indirect talks in Oman. America’s military leader in the Mideast joins the talks]]></title>
+<link>https://apnews.com/article/iran-us-protests-nuclear-negotiations-oman-muscat-32d621b98f7a3a68831f885d262bb70e</link>
+<pubDate>Sat, 07 Feb 2026 16:54:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,6 +173,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nigeria’s president to make a state visit to the UK in March]]></title>
+<link>https://apnews.com/article/uk-nigeria-state-visit-2211962b0732bc375d1888b43cbc7bc9</link>
+<pubDate>Sun, 08 Feb 2026 10:15:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lindsey Vonn’s remarkable return reaches Olympic downhill, where she will seek gold on injured knee]]></title>
+<link>https://apnews.com/article/lindsey-vonn-milan-cortina-olympics-90b10c0a145053f3bbfb573c4024653a</link>
+<pubDate>Sun, 08 Feb 2026 10:00:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kim expected to issue major policy goals at North Korea party congress in late February]]></title>
 <link>https://apnews.com/article/north-korea-workers-party-congress-kim-nuclear-a411f6429dcbfc720257b5023f3b78d1</link>
 <pubDate>Sun, 08 Feb 2026 07:31:54 -0000</pubDate>
@@ -194,6 +206,12 @@
 <title><![CDATA[Israeli bobsled pilot says team apartment was robbed ahead of Milan Cortina Winter Games]]></title>
 <link>https://apnews.com/article/israel-bobsled-apartment-robbed-2fa991170eae9d482581586668d6562b</link>
 <pubDate>Sat, 07 Feb 2026 19:20:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Italian police fire tear gas as protesters clash near Winter Olympics hockey venue]]></title>
+<link>https://apnews.com/article/winter-olympics-protest-milan-ice-demonstration-fb4df93ea831f8ddb67550ee9dfe7438</link>
+<pubDate>Sun, 08 Feb 2026 09:45:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Epstein revelations have toppled top figures in Europe while US fallout is more muted]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-fallout-europe-us-mandelson-409c14e095a2e29bbea6398437411a8d</link>
+<pubDate>Sun, 08 Feb 2026 09:30:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan arrests 4 suspects in mosque bombing that killed 31 in the capital]]></title>
 <link>https://apnews.com/article/pakistan-shiite-mosque-islamabad-islamic-state-claim-8d5749cddcb65228bfd3d38e799f8acd</link>
 <pubDate>Sun, 08 Feb 2026 01:26:36 -0000</pubDate>
@@ -323,45 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 76-year-old British man sentenced to nearly 24 years for drugging and abusing boys at summer camp]]></title>
-<link>https://apnews.com/article/britain-child-abuse-summer-camp-c97752c543b4823b75947b31e137ac00</link>
-<pubDate>Fri, 06 Feb 2026 19:10:58 -0000</pubDate>
+<title><![CDATA[UN peacekeepers in Lebanon say Israeli forces are increasingly harassing them]]></title>
+<link>https://apnews.com/article/israel-lebanon-violence-un-peacekeepers-afbcbb32a24c61387d0e6cc40ded5e9c</link>
+<pubDate>Sun, 08 Feb 2026 09:15:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Most victims in migrant boat collision in Greece had severe head injuries, diver says]]></title>
-<link>https://apnews.com/article/greece-migrant-boat-collision-coast-guard-f50afaf19dab6e19b872281407bbe897</link>
-<pubDate>Fri, 06 Feb 2026 18:55:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Avalanche in the highest Slovak mountain range kills 2 Hungarian climbers]]></title>
-<link>https://apnews.com/article/slovakia-avalanche-hungarian-climbers-killed-0b4c854067a6537f65f15b465c0d0ce9</link>
-<pubDate>Fri, 06 Feb 2026 19:51:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of the Basant kite-flying festival in Pakistan after a 20-year ban]]></title>
-<link>https://apnews.com/photo-gallery/kite-basant-festival-pakistan-fa6846dd804caeb58ab4072f9521faec</link>
-<pubDate>Fri, 06 Feb 2026 18:25:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Seed guardians of the Amazon: A family’s solitary fight to save endangered plants]]></title>
-<link>https://apnews.com/article/ecuador-amazon-indigenous-seeds-64cf35f6ec625c73453cde39258fd585</link>
-<pubDate>Fri, 06 Feb 2026 19:36:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine businesses struggle to cope as Russian attacks bring power cuts and uncertainty]]></title>
-<link>https://apnews.com/article/ukraine-russia-small-businesses-power-outages-fdfb152a0a4b1f324926191873733514</link>
-<pubDate>Sun, 08 Feb 2026 05:43:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Greenland crisis boosted Danish apps designed to identify and help boycott US goods]]></title>
+<title><![CDATA[Greenland crisis boosted apps designed to identify and help boycott US goods]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-boycott-apps-93071df9a5b8aec8116c37730d175a46</link>
-<pubDate>Sun, 08 Feb 2026 07:31:55 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 10:15:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US gave Ukraine and Russia a June deadline to reach agreement to end war, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-june-deadline-98da4e17de8ab377363ae9c3ff308001</link>
-<pubDate>Sat, 07 Feb 2026 11:41:37 -0000</pubDate>
+<title><![CDATA[Suspect in shooting of senior Russian general has been detained, Russia says]]></title>
+<link>https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-d977cce31a39d4a0026a85510fdaee0b</link>
+<pubDate>Sun, 08 Feb 2026 10:00:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese Prime Minister Sanae Takaichi hopes for big win in national elections]]></title>
-<link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
-<pubDate>Sun, 08 Feb 2026 07:16:55 -0000</pubDate>
+<title><![CDATA[US gave Ukraine and Russia a June deadline to reach agreement to end war, Zelenskyy says]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-june-deadline-98da4e17de8ab377363ae9c3ff308001</link>
+<pubDate>Sat, 07 Feb 2026 11:41:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,6 +386,12 @@
 <title><![CDATA[Police in Jerusalem drag away Jewish ultra-Orthodox men protesting against military enlistment]]></title>
 <link>https://apnews.com/video/police-in-jerusalem-drag-away-jewish-ultra-orthodox-men-protesting-against-military-enlistment-9319388cb19542d4be3300e497ad9ab2</link>
 <pubDate>Sat, 07 Feb 2026 00:34:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Palestinians attempt to cross between Gaza and Egypt at the Rafah border crossing]]></title>
+<link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
+<pubDate>Sun, 08 Feb 2026 09:45:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,12 +410,6 @@
 <title><![CDATA[Yemen’s ruling council names new cabinet after deadly clashes in the south]]></title>
 <link>https://apnews.com/article/yemen-war-new-cabinet-af7b34220d94bb8a8ad41a53be24251e</link>
 <pubDate>Sat, 07 Feb 2026 11:11:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump turns to US military leaders for diplomatic efforts on Iran and Ukraine]]></title>
-<link>https://apnews.com/article/military-diplomacy-trump-iran-ukraine-russia-09decddeb6264a4dd83cc3535553b2f2</link>
-<pubDate>Sat, 07 Feb 2026 14:19:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Takaichi is poised to expand her power in elections]]></title>
-<link>https://apnews.com/article/japan-election-takaichi-1df9580c5a018b28965cbed99565b4b7</link>
-<pubDate>Sun, 08 Feb 2026 04:13:45 -0000</pubDate>
+<title><![CDATA[Japanese Prime Minister Sanae Takaichi hopes for big win in national elections]]></title>
+<link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
+<pubDate>Sun, 08 Feb 2026 07:16:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Haiti’s presidential council dissolves after rocky tenure as unelected US-backed ruler remains]]></title>
 <link>https://apnews.com/article/haiti-presidential-council-steps-down-us-prime-minister-ab6bc808fc31833038638a76a667d7ed</link>
 <pubDate>Sat, 07 Feb 2026 16:39:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran and US hold indirect talks in Oman. America’s military leader in the Mideast joins the talks]]></title>
-<link>https://apnews.com/article/iran-us-protests-nuclear-negotiations-oman-muscat-32d621b98f7a3a68831f885d262bb70e</link>
-<pubDate>Fri, 06 Feb 2026 15:00:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
