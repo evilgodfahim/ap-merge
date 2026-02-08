@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 18:59:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 19:26:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack by paramilitary group in Sudan kills 24, including 8 children, doctors’ group says]]></title>
 <link>https://apnews.com/article/sudan-attack-war-rfs-military-displaced-21c24cd642120884e3fc00b05c02f97e</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Takaichi is poised to expand her power in elections]]></title>
-<link>https://apnews.com/article/japan-election-takaichi-1df9580c5a018b28965cbed99565b4b7</link>
-<pubDate>Sun, 08 Feb 2026 09:30:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thailand’s conservative Bhumjaithai party tops polls but may need partners to form government]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
 <pubDate>Sun, 08 Feb 2026 18:20:55 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[What to know about Thailand’s election as economic growth slows and nationalism rises]]></title>
 <link>https://apnews.com/article/thailand-2026-election-explainer-e6ac40ec705fbf836262f1ea45570dd1</link>
 <pubDate>Fri, 06 Feb 2026 03:41:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kim expected to issue major policy goals at North Korea party congress in late February]]></title>
+<link>https://apnews.com/article/north-korea-workers-party-congress-kim-nuclear-a411f6429dcbfc720257b5023f3b78d1</link>
+<pubDate>Sun, 08 Feb 2026 01:11:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,12 +173,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison]]></title>
-<link>https://apnews.com/article/venezuela-rodriguez-us-maduro-political-prisoners-guanipa-a2a4dfc7ae34c543e648796ade80913d</link>
-<pubDate>Sun, 08 Feb 2026 18:05:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Olympic photo highlights from Day 2 of the Milan Cortina Winter Games]]></title>
 <link>https://apnews.com/photo-gallery/milan-olympics-photos-gallery-4aa179fde105f1c8bd2827d4dc731690</link>
 <pubDate>Sun, 08 Feb 2026 16:54:04 -0000</pubDate>
@@ -203,15 +197,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lindsey Vonn clips gate and crashes in Winter Olympic downhill, taken away by helicopter]]></title>
+<title><![CDATA[Lindsey Vonn breaks leg in downhill crash at Winter Olympics, in stable condition after surgery]]></title>
 <link>https://apnews.com/article/lindsey-vonn-milan-cortina-olympics-90b10c0a145053f3bbfb573c4024653a</link>
-<pubDate>Sun, 08 Feb 2026 15:31:41 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 19:26:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kim expected to issue major policy goals at North Korea party congress in late February]]></title>
-<link>https://apnews.com/article/north-korea-workers-party-congress-kim-nuclear-a411f6429dcbfc720257b5023f3b78d1</link>
-<pubDate>Sun, 08 Feb 2026 07:31:54 -0000</pubDate>
+<title><![CDATA[Apps to boycott US goods gained traction in crisis over Greenland]]></title>
+<link>https://apnews.com/article/denmark-greenland-trump-boycott-apps-93071df9a5b8aec8116c37730d175a46</link>
+<pubDate>Sun, 08 Feb 2026 19:11:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +341,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cheers for Team USA turn to jeers for Vance at Milan Cortina opening ceremony]]></title>
+<link>https://apnews.com/article/vance-booed-opening-ceremony-milan-cortina-cda982415bf683d709455c9d086077a8</link>
+<pubDate>Sat, 07 Feb 2026 00:49:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japanese prime minister’s party secures supermajority in lower house in landslide victory]]></title>
+<link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
+<pubDate>Sun, 08 Feb 2026 17:50:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison]]></title>
+<link>https://apnews.com/article/venezuela-rodriguez-us-maduro-political-prisoners-guanipa-a2a4dfc7ae34c543e648796ade80913d</link>
+<pubDate>Sun, 08 Feb 2026 19:26:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gaza’s Rafah crossing opens after 2-day closure as Palestinians claim delays and mistreatment]]></title>
 <link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
 <pubDate>Sun, 08 Feb 2026 15:46:41 -0000</pubDate>
@@ -362,18 +374,6 @@
 <title><![CDATA[Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison]]></title>
 <link>https://apnews.com/article/iran-us-nuclear-talks-protests-araghchi-389531836ccaa4c126b5ee06c1d5b1f8</link>
 <pubDate>Sun, 08 Feb 2026 16:54:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine businesses struggle to cope as Russian attacks bring power cuts and uncertainty]]></title>
-<link>https://apnews.com/article/ukraine-russia-small-businesses-power-outages-fdfb152a0a4b1f324926191873733514</link>
-<pubDate>Sun, 08 Feb 2026 05:43:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Apps to boycott US goods gained traction in crisis over Greenland]]></title>
-<link>https://apnews.com/article/denmark-greenland-trump-boycott-apps-93071df9a5b8aec8116c37730d175a46</link>
-<pubDate>Sun, 08 Feb 2026 11:27:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese prime minister’s party secures supermajority in lower house in landslide victory]]></title>
-<link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
-<pubDate>Sun, 08 Feb 2026 17:50:57 -0000</pubDate>
+<title><![CDATA[Japan’s Takaichi is poised to expand her power in elections]]></title>
+<link>https://apnews.com/article/japan-election-takaichi-1df9580c5a018b28965cbed99565b4b7</link>
+<pubDate>Sun, 08 Feb 2026 04:13:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
