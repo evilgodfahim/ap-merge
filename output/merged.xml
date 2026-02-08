@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 17:49:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 18:20:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Drone attack by paramilitary group in Sudan kills 24, including 8 children, doctors’ group says]]></title>
 <link>https://apnews.com/article/sudan-attack-war-rfs-military-displaced-21c24cd642120884e3fc00b05c02f97e</link>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand counts votes in early election with 3 main parties vying for power]]></title>
+<title><![CDATA[Thailand’s conservative Bhumjaithai party tops polls but may need partners to form government]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
-<pubDate>Sun, 08 Feb 2026 09:15:35 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 18:20:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Pakistan Super League signs Bangladesh’s Mustafizur after IPL controversy]]></title>
 <link>https://apnews.com/article/pakistan-mustafizur-lahore-ipl-kolkata-897c80ac027593ebc15198b84b78328a</link>
 <pubDate>Thu, 05 Feb 2026 17:08:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Olympic art project in a Milan park invites the public to ‘reflect’ on the Games’ spirit]]></title>
+<link>https://apnews.com/article/milan-cortina-olympics-bam-park-installation-art-7d651b0eac41204f57a5f3d8bd023455</link>
+<pubDate>Sun, 08 Feb 2026 18:20:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison]]></title>
+<link>https://apnews.com/article/venezuela-rodriguez-us-maduro-political-prisoners-guanipa-a2a4dfc7ae34c543e648796ade80913d</link>
+<pubDate>Sun, 08 Feb 2026 18:05:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cheers for Team USA turn to jeers for Vance at Milan Cortina opening ceremony]]></title>
-<link>https://apnews.com/article/vance-booed-opening-ceremony-milan-cortina-cda982415bf683d709455c9d086077a8</link>
-<pubDate>Sat, 07 Feb 2026 00:49:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prosecutors drop most serious assault charge against Penn State hockey star McKenna]]></title>
-<link>https://apnews.com/article/gavin-mckenna-assault-charge-college-hockey-ae8d556f572c2573b22b09b31c38caa3</link>
-<pubDate>Sat, 07 Feb 2026 00:34:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gaza’s Rafah crossing opens after 2-day closure as Palestinians claim delays and mistreatment]]></title>
 <link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
 <pubDate>Sun, 08 Feb 2026 15:46:41 -0000</pubDate>
@@ -377,15 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bondi says ‘key participant’ in US custody for 2012 Benghazi attack that killed 4 Americans]]></title>
-<link>https://apnews.com/video/bondi-says-key-participant-in-us-custody-for-2012-benghazi-attack-that-killed-4-americans-90cda87dd7f34152b1f7c0bd1521db0d</link>
-<pubDate>Sat, 07 Feb 2026 00:49:09 -0000</pubDate>
+<title><![CDATA[Storm Leonardo batters the Iberian Peninsula, bringing floods and evacuations]]></title>
+<link>https://apnews.com/video/storm-leonardo-batters-the-iberian-peninsula-bringing-floods-and-evacuations-0a682330f9d54b1181bb5b9d273039ac</link>
+<pubDate>Sun, 08 Feb 2026 18:20:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police in Jerusalem drag away Jewish ultra-Orthodox men protesting against military enlistment]]></title>
-<link>https://apnews.com/video/police-in-jerusalem-drag-away-jewish-ultra-orthodox-men-protesting-against-military-enlistment-9319388cb19542d4be3300e497ad9ab2</link>
-<pubDate>Sat, 07 Feb 2026 00:34:09 -0000</pubDate>
+<title><![CDATA[Dramatic footage of Israeli army striking building in Gaza City]]></title>
+<link>https://apnews.com/video/dramatic-footage-of-israeli-army-striking-building-in-gaza-city-bb239e53fc3c465886c7c9d4a34ddc17</link>
+<pubDate>Sun, 08 Feb 2026 18:05:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japanese prime minister’s party secures majority in lower house, media reports say]]></title>
+<title><![CDATA[Japanese prime minister’s party secures supermajority in lower house in landslide victory]]></title>
 <link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
-<pubDate>Sun, 08 Feb 2026 16:24:05 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 17:50:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
