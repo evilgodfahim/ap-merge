@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 15:16:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 15:46:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Yemen’s ruling council names new cabinet after deadly clashes in the south]]></title>
+<link>https://apnews.com/article/yemen-war-new-cabinet-af7b34220d94bb8a8ad41a53be24251e</link>
+<pubDate>Sun, 08 Feb 2026 15:46:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump turns to US military leaders for diplomatic efforts on Iran and Ukraine]]></title>
 <link>https://apnews.com/article/military-diplomacy-trump-iran-ukraine-russia-09decddeb6264a4dd83cc3535553b2f2</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria and Saudi Arabia sign multibillion-dollar investment deals to boost economy]]></title>
-<link>https://apnews.com/article/syria-saudi-arabia-investments-telecommunications-2d135302860c4338d6a10e2862b7ea83</link>
-<pubDate>Sun, 08 Feb 2026 01:26:36 -0000</pubDate>
+<title><![CDATA[Suspect in shooting of senior Russian general has been detained, Russia says]]></title>
+<link>https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-d977cce31a39d4a0026a85510fdaee0b</link>
+<pubDate>Sun, 08 Feb 2026 15:31:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Portugal chooses between a moderate and a populist in runoff presidential election]]></title>
 <link>https://apnews.com/article/portugal-presidential-election-populist-moderate-5a63b7df570c98f53a9ad29b402bae7c</link>
 <pubDate>Sun, 08 Feb 2026 05:43:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud probe]]></title>
-<link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
-<pubDate>Sun, 08 Feb 2026 10:00:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FBI concluded Jeffrey Epstein wasn’t running a sex trafficking ring for powerful men, files show]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-client-list-sex-trafficking-049c96080a2ca2c12c84ac506437e50b</link>
+<pubDate>Sun, 08 Feb 2026 15:16:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from what the Epstein files show about the FBI investigation of possible sex trafficking]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-fbi-investigation-sex-trafficking-8197504cb0abfa979ea6c9c53cde4c23</link>
+<pubDate>Sun, 08 Feb 2026 15:01:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘We will pay,’ Savannah Guthrie says in desperate video plea to potential kidnappers of her mother]]></title>
 <link>https://apnews.com/article/savannah-guthrie-mom-missing-92dff046a91f2c5c0093f17cd3b7ad42</link>
 <pubDate>Sun, 08 Feb 2026 07:16:54 -0000</pubDate>
@@ -104,18 +116,6 @@
 <title><![CDATA[Savannah Guthrie’s mother may have been kidnapped. How does law enforcement handle negotiations?]]></title>
 <link>https://apnews.com/article/nancy-guthrie-kidnapper-negotiations-hostages-d40a08cab642016c5ea5565cd1f935dc</link>
 <pubDate>Sun, 08 Feb 2026 00:56:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sheriff searching for Savannah Guthrie’s missing mom calls lack of video a disappointing setback]]></title>
-<link>https://apnews.com/article/savannah-guthrie-nancy-guthrie-mom-missing-b08641c7ba3f5258916eeeb1ecd7435a</link>
-<pubDate>Sat, 07 Feb 2026 07:48:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Reporting on itself: ‘Today’ keeps it low-key in covering search for Savannah Guthrie’s mother]]></title>
-<link>https://apnews.com/article/today-savannah-guthrie-mother-missing-2c0512333cfaa6cdb01a82d1992160b2</link>
-<pubDate>Sat, 07 Feb 2026 13:01:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,9 +179,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lindsey Vonn crashes in Olympic downhill, taken away by helicopter as US teammate Johnson wins gold]]></title>
+<title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud probe]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
+<pubDate>Sun, 08 Feb 2026 15:46:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lindsey Vonn clips gate and crashes in Winter Olympic downhill, taken away by helicopter]]></title>
 <link>https://apnews.com/article/lindsey-vonn-milan-cortina-olympics-90b10c0a145053f3bbfb573c4024653a</link>
-<pubDate>Sun, 08 Feb 2026 13:23:57 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 15:31:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,6 +248,12 @@
 <title><![CDATA[Gunmen in northern Nigeria kill 3 villagers and kidnap 11, including a Catholic priest]]></title>
 <link>https://apnews.com/article/nigeria-kaduna-catholic-priest-attack-2c4459cfad4adc5b29985e0550925321</link>
 <pubDate>Sat, 07 Feb 2026 16:54:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syria and Saudi Arabia sign multibillion-dollar investment deals to boost economy]]></title>
+<link>https://apnews.com/article/syria-saudi-arabia-investments-telecommunications-2d135302860c4338d6a10e2862b7ea83</link>
+<pubDate>Sun, 08 Feb 2026 15:16:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos from the Milan Cortina Olympics opening ceremony]]></title>
-<link>https://apnews.com/photo-gallery/milan-cortina-photos-opening-ceremony-e39067fe0a72cedccee3db76d8eae842</link>
-<pubDate>Fri, 06 Feb 2026 20:21:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Skiing’s regulatory body rejects ‘wild rumor’ ski jumpers are enhancing anatomy to gain distance]]></title>
-<link>https://apnews.com/article/winter-olympics-penis-injections-ski-jumping-96edd87f2ec60043ca1d57cccc6a3d18</link>
-<pubDate>Fri, 06 Feb 2026 20:06:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza’s Rafah crossing reopens, allowing limited travel as Palestinians claim delays and mistreatment]]></title>
+<title><![CDATA[Gaza’s Rafah crossing opens after 2-day closure as Palestinians claim delays and mistreatment]]></title>
 <link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
-<pubDate>Sun, 08 Feb 2026 13:23:58 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 15:46:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK leader’s chief of staff quits over appointment of Mandelson as ambassador despite Epstein ties]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-britain-keir-starmer-mandelson-c1e5c7654cc9bd48126b9ba3ea6996ef</link>
+<pubDate>Sun, 08 Feb 2026 15:31:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suspect in shooting of senior Russian general has been detained, Russia says]]></title>
-<link>https://apnews.com/article/russia-military-intelligence-officer-shot-moscow-d977cce31a39d4a0026a85510fdaee0b</link>
-<pubDate>Sun, 08 Feb 2026 10:00:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bondi says ‘key participant’ in US custody for 2012 Benghazi attack that killed 4 Americans]]></title>
 <link>https://apnews.com/video/bondi-says-key-participant-in-us-custody-for-2012-benghazi-attack-that-killed-4-americans-90cda87dd7f34152b1f7c0bd1521db0d</link>
 <pubDate>Sat, 07 Feb 2026 00:49:09 -0000</pubDate>
@@ -386,6 +386,12 @@
 <title><![CDATA[Police in Jerusalem drag away Jewish ultra-Orthodox men protesting against military enlistment]]></title>
 <link>https://apnews.com/video/police-in-jerusalem-drag-away-jewish-ultra-orthodox-men-protesting-against-military-enlistment-9319388cb19542d4be3300e497ad9ab2</link>
 <pubDate>Sat, 07 Feb 2026 00:34:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Baghdad traders protest new customs tariffs as Iraq wrestles with shrinking oil revenues]]></title>
+<link>https://apnews.com/article/iraq-protest-customs-tariffs-oil-debt-a9a836969d13f3658019bce38bbccb07</link>
+<pubDate>Sun, 08 Feb 2026 15:16:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +410,6 @@
 <title><![CDATA[Drone attack by paramilitary group in Sudan kills 24, including 8 children, doctors’ group says]]></title>
 <link>https://apnews.com/article/sudan-attack-war-rfs-military-displaced-21c24cd642120884e3fc00b05c02f97e</link>
 <pubDate>Sat, 07 Feb 2026 08:37:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen’s ruling council names new cabinet after deadly clashes in the south]]></title>
-<link>https://apnews.com/article/yemen-war-new-cabinet-af7b34220d94bb8a8ad41a53be24251e</link>
-<pubDate>Sat, 07 Feb 2026 11:11:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +452,6 @@
 <title><![CDATA[Haiti’s presidential council dissolves after rocky tenure as unelected US-backed ruler remains]]></title>
 <link>https://apnews.com/article/haiti-presidential-council-steps-down-us-prime-minister-ab6bc808fc31833038638a76a667d7ed</link>
 <pubDate>Sat, 07 Feb 2026 16:39:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN peacekeepers in Lebanon say Israeli forces are increasingly harassing them]]></title>
-<link>https://apnews.com/article/israel-lebanon-violence-un-peacekeepers-afbcbb32a24c61387d0e6cc40ded5e9c</link>
-<pubDate>Sat, 07 Feb 2026 10:56:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
