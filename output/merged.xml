@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 21:47:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 22:15:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[She filmed Iran’s violent crackdown on protesters. Now she is afraid to go outside]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-c680be58d32307dce77d65468ac80986</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Exit polls suggest a moderate comfortably beat a populist in Portugal’s runoff presidential election]]></title>
+<title><![CDATA[Moderate candidate scores an emphatic win over a populist in Portugal’s presidential runoff]]></title>
 <link>https://apnews.com/article/portugal-presidential-election-populist-moderate-5a63b7df570c98f53a9ad29b402bae7c</link>
-<pubDate>Sun, 08 Feb 2026 20:33:41 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 22:15:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nicaraguan government blocks key pathway used by Cuban migrants to reach United States]]></title>
+<link>https://apnews.com/article/cuba-nicaragua-migrants-trump-us-d9bd0c5a56ff4bbb1bf4ba40468992be</link>
+<pubDate>Sun, 08 Feb 2026 22:00:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Spiritual ties of ousted Venezuelan President Maduro and successor include guru Sathya Sai Baba]]></title>
 <link>https://apnews.com/article/venezuela-maduro-rodriguez-india-guru-81d269056bb6f50b2c66173de1c65a6e</link>
 <pubDate>Sat, 07 Feb 2026 16:39:04 -0000</pubDate>
@@ -65,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A man tied to the killing of Colombian soccer player Andrés Escobar shot dead in Mexico]]></title>
-<link>https://apnews.com/article/mexico-colombia-soccer-escobar-petro-159fb3dfcc31d5ebe7000f46e14a4697</link>
-<pubDate>Sat, 07 Feb 2026 13:16:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Storm Marta kills at least 4 in Morocco as the country battles floods]]></title>
 <link>https://apnews.com/article/morocco-floods-deaths-dams-8ec830430071217295723f08f6f42efa</link>
 <pubDate>Sun, 08 Feb 2026 20:03:41 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[In a Nigerian village, extremists issued a call to prayer and then slaughtered those who turned up]]></title>
 <link>https://apnews.com/article/nigeria-extremists-attack-kwara-1cfe0914f838e9387bcf06be4df0b2f5</link>
 <pubDate>Sat, 07 Feb 2026 05:00:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Facing high Trump tariffs, Africa’s leading economy says it’s close to a new trade deal with China]]></title>
-<link>https://apnews.com/article/china-south-africa-trade-tariffs-trump-26d2b3798716a5c0d7661ad714843382</link>
-<pubDate>Fri, 06 Feb 2026 13:08:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,9 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison]]></title>
+<title><![CDATA[Venezuela frees several opposition members after lengthy politically motivated detentions]]></title>
 <link>https://apnews.com/article/venezuela-rodriguez-us-maduro-political-prisoners-guanipa-a2a4dfc7ae34c543e648796ade80913d</link>
-<pubDate>Sun, 08 Feb 2026 19:26:15 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 22:15:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel’s security cabinet approves measures to strengthen control over the West Bank]]></title>
+<link>https://apnews.com/article/west-bank-israel-settlement-palestinians-cabinet-328429d96099bc33275035b85244797a</link>
+<pubDate>Sun, 08 Feb 2026 22:00:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK leader’s chief of staff quits over appointment of Mandelson as ambassador despite Epstein ties]]></title>
-<link>https://apnews.com/article/jeffrey-epstein-britain-keir-starmer-mandelson-c1e5c7654cc9bd48126b9ba3ea6996ef</link>
-<pubDate>Sun, 08 Feb 2026 15:31:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-talks-protests-araghchi-389531836ccaa4c126b5ee06c1d5b1f8</link>
-<pubDate>Sun, 08 Feb 2026 16:54:05 -0000</pubDate>
+<title><![CDATA[Hong Kong media mogul Jimmy Lai faces sentencing in landmark national security case]]></title>
+<link>https://apnews.com/article/hong-kong-jimmy-lai-sentencing-apple-daily-1c3baaedf2abe7710f149c55ce4111d9</link>
+<pubDate>Sun, 08 Feb 2026 21:45:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rescue teams search for survivors in building collapse that killed at least 2 in northern Lebanon]]></title>
+<title><![CDATA[Rescue teams search for survivors in building collapse that killed at least 9 in northern Lebanon]]></title>
 <link>https://apnews.com/article/lebanon-building-collapse-tripoli-35eaa951cb6eab057fbd71f31678f9d3</link>
-<pubDate>Sun, 08 Feb 2026 20:48:42 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 21:30:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[Japan’s top automaker Toyota names a new CEO after reporting drop in profits]]></title>
 <link>https://apnews.com/article/toyota-automaker-japan-tariffs-earnings-kon-sato-c46c1afb10990bbe2695bb5addc7566d</link>
 <pubDate>Sat, 07 Feb 2026 07:03:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK leader’s chief of staff quits over appointment of Mandelson as ambassador despite Epstein ties]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-britain-keir-starmer-mandelson-c1e5c7654cc9bd48126b9ba3ea6996ef</link>
+<pubDate>Sun, 08 Feb 2026 15:31:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
