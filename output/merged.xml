@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 12:25:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 13:23:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump turns to US military leaders for diplomatic efforts on Iran and Ukraine]]></title>
 <link>https://apnews.com/article/military-diplomacy-trump-iran-ukraine-russia-09decddeb6264a4dd83cc3535553b2f2</link>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s first female prime minister counts on her popularity to help her party win Sunday’s election]]></title>
-<link>https://apnews.com/article/japan-election-takaichi-politics-us-trump-ee3a2ce797d541e0d0b380d6cad5c35c</link>
-<pubDate>Sat, 07 Feb 2026 00:34:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Thailand counts votes in early election with 3 main parties vying for power]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
 <pubDate>Sun, 08 Feb 2026 09:15:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Thailand’s election as economic growth slows and nationalism rises]]></title>
+<link>https://apnews.com/article/thailand-2026-election-explainer-e6ac40ec705fbf836262f1ea45570dd1</link>
+<pubDate>Fri, 06 Feb 2026 03:41:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,6 +113,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kremlin says Russia and US agree that quick nuclear arms are talks needed]]></title>
+<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-d0e1b653c8a8d56a959d815edfb48cf5</link>
+<pubDate>Fri, 06 Feb 2026 18:55:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Panama will not be threatened by China over canal court ruling, leader says]]></title>
 <link>https://apnews.com/article/panama-canal-hong-kong-china-united-states-fcb61b581e95064c110db5acd1c6bb07</link>
 <pubDate>Thu, 05 Feb 2026 15:48:40 -0000</pubDate>
@@ -128,12 +134,6 @@
 <title><![CDATA[Taiwan-US ties are ‘rock solid,’ the island’s president says after Trump-Xi call]]></title>
 <link>https://apnews.com/article/taiwan-president-lai-china-arms-sales-us-2d980ade9a1a299682d9ba62470d0369</link>
 <pubDate>Thu, 05 Feb 2026 05:11:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump and Xi discuss Iran in wide-ranging call as US presses China and others to break from Tehran]]></title>
-<link>https://apnews.com/article/us-china-trump-xi-iran-call-441425004d3d695df87f3f7c0b62492e</link>
-<pubDate>Thu, 05 Feb 2026 11:35:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lindsey Vonn crashes early in Olympic downhill, taken off the mountain in a helicopter]]></title>
+<title><![CDATA[Lindsey Vonn crashes in Olympic downhill, taken away by helicopter as US teammate Johnson wins gold]]></title>
 <link>https://apnews.com/article/lindsey-vonn-milan-cortina-olympics-90b10c0a145053f3bbfb573c4024653a</link>
-<pubDate>Sun, 08 Feb 2026 11:27:46 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 13:23:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinians attempt to cross between Gaza and Egypt at the Rafah border crossing]]></title>
+<title><![CDATA[Gaza’s Rafah crossing reopens, allowing limited travel as Palestinians claim delays and mistreatment]]></title>
 <link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
-<pubDate>Sun, 08 Feb 2026 09:45:37 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 13:23:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Exit poll shows Japan Premier Takaichi’s ruling bloc on path to win a majority in lower house vote]]></title>
+<title><![CDATA[Takaichi’s coalition on path to winning a majority in Japan’s lower house vote, exit polls say]]></title>
 <link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
-<pubDate>Sun, 08 Feb 2026 11:12:46 -0000</pubDate>
+<pubDate>Sun, 08 Feb 2026 13:08:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kremlin says Russia and US agree that quick nuclear arms are talks needed]]></title>
-<link>https://apnews.com/article/russia-us-putin-trump-nuclear-weapons-treaty-d0e1b653c8a8d56a959d815edfb48cf5</link>
-<pubDate>Sat, 07 Feb 2026 10:41:37 -0000</pubDate>
+<title><![CDATA[Japan’s first female prime minister counts on her popularity to help her party win Sunday’s election]]></title>
+<link>https://apnews.com/article/japan-election-takaichi-politics-us-trump-ee3a2ce797d541e0d0b380d6cad5c35c</link>
+<pubDate>Sat, 07 Feb 2026 15:15:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
