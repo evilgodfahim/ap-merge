@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Feb 2026 14:07:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 15:28:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iraq executes a former senior officer under Saddam for the 1980 killing of a Shiite cleric]]></title>
+<link>https://apnews.com/article/iraq-execution-saddam-official-b383b3e14c8f7b96cb80ffc907ce6775</link>
+<pubDate>Mon, 09 Feb 2026 15:28:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel’s security cabinet approves measures to strengthen control over the West Bank]]></title>
 <link>https://apnews.com/article/west-bank-israel-settlement-palestinians-cabinet-328429d96099bc33275035b85244797a</link>
@@ -11,15 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza’s Rafah crossing opens after 2-day closure as Palestinians claim delays and mistreatment]]></title>
-<link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
-<pubDate>Mon, 09 Feb 2026 12:41:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police force ‘assesses claims’ the ex-prince Andrew sent sensitive reports to Epstein]]></title>
+<title><![CDATA[UK police force assesses claims ex-Prince Andrew sent sensitive trade reports to Epstein]]></title>
 <link>https://apnews.com/article/britain-epstein-andrew-royals-william-0d3b16798b32ebd1d98b72d209769105</link>
-<pubDate>Mon, 09 Feb 2026 13:52:05 -0000</pubDate>
+<pubDate>Mon, 09 Feb 2026 15:13:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong ex-publisher Jimmy Lai’s sentence raises international concerns as China defends it]]></title>
+<title><![CDATA[Hong Kong ex-publisher Jimmy Lai’s sentence raises international outcry as China defends it]]></title>
 <link>https://apnews.com/article/hong-kong-jimmy-lai-foreign-reaction-760d56b197a8e985a29c2f7c9ea2c2f8</link>
-<pubDate>Mon, 09 Feb 2026 10:37:48 -0000</pubDate>
+<pubDate>Mon, 09 Feb 2026 14:58:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nicaraguan government blocks key pathway used by Cuban migrants to reach United States]]></title>
-<link>https://apnews.com/article/cuba-nicaragua-migrants-trump-us-d9bd0c5a56ff4bbb1bf4ba40468992be</link>
-<pubDate>Sun, 08 Feb 2026 22:00:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti’s presidential council dissolves after rocky tenure as unelected US-backed ruler remains]]></title>
 <link>https://apnews.com/article/haiti-presidential-council-steps-down-us-prime-minister-ab6bc808fc31833038638a76a667d7ed</link>
 <pubDate>Mon, 09 Feb 2026 05:35:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spiritual ties of ousted Venezuelan President Maduro and successor include guru Sathya Sai Baba]]></title>
+<link>https://apnews.com/article/venezuela-maduro-rodriguez-india-guru-81d269056bb6f50b2c66173de1c65a6e</link>
+<pubDate>Sat, 07 Feb 2026 16:39:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gaza’s Rafah border crossing has reopened but few people get through]]></title>
+<link>https://apnews.com/article/rafah-crossing-gaza-palestinians-israel-3347df733bc68f87db237da728f18451</link>
+<pubDate>Mon, 09 Feb 2026 01:10:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +149,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spiritual ties of ousted Venezuelan President Maduro and successor include guru Sathya Sai Baba]]></title>
-<link>https://apnews.com/article/venezuela-maduro-rodriguez-india-guru-81d269056bb6f50b2c66173de1c65a6e</link>
-<pubDate>Sat, 07 Feb 2026 16:39:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[India and the US move closer to reducing Trump tariffs]]></title>
 <link>https://apnews.com/article/india-us-trade-deal-tariffs-exports-b8f7e1ce3439d023922e86f507ce9f8e</link>
 <pubDate>Mon, 09 Feb 2026 04:35:08 -0000</pubDate>
@@ -164,6 +164,24 @@
 <title><![CDATA[A capsule history of the T20 World Cup]]></title>
 <link>https://apnews.com/article/t20-world-cup-history-87aca24834f8ca2012a1bea526a60fd6</link>
 <pubDate>Fri, 06 Feb 2026 11:03:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Captain Agha reiterates Pakistan’s refusal to play India at the T20 World Cup]]></title>
+<link>https://apnews.com/article/pakistan-india-twenty20-world-cup-boycott-bangladesh-ff724aee5083aa2d7bb525d20a560994</link>
+<pubDate>Fri, 06 Feb 2026 08:50:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US military boards sanctioned oil tanker in the Indian Ocean after pursuit from the Caribbean]]></title>
+<link>https://apnews.com/article/pentagon-oil-tanker-boarded-sanctions-trump-4f414338f38aad774ce732ddd1ac7796</link>
+<pubDate>Mon, 09 Feb 2026 15:28:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about who could succeed Keir Starmer as UK prime minister]]></title>
+<link>https://apnews.com/article/britain-starmer-leadership-contenders-5eb2b89771b488db18996326a92cb445</link>
+<pubDate>Mon, 09 Feb 2026 15:13:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza’s Rafah crossing opens after 2-day closure as Palestinians claim delays and mistreatment]]></title>
+<link>https://apnews.com/article/mideast-gaza-egypt-rafah-crossing-medical-treatment-397a2323fb7ef85d274d682258b4a0eb</link>
+<pubDate>Mon, 09 Feb 2026 14:58:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud investigation]]></title>
 <link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
 <pubDate>Mon, 09 Feb 2026 03:31:48 -0000</pubDate>
@@ -329,27 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Moderate candidate wins emphatically over a populist in Portugal’s presidential runoff]]></title>
-<link>https://apnews.com/article/portugal-presidential-election-populist-moderate-5a63b7df570c98f53a9ad29b402bae7c</link>
-<pubDate>Mon, 09 Feb 2026 10:52:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kim expected to issue major policy goals at North Korea party congress in late February]]></title>
-<link>https://apnews.com/article/north-korea-workers-party-congress-kim-nuclear-a411f6429dcbfc720257b5023f3b78d1</link>
-<pubDate>Sun, 08 Feb 2026 07:31:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand’s conservative Bhumjaithai party tops polls but will need partners to form government]]></title>
-<link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
-<pubDate>Mon, 09 Feb 2026 04:50:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK’s Starmer fights for survival as Mandelson-Epstein revelations spark a crisis]]></title>
+<title><![CDATA[Leader of Scotland’s Labour Party calls on Starmer to resign over Epstein revelations]]></title>
 <link>https://apnews.com/article/britain-keir-starmer-crisis-epstein-mandelson-fe972453d392f9a9ca926fc7578c497c</link>
-<pubDate>Mon, 09 Feb 2026 14:07:06 -0000</pubDate>
+<pubDate>Mon, 09 Feb 2026 15:28:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crackdown on dissent after nationwide protests in Iran widens to ensnare reformist figures]]></title>
-<link>https://apnews.com/article/iran-reformists-arrests-protests-us-nuclear-mohammadi-2cd8419e48909e01740f3a55f489e893</link>
-<pubDate>Mon, 09 Feb 2026 08:37:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Storm Leonardo batters the Iberian Peninsula, bringing floods and evacuations]]></title>
 <link>https://apnews.com/video/storm-leonardo-batters-the-iberian-peninsula-bringing-floods-and-evacuations-0a682330f9d54b1181bb5b9d273039ac</link>
 <pubDate>Sun, 08 Feb 2026 18:20:57 -0000</pubDate>
@@ -386,6 +386,12 @@
 <title><![CDATA[Dramatic footage of Israeli army striking building in Gaza City]]></title>
 <link>https://apnews.com/video/dramatic-footage-of-israeli-army-striking-building-in-gaza-city-bb239e53fc3c465886c7c9d4a34ddc17</link>
 <pubDate>Sun, 08 Feb 2026 18:05:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli forces capture a Hamas ally in south Lebanon as an Israeli drone kills 3, including a child]]></title>
+<link>https://apnews.com/article/lebanon-israel-atwi-hezbollah-aljamaa-alislamiya-1d4f58e1f49478ab35c7fa2a08b1c965</link>
+<pubDate>Mon, 09 Feb 2026 14:58:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iraq executes a former senior officer under Saddam for the 1980 killing of a Shiite cleric]]></title>
-<link>https://apnews.com/article/iraq-execution-saddam-official-b383b3e14c8f7b96cb80ffc907ce6775</link>
-<pubDate>Mon, 09 Feb 2026 11:37:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World shares rally and Japan’s Nikkei 225 jumps after a big victory for PM Takaichi’s ruling party]]></title>
+<title><![CDATA[US stocks drift after big rallies that began in Asia run out of momentum]]></title>
 <link>https://apnews.com/article/stocks-markets-japan-trump-election-9b8ca5d0b21d8f2c6d0cb6992e05c112</link>
-<pubDate>Mon, 09 Feb 2026 11:22:49 -0000</pubDate>
+<pubDate>Mon, 09 Feb 2026 14:43:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +452,6 @@
 <title><![CDATA[Puerto Rico stops for 13 minutes to applaud history and bask in Bad Bunny’s glow]]></title>
 <link>https://apnews.com/article/puerto-rico-bad-bunny-super-bowl-halftime-show-09e76b0d3a08ab70b445aaafae2c1036</link>
 <pubDate>Mon, 09 Feb 2026 04:50:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza’s Rafah border crossing has reopened but few people get through]]></title>
-<link>https://apnews.com/article/rafah-crossing-gaza-palestinians-israel-3347df733bc68f87db237da728f18451</link>
-<pubDate>Sat, 07 Feb 2026 19:20:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
