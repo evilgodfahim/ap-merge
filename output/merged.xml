@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Feb 2026 01:10:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 04:01:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Baghdad traders protest new customs tariffs as Iraq wrestles with shrinking oil revenues]]></title>
+<link>https://apnews.com/article/iraq-protest-customs-tariffs-oil-debt-a9a836969d13f3658019bce38bbccb07</link>
+<pubDate>Mon, 09 Feb 2026 04:01:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Gaza’s Rafah border crossing has reopened but few people get through]]></title>
 <link>https://apnews.com/article/rafah-crossing-gaza-palestinians-israel-3347df733bc68f87db237da728f18451</link>
@@ -11,33 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[She filmed Iran’s violent crackdown on protesters. Now she is afraid to go outside]]></title>
-<link>https://apnews.com/article/iran-protests-crackdown-c680be58d32307dce77d65468ac80986</link>
-<pubDate>Sun, 08 Feb 2026 20:48:41 -0000</pubDate>
+<title><![CDATA[Russian airstrike on Ukrainian city kills 1 as US pushes June deadline for peace deal]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-us-00d9cb742b6a71eb36a79930dfd06000</link>
+<pubDate>Mon, 09 Feb 2026 03:46:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine businesses struggle to cope as Russian attacks bring power cuts and uncertainty]]></title>
+<link>https://apnews.com/article/ukraine-russia-small-businesses-power-outages-fdfb152a0a4b1f324926191873733514</link>
+<pubDate>Sun, 08 Feb 2026 09:45:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[UK leader’s chief of staff quits over appointment of Mandelson as ambassador despite Epstein ties]]></title>
 <link>https://apnews.com/article/jeffrey-epstein-britain-keir-starmer-mandelson-c1e5c7654cc9bd48126b9ba3ea6996ef</link>
 <pubDate>Mon, 09 Feb 2026 00:55:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud investigation]]></title>
-<link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
-<pubDate>Mon, 09 Feb 2026 00:40:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Meloni condemns anti-Olympics actions in Milan, calling demonstrators ‘enemies of Italy’]]></title>
-<link>https://apnews.com/article/winter-olympics-protest-milan-ice-demonstration-d34ec7f856d96c0eaae7b73915fae2c6</link>
-<pubDate>Sun, 08 Feb 2026 14:26:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Jimmy Lai’s Hong Kong journey from media mogul and activist to convict]]></title>
-<link>https://apnews.com/article/hong-kong-jimmy-lai-national-security-sentencing-4deb3246d486f5f402a1a51be2d7cde5</link>
-<pubDate>Mon, 09 Feb 2026 00:25:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,6 +44,12 @@
 <title><![CDATA[Thailand’s conservative Bhumjaithai party tops polls but will need partners to form government]]></title>
 <link>https://apnews.com/article/thailand-election-anutin-peoples-politics-bhumjaithai-13e29b82fc2127a7de3bd2a1f332405a</link>
 <pubDate>Sun, 08 Feb 2026 20:18:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tokyo benchmark Nikkei 225 jumps after PM Takaichi’s ruling party wins a super majority in election]]></title>
+<link>https://apnews.com/article/stocks-markets-japan-trump-election-9b8ca5d0b21d8f2c6d0cb6992e05c112</link>
+<pubDate>Mon, 09 Feb 2026 03:31:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storm Marta kills at least 4 in Morocco as the country battles floods]]></title>
-<link>https://apnews.com/article/morocco-floods-deaths-dams-8ec830430071217295723f08f6f42efa</link>
-<pubDate>Sun, 08 Feb 2026 20:03:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Drone attack by paramilitary group in Sudan kills 24, including 8 children, doctors’ group says]]></title>
 <link>https://apnews.com/article/sudan-attack-war-rfs-military-displaced-21c24cd642120884e3fc00b05c02f97e</link>
 <pubDate>Sun, 08 Feb 2026 16:54:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Storm Marta kills at least 4 in Morocco as the country battles floods]]></title>
+<link>https://apnews.com/article/morocco-floods-deaths-dams-8ec830430071217295723f08f6f42efa</link>
+<pubDate>Sun, 08 Feb 2026 20:03:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[See the top photos from Bad Bunny’s halftime show at Super Bowl 60]]></title>
+<link>https://apnews.com/photo-gallery/photos-super-bowl-half-time-bad-bunny-lady-gaga-d44dcc30f52a961a85b34f94f5c6751d</link>
+<pubDate>Mon, 09 Feb 2026 04:01:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Children cast their votes in Portugal’s presidential election, but for fictional characters]]></title>
 <link>https://apnews.com/article/portugal-election-children-mock-vote-48ca71c9e7de664c98ab6b20a0938da0</link>
 <pubDate>Mon, 09 Feb 2026 01:10:57 -0000</pubDate>
@@ -215,15 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Meloni condemns anti-Olympics actions in Milan, calling demonstrators ‘enemies of Italy’]]></title>
+<link>https://apnews.com/article/winter-olympics-protest-milan-ice-demonstration-d34ec7f856d96c0eaae7b73915fae2c6</link>
+<pubDate>Mon, 09 Feb 2026 03:46:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After 4 long years, US figure skater reunites with family from war-torn Ukraine at the Olympics]]></title>
 <link>https://apnews.com/article/milan-cortina-olympics-figure-skating-71e32c6e88be122bf0ffac90e2bffbaa</link>
 <pubDate>Sun, 08 Feb 2026 14:26:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian airstrike on Ukrainian city kills 1 as US pushes June deadline for peace deal]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-zelenskyy-us-00d9cb742b6a71eb36a79930dfd06000</link>
-<pubDate>Sun, 08 Feb 2026 11:42:46 -0000</pubDate>
+<title><![CDATA[France’s former culture minister resigns over Epstein-linked tax fraud investigation]]></title>
+<link>https://apnews.com/article/jeffrey-epstein-files-france-jack-lang-aab2edd95993de4816c48c4f6fc0c479</link>
+<pubDate>Mon, 09 Feb 2026 03:31:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greek police detain 313 in raid at university after mob attacked police]]></title>
-<link>https://apnews.com/article/riot-police-attacks-university-students-firebombs-c573bfa6b9ebac087613d30b67e25945</link>
-<pubDate>Sat, 07 Feb 2026 14:19:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Olympics opening ceremony in Milan was lacking snow, but tiny winter wonderland was on its sidelines]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-slavas-snowshow-opening-ceremony-27f1d216caf9af37d622a247f65ec6ec</link>
-<pubDate>Sat, 07 Feb 2026 13:16:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Early results show Prime Minister Takaichi’s party wins a supermajority in the lower house]]></title>
+<title><![CDATA[Prime Minister Takaichi’s party wins a supermajority in Japan’s lower house]]></title>
 <link>https://apnews.com/article/japan-election-bbb322b4dc1dcad8f7373ba7aae4d535</link>
-<pubDate>Mon, 09 Feb 2026 01:10:58 -0000</pubDate>
+<pubDate>Mon, 09 Feb 2026 04:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-talks-protests-araghchi-389531836ccaa4c126b5ee06c1d5b1f8</link>
-<pubDate>Sun, 08 Feb 2026 16:54:05 -0000</pubDate>
+<title><![CDATA[Hong Kong ex-media tycoon Jimmy Lai sentenced to 20 years in prison in national security case]]></title>
+<link>https://apnews.com/article/hong-kong-jimmy-lai-sentencing-apple-daily-1c3baaedf2abe7710f149c55ce4111d9</link>
+<pubDate>Mon, 09 Feb 2026 03:46:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s security cabinet approves measures to strengthen control over the West Bank]]></title>
-<link>https://apnews.com/article/west-bank-israel-settlement-palestinians-cabinet-328429d96099bc33275035b85244797a</link>
-<pubDate>Sun, 08 Feb 2026 22:00:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Moderate candidate scores an emphatic win over a populist in Portugal’s presidential runoff]]></title>
-<link>https://apnews.com/article/portugal-presidential-election-populist-moderate-5a63b7df570c98f53a9ad29b402bae7c</link>
-<pubDate>Mon, 09 Feb 2026 00:55:58 -0000</pubDate>
+<title><![CDATA[New Zealand mosque shooter seeks to discard his guilty pleas, saying prison made him irrational]]></title>
+<link>https://apnews.com/article/brenton-tarrant-christchurch-shooting-appeal-mosque-zealand-883d9119fe4950ca869acfd320feafae</link>
+<pubDate>Mon, 09 Feb 2026 03:31:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Before Vonn’s crash, Iranian coach called the skier her ‘superhero’ — and hoped to get her pin]]></title>
-<link>https://apnews.com/article/cortina-olympic-village-tour-athletes-pin-trading-1906a2fea59e7eeba0896a7b6661c2cd</link>
-<pubDate>Sun, 08 Feb 2026 16:39:05 -0000</pubDate>
+<title><![CDATA[Israel’s security cabinet approves measures to strengthen control over the West Bank]]></title>
+<link>https://apnews.com/article/west-bank-israel-settlement-palestinians-cabinet-328429d96099bc33275035b85244797a</link>
+<pubDate>Sun, 08 Feb 2026 22:00:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Baghdad traders protest new customs tariffs as Iraq wrestles with shrinking oil revenues]]></title>
-<link>https://apnews.com/article/iraq-protest-customs-tariffs-oil-debt-a9a836969d13f3658019bce38bbccb07</link>
-<pubDate>Sun, 08 Feb 2026 15:16:41 -0000</pubDate>
+<title><![CDATA[Before Vonn’s crash, Iranian coach called the skier her ‘superhero’ — and hoped to get her pin]]></title>
+<link>https://apnews.com/article/cortina-olympic-village-tour-athletes-pin-trading-1906a2fea59e7eeba0896a7b6661c2cd</link>
+<pubDate>Sun, 08 Feb 2026 16:39:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +437,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong media mogul Jimmy Lai faces sentencing in national security case]]></title>
-<link>https://apnews.com/article/hong-kong-jimmy-lai-sentencing-apple-daily-1c3baaedf2abe7710f149c55ce4111d9</link>
-<pubDate>Mon, 09 Feb 2026 00:25:58 -0000</pubDate>
+<title><![CDATA[Moderate candidate scores an emphatic win over a populist in Portugal’s presidential runoff]]></title>
+<link>https://apnews.com/article/portugal-presidential-election-populist-moderate-5a63b7df570c98f53a9ad29b402bae7c</link>
+<pubDate>Mon, 09 Feb 2026 00:55:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Jimmy Lai’s Hong Kong journey from media mogul and activist to convict]]></title>
+<link>https://apnews.com/article/hong-kong-jimmy-lai-national-security-sentencing-4deb3246d486f5f402a1a51be2d7cde5</link>
+<pubDate>Sun, 08 Feb 2026 23:19:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Haiti’s presidential council dissolves after rocky tenure as unelected US-backed ruler remains]]></title>
 <link>https://apnews.com/article/haiti-presidential-council-steps-down-us-prime-minister-ab6bc808fc31833038638a76a667d7ed</link>
 <pubDate>Sat, 07 Feb 2026 16:39:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[She filmed Iran’s violent crackdown on protesters. Now she is afraid to go outside]]></title>
+<link>https://apnews.com/article/iran-protests-crackdown-c680be58d32307dce77d65468ac80986</link>
+<pubDate>Sat, 07 Feb 2026 10:14:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
