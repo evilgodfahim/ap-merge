@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Feb 2026 11:36:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 12:41:34 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Israeli drone strike kills 2 cyclists in Gaza as death toll mounts despite ceasefire]]></title>
-<link>https://apnews.com/article/gaza-hamas-israel-war-2-10-2026-08acadd177a13e971de88c56b12d456f</link>
-<pubDate>Wed, 11 Feb 2026 11:36:26 -0000</pubDate>
+<title><![CDATA[Egypt appoints a new defense minister and swears in its reshuffled Cabinet]]></title>
+<link>https://apnews.com/article/egypt-defense-minister-cabinet-reshuffle-elsissi-6a250d54f0c5d09236d02410ebf705e1</link>
+<pubDate>Wed, 11 Feb 2026 12:41:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Village in southern Lebanon buries a child and father killed in Israeli drone strike]]></title>
-<link>https://apnews.com/article/lebanon-israel-child-father-killed-drone-strike-64e1658f3921e431753fa2e062811820</link>
-<pubDate>Wed, 11 Feb 2026 07:32:52 -0000</pubDate>
+<title><![CDATA[Netanyahu wants Trump to demand more from Iran. The leaders will meet this week]]></title>
+<link>https://apnews.com/article/israel-us-iran-trump-netanyahu-negotiations-5fab7bc1bd473f09a4d3967d1ef53aa6</link>
+<pubDate>Wed, 11 Feb 2026 12:26:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia says it will stick to New START’s nuclear arms limits as long as US does]]></title>
+<link>https://apnews.com/article/russia-us-putin-trump-nuclear-arms-treaty-dddab5e6b4d98ff428747487f401db15</link>
+<pubDate>Wed, 11 Feb 2026 12:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Chinese sea captain pleads not guilty in Hong Kong court to damaging Baltic Sea cables]]></title>
 <link>https://apnews.com/article/baltic-sea-cable-chinese-captain-court-d036d90cc59d6531a0e4240835b7927b</link>
 <pubDate>Wed, 11 Feb 2026 05:47:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As French far-right leader Marine Le Pen’s appeal trial ends, her presidential bid is at stake]]></title>
-<link>https://apnews.com/article/marine-le-pen-trial-presidential-election-france-7648655db3ec0db4cd8f70024382a3ff</link>
-<pubDate>Wed, 11 Feb 2026 11:21:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tropical Cyclone Gezani hits Madagascar and kills at least 9 on the Indian Ocean island]]></title>
+<link>https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615</link>
+<pubDate>Wed, 11 Feb 2026 11:56:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Opposition grows in Congo over US mineral deal]]></title>
 <link>https://apnews.com/article/congo-us-minerals-tshisekedi-kinshasa-rebels-fa1f70440477bf488e668b4f7a5e5b2b</link>
 <pubDate>Tue, 10 Feb 2026 18:54:31 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Photos show hunger and water scarcity as drought grips northern Kenya]]></title>
 <link>https://apnews.com/photo-gallery/kenya-drought-turkana-county-livestock-water-a48cb09a6f25354ea656c7da4335ec76</link>
 <pubDate>Tue, 10 Feb 2026 19:09:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Drought leaves people hungry in Kenya as their livestock die]]></title>
-<link>https://apnews.com/article/kenya-drought-somalia-border-caaf23270758c6f4cf9013fa18d9aae4</link>
-<pubDate>Tue, 10 Feb 2026 11:11:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukrainian skeleton athlete Vladyslav Heraskevych trains again in banned helmet, despite IOC ruling]]></title>
+<link>https://apnews.com/article/ukraine-helmet-olympics-heraskevych-skeleton-1b5cecc43a5bc3f841c7d2b683bc771b</link>
+<pubDate>Wed, 11 Feb 2026 12:41:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dutch court orders investigation into semiconductor chipmaker Nexperia]]></title>
+<link>https://apnews.com/article/nexperia-netherlands-china-chips-semiconductors-wingtech-52c0bf707b9c19a7ae779cc4e16aaaec</link>
+<pubDate>Wed, 11 Feb 2026 12:26:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canadian Olympic team is ‘heartbroken’ by deadly school shooting in British Columbia]]></title>
 <link>https://apnews.com/article/winter-olympics-canada-school-shooting-reaction-fc49075b846b7f202fbed4165ff07a33</link>
 <pubDate>Wed, 11 Feb 2026 11:36:26 -0000</pubDate>
@@ -182,12 +194,6 @@
 <title><![CDATA[Greek and Turkish leaders to hold talks in Ankara to ease tensions]]></title>
 <link>https://apnews.com/article/turkey-greece-mitsotakis-erdogan-dialogue-97a66797a683c717b370f1ca7fa2733e</link>
 <pubDate>Wed, 11 Feb 2026 11:06:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tropical Cyclone Gezani hits Madagascar and kills at least 9 on the Indian Ocean island]]></title>
-<link>https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615</link>
-<pubDate>Wed, 11 Feb 2026 10:51:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Village in southern Lebanon buries a child and father killed in Israeli drone strike]]></title>
+<link>https://apnews.com/article/lebanon-israel-child-father-killed-drone-strike-64e1658f3921e431753fa2e062811820</link>
+<pubDate>Wed, 11 Feb 2026 12:11:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[California man sentenced to 4 years for acting as Beijing’s agent while working for local politician]]></title>
 <link>https://apnews.com/article/china-election-interference-california-yaoning-mike-sun-d514395039bea63a8c7b8814d29d1aaa</link>
 <pubDate>Tue, 10 Feb 2026 19:09:32 -0000</pubDate>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria joining anti-IS coalition ‘marks a new chapter’ in global security, US envoy says]]></title>
-<link>https://apnews.com/article/syria-joins-coalition-against-islamic-state-7f50a99d91c2f50757c80570703bf8e7</link>
-<pubDate>Tue, 10 Feb 2026 15:38:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Inside the secret text group of US figure skating Olympic gold medalists known as ‘the OGM chain’]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-figure-skating-32f203df81e0d27c4abae0f6746b3330</link>
-<pubDate>Tue, 10 Feb 2026 15:23:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Shootings at school and home in British Columbia, Canada, leave 10 dead including suspect]]></title>
 <link>https://apnews.com/article/canada-shooting-british-columbia-66b021ac7c75e857885b81dc78a29d05</link>
 <pubDate>Wed, 11 Feb 2026 11:36:27 -0000</pubDate>
@@ -368,6 +368,12 @@
 <title><![CDATA[A father in Gaza searches for his family’s bones in the rubble of their home]]></title>
 <link>https://apnews.com/article/gaza-father-digging-bones-family-dead-d6e4dae72d89e9889a729eb73dc7711f</link>
 <pubDate>Wed, 11 Feb 2026 05:47:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As French far-right leader Marine Le Pen’s appeal trial ends, her presidential bid is at stake]]></title>
+<link>https://apnews.com/article/marine-le-pen-trial-presidential-election-france-7648655db3ec0db4cd8f70024382a3ff</link>
+<pubDate>Wed, 11 Feb 2026 11:06:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu wants Trump to demand more from Iran. The leaders will meet this week]]></title>
-<link>https://apnews.com/article/israel-us-iran-trump-netanyahu-negotiations-5fab7bc1bd473f09a4d3967d1ef53aa6</link>
-<pubDate>Tue, 10 Feb 2026 10:41:35 -0000</pubDate>
+<title><![CDATA[Dubai International Airport handled a record 95.2 million passengers in 2025]]></title>
+<link>https://apnews.com/article/dubai-airport-busiest-international-travel-e1fb169cc217c5d388d5b6fe8bbfa40c</link>
+<pubDate>Wed, 11 Feb 2026 04:38:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dubai International Airport handled a record 95.2 million passengers in 2025]]></title>
-<link>https://apnews.com/article/dubai-airport-busiest-international-travel-e1fb169cc217c5d388d5b6fe8bbfa40c</link>
-<pubDate>Wed, 11 Feb 2026 04:38:52 -0000</pubDate>
+<title><![CDATA[Moderna says FDA refuses its application for new mRNA flu vaccine]]></title>
+<link>https://apnews.com/article/moderna-vaccine-flu-mrna-2fc551cb2fb45735e67db0a4e2e2b0fb</link>
+<pubDate>Wed, 11 Feb 2026 05:47:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +452,12 @@
 <title><![CDATA[FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights]]></title>
 <link>https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa</link>
 <pubDate>Wed, 11 Feb 2026 10:21:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli drone strike kills 2 cyclists in Gaza as death toll mounts despite ceasefire]]></title>
+<link>https://apnews.com/article/gaza-hamas-israel-war-2-10-2026-08acadd177a13e971de88c56b12d456f</link>
+<pubDate>Tue, 10 Feb 2026 14:00:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
