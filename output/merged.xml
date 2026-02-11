@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Feb 2026 02:06:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 04:38:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli forces capture a Hamas ally in south Lebanon as an Israeli drone kills 3, including a child]]></title>
+<link>https://apnews.com/article/lebanon-israel-atwi-hezbollah-aljamaa-alislamiya-1d4f58e1f49478ab35c7fa2a08b1c965</link>
+<pubDate>Wed, 11 Feb 2026 04:38:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Death toll in Lebanon building collapse rises to 15]]></title>
 <link>https://apnews.com/article/lebanon-tripoli-building-collapse-ae7b0e548d74f4ceba076e3b86ae3e6e</link>
 <pubDate>Tue, 10 Feb 2026 19:54:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strikes kill 3 people in Gaza, hospital says]]></title>
-<link>https://apnews.com/article/gaza-hamas-israel-war-2-9-2026-e89f17f49a9dde63f7fd9658442b85f4</link>
-<pubDate>Mon, 09 Feb 2026 21:14:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top Iran security official is in Oman, the site of talks with the US, likely over nuclear messages]]></title>
-<link>https://apnews.com/article/iran-oman-us-nuclear-talks-protests-crackdown-50cc3b6261bfd90ebe01da64ba9576d9</link>
-<pubDate>Tue, 10 Feb 2026 19:24:31 -0000</pubDate>
+<title><![CDATA[Israeli minister calls West Bank measures ‘de facto sovereignty,’ says no future Palestinian state]]></title>
+<link>https://apnews.com/article/israel-west-bank-palestinians-annexation-settlements-b17255e2fbb44a79a4871fafea4dabe8</link>
+<pubDate>Tue, 10 Feb 2026 14:15:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syria joining anti-IS coalition ‘marks a new chapter’ in global security, US envoy says]]></title>
-<link>https://apnews.com/article/syria-joins-coalition-against-islamic-state-7f50a99d91c2f50757c80570703bf8e7</link>
-<pubDate>Tue, 10 Feb 2026 15:23:39 -0000</pubDate>
+<title><![CDATA[Top Iran security official is in Oman, the site of talks with the US, likely over nuclear messages]]></title>
+<link>https://apnews.com/article/iran-oman-us-nuclear-talks-protests-crackdown-50cc3b6261bfd90ebe01da64ba9576d9</link>
+<pubDate>Tue, 10 Feb 2026 19:24:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,15 +179,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asian shares advance after weak US retail data weigh on Wall Street]]></title>
+<link>https://apnews.com/article/stocks-markets-fed-retail-profit-4cfa87d4a833d315ed219dcd22da2f49</link>
+<pubDate>Wed, 11 Feb 2026 04:38:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Father of US-based Hong Kong activist convicted under national security law]]></title>
+<link>https://apnews.com/article/hong-kong-anna-kwok-father-national-security-e05e224216a2966d63a158859b378e55</link>
+<pubDate>Wed, 11 Feb 2026 04:23:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[3 migrants die after boats capsize off Panama’s Caribbean coast]]></title>
 <link>https://apnews.com/article/panama-colombia-boat-capsize-migrants-49fa1eecbf200ad4a8fd89a5371639a2</link>
 <pubDate>Wed, 11 Feb 2026 02:06:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Multiple victims’ in school shooting in northeastern British Columbia, Canadian police say]]></title>
+<title><![CDATA[Shootings at school and home in northeastern British Columbia leave 10 dead, including shooter]]></title>
 <link>https://apnews.com/article/canada-shooting-british-columbia-66b021ac7c75e857885b81dc78a29d05</link>
-<pubDate>Wed, 11 Feb 2026 01:51:21 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 04:08:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[U.S.-Canada bridge brouhaha deepens as White House says Trump could amend a permit for the project]]></title>
+<title><![CDATA[US-Canada bridge brouhaha deepens as White House says Trump could amend a permit for the project]]></title>
 <link>https://apnews.com/article/donald-trump-canada-mark-carney-michigan-bridge-ec9df58a9fa2f3f486f930e1b0f0934f</link>
-<pubDate>Wed, 11 Feb 2026 01:21:21 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 03:53:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syria joining anti-IS coalition ‘marks a new chapter’ in global security, US envoy says]]></title>
+<link>https://apnews.com/article/syria-joins-coalition-against-islamic-state-7f50a99d91c2f50757c80570703bf8e7</link>
+<pubDate>Tue, 10 Feb 2026 15:38:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Inside the secret text group of US figure skating Olympic gold medalists known as ‘the OGM chain’]]></title>
 <link>https://apnews.com/article/milan-cortina-olympics-figure-skating-32f203df81e0d27c4abae0f6746b3330</link>
 <pubDate>Tue, 10 Feb 2026 15:23:39 -0000</pubDate>
@@ -329,27 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli minister calls West Bank measures ‘de facto sovereignty,’ says no future Palestinian state]]></title>
-<link>https://apnews.com/article/israel-west-bank-palestinians-annexation-settlements-b17255e2fbb44a79a4871fafea4dabe8</link>
-<pubDate>Tue, 10 Feb 2026 18:39:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[French artist finds happiness drawing spectators at his 17th Olympics in Cortina]]></title>
 <link>https://apnews.com/article/milan-cortina-winter-olympics-painter-marc-ahr-e3d9cd489656ba2146c4e611053c70d3</link>
 <pubDate>Tue, 10 Feb 2026 12:30:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Milan’s nightly Olympic cauldron light show draws thousands to Arch of Peace]]></title>
-<link>https://apnews.com/article/milan-cortina-olympics-cauldron-arch-peace-light-286fd9424947e0d9b7896821ffedbd8f</link>
-<pubDate>Tue, 10 Feb 2026 11:41:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Raedler and Huber of Austria win team combined at the Olympics, Mikaela Shiffrin is 4th]]></title>
-<link>https://apnews.com/article/womens-combined-breezy-shiffrin-goggia-skiing-bdf9d2e14621897ca586329f4d0044d9</link>
-<pubDate>Tue, 10 Feb 2026 14:15:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces capture a Hamas ally in south Lebanon as an Israeli drone kills 3, including a child]]></title>
-<link>https://apnews.com/article/lebanon-israel-atwi-hezbollah-aljamaa-alislamiya-1d4f58e1f49478ab35c7fa2a08b1c965</link>
-<pubDate>Mon, 09 Feb 2026 14:58:16 -0000</pubDate>
+<title><![CDATA[Dubai International Airport handled a record 95.2 million passengers in 2025]]></title>
+<link>https://apnews.com/article/dubai-airport-busiest-international-travel-e1fb169cc217c5d388d5b6fe8bbfa40c</link>
+<pubDate>Wed, 11 Feb 2026 04:38:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli strikes kill 3 people in Gaza, hospital says]]></title>
+<link>https://apnews.com/article/gaza-hamas-israel-war-2-9-2026-e89f17f49a9dde63f7fd9658442b85f4</link>
+<pubDate>Tue, 10 Feb 2026 04:10:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Passenger plane in Somalia overshoots the runway into shallow seawater near the airport]]></title>
 <link>https://apnews.com/article/somalia-starsky-aviation-crash-plane-2108dca99a9bcebe65d424cc58051bcf</link>
 <pubDate>Tue, 10 Feb 2026 18:54:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FBI releases surveillance images of masked person on Nancy Guthrie’s porch]]></title>
+<title><![CDATA[A person has been detained for questioning in disappearance of Nancy Guthrie, sheriff’s office says]]></title>
 <link>https://apnews.com/article/savannah-guthrie-mom-missing-arizona-b765fed6b9669441383b75860263ac99</link>
-<pubDate>Tue, 10 Feb 2026 23:08:08 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 04:23:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
