@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Feb 2026 07:32:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 08:35:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Village in southern Lebanon buries a child and father killed in Israeli drone strike]]></title>
 <link>https://apnews.com/article/lebanon-israel-child-father-killed-drone-strike-64e1658f3921e431753fa2e062811820</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘God bless América’: Why Bad Bunny’s Super Bowl halftime show resonated far beyond the US]]></title>
+<link>https://apnews.com/article/bad-bunny-halftime-show-americas-mexico-city-acabd4d5a934955f177de83e9f2b5b44</link>
+<pubDate>Wed, 11 Feb 2026 05:17:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The mayor of Ecuador’s largest port arrested on money laundering and tax evasion charges]]></title>
 <link>https://apnews.com/article/ecuador-mayor-arrest-guayaquil-charges-aa0f14525d7973e752e98e3df28bf0ec</link>
 <pubDate>Tue, 10 Feb 2026 23:08:07 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Cuba says airlines can no longer refuel on the island as US blockade deepens energy crisis]]></title>
 <link>https://apnews.com/article/cuba-airplanes-fuel-shortages-us-blockade-oil-18d79e2f138520dcbf28c24c1599b1a5</link>
 <pubDate>Tue, 10 Feb 2026 17:53:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Father of killed Colombian candidate Miguel Uribe relaunches presidential bid]]></title>
-<link>https://apnews.com/article/colombia-presidential-miguel-uribe-londono-3e0224f23b62e2f9fecf0dee002c7684</link>
-<pubDate>Wed, 11 Feb 2026 02:06:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,9 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As ICE expands, an AP review of crimes committed by agents shows how their powers can be abused]]></title>
+<title><![CDATA[Several ICE agents have been arrested in recent months, showing risk of misconduct]]></title>
 <link>https://apnews.com/article/ice-agents-arrested-misconduct-crimes-abuse-corruption-45b0d2248c0add9523e0bf5a953faaea</link>
-<pubDate>Wed, 11 Feb 2026 05:02:27 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 08:35:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[3 migrants die after boats capsize off Panama’s Caribbean coast]]></title>
 <link>https://apnews.com/article/panama-colombia-boat-capsize-migrants-49fa1eecbf200ad4a8fd89a5371639a2</link>
 <pubDate>Wed, 11 Feb 2026 02:06:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Father of killed Colombian candidate Miguel Uribe relaunches presidential bid]]></title>
+<link>https://apnews.com/article/colombia-presidential-miguel-uribe-londono-3e0224f23b62e2f9fecf0dee002c7684</link>
+<pubDate>Wed, 11 Feb 2026 06:02:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French artist finds happiness drawing spectators at his 17th Olympics in Cortina]]></title>
-<link>https://apnews.com/article/milan-cortina-winter-olympics-painter-marc-ahr-e3d9cd489656ba2146c4e611053c70d3</link>
-<pubDate>Tue, 10 Feb 2026 12:30:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Shootings at school and home in northeastern British Columbia leave 10 dead including shooter]]></title>
 <link>https://apnews.com/article/canada-shooting-british-columbia-66b021ac7c75e857885b81dc78a29d05</link>
 <pubDate>Wed, 11 Feb 2026 07:32:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran marks 1979 Islamic Revolution anniversary under pressure from inside and out]]></title>
+<title><![CDATA[Iran’s president apologizes over crackdown as nation marks 1979 Islamic Revolution anniversary]]></title>
 <link>https://apnews.com/article/iran-revolution-anniversary-us-nuclear-talks-protests-4ffab53ef628073ca90b9c8707485577</link>
-<pubDate>Wed, 11 Feb 2026 07:17:53 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 08:35:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘God bless América’: Why Bad Bunny’s Super Bowl halftime show resonated far beyond the US]]></title>
-<link>https://apnews.com/article/bad-bunny-halftime-show-americas-mexico-city-acabd4d5a934955f177de83e9f2b5b44</link>
-<pubDate>Tue, 10 Feb 2026 17:53:48 -0000</pubDate>
+<title><![CDATA[Study finds climate change set the stage for devastating wildfires in Argentina and Chile]]></title>
+<link>https://apnews.com/article/wildfire-climate-change-argentina-chile-milei-trump-08c71e0688401d01b98e0ff347d28a1a</link>
+<pubDate>Wed, 11 Feb 2026 08:20:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
