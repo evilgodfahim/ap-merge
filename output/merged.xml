@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Feb 2026 18:47:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 19:49:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Australia seeks charges over a 2024 Israeli airstrike in Gaza that killed an Australian aid worker]]></title>
 <link>https://apnews.com/article/australia-israel-herzog-visit-canberra-president-86413c4417f93de7925e75667fc0d18b</link>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A student’s death in Senegal protest reveals anger over leaders’ broken promises]]></title>
-<link>https://apnews.com/article/senegal-student-protests-university-stipends-9a1098fb4b0fc12c9941f87a91f1838c</link>
-<pubDate>Wed, 11 Feb 2026 18:02:57 -0000</pubDate>
+<title><![CDATA[Death toll rises to 31 after Tropical Cyclone Gezani hits Madagascar and crushes houses]]></title>
+<link>https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615</link>
+<pubDate>Wed, 11 Feb 2026 19:49:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[San Francisco parents scramble as teachers strike leaves 50,000 students out of school]]></title>
+<link>https://apnews.com/article/san-francisco-teachers-strike-ec574f8ac7ef0e0041e9f136e9f99140</link>
+<pubDate>Wed, 11 Feb 2026 04:47:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Several ICE agents were arrested in recent months, showing risk of misconduct]]></title>
 <link>https://apnews.com/article/ice-agents-arrested-misconduct-crimes-abuse-corruption-45b0d2248c0add9523e0bf5a953faaea</link>
 <pubDate>Wed, 11 Feb 2026 17:47:57 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Six months after explosion, Pennsylvania mill town sees hope but a history of disappointment]]></title>
 <link>https://apnews.com/article/us-steel-nippon-clairton-coke-explosion-community-6460c3ee39557fad9718d25eb3ed6437</link>
 <pubDate>Wed, 11 Feb 2026 17:32:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Homeland Security officials voice concerns about looming shutdown]]></title>
-<link>https://apnews.com/article/homeland-security-shutdown-ice-e5df415c1fd77b0609dded445edbb9d7</link>
-<pubDate>Wed, 11 Feb 2026 17:17:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Spiritual ties of ousted Venezuelan President Maduro and successor include guru Sathya Sai Baba]]></title>
 <link>https://apnews.com/article/venezuela-maduro-rodriguez-india-guru-81d269056bb6f50b2c66173de1c65a6e</link>
 <pubDate>Sat, 07 Feb 2026 16:39:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US will send troops to Nigeria to train the military to fight extremism]]></title>
+<link>https://apnews.com/article/nigeria-us-military-extremism-218c291ea2c5a36f84ac177764de7e94</link>
+<pubDate>Wed, 11 Feb 2026 19:49:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Milan’s Olympic pin mania has collectors running between landmarks and swarming an exchange center]]></title>
+<link>https://apnews.com/article/milan-cortina-olympic-pin-trading-f9f5e8ba7ac65c6381308784f5ce50d8</link>
+<pubDate>Wed, 11 Feb 2026 19:34:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN warns that South Sudan is on a ‘dangerous precipice’ as political deadlock escalates violence]]></title>
-<link>https://apnews.com/article/un-south-sudan-violence-kiir-machar-election-5fe5cf3dbcbe4c8b140860e85fb04050</link>
-<pubDate>Tue, 10 Feb 2026 23:08:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia’s president urges court to allow raising taxes by decree as floods hit northern region]]></title>
-<link>https://apnews.com/article/colombia-taxes-economic-emergency-petro-floods-59d93f5bbf2607c80d48d90ea664c565</link>
-<pubDate>Wed, 11 Feb 2026 01:36:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Canada reels after 9 are killed in mass shooting at a school and a home in remote British Columbia]]></title>
 <link>https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170</link>
 <pubDate>Wed, 11 Feb 2026 18:47:58 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu is pushing for expanded Iran talks as Trump says Tehran wants a deal]]></title>
+<title><![CDATA[Trump says he ‘insisted’ to Netanyahu that US talks with Iran continue as Israel wants them expanded]]></title>
 <link>https://apnews.com/article/israel-iran-trump-netanyahu-nuclear-talks-fa5be8069deb4b1b01cdf30d3e3525e7</link>
-<pubDate>Wed, 11 Feb 2026 16:22:26 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 19:49:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,15 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tropical Cyclone Gezani hits Madagascar and kills at least 20]]></title>
-<link>https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615</link>
-<pubDate>Wed, 11 Feb 2026 13:30:19 -0000</pubDate>
+<title><![CDATA[A student’s death in Senegal protest reveals anger over leaders’ broken promises]]></title>
+<link>https://apnews.com/article/senegal-student-protests-university-stipends-9a1098fb4b0fc12c9941f87a91f1838c</link>
+<pubDate>Wed, 11 Feb 2026 19:34:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man questioned about Nancy Guthrie’s disappearance says he was released]]></title>
+<title><![CDATA[FBI combs through thick desert terrain in search for clues in Nancy Guthrie’s disappearance]]></title>
 <link>https://apnews.com/article/savannah-guthrie-mom-missing-arizona-6f1016e390e2c59d82604731f795a8ba</link>
-<pubDate>Wed, 11 Feb 2026 15:37:26 -0000</pubDate>
+<pubDate>Wed, 11 Feb 2026 19:19:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
