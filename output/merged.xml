@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Feb 2026 15:11:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 16:13:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syria says its forces have taken over al-Tanf base after a handover from the US]]></title>
 <link>https://apnews.com/article/syria-iraq-jordan-altanf-us-military-defense-ministry-b4cdf708c56cfde2bbfbca117fdd871a</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Manchester United co-owner Jim Ratcliffe says he’s sorry if some offended by anti-immigrant comments]]></title>
+<title><![CDATA[Manchester United co-owner Jim Ratcliffe says sorry if some were offended by anti-immigrant comments]]></title>
 <link>https://apnews.com/article/manchester-united-ratcliffe-comments-uk-immigration-85c792db3a7af1844eeba0ae219a19f7</link>
-<pubDate>Thu, 12 Feb 2026 13:48:09 -0000</pubDate>
+<pubDate>Thu, 12 Feb 2026 16:13:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A student’s death in Senegal protest reveals anger over leaders’ broken promises]]></title>
+<link>https://apnews.com/article/senegal-student-protests-university-stipends-9a1098fb4b0fc12c9941f87a91f1838c</link>
+<pubDate>Wed, 11 Feb 2026 18:02:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll rises to 31 after Tropical Cyclone Gezani hits Madagascar and crushes houses]]></title>
 <link>https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615</link>
 <pubDate>Wed, 11 Feb 2026 19:49:28 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Opposition grows in Congo over US mineral deal]]></title>
 <link>https://apnews.com/article/congo-us-minerals-tshisekedi-kinshasa-rebels-fa1f70440477bf488e668b4f7a5e5b2b</link>
 <pubDate>Tue, 10 Feb 2026 18:54:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Passenger plane in Somalia overshoots the runway into shallow seawater near the airport]]></title>
-<link>https://apnews.com/article/somalia-starsky-aviation-crash-plane-2108dca99a9bcebe65d424cc58051bcf</link>
-<pubDate>Wed, 11 Feb 2026 10:21:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Investigators ask for surveillance video from specific dates in Nancy Guthrie disappearance]]></title>
-<link>https://apnews.com/article/savannah-guthrie-mom-missing-arizona-2765739e230d89d2d01dce62e064c33b</link>
-<pubDate>Thu, 12 Feb 2026 13:26:27 -0000</pubDate>
+<title><![CDATA[Key Democrat accuses the Justice Department of ‘spying’ on lawmakers reviewing Epstein files]]></title>
+<link>https://apnews.com/article/epstein-files-bondi-raskin-13eeb9ccadcc03ba34922d8ba95ce220</link>
+<pubDate>Thu, 12 Feb 2026 15:58:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,24 @@
 <title><![CDATA[India’s migratory beekeepers and their hives follow the flowers to make the honey flow]]></title>
 <link>https://apnews.com/article/india-honey-bees-beekeepers-climate-change-d38a29dbfaf2d67aca1455241ae28eda</link>
 <pubDate>Wed, 11 Feb 2026 13:45:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 US Navy ships collide in the Caribbean, leaving 2 sailors with minor injuries]]></title>
+<link>https://apnews.com/article/warship-collision-caribbean-military-truxtun-supplies-navy-c969a169aff7186f7c21d69379be7bba</link>
+<pubDate>Thu, 12 Feb 2026 16:13:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Barbados’ prime minister clinches a third term in office after a clean sweep at the polls]]></title>
+<link>https://apnews.com/article/barbados-election-mia-mottley-sweep-seats-parliament-1f18884f46dcbd8c9033860adb857135</link>
+<pubDate>Thu, 12 Feb 2026 15:58:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Remote Canadian community grapples with aftermath of mass shooting that left 9 people dead]]></title>
+<link>https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002</link>
+<pubDate>Thu, 12 Feb 2026 15:43:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +245,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italy last hosted the Olympics in 2006. These women were there, and now are volunteers in Milan]]></title>
+<title><![CDATA[A small army keeps the Milan Cortina Games running smoothly. These three women are seasoned veterans]]></title>
 <link>https://apnews.com/article/milan-cortina-winter-olympics-6a238b75c0ed0726d61ccc8da46cc893</link>
-<pubDate>Thu, 12 Feb 2026 12:23:13 -0000</pubDate>
+<pubDate>Thu, 12 Feb 2026 15:28:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,9 +329,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One Tech Tip: All you need to know about the iPhone’s Lockdown Mode]]></title>
+<title><![CDATA[One Tech Tip: Take your iPhone security to the extreme with Lockdown Mode]]></title>
 <link>https://apnews.com/article/apple-iphone-digital-security-fbi-2be87423b45c1b2ad9b60016a707ab9b</link>
-<pubDate>Thu, 12 Feb 2026 05:14:47 -0000</pubDate>
+<pubDate>Thu, 12 Feb 2026 15:13:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,33 +341,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks tick higher as investors try to separate AI winners from losers]]></title>
+<title><![CDATA[US stocks drift as investors try to separate AI winners from losers]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-jobs-profit-45f8d8df807d4b7ed9127afc4b5809c9</link>
-<pubDate>Thu, 12 Feb 2026 14:11:27 -0000</pubDate>
+<pubDate>Thu, 12 Feb 2026 14:58:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Argentine workers clash with police as senators debate labor reform, in photos]]></title>
 <link>https://apnews.com/photo-gallery/argentina-milei-labor-protests-photos-32e7d413d69ddb04789f63c8812dde09</link>
 <pubDate>Thu, 12 Feb 2026 13:56:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Mexican cartels employ drones as tools to smuggle drugs and fight enemies]]></title>
-<link>https://apnews.com/article/mexico-el-paso-drones-drugs-cartels-001b46b535ed957665075daafe8e244f</link>
-<pubDate>Thu, 12 Feb 2026 13:41:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Cambodia, thousands flood out of scam compounds and find little help]]></title>
-<link>https://apnews.com/article/us-funding-shelter-scam-compounds-trafficking-victims-85a69706c6b917e32ae7e2d4797cd9c2</link>
-<pubDate>Thu, 12 Feb 2026 09:47:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Instagram chief says he does not believe people can get clinically addicted to social media]]></title>
-<link>https://apnews.com/article/instagram-social-media-addiction-trial-mosseri-los-angeles-a49f64e21682e8bc1b98fbdf3d061579</link>
-<pubDate>Wed, 11 Feb 2026 22:21:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A student’s death in Senegal protest reveals anger over leaders’ broken promises]]></title>
-<link>https://apnews.com/article/senegal-student-protests-university-stipends-9a1098fb4b0fc12c9941f87a91f1838c</link>
-<pubDate>Wed, 11 Feb 2026 19:34:29 -0000</pubDate>
+<title><![CDATA[Cyclone Gezani leaves 36 dead and thousands of homes destroyed in Madagascar]]></title>
+<link>https://apnews.com/article/madagascar-cyclone-tropical-storm-climate-weather-aa7468bb22c8418cb60f92bcc50eae74</link>
+<pubDate>Thu, 12 Feb 2026 16:13:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
