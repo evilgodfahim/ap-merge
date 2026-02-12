@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Feb 2026 08:33:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 09:36:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know as Iran and the US weigh holding a second round of nuclear talks]]></title>
 <link>https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about a mass shooter’s bid to undo his guilty pleas for the Christchurch mosque murders]]></title>
+<link>https://apnews.com/article/brenton-tarrant-mosque-shooting-appeal-christchurch-zealand-f50ef0c1cd101c3b8982da206fc206a8</link>
+<pubDate>Thu, 12 Feb 2026 09:36:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In Cambodia, thousands flood out of scam compounds and find increasingly little help]]></title>
 <link>https://apnews.com/article/us-funding-shelter-scam-compounds-trafficking-victims-85a69706c6b917e32ae7e2d4797cd9c2</link>
 <pubDate>Thu, 12 Feb 2026 08:33:34 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[South Korea’s former interior minister gets 7-year sentence for aiding martial law]]></title>
 <link>https://apnews.com/article/south-korea-lee-sang-min-martial-law-e9fb58e43d341737713b0eb2eef9c8cf</link>
 <pubDate>Thu, 12 Feb 2026 08:18:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan’s AI-powered economy soars in the shadow of bubble fears and China threats]]></title>
-<link>https://apnews.com/article/taiwan-trump-tariffs-economy-ai-tsmc-7527bd4bf3089cbd2dab1c530ee61c3e</link>
-<pubDate>Thu, 12 Feb 2026 05:29:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,6 +179,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China issues new rules to curb auto price war after January passenger car sales drop 20%]]></title>
+<link>https://apnews.com/article/china-auto-sales-ev-tariffs-c5c32f6982cc163764e8941e1df3d9a2</link>
+<pubDate>Thu, 12 Feb 2026 09:36:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Strikes by German pilot and cabin crew unions force Lufthansa to cancel flights]]></title>
+<link>https://apnews.com/article/germany-lufthansa-strike-pilots-cabin-crew-95179f730223cf9bb5184e650d33a515</link>
+<pubDate>Thu, 12 Feb 2026 09:21:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s technology investor SoftBank Group sees profitability return on AI boom]]></title>
+<link>https://apnews.com/article/softbank-ai-technology-japan-112f963825bb5409c937a4ac861f9811</link>
+<pubDate>Thu, 12 Feb 2026 09:06:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Paris wine show reflects surging demand for zero- and low-alcohol drinks]]></title>
 <link>https://apnews.com/article/france-wine-beer-heineken-health-alcohol-a21e2c7898a747e7d571f66dc66d4391</link>
 <pubDate>Thu, 12 Feb 2026 08:33:34 -0000</pubDate>
@@ -203,9 +221,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan’s AI-powered economy soars in the shadow of bubble fears and China threats]]></title>
+<link>https://apnews.com/article/taiwan-trump-tariffs-economy-ai-tsmc-7527bd4bf3089cbd2dab1c530ee61c3e</link>
+<pubDate>Thu, 12 Feb 2026 08:51:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asia shares mostly gain after Wall Street wobbled over strong jobs report]]></title>
 <link>https://apnews.com/article/stocks-markets-fed-jobs-profit-45f8d8df807d4b7ed9127afc4b5809c9</link>
 <pubDate>Thu, 12 Feb 2026 08:03:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Instagram chief says he does not believe people can get clinically addicted to social media]]></title>
+<link>https://apnews.com/article/instagram-social-media-addiction-trial-mosseri-los-angeles-a49f64e21682e8bc1b98fbdf3d061579</link>
+<pubDate>Wed, 11 Feb 2026 22:21:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,39 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Norway’s Jens Luraas Oftebro overcomes time deficit to win gold in Nordic combined]]></title>
-<link>https://apnews.com/article/nordic-combined-ski-jump-cross-country-0e3cf1249058e18a9a8bab8023831f5a</link>
-<pubDate>Wed, 11 Feb 2026 15:00:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show athletes as a blur of motion at the Milan Cortina Winter Olympics]]></title>
-<link>https://apnews.com/photo-gallery/milan-cortina-olympics-photos-blur-motion-a8c21aa520392b12949689d0f5fd45df</link>
-<pubDate>Wed, 11 Feb 2026 14:08:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Teenager steals gun from police and attacks a school in southern Thailand, killing 1]]></title>
-<link>https://apnews.com/article/thailand-school-hostage-gun-songkhla-f84ac76d61afeabcc0b89251676bc8c2</link>
-<pubDate>Thu, 12 Feb 2026 07:33:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lankan court sentences 12 men to death over killing of lawmaker during 2022 protests]]></title>
-<link>https://apnews.com/article/sri-lanka-court-death-penalty-protests-28b3de6bc168252776a23620eaea0a8e</link>
-<pubDate>Wed, 11 Feb 2026 13:53:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Portugal’s interior minister steps down in response to growing criticism over storm response]]></title>
-<link>https://apnews.com/article/portugal-interior-minister-resigns-storms-af134ea45d46c72105ff3b741bd20333</link>
-<pubDate>Wed, 11 Feb 2026 14:45:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU leaders meet to counter pressure from Russia, China and Trump]]></title>
 <link>https://apnews.com/article/europe-eu-trump-china-russia-rethink-6461ea032aa4e3aa8e133bc5080ab922</link>
 <pubDate>Thu, 12 Feb 2026 05:44:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korea’s spy agency says Kim Jong Un’s daughter is close to be designated as future leader]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-daughter-c795f8c25177d45f1f4a8bf5af160007</link>
+<pubDate>Thu, 12 Feb 2026 09:36:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Israeli president ends a fraught Australia visit to comfort Jews as Gaza war protests follow]]></title>
 <link>https://apnews.com/article/australia-israel-president-herzog-melbourne-antisemitism-8729580864d4479a6d0bf065a8d4d475</link>
 <pubDate>Thu, 12 Feb 2026 08:18:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina’s Senate backs President Milei’s contentious labor overhaul after protests]]></title>
-<link>https://apnews.com/article/argentina-javier-milei-labor-law-trade-unions-11d1d6c0237c9f3ff60017450d6cf905</link>
-<pubDate>Thu, 12 Feb 2026 04:59:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,15 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuban peso hits a record low against the US dollar in informal markets]]></title>
-<link>https://apnews.com/article/cuba-us-dollar-exchange-rate-trump-sanctions-35d92af89c53eb2d061bcef7445a09d3</link>
-<pubDate>Thu, 12 Feb 2026 04:44:48 -0000</pubDate>
+<title><![CDATA[Argentina’s Senate backs President Milei’s contentious labor overhaul after protests]]></title>
+<link>https://apnews.com/article/argentina-javier-milei-labor-law-trade-unions-11d1d6c0237c9f3ff60017450d6cf905</link>
+<pubDate>Thu, 12 Feb 2026 04:59:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Instagram chief says he does not believe people can get clinically addicted to social media]]></title>
-<link>https://apnews.com/article/instagram-social-media-addiction-trial-mosseri-los-angeles-a49f64e21682e8bc1b98fbdf3d061579</link>
-<pubDate>Thu, 12 Feb 2026 08:03:35 -0000</pubDate>
+<title><![CDATA[Cuban peso hits a record low against the US dollar in informal markets]]></title>
+<link>https://apnews.com/article/cuba-us-dollar-exchange-rate-trump-sanctions-35d92af89c53eb2d061bcef7445a09d3</link>
+<pubDate>Thu, 12 Feb 2026 04:44:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
