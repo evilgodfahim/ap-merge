@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Feb 2026 16:52:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 17:17:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump says change in power in Iran ‘would be the best thing that could happen’]]></title>
 <link>https://apnews.com/article/trump-iran-aircraft-carrier-military-8db3fab10476949acda8b973be416204</link>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US ocean regulator faces criticism over changes to right whale protection rule]]></title>
+<link>https://apnews.com/article/right-whale-boat-strikes-endangered-4f65f61da80a8aecb4f8162da55fd7a5</link>
+<pubDate>Sat, 14 Feb 2026 17:17:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A year after border agent’s killing, 7 Zizians fight criminal charges in 3 states]]></title>
 <link>https://apnews.com/article/zizians-ziz-murder-cult-b29fcd7f16d2de82cc0d35f0af147aef</link>
 <pubDate>Sat, 14 Feb 2026 12:42:17 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Mandatory driver impairment sensors clear a funding hurdle, but are they ready?]]></title>
 <link>https://apnews.com/article/federal-law-impairment-detection-car-dui-062d40e885a0e32c6cad0ba70163aef8</link>
 <pubDate>Sat, 14 Feb 2026 12:27:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the Homeland Security shutdown]]></title>
-<link>https://apnews.com/article/homeland-security-shutdown-ice-funding-7bf62bc50ca0a6a6013a714bee2ffdb4</link>
-<pubDate>Sat, 14 Feb 2026 14:45:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Valentine’s Day at the Winter Olympics might look a little different, but it’s still special]]></title>
+<title><![CDATA[How Olympic couples are celebrating Valentine’s Day at the Games]]></title>
 <link>https://apnews.com/article/valentines-day-olympics-couples-italy-3df73a6441a32cf45cbdd73ddb96c91c</link>
-<pubDate>Sat, 14 Feb 2026 06:52:14 -0000</pubDate>
+<pubDate>Sat, 14 Feb 2026 17:17:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
