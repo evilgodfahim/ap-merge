@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Feb 2026 01:06:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 03:38:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Indonesia readies up to 8,000 troops in first firm commitment to Gaza peacekeeping force]]></title>
 <link>https://apnews.com/article/indonesia-trump-prabowo-gaza-israel-peacekeeping-22185f61dd39e6f0c04f22bb541944da</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tarique Rahman spent 17 years in exile. He is now poised to lead Bangladesh]]></title>
+<link>https://apnews.com/article/tarique-rahman-bnp-bangladesh-election-7cf43a8012d036040bb99c2e4be899ca</link>
+<pubDate>Sat, 14 Feb 2026 03:38:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The return of millions of Afghans from Pakistan and Iran pushes Afghanistan to the brink, UN warns]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-iran-returnees-refugees-unhcr-46d8be37a347c7259de69bd2a72203ff</link>
 <pubDate>Fri, 13 Feb 2026 16:32:04 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[New Zealand restricts the spread of a reviled killer’s views by hampering his attempts to gain fame]]></title>
 <link>https://apnews.com/article/christchurch-zealand-brenton-tarrant-mosques-shootings-8098add646d3466e38c9d7cfdd1a2c0f</link>
 <pubDate>Fri, 13 Feb 2026 12:18:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration urges nations to call for the withdrawal of a UN climate proposal]]></title>
-<link>https://apnews.com/article/un-resolution-climate-international-court-justice-trump-31f4164aebd2b7bf8b9b4d1c89af9f50</link>
-<pubDate>Fri, 13 Feb 2026 22:09:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US military strikes another alleged drug boat in Caribbean, killing 3]]></title>
+<link>https://apnews.com/article/military-strikes-cartels-drug-boats-caribbean-cadab97919b92939ad069a05b567c00c</link>
+<pubDate>Sat, 14 Feb 2026 03:38:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Judge gives US 2 weeks to retrieve student deported to Honduras while traveling for Thanksgiving]]></title>
 <link>https://apnews.com/article/babson-student-honduras-deported-thanksgiving-belloza-e6e28965da8faac4a57dc25b584d26ec</link>
 <pubDate>Fri, 13 Feb 2026 23:26:51 -0000</pubDate>
@@ -182,6 +188,12 @@
 <title><![CDATA[Newsom takes his anti-Trump arguments to Europe during Munich Security Conference]]></title>
 <link>https://apnews.com/article/gavin-newsom-donald-trump-aac5dff6adf8cc845ade1206f0900b45</link>
 <pubDate>Fri, 13 Feb 2026 22:24:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration urges nations to call for the withdrawal of a UN climate proposal]]></title>
+<link>https://apnews.com/article/un-resolution-climate-international-court-justice-trump-31f4164aebd2b7bf8b9b4d1c89af9f50</link>
+<pubDate>Sat, 14 Feb 2026 03:23:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At Fort Bragg, Trump says Maduro raid showed ‘full military might’ of US and means ‘we are feared’]]></title>
-<link>https://apnews.com/article/trump-fort-bragg-venezuela-special-forces-economy-e0f3ef918509c5137c434110dc090ffe</link>
-<pubDate>Fri, 13 Feb 2026 20:01:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ecuadorian leaves, Argentine protests and other top photos from Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-e5095c2cecf28f163662bd2b395e3de3</link>
-<pubDate>Fri, 13 Feb 2026 07:42:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Palestinians look to salvage Gaza’s history from the ruins of Israel’s military offensive]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-gaza-cultural-religious-historic-heritage-91aa321b535c6f92b6158403d4717072</link>
 <pubDate>Fri, 13 Feb 2026 05:18:47 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh Nationalist Party claims victory in country’s first election since 2024 uprising]]></title>
-<link>https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f</link>
-<pubDate>Fri, 13 Feb 2026 03:57:07 -0000</pubDate>
+<title><![CDATA[Prime Minister Carney and Canada’s main opposition leader hold hands during school shooting vigil]]></title>
+<link>https://apnews.com/article/canada-school-shooting-vigil-carney-7d2d2ec8e302befe808f822432ed9a03</link>
+<pubDate>Sat, 14 Feb 2026 03:38:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tarique Rahman spent 17 years in exile. He is now poised to lead Bangladesh]]></title>
-<link>https://apnews.com/article/tarique-rahman-bnp-bangladesh-election-7cf43a8012d036040bb99c2e4be899ca</link>
-<pubDate>Fri, 13 Feb 2026 09:17:39 -0000</pubDate>
+<title><![CDATA[Bangladesh Nationalist Party claims victory in country’s first election since 2024 uprising]]></title>
+<link>https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f</link>
+<pubDate>Fri, 13 Feb 2026 03:57:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
