@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Feb 2026 14:50:08 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Trump says change in power in Iran ‘would be the best thing that could happen’]]></title>
-<link>https://apnews.com/article/trump-iran-aircraft-carrier-military-8db3fab10476949acda8b973be416204</link>
-<pubDate>Sat, 14 Feb 2026 13:57:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 14 Feb 2026 15:15:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Palestinians look to salvage Gaza’s history from the ruins of Israel’s military offensive]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-gaza-cultural-religious-historic-heritage-91aa321b535c6f92b6158403d4717072</link>
@@ -17,9 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[5 European nations say Russian opposition leader Navalny was poisoned and blame the Kremlin]]></title>
+<title><![CDATA[Israel’s Barak says he regrets knowing Epstein after documents detail their long friendship]]></title>
+<link>https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2</link>
+<pubDate>Sat, 14 Feb 2026 15:15:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[European nations say Alexei Navalny was poisoned by the Kremlin with dart frog toxin]]></title>
 <link>https://apnews.com/article/russia-navalny-poisoned-europe-4d92cd67f29d37b74b0d4842ea686b03</link>
-<pubDate>Sat, 14 Feb 2026 13:27:17 -0000</pubDate>
+<pubDate>Sat, 14 Feb 2026 15:00:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tarique Rahman spent 17 years in exile. He is now poised to lead Bangladesh]]></title>
+<link>https://apnews.com/article/tarique-rahman-bnp-bangladesh-election-7cf43a8012d036040bb99c2e4be899ca</link>
+<pubDate>Sat, 14 Feb 2026 03:38:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia readies up to 8,000 troops in first firm commitment to Gaza peacekeeping force]]></title>
 <link>https://apnews.com/article/indonesia-trump-prabowo-gaza-israel-peacekeeping-22185f61dd39e6f0c04f22bb541944da</link>
 <pubDate>Fri, 13 Feb 2026 22:24:26 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[The return of millions of Afghans from Pakistan and Iran pushes Afghanistan to the brink, UN warns]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-iran-returnees-refugees-unhcr-46d8be37a347c7259de69bd2a72203ff</link>
 <pubDate>Fri, 13 Feb 2026 16:32:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New Zealand restricts the spread of a reviled killer’s views by hampering his attempts to gain fame]]></title>
-<link>https://apnews.com/article/christchurch-zealand-brenton-tarrant-mosques-shootings-8098add646d3466e38c9d7cfdd1a2c0f</link>
-<pubDate>Fri, 13 Feb 2026 12:18:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +68,6 @@
 <title><![CDATA[Prime Minister Carney and Canada’s main opposition leader hold hands during school shooting vigil]]></title>
 <link>https://apnews.com/article/canada-school-shooting-vigil-carney-7d2d2ec8e302befe808f822432ed9a03</link>
 <pubDate>Sat, 14 Feb 2026 07:07:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Logistics giant DP World replaces chairman named in Jeffrey Epstein documents]]></title>
-<link>https://apnews.com/article/dubai-mideast-jeffrey-epstein-chairman-replaced-82cf3efbffe5ed2c1ea89dde06c86490</link>
-<pubDate>Sat, 14 Feb 2026 10:50:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Journalist Don Lemon pleads not guilty to civil rights charges in Minnesota church protest]]></title>
-<link>https://apnews.com/article/don-lemon-cnn-minnesota-church-protest-immigration-4a110d3e097f86b696281b5c36ce3339</link>
-<pubDate>Sat, 14 Feb 2026 12:12:17 -0000</pubDate>
+<title><![CDATA[What to know about the Homeland Security shutdown]]></title>
+<link>https://apnews.com/article/homeland-security-shutdown-ice-funding-7bf62bc50ca0a6a6013a714bee2ffdb4</link>
+<pubDate>Sat, 14 Feb 2026 14:45:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +164,12 @@
 <title><![CDATA[Seattle reaches $29M settlement with family of grad student from India struck and killed by officer]]></title>
 <link>https://apnews.com/article/seattle-indian-grad-student-killed-police-settlement-73d4f9871b0a8466911b788da34d02d5</link>
 <pubDate>Thu, 12 Feb 2026 13:18:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Lucas Pinheiro Braathen storms final run to win Olympic giant slalom, in photos]]></title>
+<link>https://apnews.com/photo-gallery/olympics-lucas-pinheiro-braathen-giant-slalom-brazil-7fa7faf74231a3c12c14039951ee5081</link>
+<pubDate>Sat, 14 Feb 2026 15:15:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,12 +287,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s Barak says he regrets knowing Epstein after documents detail their long friendship]]></title>
-<link>https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2</link>
-<pubDate>Sat, 14 Feb 2026 13:42:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ilia Malinin falls twice in free skate, allows Kazakhstan’s Mikhail Shaidorov to win Olympic gold]]></title>
 <link>https://apnews.com/article/milan-cortina-olympics-figure-skating-malinin-9701617ebaad752e616f88259e33b6b3</link>
 <pubDate>Fri, 13 Feb 2026 21:39:26 -0000</pubDate>
@@ -353,9 +347,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio’s speech to European allies takes softer tone but sticks to Trump’s firm stance]]></title>
+<title><![CDATA[Rubio’s speech to European allies takes a softer tone but sticks to Trump’s firm stance]]></title>
 <link>https://apnews.com/article/munich-security-conference-rubio-4a26cfa8ebb54643be98405e896433d1</link>
-<pubDate>Sat, 14 Feb 2026 12:23:45 -0000</pubDate>
+<pubDate>Sat, 14 Feb 2026 15:15:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh’s Tarique Rahman pledges to work for democracy after landslide victory in election]]></title>
-<link>https://apnews.com/article/bangladesh-yunus-election-tarique-b846e95515b73f73ebc3af746170b92b</link>
-<pubDate>Sat, 14 Feb 2026 13:42:18 -0000</pubDate>
+<title><![CDATA[MSF suspends some hospital operations in Gaza due to presence of armed men]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6</link>
+<pubDate>Sat, 14 Feb 2026 13:27:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +374,6 @@
 <title><![CDATA[IOC President explains decision to not allow Ukrainian athlete Heraskevych to compete]]></title>
 <link>https://apnews.com/video/ioc-president-explains-decision-to-not-allow-ukrainian-athlete-heraskevych-to-compete-4723b61a7caf43bf9ac96f68568153ed</link>
 <pubDate>Sat, 14 Feb 2026 00:51:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[MSF suspends some hospital operations in Gaza due to presence of armed men]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6</link>
-<pubDate>Sat, 14 Feb 2026 13:27:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,6 +392,12 @@
 <title><![CDATA[Iran’s military degraded by 12-day war with Israel, but still has significant capabilities]]></title>
 <link>https://apnews.com/article/iran-israel-us-trump-military-carrier-war-931c25411eeef7d8cee679b3544b792a</link>
 <pubDate>Fri, 13 Feb 2026 19:19:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says change in power in Iran ‘would be the best thing that could happen’]]></title>
+<link>https://apnews.com/article/trump-iran-aircraft-carrier-military-8db3fab10476949acda8b973be416204</link>
+<pubDate>Fri, 13 Feb 2026 22:24:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +431,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tarique Rahman spent 17 years in exile. He is now poised to lead Bangladesh]]></title>
-<link>https://apnews.com/article/tarique-rahman-bnp-bangladesh-election-7cf43a8012d036040bb99c2e4be899ca</link>
-<pubDate>Fri, 13 Feb 2026 09:17:39 -0000</pubDate>
+<title><![CDATA[Bangladesh’s Tarique Rahman pledges to work for democracy after landslide victory in election]]></title>
+<link>https://apnews.com/article/bangladesh-yunus-election-tarique-b846e95515b73f73ebc3af746170b92b</link>
+<pubDate>Sat, 14 Feb 2026 13:42:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Shakira’s 5-show El Salvador residency fuels Bukele’s push to remake the country’s image]]></title>
 <link>https://apnews.com/article/el-salvador-shakira-bukele-gangs-6f44cbb69134fbaa661c29af03067c3a</link>
 <pubDate>Fri, 13 Feb 2026 21:01:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Logistics giant DP World replaces chairman named in Jeffrey Epstein documents]]></title>
+<link>https://apnews.com/article/dubai-mideast-jeffrey-epstein-chairman-replaced-82cf3efbffe5ed2c1ea89dde06c86490</link>
+<pubDate>Fri, 13 Feb 2026 12:33:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
