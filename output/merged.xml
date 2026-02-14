@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Feb 2026 21:43:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 22:12:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Diplomat overseeing Gaza ceasefire says violations threaten transitional governance]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-hostages-aid-february-13-2026-7cd49e6b515f511a1e8eac1beaa4d598</link>
@@ -53,12 +53,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rio police in ‘Money Heist’ and Jason masks apprehend Carnival phone thieves]]></title>
-<link>https://apnews.com/article/brazil-carnival-police-phones-theft-786fb86f62bcf753490f78957eabad8b</link>
-<pubDate>Sat, 14 Feb 2026 20:17:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cuba postpones its annual cigar fair as a US oil siege causes severe fuel shortages and blackouts]]></title>
 <link>https://apnews.com/article/cuba-cigars-us-blackouts-embargo-a244cacc499be0c29e1b905ed811436b</link>
 <pubDate>Sat, 14 Feb 2026 20:02:02 -0000</pubDate>
@@ -68,6 +62,12 @@
 <title><![CDATA[Dogs parade at Rio Carnival as their owners protest against animal cruelty]]></title>
 <link>https://apnews.com/article/brazil-carnival-dogs-protest-rio-cbefd4a06ee66b20369f172354adfd8c</link>
 <pubDate>Sat, 14 Feb 2026 18:49:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazilians celebrate ‘Carnival in the Italian snow’ as Alpine skier wins 1st Olympic gold]]></title>
+<link>https://apnews.com/article/lucas-pinheiro-braathen-milan-bormio-olympics-brazil-carnival-112d3eea99c9179674094e27d1411318</link>
+<pubDate>Sat, 14 Feb 2026 22:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s crown prince says survival of Tehran government ‘sends a clear signal to every bully’]]></title>
+<title><![CDATA[Crown prince urges the world to stand with the people of Iran as 250,000 rally in Munich]]></title>
 <link>https://apnews.com/article/iran-munich-protests-reza-pahlavi-53d2448dd26d28a1206ecefdfde168f2</link>
-<pubDate>Sat, 14 Feb 2026 20:32:03 -0000</pubDate>
+<pubDate>Sat, 14 Feb 2026 22:12:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazilians celebrate ‘Carnival in the Italian snow’ as Alpine skier wins Olympic gold]]></title>
-<link>https://apnews.com/article/lucas-pinheiro-braathen-milan-bormio-olympics-brazil-carnival-112d3eea99c9179674094e27d1411318</link>
-<pubDate>Sat, 14 Feb 2026 18:49:24 -0000</pubDate>
+<title><![CDATA[Rio police in ‘Money Heist’ and Jason masks apprehend Carnival phone thieves]]></title>
+<link>https://apnews.com/article/brazil-carnival-police-phones-theft-786fb86f62bcf753490f78957eabad8b</link>
+<pubDate>Sat, 14 Feb 2026 21:57:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan captain Agha says it is up to India to decide whether to shake hands before World Cup clash]]></title>
+<title><![CDATA[Pakistan captain says it is up to India to decide whether to shake hands at the T20 World Cup]]></title>
 <link>https://apnews.com/article/india-pakistan-cricket-handshake-world-cup-53a7619a56a3d59a3f6033ccdbcdc613</link>
-<pubDate>Sat, 14 Feb 2026 15:31:42 -0000</pubDate>
+<pubDate>Sat, 14 Feb 2026 21:42:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
