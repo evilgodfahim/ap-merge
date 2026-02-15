@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Feb 2026 21:14:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 21:45:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian security use dragnet spanning the entire country to arrest protesters]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-arrests-9de7c65d17920dc43568d3f025fed2cd</link>
@@ -47,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tarique Rahman spent 17 years in exile. He is now poised to lead Bangladesh]]></title>
-<link>https://apnews.com/article/tarique-rahman-bnp-bangladesh-election-7cf43a8012d036040bb99c2e4be899ca</link>
-<pubDate>Sat, 14 Feb 2026 03:38:40 -0000</pubDate>
+<title><![CDATA[India crushes Pakistan by 61 runs in marquee game in T20 World Cup. No handshakes again]]></title>
+<link>https://apnews.com/article/pakistan-india-t20-cricket-world-cup-f594292a2ab3ed4d1e27854d805cc0a7</link>
+<pubDate>Sun, 15 Feb 2026 21:45:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A storm system sweeps across the Southeast triggering tornado watches and damaging winds]]></title>
-<link>https://apnews.com/article/severe-weather-thunderstorms-tornado-cold-ed98b3ad57a2a59b0c61f4fc98e2b4d1</link>
-<pubDate>Sun, 15 Feb 2026 18:54:41 -0000</pubDate>
+<title><![CDATA[Teen daughter of a Chicago man detained in an immigration case dies from a rare cancer]]></title>
+<link>https://apnews.com/article/chicago-immigration-midway-blitz-ofelia-maldonado-9e9877ea2b93a8af768512a99d6223ce</link>
+<pubDate>Sun, 15 Feb 2026 21:30:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA agents are working without pay at US airports due to another shutdown]]></title>
-<link>https://apnews.com/article/dhs-shutdown-tsa-travel-airports-delays-ff8b225c6ff8d57172fd301a550057b3</link>
-<pubDate>Sat, 14 Feb 2026 12:57:17 -0000</pubDate>
+<title><![CDATA[A storm system sweeps across the Southeast triggering tornado watches and damaging winds]]></title>
+<link>https://apnews.com/article/severe-weather-thunderstorms-tornado-cold-ed98b3ad57a2a59b0c61f4fc98e2b4d1</link>
+<pubDate>Sun, 15 Feb 2026 18:54:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan captain says it is up to India to decide whether to shake hands at the T20 World Cup]]></title>
-<link>https://apnews.com/article/india-pakistan-cricket-handshake-world-cup-53a7619a56a3d59a3f6033ccdbcdc613</link>
-<pubDate>Sun, 15 Feb 2026 06:55:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Indian man pleads guilty in assassination plot against prominent Sikh separatist leader in New York]]></title>
 <link>https://apnews.com/article/india-nikhil-gupta-pannun-sikh-murder-510a7b86f39b80305d4ff462243f2210</link>
 <pubDate>Sat, 14 Feb 2026 15:46:41 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[Indian unions and farmers stage a nationwide strike over interim trade deal with US]]></title>
 <link>https://apnews.com/article/india-modi-protest-trade-deal-us-farmers-90746ddd26679ba11a180aa36a4612c5</link>
 <pubDate>Thu, 12 Feb 2026 11:02:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Historic cricket win for Italy at T20 World Cup. India and Sri Lanka stay perfect]]></title>
+<link>https://apnews.com/article/sri-lanka-oman-t20-world-cup-73b1d71eac8c83ad706d5e00a0d0676f</link>
+<pubDate>Thu, 12 Feb 2026 18:15:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,12 +464,6 @@
 <title><![CDATA[People — and robots — are getting ready to celebrate the Lunar New Year in China]]></title>
 <link>https://apnews.com/article/china-lunar-new-year-robots-beijing-60e9b09dbdb6b8f055184f5cbb301c5a</link>
 <pubDate>Fri, 13 Feb 2026 12:18:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India crushes Pakistan by 61 runs in marquee game in T20 World Cup. No handshakes again]]></title>
-<link>https://apnews.com/article/pakistan-india-t20-cricket-world-cup-f594292a2ab3ed4d1e27854d805cc0a7</link>
-<pubDate>Sun, 15 Feb 2026 17:50:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
