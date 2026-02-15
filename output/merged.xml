@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Feb 2026 15:45:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 16:16:10 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Imprisoned Iranian Nobel Peace Prize winner Narges Mohammadi is in worsening health, husband says]]></title>
-<link>https://apnews.com/article/iran-nobel-peace-laureate-imprisoned-narges-mohammadi-9f2cd8ded2991d6200e7ddaa32a1c7a4</link>
-<pubDate>Sun, 15 Feb 2026 13:58:12 -0000</pubDate>
+<title><![CDATA[US, Iran to hold new round of nuclear talks in Geneva this week, Swiss government says]]></title>
+<link>https://apnews.com/article/iran-nuclear-talks-washington-geneva-bae109cfba67b4062dc8592d131fa112</link>
+<pubDate>Sun, 15 Feb 2026 16:16:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show West Bank championship showcasing purebred Arabian horses in Jericho]]></title>
-<link>https://apnews.com/photo-gallery/arabian-horse-show-jericho-photos-23bae1f2a823f715897042402f47b933</link>
-<pubDate>Sun, 15 Feb 2026 07:10:26 -0000</pubDate>
+<title><![CDATA[Protests draw more than half a million worldwide as Iran’s exiled crown prince urges more pressure]]></title>
+<link>https://apnews.com/article/iran-munich-protests-reza-pahlavi-53d2448dd26d28a1206ecefdfde168f2</link>
+<pubDate>Sun, 15 Feb 2026 16:01:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia poisoned Alexei Navalny with dart frog toxin, European nations say]]></title>
-<link>https://apnews.com/article/russia-navalny-poisoned-europe-4d92cd67f29d37b74b0d4842ea686b03</link>
-<pubDate>Sat, 14 Feb 2026 16:16:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[2 fans say they were told to stop raising Greenland flag during US-Denmark Olympic hockey game]]></title>
 <link>https://apnews.com/article/denmark-greenland-trump-hockey-flag-olympics-feae456efe1a8dcd60aa3271e6a31dc9</link>
 <pubDate>Sun, 15 Feb 2026 13:43:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘First feline’ Larry marks 15 years as Britain’s political top cat]]></title>
+<link>https://apnews.com/article/larry-cat-downing-street-anniversary-c5dd5cecf43867c2f53c307031d6717a</link>
+<pubDate>Sun, 15 Feb 2026 05:03:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘Adopt a Statue’ program for Milan’s iconic Duomo restores centuries-old marbles]]></title>
+<link>https://apnews.com/article/milan-duomo-adopt-statue-italy-3e1e7fbdfa57691fddca6c66da879306</link>
+<pubDate>Sun, 15 Feb 2026 16:16:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show masked revelers celebrating Shrovetide in Lithuania]]></title>
+<link>https://apnews.com/photo-gallery/shrovetide-carnival-lithuania-tradition-images-7d98c9b39acaffcb1972d9b540599390</link>
+<pubDate>Sun, 15 Feb 2026 16:01:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Whether it’s a mini-sabbatical or an adult gap year, more people are taking extended work breaks]]></title>
 <link>https://apnews.com/article/gap-year-sabbatical-work-leave-98b462aebde4587be9b08747340a8181</link>
 <pubDate>Sun, 15 Feb 2026 10:50:38 -0000</pubDate>
@@ -176,12 +188,6 @@
 <title><![CDATA[Larry the cat, Britain’s Chief Mouser at 10 Downing Street for 15 years, in photos]]></title>
 <link>https://apnews.com/photo-gallery/larry-cat-britain-chief-mouser-photos-7f404afc9686f9c906d06de83b534642</link>
 <pubDate>Sun, 15 Feb 2026 05:18:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘First feline’ Larry marks 15 years as Britain’s political top cat]]></title>
-<link>https://apnews.com/article/larry-cat-downing-street-anniversary-c5dd5cecf43867c2f53c307031d6717a</link>
-<pubDate>Sun, 15 Feb 2026 10:35:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -212,6 +218,12 @@
 <title><![CDATA[At least 6,000 killed over 3 days during RSF attack on Sudan’s el-Fasher, UN says]]></title>
 <link>https://apnews.com/article/sudan-rsf-darfur-fasher-un-report-6399bc86352cecd459dd5dd77e5e11f2</link>
 <pubDate>Sun, 15 Feb 2026 13:58:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show West Bank championship showcasing purebred Arabian horses in Jericho]]></title>
+<link>https://apnews.com/photo-gallery/arabian-horse-show-jericho-photos-23bae1f2a823f715897042402f47b933</link>
+<pubDate>Sun, 15 Feb 2026 15:46:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,21 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Newsom takes his anti-Trump arguments to Europe during Munich Security Conference]]></title>
-<link>https://apnews.com/article/gavin-newsom-donald-trump-aac5dff6adf8cc845ade1206f0900b45</link>
-<pubDate>Fri, 13 Feb 2026 22:24:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[DEA quietly resumes anti-drug coordination with Bolivia almost 20 years since its expulsion]]></title>
-<link>https://apnews.com/article/bolivia-dea-trump-paz-rubio-cocaine-morales-dfeb6213d8028628beb5dfa869cb3b32</link>
-<pubDate>Fri, 13 Feb 2026 22:09:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europeans push back at US over claim they face ‘civilizational erasure’]]></title>
 <link>https://apnews.com/article/munich-conference-europe-trump-rubio-kallas-0efc0b3d464f118e3e5d6748113c9271</link>
 <pubDate>Sun, 15 Feb 2026 12:25:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gaza’s Nasser Hospital condemns MSF decision to suspend most services]]></title>
+<link>https://apnews.com/article/israel-gaza-hamas-war-news-02-15-2026-345d17db61847356e5036407ed84a439</link>
+<pubDate>Sun, 15 Feb 2026 16:16:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Kurdish-majority neighborhood in Syria recovers from clashes with hope for the future]]></title>
-<link>https://apnews.com/article/syria-kurds-aleppo-sdf-neighborhood-a44dfe5f833544f6dec1e9f0ceac7653</link>
-<pubDate>Sun, 15 Feb 2026 05:18:04 -0000</pubDate>
+<title><![CDATA[Russia poisoned Alexei Navalny with dart frog toxin, European nations say]]></title>
+<link>https://apnews.com/article/russia-navalny-poisoned-europe-4d92cd67f29d37b74b0d4842ea686b03</link>
+<pubDate>Sat, 14 Feb 2026 16:16:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +383,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel resumes contentious West Bank land registration in new step to deepen control]]></title>
+<link>https://apnews.com/article/israel-west-bank-land-regulation-settlements-4fab1fbdf76b9db674c38a9ba18ff32e</link>
+<pubDate>Sun, 15 Feb 2026 16:01:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Kurdish-majority neighborhood in Syria recovers from clashes with hope for the future]]></title>
+<link>https://apnews.com/article/syria-kurds-aleppo-sdf-neighborhood-a44dfe5f833544f6dec1e9f0ceac7653</link>
+<pubDate>Sun, 15 Feb 2026 05:18:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia says 8,000 troops ready for possible peacekeeping mission in Gaza by June]]></title>
 <link>https://apnews.com/article/indonesia-gaza-military-peacekeepers-82ae6c8a8264b79c38722e84040dbbbd</link>
 <pubDate>Sun, 15 Feb 2026 13:58:13 -0000</pubDate>
@@ -386,18 +404,6 @@
 <title><![CDATA[A look at Ramadan and how Muslims observe the holy month]]></title>
 <link>https://apnews.com/article/islam-muslims-ramadan-fasting-explainer-3057195e90cc1f46108bdb02da177350</link>
 <pubDate>Sun, 15 Feb 2026 10:35:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US, Iran to hold new round of nuclear talks in Geneva this week, Swiss government says]]></title>
-<link>https://apnews.com/article/iran-nuclear-talks-washington-geneva-bae109cfba67b4062dc8592d131fa112</link>
-<pubDate>Sun, 15 Feb 2026 07:10:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protests draw more than half a million worldwide as Iran’s exiled crown prince urges more pressure]]></title>
-<link>https://apnews.com/article/iran-munich-protests-reza-pahlavi-53d2448dd26d28a1206ecefdfde168f2</link>
-<pubDate>Sun, 15 Feb 2026 09:20:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +446,12 @@
 <title><![CDATA[Rio police in ‘Money Heist’ and Jason masks apprehend Carnival phone thieves]]></title>
 <link>https://apnews.com/article/brazil-carnival-police-phones-theft-786fb86f62bcf753490f78957eabad8b</link>
 <pubDate>Sat, 14 Feb 2026 21:57:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Imprisoned Iranian Nobel Peace Prize winner Narges Mohammadi is in worsening health, husband says]]></title>
+<link>https://apnews.com/article/iran-nobel-peace-laureate-imprisoned-narges-mohammadi-9f2cd8ded2991d6200e7ddaa32a1c7a4</link>
+<pubDate>Sat, 14 Feb 2026 10:20:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
