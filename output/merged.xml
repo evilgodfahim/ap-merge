@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Feb 2026 21:45:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 22:12:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian security use dragnet spanning the entire country to arrest protesters]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-arrests-9de7c65d17920dc43568d3f025fed2cd</link>
@@ -464,6 +464,12 @@
 <title><![CDATA[People — and robots — are getting ready to celebrate the Lunar New Year in China]]></title>
 <link>https://apnews.com/article/china-lunar-new-year-robots-beijing-60e9b09dbdb6b8f055184f5cbb301c5a</link>
 <pubDate>Fri, 13 Feb 2026 12:18:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan captain says it is up to India to decide whether to shake hands at the T20 World Cup]]></title>
+<link>https://apnews.com/article/india-pakistan-cricket-handshake-world-cup-53a7619a56a3d59a3f6033ccdbcdc613</link>
+<pubDate>Sat, 14 Feb 2026 21:42:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
