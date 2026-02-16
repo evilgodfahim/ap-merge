@@ -3,17 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Feb 2026 09:41:10 GMT</lastBuildDate>
-<item>
-<title><![CDATA[A Kurdish-majority neighborhood in Syria recovers from clashes with hope for the future]]></title>
-<link>https://apnews.com/article/syria-kurds-aleppo-sdf-neighborhood-a44dfe5f833544f6dec1e9f0ceac7653</link>
-<pubDate>Mon, 16 Feb 2026 08:45:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Mon, 16 Feb 2026 10:38:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Indonesia says 8,000 troops ready for possible peacekeeping mission in Gaza by June]]></title>
 <link>https://apnews.com/article/indonesia-gaza-military-peacekeepers-82ae6c8a8264b79c38722e84040dbbbd</link>
 <pubDate>Mon, 16 Feb 2026 08:30:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at Ramadan and how Muslims observe the holy month]]></title>
+<link>https://apnews.com/article/islam-muslims-ramadan-fasting-explainer-3057195e90cc1f46108bdb02da177350</link>
+<pubDate>Sun, 15 Feb 2026 17:17:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran meets UN nuclear watchdog in Geneva ahead of a second round of US talks]]></title>
+<link>https://apnews.com/article/iran-nuclear-talks-us-geneva-8628f2dbd4c911cb4cda5fb92c1aadef</link>
+<pubDate>Mon, 16 Feb 2026 10:38:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 fans say they were told to stop raising Greenland flag during US-Denmark Olympic hockey game]]></title>
-<link>https://apnews.com/article/denmark-greenland-trump-hockey-flag-olympics-feae456efe1a8dcd60aa3271e6a31dc9</link>
-<pubDate>Sun, 15 Feb 2026 13:43:12 -0000</pubDate>
+<title><![CDATA[China grants UK and Canada visa-free entry, raising total to 79 countries]]></title>
+<link>https://apnews.com/article/china-uk-canada-visa-free-entry-4f4cbe1dc888876ba3256d0914f44f6d</link>
+<pubDate>Mon, 16 Feb 2026 10:23:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[A fireworks store explosion in China kills 8 ahead of Lunar New Year]]></title>
 <link>https://apnews.com/article/china-fireworks-explosion-lunar-new-year-bb438f51f10bbd16c0d05196135b2813</link>
 <pubDate>Mon, 16 Feb 2026 07:29:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at Ramadan and how Muslims observe the holy month]]></title>
-<link>https://apnews.com/article/islam-muslims-ramadan-fasting-explainer-3057195e90cc1f46108bdb02da177350</link>
-<pubDate>Sun, 15 Feb 2026 17:17:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Opening statements to start in the trial of a Georgia high school shooting suspect’s father]]></title>
+<title><![CDATA[Opening statements are set to start in the trial of a Georgia high school shooting suspect’s father]]></title>
 <link>https://apnews.com/article/georgia-school-shooting-apalachee-high-colin-gray-50b94cfc66b3e68cd2ccd07219eceddf</link>
-<pubDate>Mon, 16 Feb 2026 07:14:43 -0000</pubDate>
+<pubDate>Mon, 16 Feb 2026 10:08:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,12 +149,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India beats Pakistan by 61 runs in marquee group game at T20 World Cup. No handshakes again]]></title>
-<link>https://apnews.com/article/pakistan-india-t20-cricket-world-cup-f594292a2ab3ed4d1e27854d805cc0a7</link>
-<pubDate>Mon, 16 Feb 2026 06:38:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistan captain says it is up to India to decide whether to shake hands at the T20 World Cup]]></title>
 <link>https://apnews.com/article/india-pakistan-cricket-handshake-world-cup-53a7619a56a3d59a3f6033ccdbcdc613</link>
 <pubDate>Sun, 15 Feb 2026 06:55:26 -0000</pubDate>
@@ -170,6 +164,12 @@
 <title><![CDATA[India moves a step closer to buying Rafale fighter jets and maritime patrol aircraft]]></title>
 <link>https://apnews.com/article/rafale-france-macron-modi-p8i-us-india-3034e3f1026418206eaaa7b10a620bf4</link>
 <pubDate>Fri, 13 Feb 2026 21:54:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indian unions and farmers stage a nationwide strike over interim trade deal with US]]></title>
+<link>https://apnews.com/article/india-modi-protest-trade-deal-us-farmers-90746ddd26679ba11a180aa36a4612c5</link>
+<pubDate>Thu, 12 Feb 2026 11:02:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +458,12 @@
 <title><![CDATA[Eileen Gu says she’s disappointed she can’t get help with her packed Olympic schedule]]></title>
 <link>https://apnews.com/article/eileen-gu-freestyle-big-air-winter-olympics-40a12b3ec0b41c36bf009645bb766601</link>
 <pubDate>Mon, 16 Feb 2026 08:11:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India beats Pakistan by 61 runs in marquee group game at T20 World Cup. No handshakes again]]></title>
+<link>https://apnews.com/article/pakistan-india-t20-cricket-world-cup-f594292a2ab3ed4d1e27854d805cc0a7</link>
+<pubDate>Mon, 16 Feb 2026 00:55:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
