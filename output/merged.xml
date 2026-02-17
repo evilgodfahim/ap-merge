@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Feb 2026 18:41:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Feb 2026 19:39:41 GMT</lastBuildDate>
+<item>
+<title><![CDATA[The Damascus book fair draws crowds, with censorship eased in post-Assad Syria]]></title>
+<link>https://apnews.com/article/syria-damascus-international-book-fair-censorship-kurds-e160adebadccad076ba13269a8b5e9de</link>
+<pubDate>Tue, 17 Feb 2026 19:18:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[FIFA President Infantino celebrates in Beirut after receiving a Lebanese passport]]></title>
 <link>https://apnews.com/article/lebanon-citizenship-fifa-president-infantino-beirut-passport-2057186e8f75e2c03b437dd82ae287e1</link>
 <pubDate>Tue, 17 Feb 2026 12:36:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany will keep supporting Lebanon after UN peacekeepers leave, the German president says]]></title>
-<link>https://apnews.com/article/lebanon-germany-unifil-steinmeier-israel-hezbollah-87e388c70045435b2569c061c2b64c99</link>
-<pubDate>Mon, 16 Feb 2026 20:52:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lunar New Year prayers, robots and festivities usher in the Year of the Horse]]></title>
+<link>https://apnews.com/article/lunar-new-year-horse-37a6166548b209eda42e19c9fa3b61e0</link>
+<pubDate>Tue, 17 Feb 2026 19:03:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of Lunar New Year celebrations for the Year of the Horse]]></title>
 <link>https://apnews.com/photo-gallery/lunar-new-year-of-horse-514fb2d6e5c9e560b1b58b1698f96712</link>
 <pubDate>Tue, 17 Feb 2026 00:38:53 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Malaysia and Japan plan major cross-border carbon capture project, despite climate benefit doubts]]></title>
 <link>https://apnews.com/article/southeast-malaysia-japan-carbon-climate-b82fd0b245179dbdae14e5a057b9840b</link>
 <pubDate>Tue, 17 Feb 2026 06:43:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France’s Macron holds bilateral talks with India’s Modi to boost economic and strategic ties]]></title>
-<link>https://apnews.com/article/india-france-economic-strategic-talks-28486d29f4745afddd0e542605524e1e</link>
-<pubDate>Tue, 17 Feb 2026 17:31:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Minnesota’s Legislature braces for a federal immigration fight as the enforcement surge winds down]]></title>
+<link>https://apnews.com/article/minnesota-legislature-immigration-fraud-b4b11fa932852ea0cdf902e028a66b02</link>
+<pubDate>Tue, 17 Feb 2026 18:48:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The Rev. Jesse Jackson, who led the Civil Rights Movement for decades after King, has died at 84]]></title>
 <link>https://apnews.com/article/jesse-jackson-dies-43abb84d2ffc76d967f9a5596ebd0be1</link>
 <pubDate>Tue, 17 Feb 2026 17:01:59 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[There was ‘a bridge called Jesse Jackson’ across decades of civil rights advocacy]]></title>
 <link>https://apnews.com/article/jesse-jackson-dead-8ed88b7da0b911ed842f3c219cee77e8</link>
 <pubDate>Tue, 17 Feb 2026 16:13:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nancy Guthrie kidnapping investigators work with Walmart after identifying suspect’s backpack]]></title>
-<link>https://apnews.com/article/savannah-guthrie-mom-mother-missing-walmart-9b90363ef0e59fe69a7bd65e1445aa03</link>
-<pubDate>Tue, 17 Feb 2026 11:01:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[France’s Macron holds bilateral talks with India’s Modi to boost economic and strategic ties]]></title>
+<link>https://apnews.com/article/india-france-economic-strategic-talks-28486d29f4745afddd0e542605524e1e</link>
+<pubDate>Tue, 17 Feb 2026 17:31:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India hosts a high-stakes AI summit, drawing 20 leaders and top tech CEOs]]></title>
 <link>https://apnews.com/article/india-ai-modi-macron-lula-f32aa15263349dadad1840dadc75ca83</link>
 <pubDate>Tue, 17 Feb 2026 13:59:22 -0000</pubDate>
@@ -161,9 +167,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian man pleads guilty in assassination plot against prominent Sikh separatist leader in New York]]></title>
-<link>https://apnews.com/article/india-nikhil-gupta-pannun-sikh-murder-510a7b86f39b80305d4ff462243f2210</link>
-<pubDate>Sat, 14 Feb 2026 15:46:41 -0000</pubDate>
+<title><![CDATA[Colombia to resume peace talks with Gulf Clan drugs cartel]]></title>
+<link>https://apnews.com/article/colombia-peace-talks-gulf-clan-ca10d09808309e46c66b1887ad26c430</link>
+<pubDate>Tue, 17 Feb 2026 18:53:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A cheating claim violated the ‘spirit of curling’ at the Olympics. The sport is moving on]]></title>
+<link>https://apnews.com/article/winter-olympics-curling-7bc0bbfde34d2b5733360046eb1742f6</link>
+<pubDate>Tue, 17 Feb 2026 18:38:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of Londoners in costume sprinting with frying pans on Pancake Day]]></title>
+<link>https://apnews.com/photo-gallery/pancake-day-shrove-tuesday-6ce3032b7f6ef7c253d8091a07503f9d</link>
+<pubDate>Tue, 17 Feb 2026 18:23:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A fisherman is Jamaica’s new bobsled pilot. He wants to make the team known beyond ‘Cool Runnings’]]></title>
-<link>https://apnews.com/article/jamaica-bobsled-cool-runnings-fisherman-shane-pitter-5944c4c6eed7a5349e0bf78d4292a40f</link>
-<pubDate>Mon, 16 Feb 2026 16:45:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Olympic photo highlights from Day 10 of the Milan Cortina Winter Games]]></title>
-<link>https://apnews.com/photo-gallery/milan-olympics-photos-gallery-day-10-4ef8f8482043ffaa9dad1e135291917f</link>
-<pubDate>Mon, 16 Feb 2026 16:30:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man in northern Sweden suspected of selling sex with his wife to at least 120 men]]></title>
-<link>https://apnews.com/article/sexual-abuse-prostitution-sweden-procurement-9b964405d77b2fba9f7ecfd29947d21d</link>
-<pubDate>Mon, 16 Feb 2026 16:00:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran says it temporarily closed the Strait of Hormuz as it held more indirect talks with the US]]></title>
 <link>https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba</link>
 <pubDate>Tue, 17 Feb 2026 16:43:37 -0000</pubDate>
@@ -368,12 +368,6 @@
 <title><![CDATA[Bangladesh’s new prime minister is sworn in after his party’s landslide election win]]></title>
 <link>https://apnews.com/article/bangladesh-election-tarique-rahman-yunus-fbc4222e01bbc5aa7ac120801218ef24</link>
 <pubDate>Tue, 17 Feb 2026 11:01:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lunar New Year prayers, robots and festivities usher in the Year of the Horse]]></title>
-<link>https://apnews.com/article/lunar-new-year-horse-37a6166548b209eda42e19c9fa3b61e0</link>
-<pubDate>Tue, 17 Feb 2026 05:01:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prosecutors plan to charge an Israeli settler with killing a Palestinian activist in the West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-settlers-86621a794e0d3828b946c753bf08a4ea</link>
-<pubDate>Mon, 16 Feb 2026 18:28:30 -0000</pubDate>
+<title><![CDATA[Afghanistan says it has released 3 Pakistani soldiers captured during October cross-border fighting]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-fighting-soldiers-captured-released-24b23092f8cc24f60e8bd05c0e3453c9</link>
+<pubDate>Tue, 17 Feb 2026 18:53:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Damascus book fair draws crowds, with censorship eased in post-Assad Syria]]></title>
-<link>https://apnews.com/article/syria-damascus-international-book-fair-censorship-kurds-e160adebadccad076ba13269a8b5e9de</link>
-<pubDate>Mon, 16 Feb 2026 17:04:45 -0000</pubDate>
+<title><![CDATA[Prosecutors plan to charge an Israeli settler with killing a Palestinian activist in the West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-settlers-86621a794e0d3828b946c753bf08a4ea</link>
+<pubDate>Mon, 16 Feb 2026 18:28:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Producer of hit Israeli TV series ‘Tehran’ dies suddenly in Greece]]></title>
-<link>https://apnews.com/article/producer-israel-athens-dana-eden-tehran-died-cbc60a018e8bf43a0a10b583d7e79878</link>
-<pubDate>Mon, 16 Feb 2026 13:28:31 -0000</pubDate>
+<title><![CDATA[Germany will keep supporting Lebanon after UN peacekeepers leave, the German president says]]></title>
+<link>https://apnews.com/article/lebanon-germany-unifil-steinmeier-israel-hezbollah-87e388c70045435b2569c061c2b64c99</link>
+<pubDate>Mon, 16 Feb 2026 13:43:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
