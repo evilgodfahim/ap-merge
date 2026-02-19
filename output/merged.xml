@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Feb 2026 01:10:38 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Ramadan arrives in Gaza under shaky ceasefire deal, but the festive spirit eludes many Palestinians]]></title>
-<link>https://apnews.com/article/ramadan-preparations-gaza-israel-hamas-fragile-ceasefire-4cfc15a287210e3cebfd12d8da838ac7</link>
-<pubDate>Wed, 18 Feb 2026 21:02:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 19 Feb 2026 03:56:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about the Strait of Hormuz, which Iran says it temporarily closed for a military drill]]></title>
 <link>https://apnews.com/article/iran-strait-hormuz-us-protests-persian-gulf-db7159d715453977279ab9cfd918e6e4</link>
 <pubDate>Thu, 19 Feb 2026 00:55:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Afghanistan says it has released 3 Pakistani soldiers captured during October cross-border fighting]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-fighting-soldiers-captured-released-24b23092f8cc24f60e8bd05c0e3453c9</link>
+<pubDate>Tue, 17 Feb 2026 22:39:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan faces catastrophic hunger crisis as aid cuts force the WFP to turn away 3 in 4 children]]></title>
+<link>https://apnews.com/article/afghanistan-wfp-malnutrition-hunger-children-9caad6704732530ff4703e4384afea97</link>
+<pubDate>Thu, 19 Feb 2026 03:23:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Takaichi, reelected as Japan’s leader, wants to cooperate with US in rare earths development]]></title>
 <link>https://apnews.com/article/japan-takaichi-us-china-trump-defense-aa82f8a3b5a7120575072f390f30fb97</link>
 <pubDate>Wed, 18 Feb 2026 16:35:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine Vice President Duterte will seek presidency in 2028 but faces impeachment bids]]></title>
-<link>https://apnews.com/article/philippines-sara-duterte-ferdinand-marcos-jr-4b0cf78be1715e57de67520f9a1b2e7a</link>
-<pubDate>Wed, 18 Feb 2026 09:05:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos follow the color red through public and intimate spaces during the Lunar New Year]]></title>
-<link>https://apnews.com/photo-gallery/lunar-new-year-color-red-70ca7a13e7e1b37dc158488df5fa27a6</link>
-<pubDate>Thu, 19 Feb 2026 00:25:59 -0000</pubDate>
+<title><![CDATA[Why Trump’s comment on discussing Taiwan arms sales with China has raised concerns]]></title>
+<link>https://apnews.com/article/taiwan-china-explainer-trump-arms-sales-c466ea5047197b83907b283c5279f85d</link>
+<pubDate>Thu, 19 Feb 2026 03:08:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Strikes on 3 more alleged drug boats kill 11 people, US military says]]></title>
-<link>https://apnews.com/article/boat-strikes-drug-trafficking-trump-5504d20ac43e0f4796084d0f1cefe5ec</link>
-<pubDate>Wed, 18 Feb 2026 16:05:43 -0000</pubDate>
+<title><![CDATA[Inside the bribery plot that led to a DEA supervisor’s downfall in the Dominican Republic]]></title>
+<link>https://apnews.com/article/dominican-republic-us-embassy-dea-closed-corruption-83f1ecd65416c8eb45ce2c458292ab63</link>
+<pubDate>Thu, 19 Feb 2026 02:53:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Peru’s Congress removes interim President Jerí as he faces a corruption probe]]></title>
-<link>https://apnews.com/article/peru-jeri-president-congress-vote-8974236f989f7d9cbd8e54de7d3ef81e</link>
-<pubDate>Wed, 18 Feb 2026 10:45:42 -0000</pubDate>
+<title><![CDATA[Strikes on 3 more alleged drug boats kill 11 people, US military says]]></title>
+<link>https://apnews.com/article/boat-strikes-drug-trafficking-trump-5504d20ac43e0f4796084d0f1cefe5ec</link>
+<pubDate>Wed, 18 Feb 2026 16:05:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[US Southern Command chief meets Venezuela’s president weeks after Maduro’s capture]]></title>
 <link>https://apnews.com/article/venezuela-rodriguez-military-southern-command-a71652795f8d589a05ffc49dbca22fbc</link>
 <pubDate>Thu, 19 Feb 2026 00:55:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos follow the color red through public and intimate spaces during the Lunar New Year]]></title>
+<link>https://apnews.com/photo-gallery/lunar-new-year-color-red-70ca7a13e7e1b37dc158488df5fa27a6</link>
+<pubDate>Wed, 18 Feb 2026 22:21:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,9 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Benfica’s Prestianni denies racially insulting Real Madrid’s Vinícius in Champions League game]]></title>
-<link>https://apnews.com/article/vinicius-racism-prestianni-benfica-madrid-champions-league-820ccd5767e1fef81d92dba5a1a4f1dd</link>
-<pubDate>Wed, 18 Feb 2026 11:50:55 -0000</pubDate>
+<title><![CDATA[UN Security Council members blast Israel’s West Bank plans on eve of Trump’s Board of Peace meeting]]></title>
+<link>https://apnews.com/article/gaza-un-security-council-board-of-peace-trump-6567491f8c0c3d4b1c297fc67bf551f1</link>
+<pubDate>Wed, 18 Feb 2026 23:11:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
+<link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
+<pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US senators visit key Ukrainian port city as they push for fresh sanctions on Russia]]></title>
-<link>https://apnews.com/article/senators-ukraine-trump-sanctions-russia-185446e5f3ad5312abe60bec08a70839</link>
-<pubDate>Wed, 18 Feb 2026 19:39:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How one displaced family in Gaza is observing Ramadan’s first day under a fragile ceasefire deal]]></title>
-<link>https://apnews.com/article/gaza-palestinians-muslim-ramadan-fragile-ceasefire-7bbb872c203b34578feee00b990f825b</link>
-<pubDate>Wed, 18 Feb 2026 22:56:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Takaichi reappointment as Japan’s prime minister confirmed by lower house of parliament]]></title>
 <link>https://apnews.com/video/takaichi-reappointment-as-japans-prime-minister-confirmed-by-lower-house-of-parliament-02aa082335754e6f8f6bcecce94a15f1</link>
 <pubDate>Thu, 19 Feb 2026 01:10:38 -0000</pubDate>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
-<link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
-<pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
+<title><![CDATA[How one displaced family in Gaza is observing Ramadan’s first day under a fragile ceasefire deal]]></title>
+<link>https://apnews.com/article/gaza-palestinians-muslim-ramadan-fragile-ceasefire-7bbb872c203b34578feee00b990f825b</link>
+<pubDate>Wed, 18 Feb 2026 22:56:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Trump’s comment on discussing Taiwan arms sales with China has raised concerns]]></title>
-<link>https://apnews.com/article/taiwan-china-explainer-trump-arms-sales-c466ea5047197b83907b283c5279f85d</link>
-<pubDate>Wed, 18 Feb 2026 15:40:13 -0000</pubDate>
+<title><![CDATA[North Korean leader deploys 50 new rocket launchers ahead of major party congress]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-rocket-launchers-a5bc2a04eeed18f0e7f45295d283e936</link>
+<pubDate>Thu, 19 Feb 2026 03:28:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
