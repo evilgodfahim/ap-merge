@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Feb 2026 20:54:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 21:21:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rubio plans to update Netanyahu on US-Iran talks in Israel next week, officials say]]></title>
 <link>https://apnews.com/article/iran-trump-rubio-nuclear-talks-aa34c72f7d4fde4678509d65170a1463</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[After nearly 7 weeks and many rumors, Bolivia’s ex-leader reappears in his stronghold]]></title>
+<link>https://apnews.com/article/bolivia-evo-morales-rodrigo-paz-nicolas-maduro-donald-trump-6cb79d08bc8029e7d4ebbff1a7bfd380</link>
+<pubDate>Thu, 19 Feb 2026 21:21:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nationwide union strike in Argentina tests its leader Milei’s flagship labor overhaul]]></title>
 <link>https://apnews.com/article/argentina-labor-overhaul-milei-trump-strike-f95f293bd7eefe3c00a4d3a0d7656a5c</link>
 <pubDate>Thu, 19 Feb 2026 18:57:48 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Argentina’s Milei heads to the US again, balancing Trump ties with growing China trade]]></title>
 <link>https://apnews.com/article/argentina-milei-us-trump-china-b23f8bc5ffd461f17e395b786cbf896b</link>
 <pubDate>Thu, 19 Feb 2026 00:10:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Inside the bribery plot that led to a DEA supervisor’s downfall in the Dominican Republic]]></title>
-<link>https://apnews.com/article/dominican-republic-us-embassy-dea-closed-corruption-83f1ecd65416c8eb45ce2c458292ab63</link>
-<pubDate>Thu, 19 Feb 2026 02:53:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,27 +95,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Genealogy sites have helped solve major crimes. Police in Nancy Guthrie’s case might turn to them]]></title>
-<link>https://apnews.com/article/nancy-guthrie-savannah-guthrie-missing-mom-10ee20a0186bd8859c9b0a90f1d5c7da</link>
-<pubDate>Thu, 19 Feb 2026 20:21:00 -0000</pubDate>
+<title><![CDATA[Snow drought helped set the stage for deadly California avalanche, leading to unstable conditions]]></title>
+<link>https://apnews.com/article/avalanche-lake-tahoe-sierra-nevada-california-skiers-f8afce1e77b4174189ced70c22374014</link>
+<pubDate>Thu, 19 Feb 2026 05:03:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New Mexico reopens investigation into alleged illegal activity at Epstein’s former Zorro Ranch]]></title>
+<link>https://apnews.com/article/new-mexico-epstein-investigation-reopen-12dffa70784c6f468627962da3cf51b7</link>
+<pubDate>Thu, 19 Feb 2026 21:06:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[When Rhode Island shooter started firing, bystanders jumped into action to end the carnage]]></title>
+<link>https://apnews.com/article/hockey-rink-shooting-hero-rhode-island-pawtucket-fcf58def325c4c6698775e5d46e260fc</link>
+<pubDate>Thu, 19 Feb 2026 15:55:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[New Trump administration order could lead to the detention of thousands of legal refugees]]></title>
 <link>https://apnews.com/article/minnesota-immigration-crackdown-refugee-lawsuit-87e5e89ee4f68189638f9e77acfb2994</link>
 <pubDate>Thu, 19 Feb 2026 18:42:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Skiers with roots in Lake Tahoe’s alpine community among the 8 killed in California avalanche]]></title>
-<link>https://apnews.com/article/california-avalanche-tahoe-backcountry-skiers-dead-591d11d13b7e259f2e53784bf9835a98</link>
-<pubDate>Thu, 19 Feb 2026 18:27:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The backcountry ski trip hit by avalanche was led by an outfit offering mountain adventures globally]]></title>
-<link>https://apnews.com/article/california-avalanche-blackbird-mountain-guides-b6d57dd28a6b7c701b6ce112be8fd818</link>
-<pubDate>Wed, 18 Feb 2026 20:47:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[India hosts a high-stakes AI summit, drawing 20 leaders and top tech CEOs]]></title>
 <link>https://apnews.com/article/india-ai-modi-macron-lula-f32aa15263349dadad1840dadc75ca83</link>
 <pubDate>Tue, 17 Feb 2026 13:59:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-february-19-2026-dbee45bb53117b7cf1b1dc14605d5398</link>
+<pubDate>Thu, 19 Feb 2026 21:21:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Award-winning singer José van Dam dies at age 85]]></title>
+<link>https://apnews.com/article/jose-van-dam-dies-8c7691923db2181ba904f4fbe7a60d7b</link>
+<pubDate>Thu, 19 Feb 2026 21:06:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,9 +245,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope’s grand tour of Italy over the next few months takes him to Lampedusa and beyond]]></title>
+<title><![CDATA[Pope’s grand tour of Italy over the next few months takes him to Lampedusa on July 4]]></title>
 <link>https://apnews.com/article/pope-travel-italy-migration-5696766ed6505fee702970ab2f00863a</link>
-<pubDate>Thu, 19 Feb 2026 12:37:22 -0000</pubDate>
+<pubDate>Thu, 19 Feb 2026 20:51:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,33 +329,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hockey star Laila Edwards’ family cheers at Olympic debut, thanks to Kelce brothers and a GoFundMe]]></title>
+<title><![CDATA[Hockey star Laila Edwards’ family cheers at Olympic win, thanks to Kelce brothers and a GoFundMe]]></title>
 <link>https://apnews.com/article/laila-edwards-team-usa-womens-hockey-milan-cortina-olympics-ba4aa283178583fb51744f4b4723c3fc</link>
-<pubDate>Thu, 19 Feb 2026 05:18:01 -0000</pubDate>
+<pubDate>Thu, 19 Feb 2026 20:36:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Inside the bribery plot that led to a DEA supervisor’s downfall in the Dominican Republic]]></title>
+<link>https://apnews.com/article/dominican-republic-us-embassy-dea-closed-corruption-83f1ecd65416c8eb45ce2c458292ab63</link>
+<pubDate>Thu, 19 Feb 2026 20:21:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Christians mark Ash Wednesday, beginning the Lenten Season in photos]]></title>
 <link>https://apnews.com/photo-gallery/ash-wednesday-prayer-fasting-christians-lent-633b237020d31ed9c1b631a77fed918a</link>
 <pubDate>Thu, 19 Feb 2026 01:10:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Southern Command chief meets Venezuela’s president weeks after Maduro’s capture]]></title>
-<link>https://apnews.com/article/venezuela-rodriguez-military-southern-command-a71652795f8d589a05ffc49dbca22fbc</link>
-<pubDate>Thu, 19 Feb 2026 00:55:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How one displaced family in Gaza is observing Ramadan’s first day under a fragile ceasefire deal]]></title>
-<link>https://apnews.com/article/gaza-palestinians-muslim-ramadan-fragile-ceasefire-7bbb872c203b34578feee00b990f825b</link>
-<pubDate>Thu, 19 Feb 2026 16:25:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos follow the color red through public and intimate spaces during the Lunar New Year]]></title>
-<link>https://apnews.com/photo-gallery/lunar-new-year-color-red-70ca7a13e7e1b37dc158488df5fa27a6</link>
-<pubDate>Wed, 18 Feb 2026 22:21:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stock indexes drift lower as Walmart swings and oil prices rise]]></title>
+<title><![CDATA[US stocks slip as AI fears keep rumbling and oil prices climb]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d</link>
-<pubDate>Thu, 19 Feb 2026 17:09:35 -0000</pubDate>
+<pubDate>Thu, 19 Feb 2026 21:21:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,15 +443,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How one displaced family in Gaza is observing Ramadan’s first day under a fragile ceasefire deal]]></title>
+<link>https://apnews.com/article/gaza-palestinians-muslim-ramadan-fragile-ceasefire-7bbb872c203b34578feee00b990f825b</link>
+<pubDate>Wed, 18 Feb 2026 22:56:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
 <link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
 <pubDate>Thu, 19 Feb 2026 09:45:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Virginia Gov. Abigail Spanberger to give Democratic response to Trump’s State of the Union address]]></title>
-<link>https://apnews.com/article/spanberger-state-of-union-trump-f1699f6fe7886012193b6a320661bcd3</link>
-<pubDate>Thu, 19 Feb 2026 20:21:01 -0000</pubDate>
+<title><![CDATA[Dangerous conditions delay the recovery of 8 killed in California avalanche]]></title>
+<link>https://apnews.com/article/california-avalanche-tahoe-backcountry-skiers-dead-591d11d13b7e259f2e53784bf9835a98</link>
+<pubDate>Thu, 19 Feb 2026 21:06:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
