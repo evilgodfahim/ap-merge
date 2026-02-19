@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Feb 2026 10:32:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 11:30:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Drone strikes in Sudan’s Kordofan region take a toll on civilians and aid operations]]></title>
+<link>https://apnews.com/article/sudan-drones-kordofan-aid-kadugli-rsf-military-4e140876e5c2fe489655ad78089f9440</link>
+<pubDate>Thu, 19 Feb 2026 10:49:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Leila Shahid, first female Palestinian ambassador, dies in France at 76]]></title>
 <link>https://apnews.com/article/israel-palestinians-leila-shahid-plo-dies-c00b8a0dd4eb49c1fe93950c5e4323c1</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oscar-nominated co-writer of ‘It Was Just an Accident’ released from Iranian prison]]></title>
-<link>https://apnews.com/article/it-was-just-an-accident-iranian-writer-18a864bbd16a61dee430cdf1bae0d652</link>
-<pubDate>Wed, 18 Feb 2026 23:26:41 -0000</pubDate>
+<title><![CDATA[Paris prosecutors open 2 Epstein-linked probes and call on victims to come forward]]></title>
+<link>https://apnews.com/article/france-epstein-paris-prosecutor-opens-investigation-a6d1f3e6bf750b2aff55da9716323fa3</link>
+<pubDate>Wed, 18 Feb 2026 11:30:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
-<link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
-<pubDate>Thu, 19 Feb 2026 06:19:16 -0000</pubDate>
+<title><![CDATA[Afghanistan faces catastrophic hunger crisis as aid cuts force the WFP to turn away 3 in 4 children]]></title>
+<link>https://apnews.com/article/afghanistan-wfp-malnutrition-hunger-children-9caad6704732530ff4703e4384afea97</link>
+<pubDate>Thu, 19 Feb 2026 03:23:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Gas explosion kills 16 after apartment building partially collapsed in southern Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-gas-explosion-apartment-building-karachi-4d2faefbd893c8f8fe1123b82da465ca</link>
 <pubDate>Thu, 19 Feb 2026 09:34:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why Trump’s comment on discussing Taiwan arms sales with China has raised concerns]]></title>
-<link>https://apnews.com/article/taiwan-china-explainer-trump-arms-sales-c466ea5047197b83907b283c5279f85d</link>
-<pubDate>Thu, 19 Feb 2026 03:08:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[Strikes on 3 more alleged drug boats kill 11 people, US military says]]></title>
 <link>https://apnews.com/article/boat-strikes-drug-trafficking-trump-5504d20ac43e0f4796084d0f1cefe5ec</link>
 <pubDate>Wed, 18 Feb 2026 16:05:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Kenyan school like no other may be an African education blueprint]]></title>
+<link>https://apnews.com/article/kenya-dyslexia-education-6f638f1cb10a1a7274559891e7e19d79</link>
+<pubDate>Thu, 19 Feb 2026 10:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +119,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A fireworks shop explosion in China kills 12 people in the second such blast in days]]></title>
+<link>https://apnews.com/article/china-fireworks-shop-1bd93aaa34085dcb885ce0ac504d9a79</link>
+<pubDate>Wed, 18 Feb 2026 22:06:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A robotic dog made in China gets an Indian university kicked out of an AI summit]]></title>
 <link>https://apnews.com/article/india-ai-chinese-galgotias-university-robotic-dog-850acd70109cae9ae34c2b78923b2cbb</link>
 <pubDate>Wed, 18 Feb 2026 23:55:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s exports surge 17% in January, on strong shipments to China and other Asian markets]]></title>
+<link>https://apnews.com/article/japan-trade-tariffs-china-trump-4c819c831792bf452b0a612128273860</link>
+<pubDate>Thu, 19 Feb 2026 10:19:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,15 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US plans to deploy more missile launchers to the Philippines despite China’s alarm]]></title>
-<link>https://apnews.com/article/philippines-united-states-missile-systems-63705028db23da2c5a45ae7a46366b77</link>
-<pubDate>Tue, 17 Feb 2026 11:16:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lunar New Year prayers, robots and festivities usher in the Year of the Horse]]></title>
-<link>https://apnews.com/article/lunar-new-year-horse-37a6166548b209eda42e19c9fa3b61e0</link>
-<pubDate>Tue, 17 Feb 2026 19:03:26 -0000</pubDate>
+<title><![CDATA[Pennsylvania man cleared after 43 years in prison for murder denied bail during deportation fight]]></title>
+<link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-bf1f131e0c827718bab6fe5b84ef9c6f</link>
+<pubDate>Wed, 18 Feb 2026 04:41:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -155,9 +167,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India beats Pakistan by 61 runs in marquee group game at T20 World Cup. No handshakes again]]></title>
-<link>https://apnews.com/article/pakistan-india-t20-cricket-world-cup-f594292a2ab3ed4d1e27854d805cc0a7</link>
-<pubDate>Mon, 16 Feb 2026 06:38:45 -0000</pubDate>
+<title><![CDATA[Bulgaria’s new prime minister reaffirms country’s pro-Western orientation ahead of April vote]]></title>
+<link>https://apnews.com/article/bulgaria-government-elections-premier-gyurov-bf8d3423d49db01cf3552d859e1cb005</link>
+<pubDate>Thu, 19 Feb 2026 11:30:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fur remains a fixture in Cortina, the co-host city of the Winter Olympics, in photos]]></title>
+<link>https://apnews.com/photo-gallery/milan-cortina-catwalk-fur-photos-648acf2e290fcbc834c130a03b7dbf43</link>
+<pubDate>Thu, 19 Feb 2026 11:15:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US hockey star Haley Winn’s three older brothers are her biggest fans online and at the rink]]></title>
+<link>https://apnews.com/article/haley-winn-brothers-olympics-womens-hockey-d3d9096580f96f88519d31c18a8193c3</link>
+<pubDate>Thu, 19 Feb 2026 11:00:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at major events that led to ex-South Korean president’s conviction over martial law]]></title>
+<link>https://apnews.com/article/south-korean-yoon-timeline-9a5098f340d58c1a3777a72cf8a5063b</link>
+<pubDate>Thu, 19 Feb 2026 10:45:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,12 +230,6 @@
 <title><![CDATA[Hockey star Laila Edwards’ family cheers at Olympic debut, thanks to Kelce brothers and a GoFundMe]]></title>
 <link>https://apnews.com/article/laila-edwards-team-usa-womens-hockey-milan-cortina-olympics-ba4aa283178583fb51744f4b4723c3fc</link>
 <pubDate>Thu, 19 Feb 2026 05:18:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World shares are mixed, while US futures advance following a Wall St rally led by Nvidia]]></title>
-<link>https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d</link>
-<pubDate>Thu, 19 Feb 2026 08:49:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,33 +335,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A movie that takes liberties with ‘Wuthering Heights’? Scholars are OK with that]]></title>
-<link>https://apnews.com/article/wuthering-heights-bronte-book-vs-movie-56e532e88799c7e91752abebcd816286</link>
-<pubDate>Wed, 18 Feb 2026 15:28:10 -0000</pubDate>
+<title><![CDATA[Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office]]></title>
+<link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d</link>
+<pubDate>Thu, 19 Feb 2026 11:30:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Skeleton racer disqualified from Olympics returns to Ukraine, plans fundraiser for fallen athletes]]></title>
-<link>https://apnews.com/article/skeleton-ukraine-helmet-coventry-olympics-cortina-0e8caa07ed23dd5077aacb829c18316f</link>
-<pubDate>Wed, 18 Feb 2026 15:13:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thaci urges judges to acquit him in Kosovo war crimes case at The Hague]]></title>
-<link>https://apnews.com/article/kosovo-thaci-hague-crimes-court-e95207ce67fdea1c3e0b3c6e51593f4d</link>
-<pubDate>Wed, 18 Feb 2026 14:58:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Shiffrin ends her Olympic medal drought by winning slalom gold, in photos]]></title>
-<link>https://apnews.com/photo-gallery/milan-cortina-olympics-shiffrin-photos-c15dd197c5be8d66edcfdb849ab55926</link>
-<pubDate>Thu, 19 Feb 2026 00:40:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Winter Olympics are hurting main street in Livigno’s duty-free mountain enclave]]></title>
-<link>https://apnews.com/article/economic-impact-business-livigno-winter-olympics-9510466e4197c6eeedc402e079971879</link>
-<pubDate>Wed, 18 Feb 2026 14:28:10 -0000</pubDate>
+<title><![CDATA[UK’s former Prince Andrew arrested: Read the police statement in full]]></title>
+<link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-582dfea743b6174d2dfe56466d2f4981</link>
+<pubDate>Thu, 19 Feb 2026 11:15:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean leader deploys 50 new rocket launchers ahead of major party congress]]></title>
-<link>https://apnews.com/article/north-korea-kim-jong-un-rocket-launchers-a5bc2a04eeed18f0e7f45295d283e936</link>
-<pubDate>Thu, 19 Feb 2026 03:28:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Takaichi reappointment as Japan’s prime minister confirmed by lower house of parliament]]></title>
 <link>https://apnews.com/video/takaichi-reappointment-as-japans-prime-minister-confirmed-by-lower-house-of-parliament-02aa082335754e6f8f6bcecce94a15f1</link>
 <pubDate>Thu, 19 Feb 2026 01:10:38 -0000</pubDate>
@@ -374,6 +374,12 @@
 <title><![CDATA[Vandals break off piece of tusk from Bernini’s famous elephant sculpture in Rome]]></title>
 <link>https://apnews.com/video/vandals-break-off-piece-of-tusk-from-berninis-famous-elephant-sculpture-in-rome-66c977f815f04700babb9537c7321d77</link>
 <pubDate>Thu, 19 Feb 2026 00:55:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
+<link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
+<pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,51 +401,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone strikes in Sudan’s Kordofan region take a toll on civilians and aid operations]]></title>
-<link>https://apnews.com/article/sudan-drones-kordofan-aid-kadugli-rsf-military-4e140876e5c2fe489655ad78089f9440</link>
-<pubDate>Wed, 18 Feb 2026 19:24:57 -0000</pubDate>
+<title><![CDATA[World shares are mixed, while US futures advance following a Wall St rally led by Nvidia]]></title>
+<link>https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d</link>
+<pubDate>Thu, 19 Feb 2026 11:00:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nvidia leads the US stock market higher]]></title>
-<link>https://apnews.com/article/stocks-markets-warner-trump-japan-df3d7079839f96ff5816509aa4c73360</link>
-<pubDate>Wed, 18 Feb 2026 14:55:13 -0000</pubDate>
+<title><![CDATA[Bernie Sanders and Gavin Newsom become adversaries over push to tax California billionaires]]></title>
+<link>https://apnews.com/article/california-billionaires-bernie-sanders-gavin-newsom-democrats-87a1e54f463aad49a2093382969e5cca</link>
+<pubDate>Thu, 19 Feb 2026 10:45:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports surge 17% in January, on strong shipments to China and other Asian markets]]></title>
-<link>https://apnews.com/article/japan-trade-tariffs-china-trump-4c819c831792bf452b0a612128273860</link>
-<pubDate>Wed, 18 Feb 2026 05:50:35 -0000</pubDate>
+<title><![CDATA[Grandson of the inventor of Reese’s Peanut Butter Cups accuses Hershey of cutting corners]]></title>
+<link>https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3</link>
+<pubDate>Thu, 19 Feb 2026 10:30:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From automated farm tractors to exam paper grading, AI boosts efficiency for some in India]]></title>
-<link>https://apnews.com/article/india-ai-summit-artificial-intelligence-education-farmers-fc59f14e0cfefc212ea727be9c407186</link>
-<pubDate>Wed, 18 Feb 2026 04:49:55 -0000</pubDate>
+<title><![CDATA[eBay is buying Depop in a $1.2 billion deal]]></title>
+<link>https://apnews.com/article/ebay-etsy-depop-gen-z-b8787b5326cb3a010f4d9e3468ee3171</link>
+<pubDate>Thu, 19 Feb 2026 10:15:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mark Zuckerberg quizzed on kids’ Instagram use in social media trial]]></title>
-<link>https://apnews.com/article/mark-zuckerberg-trial-testimony-instagram-c8cbaa32ccbf4933ec3a7beebd6cf34b</link>
-<pubDate>Wed, 18 Feb 2026 22:06:50 -0000</pubDate>
+<title><![CDATA[DoorDash sees strong quarterly growth in sales and orders but warns of big costs]]></title>
+<link>https://apnews.com/article/doordash-delivery-earnings-sales-orders-abc0436d8160a0469000b976427149f0</link>
+<pubDate>Thu, 19 Feb 2026 10:00:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Edmunds Top Rated vehicle awards for 2026]]></title>
-<link>https://apnews.com/article/vehicle-reviews-shopping-8d407cf20abe5febacca0a3f35cb7bd2</link>
-<pubDate>Wed, 18 Feb 2026 14:40:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Paris prosecutors open 2 Epstein-linked probes and call on victims to come forward]]></title>
-<link>https://apnews.com/article/france-epstein-paris-prosecutor-opens-investigation-a6d1f3e6bf750b2aff55da9716323fa3</link>
-<pubDate>Wed, 18 Feb 2026 11:04:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanistan faces catastrophic hunger crisis as aid cuts force the WFP to turn away 3 in 4 children]]></title>
-<link>https://apnews.com/article/afghanistan-wfp-malnutrition-hunger-children-9caad6704732530ff4703e4384afea97</link>
-<pubDate>Thu, 19 Feb 2026 06:19:17 -0000</pubDate>
+<title><![CDATA[North Korean leader deploys 50 new rocket launchers ahead of major party congress]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-rocket-launchers-a5bc2a04eeed18f0e7f45295d283e936</link>
+<pubDate>Thu, 19 Feb 2026 03:28:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Kenyan school like no other may be an African education blueprint]]></title>
-<link>https://apnews.com/article/kenya-dyslexia-education-6f638f1cb10a1a7274559891e7e19d79</link>
-<pubDate>Thu, 19 Feb 2026 04:33:01 -0000</pubDate>
+<title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
+<link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
+<pubDate>Thu, 19 Feb 2026 09:45:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A fireworks shop explosion in China kills 12 people in the second such blast in days]]></title>
-<link>https://apnews.com/article/china-fireworks-shop-1bd93aaa34085dcb885ce0ac504d9a79</link>
-<pubDate>Wed, 18 Feb 2026 12:05:56 -0000</pubDate>
+<title><![CDATA[Why Trump’s comment on discussing Taiwan arms sales with China has raised concerns]]></title>
+<link>https://apnews.com/article/taiwan-china-explainer-trump-arms-sales-c466ea5047197b83907b283c5279f85d</link>
+<pubDate>Wed, 18 Feb 2026 15:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pennsylvania man cleared after 43 years in prison for murder denied bail during deportation fight]]></title>
-<link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-bf1f131e0c827718bab6fe5b84ef9c6f</link>
-<pubDate>Tue, 17 Feb 2026 17:02:00 -0000</pubDate>
+<title><![CDATA[From automated farm tractors to exam paper grading, AI boosts efficiency for some in India]]></title>
+<link>https://apnews.com/article/india-ai-summit-artificial-intelligence-education-farmers-fc59f14e0cfefc212ea727be9c407186</link>
+<pubDate>Wed, 18 Feb 2026 04:49:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
