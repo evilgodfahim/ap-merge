@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Feb 2026 19:53:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 20:21:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rubio plans to update Netanyahu on US-Iran talks in Israel next week, officials say]]></title>
 <link>https://apnews.com/article/iran-trump-rubio-nuclear-talks-aa34c72f7d4fde4678509d65170a1463</link>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean leader deploys 50 new rocket launchers ahead of major party congress]]></title>
-<link>https://apnews.com/article/north-korea-kim-jong-un-rocket-launchers-a5bc2a04eeed18f0e7f45295d283e936</link>
-<pubDate>Thu, 19 Feb 2026 19:12:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Afghanistan faces catastrophic hunger crisis as aid cuts force the WFP to turn away 3 in 4 children]]></title>
 <link>https://apnews.com/article/afghanistan-wfp-malnutrition-hunger-children-9caad6704732530ff4703e4384afea97</link>
 <pubDate>Thu, 19 Feb 2026 03:23:50 -0000</pubDate>
@@ -50,6 +44,12 @@
 <title><![CDATA[Modi pitches India as global artificial intelligence hub at AI summit]]></title>
 <link>https://apnews.com/article/india-ai-summit-modi-artificial-intelligence-67c2b5a37f98e0a6ebb81136e0287969</link>
 <pubDate>Thu, 19 Feb 2026 07:26:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan summons an Afghan diplomat after a suicide attack kills 11 soldiers]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-attack-protest-49b34fa0755c15ee8b289e2945eb2f3e</link>
+<pubDate>Thu, 19 Feb 2026 13:46:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Genealogy sites have helped solve major crimes. Police in Nancy Guthrie’s case might turn to them]]></title>
+<link>https://apnews.com/article/nancy-guthrie-savannah-guthrie-missing-mom-10ee20a0186bd8859c9b0a90f1d5c7da</link>
+<pubDate>Thu, 19 Feb 2026 20:21:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New Trump administration order could lead to the detention of thousands of legal refugees]]></title>
 <link>https://apnews.com/article/minnesota-immigration-crackdown-refugee-lawsuit-87e5e89ee4f68189638f9e77acfb2994</link>
 <pubDate>Thu, 19 Feb 2026 18:42:48 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[The backcountry ski trip hit by avalanche was led by an outfit offering mountain adventures globally]]></title>
 <link>https://apnews.com/article/california-avalanche-blackbird-mountain-guides-b6d57dd28a6b7c701b6ce112be8fd818</link>
 <pubDate>Wed, 18 Feb 2026 20:47:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Snow drought helped set the stage for deadly California avalanche, leading to unstable conditions]]></title>
-<link>https://apnews.com/article/avalanche-lake-tahoe-sierra-nevada-california-skiers-f8afce1e77b4174189ced70c22374014</link>
-<pubDate>Thu, 19 Feb 2026 05:03:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Moroccan court sentences 19 soccer fans to prison over hooliganism at chaotic Africa Cup final]]></title>
+<link>https://apnews.com/article/morocco-fans-jailed-africa-cup-of-nations-2ff8a14bcad99680097f80edb2885ed1</link>
+<pubDate>Thu, 19 Feb 2026 20:21:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kosovo’s Catholics and Muslims mark Ash Wednesday and Ramadan in one week]]></title>
+<link>https://apnews.com/article/kosovo-ash-ramadan-6b5c20bbbf44aae7e7bdad6bab9e5913</link>
+<pubDate>Thu, 19 Feb 2026 20:06:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US pays about $160 million of the nearly $4 billion it owes the United Nations]]></title>
 <link>https://apnews.com/article/un-us-budget-dues-trump-payment-7d68c072d470f989006b7d674ba85aaa</link>
 <pubDate>Thu, 19 Feb 2026 19:12:48 -0000</pubDate>
@@ -206,12 +218,6 @@
 <title><![CDATA[A resistance leader in Myanmar turns himself in to the army after clashing with rival force]]></title>
 <link>https://apnews.com/article/myanmar-resistance-army-nug-pdf-sagaing-176a2670178fe9961d1f3dc3324ff715</link>
 <pubDate>Thu, 19 Feb 2026 14:55:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan summons an Afghan diplomat after a suicide attack kills 11 soldiers]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-attack-protest-49b34fa0755c15ee8b289e2945eb2f3e</link>
-<pubDate>Thu, 19 Feb 2026 18:42:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Study finds warming world increases days when weather is prone to fires around the globe]]></title>
-<link>https://apnews.com/article/wildfires-climate-change-hot-dry-weather-global-7847530d84dd3ee53c5a355519dbd747</link>
-<pubDate>Wed, 18 Feb 2026 23:26:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office over ties to Epstein]]></title>
 <link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d</link>
 <pubDate>Thu, 19 Feb 2026 14:01:24 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump warns of ‘bad things’ if Iran doesn’t make a deal, as US carrier nears Mideast]]></title>
-<link>https://apnews.com/article/iran-us-russia-drill-nuclear-talks-aircraft-carrier-0456903e0d7a24cfcdc33d53732dee2f</link>
-<pubDate>Thu, 19 Feb 2026 19:12:49 -0000</pubDate>
+<title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
+<link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
+<pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -374,6 +374,12 @@
 <title><![CDATA[Vandals break off piece of tusk from Bernini’s famous elephant sculpture in Rome]]></title>
 <link>https://apnews.com/video/vandals-break-off-piece-of-tusk-from-berninis-famous-elephant-sculpture-in-rome-66c977f815f04700babb9537c7321d77</link>
 <pubDate>Thu, 19 Feb 2026 00:55:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump warns of ‘bad things’ if Iran doesn’t make a deal, as US carrier nears Mideast]]></title>
+<link>https://apnews.com/article/iran-us-russia-drill-nuclear-talks-aircraft-carrier-0456903e0d7a24cfcdc33d53732dee2f</link>
+<pubDate>Thu, 19 Feb 2026 19:12:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,12 +398,6 @@
 <title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
 <link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
 <pubDate>Thu, 19 Feb 2026 17:24:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
-<link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
-<pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former South Korean president receives life sentence for imposing martial law in 2024]]></title>
-<link>https://apnews.com/article/south-korea-yoon-suk-yeol-martial-law-verdict-rebellion-5d5f5c3a82590dc805b41b905f5bbca1</link>
-<pubDate>Thu, 19 Feb 2026 12:37:22 -0000</pubDate>
+<title><![CDATA[North Korean leader deploys 50 new rocket launchers ahead of major party congress]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-rocket-launchers-a5bc2a04eeed18f0e7f45295d283e936</link>
+<pubDate>Thu, 19 Feb 2026 03:28:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Genealogy sites have helped solve major crimes. Police in Nancy Guthrie’s case might turn to them]]></title>
-<link>https://apnews.com/article/nancy-guthrie-savannah-guthrie-missing-mom-10ee20a0186bd8859c9b0a90f1d5c7da</link>
-<pubDate>Thu, 19 Feb 2026 18:57:49 -0000</pubDate>
+<title><![CDATA[Virginia Gov. Abigail Spanberger to give Democratic response to Trump’s State of the Union address]]></title>
+<link>https://apnews.com/article/spanberger-state-of-union-trump-f1699f6fe7886012193b6a320661bcd3</link>
+<pubDate>Thu, 19 Feb 2026 20:21:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
