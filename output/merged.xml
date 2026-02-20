@@ -3,23 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Feb 2026 10:01:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 11:01:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
+<link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
+<pubDate>Thu, 19 Feb 2026 22:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[18 killed in road collision in northeastern Egypt]]></title>
 <link>https://apnews.com/article/egypt-crash-truck-port-said-1a103ee83308c892783551eb6abf9edf</link>
 <pubDate>Fri, 20 Feb 2026 01:06:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the US military assets in the Middle East]]></title>
-<link>https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40</link>
-<pubDate>Thu, 19 Feb 2026 22:41:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK’s former Prince Andrew arrested: Read the statements in full from the police and King Charles]]></title>
-<link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-582dfea743b6174d2dfe56466d2f4981</link>
-<pubDate>Thu, 19 Feb 2026 16:55:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +29,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian-run areas of Ukraine face water, heat and housing woes]]></title>
+<link>https://apnews.com/article/russia-occupied-ukraine-war-11fa1be55833294fdc8c45c7c1a5dd77</link>
+<pubDate>Fri, 20 Feb 2026 11:01:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ex-South Korean president remains defiant following life sentence for rebellion]]></title>
 <link>https://apnews.com/article/south-korea-yoon-martial-law-life-sentence-8e897feb85caaf581f0e7a607556f832</link>
 <pubDate>Fri, 20 Feb 2026 09:02:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India joins US-led initiative to build secure technology supply chains]]></title>
-<link>https://apnews.com/article/pax-silica-india-us-trump-modi-994d1cea76275cae7649fb8dcec13125</link>
-<pubDate>Fri, 20 Feb 2026 07:46:13 -0000</pubDate>
+<title><![CDATA[Osaka city stunned by anonymous gold bar gift worth $3.6M to fix aging water pipes]]></title>
+<link>https://apnews.com/article/japan-osaka-gold-donation-water-pipes-2f2e68017b7b041858c2de46a67be7ab</link>
+<pubDate>Fri, 20 Feb 2026 10:46:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesia’s president reaches a trade deal with US while in Washington for Trump’s Board of Peace]]></title>
-<link>https://apnews.com/article/trade-indonesia-trump-vietnam-board-of-peace-9e8d5ea68089d9cffdf6253edcd03bc8</link>
-<pubDate>Fri, 20 Feb 2026 04:41:17 -0000</pubDate>
+<title><![CDATA[India joins US-led initiative to build secure technology supply chains]]></title>
+<link>https://apnews.com/article/pax-silica-india-us-trump-modi-994d1cea76275cae7649fb8dcec13125</link>
+<pubDate>Fri, 20 Feb 2026 07:46:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A macabre dispute has kept the body of Zambia’s former president unburied for months]]></title>
+<link>https://apnews.com/article/zambia-burial-dispute-rival-presidents-bewitched-e8ee0535aaf63f966c2087f52953d0dc</link>
+<pubDate>Fri, 20 Feb 2026 10:31:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
 <link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
 <pubDate>Thu, 19 Feb 2026 06:19:16 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[A Kenyan school like no other may be an African education blueprint]]></title>
 <link>https://apnews.com/article/kenya-dyslexia-education-6f638f1cb10a1a7274559891e7e19d79</link>
 <pubDate>Thu, 19 Feb 2026 10:34:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A son of late Zimbabwe President Mugabe is arrested in South Africa over a shooting]]></title>
-<link>https://apnews.com/article/south-africa-mugabe-son-shooting-b28358296e8d80f2a0b5c00a5d1ba9d0</link>
-<pubDate>Thu, 19 Feb 2026 16:25:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,15 +167,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Torrential rains unleash landslides that kill 7 in southern Philippines]]></title>
+<link>https://apnews.com/article/philippines-landslides-flooding-a1ac97907842c363885ea8193e6220b4</link>
+<pubDate>Fri, 20 Feb 2026 10:35:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nigerian police say armed group killed 33 in fresh simultaneous attacks]]></title>
+<link>https://apnews.com/article/nigeria-attacks-33-killed-kebbi-ae73bbcf56f088ee5120a9c89cb63738</link>
+<pubDate>Fri, 20 Feb 2026 10:20:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Poland withdraws from treaty banning antipersonnel mines and will use them to defend against Russia]]></title>
+<link>https://apnews.com/article/poland-land-mines-ottawa-convention-russia-ukraine-1d2d9a1daccf2a55265dd0b2db5ebdb5</link>
+<pubDate>Fri, 20 Feb 2026 09:50:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Social media companies face legal reckoning over mental health harms to children]]></title>
 <link>https://apnews.com/article/social-media-trials-meta-zuckerberg-youtube-tiktok-addiction-85c4d813c42845aeb3f913ec8f2f3e86</link>
 <pubDate>Fri, 20 Feb 2026 06:28:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed, US futures edge higher as AI fears drag Wall Street lower]]></title>
+<title><![CDATA[World shares, US futures advance after AI fears drag Wall Street lower]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-trump-ai-oil-9e92f1913a1b97aa49f674fda96f0b65</link>
-<pubDate>Fri, 20 Feb 2026 06:13:45 -0000</pubDate>
+<pubDate>Fri, 20 Feb 2026 09:35:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,33 +341,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Biathlon’s military legacy lives on as Olympic athletes combine sport and service]]></title>
-<link>https://apnews.com/article/biathlon-olympics-military-soldier-49120e21432c8e2a3c0cd72e5fe9f390</link>
-<pubDate>Thu, 19 Feb 2026 12:22:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bulgaria’s new prime minister reaffirms country’s pro-Western orientation ahead of April vote]]></title>
-<link>https://apnews.com/article/bulgaria-government-elections-premier-gyurov-bf8d3423d49db01cf3552d859e1cb005</link>
-<pubDate>Thu, 19 Feb 2026 11:30:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fur remains a fixture in Cortina, the co-host city of the Winter Olympics, in photos]]></title>
-<link>https://apnews.com/photo-gallery/milan-cortina-catwalk-fur-photos-648acf2e290fcbc834c130a03b7dbf43</link>
-<pubDate>Thu, 19 Feb 2026 11:15:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show former Prince Andrew’s royal career before facing Epstein files fallout]]></title>
-<link>https://apnews.com/photo-gallery/britain-epstein-andrew-former-prince-arrested-1eabcfff09626fbed29a5920ffe506f9</link>
-<pubDate>Thu, 19 Feb 2026 13:31:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police continue to search Andrew Mountbatten-Windsor’s former stately home, a day after his arrest]]></title>
+<title><![CDATA[Police are searching Andrew Mountbatten-Windsor’s former home, a day after his arrest]]></title>
 <link>https://apnews.com/article/andrew-mountbatten-windsor-arrest-king-charles-61ea3c437680b8341e623e4d9efa47b8</link>
-<pubDate>Fri, 20 Feb 2026 10:01:07 -0000</pubDate>
+<pubDate>Fri, 20 Feb 2026 11:01:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranians grieve defiantly for thousands killed in last month’s crackdown]]></title>
+<link>https://apnews.com/article/iran-protests-memorials-chehelom-71e5db503a287126a2d31cb32a2809eb</link>
+<pubDate>Thu, 19 Feb 2026 18:09:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say]]></title>
 <link>https://apnews.com/article/israel-west-bank-gaza-war-palestinians-ec2736c95acf273a9fb1f2d541f46bb5</link>
 <pubDate>Fri, 20 Feb 2026 07:28:10 -0000</pubDate>
@@ -398,12 +398,6 @@
 <title><![CDATA[Trump wants his Board of Peace to solve world conflicts. It still has a lot of work to do in Gaza]]></title>
 <link>https://apnews.com/article/board-of-peace-explainer-trump-gaza-meeting-32c489a86937f91d6649df4f48f1dcdc</link>
 <pubDate>Wed, 18 Feb 2026 16:50:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
-<link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
-<pubDate>Thu, 19 Feb 2026 17:24:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +440,6 @@
 <title><![CDATA[Milei’s overhaul of Argentina labor law advances in Congress as unions strike in protest]]></title>
 <link>https://apnews.com/article/argentina-labor-overhaul-milei-trump-strike-f95f293bd7eefe3c00a4d3a0d7656a5c</link>
 <pubDate>Fri, 20 Feb 2026 04:41:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A macabre dispute has kept the body of Zambia’s former president unburied for months]]></title>
-<link>https://apnews.com/article/zambia-burial-dispute-rival-presidents-bewitched-e8ee0535aaf63f966c2087f52953d0dc</link>
-<pubDate>Fri, 20 Feb 2026 06:58:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
