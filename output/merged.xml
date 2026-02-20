@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Feb 2026 07:28:10 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
-<link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
-<pubDate>Thu, 19 Feb 2026 22:56:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Fri, 20 Feb 2026 08:01:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[18 killed in road collision in northeastern Egypt]]></title>
 <link>https://apnews.com/article/egypt-crash-truck-port-said-1a103ee83308c892783551eb6abf9edf</link>
 <pubDate>Fri, 20 Feb 2026 01:06:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at the US military assets in the Middle East]]></title>
+<link>https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40</link>
+<pubDate>Thu, 19 Feb 2026 22:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian-run areas of Ukraine face water, heat and housing woes — and hunts for the disloyal]]></title>
+<title><![CDATA[Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say]]></title>
 <link>https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07</link>
-<pubDate>Fri, 20 Feb 2026 06:34:51 -0000</pubDate>
+<pubDate>Fri, 20 Feb 2026 08:01:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s traditional kimonos are being repurposed in creative and sustainable ways]]></title>
-<link>https://apnews.com/article/japan-kimono-fashion-sustainability-recycling-tradition-b35e9f20b049321734787b8f0588f20a</link>
-<pubDate>Fri, 20 Feb 2026 04:56:17 -0000</pubDate>
+<title><![CDATA[India joins US-led initiative to build secure technology supply chains]]></title>
+<link>https://apnews.com/article/pax-silica-india-us-trump-modi-994d1cea76275cae7649fb8dcec13125</link>
+<pubDate>Fri, 20 Feb 2026 07:46:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio plans to update Netanyahu on US-Iran talks in Israel next week, officials say]]></title>
-<link>https://apnews.com/article/iran-trump-rubio-nuclear-talks-aa34c72f7d4fde4678509d65170a1463</link>
-<pubDate>Thu, 19 Feb 2026 17:10:57 -0000</pubDate>
+<title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
+<link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
+<pubDate>Thu, 19 Feb 2026 06:19:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +92,6 @@
 <title><![CDATA[A son of late Zimbabwe President Mugabe is arrested in South Africa over a shooting]]></title>
 <link>https://apnews.com/article/south-africa-mugabe-son-shooting-b28358296e8d80f2a0b5c00a5d1ba9d0</link>
 <pubDate>Thu, 19 Feb 2026 16:25:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Somalia renews its US-backed fight against al-Shabab militant group. Here is why it matters]]></title>
-<link>https://apnews.com/article/somalia-alshabab-us-airstrikes-7eb4ec699961cea8efea63646dcb7751</link>
-<pubDate>Thu, 19 Feb 2026 05:18:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +176,12 @@
 <title><![CDATA[Asian shares are mixed, US futures edge higher as AI fears drag Wall Street lower]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-trump-ai-oil-9e92f1913a1b97aa49f674fda96f0b65</link>
 <pubDate>Fri, 20 Feb 2026 06:13:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The kimono gets a vibrant remake in Japan]]></title>
+<link>https://apnews.com/article/japan-kimono-fashion-sustainability-recycling-tradition-b35e9f20b049321734787b8f0588f20a</link>
+<pubDate>Fri, 20 Feb 2026 08:01:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at major events that led to ex-South Korean president’s conviction over martial law]]></title>
-<link>https://apnews.com/article/south-korean-yoon-timeline-9a5098f340d58c1a3777a72cf8a5063b</link>
-<pubDate>Thu, 19 Feb 2026 10:45:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office over ties to Epstein]]></title>
 <link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d</link>
 <pubDate>Thu, 19 Feb 2026 14:01:24 -0000</pubDate>
@@ -362,6 +356,12 @@
 <title><![CDATA[Venezuela approves amnesty that could release hundreds detained for political reasons]]></title>
 <link>https://apnews.com/article/venezuela-amnesty-prisoners-delcy-rodriguez-855e4fa19251f29e7abd42f18e167365</link>
 <pubDate>Fri, 20 Feb 2026 05:11:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian-run areas of Ukraine face water, heat and housing woes — and hunts for the disloyal]]></title>
+<link>https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07</link>
+<pubDate>Fri, 20 Feb 2026 04:56:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,6 +407,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
+<link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
+<pubDate>Thu, 19 Feb 2026 17:24:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US stocks slip as AI fears keep rumbling and oil prices climb]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d</link>
 <pubDate>Thu, 19 Feb 2026 21:21:35 -0000</pubDate>
@@ -446,6 +452,12 @@
 <title><![CDATA[Milei’s overhaul of Argentina labor law advances in Congress as unions strike in protest]]></title>
 <link>https://apnews.com/article/argentina-labor-overhaul-milei-trump-strike-f95f293bd7eefe3c00a4d3a0d7656a5c</link>
 <pubDate>Fri, 20 Feb 2026 04:41:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rubio plans to update Netanyahu on US-Iran talks in Israel next week, officials say]]></title>
+<link>https://apnews.com/article/iran-trump-rubio-nuclear-talks-aa34c72f7d4fde4678509d65170a1463</link>
+<pubDate>Thu, 19 Feb 2026 06:04:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
