@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Feb 2026 06:11:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 07:28:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Countries that attended Trump’s first Board of Peace meeting in Washington]]></title>
 <link>https://apnews.com/article/trump-board-of-peace-participants-b9b7e438caeca308c153b60c032895b9</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office over ties to Epstein]]></title>
-<link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d</link>
-<pubDate>Fri, 20 Feb 2026 05:11:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[UK’s former Prince Andrew arrested: Read the statements in full from the police and King Charles]]></title>
 <link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-582dfea743b6174d2dfe56466d2f4981</link>
 <pubDate>Thu, 19 Feb 2026 16:55:57 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[The former Prince Andrew went from helicopter pilot to trade envoy to royal pariah]]></title>
 <link>https://apnews.com/article/andrew-mountbatten-windsor-profile-d64e61fd0214a68b9a05fc0da95d9486</link>
 <pubDate>Thu, 19 Feb 2026 11:52:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian-run areas of Ukraine face water, heat and housing woes — and hunts for the disloyal]]></title>
+<link>https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07</link>
+<pubDate>Fri, 20 Feb 2026 06:34:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -170,6 +170,18 @@
 <title><![CDATA[India eyes $200B in data center investments as it ramps up its AI hub ambitions]]></title>
 <link>https://apnews.com/article/india-modi-vaishnaw-ai-investments-4e170da0a3b883a9659569dd538e9019</link>
 <pubDate>Tue, 17 Feb 2026 06:28:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Social media companies face legal reckoning over mental health harms to children]]></title>
+<link>https://apnews.com/article/social-media-trials-meta-zuckerberg-youtube-tiktok-addiction-85c4d813c42845aeb3f913ec8f2f3e86</link>
+<pubDate>Fri, 20 Feb 2026 06:28:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares are mixed, US futures edge higher as AI fears drag Wall Street lower]]></title>
+<link>https://apnews.com/article/stocks-markets-iran-trump-ai-oil-9e92f1913a1b97aa49f674fda96f0b65</link>
+<pubDate>Fri, 20 Feb 2026 06:13:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +353,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bus crash in South Africa leaves 4 dead, 31 hurt as rescue efforts continue]]></title>
-<link>https://apnews.com/article/south-africa-bus-crash-limpopo-fatalities-3c5ecf313428c8b33292a362d0af8571</link>
-<pubDate>Thu, 19 Feb 2026 09:34:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Toxic gas leak at mine in Nigeria kills 37 people]]></title>
-<link>https://apnews.com/article/nigeria-gas-leak-accident-f6e3d762cc1c36157921f5b0dc869c87</link>
-<pubDate>Thu, 19 Feb 2026 09:19:25 -0000</pubDate>
+<title><![CDATA[Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office over ties to Epstein]]></title>
+<link>https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d</link>
+<pubDate>Thu, 19 Feb 2026 14:01:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian-run areas of Ukraine face water, heat and housing woes — and hunts for the disloyal]]></title>
-<link>https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07</link>
-<pubDate>Fri, 20 Feb 2026 04:56:18 -0000</pubDate>
+<title><![CDATA[Trump gets pledges for Gaza reconstruction and troop commitments at inaugural Board of Peace talks]]></title>
+<link>https://apnews.com/article/trump-board-of-peace-first-meeting-22e587df67e27cd1e1d96e446cb88378</link>
+<pubDate>Thu, 19 Feb 2026 17:39:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump warns of ‘bad things’ if Iran doesn’t make a deal, as second US carrier nears Mideast]]></title>
-<link>https://apnews.com/article/iran-us-russia-drill-nuclear-talks-aircraft-carrier-0456903e0d7a24cfcdc33d53732dee2f</link>
-<pubDate>Thu, 19 Feb 2026 22:40:13 -0000</pubDate>
+<title><![CDATA[Kim lauds North Korea’s economy and regional standing as major party meeting opens]]></title>
+<link>https://apnews.com/article/north-korea-party-congress-kim-jong-un-nuclear-13331f3c040c01f92cabc0cd14972765</link>
+<pubDate>Fri, 20 Feb 2026 03:42:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,21 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli settlers kill 19-year-old Palestinian-American, officials and witnesses say]]></title>
+<title><![CDATA[Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say]]></title>
 <link>https://apnews.com/article/israel-west-bank-gaza-war-palestinians-ec2736c95acf273a9fb1f2d541f46bb5</link>
-<pubDate>Thu, 19 Feb 2026 17:54:35 -0000</pubDate>
+<pubDate>Fri, 20 Feb 2026 07:28:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[UN experts say destruction by Sudan’s rebels in el-Fasher in October bears ‘hallmarks of genocide’]]></title>
 <link>https://apnews.com/article/rsf-sudan-genocide-un-85b79539f9e4b18e25dd6ef82d5b53ee</link>
 <pubDate>Thu, 19 Feb 2026 07:26:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump gets pledges for Gaza reconstruction and troop commitments at inaugural Board of Peace talks]]></title>
-<link>https://apnews.com/article/trump-board-of-peace-first-meeting-22e587df67e27cd1e1d96e446cb88378</link>
-<pubDate>Thu, 19 Feb 2026 17:39:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kim lauds North Korea’s economy and regional standing as major party meeting opens]]></title>
-<link>https://apnews.com/article/north-korea-party-congress-kim-jong-un-nuclear-13331f3c040c01f92cabc0cd14972765</link>
-<pubDate>Fri, 20 Feb 2026 03:42:41 -0000</pubDate>
+<title><![CDATA[Ex-South Korean president remains defiant following life sentence for rebellion]]></title>
+<link>https://apnews.com/article/south-korea-yoon-martial-law-life-sentence-8e897feb85caaf581f0e7a607556f832</link>
+<pubDate>Fri, 20 Feb 2026 07:13:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,21 +449,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the US military assets in the Middle East]]></title>
-<link>https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40</link>
-<pubDate>Fri, 20 Feb 2026 04:26:18 -0000</pubDate>
+<title><![CDATA[A macabre dispute has kept the body of Zambia’s former president unburied for months]]></title>
+<link>https://apnews.com/article/zambia-burial-dispute-rival-presidents-bewitched-e8ee0535aaf63f966c2087f52953d0dc</link>
+<pubDate>Fri, 20 Feb 2026 06:58:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A beloved teacher in Morocco unmasked: Frenchman investigated over abuse of 89 boys]]></title>
-<link>https://apnews.com/article/morocco-french-teacher-abuse-accusations-8c0d74e68cbf7e045986c928158458a0</link>
-<pubDate>Thu, 19 Feb 2026 09:45:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[6 women killed in California avalanche were among 8 close friends and experienced skiers on trip]]></title>
-<link>https://apnews.com/article/california-avalanche-tahoe-backcountry-skiers-dead-591d11d13b7e259f2e53784bf9835a98</link>
-<pubDate>Thu, 19 Feb 2026 23:51:14 -0000</pubDate>
+<title><![CDATA[Crews hope to resume recovery of 8 bodies from California avalanche after days of dangerous weather]]></title>
+<link>https://apnews.com/article/avalanche-bodies-recovery-california-sierra-nevada-8a9728f6a7a18049d8da32e8f895b6c1</link>
+<pubDate>Fri, 20 Feb 2026 06:43:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
