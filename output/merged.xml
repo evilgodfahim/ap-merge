@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Feb 2026 21:42:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 22:12:29 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A camp in Syria that held families of Islamic State members is nearly empty after repatriations]]></title>
+<link>https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4</link>
+<pubDate>Sat, 21 Feb 2026 22:05:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
 <link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
 <pubDate>Sat, 21 Feb 2026 06:28:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkish authorities arrest Deutsche Welle journalist for alleged Erdogan insult]]></title>
-<link>https://apnews.com/article/turkey-journalist-detained-insulting-erdogan-47a5f547b003e89d9a06e95f10f6e61e</link>
-<pubDate>Sat, 21 Feb 2026 02:19:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,15 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[NASA moon rocket hit by new problem expected to bump astronauts’ lunar trip into April]]></title>
+<title><![CDATA[NASA delays astronaut moon mission again after new rocket problem]]></title>
 <link>https://apnews.com/article/nasa-artemis-moon-astronauts-1e02b236e110e02c0241a581a311bb25</link>
-<pubDate>Sat, 21 Feb 2026 18:19:13 -0000</pubDate>
+<pubDate>Sat, 21 Feb 2026 21:50:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court strikes down Trump’s sweeping tariffs, sparking fierce pushback and vow of new levies]]></title>
-<link>https://apnews.com/article/supreme-court-tariffs-trump-0485fcda30a7310501123e4931dba3f9</link>
-<pubDate>Sat, 21 Feb 2026 16:21:37 -0000</pubDate>
+<title><![CDATA[Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast]]></title>
+<link>https://apnews.com/article/blizzard-weather-east-coast-a9955d3581a169426ecb0d5fc2941c23</link>
+<pubDate>Sat, 21 Feb 2026 21:35:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ICE’s purchases for big detention centers are marked by secrecy, frustrating towns]]></title>
-<link>https://apnews.com/article/immigration-detention-centers-pushback-24e702da67281a672b0f77287aaa87ba</link>
-<pubDate>Sat, 21 Feb 2026 15:51:37 -0000</pubDate>
+<title><![CDATA[New Mexico launches investigation of forced sterilization of Native American women]]></title>
+<link>https://apnews.com/article/indigenous-native-american-women-sterilization-new-mexico-9d47dbafd09b61656b4251a776463c23</link>
+<pubDate>Sat, 21 Feb 2026 12:44:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,6 +377,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
+<link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
+<pubDate>Sat, 21 Feb 2026 22:12:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump warns he’s considering limited strikes as Iranian diplomat says proposed deal is imminent]]></title>
 <link>https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede</link>
 <pubDate>Sat, 21 Feb 2026 16:51:38 -0000</pubDate>
@@ -392,12 +398,6 @@
 <title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
 <pubDate>Fri, 20 Feb 2026 18:02:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A camp in Syria that held families of Islamic State members is nearly empty after repatriations]]></title>
-<link>https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4</link>
-<pubDate>Fri, 20 Feb 2026 18:54:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,15 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Opposition activists among 379 prisoners set for release under Venezuela’s amnesty]]></title>
+<title><![CDATA[Opposition activists among 1,557 prisoners set for release under Venezuela’s amnesty]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-amnesty-a9ca383178e59bb49e9258b45fd6de07</link>
-<pubDate>Sat, 21 Feb 2026 16:36:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians grieve defiantly for thousands killed in last month’s crackdown]]></title>
-<link>https://apnews.com/article/iran-protests-memorials-chehelom-71e5db503a287126a2d31cb32a2809eb</link>
-<pubDate>Thu, 19 Feb 2026 18:09:35 -0000</pubDate>
+<pubDate>Sat, 21 Feb 2026 21:57:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast]]></title>
-<link>https://apnews.com/article/blizzard-weather-east-coast-a9955d3581a169426ecb0d5fc2941c23</link>
-<pubDate>Sat, 21 Feb 2026 18:19:14 -0000</pubDate>
+<title><![CDATA[ICE’s purchases for big detention centers are marked by secrecy, frustrating towns]]></title>
+<link>https://apnews.com/article/immigration-detention-centers-pushback-24e702da67281a672b0f77287aaa87ba</link>
+<pubDate>Sat, 21 Feb 2026 21:42:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
