@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Feb 2026 11:13:44 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
-<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
-<pubDate>Sat, 21 Feb 2026 06:28:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 21 Feb 2026 11:41:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkish authorities arrest Deutsche Welle journalist for alleged Erdogan insult]]></title>
 <link>https://apnews.com/article/turkey-journalist-detained-insulting-erdogan-47a5f547b003e89d9a06e95f10f6e61e</link>
@@ -17,15 +11,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police search former Prince Andrew’s home a day after his arrest]]></title>
-<link>https://apnews.com/article/andrew-mountbatten-windsor-arrest-king-charles-61ea3c437680b8341e623e4d9efa47b8</link>
-<pubDate>Sat, 21 Feb 2026 06:13:58 -0000</pubDate>
+<title><![CDATA[Iranians grieve defiantly for thousands killed in last month’s crackdown]]></title>
+<link>https://apnews.com/article/iran-protests-memorials-chehelom-71e5db503a287126a2d31cb32a2809eb</link>
+<pubDate>Fri, 20 Feb 2026 23:52:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The former Prince Andrew went from helicopter pilot to trade envoy to royal pariah]]></title>
-<link>https://apnews.com/article/andrew-mountbatten-windsor-profile-d64e61fd0214a68b9a05fc0da95d9486</link>
-<pubDate>Thu, 19 Feb 2026 11:52:21 -0000</pubDate>
+<title><![CDATA[Macron orders review of violent activist groups after fatal beating of far-right activist]]></title>
+<link>https://apnews.com/article/france-farright-student-beating-macron-84620fcc1c5c6a3f810b1df5e9aa5362</link>
+<pubDate>Sat, 21 Feb 2026 11:41:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine strikes a key industrial site deep inside Russia]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-missile-factory-bdbce412526d3f9b32bedb8092cd642f</link>
+<pubDate>Sat, 21 Feb 2026 11:26:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[All truckers and bus drivers will be required to take commercial driver’s license tests in English]]></title>
+<link>https://apnews.com/article/cdl-commercial-drivers-licenses-duffy-3a87cd0c83e5e563b1445454418e8f59</link>
+<pubDate>Sat, 21 Feb 2026 11:11:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[NASA targets March for first moon mission by Artemis astronauts after fueling test success]]></title>
 <link>https://apnews.com/article/nasa-artemis-moon-launch-astronauts-446d72be9dca1b28f441d761bd97ee17</link>
 <pubDate>Fri, 20 Feb 2026 16:41:04 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Court clears way for Louisiana law requiring Ten Commandments in classrooms to take effect]]></title>
 <link>https://apnews.com/article/ten-commandments-law-louisiana-court-ruling-b7f8f93c4f05426fe73b29225f0a27cf</link>
 <pubDate>Sat, 21 Feb 2026 00:34:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Virginia Democrats pass map that could flip 4 US House seats, if courts and voters approve]]></title>
-<link>https://apnews.com/article/virginia-redistricting-democrats-map-referendum-d01bdd9925d14c24e25ec6d9133604ab</link>
-<pubDate>Fri, 20 Feb 2026 17:54:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,9 +167,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polish speedskater Sellier cut by opponent’s bade, stretchered off at the Winter Olympics, in photos]]></title>
+<title><![CDATA[U.S. freeskier Alex Ferreira completes Olympic medal set with halfpipe gold, in photos]]></title>
+<link>https://apnews.com/photo-gallery/freeski-halfpipe-winter-olympics-photos-a8465442849fc6837c5e7b25239ee945</link>
+<pubDate>Sat, 21 Feb 2026 11:15:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Polish speedskater Sellier cut by opponent’s blade, stretchered off at Winter Olympics, in photos]]></title>
 <link>https://apnews.com/photo-gallery/olympics-photos-crash-speedskating-sellier-88332659aa7ba03e6bad32571d4f2310</link>
-<pubDate>Sat, 21 Feb 2026 10:15:16 -0000</pubDate>
+<pubDate>Sat, 21 Feb 2026 11:00:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,27 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The kimono gets a vibrant remake in Japan]]></title>
-<link>https://apnews.com/article/japan-kimono-fashion-sustainability-recycling-tradition-b35e9f20b049321734787b8f0588f20a</link>
-<pubDate>Fri, 20 Feb 2026 08:01:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Keeping calm and carrying on, the royal family weathers worst crisis in generations]]></title>
+<title><![CDATA[The British royal family faces its worst crisis in generations]]></title>
 <link>https://apnews.com/article/former-prince-andrew-arrest-epstein-files-1d1991e841adb7d94fcd0e60989fcad0</link>
-<pubDate>Sat, 21 Feb 2026 06:29:00 -0000</pubDate>
+<pubDate>Sat, 21 Feb 2026 11:41:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say]]></title>
-<link>https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07</link>
-<pubDate>Fri, 20 Feb 2026 08:37:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Supreme Court strikes down Trump’s sweeping tariffs, sparking fierce pushback and vow of new levies]]></title>
-<link>https://apnews.com/article/supreme-court-tariffs-trump-0485fcda30a7310501123e4931dba3f9</link>
-<pubDate>Fri, 20 Feb 2026 22:50:28 -0000</pubDate>
+<title><![CDATA[Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrike-bekaa-rayak-aef46db4ff11786e9404748cdb7dd81e</link>
+<pubDate>Sat, 21 Feb 2026 11:26:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli strikes in Lebanon kill at least 12 people, intensifying rising regional tensions]]></title>
-<link>https://apnews.com/article/lebanon-israel-strikes-795e0b47f98ebb6e7c5b3be09a6cfc7a</link>
-<pubDate>Sat, 21 Feb 2026 00:46:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A camp in Syria that held families of Islamic State members is nearly empty after repatriations]]></title>
 <link>https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4</link>
 <pubDate>Fri, 20 Feb 2026 18:54:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
+<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
+<pubDate>Fri, 20 Feb 2026 14:50:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,27 +437,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranians grieve defiantly for thousands killed in last month’s crackdown]]></title>
-<link>https://apnews.com/article/iran-protests-memorials-chehelom-71e5db503a287126a2d31cb32a2809eb</link>
-<pubDate>Thu, 19 Feb 2026 18:09:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nigerian police say armed group killed 33 in fresh simultaneous attacks]]></title>
 <link>https://apnews.com/article/nigeria-attacks-33-killed-kebbi-ae73bbcf56f088ee5120a9c89cb63738</link>
 <pubDate>Fri, 20 Feb 2026 10:46:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[All truckers and bus drivers will be required to take commercial driver’s license tests in English]]></title>
-<link>https://apnews.com/article/cdl-commercial-drivers-licenses-duffy-3a87cd0c83e5e563b1445454418e8f59</link>
-<pubDate>Fri, 20 Feb 2026 20:18:32 -0000</pubDate>
+<title><![CDATA[Supreme Court strikes down Trump’s sweeping tariffs, sparking fierce pushback and vow of new levies]]></title>
+<link>https://apnews.com/article/supreme-court-tariffs-trump-0485fcda30a7310501123e4931dba3f9</link>
+<pubDate>Fri, 20 Feb 2026 22:50:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At halfpipe, neither US-born Olympic medal favorite competes for U.S. Eileen Gu takes the heat]]></title>
+<title><![CDATA[At halfpipe, neither US-born Olympic favorite competes for America. Eileen Gu takes the heat]]></title>
 <link>https://apnews.com/article/olympics-gu-america-china-bf58f6a9dde2b183118df77c9d7bed58</link>
-<pubDate>Fri, 20 Feb 2026 17:32:01 -0000</pubDate>
+<pubDate>Sat, 21 Feb 2026 10:56:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
