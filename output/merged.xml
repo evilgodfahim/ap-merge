@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 22:47:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 23:15:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
 <link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Willie Colón, architect of urban salsa music, dies at 75]]></title>
+<link>https://apnews.com/article/willie-colon-salsa-musician-death-66ecf4eeec614e156d0c88382aec64b7</link>
+<pubDate>Sun, 22 Feb 2026 18:05:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Opposition activists among 1,557 prisoners set for release under Venezuela’s amnesty]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-amnesty-a9ca383178e59bb49e9258b45fd6de07</link>
 <pubDate>Sat, 21 Feb 2026 23:14:35 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Venezuelan nonprofit says 16 verified prisoners released under Venezuela’s amnesty]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-release-amnesty-918eda09c041c74ef863a44b83eeab09</link>
 <pubDate>Sun, 22 Feb 2026 22:12:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba’s health care system pushed to the brink by US fuel blockade, Cuban minister says]]></title>
-<link>https://apnews.com/article/cuba-health-care-us-energy-embargo-crisis-33ad8447dc4b442ea9b614eb91392be5</link>
-<pubDate>Sat, 21 Feb 2026 16:36:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA shuts down Global Entry as the partial government shutdown drags on]]></title>
+<title><![CDATA[Department of Homeland Security suspends Global Entry as the partial government shutdown drags on]]></title>
 <link>https://apnews.com/article/homeland-security-tsa-precheck-global-entry-dc1d2ccd913a74fa2c8b91dad340a3b3</link>
-<pubDate>Sun, 22 Feb 2026 21:57:54 -0000</pubDate>
+<pubDate>Sun, 22 Feb 2026 23:15:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Willie Colón, architect of urban salsa music, dies at 75]]></title>
-<link>https://apnews.com/article/willie-colon-salsa-musician-death-66ecf4eeec614e156d0c88382aec64b7</link>
-<pubDate>Sat, 21 Feb 2026 22:59:37 -0000</pubDate>
+<title><![CDATA[Photos of violence in Mexico after the army killed cartel boss Nemesio ‘El Mencho’ Oseguera]]></title>
+<link>https://apnews.com/photo-gallery/mexico-cartel-leader-killed-el-mencho-27ff5c2ac13e35af1e72851130cb42dd</link>
+<pubDate>Sun, 22 Feb 2026 23:15:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Saudi Arabia may have uranium enrichment under proposed deal with US, arms control experts warn]]></title>
+<link>https://apnews.com/article/saudi-arabia-us-nuclear-enrichment-bomb-proliferation-18cb979f0abf5f0d81c1c91f45d6a6ef</link>
+<pubDate>Fri, 20 Feb 2026 08:22:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
