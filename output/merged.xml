@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 07:52:10 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
-<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
-<pubDate>Sun, 22 Feb 2026 07:08:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 22 Feb 2026 08:19:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A camp in Syria that held families of Islamic State members is nearly empty after repatriations]]></title>
 <link>https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4</link>
 <pubDate>Sat, 21 Feb 2026 22:05:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
+<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
+<pubDate>Sat, 21 Feb 2026 06:28:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,18 @@
 <title><![CDATA[Pennsylvania man cleared after 43 years in prison for murder denied bail during deportation fight]]></title>
 <link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-bf1f131e0c827718bab6fe5b84ef9c6f</link>
 <pubDate>Wed, 18 Feb 2026 04:41:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[It’s on: US and Canada face off for Olympic gold in men’s hockey as Winter Games come to a close]]></title>
+<link>https://apnews.com/article/usa-canada-score-olympics-13495a7dd0dbda9d660479223d3689a8</link>
+<pubDate>Sun, 22 Feb 2026 08:19:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian missile and drone barrage hits Kyiv suburbs, killing 1]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-attack-kyiv-be35939ed836678a5b84e348b7d6d395</link>
+<pubDate>Sun, 22 Feb 2026 08:04:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fight for the final: Men’s hockey semifinals at Winter Olympics, in photos]]></title>
-<link>https://apnews.com/photo-gallery/olympics-milan-cortina-mens-hockey-photos-e1a3f4687fb15f6b26152dd563d0feea</link>
-<pubDate>Fri, 20 Feb 2026 19:09:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guatemalan school hosts Kaqchikel performance to promote Indigenous language preservation]]></title>
-<link>https://apnews.com/article/guatemala-unesco-mayan-language-indigenous-653ac5e28f53668b4ae6810146da0210</link>
-<pubDate>Sat, 21 Feb 2026 16:47:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[After 4 years of war by Russia in Ukraine, peace is still elusive despite a US push for a settlement]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-31546cd13feea315f1550afc3bbf565d</link>
 <pubDate>Sun, 22 Feb 2026 05:11:09 -0000</pubDate>
@@ -377,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks]]></title>
-<link>https://apnews.com/article/syria-iraq-islamic-state-group-alsharaa-f8fdf0591f859cc0d6b7a18525f731ad</link>
-<pubDate>Sun, 22 Feb 2026 06:38:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
 <link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
 <pubDate>Sat, 21 Feb 2026 22:12:29 -0000</pubDate>
@@ -398,6 +392,12 @@
 <title><![CDATA[Trump warns he’s considering limited strikes as Iranian diplomat says proposed deal is imminent]]></title>
 <link>https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede</link>
 <pubDate>Sat, 21 Feb 2026 16:51:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
+<pubDate>Fri, 20 Feb 2026 18:02:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,12 +440,6 @@
 <title><![CDATA[Willie Colón, architect of urban salsa music, dies at 75]]></title>
 <link>https://apnews.com/article/willie-colon-salsa-musician-death-66ecf4eeec614e156d0c88382aec64b7</link>
 <pubDate>Sat, 21 Feb 2026 22:59:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
-<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
-<pubDate>Fri, 20 Feb 2026 14:50:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
