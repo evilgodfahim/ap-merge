@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 10:14:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 10:48:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
+<pubDate>Sun, 22 Feb 2026 07:08:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[A camp in Syria that held families of Islamic State members is nearly empty after repatriations]]></title>
 <link>https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
-<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
-<pubDate>Sat, 21 Feb 2026 06:28:58 -0000</pubDate>
+<title><![CDATA[Russian missile and drone barrage hits Kyiv suburbs, killing 1]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-attack-kyiv-be35939ed836678a5b84e348b7d6d395</link>
+<pubDate>Sun, 22 Feb 2026 10:22:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[From abdication to Diana, Harry and ex-Prince Andrew. A look at major British royal scandals]]></title>
 <link>https://apnews.com/article/britain-royals-andrew-scandals-b43e0213bebc460001d0a1a0ff84eab3</link>
 <pubDate>Sun, 22 Feb 2026 06:53:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds march in Lyon to protest far-right activist’s killing as Macron urges calm]]></title>
-<link>https://apnews.com/article/france-farright-student-beating-macron-84620fcc1c5c6a3f810b1df5e9aa5362</link>
-<pubDate>Sat, 21 Feb 2026 15:45:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -179,12 +179,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian missile and drone barrage hits Kyiv suburbs, killing 1]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-attack-kyiv-be35939ed836678a5b84e348b7d6d395</link>
-<pubDate>Sun, 22 Feb 2026 08:04:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Stars descend on the BAFTA film awards, with ‘One Battle’ and ‘Sinners’ leading the race]]></title>
 <link>https://apnews.com/article/bafta-film-awards-sinners-hamnet-15651cec9d900fff5e8347ffbec3b608</link>
 <pubDate>Sun, 22 Feb 2026 04:56:08 -0000</pubDate>
@@ -281,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds march in Lyon to protest far-right activist’s killing as Macron urges calm]]></title>
+<link>https://apnews.com/article/france-farright-student-beating-macron-84620fcc1c5c6a3f810b1df5e9aa5362</link>
+<pubDate>Sun, 22 Feb 2026 10:48:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Polish speedskater Sellier cut by opponent’s blade, stretchered off at Winter Olympics, in photos]]></title>
 <link>https://apnews.com/photo-gallery/olympics-photos-crash-speedskating-sellier-88332659aa7ba03e6bad32571d4f2310</link>
 <pubDate>Sat, 21 Feb 2026 11:00:37 -0000</pubDate>
@@ -290,12 +290,6 @@
 <title><![CDATA[Utah’s Supreme Court rejects appeal to overturn congressional map with Democratic-leaning district]]></title>
 <link>https://apnews.com/article/utah-supreme-court-redistricting-appeal-rejected-52f3aec22e64b8d5f7b470f95ae22599</link>
 <pubDate>Sat, 21 Feb 2026 07:48:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show Ukrainian war veterans as they find healing and hope under the stage lights]]></title>
-<link>https://apnews.com/photo-gallery/kyiv-ukraine-russia-war-wounded-veterans-theater-55e209d6197d83ada86034396675088e</link>
-<pubDate>Sat, 21 Feb 2026 17:34:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of NATO-led military exercises in Germany]]></title>
+<link>https://apnews.com/photo-gallery/soldiers-nato-military-germany-europe-6af8a58120d0c42d3f9f051f8e7b8b50</link>
+<pubDate>Fri, 20 Feb 2026 20:18:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After 4 years of war by Russia in Ukraine, peace is still elusive despite a US push for a settlement]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-31546cd13feea315f1550afc3bbf565d</link>
 <pubDate>Sun, 22 Feb 2026 05:11:09 -0000</pubDate>
@@ -356,12 +356,6 @@
 <title><![CDATA[The US deported a gay asylum-seeker to a third country where homosexuality is illegal]]></title>
 <link>https://apnews.com/article/trump-deportation-cameroon-morocco-lgbt-interview-1ea278f4c981df798773e26972c5d54f</link>
 <pubDate>Sun, 22 Feb 2026 07:08:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrike-bekaa-rayak-aef46db4ff11786e9404748cdb7dd81e</link>
-<pubDate>Sat, 21 Feb 2026 11:26:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,27 +371,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks]]></title>
+<link>https://apnews.com/article/syria-iraq-islamic-state-group-alsharaa-f8fdf0591f859cc0d6b7a18525f731ad</link>
+<pubDate>Sun, 22 Feb 2026 06:38:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
 <link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
 <pubDate>Sat, 21 Feb 2026 22:12:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks]]></title>
+<title><![CDATA[Pakistan says it has launched border strikes in Afghanistan. The Red Crescent reports 18 killed]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-militants-strikes-border-b849ad97b462de8067d1b7f20ffd9f9e</link>
-<pubDate>Sat, 21 Feb 2026 23:14:37 -0000</pubDate>
+<pubDate>Sun, 22 Feb 2026 10:33:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump warns he’s considering limited strikes as Iranian diplomat says proposed deal is imminent]]></title>
 <link>https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede</link>
 <pubDate>Sat, 21 Feb 2026 16:51:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
-<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
-<pubDate>Fri, 20 Feb 2026 18:02:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[Willie Colón, architect of urban salsa music, dies at 75]]></title>
 <link>https://apnews.com/article/willie-colon-salsa-musician-death-66ecf4eeec614e156d0c88382aec64b7</link>
 <pubDate>Sat, 21 Feb 2026 22:59:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ramadan’s first Friday prayers are held at Jerusalem’s Al-Aqsa Mosque]]></title>
+<link>https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807</link>
+<pubDate>Fri, 20 Feb 2026 14:50:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
