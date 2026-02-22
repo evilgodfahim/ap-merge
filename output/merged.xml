@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 13:22:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 13:56:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
 <link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
@@ -95,9 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blizzard warnings send East Coast scrambling to prepare for heavy snow and strong winds]]></title>
-<link>https://apnews.com/article/us-east-coast-blizzard-warning-fc4b3a4c86542ae691d1e87cda8e6fce</link>
-<pubDate>Sun, 22 Feb 2026 06:38:58 -0000</pubDate>
+<title><![CDATA[Crews recover bodies of 9 backcountry skiers days after California avalanche]]></title>
+<link>https://apnews.com/article/california-tahoe-search-rescue-avalanche-bodies-recovery-7a07cfede81c6bcdf3282ee6e16cb319</link>
+<pubDate>Sat, 21 Feb 2026 22:44:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New law puts Kansas at vanguard of denying trans identities on drivers licenses, birth certificates]]></title>
+<link>https://apnews.com/article/transgender-rights-drivers-licenses-birth-certificates-bathrooms-3048b856b81d24553efd9da4aaa94bc7</link>
+<pubDate>Sun, 22 Feb 2026 13:56:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -110,12 +116,6 @@
 <title><![CDATA[New Mexico launches investigation of forced sterilization of Native American women]]></title>
 <link>https://apnews.com/article/indigenous-native-american-women-sterilization-new-mexico-9d47dbafd09b61656b4251a776463c23</link>
 <pubDate>Sat, 21 Feb 2026 12:44:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[NASA delays astronaut moon mission again after new rocket problem]]></title>
-<link>https://apnews.com/article/nasa-artemis-moon-astronauts-1e02b236e110e02c0241a581a311bb25</link>
-<pubDate>Sat, 21 Feb 2026 21:50:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,6 +446,12 @@
 <title><![CDATA[A long-acting HIV drug arrives in Zimbabwe for some at highest risk]]></title>
 <link>https://apnews.com/article/hiv-drug-lenacapavir-zimbabwe-africa-health-0450d59217b295107829cd6380de7bcc</link>
 <pubDate>Sun, 22 Feb 2026 04:56:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Blizzard warnings send East Coast scrambling to prepare for heavy snow and strong winds]]></title>
+<link>https://apnews.com/article/us-east-coast-blizzard-warning-fc4b3a4c86542ae691d1e87cda8e6fce</link>
+<pubDate>Sun, 22 Feb 2026 13:07:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
