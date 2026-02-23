@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Feb 2026 03:58:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 05:23:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrike-bekaa-rayak-aef46db4ff11786e9404748cdb7dd81e</link>
+<pubDate>Mon, 23 Feb 2026 05:15:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
 <link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
 <pubDate>Sun, 22 Feb 2026 18:20:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
-<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
-<pubDate>Sun, 22 Feb 2026 07:08:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Hong Kong court uphold the convictions of about a dozen activists in national security case]]></title>
-<link>https://apnews.com/article/hong-kong-appeal-activists-national-security-47-21d145cb7758cff9bc4a7c7e89b02faf</link>
-<pubDate>Mon, 23 Feb 2026 03:58:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ruling against Trump’s tariffs creates new uncertainty in US trade relations with China]]></title>
-<link>https://apnews.com/article/tariffs-china-trump-trade-supreme-court-fb8d38ae3664e845199d13113d03b471</link>
-<pubDate>Sun, 22 Feb 2026 03:00:23 -0000</pubDate>
+<title><![CDATA[Japan’s emperor expresses concern about 3/11 disaster survivors on his 66th birthday]]></title>
+<link>https://apnews.com/article/japan-emperor-birthday-a58a996971791d8f89dec7aecfa61fef</link>
+<pubDate>Mon, 23 Feb 2026 05:00:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US futures fall while Asian markets are mostly higher after the Supreme Court nixes Trump’s tariffs]]></title>
 <link>https://apnews.com/article/stocks-markets-tariffs-trump-b1d3cf0b370842c305daf706f3b47405</link>
 <pubDate>Mon, 23 Feb 2026 03:43:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ruling against Trump’s tariffs creates new uncertainty in US trade relations with China]]></title>
+<link>https://apnews.com/article/tariffs-china-trump-trade-supreme-court-fb8d38ae3664e845199d13113d03b471</link>
+<pubDate>Sun, 22 Feb 2026 03:00:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,6 +68,12 @@
 <title><![CDATA[Brazil and India agree to boost cooperation on rare earths]]></title>
 <link>https://apnews.com/article/brazil-india-rare-earths-mining-renewable-energy-f9298c4050f8402e12c81401a6e88f20</link>
 <pubDate>Sat, 21 Feb 2026 20:44:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump warns he’s considering limited strikes as Iranian diplomat says proposed deal is imminent]]></title>
+<link>https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede</link>
+<pubDate>Sun, 22 Feb 2026 16:16:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blizzard warnings cascade across East Coast as winter storm hits]]></title>
-<link>https://apnews.com/article/us-east-coast-blizzard-warning-fc4b3a4c86542ae691d1e87cda8e6fce</link>
-<pubDate>Mon, 23 Feb 2026 00:34:34 -0000</pubDate>
+<title><![CDATA[Armed man shot and killed after entering secure perimeter of Mar-a-Lago, Secret Service says]]></title>
+<link>https://apnews.com/article/secret-service-president-trump-af8b23c318e2d7709d7b4a0105f8f516</link>
+<pubDate>Sun, 22 Feb 2026 17:17:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +170,12 @@
 <title><![CDATA[From automated farm tractors to exam paper grading, AI boosts efficiency for some in India]]></title>
 <link>https://apnews.com/article/india-ai-summit-artificial-intelligence-education-farmers-fc59f14e0cfefc212ea727be9c407186</link>
 <pubDate>Wed, 18 Feb 2026 03:56:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Robotaxis are coming to London. The city’s famed black cab drivers are skeptical]]></title>
+<link>https://apnews.com/article/uk-robotaxi-black-cab-wayve-d697e141132f0a33d0c5bec95199e504</link>
+<pubDate>Mon, 23 Feb 2026 05:04:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,15 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The bones of St. Francis are going on public display, a mixed blessing for Assisi]]></title>
-<link>https://apnews.com/article/italy-st-francis-bones-assisi-b5d8c3743509eaf7b5b00436e20bffd6</link>
-<pubDate>Sat, 21 Feb 2026 16:15:38 -0000</pubDate>
+<title><![CDATA[Mexico fears more violence after army kills Jalisco cartel’s powerful ‘El Mencho’]]></title>
+<link>https://apnews.com/article/mexico-jalisco-cartel-mencho-sheinbaum-trump-226e50edc33f981d5d6509acc7021ae5</link>
+<pubDate>Mon, 23 Feb 2026 05:23:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican army kills leader of powerful Jalisco New Generation Cartel during operation to capture him]]></title>
-<link>https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8</link>
-<pubDate>Sun, 22 Feb 2026 20:32:23 -0000</pubDate>
+<title><![CDATA[From bakeries to beauty shops, Russian businesses are feeling the pain from a new wartime tax policy]]></title>
+<link>https://apnews.com/article/russia-war-economy-taxes-ukraine-putin-aa58356ff3c5cf04c5dbf795dddfb90f</link>
+<pubDate>Mon, 23 Feb 2026 05:08:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ethiopia’s Tigray region is caught between past conflict and fears of another]]></title>
+<link>https://apnews.com/article/ethiopia-tigray-war-eritrea-a89d6c79ded625d65e7105697fda785c</link>
+<pubDate>Mon, 23 Feb 2026 03:58:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Next US-Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran]]></title>
-<link>https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014</link>
-<pubDate>Sun, 22 Feb 2026 20:47:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuelan nonprofit says 16 verified prisoners released under Venezuela’s amnesty]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-release-amnesty-918eda09c041c74ef863a44b83eeab09</link>
 <pubDate>Mon, 23 Feb 2026 02:50:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ethiopia’s Tigray region is caught between past conflict and fears of another]]></title>
-<link>https://apnews.com/article/ethiopia-tigray-war-eritrea-a89d6c79ded625d65e7105697fda785c</link>
-<pubDate>Mon, 23 Feb 2026 03:58:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -386,6 +392,12 @@
 <title><![CDATA[Putin tells Cuban foreign minister Russia will not accept recent US sanctions against Cuba]]></title>
 <link>https://apnews.com/video/putin-tells-cuban-foreign-minister-russia-will-not-accept-recent-us-sanctions-against-cuba-1fac17d8fcaf4a5093492ffcb0f38b0c</link>
 <pubDate>Fri, 20 Feb 2026 00:36:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Next US-Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran]]></title>
+<link>https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014</link>
+<pubDate>Sun, 22 Feb 2026 20:47:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +416,6 @@
 <title><![CDATA[US ambassador causes uproar by claiming Israel has a right to much of the Middle East]]></title>
 <link>https://apnews.com/article/israel-ambassador-huckabee-middle-east-arab-muslim-e88a235c48bfb904f0ee7f8a72edf250</link>
 <pubDate>Sat, 21 Feb 2026 15:45:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrike-bekaa-rayak-aef46db4ff11786e9404748cdb7dd81e</link>
-<pubDate>Sat, 21 Feb 2026 11:26:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,12 +449,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After 4 years of war by Russia in Ukraine, peace is still elusive despite a US push for a settlement]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-31546cd13feea315f1550afc3bbf565d</link>
-<pubDate>Sun, 22 Feb 2026 05:11:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Kim reelected to top post of North Korea’s ruling party as it hails his nuclear buildup]]></title>
 <link>https://apnews.com/article/north-korea-kim-jong-un-general-secretary-nuclear-8f86df36dbdfd543a9c4f53e4083761f</link>
 <pubDate>Mon, 23 Feb 2026 01:09:07 -0000</pubDate>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump warns he’s considering limited strikes as Iranian diplomat says proposed deal is imminent]]></title>
-<link>https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede</link>
-<pubDate>Sat, 21 Feb 2026 16:51:38 -0000</pubDate>
+<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
+<pubDate>Fri, 20 Feb 2026 18:02:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Armed man shot and killed after entering secure perimeter of Mar-a-Lago, Secret Service says]]></title>
-<link>https://apnews.com/article/secret-service-president-trump-af8b23c318e2d7709d7b4a0105f8f516</link>
-<pubDate>Sun, 22 Feb 2026 14:49:30 -0000</pubDate>
+<title><![CDATA[New York City hunkers down under blizzard warnings and a travel ban as winter storm hits northeast]]></title>
+<link>https://apnews.com/article/us-east-coast-winter-storm-blizzard-c32d60af1f146359664d6688a2dcdada</link>
+<pubDate>Mon, 23 Feb 2026 04:53:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
