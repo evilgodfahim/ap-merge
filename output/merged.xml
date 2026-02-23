@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 23:45:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 01:09:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest]]></title>
 <link>https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2</link>
@@ -95,9 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blizzard warnings cascade across East Coast with winter storm’s approach]]></title>
+<title><![CDATA[Blizzard warnings cascade across East Coast as winter storm hits]]></title>
 <link>https://apnews.com/article/us-east-coast-blizzard-warning-fc4b3a4c86542ae691d1e87cda8e6fce</link>
-<pubDate>Sun, 22 Feb 2026 19:05:55 -0000</pubDate>
+<pubDate>Mon, 23 Feb 2026 00:34:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,6 +164,12 @@
 <title><![CDATA[From automated farm tractors to exam paper grading, AI boosts efficiency for some in India]]></title>
 <link>https://apnews.com/article/india-ai-summit-artificial-intelligence-education-farmers-fc59f14e0cfefc212ea727be9c407186</link>
 <pubDate>Wed, 18 Feb 2026 03:56:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kim reelected to top post of North Korea’s ruling party as it hails his nuclear buildup]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-general-secretary-nuclear-8f86df36dbdfd543a9c4f53e4083761f</link>
+<pubDate>Mon, 23 Feb 2026 00:46:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spanish police arrest 3 men suspected of shipping dried opium poppy by mail]]></title>
-<link>https://apnews.com/article/spain-opium-poppy-mail-drug-trafficking-arrests-29914e0ae4e40909dbfa9b6693ab9688</link>
-<pubDate>Sat, 21 Feb 2026 13:55:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Next US-Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran]]></title>
-<link>https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014</link>
-<pubDate>Sun, 22 Feb 2026 20:47:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mexican army kills leader of powerful Jalisco New Generation Cartel during operation to capture him]]></title>
 <link>https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8</link>
 <pubDate>Sun, 22 Feb 2026 20:32:23 -0000</pubDate>
@@ -362,6 +356,12 @@
 <title><![CDATA[After 4 years of war by Russia in Ukraine, peace is still elusive despite a US push for a settlement]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-31546cd13feea315f1550afc3bbf565d</link>
 <pubDate>Sun, 22 Feb 2026 05:11:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A notorious camp in Syria tied to alleged IS families is emptied as final convoy departs]]></title>
+<link>https://apnews.com/article/syria-camp-alhol-islamic-state-emptied-6527081227b4aec678b58355a3c8c3b3</link>
+<pubDate>Sun, 22 Feb 2026 17:35:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A notorious camp in Syria tied to alleged IS families is emptied as final convoy departs]]></title>
-<link>https://apnews.com/article/syria-camp-alhol-islamic-state-emptied-6527081227b4aec678b58355a3c8c3b3</link>
-<pubDate>Sun, 22 Feb 2026 17:35:10 -0000</pubDate>
+<title><![CDATA[Next US-Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran]]></title>
+<link>https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014</link>
+<pubDate>Sun, 22 Feb 2026 20:47:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks]]></title>
+<link>https://apnews.com/article/syria-iraq-islamic-state-group-alsharaa-f8fdf0591f859cc0d6b7a18525f731ad</link>
+<pubDate>Sun, 22 Feb 2026 06:38:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrike-bekaa-rayak-aef46db4ff11786e9404748cdb7dd81e</link>
-<pubDate>Sat, 21 Feb 2026 11:26:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks]]></title>
-<link>https://apnews.com/article/syria-iraq-islamic-state-group-alsharaa-f8fdf0591f859cc0d6b7a18525f731ad</link>
-<pubDate>Sun, 22 Feb 2026 06:38:59 -0000</pubDate>
+<title><![CDATA[US ambassador causes uproar by claiming Israel has a right to much of the Middle East]]></title>
+<link>https://apnews.com/article/israel-ambassador-huckabee-middle-east-arab-muslim-e88a235c48bfb904f0ee7f8a72edf250</link>
+<pubDate>Sat, 21 Feb 2026 15:45:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,21 +437,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ruling against Trump’s tariffs creates new uncertainty in US trade relations with China]]></title>
-<link>https://apnews.com/article/tariffs-china-trump-trade-supreme-court-fb8d38ae3664e845199d13113d03b471</link>
-<pubDate>Sun, 22 Feb 2026 15:46:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos of violence in Mexico after the army killed cartel boss Nemesio ‘El Mencho’ Oseguera]]></title>
 <link>https://apnews.com/photo-gallery/mexico-cartel-leader-killed-el-mencho-27ff5c2ac13e35af1e72851130cb42dd</link>
 <pubDate>Sun, 22 Feb 2026 23:15:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi Arabia may have uranium enrichment under proposed deal with US, arms control experts warn]]></title>
-<link>https://apnews.com/article/saudi-arabia-us-nuclear-enrichment-bomb-proliferation-18cb979f0abf5f0d81c1c91f45d6a6ef</link>
-<pubDate>Fri, 20 Feb 2026 08:22:17 -0000</pubDate>
+<title><![CDATA[Trump’s Board of Peace painted a rosy picture of Gaza’s future. On the ground, there is only despair]]></title>
+<link>https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e</link>
+<pubDate>Fri, 20 Feb 2026 18:02:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
