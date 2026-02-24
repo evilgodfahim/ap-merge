@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Feb 2026 23:50:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 01:07:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Chad closes its border with Sudan after fighters spilled into its territory]]></title>
 <link>https://apnews.com/article/chad-sudan-border-conflict-ceeccfabc33852c2aa641787a4ea2d82</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU fails to pass new sanctions targeting Russia after Hungary objects]]></title>
+<link>https://apnews.com/article/brussels-ukraine-hungary-russia-sanctions-druzhba-d2519443e9542593f9a70cd22f18a6ab</link>
+<pubDate>Tue, 24 Feb 2026 01:07:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[From bakeries to beauty shops, Russian businesses are feeling the pain from a new wartime tax policy]]></title>
 <link>https://apnews.com/article/russia-war-economy-taxes-ukraine-putin-aa58356ff3c5cf04c5dbf795dddfb90f</link>
 <pubDate>Mon, 23 Feb 2026 09:41:52 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[4 years of war in Ukraine, in photos]]></title>
 <link>https://apnews.com/photo-gallery/russia-ukraine-war-anniversary-photos-c5d894bd8d67a4d3c6a4c8d62f2a654a</link>
 <pubDate>Mon, 23 Feb 2026 06:23:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How the former Prince Andrew could be removed from Britain’s line of succession]]></title>
-<link>https://apnews.com/article/britain-andrew-royal-line-of-succession-c1e25355a885060c0729ccb3acb9d187</link>
-<pubDate>Mon, 23 Feb 2026 18:48:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -155,6 +155,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[T20 World Cup co-hosts lose as South Africa ends India’s winning run and England beats Sri Lanka]]></title>
+<link>https://apnews.com/article/sri-lanka-england-t20-world-cup-40b66b9eef3d176409ddfe4cc7d0467d</link>
+<pubDate>Tue, 24 Feb 2026 00:52:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Which Trump tariffs did the Supreme Court strike down? Here’s what to know]]></title>
 <link>https://apnews.com/article/trump-ieepa-tariffs-supreme-court-12487645072a1e1a387db60081509f3c</link>
 <pubDate>Sun, 22 Feb 2026 17:35:09 -0000</pubDate>
@@ -173,9 +179,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From automated farm tractors to exam paper grading, AI boosts efficiency for some in India]]></title>
-<link>https://apnews.com/article/india-ai-summit-artificial-intelligence-education-farmers-fc59f14e0cfefc212ea727be9c407186</link>
-<pubDate>Wed, 18 Feb 2026 03:56:32 -0000</pubDate>
+<title><![CDATA[Indigenous protest in the Amazon forces Brazil’s Lula to revoke waterway decree]]></title>
+<link>https://apnews.com/article/brazil-amazon-rainforest-cargill-protest-indigenous-efe6c58cc7c20ce205a03ba8be5fd35f</link>
+<pubDate>Tue, 24 Feb 2026 00:29:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Father and son killed by mudslide in Peru as floods affect thousands of homes in southern provinces]]></title>
+<link>https://apnews.com/article/peru-rains-arequipa-deaths-evacuations-082f07d395f713c217d9c9020453d51a</link>
+<pubDate>Tue, 24 Feb 2026 00:14:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[He is known as the French Banksy. Now artist JR plans to turn a Paris bridge into a massive cave]]></title>
-<link>https://apnews.com/article/france-jr-cave-art-paris-pont-neuf-e7478ca16f78f3383b7146dac0404556</link>
-<pubDate>Mon, 23 Feb 2026 12:56:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Arrivederci Milan Cortina. Italian organizers contemplating Rome bid for 2040 Summer Olympics]]></title>
-<link>https://apnews.com/article/rome-2040-olympic-bid-a6e0c4151529220352fcc5de4b435a61</link>
-<pubDate>Mon, 23 Feb 2026 06:38:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Security forces keep up fight with cartel gunmen a day after the Mexican military killed a drug lord]]></title>
 <link>https://apnews.com/article/mexico-jalisco-cartel-mencho-sheinbaum-trump-226e50edc33f981d5d6509acc7021ae5</link>
 <pubDate>Mon, 23 Feb 2026 23:07:59 -0000</pubDate>
@@ -362,12 +362,6 @@
 <title><![CDATA[US sheds light on its allegation of Chinese nuclear test and urges nations to push for disarmament]]></title>
 <link>https://apnews.com/article/nuclear-weapons-china-russia-geneva-us-yeaw-a72a763f828ba0e85da5903e210aff02</link>
 <pubDate>Mon, 23 Feb 2026 21:33:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU fails to pass new sanctions targeting Russia after Hungary objects]]></title>
-<link>https://apnews.com/article/brussels-ukraine-hungary-russia-sanctions-druzhba-d2519443e9542593f9a70cd22f18a6ab</link>
-<pubDate>Mon, 23 Feb 2026 17:05:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,6 +425,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[An attacker detonates an explosive device in Moscow, killing a police officer and himself]]></title>
+<link>https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5</link>
+<pubDate>Tue, 24 Feb 2026 01:07:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[International Criminal Court opens hearings into former Philippine President Rodrigo Duterte]]></title>
 <link>https://apnews.com/article/rodrigo-duterte-philippines-icc-charges-crimes-court-bc5dd8bcff43da587d91dde18261bbd2</link>
 <pubDate>Mon, 23 Feb 2026 07:56:53 -0000</pubDate>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[T20 World Cup co-hosts lose as South Africa ends India’s winning run and England beats Sri Lanka]]></title>
-<link>https://apnews.com/article/sri-lanka-england-t20-world-cup-40b66b9eef3d176409ddfe4cc7d0467d</link>
-<pubDate>Sun, 22 Feb 2026 17:05:10 -0000</pubDate>
+<title><![CDATA[Prime Minister Carney to travel to India, Australia and Japan to diversify Canada trade away from US]]></title>
+<link>https://apnews.com/article/carney-india-australia-japan-trump-trade-138c3a892ec7c49f811f69e536adce53</link>
+<pubDate>Tue, 24 Feb 2026 00:52:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
