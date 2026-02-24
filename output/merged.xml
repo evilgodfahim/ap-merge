@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Feb 2026 20:23:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 21:00:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran military helicopter crashes into central fruit and vegetable market, reportedly killing 4]]></title>
+<link>https://apnews.com/article/iran-helicopter-crash-fatalities-4e883b83abfd97ffaf0ee3f6a76d85a2</link>
+<pubDate>Tue, 24 Feb 2026 21:00:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Sudanese paramilitary forces kill at least 28 people in an attack in Darfur, medical group says]]></title>
 <link>https://apnews.com/article/sudan-darfur-rsf-paramilitary-attack-c7d06dbcb6d7f40139b380de075bf47a</link>
 <pubDate>Tue, 24 Feb 2026 19:42:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c</link>
-<pubDate>Tue, 24 Feb 2026 14:03:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US says ambassador’s comments on Israel and the Middle East were taken out of context]]></title>
-<link>https://apnews.com/article/israel-gaza-hamas-war-news-02-22-2026-17cc3abc5002151a81b55cb6acd35463</link>
-<pubDate>Tue, 24 Feb 2026 11:44:40 -0000</pubDate>
+<title><![CDATA[Israeli settlers torch and deface a West Bank mosque during Ramadan]]></title>
+<link>https://apnews.com/article/israel-hamas-gaza-news-02-23-2026-306e91dd7abbf0ad1b02935f1d1d9d4a</link>
+<pubDate>Tue, 24 Feb 2026 13:48:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Next US-Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran]]></title>
-<link>https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014</link>
-<pubDate>Tue, 24 Feb 2026 09:23:15 -0000</pubDate>
+<title><![CDATA[US says ambassador’s comments on Israel and the Middle East were taken out of context]]></title>
+<link>https://apnews.com/article/israel-gaza-hamas-war-news-02-22-2026-17cc3abc5002151a81b55cb6acd35463</link>
+<pubDate>Tue, 24 Feb 2026 11:44:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[House rejects bill requiring aircraft locator systems to prevent midair collisions like last year’s]]></title>
+<link>https://apnews.com/article/washington-dc-midair-collision-congress-reforms-ntsb-134f26d812dc9796fcf3033c42543cc2</link>
+<pubDate>Tue, 24 Feb 2026 20:45:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Northeast US digs out from brutal snowstorm that disrupted flights and canceled school]]></title>
 <link>https://apnews.com/article/snow-storm-northeastern-united-states-470c5fd2c1f90b311d614f6ce1f834ec</link>
 <pubDate>Tue, 24 Feb 2026 18:57:49 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Utah judge rejects defense’s motion to disqualify prosecutors in the Charlie Kirk killing case]]></title>
 <link>https://apnews.com/article/charlie-kirk-biased-jurors-robinson-video-f8e7e21a11052e40108e08134c60702c</link>
 <pubDate>Tue, 24 Feb 2026 18:42:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bill requiring aircraft locator systems that NTSB recommends to prevent midair collisions fails]]></title>
-<link>https://apnews.com/article/washington-dc-midair-collision-congress-reforms-ntsb-134f26d812dc9796fcf3033c42543cc2</link>
-<pubDate>Tue, 24 Feb 2026 18:27:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Severe floods in southeast Brazil kill at least 23 and force hundreds to evacuate]]></title>
+<title><![CDATA[Severe floods in southeast Brazil kill at least 25 and force hundreds to evacuate]]></title>
 <link>https://apnews.com/article/brazil-floods-minas-gerais-rains-023ce66786e2316efb44c4377767301f</link>
-<pubDate>Tue, 24 Feb 2026 17:28:22 -0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 21:00:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +254,12 @@
 <title><![CDATA[From Expo to the Olympics, Milan bets on big events to fuel its transformation to a global city]]></title>
 <link>https://apnews.com/article/milan-olympics-legacy-italy-ba1bf6c35ecc5c8fd34a746ff69e4bba</link>
 <pubDate>Tue, 24 Feb 2026 15:17:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom]]></title>
+<link>https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c</link>
+<pubDate>Tue, 24 Feb 2026 20:45:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[About 30 people are feared dead after a migrant boat capsized off Crete]]></title>
-<link>https://apnews.com/article/migrants-boat-crete-greece-capsize-deaths-10d5d7edbd0705be629c2c73923c9bbc</link>
-<pubDate>Mon, 23 Feb 2026 18:33:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy says Putin has ‘not broken’ Ukrainians as he marks 4 years since Russia’s all-out invasion]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c</link>
 <pubDate>Tue, 24 Feb 2026 12:38:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Louvre Museum director resigns in wake of brazen October crown jewel heist in Paris]]></title>
+<title><![CDATA[CIA offers tips to potential informants in Iran as Trump considers military action]]></title>
+<link>https://apnews.com/article/iran-cia-trump-china-ratcliffe-youtube-farsi-dfa1e883fc11a1da756416e982c74300</link>
+<pubDate>Tue, 24 Feb 2026 21:00:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Louvre Museum director resigns in the wake of October’s brazen French crown jewels heist]]></title>
 <link>https://apnews.com/article/france-louvre-director-resigns-heist-4ea93a127e59b0a6cc5c2ef67431a729</link>
-<pubDate>Tue, 24 Feb 2026 19:29:47 -0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 20:45:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,6 +386,12 @@
 <title><![CDATA[US ambassador to France defuses diplomatic squabble with Paris over killing of student]]></title>
 <link>https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6</link>
 <pubDate>Tue, 24 Feb 2026 19:14:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Protest held on Greek island against docked US aircraft carrier as Iran tension builds]]></title>
+<link>https://apnews.com/article/greece-us-iran-protest-gerald-r-ford-trump-3aec7d2753dc33a5c2693b4a273e491f</link>
+<pubDate>Tue, 24 Feb 2026 20:30:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -398,12 +410,6 @@
 <title><![CDATA[Lebanon urges Hezbollah militant group to avoid getting involved if the US strikes Iran]]></title>
 <link>https://apnews.com/article/hezbollah-iran-lebanon-us-israel-e11bf43338e72c0977c66d998074555f</link>
 <pubDate>Tue, 24 Feb 2026 16:17:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran military helicopter crashes into central fruit and vegetable market, reportedly killing 4]]></title>
-<link>https://apnews.com/article/iran-helicopter-crash-fatalities-4e883b83abfd97ffaf0ee3f6a76d85a2</link>
-<pubDate>Tue, 24 Feb 2026 09:10:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -446,12 +452,6 @@
 <title><![CDATA[How Mexico killed the powerful cartel leader ‘El Mencho’ and what it means]]></title>
 <link>https://apnews.com/article/mexico-jalisco-el-mencho-cartel-killing-8acfda160817fb27bed1914e769e955b</link>
 <pubDate>Mon, 23 Feb 2026 03:43:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli settlers torch and deface a West Bank mosque during Ramadan]]></title>
-<link>https://apnews.com/article/israel-hamas-gaza-news-02-23-2026-306e91dd7abbf0ad1b02935f1d1d9d4a</link>
-<pubDate>Mon, 23 Feb 2026 22:37:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
