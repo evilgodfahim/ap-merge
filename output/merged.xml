@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Feb 2026 01:07:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 03:54:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Chad closes its border with Sudan after fighters spilled into its territory]]></title>
 <link>https://apnews.com/article/chad-sudan-border-conflict-ceeccfabc33852c2aa641787a4ea2d82</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion]]></title>
+<link>https://apnews.com/photo-essay/ukraine-photo-essay-portraits-anniversary-war-d7bb463924e7cad9cfaa45e59600fc60</link>
+<pubDate>Tue, 24 Feb 2026 02:21:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[EU fails to pass new sanctions targeting Russia after Hungary objects]]></title>
 <link>https://apnews.com/article/brussels-ukraine-hungary-russia-sanctions-druzhba-d2519443e9542593f9a70cd22f18a6ab</link>
 <pubDate>Tue, 24 Feb 2026 01:07:18 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[From bakeries to beauty shops, Russian businesses are feeling the pain from a new wartime tax policy]]></title>
 <link>https://apnews.com/article/russia-war-economy-taxes-ukraine-putin-aa58356ff3c5cf04c5dbf795dddfb90f</link>
 <pubDate>Mon, 23 Feb 2026 09:41:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[4 years of war in Ukraine, in photos]]></title>
-<link>https://apnews.com/photo-gallery/russia-ukraine-war-anniversary-photos-c5d894bd8d67a4d3c6a4c8d62f2a654a</link>
-<pubDate>Mon, 23 Feb 2026 06:23:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Surveillance of romantic partner led to El Mencho’s deadly capture, Mexican authorities say]]></title>
+<link>https://apnews.com/article/mexico-jalisco-cartel-mencho-capture-62c9d513c871e01df1c132ca8defb1a9</link>
+<pubDate>Tue, 24 Feb 2026 02:06:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The criminal ascent of ‘El Mencho’ as Mexico’s most powerful drug lord]]></title>
+<link>https://apnews.com/article/mexico-jalisco-cartel-mencho-chapo-085457e7bb58efc09fcb0f23463ed6f7</link>
+<pubDate>Tue, 24 Feb 2026 03:54:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Panama orders occupation of 2 key canal ports after Supreme Court ruling]]></title>
 <link>https://apnews.com/article/panama-canal-port-court-ruling-ck-hutchison-110af98b3782a08c242ecb5edb512614</link>
 <pubDate>Mon, 23 Feb 2026 16:59:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US ambassador defends travel bans on 3 Chilean officials as a ‘sovereign decision’]]></title>
-<link>https://apnews.com/article/chile-united-states-china-visa-sanctions-top-officials-c0d6eb2ce06581f478024747bdb30b4c</link>
-<pubDate>Mon, 23 Feb 2026 22:52:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canada prepares aid package for Cuba as it faces fuel shortages worsened by US oil embargo]]></title>
-<link>https://apnews.com/article/canada-cuba-aid-embargo-03a9345c6dc02433448d8d0825f8d1d9</link>
-<pubDate>Mon, 23 Feb 2026 18:33:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US ambassador defends travel bans on 3 Chilean officials as a ‘sovereign decision’]]></title>
+<link>https://apnews.com/article/chile-united-states-china-visa-sanctions-top-officials-c0d6eb2ce06581f478024747bdb30b4c</link>
+<pubDate>Tue, 24 Feb 2026 03:54:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US military strikes alleged drug boat in Caribbean Sea, killing 3]]></title>
 <link>https://apnews.com/article/boat-strike-caribbean-cartels-trump-drugs-658f44dda723fea7e628507befe9bce1</link>
 <pubDate>Mon, 23 Feb 2026 23:07:58 -0000</pubDate>
@@ -257,9 +263,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canada prepares aid package for Cuba as it faces fuel shortages worsened by US oil embargo]]></title>
+<link>https://apnews.com/article/canada-cuba-aid-embargo-03a9345c6dc02433448d8d0825f8d1d9</link>
+<pubDate>Tue, 24 Feb 2026 02:37:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Illegal gold mining surges into new parts of Peru’s Amazon, threatening rivers and lives]]></title>
 <link>https://apnews.com/article/peru-illegal-gold-mining-amazon-mercury-indigenous-1938504793e97fc181acaf1e63213028</link>
 <pubDate>Mon, 23 Feb 2026 22:52:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How the former Prince Andrew could be removed from Britain’s line of succession]]></title>
+<link>https://apnews.com/article/britain-andrew-royal-line-of-succession-c1e25355a885060c0729ccb3acb9d187</link>
+<pubDate>Tue, 24 Feb 2026 02:22:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,45 +347,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BAFTA and BBC apologize for racial slur during awards show]]></title>
-<link>https://apnews.com/article/bafta-film-awards-racist-slur-tourettes-b602724980eb462818f937f353b84653</link>
-<pubDate>Mon, 23 Feb 2026 20:18:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Netherlands’ coalition government takes office led by youngest-ever premier Rob Jetten]]></title>
-<link>https://apnews.com/article/netherlands-new-government-hague-jetten-524182c2237409d249e263248cd57d35</link>
-<pubDate>Mon, 23 Feb 2026 13:55:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New era of Dutch politics opens as Jetten is sworn in to lead minority coalition]]></title>
-<link>https://apnews.com/article/netherlands-government-jetten-king-politics-897876739f2ce60e41167a1040956353</link>
-<pubDate>Mon, 23 Feb 2026 10:09:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Security forces keep up fight with cartel gunmen a day after the Mexican military killed a drug lord]]></title>
+<title><![CDATA[Soldiers keep up clash with cartel gunmen a day after Mexico’s military killed top drug lord]]></title>
 <link>https://apnews.com/article/mexico-jalisco-cartel-mencho-sheinbaum-trump-226e50edc33f981d5d6509acc7021ae5</link>
-<pubDate>Mon, 23 Feb 2026 23:07:59 -0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 03:54:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police in Britain arrest former ambassador Mandelson in probe into Epstein ties]]></title>
+<title><![CDATA[Ousted South Korean President Yoon appeals life sentence for martial law decree]]></title>
+<link>https://apnews.com/article/south-korea-yoon-life-sentence-appeal-c87c9f086667f3c2460bbd0c9ad05ef3</link>
+<pubDate>Tue, 24 Feb 2026 03:39:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Former UK ambassador Mandelson released on bail after arrest in Epstein probe]]></title>
 <link>https://apnews.com/article/police-arrest-peter-mandelson-epstein-bc1cbabe40687e09d0f145a75f6a77e2</link>
-<pubDate>Mon, 23 Feb 2026 18:33:23 -0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 03:24:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US sheds light on its allegation of Chinese nuclear test and urges nations to push for disarmament]]></title>
 <link>https://apnews.com/article/nuclear-weapons-china-russia-geneva-us-yeaw-a72a763f828ba0e85da5903e210aff02</link>
 <pubDate>Mon, 23 Feb 2026 21:33:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Surveillance of romantic partner led to El Mencho’s deadly capture, Mexican authorities say]]></title>
-<link>https://apnews.com/article/mexico-jalisco-cartel-mencho-capture-62c9d513c871e01df1c132ca8defb1a9</link>
-<pubDate>Mon, 23 Feb 2026 22:52:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
