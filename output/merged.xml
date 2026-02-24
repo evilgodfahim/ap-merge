@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Feb 2026 03:54:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 05:16:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Chad closes its border with Sudan after fighters spilled into its territory]]></title>
 <link>https://apnews.com/article/chad-sudan-border-conflict-ceeccfabc33852c2aa641787a4ea2d82</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[International Criminal Court opens hearings into former Philippine President Rodrigo Duterte]]></title>
+<link>https://apnews.com/article/rodrigo-duterte-philippines-icc-charges-crimes-court-bc5dd8bcff43da587d91dde18261bbd2</link>
+<pubDate>Tue, 24 Feb 2026 05:16:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kim reelected to top post of North Korea’s ruling party as it hails his nuclear buildup]]></title>
 <link>https://apnews.com/article/north-korea-kim-jong-un-general-secretary-nuclear-8f86df36dbdfd543a9c4f53e4083761f</link>
 <pubDate>Mon, 23 Feb 2026 05:53:28 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Rajanish Kakade, AP photographer who captured the daily rhythm of India’s Mumbai, dies at 55]]></title>
 <link>https://apnews.com/article/india-ap-photographer-rajanish-kakade-mumbai-eb0b9d030905f0ef998ad617e0a3c3a7</link>
 <pubDate>Mon, 23 Feb 2026 13:30:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Hong Kong court dismisses appeals of activists in a key national security case]]></title>
-<link>https://apnews.com/article/hong-kong-appeal-activists-national-security-47-21d145cb7758cff9bc4a7c7e89b02faf</link>
-<pubDate>Mon, 23 Feb 2026 09:11:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Panama orders occupation of 2 key canal ports after Supreme Court ruling]]></title>
+<title><![CDATA[Panama seizes 2 key canal ports from Hong Kong operator following Supreme Court ruling]]></title>
 <link>https://apnews.com/article/panama-canal-port-court-ruling-ck-hutchison-110af98b3782a08c242ecb5edb512614</link>
-<pubDate>Mon, 23 Feb 2026 16:59:10 -0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 05:01:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,24 @@
 <title><![CDATA[Modi pitches India as an artificial intelligence hub at the AI summit]]></title>
 <link>https://apnews.com/article/india-ai-summit-modi-artificial-intelligence-67c2b5a37f98e0a6ebb81136e0287969</link>
 <pubDate>Fri, 20 Feb 2026 03:42:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bloomberg Philanthropies Mayors Challenge winners use AI and resident input to improve city services]]></title>
+<link>https://apnews.com/article/bloomberg-philanthropies-mayors-challenge-89f40b1d61a964684a6bac24fd4c27f8</link>
+<pubDate>Tue, 24 Feb 2026 05:16:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Air ambulance plunges into eastern India forest, killing 7]]></title>
+<link>https://apnews.com/article/air-ambulance-crash-india-8150d7a9539795a00878aa28867ef031</link>
+<pubDate>Tue, 24 Feb 2026 05:01:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares are mixed after heavy selling of potential AI losers hits Wall Street]]></title>
+<link>https://apnews.com/article/stocks-markets-trump-ai-iran-209a20c307b116ef8104c7166c8d2c9c</link>
+<pubDate>Tue, 24 Feb 2026 04:46:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,24 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Sudan villagers killed after being lured from homes with promise of aid, witnesses say]]></title>
-<link>https://apnews.com/article/south-sudan-jonglei-ayod-killings-3a80749870051de4bcebf2083415dc97</link>
-<pubDate>Mon, 23 Feb 2026 12:37:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Boat carrying migrants capsizes in Croatia, killing at least 1]]></title>
-<link>https://apnews.com/article/croatia-bosnia-migrants-boat-capsizes-50eea0d5558c37cf4c4d11e629444908</link>
-<pubDate>Mon, 23 Feb 2026 12:22:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From ‘Robot Jetten’ to prime minister: The rise of the Netherlands’ youngest leader]]></title>
-<link>https://apnews.com/article/jetten-netherlands-premier-gay-politics-1dd601a84dcf52f1a16f097b654cab62</link>
-<pubDate>Mon, 23 Feb 2026 16:49:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Soldiers keep up clash with cartel gunmen a day after Mexico’s military killed top drug lord]]></title>
 <link>https://apnews.com/article/mexico-jalisco-cartel-mencho-sheinbaum-trump-226e50edc33f981d5d6509acc7021ae5</link>
 <pubDate>Tue, 24 Feb 2026 03:54:44 -0000</pubDate>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[International Criminal Court opens hearings into former Philippine President Rodrigo Duterte]]></title>
-<link>https://apnews.com/article/rodrigo-duterte-philippines-icc-charges-crimes-court-bc5dd8bcff43da587d91dde18261bbd2</link>
-<pubDate>Mon, 23 Feb 2026 07:56:53 -0000</pubDate>
+<title><![CDATA[China puts Japanese companies on export control lists as tensions rise]]></title>
+<link>https://apnews.com/article/china-japan-export-controls-45b91393374ddaebcd6d381e51eefc12</link>
+<pubDate>Tue, 24 Feb 2026 04:59:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
