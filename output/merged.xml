@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Feb 2026 09:41:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 10:39:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon urges Hezbollah militant group to avoid getting involved if the US strikes Iran]]></title>
 <link>https://apnews.com/article/hezbollah-iran-lebanon-us-israel-e11bf43338e72c0977c66d998074555f</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A new director is being appointed to lead the Louvre Museum after jewel heist, sources say]]></title>
+<link>https://apnews.com/article/france-louvre-museum-new-director-heist-38adf9f5ac5c99c16e206cc16845ca04</link>
+<pubDate>Wed, 25 Feb 2026 10:39:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Zelenskyy says Putin has ‘not broken’ Ukrainians as he marks 4 years since Russia’s all-out invasion]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c</link>
 <pubDate>Wed, 25 Feb 2026 07:43:57 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[An attacker detonates an explosive device in Moscow, killing a police officer and himself]]></title>
 <link>https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5</link>
 <pubDate>Tue, 24 Feb 2026 08:53:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion]]></title>
-<link>https://apnews.com/photo-essay/ukraine-photo-essay-portraits-anniversary-war-d7bb463924e7cad9cfaa45e59600fc60</link>
-<pubDate>Tue, 24 Feb 2026 02:21:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +251,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Louvre Museum director resigns in the wake of October’s brazen French crown jewels heist]]></title>
+<link>https://apnews.com/article/france-louvre-director-resigns-heist-4ea93a127e59b0a6cc5c2ef67431a729</link>
+<pubDate>Wed, 25 Feb 2026 10:39:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada approves latest Gulfstream business jets after Trump tariff threat]]></title>
 <link>https://apnews.com/article/canada-us-planes-tariffs-gulfstream-approval-trump-69077bf2f810beabffa37b05d2317ddb</link>
 <pubDate>Tue, 24 Feb 2026 16:32:53 -0000</pubDate>
@@ -278,6 +284,12 @@
 <title><![CDATA[Severe floods in southeast Brazil kill at least 25 and force hundreds to evacuate]]></title>
 <link>https://apnews.com/article/brazil-floods-minas-gerais-rains-023ce66786e2316efb44c4377767301f</link>
 <pubDate>Tue, 24 Feb 2026 21:00:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranians worry over American military buildup as last-chance round of talks nears]]></title>
+<link>https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3</link>
+<pubDate>Wed, 25 Feb 2026 10:24:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,18 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US ambassador to France defuses diplomatic squabble with Paris over killing of student]]></title>
-<link>https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6</link>
-<pubDate>Tue, 24 Feb 2026 18:30:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s new parliament is to convene next month for its first session after elections]]></title>
-<link>https://apnews.com/article/myanmar-parliament-session-min-aung-hlaing-7aa8196d88e5517c77fe81708dc9d634</link>
-<pubDate>Tue, 24 Feb 2026 18:15:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hungary’s Orbán stakes his reelection on anti-Ukraine message]]></title>
 <link>https://apnews.com/article/hungary-orban-anti-ukraine-campaign-election-2f729cf3694dc06fb8bc564c123c80e2</link>
 <pubDate>Wed, 25 Feb 2026 07:43:58 -0000</pubDate>
@@ -362,18 +362,6 @@
 <title><![CDATA[Japan demands the swift release of a Japanese national detained in Iran]]></title>
 <link>https://apnews.com/article/japan-iran-detention-tehran-tokyo-8795150fc4f61e0a6102f78c7377d6fb</link>
 <pubDate>Wed, 25 Feb 2026 05:18:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Louvre Museum director resigns in the wake of October’s brazen French crown jewels heist]]></title>
-<link>https://apnews.com/article/france-louvre-director-resigns-heist-4ea93a127e59b0a6cc5c2ef67431a729</link>
-<pubDate>Tue, 24 Feb 2026 20:45:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians worry over American military buildup as last-chance round of talks nears]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3</link>
-<pubDate>Wed, 25 Feb 2026 09:41:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
