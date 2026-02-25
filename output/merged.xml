@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Feb 2026 05:18:31 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Lebanon urges Hezbollah militant group to avoid getting involved if the US strikes Iran]]></title>
-<link>https://apnews.com/article/hezbollah-iran-lebanon-us-israel-e11bf43338e72c0977c66d998074555f</link>
-<pubDate>Wed, 25 Feb 2026 05:18:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 25 Feb 2026 06:36:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran military helicopter crashes into central fruit and vegetable market, reportedly killing 4]]></title>
 <link>https://apnews.com/article/iran-helicopter-crash-fatalities-4e883b83abfd97ffaf0ee3f6a76d85a2</link>
 <pubDate>Tue, 24 Feb 2026 21:00:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sudanese paramilitary forces kill at least 28 people in an attack in Darfur, medical group says]]></title>
+<link>https://apnews.com/article/sudan-darfur-rsf-paramilitary-attack-c7d06dbcb6d7f40139b380de075bf47a</link>
+<pubDate>Tue, 24 Feb 2026 19:42:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ousted South Korean President Yoon appeals life sentence for martial law decree]]></title>
+<link>https://apnews.com/article/south-korea-yoon-life-sentence-appeal-c87c9f086667f3c2460bbd0c9ad05ef3</link>
+<pubDate>Wed, 25 Feb 2026 06:31:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air ambulance plunges into eastern India forest, killing 7]]></title>
 <link>https://apnews.com/article/air-ambulance-crash-india-8150d7a9539795a00878aa28867ef031</link>
 <pubDate>Tue, 24 Feb 2026 13:33:02 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Trade, Ukraine and new world order are top concerns on German leader’s visit to China]]></title>
 <link>https://apnews.com/article/china-germany-chancellor-merz-visit-beijing-xi-d362fe1d9681f91bb457e16e60e244b0</link>
 <pubDate>Tue, 24 Feb 2026 17:34:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prominent Russian scholar of North Korea says he was expelled from Latvia following detention]]></title>
-<link>https://apnews.com/article/russia-north-korea-latvia-lankov-detention-8440d68f6d37162b38bdd7f20cd0400c</link>
-<pubDate>Wed, 25 Feb 2026 05:03:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,12 +71,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c</link>
-<pubDate>Tue, 24 Feb 2026 14:03:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Sierra Leone says security force members apprehended by Guinea’s military following border incursion]]></title>
 <link>https://apnews.com/article/sierra-leone-guinea-border-dispute-9b91bd8b8c43facb4398307b7df1820f</link>
 <pubDate>Tue, 24 Feb 2026 17:04:51 -0000</pubDate>
@@ -89,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudanese paramilitary forces kill at least 28 people in an attack in Darfur, medical group says]]></title>
-<link>https://apnews.com/article/sudan-darfur-rsf-paramilitary-attack-c7d06dbcb6d7f40139b380de075bf47a</link>
-<pubDate>Tue, 24 Feb 2026 19:42:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[South Africa secures release of 11 nationals lured to Russia to fight against Ukraine]]></title>
 <link>https://apnews.com/article/south-africa-russia-ukraine-recruits-c21480f0b8871c448a5eb026ef3eaa53</link>
 <pubDate>Tue, 24 Feb 2026 13:18:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spiro secures $50 million from Afreximbank, others to expand Africa battery-swapping network]]></title>
+<link>https://apnews.com/article/spiro-electric-bikes-battery-swapping-emobility-africa-e91ff820907dd8329d15a9f2ed1e2b20</link>
+<pubDate>Tue, 24 Feb 2026 16:12:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +176,12 @@
 <title><![CDATA[A Turkish Air Force F-16 crashes near a major highway, killing its pilot]]></title>
 <link>https://apnews.com/article/turkey-f16-jet-crash-pilot-balikesir-fa0fc75d46823eb2dd39f815de2d021f</link>
 <pubDate>Wed, 25 Feb 2026 03:55:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prominent Russian scholar of North Korea says he was expelled from Latvia following detention]]></title>
+<link>https://apnews.com/article/russia-north-korea-latvia-lankov-detention-8440d68f6d37162b38bdd7f20cd0400c</link>
+<pubDate>Wed, 25 Feb 2026 06:36:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,21 +299,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spiro secures $50 million from Afreximbank, others to expand Africa battery-swapping network]]></title>
-<link>https://apnews.com/article/spiro-electric-bikes-battery-swapping-emobility-africa-e91ff820907dd8329d15a9f2ed1e2b20</link>
-<pubDate>Tue, 24 Feb 2026 12:08:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[From Expo to the Olympics, Milan bets on big events to fuel its transformation to a global city]]></title>
 <link>https://apnews.com/article/milan-olympics-legacy-italy-ba1bf6c35ecc5c8fd34a746ff69e4bba</link>
 <pubDate>Tue, 24 Feb 2026 15:17:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom]]></title>
+<link>https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c</link>
+<pubDate>Tue, 24 Feb 2026 20:45:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australia begins sweeping public inquiry probing antisemitism after Bondi Beach killings]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-antisemitism-inquiry-bondi-beach-93ffa34be7d8d2b6ab4582efff6f19a6</link>
 <pubDate>Wed, 25 Feb 2026 03:25:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US ambassador to France defuses diplomatic squabble with Paris over killing of student]]></title>
+<link>https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6</link>
+<pubDate>Tue, 24 Feb 2026 18:30:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Father and son killed by mudslide in Peru as floods affect thousands of homes in southern provinces]]></title>
-<link>https://apnews.com/article/peru-rains-arequipa-deaths-evacuations-082f07d395f713c217d9c9020453d51a</link>
-<pubDate>Tue, 24 Feb 2026 00:14:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy says Putin has ‘not broken’ Ukrainians as he marks 4 years since Russia’s all-out invasion]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c</link>
 <pubDate>Tue, 24 Feb 2026 12:38:04 -0000</pubDate>
@@ -356,6 +356,12 @@
 <title><![CDATA[CIA offers tips to potential informants in Iran as Trump considers military action]]></title>
 <link>https://apnews.com/article/iran-cia-trump-china-ratcliffe-youtube-farsi-dfa1e883fc11a1da756416e982c74300</link>
 <pubDate>Tue, 24 Feb 2026 21:00:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japan demands the swift release of a Japanese national detained in Iran]]></title>
+<link>https://apnews.com/article/japan-iran-detention-tehran-tokyo-8795150fc4f61e0a6102f78c7377d6fb</link>
+<pubDate>Wed, 25 Feb 2026 05:18:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US ambassador to France defuses diplomatic squabble with Paris over killing of student]]></title>
-<link>https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6</link>
-<pubDate>Tue, 24 Feb 2026 19:14:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Protest held on Greek island against docked US aircraft carrier as Iran tension builds]]></title>
 <link>https://apnews.com/article/greece-us-iran-protest-gerald-r-ford-trump-3aec7d2753dc33a5c2693b4a273e491f</link>
 <pubDate>Tue, 24 Feb 2026 20:30:15 -0000</pubDate>
@@ -389,15 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan demands the swift release of a Japanese national detained in Iran]]></title>
-<link>https://apnews.com/article/japan-iran-detention-tehran-tokyo-8795150fc4f61e0a6102f78c7377d6fb</link>
-<pubDate>Wed, 25 Feb 2026 05:18:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Aid groups petition Israeli court to let them keep working in Gaza after ban over new rules]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-gaza-aid-groups-ban-bcf1ad966687f5a782633f429d646dce</link>
 <pubDate>Tue, 24 Feb 2026 13:40:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon urges Hezbollah militant group to avoid getting involved if the US strikes Iran]]></title>
+<link>https://apnews.com/article/hezbollah-iran-lebanon-us-israel-e11bf43338e72c0977c66d998074555f</link>
+<pubDate>Tue, 24 Feb 2026 16:17:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ousted South Korean President Yoon appeals life sentence for martial law decree]]></title>
-<link>https://apnews.com/article/south-korea-yoon-life-sentence-appeal-c87c9f086667f3c2460bbd0c9ad05ef3</link>
-<pubDate>Tue, 24 Feb 2026 03:39:44 -0000</pubDate>
+<title><![CDATA[German leader arrives in China to press for fair trade and help ending Ukraine war]]></title>
+<link>https://apnews.com/article/china-germany-chancellor-merz-beijing-trade-talks-23eff16baaae1656ac32b189749b7155</link>
+<pubDate>Wed, 25 Feb 2026 06:36:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
