@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 26 Feb 2026 22:21:33 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
-<link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
-<pubDate>Thu, 26 Feb 2026 17:32:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 26 Feb 2026 22:57:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela says more than 3,200 people have been fully released since amnesty law took effect]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-detained-amnesty-delcy-38494341c7f1fc5c6b3f2936a7830fb8</link>
 <pubDate>Thu, 26 Feb 2026 17:17:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
+<link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
+<pubDate>Thu, 26 Feb 2026 17:32:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s Minas Gerais state hit by more rain as flooding death toll rises to 59]]></title>
+<link>https://apnews.com/article/brazil-floods-deaths-minas-gerais-8b954e5f3fe04c2ec4cdee0788ed737e</link>
+<pubDate>Thu, 26 Feb 2026 22:57:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Maduro’s lawyer says US is blocking Venezuela government from paying deposed leader’s drug defense]]></title>
 <link>https://apnews.com/article/maduro-venezuela-criminal-case-9dc08ea33228d05feec7ab3c473dd762</link>
 <pubDate>Thu, 26 Feb 2026 18:07:12 -0000</pubDate>
@@ -95,9 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela attorney general resigns, then lands acting ombudsman role in surprise move]]></title>
-<link>https://apnews.com/article/venezuela-attorney-general-resignation-repression-human-rights-44ccb6341428278b13697d6d5949578d</link>
-<pubDate>Thu, 26 Feb 2026 00:51:09 -0000</pubDate>
+<title><![CDATA[South Africa says 2 of its nationals died fighting for Russia in Ukraine after recruitment scheme]]></title>
+<link>https://apnews.com/article/south-africa-russia-ukraine-war-soldiers-recruited-e66a5feb7e8fc58c4ade5cd02e125573</link>
+<pubDate>Thu, 26 Feb 2026 22:42:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +125,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A red tide in South Africa is causing the mass deaths of crayfish]]></title>
-<link>https://apnews.com/article/south-africa-ocean-marine-fish-environment-31f47d345d3811bd251abec88fe627fb</link>
-<pubDate>Thu, 26 Feb 2026 19:33:28 -0000</pubDate>
+<title><![CDATA[Prosecutor claims that delayed charges against Abrego Garcia were ‘extraordinary’ but justified]]></title>
+<link>https://apnews.com/article/kilmar-abrego-garcia-deportation-el-salvador-immigration-62d17015d5d075897938a971e30e3276</link>
+<pubDate>Thu, 26 Feb 2026 22:27:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Walz unveils anti-fraud package after Trump administration threatens to halt Medicaid funds]]></title>
+<link>https://apnews.com/article/minnesota-walz-medicaid-fraud-immigration-surge-53d1a0e589975376a47f047114a12571</link>
+<pubDate>Thu, 26 Feb 2026 22:12:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,21 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[NYC mayor says Trump agreed to immediately release Columbia student detained by ICE]]></title>
-<link>https://apnews.com/article/columbia-university-student-dhs-ice-f76e678d014680390322703d46eb3b9c</link>
-<pubDate>Thu, 26 Feb 2026 21:34:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Crowds of Chicago mourners pay respects to Jesse Jackson at start of cross-country memorial services]]></title>
 <link>https://apnews.com/article/jesse-jackson-memorial-services-chicago-649518382cd9f37a49fe393a6c9ec09b</link>
 <pubDate>Thu, 26 Feb 2026 21:19:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The IRS broke the law by disclosing confidential information to ICE 42,695 times, judge says]]></title>
-<link>https://apnews.com/article/irs-breaks-law-judge-finds-2dbe472e46121091a32309bdab6795d7</link>
-<pubDate>Thu, 26 Feb 2026 21:04:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-february-26-2026-ad2602836304836703c9093954ddb4bf</link>
-<pubDate>Thu, 26 Feb 2026 21:34:37 -0000</pubDate>
+<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/winter-olympics-state-of-union-mexico-cartel-violence-ukraine-russia-war-e451eb0da9e6cb8b6590eaf301d20005</link>
+<pubDate>Thu, 26 Feb 2026 22:57:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[171 bodies found in mass graves in eastern Congo, an official says]]></title>
-<link>https://apnews.com/article/congo-mass-graves-uvira-m23-rebels-cbc711ebbb230bced71c3af11cd17a63</link>
-<pubDate>Thu, 26 Feb 2026 21:19:37 -0000</pubDate>
+<title><![CDATA[Reports: Italian golfer Pavan badly injured from fall down elevator shaft when car was not there]]></title>
+<link>https://apnews.com/article/andrea-pavan-elevator-accident-south-africa-40f86ac4552ca3cf260edb3e6f15d182</link>
+<pubDate>Thu, 26 Feb 2026 22:42:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Melania Trump will preside over a UN Security Council meeting in a first for a first lady]]></title>
+<link>https://apnews.com/article/melania-trump-united-nations-security-council-a73e49e3062a991c634292cee89220ed</link>
+<pubDate>Thu, 26 Feb 2026 22:27:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Young woman says she was on social media ‘all day long’ as a child in landmark addiction trial]]></title>
+<link>https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-2afb4809d2dbbb0d1e69739c7f2b20b3</link>
+<pubDate>Thu, 26 Feb 2026 22:12:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-february-26-2026-ad2602836304836703c9093954ddb4bf</link>
+<pubDate>Thu, 26 Feb 2026 21:34:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,6 +242,12 @@
 <title><![CDATA[Ghana navy and air force rescue 71 fishermen after gunmen attack boats off the coast]]></title>
 <link>https://apnews.com/article/ghana-fishermen-rescue-attack-0730a3a39879c80b520629822b9fd3e4</link>
 <pubDate>Thu, 26 Feb 2026 20:09:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A red tide in South Africa is causing the mass deaths of crayfish]]></title>
+<link>https://apnews.com/article/south-africa-ocean-marine-fish-environment-31f47d345d3811bd251abec88fe627fb</link>
+<pubDate>Thu, 26 Feb 2026 21:57:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,39 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[One Tech Tip: Unspoken group chats rules you’re probably ignoring, but shouldn’t]]></title>
+<title><![CDATA[One Tech Tip: Unspoken group chat rules you’re probably ignoring, but shouldn’t]]></title>
 <link>https://apnews.com/article/group-chat-etiquette-whatsapp-slack-96925622ea40a8a80af9915c13e86d9b</link>
-<pubDate>Thu, 26 Feb 2026 14:07:48 -0000</pubDate>
+<pubDate>Thu, 26 Feb 2026 21:42:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[South Korea relaunches truth commission with focus on adoption fraud]]></title>
 <link>https://apnews.com/article/south-korea-adoptions-truth-reconciliation-a3d0a0d8629c699b9b215b2e7b5a9891</link>
 <pubDate>Thu, 26 Feb 2026 10:34:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Oldboy’ director Park Chan-wook will be the first Korean to head the Cannes Film Festival jury]]></title>
-<link>https://apnews.com/article/cannes-film-festival-2026-jury-president-e3d578a54a89c6d22c37b57be5e0c04c</link>
-<pubDate>Thu, 26 Feb 2026 06:00:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AI song generator startups Suno and Udio angered the music industry. Now they’re hoping to join it]]></title>
-<link>https://apnews.com/article/suno-udio-ai-music-record-labels-849a2d59eab89072154ab32b4db06284</link>
-<pubDate>Thu, 26 Feb 2026 02:10:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As fighting spirals in South Sudan, a humanitarian crisis looms for displaced survivors]]></title>
-<link>https://apnews.com/article/south-sudan-conflict-un-akobo-jonglei-d60f10176d04e1118ffbaee9cce427ce</link>
-<pubDate>Thu, 26 Feb 2026 19:24:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Online disinformation fueled panic after the killing of Mexico’s most powerful drug lord]]></title>
-<link>https://apnews.com/article/mexico-jalisco-mencho-sheinbaum-cartel-ee90475f9708090b9defb3538e23fa64</link>
-<pubDate>Wed, 25 Feb 2026 23:25:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,15 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the boat shooting in Cuban waters that killed 4]]></title>
-<link>https://apnews.com/article/cuba-us-boat-shooting-attack-invasion-exiles-b951fbbfced99f8cd350e9a5010e100d</link>
-<pubDate>Thu, 26 Feb 2026 16:12:02 -0000</pubDate>
+<title><![CDATA[Cuba says troops killed 4 after an armed speedboat opened fire near the island]]></title>
+<link>https://apnews.com/article/cuba-troops-clash-armed-speedboat-expatriates-fb2d5bdab3b45e93d46ee827ef099ca4</link>
+<pubDate>Thu, 26 Feb 2026 22:57:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Experts urge informed planning for spring break in Mexico after cartel-related violence]]></title>
-<link>https://apnews.com/article/spring-break-travel-mexico-jalisco-cdf619094709c5cf8160e37fb4e50969</link>
-<pubDate>Thu, 26 Feb 2026 21:19:37 -0000</pubDate>
+<title><![CDATA[What to know about the boat shooting in Cuban waters that killed 4]]></title>
+<link>https://apnews.com/article/cuba-us-boat-shooting-attack-invasion-exiles-b951fbbfced99f8cd350e9a5010e100d</link>
+<pubDate>Thu, 26 Feb 2026 16:12:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,27 +455,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan launches military strikes on Pakistan in retaliation for earlier airstrikes]]></title>
+<title><![CDATA[Explosions and sounds of aircraft heard in Kabul, hours after Afghanistan attacks Pakistan]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-airstrikes-513791ef82fb8c2e4acce08c2b80c41a</link>
-<pubDate>Thu, 26 Feb 2026 18:22:13 -0000</pubDate>
+<pubDate>Thu, 26 Feb 2026 22:42:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Minas Gerais state hit by more rain as flooding death toll rises to 59]]></title>
-<link>https://apnews.com/article/brazil-floods-deaths-minas-gerais-8b954e5f3fe04c2ec4cdee0788ed737e</link>
-<pubDate>Thu, 26 Feb 2026 20:49:37 -0000</pubDate>
+<title><![CDATA[Experts urge informed planning for spring break in Mexico after cartel-related violence]]></title>
+<link>https://apnews.com/article/spring-break-travel-mexico-jalisco-cdf619094709c5cf8160e37fb4e50969</link>
+<pubDate>Thu, 26 Feb 2026 21:19:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa says 2 of its nationals died fighting for Russia in Ukraine after recruitment scheme]]></title>
-<link>https://apnews.com/article/south-africa-russia-ukraine-war-soldiers-recruited-e66a5feb7e8fc58c4ade5cd02e125573</link>
-<pubDate>Thu, 26 Feb 2026 17:02:16 -0000</pubDate>
+<title><![CDATA[171 bodies found in mass graves in eastern Congo, an official says]]></title>
+<link>https://apnews.com/article/congo-mass-graves-uvira-m23-rebels-cbc711ebbb230bced71c3af11cd17a63</link>
+<pubDate>Thu, 26 Feb 2026 22:27:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prosecutor claims that delayed charges against Abrego Garcia were ‘extraordinary’ but justified]]></title>
-<link>https://apnews.com/article/kilmar-abrego-garcia-deportation-el-salvador-immigration-62d17015d5d075897938a971e30e3276</link>
-<pubDate>Thu, 26 Feb 2026 19:39:41 -0000</pubDate>
+<title><![CDATA[Columbia student detained by ICE is abruptly released after Mamdani meets with Trump]]></title>
+<link>https://apnews.com/article/columbia-university-student-dhs-ice-f76e678d014680390322703d46eb3b9c</link>
+<pubDate>Thu, 26 Feb 2026 22:12:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
