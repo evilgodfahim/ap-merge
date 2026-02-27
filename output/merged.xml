@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 01:06:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 03:39:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela says more than 3,200 people have been fully released since amnesty law took effect]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-detained-amnesty-delcy-38494341c7f1fc5c6b3f2936a7830fb8</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion]]></title>
-<link>https://apnews.com/photo-essay/ukraine-photo-essay-portraits-anniversary-war-d7bb463924e7cad9cfaa45e59600fc60</link>
-<pubDate>Tue, 24 Feb 2026 02:21:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
 <link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
 <pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[Prominent Russian scholar of North Korea says he was expelled from Latvia following detention]]></title>
 <link>https://apnews.com/article/russia-north-korea-latvia-lankov-detention-8440d68f6d37162b38bdd7f20cd0400c</link>
 <pubDate>Wed, 25 Feb 2026 05:03:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea warns it could destroy South if threatened, but leaves door open for US dialogue]]></title>
+<link>https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d</link>
+<pubDate>Thu, 26 Feb 2026 09:25:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,9 +77,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea warns it could destroy South if threatened, but leaves door open for US dialogue]]></title>
-<link>https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d</link>
-<pubDate>Thu, 26 Feb 2026 09:25:53 -0000</pubDate>
+<title><![CDATA[Canadian Prime Minister Mark Carney visits India to restore relations and diversify away from US]]></title>
+<link>https://apnews.com/article/canada-india-carney-visit-trump-d76ddfa5957085da74bc23d8014ccc35</link>
+<pubDate>Fri, 27 Feb 2026 03:05:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,15 +89,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Minas Gerais state hit by more rain as flooding death toll rises to 59]]></title>
-<link>https://apnews.com/article/brazil-floods-deaths-minas-gerais-8b954e5f3fe04c2ec4cdee0788ed737e</link>
-<pubDate>Thu, 26 Feb 2026 22:57:37 -0000</pubDate>
+<title><![CDATA[In ‘El Mencho’s’ last redoubt, a crucifix, saint candles and a handwritten psalm]]></title>
+<link>https://apnews.com/article/mexico-mencho-jalisco-catholic-81b3446709314f36f15556e113a9c29a</link>
+<pubDate>Fri, 27 Feb 2026 02:50:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro’s lawyer says US is blocking Venezuela government from paying deposed leader’s drug defense]]></title>
-<link>https://apnews.com/article/maduro-venezuela-criminal-case-9dc08ea33228d05feec7ab3c473dd762</link>
-<pubDate>Thu, 26 Feb 2026 18:07:12 -0000</pubDate>
+<title><![CDATA[Mexico’s Supreme Court holds its first session outside Mexico City, in Chiapas]]></title>
+<link>https://apnews.com/article/mexico-supreme-court-chiapas-indigenous-708b9705ead32d9bbe6e2747741dd132</link>
+<pubDate>Fri, 27 Feb 2026 02:35:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -173,12 +173,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India crushes Zimbabwe to revive T20 World Cup hopes. Unbeaten South Africa advances to semifinals]]></title>
-<link>https://apnews.com/article/south-africa-west-indies-t20-world-cup-f3bca3614e7d679e17ddff8797b805f6</link>
-<pubDate>Thu, 26 Feb 2026 20:49:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[India’s Modi addresses Israel’s Parliament as Netanyahu touts mutual alliance]]></title>
 <link>https://apnews.com/article/israel-india-modi-visit-netanyahu-3579fe515c0dad8c05431d59706a4cd7</link>
 <pubDate>Thu, 26 Feb 2026 05:00:05 -0000</pubDate>
@@ -194,6 +188,24 @@
 <title><![CDATA[Rajanish Kakade, AP photographer who captured the daily rhythm of India’s Mumbai, dies at 55]]></title>
 <link>https://apnews.com/article/india-ap-photographer-rajanish-kakade-mumbai-eb0b9d030905f0ef998ad617e0a3c3a7</link>
 <pubDate>Mon, 23 Feb 2026 13:30:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[T20 World Cup co-hosts lose as South Africa ends India’s winning run and England beats Sri Lanka]]></title>
+<link>https://apnews.com/article/sri-lanka-england-t20-world-cup-40b66b9eef3d176409ddfe4cc7d0467d</link>
+<pubDate>Tue, 24 Feb 2026 00:52:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Family of St. Lucia fishing boat captain seeks answers after deadly US strike in Caribbean]]></title>
+<link>https://apnews.com/article/caribbean-st-lucia-st-vincent-thomas-joseph-us-strike-39886f0c7b14628cd890fe71bf1a63c2</link>
+<pubDate>Fri, 27 Feb 2026 03:39:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[OpenAI says Canada mass shooter evaded ban with second ChatGPT account]]></title>
+<link>https://apnews.com/article/canada-school-shooting-open-ai-chatgpt-b746b33f2909c53b4e60c19be762cc6d</link>
+<pubDate>Fri, 27 Feb 2026 03:24:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,6 +299,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil’s Minas Gerais state hit by more rain as flooding death toll rises to 59]]></title>
+<link>https://apnews.com/article/brazil-floods-deaths-minas-gerais-8b954e5f3fe04c2ec4cdee0788ed737e</link>
+<pubDate>Fri, 27 Feb 2026 03:09:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Pakistani man is on trial over a plot to kill a US politician, possibly Trump]]></title>
 <link>https://apnews.com/article/iran-pakistan-trump-assassination-asif-merchant-trial-faa05d588c03e7fc56e0c44b24c9170f</link>
 <pubDate>Thu, 26 Feb 2026 20:34:37 -0000</pubDate>
@@ -356,24 +374,6 @@
 <title><![CDATA[IMF says it is releasing $2.3 billion to Egypt after reforms help to stabilize the economy]]></title>
 <link>https://apnews.com/article/imf-loan-egypt-economy-egyptian-pound-cairo-3bf4c186b3b4a344480fb3884f9e246e</link>
 <pubDate>Thu, 26 Feb 2026 13:17:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos from Cuba as US speedboat shooting heightens tensions]]></title>
-<link>https://apnews.com/photo-gallery/cuba-florida-shooting-speedboat-1ebb08a68ea38394bb578365cf3902ad</link>
-<pubDate>Thu, 26 Feb 2026 18:22:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A special election in England pits Starmer’s Labour against rivals to left and right]]></title>
-<link>https://apnews.com/article/uk-election-starmer-labour-reform-greens-gorton-1e6e8b6b43c564787830cfd2d656b4c0</link>
-<pubDate>Thu, 26 Feb 2026 12:37:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh court orders authorities to request Interpol red notice for arrest of British MP]]></title>
-<link>https://apnews.com/article/bangladesh-tulip-hasina-corruption-f61e46af7f60ea9dd00e3a0ea7d77123</link>
-<pubDate>Thu, 26 Feb 2026 09:37:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canadian Prime Minister Mark Carney visits India to restore relations and diversify away from US]]></title>
-<link>https://apnews.com/article/canada-india-carney-visit-trump-d76ddfa5957085da74bc23d8014ccc35</link>
-<pubDate>Thu, 26 Feb 2026 20:34:37 -0000</pubDate>
+<title><![CDATA[India crushes Zimbabwe to revive T20 World Cup hopes. Unbeaten South Africa advances to semifinals]]></title>
+<link>https://apnews.com/article/south-africa-west-indies-t20-world-cup-f3bca3614e7d679e17ddff8797b805f6</link>
+<pubDate>Thu, 26 Feb 2026 17:22:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
