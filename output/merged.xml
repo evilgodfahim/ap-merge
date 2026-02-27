@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 18:39:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 19:25:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa starts mass cattle vaccination program to halt foot-and-mouth outbreak]]></title>
+<link>https://apnews.com/article/south-africa-cattle-disease-outbreak-vaccinations-02ec98188451fd313e1cb4715734f1e5</link>
+<pubDate>Fri, 27 Feb 2026 19:25:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congo and US agree to $1.2 billion health partnership]]></title>
 <link>https://apnews.com/article/congo-us-health-trump-457c49b237ba8ff4b698f701cfe031e6</link>
 <pubDate>Fri, 27 Feb 2026 00:29:07 -0000</pubDate>
@@ -119,9 +125,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa says 2 of its nationals died fighting for Russia in Ukraine after recruitment scheme]]></title>
-<link>https://apnews.com/article/south-africa-russia-ukraine-war-soldiers-recruited-e66a5feb7e8fc58c4ade5cd02e125573</link>
-<pubDate>Thu, 26 Feb 2026 22:42:37 -0000</pubDate>
+<title><![CDATA[Trump heads to Texas, where 3 supporters are battling it out in the Senate Republican primary]]></title>
+<link>https://apnews.com/article/trump-texas-cornyn-paxton-hunt-gop-primary-cd31dbec10c54ce230ae915e51cbccf0</link>
+<pubDate>Fri, 27 Feb 2026 19:10:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Attorney general announces indictments against 30 more people who protested at a Minnesota church]]></title>
+<link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
+<pubDate>Fri, 27 Feb 2026 18:55:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,18 +146,6 @@
 <title><![CDATA[US military used laser to take down Border Protection drone, lawmakers say]]></title>
 <link>https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c</link>
 <pubDate>Fri, 27 Feb 2026 10:50:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Despite recent gains, tribal citizens descended from slaves face disparate treatment]]></title>
-<link>https://apnews.com/article/freedmen-slavery-cherokee-muscogee-seminole-choctaw-chickasaw-adc518e2cf7a1cd544527a50bcf1f61f</link>
-<pubDate>Fri, 27 Feb 2026 14:29:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Black fathers embrace resources to support their pregnant partners through birth]]></title>
-<link>https://apnews.com/article/maternal-mortality-black-fathers-racism-1c6e39018a907eac6daf241acb8a3c41</link>
-<pubDate>Fri, 27 Feb 2026 14:14:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ecuador’s president slams Colombia as a trade war between the neighbors escalates]]></title>
+<link>https://apnews.com/article/ecuador-colombia-trade-war-noboa-petro-tariffs-378e6f00ba5a30b204a96efe69cb8e7e</link>
+<pubDate>Fri, 27 Feb 2026 19:07:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[In Minnesota, US cardinals and pope’s ambassador decry mass deportations and call for reconciliation]]></title>
+<link>https://apnews.com/article/immigration-trump-deportation-minnesota-pope-catholic-cardinals-31b1803c6c4bcc4e67878a54a915af58</link>
+<pubDate>Fri, 27 Feb 2026 18:52:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Search for Brazil flood survivors continues as death toll rises to 64]]></title>
+<link>https://apnews.com/article/brazil-weather-floods-casualties-8276a643adada41f263b20e26292775e</link>
+<pubDate>Fri, 27 Feb 2026 18:37:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sheinbaum says FIFA will visit Mexico to assess World Cup security and mobility]]></title>
+<link>https://apnews.com/article/world-cup-mexico-violence-sheinbaum-fifa-8fa0ff716db12ee1eeed65abbccfeeae</link>
+<pubDate>Fri, 27 Feb 2026 18:22:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Maryland man who worked at embassy in Burkina Faso sentenced for rape of 2 girls]]></title>
 <link>https://apnews.com/article/burkina-faso-us-embassy-sexual-assault-02420fecbd322ecfa90c9b74ac036a48</link>
 <pubDate>Fri, 27 Feb 2026 17:58:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Milan tram derails and slams into a building, killing one person]]></title>
+<title><![CDATA[Milan tram derails and slams into a building, killing two people]]></title>
 <link>https://apnews.com/article/milan-tram-derailment-vittorio-veneto-81ac2a5118b5757e23bcf7ce4caa6e69</link>
-<pubDate>Fri, 27 Feb 2026 17:43:14 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 18:07:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,30 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[171 bodies found in mass graves in eastern Congo, an official says]]></title>
-<link>https://apnews.com/article/congo-mass-graves-uvira-m23-rebels-cbc711ebbb230bced71c3af11cd17a63</link>
-<pubDate>Thu, 26 Feb 2026 21:19:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Uruguay and Argentina become first Mercosur members to ratify the EU trade pact]]></title>
-<link>https://apnews.com/article/mercosur-argentina-uruguay-european-union-free-trade-c5e9b60d880a944ecaf64f06985c009a</link>
-<pubDate>Thu, 26 Feb 2026 21:04:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US hockey player Brady Tkachuk slams White House TikTok as ‘clearly fake’ after anti-Canada slur]]></title>
-<link>https://apnews.com/article/olympics-hockey-trump-743d42c4ad45a0eb36e281f70a505661</link>
-<pubDate>Thu, 26 Feb 2026 20:49:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ghana navy and air force rescue 71 fishermen after gunmen attack boats off the coast]]></title>
-<link>https://apnews.com/article/ghana-fishermen-rescue-attack-0730a3a39879c80b520629822b9fd3e4</link>
-<pubDate>Thu, 26 Feb 2026 20:09:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[2 journalists in Belarus imprisoned as part of a crackdown on free speech, media groups say]]></title>
 <link>https://apnews.com/article/belarus-lukashenko-journalists-crackdown-6721e4fe3cebae11629a52dfd9ac92f4</link>
 <pubDate>Fri, 27 Feb 2026 17:58:15 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio plans to visit Israel next week as US-Iran tensions remain high after latest talks]]></title>
+<title><![CDATA[Trump says he’s ‘not happy’ with Iran talks but will wait to see what happens in further rounds]]></title>
 <link>https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea</link>
-<pubDate>Fri, 27 Feb 2026 16:41:33 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 19:25:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump heads to Texas, where 3 supporters are battling it out in the Senate Republican primary]]></title>
-<link>https://apnews.com/article/trump-texas-cornyn-paxton-hunt-gop-primary-cd31dbec10c54ce230ae915e51cbccf0</link>
-<pubDate>Fri, 27 Feb 2026 12:51:51 -0000</pubDate>
+<title><![CDATA[Biden flies commercial from Reagan National Airport and winds up stuck in delays like everyone else]]></title>
+<link>https://apnews.com/article/biden-commercial-flight-reagan-airport-fog-delay-25760a27cab9d4b593583681648d1819</link>
+<pubDate>Fri, 27 Feb 2026 19:10:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
