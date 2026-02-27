@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 03:39:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 05:09:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela says more than 3,200 people have been fully released since amnesty law took effect]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-detained-amnesty-delcy-38494341c7f1fc5c6b3f2936a7830fb8</link>
@@ -65,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan’s new penal code sets 15 days in prison for wife-beating, 5 months for animal fights]]></title>
-<link>https://apnews.com/article/afghanistan-crime-women-domestic-abuse-5d1d73bac59c5f3ffcdeef858a6f09b4</link>
-<pubDate>Thu, 26 Feb 2026 18:37:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The father of a US-based Hong Kong activist is sentenced to 8 months under national security law]]></title>
 <link>https://apnews.com/article/hong-national-security-anna-kwok-father-sentence-d4a4419b33fed9290292d88770fe049c</link>
 <pubDate>Thu, 26 Feb 2026 18:22:12 -0000</pubDate>
@@ -83,6 +77,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan demands the swift release of a Japanese national detained in Iran]]></title>
+<link>https://apnews.com/article/japan-iran-detention-tehran-tokyo-8795150fc4f61e0a6102f78c7377d6fb</link>
+<pubDate>Thu, 26 Feb 2026 05:15:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The faces of Mexico’s disappeared haunt this city’s streets. Families worry they will be wiped away]]></title>
+<link>https://apnews.com/article/mexico-cartel-violence-guadalajara-disappeared-world-cup-bc58ae115bb17568359f56296d6a68e6</link>
+<pubDate>Fri, 27 Feb 2026 05:09:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Experts urge informed planning for spring break in Mexico after cartel-related violence]]></title>
 <link>https://apnews.com/article/spring-break-travel-mexico-jalisco-cdf619094709c5cf8160e37fb4e50969</link>
 <pubDate>Fri, 27 Feb 2026 00:44:07 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[In ‘El Mencho’s’ last redoubt, a crucifix, saint candles and a handwritten psalm]]></title>
 <link>https://apnews.com/article/mexico-mencho-jalisco-catholic-81b3446709314f36f15556e113a9c29a</link>
 <pubDate>Fri, 27 Feb 2026 02:50:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico’s Supreme Court holds its first session outside Mexico City, in Chiapas]]></title>
-<link>https://apnews.com/article/mexico-supreme-court-chiapas-indigenous-708b9705ead32d9bbe6e2747741dd132</link>
-<pubDate>Fri, 27 Feb 2026 02:35:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,30 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FIFA president says he has full confidence in Mexico as World Cup host despite cartel violence]]></title>
+<link>https://apnews.com/article/infantino-fifa-world-cup-mexico-violence-f0b7783611c7a3e4d839a2ca5972e1eb</link>
+<pubDate>Fri, 27 Feb 2026 05:09:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Viral phenomenon in Argentina has young people identifying themselves as animals]]></title>
+<link>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</link>
+<pubDate>Fri, 27 Feb 2026 04:54:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Panamanian investigators remove documents from offices of company that ran canal ports]]></title>
+<link>https://apnews.com/article/panama-canal-ports-hutchison-court-43e8617da0f5e5c268e1502332b2735b</link>
+<pubDate>Fri, 27 Feb 2026 04:39:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico’s Supreme Court holds its first session outside Mexico City, in Chiapas]]></title>
+<link>https://apnews.com/article/mexico-supreme-court-chiapas-indigenous-708b9705ead32d9bbe6e2747741dd132</link>
+<pubDate>Fri, 27 Feb 2026 04:24:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Family of St. Lucia fishing boat captain seeks answers after deadly US strike in Caribbean]]></title>
 <link>https://apnews.com/article/caribbean-st-lucia-st-vincent-thomas-joseph-us-strike-39886f0c7b14628cd890fe71bf1a63c2</link>
 <pubDate>Fri, 27 Feb 2026 03:39:56 -0000</pubDate>
@@ -281,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Airstrikes hit Afghan capital of Kabul, hours after Afghanistan attacks Pakistan]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-513791ef82fb8c2e4acce08c2b80c41a</link>
+<pubDate>Fri, 27 Feb 2026 04:09:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US military builds up the largest force of warships and aircraft in the Middle East in decades]]></title>
 <link>https://apnews.com/article/us-military-iran-buildup-nuclear-program-5663a8b0d81c8439adfaa010c59a36f5</link>
 <pubDate>Thu, 26 Feb 2026 17:03:01 -0000</pubDate>
@@ -347,33 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World Economic Forum head Børge Brende steps down following pressure over Epstein links]]></title>
-<link>https://apnews.com/article/world-economic-forum-brende-resigns-epstein-b640f53ce3fde5640d88dc16bd72f7a3</link>
-<pubDate>Thu, 26 Feb 2026 13:47:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian government forces and Druze fighters exchange prisoners from summer clashes]]></title>
-<link>https://apnews.com/article/syria-sweida-druze-prisoner-exchange-98eebe5469dcc4974665682fa3969085</link>
-<pubDate>Thu, 26 Feb 2026 15:27:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Human rights situation in Colombia is backsliding, UN warns as nation heads into elections]]></title>
-<link>https://apnews.com/article/colombia-un-human-rights-violence-elections-0d2776ef95dae8cb7bd0a1c7c3a2ac66</link>
-<pubDate>Fri, 27 Feb 2026 00:51:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s parliament moves toward ban on mixed-gender prayer at Jerusalem’s Western Wall]]></title>
-<link>https://apnews.com/article/western-wall-jerusalem-netanyahu-reform-orthodox-israel-c86ca6d39f1d04f3c2b99f4a556b8f34</link>
-<pubDate>Thu, 26 Feb 2026 13:32:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[IMF says it is releasing $2.3 billion to Egypt after reforms help to stabilize the economy]]></title>
-<link>https://apnews.com/article/imf-loan-egypt-economy-egyptian-pound-cairo-3bf4c186b3b4a344480fb3884f9e246e</link>
-<pubDate>Thu, 26 Feb 2026 13:17:21 -0000</pubDate>
+<title><![CDATA[Pakistan’s defense minister says that there is now ‘open war’ with Afghanistan after latest strikes]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-open-war-98927b79ee9ef5741bf0804956d3c2e6</link>
+<pubDate>Fri, 27 Feb 2026 05:09:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Airstrikes hit Afghan capital of Kabul, hours after Afghanistan attacks Pakistan]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-513791ef82fb8c2e4acce08c2b80c41a</link>
-<pubDate>Fri, 27 Feb 2026 00:51:03 -0000</pubDate>
+<title><![CDATA[Afghanistan’s new penal code sets 15 days in prison for wife-beating, 5 months for animal fights]]></title>
+<link>https://apnews.com/article/afghanistan-crime-women-domestic-abuse-5d1d73bac59c5f3ffcdeef858a6f09b4</link>
+<pubDate>Fri, 27 Feb 2026 04:54:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
