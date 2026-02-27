@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 22:47:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 23:15:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
-<link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
-<pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[North Korea warns it could destroy South if threatened, but leaves door open for US dialogue]]></title>
 <link>https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d</link>
 <pubDate>Thu, 26 Feb 2026 09:25:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
+<link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
+<pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US and Iran wrap up latest nuclear talks without a deal as the risk of war looms]]></title>
+<link>https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6</link>
+<pubDate>Fri, 27 Feb 2026 23:15:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Suspect arrested after Churchill statue in London defaced with pro-Palestinian graffiti]]></title>
 <link>https://apnews.com/article/churchill-statue-vandalized-london-britain-c19fcc6ac683ec7951a86bbfc8c9f685</link>
 <pubDate>Fri, 27 Feb 2026 15:29:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France’s nukes and Europe’s worries about Trump in spotlight as Macron heads to top-secret sub base]]></title>
-<link>https://apnews.com/article/trump-macron-merz-submarines-nuclear-weapons-denmark-3a8fda3e89eb9badc52f063fa46cbf30</link>
-<pubDate>Fri, 27 Feb 2026 17:58:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A UK election win for the Green Party is a nightmare for Labour and Starmer. Here are the takeaways]]></title>
 <link>https://apnews.com/article/britain-election-takeaways-greens-labour-starmer-8a7df52bb9c2ff6c2444e571fcd03442</link>
 <pubDate>Fri, 27 Feb 2026 13:21:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN nuclear watchdog says it’s unable to verify whether Iran has suspended all uranium enrichment]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941</link>
+<pubDate>Fri, 27 Feb 2026 23:00:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Biden flies commercial from Reagan National Airport and winds up stuck in delays like everyone else]]></title>
-<link>https://apnews.com/article/biden-commercial-flight-reagan-airport-fog-delay-25760a27cab9d4b593583681648d1819</link>
-<pubDate>Fri, 27 Feb 2026 21:58:12 -0000</pubDate>
+<title><![CDATA[Paramount must convince regulators its deal with Warner will not hurt customers]]></title>
+<link>https://apnews.com/article/paramount-warner-regulation-antitrust-ea33a1e179b8e906fa83428faa06c0a5</link>
+<pubDate>Fri, 27 Feb 2026 22:45:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN nuclear watchdog says it’s unable to verify whether Iran has suspended all uranium enrichment]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941</link>
-<pubDate>Fri, 27 Feb 2026 15:14:30 -0000</pubDate>
+<title><![CDATA[Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father]]></title>
+<link>https://apnews.com/article/anna-kwok-hong-kong-father-sentence-b6cbd5232d4c932fae8df851f5e4c458</link>
+<pubDate>Fri, 27 Feb 2026 23:15:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,15 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and Iran wrap up latest nuclear talks without a deal as the risk of war looms]]></title>
-<link>https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6</link>
-<pubDate>Thu, 26 Feb 2026 21:34:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump orders all federal agencies to phase out use of Anthropic technology]]></title>
+<title><![CDATA[Trump orders federal agencies to stop using Anthropic technology in dispute over AI safety]]></title>
 <link>https://apnews.com/article/anthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a</link>
-<pubDate>Fri, 27 Feb 2026 21:28:13 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 23:00:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -464,6 +464,12 @@
 <title><![CDATA[Panamanian investigators remove documents from offices of company that ran canal ports]]></title>
 <link>https://apnews.com/article/panama-canal-ports-hutchison-court-43e8617da0f5e5c268e1502332b2735b</link>
 <pubDate>Fri, 27 Feb 2026 09:17:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France’s nukes and Europe’s worries about Trump in spotlight as Macron heads to top-secret sub base]]></title>
+<link>https://apnews.com/article/trump-macron-merz-submarines-nuclear-weapons-denmark-3a8fda3e89eb9badc52f063fa46cbf30</link>
+<pubDate>Fri, 27 Feb 2026 22:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
