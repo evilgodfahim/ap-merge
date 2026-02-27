@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 20:17:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 20:49:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
+<link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
+<pubDate>Fri, 27 Feb 2026 20:49:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the latest fighting between Afghanistan and Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-fighting-background-a23c22bd981170679735bd295220bb49</link>
 <pubDate>Fri, 27 Feb 2026 17:43:13 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan’s new penal code sets 15 days in prison for wife-beating, 5 months for animal fights]]></title>
-<link>https://apnews.com/article/afghanistan-crime-women-domestic-abuse-5d1d73bac59c5f3ffcdeef858a6f09b4</link>
-<pubDate>Thu, 26 Feb 2026 18:37:12 -0000</pubDate>
+<title><![CDATA[Venezuelan former presidential hopeful urges unity after prison release and Maduro’s ouster]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-marquez-maduro-amnesty-us-trump-e57158f5015cb1c0c083313379d90faa</link>
+<pubDate>Fri, 27 Feb 2026 20:34:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[2 Panama Canal ports have dragged Panama into a tussle between superpowers]]></title>
 <link>https://apnews.com/article/panama-canal-china-us-ports-2c858331b744b3faa3202789d26c5bcf</link>
 <pubDate>Fri, 27 Feb 2026 17:28:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina’s Senate convenes for final labor reform vote, as unions and opposition march in protest]]></title>
-<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
-<pubDate>Fri, 27 Feb 2026 16:26:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attorney general announces indictments against 30 more people who protested at a Minnesota church]]></title>
+<title><![CDATA[Attorney general announces indictment against 30 more people who protested at a Minnesota church]]></title>
 <link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
-<pubDate>Fri, 27 Feb 2026 18:55:53 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 20:19:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Deadly shooting in Cuban waters highlights obsessions with counter-revolution as US pressure mounts]]></title>
-<link>https://apnews.com/article/cuba-troops-clash-armed-speedboat-expatriates-fb2d5bdab3b45e93d46ee827ef099ca4</link>
-<pubDate>Fri, 27 Feb 2026 09:34:56 -0000</pubDate>
+<title><![CDATA[Despite recent gains, tribal citizens descended from slaves face disparate treatment]]></title>
+<link>https://apnews.com/article/freedmen-slavery-cherokee-muscogee-seminole-choctaw-chickasaw-adc518e2cf7a1cd544527a50bcf1f61f</link>
+<pubDate>Fri, 27 Feb 2026 14:29:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military used laser to take down Border Protection drone, lawmakers say]]></title>
-<link>https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c</link>
-<pubDate>Fri, 27 Feb 2026 10:50:07 -0000</pubDate>
+<title><![CDATA[Black fathers embrace resources to support their pregnant partners through birth]]></title>
+<link>https://apnews.com/article/maternal-mortality-black-fathers-racism-1c6e39018a907eac6daf241acb8a3c41</link>
+<pubDate>Fri, 27 Feb 2026 14:14:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -236,6 +236,12 @@
 <title><![CDATA[Milan tram derails and slams into a building, killing two people]]></title>
 <link>https://apnews.com/article/milan-tram-derailment-vittorio-veneto-81ac2a5118b5757e23bcf7ce4caa6e69</link>
 <pubDate>Fri, 27 Feb 2026 18:07:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Argentina’s Senate convenes for final labor reform vote, as unions and opposition march in protest]]></title>
+<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
+<pubDate>Fri, 27 Feb 2026 20:02:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he’s ‘not happy’ with Iran talks but will wait to see what happens in further rounds]]></title>
+<title><![CDATA[Trump says he is ‘not happy’ with the Iran nuclear talks but indicates he’ll give them more time]]></title>
 <link>https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea</link>
-<pubDate>Fri, 27 Feb 2026 19:25:54 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 20:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
-<link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
-<pubDate>Fri, 27 Feb 2026 14:59:30 -0000</pubDate>
+<title><![CDATA[Trump raises the possibility of a ‘friendly takeover of Cuba’ coming out of talks with Havana]]></title>
+<link>https://apnews.com/article/trump-cuba-friendly-takeover-rubio-venezuela-435f056b47cfd6bc0c0af875318fa123</link>
+<pubDate>Fri, 27 Feb 2026 20:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
