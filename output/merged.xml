@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 12:32:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 13:51:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela says more than 3,200 people have been fully released since amnesty law took effect]]></title>
 <link>https://apnews.com/article/venezuela-political-prisoners-detained-amnesty-delcy-38494341c7f1fc5c6b3f2936a7830fb8</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Family of UN human rights investigator sues Trump administration over sanctions for Israel criticism]]></title>
-<link>https://apnews.com/article/gaza-israel-francesca-albanese-trump-sanctions-lawsuit-ad276bcccec18d057ba13cb2fd2c5974</link>
-<pubDate>Fri, 27 Feb 2026 11:50:07 -0000</pubDate>
+<title><![CDATA[Israeli strike kills 2 Palestinians in Gaza, health officials say, the latest deaths as truce stalls]]></title>
+<link>https://apnews.com/article/israel-gaza-hamas-war-netanyahu-1bb1a68df1a35b2936a91ce0b5505d65</link>
+<pubDate>Fri, 27 Feb 2026 13:51:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Soaring cost of food and other staples squeezes Iranians as threat of US attack looms]]></title>
-<link>https://apnews.com/article/iran-economy-prices-aa1c14906b39f79b88cdf47616a4a755</link>
-<pubDate>Fri, 27 Feb 2026 10:04:56 -0000</pubDate>
+<title><![CDATA[Deadly attacks by Sudanese paramilitary forces on a Darfur town displace over 3,000, group says]]></title>
+<link>https://apnews.com/article/sudan-darfur-displaced-paramilitary-rsf-31d4a6c48cf3162b3be391a37dedef36</link>
+<pubDate>Fri, 27 Feb 2026 13:36:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from a UK special election won by the Green Party over Starmer’s Labour]]></title>
+<title><![CDATA[A UK election win for the Green Party is a nightmare for Labour and Starmer. Here are the takeaways]]></title>
 <link>https://apnews.com/article/britain-election-takeaways-greens-labour-starmer-8a7df52bb9c2ff6c2444e571fcd03442</link>
-<pubDate>Fri, 27 Feb 2026 11:35:07 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 13:21:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan’s new penal code sets 15 days in prison for wife-beating, 5 months for animal fights]]></title>
+<link>https://apnews.com/article/afghanistan-crime-women-domestic-abuse-5d1d73bac59c5f3ffcdeef858a6f09b4</link>
+<pubDate>Thu, 26 Feb 2026 18:37:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal will hold first election since deadly protests, with 3 rivals vying to be prime minister]]></title>
 <link>https://apnews.com/article/nepal-parliament-election-new-leader-prime-minister-contenders-d3ba1afab214a93d4f9b97c3d650ebf6</link>
 <pubDate>Fri, 27 Feb 2026 07:11:14 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Canadian Prime Minister Mark Carney arrives in India to repair a strained relationship]]></title>
 <link>https://apnews.com/article/india-canada-modi-carney-trade-tariffs-diversify-83ee6bc8498e8c185b39b09b01dc55c7</link>
 <pubDate>Fri, 27 Feb 2026 11:20:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea allows Google to export map data after years of frustration over Google Maps]]></title>
-<link>https://apnews.com/article/south-korea-google-maps-export-data-74d8c4d3e041a055f0bf1524ebdb9149</link>
-<pubDate>Fri, 27 Feb 2026 06:56:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The Trump administration is detaining and questioning refugees already admitted to the US]]></title>
-<link>https://apnews.com/article/refugees-review-minnesota-trump-detention-immigration-4d8d0ed8224056bd4a49160b360e91bd</link>
-<pubDate>Fri, 27 Feb 2026 06:26:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US military used laser to take down Border Protection drone, lawmakers say]]></title>
 <link>https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c</link>
 <pubDate>Fri, 27 Feb 2026 10:50:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The Trump administration is detaining and questioning refugees already admitted to the US]]></title>
+<link>https://apnews.com/article/refugees-review-minnesota-trump-detention-immigration-4d8d0ed8224056bd4a49160b360e91bd</link>
+<pubDate>Fri, 27 Feb 2026 06:26:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A total lunar eclipse will turn the moon blood red on Tuesday across several continents]]></title>
+<link>https://apnews.com/article/total-lunar-eclipse-blood-moon-2dd5f67f5f7a6fa0f9b248ad6cade9cf</link>
+<pubDate>Fri, 27 Feb 2026 13:51:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US moves to legally control tanker and 2M barrels of oil seized off Venezuela’s coast in December]]></title>
+<link>https://apnews.com/article/venezuela-sanctioned-oil-tanker-us-ownership-4931dc82b784a129e8b21cf58a701bee</link>
+<pubDate>Fri, 27 Feb 2026 13:36:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cambodia welcomes return from abroad of centuries-old artifacts looted by notorious smuggling ring]]></title>
+<link>https://apnews.com/article/artifacts-latchford-culture-cambodia-angkor-64e8bc00afd7e14340c566980190ba4f</link>
+<pubDate>Fri, 27 Feb 2026 13:21:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Imprisoned PKK leader calls for new laws that would advance peace with the Turkish government]]></title>
 <link>https://apnews.com/article/turkey-pkk-ocalan-peace-process-legal-steps-cf2357b36a4ec93eea81cdc85c646c6a</link>
 <pubDate>Fri, 27 Feb 2026 11:50:08 -0000</pubDate>
@@ -212,6 +230,12 @@
 <title><![CDATA[With only 3 women left, an Amazon tribe faced extinction. An unexpected birth now brings hope]]></title>
 <link>https://apnews.com/article/brazil-amazon-akuntsu-indigenous-deforestation-rondonia-2833ceada04a9922935e4869ce66317a</link>
 <pubDate>Fri, 27 Feb 2026 07:26:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korea allows Google to export map data after years of frustration over Google Maps]]></title>
+<link>https://apnews.com/article/south-korea-google-maps-export-data-74d8c4d3e041a055f0bf1524ebdb9149</link>
+<pubDate>Fri, 27 Feb 2026 13:06:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,33 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Islamic militants increase attacks in Benin, Niger and Nigeria borderlands, group says]]></title>
-<link>https://apnews.com/article/extremist-violence-acled-98115794964a9c93019eb0ce304bf22a</link>
-<pubDate>Fri, 27 Feb 2026 05:28:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US moves to cut off a Swiss bank over alleged Iran and Russia money flows]]></title>
-<link>https://apnews.com/article/treasury-sanctions-swiss-bank-iran-russia-fcad66cfcb6c2e80a733fc94680ad565</link>
-<pubDate>Thu, 26 Feb 2026 18:37:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Minas Gerais state hit by more rain as flooding death toll rises to 59]]></title>
-<link>https://apnews.com/article/brazil-floods-deaths-minas-gerais-8b954e5f3fe04c2ec4cdee0788ed737e</link>
-<pubDate>Fri, 27 Feb 2026 03:09:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Pakistani man is on trial over a plot to kill a US politician, possibly Trump]]></title>
-<link>https://apnews.com/article/iran-pakistan-trump-assassination-asif-merchant-trial-faa05d588c03e7fc56e0c44b24c9170f</link>
-<pubDate>Thu, 26 Feb 2026 20:34:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration asks the Supreme Court to allow an end to legal protections for Syrian migrants]]></title>
-<link>https://apnews.com/article/supreme-court-trump-administration-syrians-legal-protections-122b40ade9f8b4c1302a9e3221906e54</link>
-<pubDate>Thu, 26 Feb 2026 15:42:01 -0000</pubDate>
+<title><![CDATA[Family of UN human rights investigator sues Trump administration over sanctions for Israel criticism]]></title>
+<link>https://apnews.com/article/gaza-israel-francesca-albanese-trump-sanctions-lawsuit-ad276bcccec18d057ba13cb2fd2c5974</link>
+<pubDate>Fri, 27 Feb 2026 12:51:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian agents obstructed care at hospitals packed with wounded protesters]]></title>
+<title><![CDATA[AP reporter speaks to Iranian doctors who say agents intimidated them and obstructed medical care]]></title>
 <link>https://apnews.com/article/iran-protests-crackdown-hospitals-326f127b5fef610a89f89e5c164b473c</link>
-<pubDate>Fri, 27 Feb 2026 08:48:16 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 13:51:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,27 +407,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US and Iran wrap up latest nuclear talks without a deal as the risk of war looms]]></title>
+<link>https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6</link>
+<pubDate>Thu, 26 Feb 2026 21:34:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran would be outgunned in any war with the US but could still inflict considerable pain]]></title>
 <link>https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18</link>
 <pubDate>Thu, 26 Feb 2026 11:16:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Suspect arrested after Churchill statue in London defaced with pro-Palestinian graffiti]]></title>
+<link>https://apnews.com/article/churchill-statue-vandalized-london-britain-c19fcc6ac683ec7951a86bbfc8c9f685</link>
+<pubDate>Fri, 27 Feb 2026 13:36:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What Americans think about Trump’s judgment on military force as Iran talks resume: New AP-NORC poll]]></title>
 <link>https://apnews.com/article/poll-trump-iran-israel-nuclear-41f4f308683c2ee10420225e1380cf21</link>
 <pubDate>Fri, 27 Feb 2026 10:32:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike kills 2 Palestinians in Gaza, health officials say, the latest deaths as truce stalls]]></title>
-<link>https://apnews.com/article/israel-gaza-hamas-war-netanyahu-1bb1a68df1a35b2936a91ce0b5505d65</link>
-<pubDate>Thu, 26 Feb 2026 13:32:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Deadly attacks by Sudanese paramilitary forces on a Darfur town displace over 3,000, group says]]></title>
-<link>https://apnews.com/article/sudan-darfur-displaced-paramilitary-rsf-31d4a6c48cf3162b3be391a37dedef36</link>
-<pubDate>Thu, 26 Feb 2026 17:32:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mostly higher in a week dominated by AI news]]></title>
+<title><![CDATA[Wall Street heading toward losing week; Block cuts 40% of its workforce citing shift to AI]]></title>
 <link>https://apnews.com/article/stocks-markets-nvidia-block-trump-f248d9463d4dffc7a9ffa6635afda137</link>
-<pubDate>Fri, 27 Feb 2026 09:47:33 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 13:21:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan’s new penal code sets 15 days in prison for wife-beating, 5 months for animal fights]]></title>
-<link>https://apnews.com/article/afghanistan-crime-women-domestic-abuse-5d1d73bac59c5f3ffcdeef858a6f09b4</link>
-<pubDate>Fri, 27 Feb 2026 04:54:26 -0000</pubDate>
+<title><![CDATA[What to know about the latest fighting between Afghanistan and Pakistan]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-fighting-background-a23c22bd981170679735bd295220bb49</link>
+<pubDate>Fri, 27 Feb 2026 13:06:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump heads to Texas, where 3 friends are battling it out in the Senate Republican primary]]></title>
+<title><![CDATA[Trump heads to Texas, where 3 supporters are battling it out in the Senate Republican primary]]></title>
 <link>https://apnews.com/article/trump-texas-cornyn-paxton-hunt-gop-primary-cd31dbec10c54ce230ae915e51cbccf0</link>
-<pubDate>Fri, 27 Feb 2026 07:26:15 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 12:51:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
