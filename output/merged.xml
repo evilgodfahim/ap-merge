@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 15:11:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 15:40:42 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Tehran launches retaliatory strikes as Trump calls for regime change]]></title>
+<title><![CDATA[Iran’s foreign minister says supreme leader and president are alive, ‘as far as I know’]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
-<pubDate>Sat, 28 Feb 2026 13:09:48 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 15:40:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and Israel launch a major attack on Iran and Trump urges Iranians to ‘take over your government’]]></title>
+<title><![CDATA[US and Israel launch a major attack on Iran. Trump urges Iranians to ‘take over’]]></title>
 <link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
-<pubDate>Sat, 28 Feb 2026 11:51:41 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 15:25:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European leaders call for resumption of US-Iran negotiations]]></title>
-<link>https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64</link>
-<pubDate>Sat, 28 Feb 2026 14:11:54 -0000</pubDate>
+<title><![CDATA[Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’]]></title>
+<link>https://apnews.com/article/russia-iran-us-israel-578a5791e81493edd09951898ae6f712</link>
+<pubDate>Sat, 28 Feb 2026 15:10:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed]]></title>
+<link>https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba</link>
+<pubDate>Sat, 28 Feb 2026 04:07:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
 <link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
 <pubDate>Sat, 28 Feb 2026 03:52:14 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[The faces of Mexico’s disappeared haunt this city’s streets. Families worry they will be wiped away]]></title>
 <link>https://apnews.com/article/mexico-cartel-violence-guadalajara-disappeared-world-cup-bc58ae115bb17568359f56296d6a68e6</link>
 <pubDate>Fri, 27 Feb 2026 05:09:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelan former presidential hopeful urges unity after prison release and Maduro’s ouster]]></title>
-<link>https://apnews.com/article/venezuela-prisoners-marquez-maduro-amnesty-us-trump-e57158f5015cb1c0c083313379d90faa</link>
-<pubDate>Fri, 27 Feb 2026 20:34:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Attorney general announces indictment against 30 more people who protested at a Minnesota church]]></title>
+<link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
+<pubDate>Fri, 27 Feb 2026 20:19:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Federal judge extends order protecting refugees in Minnesota from being arrested and deported]]></title>
 <link>https://apnews.com/article/immigration-refugee-protection-minnesota-49be9c53ef223ff9870ff1fe132929bb</link>
 <pubDate>Sat, 28 Feb 2026 00:30:25 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[The Trump administration is detaining and questioning refugees already admitted to the US]]></title>
 <link>https://apnews.com/article/refugees-review-minnesota-trump-detention-immigration-4d8d0ed8224056bd4a49160b360e91bd</link>
 <pubDate>Fri, 27 Feb 2026 06:26:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Renee Good was ‘slow to anger, quick to love’, her father tells AP]]></title>
-<link>https://apnews.com/article/renee-good-ice-shooting-minneapolis-f766260ec7cfbb2b158d6b8eb3403607</link>
-<pubDate>Fri, 27 Feb 2026 22:13:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +230,12 @@
 <title><![CDATA[Kate Moss closes Demna’s first Gucci show in a plunging gown and branded thong]]></title>
 <link>https://apnews.com/article/gucci-fashion-week-demna-premiere-d7399ab3f4deaf4cbdc352a6024eda2f</link>
 <pubDate>Fri, 27 Feb 2026 20:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan former presidential hopeful urges unity after prison release and Maduro’s ouster]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-marquez-maduro-amnesty-us-trump-e57158f5015cb1c0c083313379d90faa</link>
+<pubDate>Sat, 28 Feb 2026 04:37:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,6 +371,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US and Israel launch a major attack on Iran and Trump urges Iranians to ‘take over your government’]]></title>
+<link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
+<pubDate>Sat, 28 Feb 2026 11:10:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the strikes]]></title>
 <link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
 <pubDate>Sat, 28 Feb 2026 15:11:53 -0000</pubDate>
@@ -407,15 +419,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Read President Trump’s statement on Iran in full]]></title>
-<link>https://apnews.com/article/iran-us-trump-address-f662a4f3378535d81197be699fb35a3e</link>
-<pubDate>Sat, 28 Feb 2026 09:44:23 -0000</pubDate>
+<title><![CDATA[European leaders call for resumption of US-Iran negotiations]]></title>
+<link>https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64</link>
+<pubDate>Sat, 28 Feb 2026 14:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’]]></title>
-<link>https://apnews.com/article/russia-iran-us-israel-578a5791e81493edd09951898ae6f712</link>
-<pubDate>Sat, 28 Feb 2026 13:35:55 -0000</pubDate>
+<title><![CDATA[Read President Trump’s statement on Iran in full]]></title>
+<link>https://apnews.com/article/iran-us-trump-address-f662a4f3378535d81197be699fb35a3e</link>
+<pubDate>Sat, 28 Feb 2026 09:44:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -470,12 +482,6 @@
 <title><![CDATA[Guinea releases 16 soldiers and police officers from Sierra Leone after border dispute]]></title>
 <link>https://apnews.com/article/guinea-sierra-leone-border-soldiers-police-13349096c834630a6045cb302028aec0</link>
 <pubDate>Sat, 28 Feb 2026 04:33:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Attorney general announces indictment against 30 more people who protested at a Minnesota church]]></title>
-<link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
-<pubDate>Fri, 27 Feb 2026 21:13:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
