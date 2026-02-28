@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 03:22:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 04:37:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prominent Russian scholar of North Korea says he was expelled from Latvia following detention]]></title>
-<link>https://apnews.com/article/russia-north-korea-latvia-lankov-detention-8440d68f6d37162b38bdd7f20cd0400c</link>
-<pubDate>Wed, 25 Feb 2026 05:03:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran would be outgunned in any war with the US but could still inflict considerable pain]]></title>
 <link>https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18</link>
 <pubDate>Fri, 27 Feb 2026 16:41:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-airstrikes-open-war-98927b79ee9ef5741bf0804956d3c2e6</link>
+<pubDate>Sat, 28 Feb 2026 04:37:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
-<link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
-<pubDate>Fri, 27 Feb 2026 20:49:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about the latest fighting between Afghanistan and Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-fighting-background-a23c22bd981170679735bd295220bb49</link>
 <pubDate>Fri, 27 Feb 2026 17:43:13 -0000</pubDate>
@@ -83,27 +77,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan former presidential hopeful urges unity after prison release and Maduro’s ouster]]></title>
-<link>https://apnews.com/article/venezuela-prisoners-marquez-maduro-amnesty-us-trump-e57158f5015cb1c0c083313379d90faa</link>
-<pubDate>Fri, 27 Feb 2026 20:34:01 -0000</pubDate>
+<title><![CDATA[North Korea’s Kim gifts rifles to officials and his daughter takes aim after party congress]]></title>
+<link>https://apnews.com/article/north-korea-kim-rifles-gifts-party-congress-e93007dd99c2d40136c2e6f2497eaab2</link>
+<pubDate>Sat, 28 Feb 2026 04:22:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the boat shooting in Cuban waters that killed 4]]></title>
-<link>https://apnews.com/article/cuba-us-boat-shooting-attack-invasion-exiles-b951fbbfced99f8cd350e9a5010e100d</link>
-<pubDate>Fri, 27 Feb 2026 08:48:15 -0000</pubDate>
+<title><![CDATA[Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed]]></title>
+<link>https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba</link>
+<pubDate>Sat, 28 Feb 2026 04:07:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cargo plane carrying money crashes near Bolivia’s capital, killing at least 15 people, official says]]></title>
-<link>https://apnews.com/article/bolivia-la-paz-plane-crash-4dc1f407934db756486eb3d2dfbac22c</link>
-<pubDate>Sat, 28 Feb 2026 02:29:24 -0000</pubDate>
+<title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
+<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
+<pubDate>Sat, 28 Feb 2026 03:52:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea releases 16 soldiers and police officers from Sierra Leone after border dispute]]></title>
-<link>https://apnews.com/article/guinea-sierra-leone-border-soldiers-police-13349096c834630a6045cb302028aec0</link>
-<pubDate>Sat, 28 Feb 2026 00:45:25 -0000</pubDate>
+<title><![CDATA[The faces of Mexico’s disappeared haunt this city’s streets. Families worry they will be wiped away]]></title>
+<link>https://apnews.com/article/mexico-cartel-violence-guadalajara-disappeared-world-cup-bc58ae115bb17568359f56296d6a68e6</link>
+<pubDate>Fri, 27 Feb 2026 05:09:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Abiy’s vision of Ethiopia includes a seaport in Eritrea. Some see a looming conflict]]></title>
+<link>https://apnews.com/article/ethiopia-prime-minister-abiy-eritrea-01542a9d7954e0d2f94a7dbe7b00340e</link>
+<pubDate>Sat, 28 Feb 2026 03:37:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Soldiers on the streets. What’s behind South Africa’s plan to deploy army in high-crime areas]]></title>
+<link>https://apnews.com/article/south-africa-army-deployment-gang-violence-39d86380a72efcd6755a4e500e0f56f9</link>
+<pubDate>Sat, 28 Feb 2026 03:22:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,15 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan’s war puts charity kitchen workers feeding displaced families at risk]]></title>
-<link>https://apnews.com/article/sudan-darfur-elfasher-rapid-support-forces-charity-kitchen-42f07aaf3328f6c801bd0840579c1cd8</link>
-<pubDate>Fri, 27 Feb 2026 06:41:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Congo and US agree to $1.2 billion health partnership]]></title>
-<link>https://apnews.com/article/congo-us-health-trump-457c49b237ba8ff4b698f701cfe031e6</link>
-<pubDate>Fri, 27 Feb 2026 00:29:07 -0000</pubDate>
+<title><![CDATA[Residents of eastern Congo city fear disease after discovery of mass graves]]></title>
+<link>https://apnews.com/article/congo-mass-graves-uvira-bodies-564f907553ae48afb00a68cacea3385f</link>
+<pubDate>Sat, 28 Feb 2026 03:07:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuelan former presidential hopeful urges unity after prison release and Maduro’s ouster]]></title>
+<link>https://apnews.com/article/venezuela-prisoners-marquez-maduro-amnesty-us-trump-e57158f5015cb1c0c083313379d90faa</link>
+<pubDate>Sat, 28 Feb 2026 04:37:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ecuador’s president slams Colombia as a trade war between the neighbors escalates]]></title>
 <link>https://apnews.com/article/ecuador-colombia-trade-war-noboa-petro-tariffs-378e6f00ba5a30b204a96efe69cb8e7e</link>
 <pubDate>Fri, 27 Feb 2026 19:07:55 -0000</pubDate>
@@ -260,12 +266,6 @@
 <title><![CDATA[2 Panama Canal ports have dragged Panama into a tussle between superpowers]]></title>
 <link>https://apnews.com/article/panama-canal-china-us-ports-2c858331b744b3faa3202789d26c5bcf</link>
 <pubDate>Sat, 28 Feb 2026 00:45:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
-<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
-<pubDate>Sat, 28 Feb 2026 03:07:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sudan’s war puts charity kitchen workers feeding displaced families at risk]]></title>
+<link>https://apnews.com/article/sudan-darfur-elfasher-rapid-support-forces-charity-kitchen-42f07aaf3328f6c801bd0840579c1cd8</link>
+<pubDate>Sat, 28 Feb 2026 04:22:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mexican soldiers, Bolivian Carnival and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/mexico-bolivia-latin-america-caribbean-top-photos-c965de0492f84d8190e5edde8ec67680</link>
 <pubDate>Fri, 27 Feb 2026 05:43:41 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[In ‘El Mencho’s’ last redoubt, a crucifix, saint candles and a handwritten psalm]]></title>
 <link>https://apnews.com/article/mexico-mencho-jalisco-catholic-81b3446709314f36f15556e113a9c29a</link>
 <pubDate>Fri, 27 Feb 2026 09:03:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canada warns USMCA could face annual reviews, fueling uncertainty and chilling investment]]></title>
-<link>https://apnews.com/article/canada-us-trade-minister-trump-510b229da16a7796482f456d87e2671a</link>
-<pubDate>Fri, 27 Feb 2026 01:06:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Residents of eastern Congo city fear disease after discovery of mass graves]]></title>
-<link>https://apnews.com/article/congo-mass-graves-uvira-bodies-564f907553ae48afb00a68cacea3385f</link>
-<pubDate>Fri, 27 Feb 2026 15:41:33 -0000</pubDate>
+<title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
+<link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
+<pubDate>Fri, 27 Feb 2026 14:59:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cargo plane carrying money crashes near Bolivia’s capital, killing at least 15 people, official says]]></title>
+<link>https://apnews.com/article/bolivia-la-paz-plane-crash-4dc1f407934db756486eb3d2dfbac22c</link>
+<pubDate>Sat, 28 Feb 2026 03:22:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Guinea releases 16 soldiers and police officers from Sierra Leone after border dispute]]></title>
+<link>https://apnews.com/article/guinea-sierra-leone-border-soldiers-police-13349096c834630a6045cb302028aec0</link>
+<pubDate>Sat, 28 Feb 2026 04:33:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
