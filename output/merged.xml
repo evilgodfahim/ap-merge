@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 09:15:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 09:44:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
@@ -35,15 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Americans’ sympathies in the Israeli-Palestinian conflict have shifted dramatically, new poll shows]]></title>
-<link>https://apnews.com/article/poll-gallup-americans-israel-palestinians-democrats-republicans-2614e22b0ddabe514424680b71e1802f</link>
-<pubDate>Sat, 28 Feb 2026 08:01:07 -0000</pubDate>
+<title><![CDATA[Pakistan says it killed more than 300 Afghan forces in dayslong airstrikes inside Afghanistan]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-border-clashes-air-strikes-b24a3f12e630e8dd30f8a4841f2c4198</link>
+<pubDate>Sat, 28 Feb 2026 09:31:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tensions between son of Iran’s last shah and Kurdish dissidents show cracks in Iranian opposition]]></title>
-<link>https://apnews.com/article/iran-iraq-kurds-pahlavi-6beae57e9fdc3546a61ec8f1432eef4b</link>
-<pubDate>Sat, 28 Feb 2026 06:59:57 -0000</pubDate>
+<title><![CDATA[UN nuclear watchdog says it’s unable to verify whether Iran has suspended all uranium enrichment]]></title>
+<link>https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941</link>
+<pubDate>Fri, 27 Feb 2026 23:00:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -56,12 +56,6 @@
 <title><![CDATA[As Europe readies tougher migration measures, a Greek island sees illegal crossings spike]]></title>
 <link>https://apnews.com/article/migration-greece-frontex-libya-crete-europe-636704771d62efac98d4ef7a38186e22</link>
 <pubDate>Sat, 28 Feb 2026 05:37:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN nuclear watchdog says it’s unable to verify whether Iran has suspended all uranium enrichment]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941</link>
-<pubDate>Fri, 27 Feb 2026 23:00:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +263,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tensions between son of Iran’s last shah and Kurdish dissidents show cracks in Iranian opposition]]></title>
+<link>https://apnews.com/article/iran-iraq-kurds-pahlavi-6beae57e9fdc3546a61ec8f1432eef4b</link>
+<pubDate>Sat, 28 Feb 2026 09:15:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel’s top court allows aid groups to keep working in Gaza as Israeli strikes kill 5 there]]></title>
 <link>https://apnews.com/article/israel-palestinians-hamas-war-news-02-27-2026-b3b500844cad617b40d18d4077656689</link>
 <pubDate>Sat, 28 Feb 2026 08:05:36 -0000</pubDate>
@@ -320,6 +320,12 @@
 <title><![CDATA[Sweden says it intercepted Russian drone during visit by French aircraft carrier]]></title>
 <link>https://apnews.com/article/sweden-france-aircraft-carrier-drone-russia-c8905513cb9ade27176a88ef642411b7</link>
 <pubDate>Fri, 27 Feb 2026 19:47:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Americans’ sympathies in the Israeli-Palestinian conflict have shifted dramatically, new poll shows]]></title>
+<link>https://apnews.com/article/poll-gallup-americans-israel-palestinians-democrats-republicans-2614e22b0ddabe514424680b71e1802f</link>
+<pubDate>Sat, 28 Feb 2026 09:00:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,21 +413,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protests persist at Iranian colleges and raise tensions as US military threat looms]]></title>
+<title><![CDATA[Read President Trump’s statement on Iran in full]]></title>
+<link>https://apnews.com/article/iran-us-trump-address-f662a4f3378535d81197be699fb35a3e</link>
+<pubDate>Sat, 28 Feb 2026 09:44:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[AP reporter speaks to Iranian doctors who say agents intimidated them and obstructed medical care]]></title>
+<link>https://apnews.com/article/iran-protests-crackdown-hospitals-326f127b5fef610a89f89e5c164b473c</link>
+<pubDate>Fri, 27 Feb 2026 13:51:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Protests at Iranian colleges raise tensions and fears of new crackdown]]></title>
 <link>https://apnews.com/article/iran-campus-protests-crackdown-54149e9d49fe022d840f71eb5f5be106</link>
-<pubDate>Fri, 27 Feb 2026 22:13:13 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 09:29:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Ramadan brings a season of grief after an Israeli strike wiped out most of a Gaza family]]></title>
 <link>https://apnews.com/article/gaza-war-israel-hamas-ramadan-16b327f3300eccb218dd6340bbb9410a</link>
 <pubDate>Sat, 28 Feb 2026 05:52:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan says it killed more than 300 Afghan forces in dayslong airstrikes inside Afghanistan]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-border-clashes-air-strikes-b24a3f12e630e8dd30f8a4841f2c4198</link>
-<pubDate>Sat, 28 Feb 2026 07:46:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
