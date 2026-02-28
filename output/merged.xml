@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 16:14:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 16:45:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s foreign minister says supreme leader and president are alive, ‘as far as I know’]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -119,15 +119,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attorney general announces indictment against 30 more people who protested at a Minnesota church]]></title>
-<link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
-<pubDate>Fri, 27 Feb 2026 20:19:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Federal judge extends order protecting refugees in Minnesota from being arrested and deported]]></title>
 <link>https://apnews.com/article/immigration-refugee-protection-minnesota-49be9c53ef223ff9870ff1fe132929bb</link>
 <pubDate>Sat, 28 Feb 2026 00:30:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from AP’s report on the ICE detention center holding children and parents]]></title>
+<link>https://apnews.com/article/children-immigration-detention-dilley-trump-administration-ice-400c9dbe9c483f399a0a7bd97db95fe5</link>
+<pubDate>Sat, 28 Feb 2026 16:45:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -140,6 +140,12 @@
 <title><![CDATA[The Trump administration is detaining and questioning refugees already admitted to the US]]></title>
 <link>https://apnews.com/article/refugees-review-minnesota-trump-detention-immigration-4d8d0ed8224056bd4a49160b360e91bd</link>
 <pubDate>Fri, 27 Feb 2026 06:26:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
+<link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
+<pubDate>Thu, 26 Feb 2026 03:38:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,12 +164,6 @@
 <title><![CDATA[Trade, Ukraine and new world order are top concerns on German leader’s visit to China]]></title>
 <link>https://apnews.com/article/china-germany-chancellor-merz-visit-beijing-xi-d362fe1d9681f91bb457e16e60e244b0</link>
 <pubDate>Tue, 24 Feb 2026 17:34:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China restricts exports to 40 Japanese entities with ties to military]]></title>
-<link>https://apnews.com/article/china-japan-export-controls-45b91393374ddaebcd6d381e51eefc12</link>
-<pubDate>Wed, 25 Feb 2026 08:52:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
-<link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
-<pubDate>Thu, 26 Feb 2026 17:37:13 -0000</pubDate>
+<title><![CDATA[Attorney general announces indictment against 30 more people who protested at a Minnesota church]]></title>
+<link>https://apnews.com/article/immigration-church-minnesota-837d2ebc7a121340a7eaf73600cba019</link>
+<pubDate>Fri, 27 Feb 2026 21:13:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
