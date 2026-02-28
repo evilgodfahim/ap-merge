@@ -3,23 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 21:40:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 22:12:08 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Israeli officials say Iran’s supreme leader is dead, but US and Iran haven’t confirmed]]></title>
+<title><![CDATA[Iran has not confirmed Khamenei’s death]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
-<pubDate>Sat, 28 Feb 2026 20:44:15 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 22:12:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli officials say Supreme Leader Ayatollah Ali Khamenei is dead. No word from US or Iran]]></title>
+<title><![CDATA[Trump says Iran’s supreme leader is dead]]></title>
 <link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
-<pubDate>Sat, 28 Feb 2026 20:29:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
-<link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
-<pubDate>Thu, 26 Feb 2026 17:32:15 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 21:57:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -32,6 +26,12 @@
 <title><![CDATA[North Korea warns it could destroy South if threatened, but leaves door open for US dialogue]]></title>
 <link>https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d</link>
 <pubDate>Thu, 26 Feb 2026 09:25:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
+<link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
+<pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,15 +77,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed]]></title>
-<link>https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba</link>
-<pubDate>Sat, 28 Feb 2026 04:07:14 -0000</pubDate>
+<title><![CDATA[Mexican authorities hand over body of ‘El Mencho’ to his family]]></title>
+<link>https://apnews.com/article/mexico-cartel-death-el-mencho-eade6e3695ef0d387271a9bc6601c2a1</link>
+<pubDate>Sat, 28 Feb 2026 21:42:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
-<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
-<pubDate>Sat, 28 Feb 2026 03:52:14 -0000</pubDate>
+<title><![CDATA[Death toll rises to 22 after cargo plane carrying money crashes near Bolivia’s capital]]></title>
+<link>https://apnews.com/article/bolivia-la-paz-plane-crash-92c5dc50d4251fc42a8ca47cede7319a</link>
+<pubDate>Sat, 28 Feb 2026 21:27:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed]]></title>
+<link>https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba</link>
+<pubDate>Sat, 28 Feb 2026 20:55:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Haiti police chief says a plan is underway for elections this year despite gang violence]]></title>
 <link>https://apnews.com/article/haiti-pnh-police-vladimir-paraison-gangs-c0b22a6760f118bd8c11372503bfbbd3</link>
 <pubDate>Sat, 28 Feb 2026 03:22:18 -0000</pubDate>
@@ -332,6 +338,12 @@
 <title><![CDATA[Residents of eastern Congo city fear disease after discovery of mass graves]]></title>
 <link>https://apnews.com/article/congo-mass-graves-uvira-bodies-564f907553ae48afb00a68cacea3385f</link>
 <pubDate>Sat, 28 Feb 2026 11:38:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
+<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
+<pubDate>Sat, 28 Feb 2026 03:07:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
