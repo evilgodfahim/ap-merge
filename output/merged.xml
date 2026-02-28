@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 10:13:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 10:44:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country]]></title>
 <link>https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2</link>
 <pubDate>Thu, 26 Feb 2026 17:32:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran says 5 students killed at a girls’ school in Israeli-US strike]]></title>
+<link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
+<pubDate>Sat, 28 Feb 2026 10:44:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -20,12 +26,6 @@
 <title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
 <link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
 <pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and Israel launch an attack on Iran with tensions high over nuclear talks]]></title>
-<link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
-<pubDate>Sat, 28 Feb 2026 08:16:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,6 +368,12 @@
 <title><![CDATA[FIFA president says he has full confidence in Mexico as World Cup host despite cartel violence]]></title>
 <link>https://apnews.com/article/infantino-fifa-world-cup-mexico-violence-f0b7783611c7a3e4d839a2ca5972e1eb</link>
 <pubDate>Fri, 27 Feb 2026 05:09:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US and Israel launch an attack on Iran with tensions high over nuclear talks]]></title>
+<link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
+<pubDate>Sat, 28 Feb 2026 08:16:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
