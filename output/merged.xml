@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 08:18:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 08:51:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran would be outgunned in any war with the US but could still inflict considerable pain]]></title>
-<link>https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18</link>
-<pubDate>Fri, 27 Feb 2026 16:41:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-airstrikes-open-war-98927b79ee9ef5741bf0804956d3c2e6</link>
 <pubDate>Sat, 28 Feb 2026 04:37:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the strikes]]></title>
+<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
+<pubDate>Sun, 01 Mar 2026 08:51:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran fires missiles at Israel and Gulf states after US-Israeli strike kills Khamenei]]></title>
+<title><![CDATA[Explosion rocks Iran’s capital as Israel says it is targeting the city after strikes killed Khamenei]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
-<pubDate>Sun, 01 Mar 2026 06:39:17 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 08:51:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,6 +410,12 @@
 <title><![CDATA[Interceptions seen above Doha as Iran continues to retaliate over joint attack by US-Israel]]></title>
 <link>https://apnews.com/video/interceptions-seen-above-doha-as-iran-continues-to-retaliate-over-joint-attack-by-us-israel-7c51f4e325904168a4b722caec0dcb09</link>
 <pubDate>Sat, 28 Feb 2026 23:21:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How succession works in Iran and who will be the country’s next supreme leader?]]></title>
+<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
+<pubDate>Sun, 01 Mar 2026 03:31:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
