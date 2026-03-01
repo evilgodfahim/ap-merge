@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 13:53:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 14:14:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -479,15 +479,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 dead, 14 injured after shooting at a bar in Austin, Texas]]></title>
+<title><![CDATA[Bar shooting in Austin leaves 3 dead, including the suspect, and 14 injured]]></title>
 <link>https://apnews.com/article/austin-texas-bar-shooting-7690f931ba00f950c1828cef25399bb6</link>
-<pubDate>Sun, 01 Mar 2026 11:57:38 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 14:14:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Oil prices set for swings next week as US-Israel strikes raise supply uncertainty]]></title>
 <link>https://apnews.com/article/iran-israel-iran-strikes-oil-prices-4a4a800739e53a30ff63b5e89e84ad71</link>
 <pubDate>Sat, 28 Feb 2026 17:11:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Africa beats Zimbabwe to top Group 1 at T20 World Cup. India opts to field vs West Indies]]></title>
+<link>https://apnews.com/article/t20-world-cup-africa-zimbabwe-india-wi-de7637c3b857fe7471dbd805104c6be1</link>
+<pubDate>Sun, 01 Mar 2026 13:59:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
