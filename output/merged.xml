@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 23:40:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 01:15:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran has not confirmed Khamenei’s death]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s supreme leader has been killed during major attack, Trump says]]></title>
+<title><![CDATA[Iran’s supreme leader has been killed during major attack by US and Israel, Trump says]]></title>
 <link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
-<pubDate>Sat, 28 Feb 2026 23:35:37 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 01:15:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea warns it could destroy South if threatened, but leaves door open for US dialogue]]></title>
-<link>https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d</link>
-<pubDate>Thu, 26 Feb 2026 09:25:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms]]></title>
 <link>https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026</link>
 <pubDate>Thu, 26 Feb 2026 20:03:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran would be outgunned in any war with the US but could still inflict considerable pain]]></title>
+<link>https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18</link>
+<pubDate>Fri, 27 Feb 2026 16:41:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Olivia Dean wins 4 Brit Awards, taking artist of the year and song of the year]]></title>
+<link>https://apnews.com/article/brit-awards-2026-olivia-dean-49c1d9979e848372cc7de5fadb45c249</link>
+<pubDate>Sun, 01 Mar 2026 01:15:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the clash between the Pentagon and Anthropic over military’s AI use]]></title>
 <link>https://apnews.com/article/anthropic-pentagon-ai-dario-amodei-hegseth-0c464a054359b9fdc80cf18b0d4f690c</link>
 <pubDate>Sat, 28 Feb 2026 21:40:27 -0000</pubDate>
@@ -197,6 +203,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show global reaction to US and Israeli strikes]]></title>
+<link>https://apnews.com/photo-gallery/israel-iran-us-explosion-tehran-photos-reaction-6a5013fb2796675af61afc1c5d89effc</link>
+<pubDate>Sun, 01 Mar 2026 01:00:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War powers debate intensifies after Trump orders attack on Iran without approval by Congress]]></title>
+<link>https://apnews.com/article/congress-war-powers-trump-iran-constitution-37ec6685d9ded1d467a719f91e537487</link>
+<pubDate>Sun, 01 Mar 2026 00:45:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kenyan lawmaker among 6 dead in helicopter crash]]></title>
 <link>https://apnews.com/article/kenya-nandi-helicopter-plane-crash-e60122a117d00d2c3b63b223ad125e7e</link>
 <pubDate>Sat, 28 Feb 2026 18:51:25 -0000</pubDate>
@@ -206,6 +224,12 @@
 <title><![CDATA[Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show]]></title>
 <link>https://apnews.com/article/milan-fashion-week-madonna-dolce-gabbana-f9ad71d7cb2d3d28f52caf120adfd12b</link>
 <pubDate>Sat, 28 Feb 2026 15:59:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the strikes]]></title>
+<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
+<pubDate>Sun, 01 Mar 2026 00:30:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,45 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Argentine lawmakers approve historic labor reform promoted by President Javier Milei]]></title>
-<link>https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99</link>
-<pubDate>Sat, 28 Feb 2026 03:07:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN nuclear watchdog says it’s unable to verify whether Iran has suspended all uranium enrichment]]></title>
-<link>https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941</link>
-<pubDate>Sat, 28 Feb 2026 11:23:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel’s top court allows aid groups to keep working in Gaza as Israeli strikes kill 5 there]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-war-news-02-27-2026-b3b500844cad617b40d18d4077656689</link>
-<pubDate>Sat, 28 Feb 2026 08:05:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A total lunar eclipse will turn the moon blood red on Tuesday across several continents]]></title>
-<link>https://apnews.com/article/total-lunar-eclipse-blood-moon-2dd5f67f5f7a6fa0f9b248ad6cade9cf</link>
-<pubDate>Fri, 27 Feb 2026 13:51:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting]]></title>
+<title><![CDATA[US and Israel clash with Iran at emergency Security Council meeting. UN chief condemns attacks]]></title>
 <link>https://apnews.com/article/iran-israel-us-un-security-council-airstrikes-9140bca9241fb99be8cb3cff2c650741</link>
-<pubDate>Sat, 28 Feb 2026 22:29:10 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 00:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at Iran’s key political and religious figures]]></title>
-<link>https://apnews.com/article/iran-leadership-tehran-trump-israel-b046aea281a5a9b83eb82c4a62350f59</link>
-<pubDate>Sat, 28 Feb 2026 20:13:36 -0000</pubDate>
+<title><![CDATA[What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
+<link>https://apnews.com/article/iran-khamenei-supreme-leader-nuclear-protests-military-487aa76fd32f398f2ca37d316e543760</link>
+<pubDate>Sun, 01 Mar 2026 00:21:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the strikes]]></title>
-<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
-<pubDate>Sat, 28 Feb 2026 15:11:53 -0000</pubDate>
+<title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
+<link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
+<pubDate>Sun, 01 Mar 2026 00:06:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,21 +389,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump announces US and Israel carrying out major operation against Iran; AP explains]]></title>
-<link>https://apnews.com/video/trump-announces-us-and-israel-carrying-out-major-operation-against-iran-ap-explains-5841c163e02c435ca7d7f470187b6d45</link>
-<pubDate>Sat, 28 Feb 2026 18:37:41 -0000</pubDate>
+<title><![CDATA[Iron Dome interceptions seen in skies above Jerusalem and Tel Aviv after night falls]]></title>
+<link>https://apnews.com/video/iron-dome-interceptions-seen-in-skies-above-jerusalem-and-tel-aviv-after-night-falls-6dd8ceb0879049e69816436cf804adac</link>
+<pubDate>Sat, 28 Feb 2026 23:51:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sirens ring out in Israel as country on high alert after launching strikes against Iran]]></title>
-<link>https://apnews.com/video/sirens-ring-out-in-israel-as-country-on-high-alert-after-launching-strikes-against-iran-ap-explains-6adca6924f59485e8bccb9565d5cbd8a</link>
-<pubDate>Sat, 28 Feb 2026 14:41:53 -0000</pubDate>
+<title><![CDATA[Cars on fire as Israeli emergency services respond to projectile hit amid Iran retaliation]]></title>
+<link>https://apnews.com/video/cars-on-fire-as-israeli-emergency-services-respond-to-projectile-hit-amid-iran-retaliation-fe06698415b8405180d54fda67e73b57</link>
+<pubDate>Sat, 28 Feb 2026 23:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Smoke seen rising from area of southern Tehran following Israeli attack]]></title>
-<link>https://apnews.com/video/smoke-seen-rising-from-area-of-southern-tehran-following-israeli-attack-df24becb27544e599368acc8df5a7566</link>
-<pubDate>Sat, 28 Feb 2026 14:26:53 -0000</pubDate>
+<title><![CDATA[Interceptions seen above Doha as Iran continues to retaliate over joint attack by US-Israel]]></title>
+<link>https://apnews.com/video/interceptions-seen-above-doha-as-iran-continues-to-retaliate-over-joint-attack-by-us-israel-7c51f4e325904168a4b722caec0dcb09</link>
+<pubDate>Sat, 28 Feb 2026 23:21:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Video shows blast as Bahrain’s National Security Agency struck by an Iranian missile]]></title>
+<link>https://apnews.com/video/footage-shows-blast-as-bahrains-national-security-agency-struck-by-an-iranian-missile-91e7e046d14d419f9e53e92ea5cf37a3</link>
+<pubDate>Sat, 28 Feb 2026 23:06:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at Middle East figures killed by Israel in recent years]]></title>
+<link>https://apnews.com/article/israel-killings-khamenei-leaders-hamas-hezbollah-3afccb0e89385373a0109b3a02277dcf</link>
+<pubDate>Sat, 28 Feb 2026 22:51:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran]]></title>
+<link>https://apnews.com/article/iran-israel-us-flights-airspace-travel-0346e29ee99eaee2838c8e08f4facb78</link>
+<pubDate>Sat, 28 Feb 2026 22:36:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -416,18 +434,6 @@
 <title><![CDATA[World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei]]></title>
 <link>https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64</link>
 <pubDate>Sat, 28 Feb 2026 21:59:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War powers debate intensifies after Trump orders attack on Iran without approval by Congress]]></title>
-<link>https://apnews.com/article/congress-war-powers-trump-iran-constitution-37ec6685d9ded1d467a719f91e537487</link>
-<pubDate>Sat, 28 Feb 2026 19:58:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show global reaction to US and Israeli strikes]]></title>
-<link>https://apnews.com/photo-gallery/israel-iran-us-explosion-tehran-photos-reaction-6a5013fb2796675af61afc1c5d89effc</link>
-<pubDate>Sat, 28 Feb 2026 19:43:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
