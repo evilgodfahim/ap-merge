@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 07:06:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 07:49:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East airports closed and thousands of travelers stranded after attack on Iran]]></title>
+<link>https://apnews.com/article/iran-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547</link>
+<pubDate>Sun, 01 Mar 2026 07:49:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’]]></title>
 <link>https://apnews.com/article/russia-iran-us-israel-578a5791e81493edd09951898ae6f712</link>
 <pubDate>Sat, 28 Feb 2026 15:10:41 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[As Europe readies tougher migration measures, a Greek island sees illegal crossings spike]]></title>
 <link>https://apnews.com/article/migration-greece-frontex-libya-crete-europe-636704771d62efac98d4ef7a38186e22</link>
 <pubDate>Sat, 28 Feb 2026 05:37:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vatican removes salty white film coating Michelangelo’s ‘The Last Judgment’]]></title>
-<link>https://apnews.com/article/vatican-sistine-chapel-michelangelo-last-judgment-2696d0d52e9a93e48e2e1c873b6e9df8</link>
-<pubDate>Sat, 28 Feb 2026 12:39:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
-<link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
-<pubDate>Sun, 01 Mar 2026 00:06:54 -0000</pubDate>
+<title><![CDATA[Mourners take to streets of Tehran following confirmation of Khamenei’s death]]></title>
+<link>https://apnews.com/video/mourners-take-to-streets-of-tehran-following-confirmation-of-khameneis-death-90f5f481ac924c6ca810fa32eac4cb72</link>
+<pubDate>Sun, 01 Mar 2026 07:34:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US military releases videos said to show strikes on Iran being launched]]></title>
+<link>https://apnews.com/video/us-military-releases-videos-said-to-show-strikes-on-iran-being-launched-50935ea73a974e71af45720936179855</link>
+<pubDate>Sun, 01 Mar 2026 07:19:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,21 +407,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cars on fire as Israeli emergency services respond to projectile hit amid Iran retaliation]]></title>
-<link>https://apnews.com/video/cars-on-fire-as-israeli-emergency-services-respond-to-projectile-hit-amid-iran-retaliation-fe06698415b8405180d54fda67e73b57</link>
-<pubDate>Sat, 28 Feb 2026 23:36:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Interceptions seen above Doha as Iran continues to retaliate over joint attack by US-Israel]]></title>
 <link>https://apnews.com/video/interceptions-seen-above-doha-as-iran-continues-to-retaliate-over-joint-attack-by-us-israel-7c51f4e325904168a4b722caec0dcb09</link>
 <pubDate>Sat, 28 Feb 2026 23:21:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows blast as Bahrain’s National Security Agency struck by an Iranian missile]]></title>
-<link>https://apnews.com/video/footage-shows-blast-as-bahrains-national-security-agency-struck-by-an-iranian-missile-91e7e046d14d419f9e53e92ea5cf37a3</link>
-<pubDate>Sat, 28 Feb 2026 23:06:54 -0000</pubDate>
+<title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
+<link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
+<pubDate>Sun, 01 Mar 2026 00:06:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
