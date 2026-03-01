@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 19:14:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 19:40:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -185,6 +185,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[President of Iran’s soccer federation says World Cup participation in US is in doubt]]></title>
+<link>https://apnews.com/article/iran-world-cup-participation-united-states-d21fd7543f416458984e82bdf9a70415</link>
+<pubDate>Sun, 01 Mar 2026 19:40:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How the AP decided to describe joint US-Israeli strikes on Iran, and Iran’s retaliation, as a war]]></title>
+<link>https://apnews.com/article/israel-united-states-iran-war-ap-style-aa89b7f21e35b73a11ad7afddd1ff185</link>
+<pubDate>Sun, 01 Mar 2026 19:25:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gunmen kill at least 15 people in northern Nigeria, Amnesty says]]></title>
 <link>https://apnews.com/article/nigeria-attack-gunmen-security-ca2c3a05402b4eafff60c1cac18b72f2</link>
 <pubDate>Sun, 01 Mar 2026 18:18:57 -0000</pubDate>
@@ -206,6 +218,12 @@
 <title><![CDATA[South Carolina’s Staley says school is working to bring 3 former players home from Israel]]></title>
 <link>https://apnews.com/article/wnba-players-israel-a99aa7fdcf4c02281f66f2025a23725a</link>
 <pubDate>Sun, 01 Mar 2026 16:32:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
+<link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
+<pubDate>Sun, 01 Mar 2026 19:10:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,24 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Video shows nearly blind refugee being released by Border Patrol, 5 days before his death]]></title>
-<link>https://apnews.com/article/buffalo-new-york-refugee-death-b2508dc2e0592324630f5b303b31d97a</link>
-<pubDate>Fri, 27 Feb 2026 22:47:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protests at Iranian colleges raise tensions and fears of new crackdown]]></title>
-<link>https://apnews.com/article/iran-campus-protests-crackdown-54149e9d49fe022d840f71eb5f5be106</link>
-<pubDate>Sat, 28 Feb 2026 17:41:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father]]></title>
-<link>https://apnews.com/article/anna-kwok-hong-kong-father-sentence-b6cbd5232d4c932fae8df851f5e4c458</link>
-<pubDate>Sat, 28 Feb 2026 06:59:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran vows revenge after the killing of its top leader and trades strikes with Israel in widening war]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
 <pubDate>Sun, 01 Mar 2026 15:42:38 -0000</pubDate>
@@ -419,15 +419,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
-<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
-<pubDate>Sun, 01 Mar 2026 10:54:52 -0000</pubDate>
+<title><![CDATA[3 US troops killed and 5 are seriously wounded during Iran attacks, military says]]></title>
+<link>https://apnews.com/article/iran-trump-us-military-troops-casualties-793c3ea29a399c9a405e70b14c548595</link>
+<pubDate>Sun, 01 Mar 2026 19:40:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
-<link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
-<pubDate>Sun, 01 Mar 2026 00:06:54 -0000</pubDate>
+<title><![CDATA[What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
+<link>https://apnews.com/article/iran-khamenei-supreme-leader-nuclear-protests-military-487aa76fd32f398f2ca37d316e543760</link>
+<pubDate>Sun, 01 Mar 2026 00:21:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
+<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
+<pubDate>Sun, 01 Mar 2026 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Texas bar shooting leaves 3 dead and 14 wounded as FBI investigates terrorism possibility]]></title>
+<title><![CDATA[Suspect in Texas shooting wore “Property of Allah” clothing with Iranian flag, AP source says]]></title>
 <link>https://apnews.com/article/austin-texas-bar-shooting-7690f931ba00f950c1828cef25399bb6</link>
-<pubDate>Sun, 01 Mar 2026 17:33:58 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 19:25:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
