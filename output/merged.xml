@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 11:39:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 12:24:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East airports closed and thousands of travelers stranded after attack on Iran]]></title>
+<title><![CDATA[Middle East airports closed and thousands of travelers stranded]]></title>
 <link>https://apnews.com/article/iran-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547</link>
-<pubDate>Sun, 01 Mar 2026 07:49:37 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 12:24:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,12 +221,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A look at Iran’s key political and religious figures]]></title>
-<link>https://apnews.com/article/iran-leadership-tehran-trump-israel-b046aea281a5a9b83eb82c4a62350f59</link>
-<pubDate>Sun, 01 Mar 2026 10:47:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show global reaction to attack on Iran and death of Supreme Leader Khamenei]]></title>
 <link>https://apnews.com/photo-gallery/israel-iran-us-explosion-tehran-photos-reaction-6a5013fb2796675af61afc1c5d89effc</link>
 <pubDate>Sun, 01 Mar 2026 07:48:43 -0000</pubDate>
@@ -290,6 +284,12 @@
 <title><![CDATA[Photos show US-Israeli strikes and Iran’s response]]></title>
 <link>https://apnews.com/photo-gallery/israel-iran-us-explosion-tehran-photos-9255c0462685547bba438e87f7c24873</link>
 <pubDate>Sat, 28 Feb 2026 21:10:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan carries out airstrikes inside Afghanistan as ‘open war’ on border continues]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-border-clashes-air-strikes-b24a3f12e630e8dd30f8a4841f2c4198</link>
+<pubDate>Sun, 01 Mar 2026 12:05:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East airports closed and thousands of travelers stranded after attack on Iran]]></title>
+<link>https://apnews.com/article/iran-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547</link>
+<pubDate>Sun, 01 Mar 2026 07:49:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mourners take to streets of Tehran following confirmation of Khamenei’s death]]></title>
 <link>https://apnews.com/video/mourners-take-to-streets-of-tehran-following-confirmation-of-khameneis-death-90f5f481ac924c6ca810fa32eac4cb72</link>
 <pubDate>Sun, 01 Mar 2026 07:34:39 -0000</pubDate>
@@ -428,6 +434,12 @@
 <title><![CDATA[Trump was once wary of ordering regime change in Iran. Here’s what made him change his mind]]></title>
 <link>https://apnews.com/article/trump-iran-ayatollah-khamenei-ad853dc1d5606fd9202b65a75bdbfc2f</link>
 <pubDate>Sun, 01 Mar 2026 00:06:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at Iran’s key political and religious figures]]></title>
+<link>https://apnews.com/article/iran-leadership-tehran-trump-israel-b046aea281a5a9b83eb82c4a62350f59</link>
+<pubDate>Sat, 28 Feb 2026 20:13:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
