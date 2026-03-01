@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 22:13:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 22:46:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -71,21 +71,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Supporters of Brazil’s Bolsonaro rally across Brazil against Lula]]></title>
+<title><![CDATA[Venezuela’s opposition leader Machado says she will return to the country in the coming weeks]]></title>
+<link>https://apnews.com/article/venezuela-machado-elections-f7e848935b140636e7cd405b09368e0e</link>
+<pubDate>Sun, 01 Mar 2026 22:46:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Supporters of Bolsonaro rally across Brazil against Lula]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-protest-6d3e40b6119110653e9ea06120d3fd4f</link>
-<pubDate>Sun, 01 Mar 2026 21:26:16 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 22:31:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Cargo plane carrying money crashes near Bolivia’s capital, killing at least 15 people, official says]]></title>
 <link>https://apnews.com/article/bolivia-la-paz-plane-crash-4dc1f407934db756486eb3d2dfbac22c</link>
 <pubDate>Sat, 28 Feb 2026 02:29:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexican authorities hand over body of ‘El Mencho’ to his family]]></title>
-<link>https://apnews.com/article/mexico-cartel-death-el-mencho-eade6e3695ef0d387271a9bc6601c2a1</link>
-<pubDate>Sat, 28 Feb 2026 21:42:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -272,6 +272,12 @@
 <title><![CDATA[Photos showing life of Iran’s Supreme Leader Khamenei before he was killed in US-Israeli attack]]></title>
 <link>https://apnews.com/photo-gallery/iran-photos-khamenei-0d0816cd34fed0e07829a8f0cd341a8b</link>
 <pubDate>Sun, 01 Mar 2026 08:03:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican authorities hand over body of ‘El Mencho’ to his family]]></title>
+<link>https://apnews.com/article/mexico-cartel-death-el-mencho-eade6e3695ef0d387271a9bc6601c2a1</link>
+<pubDate>Sun, 01 Mar 2026 21:28:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
