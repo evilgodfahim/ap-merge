@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 23:42:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 01:07:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says ‘there will likely be more’ US service members killed in Iran before conflict ends]]></title>
+<title><![CDATA[Trump says more US service members ‘will likely’ be killed before Iran conflict ends]]></title>
 <link>https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026</link>
-<pubDate>Sun, 01 Mar 2026 21:41:16 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 01:07:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
-<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
-<pubDate>Sun, 01 Mar 2026 20:14:09 -0000</pubDate>
+<title><![CDATA[Israel launches barrage of strikes on Lebanese capital]]></title>
+<link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
+<pubDate>Mon, 02 Mar 2026 00:52:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US futures and Asian shares open lower, oil prices soar as US and Israeli attack Iran]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
+<pubDate>Mon, 02 Mar 2026 00:37:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
 <link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
 <pubDate>Fri, 27 Feb 2026 20:49:01 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[What to know about the latest fighting between Afghanistan and Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-fighting-background-a23c22bd981170679735bd295220bb49</link>
 <pubDate>Fri, 27 Feb 2026 17:43:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
-<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
-<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[OPEC+ boosts oil production after attacks on Iran and throughout region]]></title>
+<title><![CDATA[Oil prices rise sharply in market trading after attacks in Middle East disrupt global energy supply]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-prices-energy-strait-of-hormuz-21e634acba4c35801d28dfdbcc53824a</link>
-<pubDate>Sun, 01 Mar 2026 21:11:16 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 00:22:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
+<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
+<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
 <pubDate>Thu, 26 Feb 2026 03:38:57 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[3 scientists were charged in worm smuggling scheme. Lawyers say China helped get the case dismissed]]></title>
 <link>https://apnews.com/article/chinese-scientists-worm-smuggling-university-michigan-896b11c79141ee852318c8c918a59b2f</link>
 <pubDate>Wed, 25 Feb 2026 19:28:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Despite differences, China’s Xi and Germany’s Merz seek to deepen ties in turbulent times]]></title>
-<link>https://apnews.com/article/china-germany-chancellor-merz-beijing-trade-talks-23eff16baaae1656ac32b189749b7155</link>
-<pubDate>Thu, 26 Feb 2026 09:37:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Israel pound Iran as Trump signals willingness to talk to new leadership after Khamenei’s death]]></title>
-<link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
-<pubDate>Sun, 01 Mar 2026 22:13:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about the US-Israeli strikes]]></title>
 <link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
 <pubDate>Sun, 01 Mar 2026 18:18:58 -0000</pubDate>
@@ -395,9 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Massive explosion rocks Tehran after killing of Iran’s Supreme Leader Khamenei]]></title>
-<link>https://apnews.com/video/explosion-rocks-irans-capital-as-israel-says-its-targeting-tehran-after-strikes-kill-khamenei-bd474aba8d854b98b39609473f9c498f</link>
-<pubDate>Sun, 01 Mar 2026 16:47:36 -0000</pubDate>
+<title><![CDATA[Pro-Iran protesters clash with police near Green Zone in Baghdad]]></title>
+<link>https://apnews.com/video/pro-iran-protesters-clash-with-police-near-green-zone-in-baghdad-921e0fadf2ee4b1494ddab9ef58e611b</link>
+<pubDate>Mon, 02 Mar 2026 00:52:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Violent clashes in Pakistan as US Consulate stormed over killing of Iran’s supreme leader]]></title>
+<link>https://apnews.com/video/protests-outside-us-consulate-in-karachi-continue-after-killing-of-irans-supreme-leader-9b1f0713f8214f2fb5c9c1f5a0fc4e97</link>
+<pubDate>Mon, 02 Mar 2026 00:37:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -410,12 +410,6 @@
 <title><![CDATA[Thousands of Iranian government supporters mourning Khamenei chant ‘Death to America’]]></title>
 <link>https://apnews.com/video/thousands-of-iranian-government-supporters-mourning-khamenei-chant-death-to-america-8c588271fa594ff89fc922ec88178cbf</link>
 <pubDate>Sun, 01 Mar 2026 16:32:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Interceptions seen above Doha as Iran continues to retaliate over joint attack by US-Israel]]></title>
-<link>https://apnews.com/video/interceptions-seen-above-doha-as-iran-continues-to-retaliate-over-joint-attack-by-us-israel-7c51f4e325904168a4b722caec0dcb09</link>
-<pubDate>Sat, 28 Feb 2026 23:21:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -434,6 +428,12 @@
 <title><![CDATA[What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/article/iran-khamenei-supreme-leader-nuclear-protests-military-487aa76fd32f398f2ca37d316e543760</link>
 <pubDate>Sun, 01 Mar 2026 00:21:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
+<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
+<pubDate>Sun, 01 Mar 2026 10:54:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suspect in Texas shooting wore ‘Property of Allah’ clothing and Iranian flag emblem, AP source says]]></title>
+<title><![CDATA[FBI probes Texas bar shooting that killed 2 and wounded 14 as possible terrorist act]]></title>
 <link>https://apnews.com/article/austin-texas-bar-shooting-7690f931ba00f950c1828cef25399bb6</link>
-<pubDate>Sun, 01 Mar 2026 20:00:48 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 00:22:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
