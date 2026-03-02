@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 01:07:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 03:40:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -17,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says more US service members ‘will likely’ be killed before Iran conflict ends]]></title>
+<title><![CDATA[Live updates: Israel strikes Lebanon’s capital, responding to missiles from Hezbollah]]></title>
 <link>https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026</link>
-<pubDate>Mon, 02 Mar 2026 01:07:41 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 03:40:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel launches barrage of strikes on Lebanese capital]]></title>
+<title><![CDATA[US, Israel pound Iran as Trump signals willingness to talk to new leadership after Khamenei’s death]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
-<pubDate>Mon, 02 Mar 2026 00:52:41 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 03:25:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US futures and Asian shares open lower, oil prices soar as US and Israeli attack Iran]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
-<pubDate>Mon, 02 Mar 2026 00:37:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanistan’s soldiers guard the border with Pakistan as both countries trade attacks, in photos]]></title>
-<link>https://apnews.com/photo-gallery/pakistan-afghanistan-fighting-photos-867011aa9793523b2ce5bebcb392885e</link>
-<pubDate>Fri, 27 Feb 2026 20:49:01 -0000</pubDate>
+<title><![CDATA[Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base as fighting enters 4th day]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-fighting-bagram-border-efccb510a9cc8fe4eaecd676a80faea6</link>
+<pubDate>Mon, 02 Mar 2026 03:10:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[What to know about the latest fighting between Afghanistan and Pakistan]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-fighting-background-a23c22bd981170679735bd295220bb49</link>
 <pubDate>Fri, 27 Feb 2026 17:43:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
+<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
+<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil prices rise sharply in market trading after attacks in Middle East disrupt global energy supply]]></title>
+<title><![CDATA[Oil prices rise sharply after attacks in Middle East disrupt global energy supply]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-prices-energy-strait-of-hormuz-21e634acba4c35801d28dfdbcc53824a</link>
-<pubDate>Mon, 02 Mar 2026 00:22:41 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 02:55:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
-<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
-<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
 <pubDate>Thu, 26 Feb 2026 03:38:57 -0000</pubDate>
@@ -158,6 +152,12 @@
 <title><![CDATA[3 scientists were charged in worm smuggling scheme. Lawyers say China helped get the case dismissed]]></title>
 <link>https://apnews.com/article/chinese-scientists-worm-smuggling-university-michigan-896b11c79141ee852318c8c918a59b2f</link>
 <pubDate>Wed, 25 Feb 2026 19:28:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Despite differences, China’s Xi and Germany’s Merz seek to deepen ties in turbulent times]]></title>
+<link>https://apnews.com/article/china-germany-chancellor-merz-beijing-trade-talks-23eff16baaae1656ac32b189749b7155</link>
+<pubDate>Thu, 26 Feb 2026 09:37:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +182,12 @@
 <title><![CDATA[India crushes Zimbabwe to revive T20 World Cup hopes. Unbeaten South Africa advances to semifinals]]></title>
 <link>https://apnews.com/article/south-africa-west-indies-t20-world-cup-f3bca3614e7d679e17ddff8797b805f6</link>
 <pubDate>Thu, 26 Feb 2026 20:49:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US futures and Asian shares open lower, oil prices soar as US and Israeli attack Iran]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
+<pubDate>Mon, 02 Mar 2026 03:40:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +236,12 @@
 <title><![CDATA[South Carolina’s Staley says school is working to bring 3 former players home from Israel]]></title>
 <link>https://apnews.com/article/wnba-players-israel-a99aa7fdcf4c02281f66f2025a23725a</link>
 <pubDate>Sun, 01 Mar 2026 16:32:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
+<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
+<pubDate>Mon, 02 Mar 2026 03:25:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,24 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show US-Israeli strikes and Iran’s response]]></title>
-<link>https://apnews.com/photo-gallery/israel-iran-us-explosion-tehran-photos-9255c0462685547bba438e87f7c24873</link>
-<pubDate>Sat, 28 Feb 2026 21:10:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan carries out airstrikes inside Afghanistan as ‘open war’ on border continues]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-border-clashes-air-strikes-b24a3f12e630e8dd30f8a4841f2c4198</link>
-<pubDate>Sun, 01 Mar 2026 12:05:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the US-Israeli strikes]]></title>
-<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
-<pubDate>Sun, 01 Mar 2026 18:18:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Some celebrate in Iran after supreme leader’s death, but deep fear and uncertainty remain]]></title>
 <link>https://apnews.com/article/iran-strikes-us-israel-khamenei-war-future-df2e42e9e6ed7ca1f88a28bd140be457</link>
 <pubDate>Sun, 01 Mar 2026 21:58:14 -0000</pubDate>
@@ -386,6 +380,12 @@
 <title><![CDATA[At least 22 people killed in Pakistan as protesters try to storm US Consulate]]></title>
 <link>https://apnews.com/article/pakistan-protesters-attacked-us-consulate-karachi-iran-a3cc0c3c6f126cc54a657f61d312a203</link>
 <pubDate>Sun, 01 Mar 2026 20:30:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[As China’s economy slows, some young people are snapping up cheap apartments to ‘retire’ early]]></title>
+<link>https://apnews.com/article/china-cheap-housing-prices-4a2825765c974497ce5a8748302de285</link>
+<pubDate>Mon, 02 Mar 2026 03:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,15 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
-<link>https://apnews.com/article/iran-khamenei-supreme-leader-nuclear-protests-military-487aa76fd32f398f2ca37d316e543760</link>
-<pubDate>Sun, 01 Mar 2026 00:21:54 -0000</pubDate>
+<title><![CDATA[What to know about the US-Israeli strikes]]></title>
+<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
+<pubDate>Sun, 01 Mar 2026 18:18:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
-<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
-<pubDate>Sun, 01 Mar 2026 10:54:52 -0000</pubDate>
+<title><![CDATA[What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
+<link>https://apnews.com/article/iran-khamenei-supreme-leader-nuclear-protests-military-487aa76fd32f398f2ca37d316e543760</link>
+<pubDate>Sun, 01 Mar 2026 00:21:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base as fighting enters 4th day]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-fighting-bagram-border-efccb510a9cc8fe4eaecd676a80faea6</link>
-<pubDate>Sun, 01 Mar 2026 12:12:38 -0000</pubDate>
+<title><![CDATA[Photos show China’s low-cost lifestyle in vast, semiabandoned housing complexes]]></title>
+<link>https://apnews.com/photo-gallery/china-property-cheap-housing-abandoned-9f642584aea206204dcfdd10afb25861</link>
+<pubDate>Mon, 02 Mar 2026 03:25:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
