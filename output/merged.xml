@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 16:31:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 17:36:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -29,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and Israel pound Iran as Trump signals willingness to talk to new leaders after Khamenei’s death]]></title>
-<link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
-<pubDate>Mon, 02 Mar 2026 05:10:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Macron says France will allow temporary deployment of nuclear-armed jets to allied nations]]></title>
-<link>https://apnews.com/article/france-nuclear-weapons-macron-deterrence-ccbcfb03ef4a1e3efe287fb744adb148</link>
-<pubDate>Mon, 02 Mar 2026 15:31:34 -0000</pubDate>
+<title><![CDATA[War spirals further as US and Israel exchange strikes with Iran and its allies]]></title>
+<link>https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026</link>
+<pubDate>Mon, 02 Mar 2026 17:36:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +47,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Britain says it’s not at war after a drone strikes its Akrotiri base in Cyprus]]></title>
+<link>https://apnews.com/article/uk-akrotiri-iran-us-israel-airstrikes-934de2ed2a3c87fe7cc9189e24c076a4</link>
+<pubDate>Mon, 02 Mar 2026 17:21:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
+<link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
+<pubDate>Mon, 02 Mar 2026 17:06:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Myanmar’s military government pardons thousands of prisoners ahead of parliament convening]]></title>
 <link>https://apnews.com/article/myanmar-pardons-parliament-aung-san-suu-kyi-min-aung-hlaing-7ae12828d73bd86c7e9d3936870cc8c9</link>
 <pubDate>Mon, 02 Mar 2026 11:19:37 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[India and Canada agree to boost economic partnership in a move to reset ties]]></title>
 <link>https://apnews.com/article/india-canada-trade-modi-carney-632cf32892560ab18a72e67f39df6c15</link>
 <pubDate>Mon, 02 Mar 2026 09:04:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan deploys troops, imposes 3-day curfew after deadly protests over US-Israeli strikes on Iran]]></title>
-<link>https://apnews.com/article/pakistan-troops-deployed-north-iran-us-embassy-20b22f6cc5cbde83c68e43c2b076415b</link>
-<pubDate>Mon, 02 Mar 2026 11:04:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei]]></title>
+<link>https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64</link>
+<pubDate>Mon, 02 Mar 2026 16:51:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
 <link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
 <pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
 <pubDate>Thu, 26 Feb 2026 03:38:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 scientists were charged in worm smuggling scheme. Lawyers say China helped get the case dismissed]]></title>
-<link>https://apnews.com/article/chinese-scientists-worm-smuggling-university-michigan-896b11c79141ee852318c8c918a59b2f</link>
-<pubDate>Wed, 25 Feb 2026 19:28:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,15 +185,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s World Cup place in U.S. put in doubt by Middle East conflict. FIFA has Iraq next in line]]></title>
-<link>https://apnews.com/article/world-cup-fifa-iran-8882f12c6e9cb3f3dc1306fd2dd9a208</link>
-<pubDate>Mon, 02 Mar 2026 15:31:35 -0000</pubDate>
+<title><![CDATA[At least 6 people killed in a building collapse in South Africa]]></title>
+<link>https://apnews.com/article/south-africa-johannesburg-building-collapse-0138622e35e8ea054e5a803c5aa8187e</link>
+<pubDate>Mon, 02 Mar 2026 17:36:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hegseth insists the Iran conflict is ‘not endless’ and declares, ‘We fight to win’]]></title>
+<title><![CDATA[War disrupts sports with doubt over Messi’s ‘Finalissima,’ Ronaldo games and F1 races]]></title>
+<link>https://apnews.com/article/middle-east-sports-messi-ronaldo-46cc551e816533216a7971f67dd9c06c</link>
+<pubDate>Mon, 02 Mar 2026 17:21:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s World Cup place in US put in doubt by Middle East war. FIFA has Iraq next in line]]></title>
+<link>https://apnews.com/article/world-cup-fifa-iran-8882f12c6e9cb3f3dc1306fd2dd9a208</link>
+<pubDate>Mon, 02 Mar 2026 17:06:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hegseth insists the Iran conflict is ‘not endless’ while warning more casualties are likely]]></title>
 <link>https://apnews.com/article/trump-iran-caine-hegseth-85f4139b11e5191d880a6e114e1b5a62</link>
-<pubDate>Mon, 02 Mar 2026 13:52:07 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 16:51:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,15 +245,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Energy prices surge as tanker disruptions, facility shutdowns, rattle global supply]]></title>
+<title><![CDATA[Energy prices surge as tanker disruptions and facility shutdowns rattle global supply]]></title>
 <link>https://apnews.com/article/oil-prices-iran-us-hormuz-tanker-8a6d6fb35c89d9b0db4c4846f290c2c3</link>
-<pubDate>Mon, 02 Mar 2026 12:52:07 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 16:36:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Malaysia renews Lynas Rare Earths’ license for 10 years, orders end to radioactive waste by 2031]]></title>
 <link>https://apnews.com/article/malaysia-lynas-rare-earths-license-a9e3f931987ca2011133fee15f666fac</link>
 <pubDate>Mon, 02 Mar 2026 11:19:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show Lebanese people fleeing after Israeli strikes]]></title>
+<link>https://apnews.com/photo-gallery/iran-israel-us-lebanon-airstrikes-36513c8b298f1165a0e9ed0a9215c388</link>
+<pubDate>Mon, 02 Mar 2026 16:21:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan deploys troops and imposes curfew after deadly protests over US-Israeli strikes on Iran]]></title>
+<link>https://apnews.com/article/pakistan-troops-deployed-north-iran-us-embassy-20b22f6cc5cbde83c68e43c2b076415b</link>
+<pubDate>Mon, 02 Mar 2026 16:06:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,39 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base as fighting enters 4th day]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-fighting-bagram-border-efccb510a9cc8fe4eaecd676a80faea6</link>
-<pubDate>Mon, 02 Mar 2026 08:04:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump talks regime change in Iran after strikes, but history shows that could be very hard]]></title>
-<link>https://apnews.com/article/iran-regime-change-us-trump-israel-khamenei-9cbccdf31b000f535997118df2b60738</link>
-<pubDate>Mon, 02 Mar 2026 10:49:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 22 people killed in Pakistan as protesters try to storm US Consulate]]></title>
-<link>https://apnews.com/article/pakistan-protesters-attacked-us-consulate-karachi-iran-a3cc0c3c6f126cc54a657f61d312a203</link>
-<pubDate>Mon, 02 Mar 2026 10:34:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Stranded travelers scramble to make new connections as war shuts much of Middle East to air travel]]></title>
-<link>https://apnews.com/article/iran-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547</link>
-<pubDate>Mon, 02 Mar 2026 10:19:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A look at some of the contenders to be Iran’s supreme leader after the killing of Khamenei]]></title>
 <link>https://apnews.com/article/iran-israel-us-war-khamenei-successor-supreme-leader-f7b8be4a356b449b591492ff9d57661c</link>
 <pubDate>Mon, 02 Mar 2026 15:31:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War widens as Israeli and US planes pound Iran and Tehran and its proxies hit back]]></title>
+<title><![CDATA[War widens as Israel and US pound Iran and Tehran and its allies hit back]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
-<pubDate>Mon, 02 Mar 2026 13:52:08 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 17:36:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,12 +431,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Lebanese people fleeing after Israeli strikes]]></title>
-<link>https://apnews.com/photo-gallery/iran-israel-us-lebanon-airstrikes-36513c8b298f1165a0e9ed0a9215c388</link>
-<pubDate>Mon, 02 Mar 2026 13:22:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Oil prices soar and defense stocks gain as US-Israel war with Iran rattles markets]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
 <pubDate>Mon, 02 Mar 2026 10:09:38 -0000</pubDate>
@@ -467,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Britain says it’s not at war after a drone strikes its Akrotiri base in Cyprus]]></title>
-<link>https://apnews.com/article/uk-akrotiri-iran-us-israel-airstrikes-934de2ed2a3c87fe7cc9189e24c076a4</link>
-<pubDate>Mon, 02 Mar 2026 11:04:38 -0000</pubDate>
+<title><![CDATA[Macron says France will allow temporary deployment of nuclear-armed jets to European allies]]></title>
+<link>https://apnews.com/article/france-nuclear-weapons-macron-deterrence-ccbcfb03ef4a1e3efe287fb744adb148</link>
+<pubDate>Mon, 02 Mar 2026 17:21:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
