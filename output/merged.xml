@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 09:04:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 10:09:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -197,21 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil prices soar and defense stocks gain as US-Israel war with Iran rattles markets]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
-<pubDate>Mon, 02 Mar 2026 08:49:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump goes to war despite professed aversion to foreign entanglements, particularly in the Mideast]]></title>
 <link>https://apnews.com/article/trump-iran-war-mideast-america-first-23737d6fee8ae5aaf5a06627fd85a076</link>
 <pubDate>Sun, 01 Mar 2026 22:13:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dubai’s image as a safe, tax-free haven is rocked by blasts from Iranian airstrikes]]></title>
-<link>https://apnews.com/article/iran-israel-us-dubai-emirates-tourism-attack-b256f514b290c987b3004cc87744f038</link>
-<pubDate>Sun, 01 Mar 2026 21:58:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,6 +353,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Worms in food, poor medical care, lights on 24/7: Families tell of life in Texas detention center]]></title>
+<link>https://apnews.com/article/children-immigration-detention-dilley-trump-administration-ice-8ab12c9357ff3b8d400cfa2b2dbe85ed</link>
+<pubDate>Sun, 01 Mar 2026 18:03:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vatican removes salty white film coating Michelangelo’s ‘The Last Judgment’]]></title>
+<link>https://apnews.com/article/vatican-sistine-chapel-michelangelo-last-judgment-2696d0d52e9a93e48e2e1c873b6e9df8</link>
+<pubDate>Sun, 01 Mar 2026 07:33:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War widens to include Iranian-backed militias as Israeli and American planes pound Iran]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
 <pubDate>Mon, 02 Mar 2026 05:10:23 -0000</pubDate>
@@ -383,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gaza’s ceasefire had some momentum. Now, some fear a new war will distract the world]]></title>
-<link>https://apnews.com/article/gaza-iran-palestinians-israel-crossings-b6036878d5124f14b5a3202986f95e3e</link>
-<pubDate>Sun, 01 Mar 2026 21:43:14 -0000</pubDate>
+<title><![CDATA[What to know about the US-Israeli strikes]]></title>
+<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
+<pubDate>Sun, 01 Mar 2026 18:18:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As China’s economy slows, some young people are snapping up cheap apartments to ‘retire’ early]]></title>
-<link>https://apnews.com/article/china-cheap-housing-prices-4a2825765c974497ce5a8748302de285</link>
-<pubDate>Mon, 02 Mar 2026 03:40:13 -0000</pubDate>
+<title><![CDATA[Gaza’s ceasefire had some momentum. Now, some fear a new war will distract the world]]></title>
+<link>https://apnews.com/article/gaza-iran-palestinians-israel-crossings-b6036878d5124f14b5a3202986f95e3e</link>
+<pubDate>Sun, 01 Mar 2026 21:43:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,39 +437,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the US-Israeli strikes]]></title>
-<link>https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5</link>
-<pubDate>Sun, 01 Mar 2026 18:18:58 -0000</pubDate>
+<title><![CDATA[Oil prices soar and defense stocks gain as US-Israel war with Iran rattles markets]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f</link>
+<pubDate>Mon, 02 Mar 2026 10:09:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump orders US agencies to stop using Anthropic technology in clash over AI safety]]></title>
-<link>https://apnews.com/article/anthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a</link>
-<pubDate>Sat, 28 Feb 2026 00:15:26 -0000</pubDate>
+<title><![CDATA[Dubai’s image as a safe, tax-free haven is rocked by blasts from Iranian airstrikes]]></title>
+<link>https://apnews.com/article/iran-israel-us-dubai-emirates-tourism-attack-b256f514b290c987b3004cc87744f038</link>
+<pubDate>Sun, 01 Mar 2026 20:15:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fintech company Block lays off 4,000 of its 10,000 staff, citing gains from AI]]></title>
-<link>https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb</link>
-<pubDate>Fri, 27 Feb 2026 10:02:33 -0000</pubDate>
+<title><![CDATA[As China’s economy slows, some young people are snapping up cheap apartments to ‘retire’ early]]></title>
+<link>https://apnews.com/article/china-cheap-housing-prices-4a2825765c974497ce5a8748302de285</link>
+<pubDate>Mon, 02 Mar 2026 03:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks sink and oil prices rise as worries about AI, inflation and possible war hit Wall Street]]></title>
-<link>https://apnews.com/article/stocks-markets-nvidia-block-trump-f248d9463d4dffc7a9ffa6635afda137</link>
-<pubDate>Fri, 27 Feb 2026 14:29:30 -0000</pubDate>
+<title><![CDATA[Trump expects his Fed pick and AI to deliver a replay of the ‘90s boom. Economists have doubts]]></title>
+<link>https://apnews.com/article/trump-warsh-federal-reserve-productivity-inflation-economy-fdd43a1dd672021b2c9706432620da9f</link>
+<pubDate>Mon, 02 Mar 2026 09:54:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netflix walks away from Warner Bros deal, clearing the path for Paramount]]></title>
-<link>https://apnews.com/article/warner-paramount-netflix-5ddba4049473903b35b65e62e37d66bf</link>
-<pubDate>Fri, 27 Feb 2026 09:32:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Panamanian investigators remove documents from offices of company that ran canal ports]]></title>
-<link>https://apnews.com/article/panama-canal-ports-hutchison-court-43e8617da0f5e5c268e1502332b2735b</link>
-<pubDate>Fri, 27 Feb 2026 09:17:33 -0000</pubDate>
+<title><![CDATA[Trump’s Medicaid work mandates are meant to save money. But first states will have to spend millions]]></title>
+<link>https://apnews.com/article/medicaid-work-requirements-trump-baea2561c67b0d24eddacbeb77ce6ec3</link>
+<pubDate>Mon, 02 Mar 2026 09:39:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
