@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 03:40:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 05:10:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Israel pound Iran as Trump signals willingness to talk to new leadership after Khamenei’s death]]></title>
+<title><![CDATA[US and Israel pound Iran as Trump signals willingness to talk to new leaders after Khamenei’s death]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
-<pubDate>Mon, 02 Mar 2026 03:25:11 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 05:10:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show China’s low-cost lifestyle in vast, semiabandoned housing complexes]]></title>
+<link>https://apnews.com/photo-gallery/china-property-cheap-housing-abandoned-9f642584aea206204dcfdd10afb25861</link>
+<pubDate>Mon, 02 Mar 2026 04:55:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base as fighting enters 4th day]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-fighting-bagram-border-efccb510a9cc8fe4eaecd676a80faea6</link>
 <pubDate>Mon, 02 Mar 2026 03:10:11 -0000</pubDate>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
-<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
-<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
+<title><![CDATA[A prehistoric skeleton found deep in a flooded Mexican cave was likely placed there in a ritual]]></title>
+<link>https://apnews.com/article/mexico-cenote-cave-skeleton-cb52ff3b44a32a99c9d5bd4adb2bb8ef</link>
+<pubDate>Mon, 02 Mar 2026 04:40:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Supporters of Bolsonaro rally across Brazil against Lula]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-protest-6d3e40b6119110653e9ea06120d3fd4f</link>
 <pubDate>Sun, 01 Mar 2026 22:31:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cargo plane carrying money crashes near Bolivia’s capital, killing at least 15 people, official says]]></title>
-<link>https://apnews.com/article/bolivia-la-paz-plane-crash-4dc1f407934db756486eb3d2dfbac22c</link>
-<pubDate>Sat, 28 Feb 2026 02:29:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
+<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
+<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A Hong Kong court quashes fraud conviction of ex-media mogul Jimmy Lai]]></title>
 <link>https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb</link>
 <pubDate>Thu, 26 Feb 2026 03:38:57 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[3 scientists were charged in worm smuggling scheme. Lawyers say China helped get the case dismissed]]></title>
 <link>https://apnews.com/article/chinese-scientists-worm-smuggling-university-michigan-896b11c79141ee852318c8c918a59b2f</link>
 <pubDate>Wed, 25 Feb 2026 19:28:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Despite differences, China’s Xi and Germany’s Merz seek to deepen ties in turbulent times]]></title>
-<link>https://apnews.com/article/china-germany-chancellor-merz-beijing-trade-talks-23eff16baaae1656ac32b189749b7155</link>
-<pubDate>Thu, 26 Feb 2026 09:37:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War widens to include Iranian-backed militias as Israeli and American planes pound Iran]]></title>
+<link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
+<pubDate>Mon, 02 Mar 2026 05:10:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Some celebrate in Iran after supreme leader’s death, but deep fear and uncertainty remain]]></title>
 <link>https://apnews.com/article/iran-strikes-us-israel-khamenei-war-future-df2e42e9e6ed7ca1f88a28bd140be457</link>
 <pubDate>Sun, 01 Mar 2026 21:58:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about Iran’s Revolutionary Guard, a powerful force within the country’s theocracy]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-revolutionary-guard-what-to-know-fd7a89210c70cc9ab1d2c1a5ea16bca7</link>
+<pubDate>Mon, 02 Mar 2026 04:55:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +392,6 @@
 <title><![CDATA[At least 22 people killed in Pakistan as protesters try to storm US Consulate]]></title>
 <link>https://apnews.com/article/pakistan-protesters-attacked-us-consulate-karachi-iran-a3cc0c3c6f126cc54a657f61d312a203</link>
 <pubDate>Sun, 01 Mar 2026 20:30:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As China’s economy slows, some young people are snapping up cheap apartments to ‘retire’ early]]></title>
-<link>https://apnews.com/article/china-cheap-housing-prices-4a2825765c974497ce5a8748302de285</link>
-<pubDate>Mon, 02 Mar 2026 03:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,15 +479,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show China’s low-cost lifestyle in vast, semiabandoned housing complexes]]></title>
-<link>https://apnews.com/photo-gallery/china-property-cheap-housing-abandoned-9f642584aea206204dcfdd10afb25861</link>
-<pubDate>Mon, 02 Mar 2026 03:25:13 -0000</pubDate>
+<title><![CDATA[As China’s economy slows, some young people are snapping up cheap apartments to ‘retire’ early]]></title>
+<link>https://apnews.com/article/china-cheap-housing-prices-4a2825765c974497ce5a8748302de285</link>
+<pubDate>Mon, 02 Mar 2026 03:40:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A prehistoric skeleton found deep in a flooded Mexican cave was likely placed there in a ritual]]></title>
-<link>https://apnews.com/article/mexico-cenote-cave-skeleton-cb52ff3b44a32a99c9d5bd4adb2bb8ef</link>
-<pubDate>Sat, 28 Feb 2026 18:07:41 -0000</pubDate>
+<title><![CDATA[Argentina’s Milei opens Congress praising Trump and attacking opposition]]></title>
+<link>https://apnews.com/article/argentina-milei-congress-trump-a71e616266af4744ca97330bdd81af3e</link>
+<pubDate>Mon, 02 Mar 2026 04:40:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
