@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 01:09:37 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iranian state media confirms death of Supreme Leader Ayatollah Ali Khamenei]]></title>
-<link>https://apnews.com/live/live-updates-israel-iran-february-28-2026</link>
-<pubDate>Sun, 01 Mar 2026 06:36:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 03 Mar 2026 03:43:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s supreme leader killed in major attack by US and Israel]]></title>
 <link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Iran’s Supreme Leader Ayatollah Ali Khamenei, who led the Islamic Republic since 1989, is dead at 86]]></title>
 <link>https://apnews.com/article/iran-supreme-leader-ayatollah-ali-khamenei-dead-5b13b69b708c4ed38e8f95f5fb41a597</link>
 <pubDate>Sun, 01 Mar 2026 13:39:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US and Israel pound Iran as Trump signals willingness to talk to new leaders after Khamenei’s death]]></title>
+<link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
+<pubDate>Mon, 02 Mar 2026 05:10:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show China’s low-cost lifestyle in vast, semiabandoned housing complexes]]></title>
-<link>https://apnews.com/photo-gallery/china-property-cheap-housing-abandoned-9f642584aea206204dcfdd10afb25861</link>
-<pubDate>Mon, 02 Mar 2026 04:55:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
 <link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
 <pubDate>Mon, 02 Mar 2026 17:06:26 -0000</pubDate>
@@ -83,21 +77,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of revelers celebrating Holi, the Hindu festival of colors, in India’s Mathura]]></title>
+<link>https://apnews.com/photo-gallery/india-spring-festival-holi-photo-gallery-89ce9e9f46afe406135b0ce74b9da912</link>
+<pubDate>Tue, 03 Mar 2026 03:43:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba’s president pushes for ‘urgent’ changes to island’s economic and business model]]></title>
 <link>https://apnews.com/article/cuba-president-economic-social-model-d67457289b4fea6389d8839024e082e2</link>
 <pubDate>Mon, 02 Mar 2026 19:14:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Argentina’s Milei opens Congress praising Trump and attacking opposition]]></title>
-<link>https://apnews.com/article/argentina-milei-congress-trump-a71e616266af4744ca97330bdd81af3e</link>
-<pubDate>Mon, 02 Mar 2026 21:00:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Party run by Colombia’s former FARC rebels fights for survival in Sunday’s election]]></title>
 <link>https://apnews.com/article/colombia-election-rebels-farc-comunes-party-734dd44a2fd1e81d45ad6a0af17d3e98</link>
 <pubDate>Mon, 02 Mar 2026 19:29:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Haiti opens registration for what would be the 1st election in a decade]]></title>
+<link>https://apnews.com/article/haiti-elections-party-registration-council-gangs-86a6f681d62827d496e2d358940bd12f</link>
+<pubDate>Tue, 03 Mar 2026 03:28:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show China’s low-cost lifestyle in vast, semiabandoned housing complexes]]></title>
+<link>https://apnews.com/photo-gallery/china-property-cheap-housing-abandoned-9f642584aea206204dcfdd10afb25861</link>
+<pubDate>Mon, 02 Mar 2026 04:55:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US and Israel clash with Iran at emergency Security Council meeting. UN chief condemns attacks]]></title>
 <link>https://apnews.com/article/iran-israel-us-un-security-council-airstrikes-9140bca9241fb99be8cb3cff2c650741</link>
 <pubDate>Mon, 02 Mar 2026 21:32:30 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei]]></title>
 <link>https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64</link>
 <pubDate>Mon, 02 Mar 2026 16:51:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[19 deputies of China’s legislature, including 9 military officers, removed before annual meeting]]></title>
-<link>https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e</link>
-<pubDate>Fri, 27 Feb 2026 14:59:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian-Americans fear for relatives in their homeland as war continues]]></title>
-<link>https://apnews.com/article/iranian-american-diaspora-us-7c8caccf669c34097caf1c74de0a40db</link>
-<pubDate>Mon, 02 Mar 2026 23:45:55 -0000</pubDate>
+<title><![CDATA[Bus accident in the Dominican Republic kills 2 Canadian tourists and injures 13 others]]></title>
+<link>https://apnews.com/article/dominican-republic-bus-accident-tourists-71c821e7f01ff8c0f1499d2a08222a10</link>
+<pubDate>Tue, 03 Mar 2026 03:43:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump takes unconventional approach to communicating to the public about its war in Iran]]></title>
+<title><![CDATA[Iranian Americans fear for relatives amid US and Israeli strikes on their homeland]]></title>
+<link>https://apnews.com/article/iranian-american-diaspora-us-7c8caccf669c34097caf1c74de0a40db</link>
+<pubDate>Tue, 03 Mar 2026 03:28:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump takes unconventional approach to communicating to the public about war in Iran]]></title>
 <link>https://apnews.com/article/iran-trump-administration-media-communication-2aeb11fcfef4138c045be71fb7216792</link>
-<pubDate>Mon, 02 Mar 2026 23:30:55 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 03:13:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,12 +230,6 @@
 <title><![CDATA[Cuba says it has detained 10 Panamanians accused of creating ‘subversive’ propaganda]]></title>
 <link>https://apnews.com/article/cuba-arrests-panamanians-panama-propaganda-detained-21361ce8538b822b4571c44f075f5e03</link>
 <pubDate>Mon, 02 Mar 2026 22:17:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Haiti opens registration for what would be the 1st election in a decade]]></title>
-<link>https://apnews.com/article/haiti-elections-party-registration-council-gangs-86a6f681d62827d496e2d358940bd12f</link>
-<pubDate>Mon, 02 Mar 2026 21:00:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -311,9 +311,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Congress will debate an Iran conflict that is well underway]]></title>
+<title><![CDATA[Trump officials say Israel helped lead US to Iran war]]></title>
 <link>https://apnews.com/article/congress-war-powers-trump-iran-68d78b2215cc6c021937859ce852e1f2</link>
-<pubDate>Mon, 02 Mar 2026 13:22:07 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 02:58:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War in the Mideast widens as Trump says strikes on Iran could last several weeks]]></title>
+<title><![CDATA[As Mideast conflict widens, US says attacks on Iran will last weeks and intensify]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
-<pubDate>Mon, 02 Mar 2026 19:29:40 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 03:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump pushes back on mounting criticism about his Iran war battle plan as conflict spreads]]></title>
+<title><![CDATA[Trump pushes back on criticism about Iran battle plan]]></title>
 <link>https://apnews.com/article/trump-iran-maga-regime-change-2758513ac034ffb75beaa12db68c7bd7</link>
-<pubDate>Mon, 02 Mar 2026 22:17:31 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 03:28:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
