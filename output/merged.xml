@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 06:06:18 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran’s supreme leader killed in major attack by US and Israel]]></title>
-<link>https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c</link>
-<pubDate>Sun, 01 Mar 2026 03:44:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 03 Mar 2026 07:13:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel strikes Lebanon’s capital, responding to missiles from Hezbollah]]></title>
 <link>https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[US and Israel pound Iran as Trump signals willingness to talk to new leaders after Khamenei’s death]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f</link>
 <pubDate>Mon, 02 Mar 2026 05:10:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How succession works in Iran and who could be the country’s next supreme leader]]></title>
+<link>https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5</link>
+<pubDate>Sun, 01 Mar 2026 20:14:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,21 +65,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
-<link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
-<pubDate>Mon, 02 Mar 2026 17:06:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar’s military government pardons thousands of prisoners ahead of parliament convening]]></title>
-<link>https://apnews.com/article/myanmar-pardons-parliament-aung-san-suu-kyi-min-aung-hlaing-7ae12828d73bd86c7e9d3936870cc8c9</link>
-<pubDate>Mon, 02 Mar 2026 11:19:37 -0000</pubDate>
+<title><![CDATA[Asian shares are mostly lower as investors focus on the Iran war’s impact on energy supplies]]></title>
+<link>https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0</link>
+<pubDate>Tue, 03 Mar 2026 07:13:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Photos of revelers celebrating Holi, the Hindu festival of colors, in India’s Mathura]]></title>
 <link>https://apnews.com/photo-gallery/india-spring-festival-holi-photo-gallery-89ce9e9f46afe406135b0ce74b9da912</link>
 <pubDate>Tue, 03 Mar 2026 03:43:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
+<link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
+<pubDate>Mon, 02 Mar 2026 17:06:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crocodile caught in an Australian creek 1,200 miles from its tropical habitat]]></title>
-<link>https://apnews.com/article/australia-crocodile-newcastle-creek-e34c91f2b83c3cfdfd5fdead46993374</link>
-<pubDate>Tue, 03 Mar 2026 05:09:27 -0000</pubDate>
+<title><![CDATA[What to know about Holi, the Hindu festival of colors]]></title>
+<link>https://apnews.com/article/holi-festival-of-colors-explained-7d3793f4b484077a99150555b23af9e3</link>
+<pubDate>Tue, 03 Mar 2026 07:13:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mostly lower as investors focus on the Iran war’s impact on energy supplies]]></title>
-<link>https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0</link>
-<pubDate>Tue, 03 Mar 2026 04:54:27 -0000</pubDate>
+<title><![CDATA[2 killed and 3 hurt in helicopter emergency landing in Philippines]]></title>
+<link>https://apnews.com/article/philippines-helicopter-emergency-landing-337d546bc7ce60676bbf636c141d049b</link>
+<pubDate>Tue, 03 Mar 2026 06:58:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crocodile caught in an Australian creek 1,200 miles from its tropical habitat]]></title>
+<link>https://apnews.com/article/australia-crocodile-newcastle-creek-e34c91f2b83c3cfdfd5fdead46993374</link>
+<pubDate>Tue, 03 Mar 2026 05:09:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show Israel after Iran retaliated with missiles]]></title>
-<link>https://apnews.com/photo-gallery/iran-israel-us-missiles-photos-5d5d519aef16d124bd11d361f8e0d9ad</link>
-<pubDate>Mon, 02 Mar 2026 09:04:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Embassy in Saudi Arabia hit with Iranian drones as American and Israeli attacks on Iran escalate]]></title>
+<title><![CDATA[Israeli soldiers are ‘operating in southern Lebanon,’ military says]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23</link>
-<pubDate>Tue, 03 Mar 2026 05:09:27 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 07:13:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
