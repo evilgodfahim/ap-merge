@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 18:33:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 19:32:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[State Department urges US citizens in more than a dozen Middle Eastern countries to leave]]></title>
 <link>https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Their Words: How Trump’s and his administration’s statements on Iran evolved and conflicted]]></title>
-<link>https://apnews.com/article/trump-hegseth-vance-iran-nuclear-strikes-5357243212b4b8bbd387ae91ca797325</link>
-<pubDate>Tue, 03 Mar 2026 17:38:10 -0000</pubDate>
+<title><![CDATA[Iranian Americans fear for relatives in their homeland as war continues]]></title>
+<link>https://apnews.com/article/iranian-american-diaspora-us-7c8caccf669c34097caf1c74de0a40db</link>
+<pubDate>Tue, 03 Mar 2026 05:09:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[4 former Argentine navy officers face trial for 2017 submarine sinking that killed 44 crew members]]></title>
+<link>https://apnews.com/article/argentina-submarine-ara-san-juan-navy-trial-6d542abce84718a8828cec7fb0922b45</link>
+<pubDate>Tue, 03 Mar 2026 19:32:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jalisco cartel leader ‘El Mencho’ buried in a golden casket in a Guadalajara cemetery]]></title>
 <link>https://apnews.com/article/mexico-mencho-jalisco-cartel-5458d299e183e5aafa3e6cd3111401dc</link>
 <pubDate>Tue, 03 Mar 2026 15:22:29 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Argentina’s top union sues to halt President Milei’s sweeping labor overhaul]]></title>
 <link>https://apnews.com/article/argentina-labor-reform-milei-workers-lawsuit-5a0a6e83a0c1809f626c29e92789498d</link>
 <pubDate>Tue, 03 Mar 2026 10:28:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba’s president pushes for ‘urgent’ changes to island’s economic and business model]]></title>
-<link>https://apnews.com/article/cuba-president-economic-social-model-d67457289b4fea6389d8839024e082e2</link>
-<pubDate>Mon, 02 Mar 2026 19:14:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Noem blames ‘violent protesters’ for Minneapolis chaos under tough questioning in Senate hearing]]></title>
+<title><![CDATA[Noem blames ‘violent protesters’ for Minneapolis chaos under tough questioning in a Senate hearing]]></title>
 <link>https://apnews.com/article/noem-testifies-congress-homeland-security-immigration-enforcement-ebb715699e3f4f6dd6fdd22157b4e1a7</link>
-<pubDate>Tue, 03 Mar 2026 17:08:10 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 19:17:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 men arrested in Cincinnati nightclub shooting that wounded 9]]></title>
+<title><![CDATA[1 of 2 men arrested in the Cincinnati nightclub shooting arraigned on charges]]></title>
 <link>https://apnews.com/article/ohio-cincinnati-shooting-f2fc1e9a153b67611621739a2faf68aa</link>
-<pubDate>Tue, 03 Mar 2026 16:53:10 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 19:02:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,9 +191,51 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Macron orders France’s nuclear-powered aircraft carrier to the Mediterranean]]></title>
+<link>https://apnews.com/article/france-macron-aircraft-carrier-charles-de-gaulle-mediterranean-dd185933de5e5cee87828768c0046fba</link>
+<pubDate>Tue, 03 Mar 2026 19:32:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Country by country, here’s how the unfolding war is affecting the Middle East]]></title>
+<link>https://apnews.com/article/iran-us-war-israel-strait-or-hormuz-deaths-f1619c6bfbbd5fe10857ff0af073aa0e</link>
+<pubDate>Tue, 03 Mar 2026 19:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The year in review: Influential people who have died in 2026]]></title>
+<link>https://apnews.com/article/deaths-this-year-2026-e4c0d3e426d03d181c8ed2fefddf429d</link>
+<pubDate>Tue, 03 Mar 2026 19:02:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Visualizing Conflict: The US-Israeli war with Iran in maps, graphics and images]]></title>
+<link>https://apnews.com/photo-gallery/iran-us-israel-war-conflict-gulf-visuals-8fc2192e3c05d30fd7dad5b18b9743b7</link>
+<pubDate>Tue, 03 Mar 2026 18:47:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rahm says European tour is ‘extorting’ LIV players by making them play more events to rejoin tour]]></title>
+<link>https://apnews.com/article/jon-rahm-european-tour-liv-golf-ryder-cup-9f3f3fad843b7152d1c1972c6442d12c</link>
+<pubDate>Tue, 03 Mar 2026 18:32:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranian strikes on Amazon data centers highlight industry’s vulnerability to physical disasters]]></title>
+<link>https://apnews.com/article/amazon-aws-data-center-uae-iran-bahrain-71066b0a822c4cfd88b61e3fe79af917</link>
+<pubDate>Tue, 03 Mar 2026 18:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of a blood-red moon and total lunar eclipse]]></title>
 <link>https://apnews.com/photo-gallery/total-lunar-eclipse-blood-moon-b20ee3da55e4f7544e2488dd19f91527</link>
 <pubDate>Tue, 03 Mar 2026 17:38:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Some travelers stranded in Dubai are paying huge sums for private charter flights out]]></title>
+<link>https://apnews.com/article/stranded-travelers-iran-war-gulf-charter-flights-9f2af0716bc72ad4a13d9d70f83b207b</link>
+<pubDate>Tue, 03 Mar 2026 18:02:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +251,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Average price for a gallon of gas rises 11 cents overnight to about $3.11 in US, AAA says]]></title>
+<title><![CDATA[The price of a gallon of gas spiked overnight in the U.S., and drivers overseas are filling up tanks]]></title>
 <link>https://apnews.com/article/iran-oil-gas-gallon-aaa-e2daee318b8e3e6a1124713909a410e4</link>
-<pubDate>Tue, 03 Mar 2026 13:51:27 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 17:47:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +272,12 @@
 <title><![CDATA[Photos show people fleeing and buildings wrecked after Israeli strikes in Lebanon]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-iran-us-photos-9c46c22caa4f9cc7a21bb7649d2abdd4</link>
 <pubDate>Tue, 03 Mar 2026 15:22:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Netanyahu takes a gamble on American support for Israel with the war against Iran]]></title>
+<link>https://apnews.com/article/iran-war-netanyahu-trump-support-ef032c6370bd31294cab5641a57ba8af</link>
+<pubDate>Tue, 03 Mar 2026 17:32:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In Their Words: How Trump’s and his administration’s statements on Iran evolved and conflicted]]></title>
+<link>https://apnews.com/article/trump-hegseth-vance-iran-nuclear-strikes-5357243212b4b8bbd387ae91ca797325</link>
+<pubDate>Tue, 03 Mar 2026 17:17:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos from inside Iran as strikes boom across the capital, Tehran]]></title>
 <link>https://apnews.com/photo-gallery/iran-us-israel-missiles-photos-tehran-images-66669302c5fee9a978effe7c81775a62</link>
 <pubDate>Tue, 03 Mar 2026 15:07:30 -0000</pubDate>
@@ -317,60 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian drones buzz across the Persian Gulf after their pivotal use by Russia in Ukraine]]></title>
-<link>https://apnews.com/article/iran-us-israel-gulf-war-drone-49c8ea76358e579447ff839485f394ac</link>
-<pubDate>Mon, 02 Mar 2026 22:02:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Melania Trump presides at UN Security Council meeting on children in conflict as US attacks Iran]]></title>
-<link>https://apnews.com/article/un-melania-trump-security-council-children-conflict-iran-da7c8e4537b2d6b2697a2795c2aab041</link>
-<pubDate>Mon, 02 Mar 2026 20:30:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Party run by Colombia’s former FARC rebels fights for survival in Sunday’s election]]></title>
-<link>https://apnews.com/article/colombia-election-rebels-farc-comunes-party-734dd44a2fd1e81d45ad6a0af17d3e98</link>
-<pubDate>Tue, 03 Mar 2026 14:37:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa probes sanitary products suppliers after study flags health risks]]></title>
-<link>https://apnews.com/article/south-africa-sanitary-health-products-study-chemicals-ac8669a8c319d8a6c71a9bde4cff2207</link>
-<pubDate>Mon, 02 Mar 2026 19:14:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran]]></title>
-<link>https://apnews.com/article/iran-united-states-trump-strikes-6c602da7d44cb8c34fa1a9f85f352e4a</link>
-<pubDate>Mon, 02 Mar 2026 21:47:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 6 people killed in a building collapse in South Africa]]></title>
-<link>https://apnews.com/article/south-africa-johannesburg-building-collapse-0138622e35e8ea054e5a803c5aa8187e</link>
-<pubDate>Mon, 02 Mar 2026 17:36:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War disrupts sports with doubt over Messi’s ‘Finalissima,’ Ronaldo games and F1 races]]></title>
-<link>https://apnews.com/article/middle-east-sports-messi-ronaldo-46cc551e816533216a7971f67dd9c06c</link>
-<pubDate>Mon, 02 Mar 2026 17:21:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s World Cup place in US put in doubt by Middle East war. FIFA has Iraq next in line]]></title>
-<link>https://apnews.com/article/world-cup-fifa-iran-8882f12c6e9cb3f3dc1306fd2dd9a208</link>
-<pubDate>Mon, 02 Mar 2026 17:06:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at some of the contenders to be Iran’s supreme leader after the killing of Khamenei]]></title>
-<link>https://apnews.com/article/iran-israel-us-war-khamenei-successor-supreme-leader-f7b8be4a356b449b591492ff9d57661c</link>
-<pubDate>Tue, 03 Mar 2026 12:21:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel steps up airstrikes in Tehran, as Iran widens its response across the region]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23</link>
 <pubDate>Tue, 03 Mar 2026 17:38:11 -0000</pubDate>
@@ -383,15 +383,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran war taxes US diplomatic work and leaves Americans in the Mideast in limbo]]></title>
+<link>https://apnews.com/article/embassies-iran-state-department-strikes-travel-1ce7865cb17bf201025aab98a17afb74</link>
+<pubDate>Tue, 03 Mar 2026 19:32:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War with Iran strains the US-UK relationship as Starmer and Trump disagree]]></title>
 <link>https://apnews.com/article/trump-starmer-iran-war-disagreement-fead317c818151d52ec249c8c21fee0b</link>
 <pubDate>Tue, 03 Mar 2026 12:06:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu takes a gamble on American support for Israel with the war against Iran]]></title>
-<link>https://apnews.com/article/iran-war-netanyahu-trump-support-ef032c6370bd31294cab5641a57ba8af</link>
-<pubDate>Tue, 03 Mar 2026 10:13:24 -0000</pubDate>
+<title><![CDATA[Trump threatens to cut off trade with Spain after it disallowed US use of joint bases in Iran war]]></title>
+<link>https://apnews.com/article/trump-spain-iran-trade-defense-nato-spending-43e0f13e7b1c7e6ebcc4b558474aacdc</link>
+<pubDate>Tue, 03 Mar 2026 19:17:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,27 +425,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Satellite images show damage to Iran’s Natanz nuclear facility]]></title>
+<link>https://apnews.com/article/iran-trump-nuclear-natanz-israel-enrichment-uranium-e42a4711f6d350d14c10e5f9981eca46</link>
+<pubDate>Tue, 03 Mar 2026 19:02:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cyprus becomes embroiled in another Middle Eastern maelstrom with UK military bases on its soil]]></title>
+<link>https://apnews.com/article/cyprus-britain-military-bases-iran-drones-d217a7fc05b85aad5fddc706c0c71d46</link>
+<pubDate>Tue, 03 Mar 2026 18:47:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What China’s response to the US attack on Iran says about its foreign policy]]></title>
 <link>https://apnews.com/article/china-position-us-iran-attack-1042fa7295500f90ecd6285d552da349</link>
 <pubDate>Tue, 03 Mar 2026 16:53:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian Americans fear for relatives in their homeland as war continues]]></title>
-<link>https://apnews.com/article/iranian-american-diaspora-us-7c8caccf669c34097caf1c74de0a40db</link>
-<pubDate>Tue, 03 Mar 2026 08:13:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Some travelers stranded in Dubai are paying huge sums for private charter flights out]]></title>
-<link>https://apnews.com/article/stranded-travelers-iran-war-gulf-charter-flights-9f2af0716bc72ad4a13d9d70f83b207b</link>
-<pubDate>Tue, 03 Mar 2026 16:38:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dow drops 800 as stocks sell off around the world and oil prices leap even higher on war worries]]></title>
+<title><![CDATA[Dow drops 500 as stocks sell off around the world and oil prices leap even higher on war worries]]></title>
 <link>https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0</link>
-<pubDate>Tue, 03 Mar 2026 16:23:11 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 18:32:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
