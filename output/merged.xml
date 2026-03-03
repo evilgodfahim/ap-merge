@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 07:58:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 08:37:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel strikes Lebanon’s capital, responding to missiles from Hezbollah]]></title>
 <link>https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Some key figures about Nepal’s parliamentary election]]></title>
+<link>https://apnews.com/article/nepal-election-by-numbers-76e2d09ea442bf65a34fcd7e2eb50b79</link>
+<pubDate>Tue, 03 Mar 2026 08:37:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asian shares are mostly lower as investors focus on the Iran war’s impact on energy supplies]]></title>
 <link>https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0</link>
 <pubDate>Tue, 03 Mar 2026 07:13:19 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Photos of revelers celebrating Holi, the Hindu festival of colors, in India’s Mathura]]></title>
 <link>https://apnews.com/photo-gallery/india-spring-festival-holi-photo-gallery-89ce9e9f46afe406135b0ce74b9da912</link>
 <pubDate>Tue, 03 Mar 2026 03:43:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
-<link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
-<pubDate>Mon, 02 Mar 2026 17:06:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +281,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan’s president defends ongoing strikes in Afghanistan and urges Kabul to dismantle militants]]></title>
+<link>https://apnews.com/article/pakistan-president-afghan-taliban-militants-military-332482ef75bc24d7b72eef8d78e9fe0f</link>
+<pubDate>Tue, 03 Mar 2026 08:37:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[At least 6 people killed in a building collapse in South Africa]]></title>
 <link>https://apnews.com/article/south-africa-johannesburg-building-collapse-0138622e35e8ea054e5a803c5aa8187e</link>
 <pubDate>Mon, 02 Mar 2026 17:36:27 -0000</pubDate>
@@ -371,15 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan deploys troops and imposes curfew after deadly protests over US-Israeli strikes on Iran]]></title>
-<link>https://apnews.com/article/pakistan-troops-deployed-north-iran-us-embassy-20b22f6cc5cbde83c68e43c2b076415b</link>
-<pubDate>Mon, 02 Mar 2026 16:06:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli soldiers are ‘operating in southern Lebanon,’ military says]]></title>
+<title><![CDATA[US Embassy in Saudi Arabia hit by Iranian drones as Israeli military ramps up operations in Lebanon]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23</link>
-<pubDate>Tue, 03 Mar 2026 07:13:20 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 08:37:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
