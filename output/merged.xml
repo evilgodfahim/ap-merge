@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 11:00:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 11:49:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[State Department urges US citizens in more than a dozen Middle Eastern countries to leave]]></title>
 <link>https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nepalis are set to vote in the first election after protests ousted the previous government]]></title>
+<link>https://apnews.com/article/nepal-election-parliament-government-5f8e4088fb4b6a88161289eac9c7f924</link>
+<pubDate>Wed, 04 Mar 2026 06:23:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s factory activity contracts for a second month]]></title>
 <link>https://apnews.com/article/china-manufacturing-economy-pmi-685ab43bcb8d113e7df0b9be8e9f417d</link>
 <pubDate>Wed, 04 Mar 2026 06:08:35 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Pakistan says its forces killed 67 Afghan troops in cross-border clashes. Kabul rejects the claim]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-fighting-ground-attacks-military-posts-e057780413f84b222c2fe30b3cbcf172</link>
 <pubDate>Wed, 04 Mar 2026 03:20:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of revelers celebrating Holi, the Hindu festival of colors, in India’s Mathura]]></title>
-<link>https://apnews.com/photo-gallery/india-spring-festival-holi-photo-gallery-89ce9e9f46afe406135b0ce74b9da912</link>
-<pubDate>Tue, 03 Mar 2026 03:43:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,27 +125,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Noem defends her portrayal of killed Minneapolis protesters as agitators, in her Senate hearing]]></title>
-<link>https://apnews.com/article/noem-testifies-congress-homeland-security-immigration-enforcement-ebb715699e3f4f6dd6fdd22157b4e1a7</link>
-<pubDate>Tue, 03 Mar 2026 20:53:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 men arrested in Cincinnati nightclub shooting are facing federal charges]]></title>
-<link>https://apnews.com/article/ohio-cincinnati-shooting-f2fc1e9a153b67611621739a2faf68aa</link>
-<pubDate>Tue, 03 Mar 2026 20:38:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US soldiers who died in Iran war remembered as devoted parents and reservists]]></title>
-<link>https://apnews.com/article/us-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3</link>
-<pubDate>Wed, 04 Mar 2026 00:20:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Military families anxious about unknowns of Iran war, proud of their service members]]></title>
 <link>https://apnews.com/article/iran-war-fort-campbell-trump-639c13a3e3fa93c0df52acc028b39123</link>
 <pubDate>Tue, 03 Mar 2026 23:30:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from the first elections of the 2026 midterm campaigns]]></title>
+<link>https://apnews.com/article/senate-primaries-texas-north-carolina-iran-trump-65ea095df05d3a537e71fefa7aa9aec1</link>
+<pubDate>Wed, 04 Mar 2026 11:49:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Change in primary voting rules leads to confusion in 2 Texas counties as voters are turned away]]></title>
+<link>https://apnews.com/article/texas-midterms-voters-polls-democrats-republicans-5ffabf9d6b60d42d4fc84b9c06d93ae4</link>
+<pubDate>Wed, 04 Mar 2026 11:34:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US maternal deaths fell in 2024 and may have dropped again last year, government data shows]]></title>
+<link>https://apnews.com/article/us-maternal-deaths-cdc-0aed9bfcee5e91fbc5be15024ca2b8b2</link>
+<pubDate>Wed, 04 Mar 2026 11:19:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Funding for Africa clean energy financing surges despite fewer project approvals]]></title>
+<link>https://apnews.com/article/renewable-energy-africa-funding-sefa-climate-0947a10179329eab4e47cdde9a6285b5</link>
+<pubDate>Wed, 04 Mar 2026 11:49:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A first repatriation flight brings stranded French citizens home as war in Iran disrupts travel]]></title>
+<link>https://apnews.com/article/iran-war-middle-east-travel-stranded-dba77afeee3d0b3d1b8a7956e1b2bc89</link>
+<pubDate>Wed, 04 Mar 2026 11:34:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran player Sara Didar holds back tears responding to a war-related question at Women’s Asian Cup]]></title>
 <link>https://apnews.com/article/iran-soccer-womens-asian-cup-australia-d9f23186baad32bdcceb01952d02556f</link>
 <pubDate>Wed, 04 Mar 2026 07:08:36 -0000</pubDate>
@@ -215,9 +227,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US soldiers were killed in Iranian drone strike on operations center at Kuwait civilian port]]></title>
+<title><![CDATA[US soldiers were killed in an Iranian drone strike at a civilian port in Kuwait]]></title>
 <link>https://apnews.com/article/slain-soldiers-iran-drone-strike-kuwait-7b65d5b6c3c3097e2a43972f91ae4cbf</link>
-<pubDate>Wed, 04 Mar 2026 03:35:37 -0000</pubDate>
+<pubDate>Wed, 04 Mar 2026 11:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Holi, the Hindu festival of colors]]></title>
-<link>https://apnews.com/article/holi-festival-of-colors-explained-7d3793f4b484077a99150555b23af9e3</link>
-<pubDate>Tue, 03 Mar 2026 07:13:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 killed and 3 hurt in helicopter emergency landing in Philippines]]></title>
-<link>https://apnews.com/article/philippines-helicopter-emergency-landing-337d546bc7ce60676bbf636c141d049b</link>
-<pubDate>Tue, 03 Mar 2026 06:58:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel targets Iran’s security forces and leadership as Iran presses attacks across the region]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85</link>
 <pubDate>Wed, 04 Mar 2026 07:08:37 -0000</pubDate>
@@ -473,15 +473,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain’s Sánchez stands firm on opposition to war in Iran despite Trump’s trade threat]]></title>
+<title><![CDATA[Spain’s Sánchez says ‘no to the war’ in Iran despite Trump’s trade threat]]></title>
 <link>https://apnews.com/article/iran-trump-spain-war-sanchez-bases-26c3132777225c4e473f090b7ab07037</link>
-<pubDate>Wed, 04 Mar 2026 08:45:58 -0000</pubDate>
+<pubDate>Wed, 04 Mar 2026 11:49:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nepalis are set to vote in the first election after protests ousted the previous government]]></title>
-<link>https://apnews.com/article/nepal-election-parliament-government-5f8e4088fb4b6a88161289eac9c7f924</link>
-<pubDate>Wed, 04 Mar 2026 08:30:58 -0000</pubDate>
+<title><![CDATA[Canadian prime minister calls Iran war an extreme example of a rupturing world order]]></title>
+<link>https://apnews.com/article/australia-carney-canada-iran-regret-ab529749962be194ad9501cbcac6f9e9</link>
+<pubDate>Wed, 04 Mar 2026 11:34:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Father who gave gun to Georgia school shooting suspect for Christmas is guilty of 2nd-degree murder]]></title>
-<link>https://apnews.com/article/georgia-school-shooting-trial-colin-gray-e9afe6e8289f474aa474242ee4bdca67</link>
-<pubDate>Tue, 03 Mar 2026 16:08:11 -0000</pubDate>
+<title><![CDATA[US soldiers who died in Iran war remembered as devoted parents and reservists]]></title>
+<link>https://apnews.com/article/us-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3</link>
+<pubDate>Wed, 04 Mar 2026 11:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
