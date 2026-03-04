@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 19:53:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 20:21:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[State Department urges US citizens in more than a dozen Middle Eastern countries to leave]]></title>
 <link>https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026</link>
@@ -35,15 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli military orders immediate evacuations in southern Lebanon as strikes on Beirut intensify]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-litani-evacuation-hazmieh-f61d22f9bc723b9bae1865a14e3c1139</link>
-<pubDate>Wed, 04 Mar 2026 17:05:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Anxious travelers scramble as Iran war strands hundreds of thousands across the Middle East]]></title>
-<link>https://apnews.com/article/iran-war-middle-east-travel-7fa70acc92e8250c36b64d7809ef013c</link>
-<pubDate>Wed, 04 Mar 2026 15:29:16 -0000</pubDate>
+<title><![CDATA[How Trump’s anger with Starmer over Iran may rattle the US-UK ‘special relationship’]]></title>
+<link>https://apnews.com/article/trump-starmer-us-uk-special-relationship-iran-2b5be4d200f7c0b081f9f5a59f260efc</link>
+<pubDate>Wed, 04 Mar 2026 20:21:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trinidad and Tobago declares new state of emergency over persistent violent crime]]></title>
+<link>https://apnews.com/article/trinidad-state-of-emergency-tobago-crime-gangs-kamla-4a8777b64acd62d3d2ebca44cb779a0f</link>
+<pubDate>Wed, 04 Mar 2026 20:06:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[4 former Argentine navy officers face trial for 2017 submarine sinking that killed 44 crew members]]></title>
 <link>https://apnews.com/article/argentina-submarine-ara-san-juan-navy-trial-6d542abce84718a8828cec7fb0922b45</link>
 <pubDate>Tue, 03 Mar 2026 19:32:33 -0000</pubDate>
@@ -119,9 +119,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military families anxious about unknowns of Iran war, proud of their service members]]></title>
-<link>https://apnews.com/article/iran-war-fort-campbell-trump-639c13a3e3fa93c0df52acc028b39123</link>
-<pubDate>Tue, 03 Mar 2026 23:30:54 -0000</pubDate>
+<title><![CDATA[Texan James Talarico becomes a fresh face of Democrats’ midterm hopes after Senate primary win]]></title>
+<link>https://apnews.com/article/james-talarico-texas-senate-cornyn-crockett-08c8716aed7e66c29d7e29f2c035ac5d</link>
+<pubDate>Wed, 04 Mar 2026 14:44:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gov. Tim Walz tells a House panel the Trump immigration crackdown hampered Minnesota’s fraud fight]]></title>
+<link>https://apnews.com/article/walz-fraud-trump-minnesota-immigration-08abbae9e2dc58db4d8d75ce402092b1</link>
+<pubDate>Wed, 04 Mar 2026 19:51:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Texan James Talarico becomes a fresh face of Democrats’ midterm hopes after Senate primary win]]></title>
-<link>https://apnews.com/article/james-talarico-texas-senate-cornyn-crockett-08c8716aed7e66c29d7e29f2c035ac5d</link>
-<pubDate>Wed, 04 Mar 2026 14:44:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An Arkansas man accused of killing his daughter’s alleged abuser wins GOP sheriff’s nomination]]></title>
-<link>https://apnews.com/article/arkansas-sheriff-election-aaron-spencer-murder-d300d72d379e82e96aeb651f587a35a7</link>
-<pubDate>Wed, 04 Mar 2026 16:05:29 -0000</pubDate>
+<title><![CDATA[Lawsuit alleges Google’s Gemini guided man to consider ‘mass casualty’ event before suicide]]></title>
+<link>https://apnews.com/article/google-gemini-ai-chatbot-gavalas-lawsuit-aba0587b782d4424aa780a8612f3fe30</link>
+<pubDate>Wed, 04 Mar 2026 19:36:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -239,9 +239,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Everything you need to know about Apple’s ‘big week’ of product launches]]></title>
+<title><![CDATA[Apple’s ‘big week’ launches a pair of $599 devices aimed at budget buyers]]></title>
 <link>https://apnews.com/article/apple-iphone17e-macbook-monitors-ipad-e52b1d9b4df4c0bc6b40b11dc155450b</link>
-<pubDate>Wed, 04 Mar 2026 17:05:29 -0000</pubDate>
+<pubDate>Wed, 04 Mar 2026 20:21:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -290,6 +290,12 @@
 <title><![CDATA[Iran player Sara Didar holds back tears responding to a war-related question at Women’s Asian Cup]]></title>
 <link>https://apnews.com/article/iran-soccer-womens-asian-cup-australia-d9f23186baad32bdcceb01952d02556f</link>
 <pubDate>Wed, 04 Mar 2026 07:08:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The Iran war has upended flights across the Middle East. Here’s what travelers should know]]></title>
+<link>https://apnews.com/article/travel-iran-middle-east-war-flight-6c16a15a7f4a90022064dd26c405b956</link>
+<pubDate>Wed, 04 Mar 2026 20:06:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Military families anxious about unknowns of Iran war, proud of their service members]]></title>
+<link>https://apnews.com/article/iran-war-fort-campbell-trump-639c13a3e3fa93c0df52acc028b39123</link>
+<pubDate>Wed, 04 Mar 2026 19:51:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[St. Vincent did not give US authorization for deadly boat strikes, prime minister says]]></title>
 <link>https://apnews.com/article/caribbean-us-boat-strikes-st-vincent-migrants-cuba-1d51c9d8c11309b624b6c2445b105192</link>
 <pubDate>Tue, 03 Mar 2026 20:53:10 -0000</pubDate>
@@ -359,21 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens to cut off trade with Spain after it disallowed US use of joint bases in Iran war]]></title>
-<link>https://apnews.com/article/trump-spain-iran-trade-defense-nato-spending-43e0f13e7b1c7e6ebcc4b558474aacdc</link>
-<pubDate>Tue, 03 Mar 2026 21:33:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Macron orders France’s nuclear-powered aircraft carrier to the Mediterranean]]></title>
-<link>https://apnews.com/article/france-macron-aircraft-carrier-charles-de-gaulle-mediterranean-dd185933de5e5cee87828768c0046fba</link>
-<pubDate>Tue, 03 Mar 2026 19:32:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US sinks Iranian warship as Iran warns of widespread destruction in the Middle East]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85</link>
 <pubDate>Wed, 04 Mar 2026 15:29:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kurdish dissident groups say they are preparing to join the fight against Iran with US support]]></title>
+<link>https://apnews.com/article/kurdish-dissident-groups-iran-war-iraq-f76efe372becb7d80d3ed026791e67ba</link>
+<pubDate>Wed, 04 Mar 2026 20:21:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -386,12 +392,6 @@
 <title><![CDATA[Iran war taxes US diplomatic work and leaves Americans in the Mideast in limbo]]></title>
 <link>https://apnews.com/article/embassies-iran-state-department-strikes-travel-1ce7865cb17bf201025aab98a17afb74</link>
 <pubDate>Tue, 03 Mar 2026 19:32:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The Iran war has upended flights across the Middle East. Here’s what travelers should know]]></title>
-<link>https://apnews.com/article/travel-iran-middle-east-war-flight-6c16a15a7f4a90022064dd26c405b956</link>
-<pubDate>Wed, 04 Mar 2026 06:53:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,21 +413,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Country by country, here’s how the unfolding war is affecting the Middle East and beyond]]></title>
+<link>https://apnews.com/article/iran-us-war-israel-strait-or-hormuz-deaths-f1619c6bfbbd5fe10857ff0af073aa0e</link>
+<pubDate>Wed, 04 Mar 2026 20:06:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel warns residents in dozens of Lebanese border villages to evacuate as strikes intensify]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-litani-evacuation-hazmieh-f61d22f9bc723b9bae1865a14e3c1139</link>
+<pubDate>Wed, 04 Mar 2026 19:51:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia blames Ukrainian sea drones after tanker explodes and sinks in the Mediterranean]]></title>
 <link>https://apnews.com/article/russia-libya-lng-carrier-arctic-metagaz-e40477839f7e8c5863492ec6de2b95de</link>
 <pubDate>Wed, 04 Mar 2026 19:09:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Trump’s anger with Starmer over Iran may rattle the US-UK ‘special relationship’]]></title>
-<link>https://apnews.com/article/trump-starmer-us-uk-special-relationship-iran-2b5be4d200f7c0b081f9f5a59f260efc</link>
-<pubDate>Wed, 04 Mar 2026 13:18:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[From Karachi to Beirut, Khamenei’s death sends shockwaves across the Shiite world]]></title>
-<link>https://apnews.com/article/iran-strikes-shiite-lebanon-pakistan-iraq-israel-e3d7546954143b0e9cb96c09ff24065f</link>
-<pubDate>Tue, 03 Mar 2026 17:23:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[White House says Spain agrees to cooperate with US operations in Middle East]]></title>
+<title><![CDATA[Spain’s government denies cooperating with US operations in Mideast, contradicting White House]]></title>
 <link>https://apnews.com/article/iran-trump-spain-war-sanchez-bases-26c3132777225c4e473f090b7ab07037</link>
-<pubDate>Wed, 04 Mar 2026 18:24:29 -0000</pubDate>
+<pubDate>Wed, 04 Mar 2026 19:36:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trinidad and Tobago declares new state of emergency over persistent violent crime]]></title>
-<link>https://apnews.com/article/trinidad-state-of-emergency-tobago-crime-gangs-kamla-4a8777b64acd62d3d2ebca44cb779a0f</link>
-<pubDate>Tue, 03 Mar 2026 15:07:30 -0000</pubDate>
+<title><![CDATA[US interior secretary is in Venezuela to discuss critical minerals]]></title>
+<link>https://apnews.com/article/venezuela-us-burgum-rodriguez-trump-minerals-dc9193f2832ad8ceafbfa551f078bfdd</link>
+<pubDate>Wed, 04 Mar 2026 19:21:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
