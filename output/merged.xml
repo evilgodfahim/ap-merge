@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 23:49:07 GMT</lastBuildDate>
-<item>
-<title><![CDATA[State Department urges US citizens in more than a dozen Middle Eastern countries to leave]]></title>
-<link>https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026</link>
-<pubDate>Mon, 02 Mar 2026 23:45:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 05 Mar 2026 01:08:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pentagon releases the names of 4 killed troops and says they died in a drone strike in Kuwait]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-03-2026</link>
@@ -29,21 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Senate rejects war powers bill to halt attacks against Iran]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-lebanon-march-04-2026</link>
+<pubDate>Thu, 05 Mar 2026 01:08:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As Mideast conflict widens, US says attacks on Iran will last weeks and intensify]]></title>
 <link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
 <pubDate>Tue, 03 Mar 2026 13:51:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Trump’s anger with Starmer over Iran may rattle the US-UK ‘special relationship’]]></title>
-<link>https://apnews.com/article/trump-starmer-us-uk-special-relationship-iran-2b5be4d200f7c0b081f9f5a59f260efc</link>
-<pubDate>Wed, 04 Mar 2026 20:21:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Governments scramble to bring citizens home during travel chaos caused by war in the Middle East]]></title>
+<title><![CDATA[Repatriation flights ramp up as nations race to bring citizens home from Middle East]]></title>
 <link>https://apnews.com/article/iran-war-middle-east-travel-stranded-dba77afeee3d0b3d1b8a7956e1b2bc89</link>
-<pubDate>Wed, 04 Mar 2026 15:14:16 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 00:53:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +77,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ecuador declares Cuba’s ambassador ‘persona non grata,’ orders mission to leave the country]]></title>
-<link>https://apnews.com/article/ecuador-cuba-trump-noboa-bc7b4bab79e54a39bb8f18d683105b22</link>
-<pubDate>Wed, 04 Mar 2026 22:39:44 -0000</pubDate>
+<title><![CDATA[Brazil’s Congress ratifies EU-Mercosur trade deal]]></title>
+<link>https://apnews.com/article/brazil-mercosur-european-union-trade-deal-b73403ac02c83f38d8336a3d7cce0f00</link>
+<pubDate>Thu, 05 Mar 2026 00:38:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +131,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Camp Mystic victim’s family asks a Texas judge to prevent the facility from reopening]]></title>
+<title><![CDATA[Texas judge declines to close Camp Mystic at family’s request after last year’s floods]]></title>
 <link>https://apnews.com/article/camp-mystic-texas-floods-lawsuit-a9058c9979697bc36c6b464d5294af45</link>
-<pubDate>Wed, 04 Mar 2026 21:54:44 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 00:23:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +182,24 @@
 <title><![CDATA[Canadian Prime Minister Mark Carney arrives in India to repair a strained relationship]]></title>
 <link>https://apnews.com/article/india-canada-modi-carney-trade-tariffs-diversify-83ee6bc8498e8c185b39b09b01dc55c7</link>
 <pubDate>Fri, 27 Feb 2026 11:20:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[North Korean leader Kim inspects new warship, claims progress toward nuclear-armed navy]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-destroyer-nuclear-f3bca713aa647eb41b8ec95b0c59eb8d</link>
+<pubDate>Thu, 05 Mar 2026 01:08:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[American Airlines gets approval to resume regular flights to Venezuela]]></title>
+<link>https://apnews.com/article/american-airlines-venezuela-trump-flights-faa-51b41eaee733a8adf068d68bf7d24984</link>
+<pubDate>Thu, 05 Mar 2026 00:53:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Florida revives a long-dormant probe into Raul Castro over 1996 shootdown of exile group’s plane]]></title>
+<link>https://apnews.com/article/florida-cuba-investigation-brothers-to-rescue-shootdown-e4e217b26a0a20a0e6f4adc9318e9a87</link>
+<pubDate>Thu, 05 Mar 2026 00:38:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -263,9 +275,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US and Ecuador launch military operation against organized crime groups]]></title>
+<title><![CDATA[US and Ecuador launch a joint military operation against organized crime groups]]></title>
 <link>https://apnews.com/article/us-ecuador-military-operation-drugs-organized-crime-43cd71e72057273437075429dcdc20c5</link>
-<pubDate>Wed, 04 Mar 2026 15:29:17 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 00:23:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -290,6 +302,12 @@
 <title><![CDATA[Greek court upholds criminal convictions for far-right Golden Dawn party]]></title>
 <link>https://apnews.com/article/greece-politics-golden-dawn-court-crime-52c2af8ddb635a5f902d9cecc3ec5671</link>
 <pubDate>Wed, 04 Mar 2026 13:48:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How Trump’s anger with Starmer over Iran may rattle the US-UK ‘special relationship’]]></title>
+<link>https://apnews.com/article/trump-starmer-us-uk-special-relationship-iran-2b5be4d200f7c0b081f9f5a59f260efc</link>
+<pubDate>Thu, 05 Mar 2026 00:08:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,30 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tensions flare as lawmakers question Iran war’s costs, risks and strategy]]></title>
-<link>https://apnews.com/article/iran-war-marco-rubio-middle-east-9b9dfac9c40c8cf171e229e0a0a6980f</link>
-<pubDate>Wed, 04 Mar 2026 03:20:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says ‘someone from within’ Iranian regime might be best choice to lead once war ends]]></title>
-<link>https://apnews.com/article/trump-iran-regime-change-merz-87bfc28fa0498dff198895bac31f75c7</link>
-<pubDate>Tue, 03 Mar 2026 22:18:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-march-3-2026-ab80edc4e87fae1d862b4d22f74d188c</link>
-<pubDate>Tue, 03 Mar 2026 22:03:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dior’s Jonathan Anderson finds his stride with a garden of earthly delights at Paris Fashion Week]]></title>
-<link>https://apnews.com/article/paris-dior-fashion-week-d2be6583659b71b4b67c04480c6d91cf</link>
-<pubDate>Tue, 03 Mar 2026 21:48:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US sinks Iranian warship as Iran warns of widespread destruction in the Middle East]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85</link>
 <pubDate>Wed, 04 Mar 2026 15:29:18 -0000</pubDate>
@@ -389,9 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war taxes US diplomatic work and leaves Americans in the Mideast in limbo]]></title>
-<link>https://apnews.com/article/embassies-iran-state-department-strikes-travel-1ce7865cb17bf201025aab98a17afb74</link>
-<pubDate>Tue, 03 Mar 2026 19:32:35 -0000</pubDate>
+<title><![CDATA[Stranded travelers in the Middle East share their accounts of being stuck during the war]]></title>
+<link>https://apnews.com/article/stranded-travelers-iran-war-middle-east-38cbb9babed49fad08949bba8aef3d50</link>
+<pubDate>Thu, 05 Mar 2026 01:08:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Millions left without power after major blackout hits Cuba’s western region]]></title>
+<link>https://apnews.com/article/cuba-blackout-power-outage-havana-western-island-f7d1a4927bbcefb774ccf34dbbc9a794</link>
+<pubDate>Wed, 04 Mar 2026 22:54:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Elon Musk takes stand in Twitter shareholder trial accusing him of deflating stock before purchase]]></title>
+<title><![CDATA[Elon Musk defends himself against accusations of misconduct leading up to Twitter takeover]]></title>
 <link>https://apnews.com/article/elon-musk-twitter-lawsuit-shareholders-stock-3fa8783666737839cdd7331fec1bf61d</link>
-<pubDate>Wed, 04 Mar 2026 18:39:29 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 00:53:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Millions left without power after major blackout hits Cuba’s western region]]></title>
-<link>https://apnews.com/article/cuba-blackout-power-outage-havana-western-island-f7d1a4927bbcefb774ccf34dbbc9a794</link>
-<pubDate>Wed, 04 Mar 2026 22:54:45 -0000</pubDate>
+<title><![CDATA[Ecuador declares Cuba’s ambassador ‘persona non grata,’ orders mission to leave the country]]></title>
+<link>https://apnews.com/article/ecuador-cuba-trump-noboa-bc7b4bab79e54a39bb8f18d683105b22</link>
+<pubDate>Thu, 05 Mar 2026 00:38:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
