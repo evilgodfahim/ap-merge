@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 07:57:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 08:36:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pentagon releases the names of 4 killed troops and says they died in a drone strike in Kuwait]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-03-2026</link>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[At least 200 dead in a Congo coltan mine collapse, authorities say, as rebels dispute toll]]></title>
+<link>https://apnews.com/article/congo-rubaya-collapse-7b1e24f3d071a20b4865832bfec122f1</link>
+<pubDate>Thu, 05 Mar 2026 08:36:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[26 Doctors without Borders workers remain unaccounted for in South Sudan a month after attacks]]></title>
 <link>https://apnews.com/article/south-sudan-msf-aid-workers-unaccounted-for-b9df50eaa5df080080cc2dd6d26b13bb</link>
 <pubDate>Wed, 04 Mar 2026 05:53:35 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Conservative Anglican leaders meet in Nigeria, facing debate on a possible breakaway]]></title>
 <link>https://apnews.com/article/anglican-communion-divisions-africa-lgbtq-gender-2a539fcf903ad9a07a7f825649dd882e</link>
 <pubDate>Mon, 02 Mar 2026 23:30:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[169 people killed after insurgents raid a village in a remote area of South Sudan]]></title>
-<link>https://apnews.com/article/south-sudan-violence-insurgents-69a8a9bf191c0c2d8583fbc37ff9ae70</link>
-<pubDate>Tue, 03 Mar 2026 10:13:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,12 +242,6 @@
 <title><![CDATA[Florida revives a long-dormant probe into Raul Castro over 1996 shootdown of exile group’s plane]]></title>
 <link>https://apnews.com/article/florida-cuba-investigation-brothers-to-rescue-shootdown-e4e217b26a0a20a0e6f4adc9318e9a87</link>
 <pubDate>Thu, 05 Mar 2026 00:38:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 200 dead in a Congo coltan mine collapse, authorities say, as rebels dispute toll]]></title>
-<link>https://apnews.com/article/congo-rubaya-collapse-7b1e24f3d071a20b4865832bfec122f1</link>
-<pubDate>Wed, 04 Mar 2026 22:54:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran launches new wave of attacks and says US will ‘bitterly regret’ sinking Iranian sub]]></title>
+<title><![CDATA[Carney says he backs strikes on Iran ‘with some regret’ as world order frays]]></title>
+<link>https://apnews.com/article/australia-carney-canada-iran-regret-ab529749962be194ad9501cbcac6f9e9</link>
+<pubDate>Thu, 05 Mar 2026 01:54:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran launches new attacks, saying US will ‘bitterly regret’ sinking warship, calls for Trump’s blood]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615</link>
-<pubDate>Thu, 05 Mar 2026 07:12:58 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 08:36:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Polls open in Nepal’s first election after last year’s youth-led protests toppled the government]]></title>
+<title><![CDATA[Voting peaceful in first Nepal election since September youth-led protests]]></title>
 <link>https://apnews.com/article/nepal-shah-oli-protests-election-58cac72e25490c8c6363626a7dc10171</link>
-<pubDate>Thu, 05 Mar 2026 06:42:58 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 08:21:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
