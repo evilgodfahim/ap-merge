@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 03:39:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 05:07:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pentagon releases the names of 4 killed troops and says they died in a drone strike in Kuwait]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-03-2026</link>
 <pubDate>Tue, 03 Mar 2026 23:45:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Macron says France will allow temporary deployment of nuclear-armed jets to European allies]]></title>
-<link>https://apnews.com/article/france-nuclear-weapons-macron-deterrence-ccbcfb03ef4a1e3efe287fb744adb148</link>
-<pubDate>Tue, 03 Mar 2026 13:21:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Macron says France will allow temporary deployment of nuclear-armed jets to European allies]]></title>
+<link>https://apnews.com/article/france-nuclear-weapons-macron-deterrence-ccbcfb03ef4a1e3efe287fb744adb148</link>
+<pubDate>Tue, 03 Mar 2026 13:21:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What China’s response to the US attack on Iran says about its foreign policy]]></title>
 <link>https://apnews.com/article/china-position-us-iran-attack-1042fa7295500f90ecd6285d552da349</link>
 <pubDate>Wed, 04 Mar 2026 06:53:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As Mideast conflict widens, US says attacks on Iran will last weeks and intensify]]></title>
-<link>https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa</link>
-<pubDate>Tue, 03 Mar 2026 13:51:26 -0000</pubDate>
+<title><![CDATA[Explosions sound in the Iranian capital as war with US and Israel enters a fifth day]]></title>
+<link>https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23</link>
+<pubDate>Wed, 04 Mar 2026 08:26:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,18 @@
 <title><![CDATA[Canadian Prime Minister Mark Carney arrives in India to repair a strained relationship]]></title>
 <link>https://apnews.com/article/india-canada-modi-carney-trade-tariffs-diversify-83ee6bc8498e8c185b39b09b01dc55c7</link>
 <pubDate>Fri, 27 Feb 2026 11:20:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[House to vote on Iran war powers resolution in a test of Trump’s strategy]]></title>
+<link>https://apnews.com/article/house-vote-iran-war-powers-resolution-trump-5d7d93c7793802881d9cde042220d7bc</link>
+<pubDate>Thu, 05 Mar 2026 05:07:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Punch the orphan macaque is outgrowing his plushie and making friends]]></title>
+<link>https://apnews.com/article/japan-baby-monkey-zoo-7911e0597837b97199a810601f91c35d</link>
+<pubDate>Thu, 05 Mar 2026 04:52:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Funding for Africa clean energy financing surges despite fewer project approvals]]></title>
-<link>https://apnews.com/article/renewable-energy-africa-funding-sefa-climate-0947a10179329eab4e47cdde9a6285b5</link>
-<pubDate>Wed, 04 Mar 2026 11:49:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa’s anti-apartheid veteran and ex-defense minister Mosiuoa ‘Terror’ Lekota dies at 77]]></title>
-<link>https://apnews.com/article/south-africa-mosiuoa-lekota-antiapartheid-activist-obit-b1e2c80f029c3517aba59429eda36f30</link>
-<pubDate>Wed, 04 Mar 2026 14:29:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran launches missiles at Israel as attacks in Middle East commence for a sixth day]]></title>
+<title><![CDATA[Iran launches missiles at Israel and US bases as Israeli military begins new strikes in Lebanon]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85</link>
-<pubDate>Thu, 05 Mar 2026 03:39:10 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 05:07:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Honduras weighs shift in China-Taiwan ties as Trump pushes for US dominance in Latin America]]></title>
-<link>https://apnews.com/article/honduras-asfura-trump-china-taiwan-shrimp-farmers-78b00ac7a11b86174a32754de9de75bc</link>
-<pubDate>Thu, 05 Mar 2026 03:24:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Millions left without power after major blackout hits Cuba’s western region]]></title>
 <link>https://apnews.com/article/cuba-blackout-power-outage-havana-western-island-f7d1a4927bbcefb774ccf34dbbc9a794</link>
 <pubDate>Wed, 04 Mar 2026 22:54:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China sets a lower economic growth target of 4.5% to 5% for 2026 as challenges loom]]></title>
+<link>https://apnews.com/article/china-congress-economy-gdp-trump-target-1822006cd39ff43505fa9a47a4581a16</link>
+<pubDate>Thu, 05 Mar 2026 02:24:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China sets a lower economic growth target of 4.5% to 5% for 2026 as challenges loom]]></title>
-<link>https://apnews.com/article/china-congress-economy-gdp-trump-target-1822006cd39ff43505fa9a47a4581a16</link>
-<pubDate>Thu, 05 Mar 2026 02:24:10 -0000</pubDate>
+<title><![CDATA[Honduras weighs shift in China-Taiwan ties as Trump pushes for US dominance in Latin America]]></title>
+<link>https://apnews.com/article/honduras-asfura-trump-china-taiwan-shrimp-farmers-78b00ac7a11b86174a32754de9de75bc</link>
+<pubDate>Thu, 05 Mar 2026 03:24:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
