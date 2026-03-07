@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 13:52:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 14:14:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India]]></title>
 <link>https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine’s low-cost Shahed killers draw US and Gulf interest, but a wartime ban blocks sales]]></title>
+<link>https://apnews.com/article/iran-ukraine-shahed-russia-drone-defenses-war-76c91cad24bb98dd201f8f37a93c3464</link>
+<pubDate>Sat, 07 Mar 2026 14:14:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
 <link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
 <pubDate>Sat, 07 Mar 2026 08:51:05 -0000</pubDate>
@@ -53,9 +59,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope names veteran Vatican diplomat as ambassador to the US to manage relations with Trump]]></title>
-<link>https://apnews.com/article/pope-vatican-trump-un-iran-migration-2dd44300cecc8d1b7ef7b1f7391dfa6f</link>
-<pubDate>Sat, 07 Mar 2026 13:11:32 -0000</pubDate>
+<title><![CDATA[China’s Xi calls for political loyalty in the military as anti-corruption purge widens]]></title>
+<link>https://apnews.com/article/china-congress-military-purge-jinping-1f13700eec749f9476810a878368a62a</link>
+<pubDate>Sat, 07 Mar 2026 13:59:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +74,6 @@
 <title><![CDATA[Ex-rapper’s political party leads early results in Nepal’s first election since 2025 youth revolt]]></title>
 <link>https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9</link>
 <pubDate>Sat, 07 Mar 2026 05:55:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan says a second Japanese person is detained in Iran and demands their early release]]></title>
-<link>https://apnews.com/article/japan-iran-war-detention-7642e3f0749c970dd666a7a80dc46659</link>
-<pubDate>Fri, 06 Mar 2026 06:55:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,21 +125,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[4 dead in Michigan as powerful storms that produced at least 1 tornado rip through the state]]></title>
+<title><![CDATA[Families with missing loved ones like Nancy Guthrie face ambiguous loss. It freezes grief]]></title>
+<link>https://apnews.com/article/savannah-guthrie-mom-missing-nancy-guthrie-facf37e831fc39133846b4efd2115aca</link>
+<pubDate>Sat, 07 Mar 2026 13:44:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection]]></title>
 <link>https://apnews.com/article/severe-weather-storm-tornado-midwest-oklahoma-f4666951e5ef045520e839923b788cba</link>
-<pubDate>Sat, 07 Mar 2026 05:40:27 -0000</pubDate>
+<pubDate>Sat, 07 Mar 2026 13:29:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[As citizen voting bill stalls in US Senate, some states forge ahead]]></title>
 <link>https://apnews.com/article/proof-citizenship-voting-us-elections-trump-4688881c23d4ea64654cd24aacb47339</link>
 <pubDate>Sat, 07 Mar 2026 05:25:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Attempted suicides, fights, pain: 911 calls reveal misery at ICE’s largest detention facility]]></title>
-<link>https://apnews.com/article/suicide-ice-detention-centers-b2d1cb0e4b579e0d89caabd00aa04e34</link>
-<pubDate>Fri, 06 Mar 2026 05:10:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Swedish authorities investigate a cargo ship they believe is stateless]]></title>
+<title><![CDATA[Sweden is investigating a cargo ship that allegedly transported stolen grain with a Russian crew]]></title>
 <link>https://apnews.com/article/sweden-baltic-sea-caffa-stateless-vessel-95028e736d1dc93b1587ed49d18e2a2a</link>
-<pubDate>Sat, 07 Mar 2026 13:11:33 -0000</pubDate>
+<pubDate>Sat, 07 Mar 2026 14:14:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,15 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as a son of Iran’s late supreme leader is a possible candidate to replace his father]]></title>
-<link>https://apnews.com/article/iran-us-mojtaba-khamenei-supreme-leader-a2de686507c9179788d2a8793c8414a0</link>
-<pubDate>Fri, 06 Mar 2026 07:10:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli family who buried 3 of their children after missile attack clings to faith]]></title>
-<link>https://apnews.com/article/israel-iran-war-children-killed-beit-shemesh-bc7c276d30d67e011867b5d328ffcdba</link>
-<pubDate>Fri, 06 Mar 2026 08:10:11 -0000</pubDate>
+<title><![CDATA[Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-ron-arad-nabi-chit-9054b777cb2d853e9a58cd65a71adb12</link>
+<pubDate>Sat, 07 Mar 2026 14:14:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,12 +452,6 @@
 <title><![CDATA[MrBeast’s company fired a video editor after Kalshi accused the employee of insider trading]]></title>
 <link>https://apnews.com/article/mrbeast-jimmy-donaldson-kalshi-7a8bb7e2aecee7428bcc2dd1eb08ac67</link>
 <pubDate>Sat, 07 Mar 2026 07:51:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Knitting for healing, one stitch at a time]]></title>
-<link>https://apnews.com/article/kenya-breast-cancer-knitting-prosthesis-03743a2eed47cf51e8ce5cfdb0d119a3</link>
-<pubDate>Thu, 05 Mar 2026 08:58:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
