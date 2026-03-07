@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Mar 2026 23:46:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 01:03:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India]]></title>
 <link>https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb</link>
 <pubDate>Thu, 05 Mar 2026 21:57:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Senate rejects war powers bill to halt attacks against Iran]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-lebanon-march-04-2026</link>
-<pubDate>Thu, 05 Mar 2026 01:08:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,21 +23,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia has provided Iran with information that can help Tehran strike US military, AP sources say]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-lebanon-03-06-2026</link>
+<pubDate>Sat, 07 Mar 2026 01:03:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ecuador declares Cuba’s ambassador ‘persona non grata,’ orders mission to leave the country]]></title>
 <link>https://apnews.com/article/ecuador-cuba-trump-noboa-bc7b4bab79e54a39bb8f18d683105b22</link>
 <pubDate>Wed, 04 Mar 2026 22:39:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the Kurds and their potential involvement in the Iran war]]></title>
-<link>https://apnews.com/article/iran-war-kurds-trump-iraq-turkey-c97d75e59e640b627144ec796f48772e</link>
-<pubDate>Fri, 06 Mar 2026 22:17:13 -0000</pubDate>
+<title><![CDATA[Man convicted in political assassination plot he tied to Iranian paramilitary]]></title>
+<link>https://apnews.com/article/assassinations-plot-trump-biden-iran-asif-merchant-2e15428827dd6c05eedef4929a1ce822</link>
+<pubDate>Sat, 07 Mar 2026 00:48:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary temporarily detains 7 Ukrainians and seizes $80 million cash shipment, angering Kiev]]></title>
+<title><![CDATA[Hungary temporarily detains 7 Ukrainians and seizes $80 million cash shipment, angering Kyiv]]></title>
 <link>https://apnews.com/article/ukraine-cash-shipment-detained-hungary-745c17643b9a0965024d7a8410c5fc17</link>
-<pubDate>Fri, 06 Mar 2026 20:37:19 -0000</pubDate>
+<pubDate>Sat, 07 Mar 2026 00:33:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Storms rip through Oklahoma as even more intense weather is possible Friday across the central US]]></title>
-<link>https://apnews.com/article/severe-weather-storm-tornado-midwest-oklahoma-f4666951e5ef045520e839923b788cba</link>
-<pubDate>Fri, 06 Mar 2026 16:02:14 -0000</pubDate>
+<title><![CDATA[A wedding proposal and a promotion honored a Coast Guardsman before he died of injuries from mission]]></title>
+<link>https://apnews.com/article/coast-guard-rescue-swimmer-wedding-proposal-fall-bd69f8d59a75f8a6295a501732fd6e31</link>
+<pubDate>Sat, 07 Mar 2026 00:18:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Americans stuck in the Middle East recount finding their way home with little government help]]></title>
-<link>https://apnews.com/article/stranded-travelers-us-response-iran-war-b7a5da348d4fee76ac4a662bc16cf627</link>
-<pubDate>Fri, 06 Mar 2026 15:47:14 -0000</pubDate>
+<title><![CDATA[Noem’s firing is little comfort to Minneapolis residents struggling to recover from crackdown]]></title>
+<link>https://apnews.com/article/minnesota-immigration-business-crackdown-kristi-noem-fired-6dead96cd2bca4b5384b0ad3244c5ece</link>
+<pubDate>Sat, 07 Mar 2026 00:03:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,18 @@
 <title><![CDATA[Samson powers India to semifinals at T20 World Cup with 5-wicket win over West Indies]]></title>
 <link>https://apnews.com/article/t20-world-cup-africa-zimbabwe-india-wi-de7637c3b857fe7471dbd805104c6be1</link>
 <pubDate>Tue, 03 Mar 2026 00:09:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Canadian Prime Minister Mark Carney calls for Mountbatten-Windsor’s removal from line of succession]]></title>
+<link>https://apnews.com/article/canada-carney-andrew-succession-a7dc4996e0c091e956bcf0daf39c56ad</link>
+<pubDate>Sat, 07 Mar 2026 01:03:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fire burns cabanas and shops in town on Mexico’s Pacific coast]]></title>
+<link>https://apnews.com/article/fire-mexico-punta-zicatela-oaxaca-d16727aa834ec84b32ab6cb0b1db4614</link>
+<pubDate>Sat, 07 Mar 2026 00:48:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -248,6 +260,12 @@
 <title><![CDATA[In Miami, the opening game of the World Baseball Classic was a celebration for Venezuelan fans]]></title>
 <link>https://apnews.com/article/wbc-venezuela-fans-miami-2daada9be4e1f9bfd5c251e03dd1a279</link>
 <pubDate>Fri, 06 Mar 2026 18:56:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Americans stuck in the Middle East recount finding their way home with little government help]]></title>
+<link>https://apnews.com/article/stranded-travelers-us-response-iran-war-b7a5da348d4fee76ac4a662bc16cf627</link>
+<pubDate>Sat, 07 Mar 2026 00:33:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,27 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gulf allies complain US didn’t notify them of Iran attacks and ignored their warnings, sources say]]></title>
-<link>https://apnews.com/article/iran-us-trump-gulf-states-drones-defense-69d5bc227e468f06e20e5ad069330c7d</link>
-<pubDate>Fri, 06 Mar 2026 12:00:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s 10-passenger electric aircraft, the Matrix, hints at how big flying taxis can be]]></title>
-<link>https://apnews.com/article/china-electric-aircraft-evtol-matrix-shanghai-9eb017c0bfbfe66a84b63423f301e419</link>
-<pubDate>Fri, 06 Mar 2026 06:25:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazilian soccer player suspended for 12 games after sexist remarks about a female referee]]></title>
-<link>https://apnews.com/article/brazil-player-suspended-female-referee-soccer-440b9bfc50bd5dea05fcb257b659b57e</link>
-<pubDate>Fri, 06 Mar 2026 01:11:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and Venezuela agree to reestablish diplomatic relations in major shift after Maduro’s ouster]]></title>
-<link>https://apnews.com/article/venezuela-united-states-diplomatic-relations-trump-e25403c31cce29742fd95f7ffe3bbe09</link>
-<pubDate>Fri, 06 Mar 2026 17:27:30 -0000</pubDate>
+<title><![CDATA[What to know about the Kurds and their potential involvement in the Iran war]]></title>
+<link>https://apnews.com/article/iran-war-kurds-trump-iraq-turkey-c97d75e59e640b627144ec796f48772e</link>
+<pubDate>Sat, 07 Mar 2026 00:18:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Iran’s navy, air force ‘is gone,’ and offers ‘total immunity’ to Iranian forces]]></title>
-<link>https://apnews.com/video/trump-says-irans-navy-air-force-is-gone-and-offers-total-immunity-to-iranian-forces-3c7b5d29e6e84ed0ab6acabfa6e3b8c5</link>
-<pubDate>Fri, 06 Mar 2026 00:42:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump suggests he’ll focus on Cuba next but wants to ‘wait a couple of weeks’]]></title>
-<link>https://apnews.com/video/trump-suggests-hell-focus-on-cuba-next-but-wants-to-wait-a-couple-of-weeks-ec83c00827f642e9bbea3acc86875fec</link>
-<pubDate>Fri, 06 Mar 2026 00:27:00 -0000</pubDate>
+<title><![CDATA[Drones target oilfields in southern Iraq]]></title>
+<link>https://apnews.com/video/drones-target-oilfields-in-southern-iraq-4b9f76ba08e94e60bc59e9da814316fa</link>
+<pubDate>Sat, 07 Mar 2026 00:48:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
