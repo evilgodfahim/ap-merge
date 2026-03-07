@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 03:27:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 04:45:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India]]></title>
 <link>https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man convicted in political assassination plot he tied to Iranian paramilitary]]></title>
-<link>https://apnews.com/article/assassinations-plot-trump-biden-iran-asif-merchant-2e15428827dd6c05eedef4929a1ce822</link>
-<pubDate>Sat, 07 Mar 2026 00:48:42 -0000</pubDate>
+<title><![CDATA[Kurdish Iranian dissidents in Iraq deny attack plans but say they would join a US invasion of Iran]]></title>
+<link>https://apnews.com/article/kurds-iran-iraq-us-4b2ce1d3d960c1951fc08faac8fa7745</link>
+<pubDate>Sat, 07 Mar 2026 04:45:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Islamic militants abduct more than 300 people in northeastern Nigeria, officials say]]></title>
+<link>https://apnews.com/article/nigeria-borno-state-militant-attack-a7f5f647c4a7c9d23120e051aa69d099</link>
+<pubDate>Sat, 07 Mar 2026 04:30:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN report says Ugandan troops helped South Sudan with deadly airstrikes]]></title>
 <link>https://apnews.com/article/south-sudan-fighting-uganda-06b0a8c13d1c680976c09bd2ea7ac279</link>
 <pubDate>Fri, 06 Mar 2026 16:17:14 -0000</pubDate>
@@ -113,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Miners provided the material in our smartphones and tech. Now 200 are claimed dead]]></title>
-<link>https://apnews.com/article/congo-rubaya-collapse-7b1e24f3d071a20b4865832bfec122f1</link>
-<pubDate>Thu, 05 Mar 2026 11:22:19 -0000</pubDate>
+<title><![CDATA[Attempted suicides, fights, pain: 911 calls reveal misery at ICE’s largest detention facility]]></title>
+<link>https://apnews.com/article/suicide-ice-detention-centers-b2d1cb0e4b579e0d89caabd00aa04e34</link>
+<pubDate>Fri, 06 Mar 2026 05:10:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +140,6 @@
 <title><![CDATA[Suspect in Utah killings of 3 women was free on Iowa burglary and other charges]]></title>
 <link>https://apnews.com/article/utah-iowa-women-trail-murder-pagosa-f62d20fe89bbd98a3005e200493715bd</link>
 <pubDate>Fri, 06 Mar 2026 23:17:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A wedding proposal and a promotion honored a Coast Guardsman before he died of injuries from mission]]></title>
-<link>https://apnews.com/article/coast-guard-rescue-swimmer-wedding-proposal-fall-bd69f8d59a75f8a6295a501732fd6e31</link>
-<pubDate>Sat, 07 Mar 2026 00:18:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -200,6 +200,12 @@
 <title><![CDATA[Fire burns cabanas and shops in town on Mexico’s Pacific coast]]></title>
 <link>https://apnews.com/article/fire-mexico-punta-zicatela-oaxaca-d16727aa834ec84b32ab6cb0b1db4614</link>
 <pubDate>Sat, 07 Mar 2026 00:48:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Man convicted in political assassination plot he tied to Iranian paramilitary]]></title>
+<link>https://apnews.com/article/assassinations-plot-trump-biden-iran-asif-merchant-2e15428827dd6c05eedef4929a1ce822</link>
+<pubDate>Sat, 07 Mar 2026 04:45:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the Kurds and their potential involvement in the Iran war]]></title>
-<link>https://apnews.com/article/iran-war-kurds-trump-iraq-turkey-c97d75e59e640b627144ec796f48772e</link>
-<pubDate>Sat, 07 Mar 2026 00:18:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Explosions rock Iran’s capital, and more attacks target Israel as US warns bombing will intensify]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-6-2026-6108249f19c4bc162eacd7847976c174</link>
 <pubDate>Sat, 07 Mar 2026 03:27:51 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
-<link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
-<pubDate>Fri, 06 Mar 2026 17:57:31 -0000</pubDate>
+<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
+<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
+<pubDate>Sat, 07 Mar 2026 04:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kurdish Iranian dissidents in Iraq deny attack plans but say they would join a US invasion of Iran]]></title>
-<link>https://apnews.com/article/kurds-iran-iraq-us-4b2ce1d3d960c1951fc08faac8fa7745</link>
-<pubDate>Fri, 06 Mar 2026 19:11:50 -0000</pubDate>
+<title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
+<link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
+<pubDate>Fri, 06 Mar 2026 17:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,15 +473,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Islamic militants abduct more than 300 people in northeastern Nigeria, officials say]]></title>
-<link>https://apnews.com/article/nigeria-borno-state-militant-attack-a7f5f647c4a7c9d23120e051aa69d099</link>
-<pubDate>Fri, 06 Mar 2026 16:17:16 -0000</pubDate>
+<title><![CDATA[Women in South Africa take up guns and martial arts for protection against gender violence]]></title>
+<link>https://apnews.com/article/south-africa-women-self-defense-guns-gender-c9cf88c04bcd59f83eee495170c7cf98</link>
+<pubDate>Sat, 07 Mar 2026 04:30:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attempted suicides, fights, pain: 911 calls reveal misery at ICE’s largest detention facility]]></title>
-<link>https://apnews.com/article/suicide-ice-detention-centers-b2d1cb0e4b579e0d89caabd00aa04e34</link>
-<pubDate>Fri, 06 Mar 2026 10:49:50 -0000</pubDate>
+<title><![CDATA[4 dead in Michigan as powerful storms that produced at least 1 tornado rip through the state]]></title>
+<link>https://apnews.com/article/severe-weather-storm-tornado-midwest-oklahoma-f4666951e5ef045520e839923b788cba</link>
+<pubDate>Sat, 07 Mar 2026 04:15:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
