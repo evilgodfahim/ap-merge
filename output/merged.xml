@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 16:14:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 16:47:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India]]></title>
 <link>https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba says crews repaired a large power plant that caused a massive outage]]></title>
+<link>https://apnews.com/article/cuba-power-outage-plant-blackout-repair-bba3a8f52fcf83e99501645801ab08b8</link>
+<pubDate>Sat, 07 Mar 2026 16:47:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mexican president visits Jalisco to ease concerns over violence ahead of FIFA World Cup]]></title>
 <link>https://apnews.com/article/mexico-president-sheinbaum-world-cup-security-violence-jalisco-4176aa4ea1aacb24b90837b4fd891424</link>
 <pubDate>Sat, 07 Mar 2026 12:56:32 -0000</pubDate>
@@ -89,15 +95,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Power slowly being restored in western Cuba as crews work at damaged plant]]></title>
-<link>https://apnews.com/article/cuba-power-outage-electric-grid-plant-d6913aa8b2272c4075b2a34bab1be259</link>
-<pubDate>Fri, 06 Mar 2026 17:42:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[23 dead, flights disrupted and military deployed after heavy rains pound Kenya’s capital overnight]]></title>
-<link>https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f</link>
-<pubDate>Sat, 07 Mar 2026 11:39:24 -0000</pubDate>
+<title><![CDATA[Women in high-crime South Africa turn to guns and martial arts for self-defense]]></title>
+<link>https://apnews.com/article/south-africa-women-self-defense-guns-gender-c9cf88c04bcd59f83eee495170c7cf98</link>
+<pubDate>Sat, 07 Mar 2026 16:32:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -167,6 +167,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India edges England in high-scoring thriller to reach T20 World Cup final]]></title>
+<link>https://apnews.com/article/india-england-t20-world-cup-f1297ab2f10d7f48e3a3a90747ca5f86</link>
+<pubDate>Sat, 07 Mar 2026 08:21:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan beats Taiwan 2-0 and Vietnam edges India 2-1 with late winner at Women’s Asian Cup]]></title>
 <link>https://apnews.com/article/japan-taiwan-vietnam-india-womens-asian-cup-247b8863c009bb2015699bed6b2f9ca3</link>
 <pubDate>Thu, 05 Mar 2026 12:54:09 -0000</pubDate>
@@ -182,12 +188,6 @@
 <title><![CDATA[India and Canada agree to boost economic partnership in a move to reset ties]]></title>
 <link>https://apnews.com/article/india-canada-trade-modi-carney-632cf32892560ab18a72e67f39df6c15</link>
 <pubDate>Mon, 02 Mar 2026 09:04:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Samson powers India to semifinals at T20 World Cup with 5-wicket win over West Indies]]></title>
-<link>https://apnews.com/article/t20-world-cup-africa-zimbabwe-india-wi-de7637c3b857fe7471dbd805104c6be1</link>
-<pubDate>Tue, 03 Mar 2026 00:09:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 8 killed in Ukraine’s Kharkiv as Russian missile hits apartment building]]></title>
+<title><![CDATA[At least 10 killed in Ukraine’s Kharkiv as Russian missile hits apartment building]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kharkiv-f555c370a7439a41393e74a6e603db43</link>
-<pubDate>Sat, 07 Mar 2026 11:39:25 -0000</pubDate>
+<pubDate>Sat, 07 Mar 2026 16:47:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women in high-crime South Africa turn to guns and martial arts for self-defense]]></title>
-<link>https://apnews.com/article/south-africa-women-self-defense-guns-gender-c9cf88c04bcd59f83eee495170c7cf98</link>
-<pubDate>Sat, 07 Mar 2026 06:10:28 -0000</pubDate>
+<title><![CDATA[At least 25 dead in Kenya after heavy rain brings flash floods and flight disruption to Nairobi]]></title>
+<link>https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f</link>
+<pubDate>Sat, 07 Mar 2026 16:32:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India edges England in high-scoring thriller to reach T20 World Cup final]]></title>
-<link>https://apnews.com/article/india-england-t20-world-cup-f1297ab2f10d7f48e3a3a90747ca5f86</link>
-<pubDate>Thu, 05 Mar 2026 18:21:17 -0000</pubDate>
+<title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
+<link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
+<pubDate>Sat, 07 Mar 2026 16:17:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
