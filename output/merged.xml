@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 10:14:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 10:47:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India]]></title>
 <link>https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb</link>
@@ -35,15 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
+<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
+<pubDate>Sun, 08 Mar 2026 10:47:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration and Democrats at odds over risk to US weapons stockpiles from Iran war]]></title>
 <link>https://apnews.com/article/iran-us-weapons-stockpiles-interceptors-patriots-thaad-006d6294441fb2338463f6260e1a9256</link>
 <pubDate>Sun, 08 Mar 2026 07:04:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 3rd Palestinian has been killed in the West Bank this week as violence surges]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-violence-settlers-6ae8ec461735ff94f31e222205711b0f</link>
-<pubDate>Sun, 08 Mar 2026 06:49:06 -0000</pubDate>
+<title><![CDATA[At least 10 killed in Ukraine’s Kharkiv as Russian missile hits apartment building]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kharkiv-f555c370a7439a41393e74a6e603db43</link>
+<pubDate>Sun, 08 Mar 2026 10:32:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -56,12 +62,6 @@
 <title><![CDATA[Russia sits back as the Iran war escalates, expecting long-term gains]]></title>
 <link>https://apnews.com/article/russia-iran-war-putin-ukraine-oil-8a6af4989692d66a1e5bed1bc1922efa</link>
 <pubDate>Sun, 08 Mar 2026 06:34:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police investigate a potential explosion outside the US Embassy in Oslo]]></title>
-<link>https://apnews.com/article/us-embassy-norway-oslo-explosion-4d6647454232241ea640e9ff334f2864</link>
-<pubDate>Sun, 08 Mar 2026 09:18:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Police investigate a potential explosion outside the US Embassy in Oslo]]></title>
+<link>https://apnews.com/article/us-embassy-norway-oslo-explosion-4d6647454232241ea640e9ff334f2864</link>
+<pubDate>Sun, 08 Mar 2026 10:47:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A singing circle at Amsterdam’s Concertgebouw offers support for people with dementia]]></title>
 <link>https://apnews.com/article/netherlands-singing-amsterdam-dementia-music-49f955baac28a0e5a38eab5980eb46e7</link>
 <pubDate>Sun, 08 Mar 2026 08:18:23 -0000</pubDate>
@@ -206,6 +212,12 @@
 <title><![CDATA[Federal judge rules Trump administration’s actions to dismantle Voice of America are illegal]]></title>
 <link>https://apnews.com/article/voice-of-america-kari-lake-press-freedom-7e9257d1a69907e1bb7489dfd32de833</link>
 <pubDate>Sun, 08 Mar 2026 03:39:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A 3rd Palestinian has been killed in the West Bank this week as violence surges]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-violence-settlers-6ae8ec461735ff94f31e222205711b0f</link>
+<pubDate>Sun, 08 Mar 2026 10:32:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Paris fashion, skin is in and celebrities rule the runways]]></title>
-<link>https://apnews.com/article/loewe-saint-laurent-paris-fashion-week-ee967d3dcd050925e8c889517e6b5084</link>
-<pubDate>Fri, 06 Mar 2026 19:11:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Miami, the opening game of the World Baseball Classic was a celebration for Venezuelan fans]]></title>
-<link>https://apnews.com/article/wbc-venezuela-fans-miami-2daada9be4e1f9bfd5c251e03dd1a279</link>
-<pubDate>Fri, 06 Mar 2026 18:56:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranian drone damages desalination plant in Bahrain]]></title>
+<title><![CDATA[Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
-<pubDate>Sun, 08 Mar 2026 07:04:08 -0000</pubDate>
+<pubDate>Sun, 08 Mar 2026 10:47:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel renews assault on Lebanon after Netanyahu promises ‘many surprises’ in next phase of war]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-7-2026-d347fd6a03185f51d670bf4e7cbf5373</link>
+<pubDate>Sun, 08 Mar 2026 05:04:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-ron-arad-nabi-chit-9054b777cb2d853e9a58cd65a71adb12</link>
 <pubDate>Sat, 07 Mar 2026 14:14:40 -0000</pubDate>
@@ -428,12 +434,6 @@
 <title><![CDATA[Evidence suggests the deadly blast at an Iranian school was likely a US airstrike]]></title>
 <link>https://apnews.com/article/iran-minab-girls-school-airstrike-us-israel-c3095dc9729881b567277a1c5c47efb2</link>
 <pubDate>Sun, 08 Mar 2026 00:53:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
-<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
-<pubDate>Sat, 07 Mar 2026 04:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,15 +467,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 10 killed in Ukraine’s Kharkiv as Russian missile hits apartment building]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kharkiv-f555c370a7439a41393e74a6e603db43</link>
-<pubDate>Sat, 07 Mar 2026 16:47:10 -0000</pubDate>
+<title><![CDATA[Iran’s border with Turkey offers a way out, but few are leaving for good]]></title>
+<link>https://apnews.com/article/turkey-iran-border-war-f95736df2abfa6f221be7810e0b019e3</link>
+<pubDate>Sun, 08 Mar 2026 10:32:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election]]></title>
+<title><![CDATA[A new Nepali party led by an ex-rapper is set for a landslide win in parliamentary election]]></title>
 <link>https://apnews.com/article/nepal-parliament-election-new-party-38cefee554c5e2e036b7d0c561a5cb2e</link>
-<pubDate>Sun, 08 Mar 2026 08:03:24 -0000</pubDate>
+<pubDate>Sun, 08 Mar 2026 10:17:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
