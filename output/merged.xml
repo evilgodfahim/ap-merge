@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 17:14:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 17:44:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran war updates March 6]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-lebanon-03-06-2026</link>
@@ -53,15 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A new Nepali party led by an ex-rapper is set for a landslide win in parliamentary election]]></title>
-<link>https://apnews.com/article/nepal-parliament-election-new-party-38cefee554c5e2e036b7d0c561a5cb2e</link>
-<pubDate>Sun, 08 Mar 2026 12:25:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[12 years on, renewed hunt for missing Flight MH370 comes up empty as families press for answers]]></title>
 <link>https://apnews.com/article/malaysia-missing-flight-mh370-seabed-search-5c564494723ae2d4ead87d7aeebcdef9</link>
 <pubDate>Sun, 08 Mar 2026 16:15:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India wins cricket’s Twenty20 World Cup with 96-run victory over New Zealand]]></title>
+<link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-5461fd654307835216341c9f0fa2b69e</link>
+<pubDate>Sun, 08 Mar 2026 17:44:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[At least 25 dead in Kenya after heavy rain brings flash floods and flight disruption to Nairobi]]></title>
+<link>https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f</link>
+<pubDate>Sun, 08 Mar 2026 17:29:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Women in high-crime South Africa turn to guns and martial arts for self-defense]]></title>
 <link>https://apnews.com/article/south-africa-women-self-defense-guns-gender-c9cf88c04bcd59f83eee495170c7cf98</link>
 <pubDate>Sat, 07 Mar 2026 16:32:09 -0000</pubDate>
@@ -104,12 +110,6 @@
 <title><![CDATA[Islamic militants abduct more than 300 people in northeastern Nigeria, officials say]]></title>
 <link>https://apnews.com/article/nigeria-borno-state-militant-attack-a7f5f647c4a7c9d23120e051aa69d099</link>
 <pubDate>Sat, 07 Mar 2026 04:30:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN report says Ugandan troops helped South Sudan with deadly airstrikes]]></title>
-<link>https://apnews.com/article/south-sudan-fighting-uganda-06b0a8c13d1c680976c09bd2ea7ac279</link>
-<pubDate>Fri, 06 Mar 2026 16:17:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump downplays importance of Russia reportedly sharing intel with Iran to help it hit US targets]]></title>
+<link>https://apnews.com/article/iran-russia-intelligence-sharing-trump-oil-prices-109923968208e549fe1d674d7cb71978</link>
+<pubDate>Sun, 08 Mar 2026 17:44:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A 3rd Palestinian has been killed in the West Bank this week as violence surges]]></title>
 <link>https://apnews.com/article/israel-palestinians-west-bank-violence-settlers-6ae8ec461735ff94f31e222205711b0f</link>
 <pubDate>Sun, 08 Mar 2026 10:32:11 -0000</pubDate>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
+<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
+<pubDate>Sun, 08 Mar 2026 17:29:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Fire burns cabanas and shops in town on Mexico’s Pacific coast]]></title>
 <link>https://apnews.com/article/fire-mexico-punta-zicatela-oaxaca-d16727aa834ec84b32ab6cb0b1db4614</link>
 <pubDate>Sat, 07 Mar 2026 00:48:43 -0000</pubDate>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba says a 5th person died after people on a Florida-flagged speedboat opened fire on soldiers]]></title>
-<link>https://apnews.com/article/cuba-us-speedboat-deaths-florida-f42eb9c5719f8b2d2e2cc00a5a76dbda</link>
-<pubDate>Fri, 06 Mar 2026 20:37:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The US attack on an Iranian warship did not violate international law, experts say]]></title>
-<link>https://apnews.com/article/iran-torpedo-war-crime-attack-submarine-7e2f883bae6af25fd0fa0aafd2a063ff</link>
-<pubDate>Fri, 06 Mar 2026 20:22:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran war’s targets widen into civilian infrastructure as Bahrain says water plant hit]]></title>
+<title><![CDATA[Iran war’s targets widen into civilian infrastructure and Saudi Arabia reports first deaths]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
-<pubDate>Sun, 08 Mar 2026 15:13:44 -0000</pubDate>
+<pubDate>Sun, 08 Mar 2026 17:44:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,15 +377,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 Palestinians killed in West Bank clash, bringing toll from week of violence to 6]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960</link>
-<pubDate>Sun, 08 Mar 2026 13:53:31 -0000</pubDate>
+<title><![CDATA[China hopes 2026 will be a ‘landmark year’ for relationship with US]]></title>
+<link>https://apnews.com/article/china-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5</link>
+<pubDate>Sun, 08 Mar 2026 06:19:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump downplays importance of Russia reportedly sharing intel with Iran to help it hit US targets]]></title>
-<link>https://apnews.com/article/iran-russia-intelligence-sharing-trump-oil-prices-109923968208e549fe1d674d7cb71978</link>
-<pubDate>Sun, 08 Mar 2026 01:08:37 -0000</pubDate>
+<title><![CDATA[A retired Lebanese security officer vanishes and his family thinks it was a covert Israeli abduction]]></title>
+<link>https://apnews.com/article/lebanon-israel-ahmed-shukr-ron-arad-kidnapping-09c7e1026bba9874f3d62d8085982609</link>
+<pubDate>Sun, 08 Mar 2026 17:29:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[3 Palestinians killed in West Bank clash, bringing toll from week of violence to 6]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960</link>
+<pubDate>Sun, 08 Mar 2026 13:53:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -416,12 +422,6 @@
 <title><![CDATA[Evidence suggests the deadly blast at an Iranian school was likely a US airstrike]]></title>
 <link>https://apnews.com/article/iran-minab-girls-school-airstrike-us-israel-c3095dc9729881b567277a1c5c47efb2</link>
 <pubDate>Sun, 08 Mar 2026 00:53:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
-<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
-<pubDate>Sat, 07 Mar 2026 04:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China hopes 2026 will be a ‘landmark year’ for relationship with US]]></title>
-<link>https://apnews.com/article/china-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5</link>
-<pubDate>Sun, 08 Mar 2026 06:19:08 -0000</pubDate>
+<title><![CDATA[A new Nepali party led by an ex-rapper is set for a landslide win in parliamentary election]]></title>
+<link>https://apnews.com/article/nepal-parliament-election-new-party-38cefee554c5e2e036b7d0c561a5cb2e</link>
+<pubDate>Sun, 08 Mar 2026 10:17:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 25 dead in Kenya after heavy rain brings flash floods and flight disruption to Nairobi]]></title>
-<link>https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f</link>
-<pubDate>Sat, 07 Mar 2026 16:32:10 -0000</pubDate>
+<title><![CDATA[Thousands of civilians in South Sudan flee opposition-held town after army’s evacuation order]]></title>
+<link>https://apnews.com/article/south-sudan-fighting-akobo-army-evacuation-order-77540ca4cb0e9d8338178080eaedc75f</link>
+<pubDate>Sun, 08 Mar 2026 17:14:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
