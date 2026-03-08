@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 13:13:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 13:53:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran war updates March 6]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-lebanon-03-06-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration and Democrats at odds over risk to US weapons stockpiles from Iran war]]></title>
-<link>https://apnews.com/article/iran-us-weapons-stockpiles-interceptors-patriots-thaad-006d6294441fb2338463f6260e1a9256</link>
-<pubDate>Sun, 08 Mar 2026 07:04:06 -0000</pubDate>
+<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
+<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
+<pubDate>Sun, 08 Mar 2026 10:47:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,15 +191,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photo highlights from the Milan Cortina Winter Paralympics]]></title>
+<link>https://apnews.com/photo-gallery/photos-gallery-winter-paralympics-milan-cortina-a13e040264ac75e9b0a24844dee5b129</link>
+<pubDate>Sun, 08 Mar 2026 13:53:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran soccer team exits Women’s Asian Cup and faces the prospect of a return home]]></title>
 <link>https://apnews.com/article/iran-soccer-womens-asian-cup-6a9fd17b140e01b9e841a766c9ff2670</link>
 <pubDate>Sun, 08 Mar 2026 12:25:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police investigate an explosion outside the US Embassy in Oslo]]></title>
+<title><![CDATA[Police in Norway investigate an explosion outside the US Embassy in Oslo]]></title>
 <link>https://apnews.com/article/us-embassy-norway-oslo-explosion-4d6647454232241ea640e9ff334f2864</link>
-<pubDate>Sun, 08 Mar 2026 12:10:13 -0000</pubDate>
+<pubDate>Sun, 08 Mar 2026 13:38:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +260,12 @@
 <title><![CDATA[Ian Huntley, one of UK’s most notorious child killers, has died, days after being attacked in prison]]></title>
 <link>https://apnews.com/article/ian-huntley-soham-britain-child-killer-prison-955d00a84149b3330abc6dbc48aedc11</link>
 <pubDate>Sat, 07 Mar 2026 15:42:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration and Democrats at odds over risk to US weapons stockpiles from Iran war]]></title>
+<link>https://apnews.com/article/iran-us-weapons-stockpiles-interceptors-patriots-thaad-006d6294441fb2338463f6260e1a9256</link>
+<pubDate>Sun, 08 Mar 2026 13:23:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Messi has long steered clear of politics. Does his visit to Trump’s White House mark a change?]]></title>
-<link>https://apnews.com/article/messi-trump-politics-inter-milan-91f2cd5910c26ba96de6e16c9e8f0bc2</link>
-<pubDate>Sat, 07 Mar 2026 12:56:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Before his return to the Oscars, Yorgos Lanthimos finds a still moment in Athens]]></title>
-<link>https://apnews.com/article/oscars-lanthimos-greece-emma-stone-bb1e9b304a8f4aa9fa9ea3a74af905b0</link>
-<pubDate>Fri, 06 Mar 2026 20:07:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon says 83 children among almost 400 killed in a week of conflict between Hezbollah and Israel]]></title>
+<title><![CDATA[Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
-<pubDate>Sun, 08 Mar 2026 12:25:15 -0000</pubDate>
+<pubDate>Sun, 08 Mar 2026 10:47:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[3 Palestinians killed in West Bank clash, bringing toll from week of violence to 6]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960</link>
+<pubDate>Sun, 08 Mar 2026 13:53:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-ron-arad-nabi-chit-9054b777cb2d853e9a58cd65a71adb12</link>
 <pubDate>Sat, 07 Mar 2026 14:14:40 -0000</pubDate>
@@ -422,12 +428,6 @@
 <title><![CDATA[Evidence suggests the deadly blast at an Iranian school was likely a US airstrike]]></title>
 <link>https://apnews.com/article/iran-minab-girls-school-airstrike-us-israel-c3095dc9729881b567277a1c5c47efb2</link>
 <pubDate>Sun, 08 Mar 2026 00:53:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War in the Middle East ensnares many Muslim pilgrims in travel chaos]]></title>
-<link>https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851</link>
-<pubDate>Sat, 07 Mar 2026 04:45:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
