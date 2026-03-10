@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 12:35:02 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Sweden is investigating a cargo ship that allegedly transported stolen grain with a Russian crew]]></title>
-<link>https://apnews.com/article/sweden-baltic-sea-caffa-stateless-vessel-95028e736d1dc93b1587ed49d18e2a2a</link>
-<pubDate>Sun, 08 Mar 2026 15:13:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Tue, 10 Mar 2026 13:54:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump says he won’t let Iran ‘hold the world hostage’ over oil]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Iran names Mojtaba Khamenei to succeed his father as supreme leader and Saudi sharpens warning]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
 <pubDate>Tue, 10 Mar 2026 00:47:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says Iran war could be over soon, but oil disruption would trigger harsher US strikes]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7</link>
+<pubDate>Tue, 10 Mar 2026 13:54:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump]]></title>
+<title><![CDATA[Americans unite in aggravation over sticker shock at the gas pump in a time of war with Iran]]></title>
 <link>https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13</link>
-<pubDate>Tue, 10 Mar 2026 04:19:46 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 13:39:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope accepts resignation of US bishop who was arrested for alleged financial crimes]]></title>
+<link>https://apnews.com/article/vatican-chaldean-bishop-san-diego-emmanuel-shaleta-53fce8f7f63c77eaf34d74fbf945b5ea</link>
+<pubDate>Tue, 10 Mar 2026 13:24:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Beyond the Potomac River, sewage spills threaten cities with old infrastructure and little funds]]></title>
+<link>https://apnews.com/article/sewage-overflows-potomac-epa-water-trump-baltimore-be71eea20324a911142e1d0dfe627fa4</link>
+<pubDate>Tue, 10 Mar 2026 13:09:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,15 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FBI hunts for clues after 2 men charged with lighting bombs at NYC protest]]></title>
-<link>https://apnews.com/article/new-york-protest-bomb-attempt-investigation-b8fbeb799715f5389409ca983f3f83af</link>
-<pubDate>Tue, 10 Mar 2026 09:58:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Young kids missed the pandemic’s school disruptions. Their reading scores are still behind]]></title>
-<link>https://apnews.com/article/reading-test-scores-first-second-grade-03a914085a69edc8fe4dcc7c2530e6c1</link>
-<pubDate>Tue, 10 Mar 2026 04:04:46 -0000</pubDate>
+<title><![CDATA[China beats North Korea 2-1 to take top spot in Group B at Women’s Asian Cup]]></title>
+<link>https://apnews.com/article/china-north-korea-iran-womens-asian-cup-5c73e433d354f17643a2acbc1bbaff71</link>
+<pubDate>Tue, 10 Mar 2026 03:49:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -152,12 +158,6 @@
 <title><![CDATA[China hopes 2026 will be a ‘landmark year’ for relationship with US]]></title>
 <link>https://apnews.com/article/china-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5</link>
 <pubDate>Mon, 09 Mar 2026 00:38:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China’s Xi calls for political loyalty in the military as anti-corruption purge widens]]></title>
-<link>https://apnews.com/article/china-congress-military-purge-jinping-1f13700eec749f9476810a878368a62a</link>
-<pubDate>Sat, 07 Mar 2026 13:59:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,15 +185,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Inside the numbers: Shai Gilgeous-Alexander ties Wilt Chamberlain’s 20-point streak record]]></title>
+<link>https://apnews.com/article/shai-gilgeous-alexander-wilt-chamberlain-streak-9896b4a453bfff905ac67bcdc31a9f64</link>
+<pubDate>Tue, 10 Mar 2026 13:54:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran says skier deeply disappointed at missing Paralympics because of war]]></title>
+<link>https://apnews.com/article/milan-cortina-paralympics-iran-7e54f06d356f9e24ea71f1cc1bbe2942</link>
+<pubDate>Tue, 10 Mar 2026 13:39:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Taking to social media to complain about hot subway rides? You’re not alone, study says]]></title>
 <link>https://apnews.com/article/subway-heat-complaints-rise-study-1a164ba9a9d5c8c66bceaec6d6221666</link>
 <pubDate>Tue, 10 Mar 2026 11:51:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FAA briefly grounds all JetBlue flights after a request from the airline]]></title>
+<title><![CDATA[FAA briefly grounds all JetBlue flights due to short system outage]]></title>
 <link>https://apnews.com/article/faa-ground-stop-jetblue-e990b118812f467d904d92375b984d71</link>
-<pubDate>Tue, 10 Mar 2026 10:28:29 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 13:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,9 +221,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Reindeer racing thrills spectators in Finland’s frigid north near the Russian border]]></title>
+<title><![CDATA[Traditional reindeer racing is delighting spectators in frigid Finland]]></title>
 <link>https://apnews.com/article/reindeer-racing-finland-salla-01f2d5650f0502c5fc13b55b3638c727</link>
-<pubDate>Tue, 10 Mar 2026 05:04:48 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 13:09:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian court sentences 3 men for shooting death of fellow Australian in Bali]]></title>
-<link>https://apnews.com/article/indonesia-australia-bali-shooting-sentencing-50e7b60be067330a500bfa22512d891c</link>
-<pubDate>Mon, 09 Mar 2026 11:27:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 14 migrants drown off Turkey after a chase ends in a deadly collision]]></title>
-<link>https://apnews.com/article/turkey-migrants-drown-mediterranean-chase-collision-b399ada90696efa6c34c14640ed42652</link>
-<pubDate>Mon, 09 Mar 2026 11:12:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran launches new attacks targeting Israel and Gulf countries as it seeks to ramp up pressure on US]]></title>
+<title><![CDATA[Iranian barrages target Israel and Gulf countries as US warns Iran of ‘most intense day of strikes’]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55</link>
-<pubDate>Tue, 10 Mar 2026 11:51:50 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 13:54:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Calm returns to Wall Street as oil prices retreat below $90 per barrel]]></title>
+<title><![CDATA[Calm returns to Wall Street and the oil market following Monday’s extreme swings]]></title>
 <link>https://apnews.com/article/stock-markets-iran-war-trump-oil-f650fe82917ead7099e7cb00572702f6</link>
-<pubDate>Tue, 10 Mar 2026 11:21:50 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 13:39:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China beats North Korea 2-1 to take top spot in Group B at Women’s Asian Cup]]></title>
-<link>https://apnews.com/article/china-north-korea-iran-womens-asian-cup-5c73e433d354f17643a2acbc1bbaff71</link>
-<pubDate>Mon, 09 Mar 2026 11:50:28 -0000</pubDate>
+<title><![CDATA[Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories]]></title>
+<link>https://apnews.com/article/gu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed</link>
+<pubDate>Tue, 10 Mar 2026 13:24:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
