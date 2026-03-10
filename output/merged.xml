@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 23:47:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 01:03:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sweden is investigating a cargo ship that allegedly transported stolen grain with a Russian crew]]></title>
 <link>https://apnews.com/article/sweden-baltic-sea-caffa-stateless-vessel-95028e736d1dc93b1587ed49d18e2a2a</link>
 <pubDate>Sun, 08 Mar 2026 15:13:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canadian Prime Minister Mark Carney calls for Mountbatten-Windsor’s removal from line of succession]]></title>
-<link>https://apnews.com/article/canada-carney-andrew-succession-a7dc4996e0c091e956bcf0daf39c56ad</link>
-<pubDate>Sun, 08 Mar 2026 03:39:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +17,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he’s ruled out having Kurds join the Iran war]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-07-2026</link>
-<pubDate>Sun, 08 Mar 2026 03:24:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Mojtaba Khamenei has been chosen as Iran’s new supreme leader]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-08-2026</link>
 <pubDate>Mon, 09 Mar 2026 03:43:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Fox News apologizes for showing old video of a hatless Donald Trump at a dignified transfer ceremony]]></title>
+<link>https://apnews.com/article/baseball-cap-fox-news-trump-dover-dignified-transfer-29a8f2c1a4a6b2218d18daa2eb5109d9</link>
+<pubDate>Tue, 10 Mar 2026 01:02:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran names Mojtaba Khamenei to succeed his father as supreme leader and Saudi sharpens warning]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
+<pubDate>Tue, 10 Mar 2026 00:47:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuelan lawmakers open debate on a mining bill to lure foreign capital]]></title>
+<link>https://apnews.com/article/venezuela-critical-minerals-trump-rodriguez-mining-burgum-6600a98306bedc9772c1487a47e6f020</link>
+<pubDate>Tue, 10 Mar 2026 00:32:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Students stage a sit-in at Havana University as Cuba’s energy crisis slashes classes]]></title>
 <link>https://apnews.com/article/cuba-student-protest-university-oil-blockade-d5eb4d4333edc8ac1906caee49895232</link>
 <pubDate>Mon, 09 Mar 2026 23:32:13 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Jury seated in South Florida trial of 4 charged in 2021 assassination of Haitian president]]></title>
 <link>https://apnews.com/article/haiti-presidential-assassination-trial-miami-florida-5c10785e69698b9aea2839a61c8903e7</link>
 <pubDate>Mon, 09 Mar 2026 23:17:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US military kills 6 in strike on alleged drug boat in the Eastern Pacific]]></title>
-<link>https://apnews.com/article/boat-strike-pacific-cartels-trump-drugs-e22afebaf86e2b71308cd569b780672e</link>
-<pubDate>Mon, 09 Mar 2026 20:41:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Alexander brothers are convicted of sex trafficking in case that shocked real estate world]]></title>
+<title><![CDATA[Alexander brothers are convicted of sex trafficking in case that shocked the real estate world]]></title>
 <link>https://apnews.com/article/alexander-brothers-sex-trafficking-trial-b63be68c654dd8d3d6359707c2f02c65</link>
-<pubDate>Mon, 09 Mar 2026 22:17:53 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 00:17:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump says Vance was ‘philosophically’ different on Iran while downplaying split]]></title>
+<link>https://apnews.com/article/trump-vance-split-2028-iran-foreign-wars-5cf505d10aa873e2e53b376261bd8bf6</link>
+<pubDate>Tue, 10 Mar 2026 01:02:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US designates Afghanistan as a sponsor of wrongful detention, accuses it of ‘hostage diplomacy’]]></title>
+<link>https://apnews.com/article/afghanistan-state-department-hostages-un-13ca1e3fb7b54a6c3fa912ae0a6084bb</link>
+<pubDate>Tue, 10 Mar 2026 00:47:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[White House war promo videos marry action movies, sports and video games to real-life combat footage]]></title>
+<link>https://apnews.com/article/video-games-war-white-house-video-campaign-cb4a546a4cfcfdc6083f89b059a8eb32</link>
+<pubDate>Tue, 10 Mar 2026 00:32:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As pope seeks dialogue and diplomacy, 2 US cardinals reject US-Israeli war in Iran]]></title>
 <link>https://apnews.com/article/vatican-pope-mideast-war-0156c759d1bbdf1cadc0cd8f48cc8c82</link>
 <pubDate>Mon, 09 Mar 2026 23:47:14 -0000</pubDate>
@@ -218,12 +236,6 @@
 <title><![CDATA[EU recovery funds fuel frenzied restorations around Rome, including at famed basilica]]></title>
 <link>https://apnews.com/article/italy-restoration-san-pietro-vincoli-basilica-66ae035d49217a8bae6fcdddf25e1a40</link>
 <pubDate>Mon, 09 Mar 2026 20:41:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia grants asylum to 5 members of the Iranian women’s soccer team, official says]]></title>
-<link>https://apnews.com/article/iran-womens-soccer-team-trump-australia-asylum-68edc1b5cb2903cffc070639ed1df35c</link>
-<pubDate>Mon, 09 Mar 2026 23:32:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Where things stand after another weekend of war]]></title>
+<link>https://apnews.com/article/iran-israel-war-where-things-stand-trump-explainer-7942ab644b46e7c9b9f8ee491eae7de7</link>
+<pubDate>Tue, 10 Mar 2026 00:17:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan prepares for deployment of its first home-developed long-range missile]]></title>
 <link>https://apnews.com/article/japan-china-longrange-missile-a8e483b5f21609ee3b68e38772b59c86</link>
 <pubDate>Mon, 09 Mar 2026 10:57:21 -0000</pubDate>
@@ -329,15 +347,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[23 people rescued when ice shelf broke from Georgian Bay shore in Canada]]></title>
-<link>https://apnews.com/article/ice-rescue-ontario-canada-e1fb7aaad7cf9690741dac97317e5464</link>
-<pubDate>Mon, 09 Mar 2026 00:53:44 -0000</pubDate>
+<title><![CDATA[US military kills 6 in strike on alleged drug boat in the Eastern Pacific]]></title>
+<link>https://apnews.com/article/boat-strike-pacific-cartels-trump-drugs-e22afebaf86e2b71308cd569b780672e</link>
+<pubDate>Tue, 10 Mar 2026 00:02:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fox News apologizes for showing old video of a hatless Donald Trump at a dignified transfer ceremony]]></title>
-<link>https://apnews.com/article/baseball-cap-fox-news-trump-dover-dignified-transfer-29a8f2c1a4a6b2218d18daa2eb5109d9</link>
-<pubDate>Mon, 09 Mar 2026 00:38:44 -0000</pubDate>
+<title><![CDATA[23 people rescued when ice shelf broke from Georgian Bay shore in Canada]]></title>
+<link>https://apnews.com/article/ice-rescue-ontario-canada-e1fb7aaad7cf9690741dac97317e5464</link>
+<pubDate>Mon, 09 Mar 2026 00:53:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,27 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women’s Day marches in Brazil decry gender-based violence, fueled by alleged gang rape in Copacabana]]></title>
-<link>https://apnews.com/article/brazil-international-women-day-march-protests-violence-8c33627c7244a3c26130baa0606de5fd</link>
-<pubDate>Mon, 09 Mar 2026 23:02:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Carney calls special elections for three Canadian districts, which could lead to majority government]]></title>
-<link>https://apnews.com/article/carney-liberals-election-majority-parliament-1b165c66e00a9f76b0072b815a458d5f</link>
-<pubDate>Sun, 08 Mar 2026 18:54:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A retired Lebanese security officer vanishes and his family thinks it was a covert Israeli abduction]]></title>
-<link>https://apnews.com/article/lebanon-israel-ahmed-shukr-ron-arad-kidnapping-09c7e1026bba9874f3d62d8085982609</link>
-<pubDate>Mon, 09 Mar 2026 17:24:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Oil prices and markets seesaw over uncertainty of war as Iran names new leader]]></title>
+<title><![CDATA[Trump says Iran war could be over soon, then increases threats if global oil supplies are disrupted]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7</link>
-<pubDate>Mon, 09 Mar 2026 20:56:09 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 01:02:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New footage raises likelihood the US struck an Iranian school where a blast killed at least 165]]></title>
+<link>https://apnews.com/article/iran-war-strike-school-minab-us-3f55b6ca193a3295bef5735a45a06368</link>
+<pubDate>Mon, 09 Mar 2026 13:43:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,15 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Here are the Iran war’s biggest unknowns, from Tehran’s new leader to oil prices]]></title>
-<link>https://apnews.com/article/iran-war-israel-trump-oil-prices-f7f56c3e5d54d8f5121ba09bd7314ba3</link>
-<pubDate>Mon, 09 Mar 2026 19:32:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Where things stand after another weekend of war]]></title>
-<link>https://apnews.com/article/iran-israel-war-where-things-stand-trump-explainer-7942ab644b46e7c9b9f8ee491eae7de7</link>
-<pubDate>Mon, 09 Mar 2026 05:15:27 -0000</pubDate>
+<title><![CDATA[Australia grants asylum to 5 members of the Iranian women’s soccer team, official says]]></title>
+<link>https://apnews.com/article/iran-womens-soccer-team-trump-australia-asylum-68edc1b5cb2903cffc070639ed1df35c</link>
+<pubDate>Tue, 10 Mar 2026 00:47:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New footage raises likelihood the US struck an Iranian school where a blast killed at least 165]]></title>
-<link>https://apnews.com/article/iran-war-strike-school-minab-us-3f55b6ca193a3295bef5735a45a06368</link>
-<pubDate>Mon, 09 Mar 2026 13:43:09 -0000</pubDate>
+<title><![CDATA[Prewar US intel assessment found intervention in Iran wasn’t likely to change leadership]]></title>
+<link>https://apnews.com/article/iran-intelligence-assessment-trump-ad20c1f1168d4318af516d7b19d372e7</link>
+<pubDate>Tue, 10 Mar 2026 00:32:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
