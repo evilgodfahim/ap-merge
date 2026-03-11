@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 01:03:52 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Trump says he won’t let Iran ‘hold the world hostage’ over oil]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026</link>
-<pubDate>Mon, 09 Mar 2026 23:47:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Wed, 11 Mar 2026 03:35:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
 <pubDate>Tue, 10 Mar 2026 23:17:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he won’t let Iran ‘hold the world hostage’ over oil]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026</link>
+<pubDate>Mon, 09 Mar 2026 23:47:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
+<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
+<pubDate>Wed, 11 Mar 2026 03:35:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[An innkeeper in Fukushima measures radiation to revive her hometown, in photos]]></title>
 <link>https://apnews.com/photo-gallery/japan-fukushima-nuclear-radiation-photos-0a34a46d417dbe45bfb7168f79deca59</link>
 <pubDate>Tue, 10 Mar 2026 10:28:28 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[Afghanistan’s Taliban government rejects US allegation that it engages in ‘hostage diplomacy’]]></title>
 <link>https://apnews.com/article/afghanistan-us-wrongful-detention-taliban-9dbca837b09f51f06aeb776bb24d1982</link>
 <pubDate>Tue, 10 Mar 2026 15:50:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia grants asylum to 5 members of the Iranian women’s soccer team]]></title>
-<link>https://apnews.com/article/iran-womens-soccer-team-trump-australia-asylum-68edc1b5cb2903cffc070639ed1df35c</link>
-<pubDate>Tue, 10 Mar 2026 10:13:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +197,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[6 people killed, 3 hospitalized with severe injuries after bus catches fire west of Swiss capital]]></title>
+<title><![CDATA[Fire engulfs a bus in Switzerland, killing 6 people and severely injuring 3 others]]></title>
 <link>https://apnews.com/article/switzerland-bus-postal-bus-fire-kerzers-64703071b4fc8de5c2afe9c8c2a0ef7b</link>
-<pubDate>Tue, 10 Mar 2026 23:17:11 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 03:35:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 more members of the Iranian women’s soccer team have been granted asylum in Australia]]></title>
-<link>https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339</link>
-<pubDate>Tue, 10 Mar 2026 23:17:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iranians fleeing cities under attack seek refuge in the countryside]]></title>
 <link>https://apnews.com/article/iranians-fleeing-war-73ed7f61f88e411b5fb13a888eb45cb3</link>
 <pubDate>Tue, 10 Mar 2026 10:13:29 -0000</pubDate>
@@ -392,6 +386,12 @@
 <title><![CDATA[Israel says Iran is using cluster munitions. What to know about the weapons]]></title>
 <link>https://apnews.com/article/israel-iran-war-cluster-munitions-bomblets-25ea47545ef6e21dec234cf9d3d62e42</link>
 <pubDate>Tue, 10 Mar 2026 17:22:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 more members of the Iranian women’s soccer team granted asylum in Australia]]></title>
+<link>https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339</link>
+<pubDate>Wed, 11 Mar 2026 03:35:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
-<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
-<pubDate>Tue, 10 Mar 2026 04:49:49 -0000</pubDate>
+<title><![CDATA[North Korean leader Kim watches cruise missile tests with his daughter]]></title>
+<link>https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13</link>
+<pubDate>Wed, 11 Mar 2026 03:20:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
