@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 06:06:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 07:14:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -23,15 +23,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran names Mojtaba Khamenei to succeed his father as supreme leader and Saudi sharpens warning]]></title>
-<link>https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff</link>
-<pubDate>Tue, 10 Mar 2026 00:47:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US says it destroyed 16 minelaying vessels as Iran threatens to block Gulf oil exports]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55</link>
 <pubDate>Wed, 11 Mar 2026 05:05:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says Iran war could be over soon, but oil disruption would trigger harsher US strikes]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7</link>
+<pubDate>Tue, 10 Mar 2026 13:54:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the embezzlement charges facing a former Chaldean Catholic bishop in California]]></title>
+<link>https://apnews.com/article/chaldean-vatican-catholic-embezzle-san-diego-063a5853dde5458eadc33ad477323b8f</link>
+<pubDate>Wed, 11 Mar 2026 07:14:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,12 +59,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
-<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
-<pubDate>Wed, 11 Mar 2026 03:35:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[An innkeeper in Fukushima measures radiation to revive her hometown, in photos]]></title>
 <link>https://apnews.com/photo-gallery/japan-fukushima-nuclear-radiation-photos-0a34a46d417dbe45bfb7168f79deca59</link>
 <pubDate>Tue, 10 Mar 2026 10:28:28 -0000</pubDate>
@@ -68,6 +68,12 @@
 <title><![CDATA[Afghanistan’s Taliban government rejects US allegation that it engages in ‘hostage diplomacy’]]></title>
 <link>https://apnews.com/article/afghanistan-us-wrongful-detention-taliban-9dbca837b09f51f06aeb776bb24d1982</link>
 <pubDate>Tue, 10 Mar 2026 15:50:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US allies and rivals in Asia gauge fallout from war in the Middle East]]></title>
+<link>https://apnews.com/article/iran-us-war-korea-japan-russia-china-9cfa951ff45fdefe6c48380ce5b431b5</link>
+<pubDate>Wed, 11 Mar 2026 06:59:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jihadis intensify attacks against Nigeria’s military, killing officers and carting away weapons]]></title>
+<link>https://apnews.com/article/nigeria-boko-haram-jihadi-attacks-borno-ec27895c51cf640af34ac4ab924aa0d7</link>
+<pubDate>Wed, 11 Mar 2026 06:44:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN peacekeepers defy South Sudan military’s order to leave opposition-held town]]></title>
 <link>https://apnews.com/article/south-sudan-un-akobo-jonglei-fighting-1b0a532e159525a4bf78c3f23da04a61</link>
 <pubDate>Tue, 10 Mar 2026 15:35:06 -0000</pubDate>
@@ -104,12 +116,6 @@
 <title><![CDATA[Thousands of civilians in South Sudan flee opposition-held town after army’s evacuation order]]></title>
 <link>https://apnews.com/article/south-sudan-fighting-akobo-army-evacuation-order-77540ca4cb0e9d8338178080eaedc75f</link>
 <pubDate>Mon, 09 Mar 2026 05:00:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cocoa beans rot and West African farmers seek other options after commodity crash]]></title>
-<link>https://apnews.com/article/west-africa-cocoa-farmers-ghana-chocolate-crash-dfd5acb32de1e9b52a92329d1045d970</link>
-<pubDate>Sun, 08 Mar 2026 05:19:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -335,12 +341,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US allies and rivals in Asia gauge fallout from war in the Middle East]]></title>
-<link>https://apnews.com/article/iran-us-war-korea-japan-russia-china-9cfa951ff45fdefe6c48380ce5b431b5</link>
-<pubDate>Tue, 10 Mar 2026 16:22:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Family sues ChatGPT-maker OpenAI over school shooting in Canada]]></title>
 <link>https://apnews.com/article/canada-mass-shooting-chatgpt-openai-lawsuit-de6c2b89cea94bde3b1c288b0e1581ca</link>
 <pubDate>Tue, 10 Mar 2026 03:35:51 -0000</pubDate>
@@ -362,6 +362,12 @@
 <title><![CDATA[Trump says Vance was ‘philosophically’ different on Iran while downplaying split]]></title>
 <link>https://apnews.com/article/trump-vance-split-2028-iran-foreign-wars-5cf505d10aa873e2e53b376261bd8bf6</link>
 <pubDate>Tue, 10 Mar 2026 01:02:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US designates Afghanistan as a sponsor of wrongful detention, accuses it of ‘hostage diplomacy’]]></title>
+<link>https://apnews.com/article/afghanistan-state-department-hostages-un-13ca1e3fb7b54a6c3fa912ae0a6084bb</link>
+<pubDate>Tue, 10 Mar 2026 00:47:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel says Iran is using cluster munitions. What to know about the weapons]]></title>
-<link>https://apnews.com/article/israel-iran-war-cluster-munitions-bomblets-25ea47545ef6e21dec234cf9d3d62e42</link>
-<pubDate>Tue, 10 Mar 2026 17:22:50 -0000</pubDate>
+<title><![CDATA[North Korean leader Kim watches cruise missile tests with his daughter]]></title>
+<link>https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13</link>
+<pubDate>Wed, 11 Mar 2026 03:20:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[6 members of the Iranian women’s soccer team granted asylum in Australia]]></title>
+<title><![CDATA[Most of Iranian women’s soccer team left Australia after declining last-minute airport asylum offers]]></title>
 <link>https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339</link>
-<pubDate>Wed, 11 Mar 2026 04:20:54 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 07:14:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the embezzlement charges facing a former Chaldean Catholic bishop in California]]></title>
-<link>https://apnews.com/article/chaldean-vatican-catholic-embezzle-san-diego-063a5853dde5458eadc33ad477323b8f</link>
-<pubDate>Wed, 11 Mar 2026 00:48:52 -0000</pubDate>
+<title><![CDATA[Israel says Iran is using cluster munitions. What to know about the weapons]]></title>
+<link>https://apnews.com/article/israel-iran-war-cluster-munitions-bomblets-25ea47545ef6e21dec234cf9d3d62e42</link>
+<pubDate>Tue, 10 Mar 2026 17:22:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean leader Kim watches cruise missile tests with his daughter]]></title>
-<link>https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13</link>
-<pubDate>Wed, 11 Mar 2026 03:20:57 -0000</pubDate>
+<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
+<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
+<pubDate>Tue, 10 Mar 2026 04:49:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jihadis intensify attacks against Nigeria’s military, killing officers and carting away weapons]]></title>
-<link>https://apnews.com/article/nigeria-boko-haram-jihadi-attacks-borno-ec27895c51cf640af34ac4ab924aa0d7</link>
-<pubDate>Tue, 10 Mar 2026 14:35:07 -0000</pubDate>
+<title><![CDATA[A Senegal boarding school that drew students from the US is at the center of an abuse investigation]]></title>
+<link>https://apnews.com/article/senegal-religious-boarding-school-abuses-americans-395ed77765c2c3470de2182fb4836ca8</link>
+<pubDate>Wed, 11 Mar 2026 06:59:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
