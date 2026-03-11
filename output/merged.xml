@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 15:37:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 16:39:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use]]></title>
+<link>https://apnews.com/article/japan-earthquake-tsunami-nuclear-disaster-fukushima-9727fc1f169a199246cc0932719eae68</link>
+<pubDate>Wed, 11 Mar 2026 16:39:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[North Korean leader Kim watches cruise missile tests with his daughter]]></title>
 <link>https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13</link>
 <pubDate>Wed, 11 Mar 2026 10:13:16 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Afghanistan’s Taliban government rejects US allegation that it engages in ‘hostage diplomacy’]]></title>
 <link>https://apnews.com/article/afghanistan-us-wrongful-detention-taliban-9dbca837b09f51f06aeb776bb24d1982</link>
 <pubDate>Tue, 10 Mar 2026 15:50:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
-<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
-<pubDate>Wed, 11 Mar 2026 03:35:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘Dances With Wolves’ actor to be sentenced in Las Vegas for sexually assaulting Indigenous girls]]></title>
+<link>https://apnews.com/article/nathan-chasing-horse-assault-trial-c22f6ebc27fbbf1e6c9a0e175b78c2ba</link>
+<pubDate>Wed, 11 Mar 2026 16:39:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tracing the US military’s learning curve on fighting Iran’s drones: What to know]]></title>
 <link>https://apnews.com/article/iran-war-shahed-drones-defense-patriot-missiles-5691db35af267d9530fca3646b03cef8</link>
 <pubDate>Wed, 11 Mar 2026 11:36:44 -0000</pubDate>
@@ -230,6 +236,12 @@
 <title><![CDATA[Para skiers Johannes and Veronika keep adding to medal tally of the Aigner family at Milan Cortina]]></title>
 <link>https://apnews.com/article/aigner-austria-milan-cortina-paralympics-games-f859db928b030962a275f1a96aee716d</link>
 <pubDate>Wed, 11 Mar 2026 01:03:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Most of Iranian women’s soccer team left Australia after declining last-minute airport asylum offers]]></title>
+<link>https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339</link>
+<pubDate>Wed, 11 Mar 2026 16:24:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,33 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN peacekeepers defy South Sudan military’s order to leave opposition-held town]]></title>
-<link>https://apnews.com/article/south-sudan-un-akobo-jonglei-fighting-1b0a532e159525a4bf78c3f23da04a61</link>
-<pubDate>Wed, 11 Mar 2026 13:12:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FAA briefly grounds all JetBlue flights due to short system outage]]></title>
-<link>https://apnews.com/article/faa-ground-stop-jetblue-e990b118812f467d904d92375b984d71</link>
-<pubDate>Tue, 10 Mar 2026 13:24:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran targets ships, Dubai airport and oil facilities as economic concerns mount]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-11-2026-oil-prices-24243b5c1e1f32ea8ff52b9a02822396</link>
 <pubDate>Wed, 11 Mar 2026 15:37:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Analysis: Iran war becomes a contest of who can take the most pain]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-attrition-analysis-5d7e50c3a6da57414bbf4a5e255e4a7e</link>
-<pubDate>Wed, 11 Mar 2026 10:13:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran war has blocked the Strait of Hormuz, a vital oil chokepoint. Reopening it is a big challenge]]></title>
 <link>https://apnews.com/article/iran-war-hormuz-oil-shipping-49a1901c35cf2507830776a29706cf98</link>
 <pubDate>Wed, 11 Mar 2026 13:57:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Analysis: Iran war becomes a contest of who can take the most pain]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-attrition-analysis-5d7e50c3a6da57414bbf4a5e255e4a7e</link>
+<pubDate>Wed, 11 Mar 2026 10:13:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,15 +425,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Most of Iranian women’s soccer team left Australia after declining last-minute airport asylum offers]]></title>
-<link>https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339</link>
-<pubDate>Wed, 11 Mar 2026 07:14:09 -0000</pubDate>
+<title><![CDATA[Photos of beachgoers in UAE where oil tankers and cargo ships line up in Hormuz Strait]]></title>
+<link>https://apnews.com/photo-gallery/iran-energy-oil-hormuz-strait-uae-c02e6681976e25f717ea9f04b467f01c</link>
+<pubDate>Wed, 11 Mar 2026 16:39:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks remain calm even as oil prices keep swinging]]></title>
+<title><![CDATA[Stocks slip as oil prices get back to rising]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-9015cbc7db4569fddd124659acfcaf86</link>
-<pubDate>Wed, 11 Mar 2026 15:07:11 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 16:24:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use]]></title>
-<link>https://apnews.com/article/japan-earthquake-tsunami-nuclear-disaster-fukushima-9727fc1f169a199246cc0932719eae68</link>
-<pubDate>Wed, 11 Mar 2026 08:38:33 -0000</pubDate>
+<title><![CDATA[Cambodia aims to shut down all online scam centers there by the end of April]]></title>
+<link>https://apnews.com/article/cambodia-cybercrime-phnom-penh-online-fraud-9bbfe6ee970b5a73529f5f820b931e1f</link>
+<pubDate>Wed, 11 Mar 2026 16:09:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 killed and homes damaged after tornadoes tear through Illinois and Indiana, more storms moving in]]></title>
+<title><![CDATA[Tornadoes kill 2 in northwestern Indiana and raze buildings in Kankakee, Illinois]]></title>
 <link>https://apnews.com/article/tornado-severe-weather-illinois-indiana-midwest-dce09b60816c498aad9c2a79c18285c1</link>
-<pubDate>Wed, 11 Mar 2026 12:57:55 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 15:54:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
