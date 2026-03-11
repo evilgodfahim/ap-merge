@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 20:22:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 20:54:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US says it destroyed 16 minelaying vessels as Iran threatens to block Gulf oil exports]]></title>
-<link>https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55</link>
-<pubDate>Wed, 11 Mar 2026 05:05:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s ship attacks worsen economic concerns as countries tap oil reserves]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-11-2026</link>
 <pubDate>Wed, 11 Mar 2026 19:34:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US says it destroyed 16 minelaying vessels as Iran threatens to block Gulf oil exports]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55</link>
+<pubDate>Wed, 11 Mar 2026 05:05:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,27 +113,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[States sue the Trump administration to challenge policy requiring colleges to collect race data]]></title>
+<link>https://apnews.com/article/trump-administration-lawsuit-higher-education-race-b47f3d6d45fe0d0e7fa8ea5e6561d0d1</link>
+<pubDate>Wed, 11 Mar 2026 20:54:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As another shutdown impacts travelers, some see eliminating TSA agents as a solution]]></title>
 <link>https://apnews.com/article/tsa-screening-airports-private-security-government-shutdown-dab3734d194d03a29e4b16fcbea3b0db</link>
 <pubDate>Wed, 11 Mar 2026 11:06:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FACT FOCUS: The Trump administration is falsely claiming Jimmy Carter was against mail-in voting]]></title>
+<link>https://apnews.com/article/fact-check-trump-jimmy-carter-mail-absentee-ballots-fraud-c5ae733c697d0b440f37b632d9b4caea</link>
+<pubDate>Wed, 11 Mar 2026 20:39:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Virginia has a data center boon. Officials debate whether it’s time to scrap its tax breaks]]></title>
 <link>https://apnews.com/article/artificial-intelligence-data-centers-tech-virginia-spanberger-fb9e6dbe61fbf03c467d1301f00bafb7</link>
 <pubDate>Wed, 11 Mar 2026 13:12:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Los Angeles school superintendent denies wrongdoing and asks for his job back during federal probe]]></title>
-<link>https://apnews.com/article/los-angeles-schools-superintendent-alberto-carvalho-investigation-a49178d59380c63cfabb946e82b0ec9a</link>
-<pubDate>Wed, 11 Mar 2026 17:25:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iowa bars local gender identity protections after rolling back its civil rights code]]></title>
-<link>https://apnews.com/article/iowa-civil-rights-code-gender-identity-918f45c9ada7e763ca6362d7de29dccb</link>
-<pubDate>Wed, 11 Mar 2026 17:10:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US will permanently close the consulate in Peshawar, Pakistan, its closest mission to Afghanistan]]></title>
+<link>https://apnews.com/article/us-pakistan-peshawar-consulate-cf62fadb62918bda3cdc253f6cdaa2a1</link>
+<pubDate>Wed, 11 Mar 2026 20:54:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Widow of Haiti president describes his killing at US trial of four charged with conspiracy]]></title>
+<link>https://apnews.com/article/haiti-presidential-assassination-miami-florida-41b1c9617d4ab1b79599c3ee7e4ec4dd</link>
+<pubDate>Wed, 11 Mar 2026 20:39:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Czechs won’t meet NATO defense spending target under populist leader Babiš]]></title>
 <link>https://apnews.com/article/czech-defense-spending-nato-trump-f66498682218a609a37fd2ea5647dfbd</link>
 <pubDate>Wed, 11 Mar 2026 19:34:53 -0000</pubDate>
@@ -209,9 +221,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Dances With Wolves’ actor to be sentenced in Las Vegas for sexually assaulting Indigenous girls]]></title>
+<title><![CDATA[Sentencing delayed for ‘Dances With Wolves’ actor convicted of sexual assault]]></title>
 <link>https://apnews.com/article/nathan-chasing-horse-assault-trial-c22f6ebc27fbbf1e6c9a0e175b78c2ba</link>
-<pubDate>Wed, 11 Mar 2026 16:39:08 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 20:24:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,18 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jihadis intensify attacks against Nigeria’s military, killing officers and carting away weapons]]></title>
-<link>https://apnews.com/article/nigeria-boko-haram-jihadi-attacks-borno-ec27895c51cf640af34ac4ab924aa0d7</link>
-<pubDate>Wed, 11 Mar 2026 13:27:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China announces resumption of passenger trains to North Korea after COVID]]></title>
-<link>https://apnews.com/article/passenger-trains-resume-china-north-korea-7473639b0f497207065d632b57abb5d2</link>
-<pubDate>Tue, 10 Mar 2026 15:50:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran targets ships, Dubai airport and oil facilities as economic concerns mount]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-11-2026-oil-prices-24243b5c1e1f32ea8ff52b9a02822396</link>
 <pubDate>Wed, 11 Mar 2026 15:37:11 -0000</pubDate>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Most US stocks fall as oil prices get back to rising]]></title>
+<title><![CDATA[US stock market remains calm, even as oil prices rise]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-9015cbc7db4569fddd124659acfcaf86</link>
-<pubDate>Wed, 11 Mar 2026 19:04:54 -0000</pubDate>
+<pubDate>Wed, 11 Mar 2026 20:54:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
