@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 07:58:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 08:38:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -47,21 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A bus fire that killed 6 people could have been set deliberately, Swiss police say]]></title>
+<link>https://apnews.com/article/switzerland-bus-postal-bus-fire-kerzers-9bb42b64495d16ffb11f3298f5b354dd</link>
+<pubDate>Wed, 11 Mar 2026 08:38:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As pope seeks dialogue and diplomacy, 2 US cardinals reject US-Israeli war in Iran]]></title>
 <link>https://apnews.com/article/vatican-pope-mideast-war-0156c759d1bbdf1cadc0cd8f48cc8c82</link>
 <pubDate>Tue, 10 Mar 2026 11:36:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[President Nawrocki refuses to sign law to tap 44B euros in EU defense loans for Poland]]></title>
-<link>https://apnews.com/article/poland-defense-european-union-loans-president-veto-c68b60654f1c4624009638ad8ecccec8</link>
-<pubDate>Tue, 10 Mar 2026 17:37:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An innkeeper in Fukushima measures radiation to revive her hometown, in photos]]></title>
-<link>https://apnews.com/photo-gallery/japan-fukushima-nuclear-radiation-photos-0a34a46d417dbe45bfb7168f79deca59</link>
-<pubDate>Tue, 10 Mar 2026 10:28:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,9 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US allies and rivals in Asia gauge fallout from war in the Middle East]]></title>
-<link>https://apnews.com/article/iran-us-war-korea-japan-russia-china-9cfa951ff45fdefe6c48380ce5b431b5</link>
-<pubDate>Wed, 11 Mar 2026 06:59:07 -0000</pubDate>
+<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
+<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
+<pubDate>Wed, 11 Mar 2026 03:35:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[An innkeeper in Fukushima measures radiation to revive her hometown, in photos]]></title>
+<link>https://apnews.com/photo-gallery/japan-fukushima-nuclear-radiation-photos-0a34a46d417dbe45bfb7168f79deca59</link>
+<pubDate>Tue, 10 Mar 2026 10:28:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories]]></title>
+<link>https://apnews.com/article/gu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed</link>
+<pubDate>Wed, 11 Mar 2026 08:23:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China beats North Korea 2-1 to take top spot in Group B at Women’s Asian Cup]]></title>
 <link>https://apnews.com/article/china-north-korea-iran-womens-asian-cup-5c73e433d354f17643a2acbc1bbaff71</link>
 <pubDate>Tue, 10 Mar 2026 03:49:46 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[What China’s latest economic plans say about its tech ambitions and rivalry with the US]]></title>
 <link>https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb</link>
 <pubDate>Mon, 09 Mar 2026 10:27:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China hopes 2026 will be a ‘landmark year’ for relationship with US]]></title>
-<link>https://apnews.com/article/china-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5</link>
-<pubDate>Mon, 09 Mar 2026 00:38:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
 <link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
 <pubDate>Sat, 07 Mar 2026 08:51:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/photos-iran-israel-us-war-lebanon-76595ed9f3d0897fc4efaf17e6d03296</link>
+<pubDate>Wed, 11 Mar 2026 08:38:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +260,12 @@
 <title><![CDATA[Press freedom in the Americas saw a ‘dramatic deterioration’ last year, watchdog says]]></title>
 <link>https://apnews.com/article/americas-press-freedom-annual-report-dd926d786f0b8a807f4d5f0997c5042e</link>
 <pubDate>Tue, 10 Mar 2026 17:37:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[President Nawrocki refuses to sign law to tap 44B euros in EU defense loans for Poland]]></title>
+<link>https://apnews.com/article/poland-defense-european-union-loans-president-veto-c68b60654f1c4624009638ad8ecccec8</link>
+<pubDate>Wed, 11 Mar 2026 08:23:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US allies and rivals in Asia gauge fallout from war in the Middle East]]></title>
+<link>https://apnews.com/article/iran-us-war-korea-japan-russia-china-9cfa951ff45fdefe6c48380ce5b431b5</link>
+<pubDate>Tue, 10 Mar 2026 16:22:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Family sues ChatGPT-maker OpenAI over school shooting in Canada]]></title>
 <link>https://apnews.com/article/canada-mass-shooting-chatgpt-openai-lawsuit-de6c2b89cea94bde3b1c288b0e1581ca</link>
 <pubDate>Tue, 10 Mar 2026 03:35:51 -0000</pubDate>
@@ -350,24 +368,6 @@
 <title><![CDATA[North Korean leader’s sister criticizes US-South Korea for proceeding with joint drills]]></title>
 <link>https://apnews.com/article/north-korea-kim-yo-jong-us-joint-drills-e9e89ba3ea07a94bbe387cea1116b467</link>
 <pubDate>Tue, 10 Mar 2026 15:20:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuban doctors to leave Guyana as US applies pressure over island’s medical missions]]></title>
-<link>https://apnews.com/article/cuba-doctors-guyana-jamaica-honduras-trump-4b90e73c333d0513d017ecce61929a6b</link>
-<pubDate>Tue, 10 Mar 2026 03:20:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says Vance was ‘philosophically’ different on Iran while downplaying split]]></title>
-<link>https://apnews.com/article/trump-vance-split-2028-iran-foreign-wars-5cf505d10aa873e2e53b376261bd8bf6</link>
-<pubDate>Tue, 10 Mar 2026 01:02:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US designates Afghanistan as a sponsor of wrongful detention, accuses it of ‘hostage diplomacy’]]></title>
-<link>https://apnews.com/article/afghanistan-state-department-hostages-un-13ca1e3fb7b54a6c3fa912ae0a6084bb</link>
-<pubDate>Tue, 10 Mar 2026 00:47:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[15 years after Fukushima meltdown, an innkeeper makes radiation surveys to revitalize her hometown]]></title>
-<link>https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022</link>
-<pubDate>Tue, 10 Mar 2026 04:49:49 -0000</pubDate>
+<title><![CDATA[Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use]]></title>
+<link>https://apnews.com/article/japan-earthquake-tsunami-nuclear-disaster-fukushima-9727fc1f169a199246cc0932719eae68</link>
+<pubDate>Wed, 11 Mar 2026 08:38:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories]]></title>
-<link>https://apnews.com/article/gu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed</link>
-<pubDate>Tue, 10 Mar 2026 13:24:15 -0000</pubDate>
+<title><![CDATA[Auto sales sink in China as phase out of subsidies for trade-ins hits demand]]></title>
+<link>https://apnews.com/article/china-autos-evs-tarifffs-fcb551ab7875dd37470b49c986122ef0</link>
+<pubDate>Wed, 11 Mar 2026 08:23:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
