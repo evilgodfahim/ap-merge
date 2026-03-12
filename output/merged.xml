@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Mar 2026 17:40:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 18:37:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -83,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ecuador readies a major offensive on criminal groups with US logistical support]]></title>
-<link>https://apnews.com/article/ecuador-us-military-operation-southern-command-reimberg-c699d564204fcad98625a2b87f386d70</link>
-<pubDate>Wed, 11 Mar 2026 19:04:53 -0000</pubDate>
+<title><![CDATA[Kast takes office as Chile marks its sharpest shift to the right since dictatorship]]></title>
+<link>https://apnews.com/article/chile-kast-inauguration-new-administration-00d398c96e0ff25378838dc8831dcbe8</link>
+<pubDate>Thu, 12 Mar 2026 18:37:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Competency review ordered for leader of cultlike Zizians group that has been linked to 6 deaths]]></title>
-<link>https://apnews.com/article/zizians-cult-lasota-ziz-b0f5f91f8aa4933e914e47abd2a8fd19</link>
-<pubDate>Thu, 12 Mar 2026 16:18:20 -0000</pubDate>
+<title><![CDATA[Gunman who injured 2 people at Old Dominion University in Virginia is dead, college says]]></title>
+<link>https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad</link>
+<pubDate>Thu, 12 Mar 2026 18:22:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[California governor says no imminent threat despite warning about possible Iran drone attack]]></title>
+<link>https://apnews.com/article/iran-california-drones-newsom-trump-82afa326f0b362e0ae96b97e1e6c3d7e</link>
+<pubDate>Thu, 12 Mar 2026 18:07:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -128,12 +134,6 @@
 <title><![CDATA[Hockey player who lost family in Rhode Island shooting scores winning goal in double overtime]]></title>
 <link>https://apnews.com/article/rhode-island-hockey-shooting-8613e5c3ca2059412bbbbab5bcc63a5a</link>
 <pubDate>Thu, 12 Mar 2026 15:15:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[State lawmakers offer 2 cents on cash transactions without pennies]]></title>
-<link>https://apnews.com/article/penny-nickel-us-mint-symmetrical-rounding-51f1bf83df9a3dc4c560603a04173849</link>
-<pubDate>Thu, 12 Mar 2026 16:03:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +182,18 @@
 <title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
 <link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
 <pubDate>Sat, 07 Mar 2026 08:51:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Visually impaired skier racer Meg Gustafson chases Paralympic medals with her brother as guide]]></title>
+<link>https://apnews.com/article/paralympics-milan-cortina-games-9fd53f426069b2a38064b2708c17dab7</link>
+<pubDate>Thu, 12 Mar 2026 18:37:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New permanent exhibition shows plaster casts of Pompeii victims frozen at the moment of their death]]></title>
+<link>https://apnews.com/article/italy-pompeii-eruption-victims-casts-ash-lava-archaeologists-494f332602b623c29db9132710def3c9</link>
+<pubDate>Thu, 12 Mar 2026 18:22:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ecuador readies a major offensive on criminal groups with US logistical support]]></title>
+<link>https://apnews.com/article/ecuador-us-military-operation-southern-command-reimberg-c699d564204fcad98625a2b87f386d70</link>
+<pubDate>Thu, 12 Mar 2026 18:07:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[King penguins are the rare species benefiting from a warming world. But that could change]]></title>
 <link>https://apnews.com/article/king-penguins-warming-breeding-climate-change-0d4bac686c7159d0c671ebce7f9f1d79</link>
 <pubDate>Wed, 11 Mar 2026 19:04:53 -0000</pubDate>
@@ -347,24 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Files show British prime minister was warned of ‘reputational risk’ in appointing Mandelson]]></title>
-<link>https://apnews.com/article/britain-mandelson-epstein-files-published-starmer-9776857db55f83e0561dc543d1c7e5b1</link>
-<pubDate>Thu, 12 Mar 2026 14:45:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use]]></title>
-<link>https://apnews.com/article/japan-earthquake-tsunami-nuclear-disaster-fukushima-9727fc1f169a199246cc0932719eae68</link>
-<pubDate>Thu, 12 Mar 2026 00:46:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/photos-iran-israel-us-war-lebanon-76595ed9f3d0897fc4efaf17e6d03296</link>
-<pubDate>Wed, 11 Mar 2026 08:38:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s secretive top leader vows to keep up attacks in his first statement since being appointed]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506</link>
 <pubDate>Thu, 12 Mar 2026 15:45:48 -0000</pubDate>
@@ -383,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The islands off Iran’s southern coast are key to its economy and security. What to know about them]]></title>
-<link>https://apnews.com/article/iran-war-islands-strait-hormuz-oil-trump-1b3e770e61c6a05d3e078223e15b20b2</link>
-<pubDate>Thu, 12 Mar 2026 15:30:48 -0000</pubDate>
+<title><![CDATA[Landslides in southern Ethiopia leave at least 50 people dead and 125 missing]]></title>
+<link>https://apnews.com/article/ethiopia-landslides-deaths-b5cfde29f703aa1c025beb7cef1c9f57</link>
+<pubDate>Thu, 12 Mar 2026 18:37:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[California governor says no imminent threat despite warning about possible Iran drone attack]]></title>
-<link>https://apnews.com/article/iran-california-drones-newsom-trump-82afa326f0b362e0ae96b97e1e6c3d7e</link>
-<pubDate>Thu, 12 Mar 2026 15:15:48 -0000</pubDate>
+<title><![CDATA[The islands off Iran’s southern coast are key to its economy and security. What to know about them]]></title>
+<link>https://apnews.com/article/iran-war-islands-strait-hormuz-oil-trump-1b3e770e61c6a05d3e078223e15b20b2</link>
+<pubDate>Thu, 12 Mar 2026 15:30:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran-linked hackers take aim at US and other targets, raising risk of cyberattacks during war]]></title>
+<link>https://apnews.com/article/cyber-threats-iran-war-trump-israel-hackers-2c0ae77b1799b3d1c5b1353f7798f8ff</link>
+<pubDate>Thu, 12 Mar 2026 18:22:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge]]></title>
 <link>https://apnews.com/article/iran-war-hormuz-oil-shipping-49a1901c35cf2507830776a29706cf98</link>
 <pubDate>Wed, 11 Mar 2026 19:34:54 -0000</pubDate>
@@ -425,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon’s latest conflict brings rare public backlash against Hezbollah as war flares again]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-shiites-base-criticism-84d6e421181c33aac2dee8c42ecdcb9c</link>
-<pubDate>Wed, 11 Mar 2026 04:35:54 -0000</pubDate>
+<title><![CDATA[Key quotes from Iran’s supreme leader’s first public statement]]></title>
+<link>https://apnews.com/article/khamenei-iran-hormuz-gulf-us-5824da67a81265aa2d8186e69f1af42a</link>
+<pubDate>Thu, 12 Mar 2026 18:07:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,21 +473,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kast takes office as Chile marks its sharpest shift to the right since dictatorship]]></title>
-<link>https://apnews.com/article/chile-kast-inauguration-new-administration-00d398c96e0ff25378838dc8831dcbe8</link>
-<pubDate>Wed, 11 Mar 2026 14:22:11 -0000</pubDate>
+<title><![CDATA[Mexico’s president promises ‘Plan B’ after congressional defeat of electoral reforms]]></title>
+<link>https://apnews.com/article/mexico-election-reform-sheinbaum-morena-c7e2c6687d3beda30d2a319c72ee1976</link>
+<pubDate>Thu, 12 Mar 2026 17:52:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 50 people killed and 125 others reported missing after landslides sweep Ethiopia]]></title>
-<link>https://apnews.com/article/ethiopia-landslides-deaths-b5cfde29f703aa1c025beb7cef1c9f57</link>
-<pubDate>Thu, 12 Mar 2026 11:17:27 -0000</pubDate>
+<title><![CDATA[Eswatini receives third batch of migrants deported by the US]]></title>
+<link>https://apnews.com/article/eswatini-deportees-us-trump-immigration-5388e0771714b074953cfcb1f110b67c</link>
+<pubDate>Thu, 12 Mar 2026 17:37:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunman who injured 2 people at Old Dominion University in Virginia is dead, college says]]></title>
-<link>https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad</link>
-<pubDate>Thu, 12 Mar 2026 16:48:21 -0000</pubDate>
+<title><![CDATA[Armed man rammed vehicle into Michigan synagogue and was fatally shot by security, AP source says]]></title>
+<link>https://apnews.com/article/west-bloomfield-michigan-synagogue-99884aa558523928953bf5d31018c150</link>
+<pubDate>Thu, 12 Mar 2026 17:22:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
