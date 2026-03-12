@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Mar 2026 08:00:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 08:49:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US says it has destroyed 16 mine-laying vessels near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump--03-10-2026</link>
@@ -89,6 +89,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa deploys soldiers to the streets to tackle organized and violent crime]]></title>
+<link>https://apnews.com/article/johannesburg-troops-crime-crackdown-president-d92dd6dc8eea76bdf1abd878200379f9</link>
+<pubDate>Thu, 12 Mar 2026 08:49:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[South Africa summons new US ambassador over criticism as rift deepens]]></title>
 <link>https://apnews.com/article/south-africa-ambassador-summon-trump-criticism-ff87a823e90b833fd8d4320bc3e7e248</link>
 <pubDate>Wed, 11 Mar 2026 18:49:53 -0000</pubDate>
@@ -104,12 +110,6 @@
 <title><![CDATA[Drone strike kills UN aid worker in the eastern Congo city of Goma]]></title>
 <link>https://apnews.com/article/congo-goma-drone-attack-606b7feba8685436d1f757de65d4efce</link>
 <pubDate>Wed, 11 Mar 2026 15:22:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A Senegal boarding school that drew students from the US is at the center of an abuse investigation]]></title>
-<link>https://apnews.com/article/senegal-religious-boarding-school-abuses-americans-395ed77765c2c3470de2182fb4836ca8</link>
-<pubDate>Wed, 11 Mar 2026 13:42:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,6 +137,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories]]></title>
+<link>https://apnews.com/article/gu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed</link>
+<pubDate>Wed, 11 Mar 2026 08:23:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China’s exports surge in Jan-Feb despite waning trade with the US]]></title>
 <link>https://apnews.com/article/china-trade-exports-trump-tariffs-iran-b25cf7991025e8efd49afc8b17a1295f</link>
 <pubDate>Wed, 11 Mar 2026 09:58:16 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[Photos from the meeting of China’s National People’s Congress]]></title>
 <link>https://apnews.com/photo-gallery/china-national-peoples-congress-photos-723d7b8857ecdd2962dd9a77e808c980</link>
 <pubDate>Mon, 09 Mar 2026 12:35:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What China’s latest economic plans say about its tech ambitions and rivalry with the US]]></title>
-<link>https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb</link>
-<pubDate>Mon, 09 Mar 2026 10:27:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -206,12 +206,6 @@
 <title><![CDATA[North Korean leader Kim and his daughter try out new pistols at shooting range]]></title>
 <link>https://apnews.com/article/north-korea-kim-jong-un-ju-ae-pistol-057166b2f5a896e5c83bcc49e5a6079f</link>
 <pubDate>Wed, 11 Mar 2026 23:45:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court]]></title>
-<link>https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9</link>
-<pubDate>Wed, 11 Mar 2026 23:30:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -299,6 +293,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A Senegal boarding school that drew students from the US is at the center of an abuse investigation]]></title>
+<link>https://apnews.com/article/senegal-religious-boarding-school-abuses-americans-395ed77765c2c3470de2182fb4836ca8</link>
+<pubDate>Thu, 12 Mar 2026 08:49:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-11-2026-oil-prices-24243b5c1e1f32ea8ff52b9a02822396</link>
 <pubDate>Thu, 12 Mar 2026 07:11:31 -0000</pubDate>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China is expected to push for an ethnic unity law that critics say will cement assimilation]]></title>
+<title><![CDATA[China adopts an ethnic unity law that critics say will cement assimilation]]></title>
 <link>https://apnews.com/article/china-ethnic-minority-assimilation-law-45db00f1d9e301f8704a0c0c057ca994</link>
-<pubDate>Thu, 12 Mar 2026 00:31:13 -0000</pubDate>
+<pubDate>Thu, 12 Mar 2026 08:49:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa deploys soldiers to the streets to tackle organized and violent crime]]></title>
-<link>https://apnews.com/article/johannesburg-troops-crime-crackdown-president-d92dd6dc8eea76bdf1abd878200379f9</link>
-<pubDate>Wed, 11 Mar 2026 14:07:11 -0000</pubDate>
+<title><![CDATA[Senegal lawmakers approve new bill toughening punishment for homosexual acts]]></title>
+<link>https://apnews.com/article/senegal-homosexuality-law-tougher-punishment-e243a04cf4d1529b127492f5941247e4</link>
+<pubDate>Thu, 12 Mar 2026 08:34:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories]]></title>
-<link>https://apnews.com/article/gu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed</link>
-<pubDate>Tue, 10 Mar 2026 13:24:15 -0000</pubDate>
+<title><![CDATA[Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court]]></title>
+<link>https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9</link>
+<pubDate>Thu, 12 Mar 2026 08:19:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
