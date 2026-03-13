@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 01:06:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 03:39:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years]]></title>
 <link>https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4</link>
 <pubDate>Wed, 11 Mar 2026 11:51:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pentagon says first week of Iran war cost the US $11.3 billion, an AP source says]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump--03-11-2026</link>
-<pubDate>Thu, 12 Mar 2026 01:01:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +17,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pentagon says first week of Iran war cost the US $11.3 billion, an AP source says]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump--03-11-2026</link>
+<pubDate>Thu, 12 Mar 2026 01:01:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Analysis: Iran war becomes a contest of who can take the most pain]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-attrition-analysis-5d7e50c3a6da57414bbf4a5e255e4a7e</link>
 <pubDate>Thu, 12 Mar 2026 00:46:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US says it destroyed 16 minelaying vessels as Iran threatens to block Gulf oil exports]]></title>
-<link>https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55</link>
-<pubDate>Wed, 11 Mar 2026 05:05:52 -0000</pubDate>
+<title><![CDATA[Iran’s supreme leader resolves to keep fighting in his first public remarks]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506</link>
+<pubDate>Fri, 13 Mar 2026 03:39:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Damage to historical sites in Iran raises alarm about war’s impact on protected places]]></title>
+<link>https://apnews.com/article/unesco-iran-war-heritage-sites-bff566d6bc1fb7167614b43690277414</link>
+<pubDate>Fri, 13 Mar 2026 03:24:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,27 +47,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls]]></title>
-<link>https://apnews.com/article/sudan-war-rsf-military-drone-schoolgirls-e1e102861f0d4cc193a51669f297c670</link>
-<pubDate>Thu, 12 Mar 2026 20:07:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian court convicts 19 people over deadly 2024 Moscow concert hall attack]]></title>
 <link>https://apnews.com/article/russia-court-convictions-crocus-city-hall-shooting-fb1676669f24ba7d3952b6c238591a62</link>
 <pubDate>Thu, 12 Mar 2026 11:47:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia and Ukraine both claim front-line progress with US-brokered talks on hold]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-iran-drones-us-talks-b7267b71dda7a7f5b7fd10770ac04ae8</link>
-<pubDate>Wed, 11 Mar 2026 10:28:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Wealthy nations pledge record release of emergency oil reserves in a bid to calm surging prices]]></title>
 <link>https://apnews.com/article/iran-us-oil-europe-reserve-release-eaf0cf9988cd7e06f0dc2a8ee800762e</link>
 <pubDate>Wed, 11 Mar 2026 19:19:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Celebrity chef René Redzepi resigns from iconic Danish restaurant Noma after abuse allegations]]></title>
+<link>https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d</link>
+<pubDate>Fri, 13 Mar 2026 03:09:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela and Colombia abruptly cancel planned presidents’ meeting, citing ‘force majeure’]]></title>
+<link>https://apnews.com/article/venezuela-delcy-colombia-petro-meeting-trump-18793d4492ff9ee6812da4e8ee52c89a</link>
+<pubDate>Fri, 13 Mar 2026 02:54:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mexico’s president promises ‘Plan B’ after congressional defeat of electoral reforms]]></title>
 <link>https://apnews.com/article/mexico-election-reform-sheinbaum-morena-c7e2c6687d3beda30d2a319c72ee1976</link>
 <pubDate>Fri, 13 Mar 2026 00:51:45 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Guatemala’s new Constitutional Court faces a tough test to win back public trust]]></title>
 <link>https://apnews.com/article/guatemala-constitutional-court-arevalo-justice-26ba9058e99b57ccc7eedf8db358cf43</link>
 <pubDate>Fri, 13 Mar 2026 00:36:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Young Cubans turn to church and state as cheap, synthetic drugs flood the streets]]></title>
-<link>https://apnews.com/article/cuba-drug-use-chemical-economy-crisis-d0f22f6452b8f167f6766c9d4d481be6</link>
-<pubDate>Thu, 12 Mar 2026 04:55:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man who rammed his vehicle into Michigan synagogue was naturalized citizen born in Lebanon, DHS says]]></title>
+<title><![CDATA[Man who rammed his vehicle into Michigan synagogue was naturalized citizen from Lebanon, DHS says]]></title>
 <link>https://apnews.com/article/west-bloomfield-michigan-synagogue-99884aa558523928953bf5d31018c150</link>
-<pubDate>Fri, 13 Mar 2026 00:21:45 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 02:39:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +197,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba says it will release 51 people from the island’s jails in an unexpected move]]></title>
-<link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
-<pubDate>Fri, 13 Mar 2026 01:06:46 -0000</pubDate>
+<title><![CDATA[Asia shares mostly lower and oil hovers around $100 a barrel over Iran war worries]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-iran-trump-74bf078b7e40b6a0d38033c9fe29a87b</link>
+<pubDate>Fri, 13 Mar 2026 03:39:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A 5.5 quake jolts central Turkey, sending residents into the cold streets]]></title>
+<link>https://apnews.com/article/tokat-turkey-earthquake-cold-7913062f90c1c9fca1a1fe8f91eca1a0</link>
+<pubDate>Fri, 13 Mar 2026 03:24:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,12 +359,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Celebrity chef René Redzepi resigns from iconic Danish restaurant Noma after abuse allegations]]></title>
-<link>https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d</link>
-<pubDate>Thu, 12 Mar 2026 11:47:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[AP Exclusive: Smithsonian museum will revamp its slavery exhibit after artifact loan runs out]]></title>
 <link>https://apnews.com/article/smithsonian-african-american-museum-slavery-exhibit-removal-8509b2b531b28260fa32a4261229ef25</link>
 <pubDate>Thu, 12 Mar 2026 19:22:42 -0000</pubDate>
@@ -371,15 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump pushes economic messages in Kentucky and Ohio as Iran looms large, in photos]]></title>
-<link>https://apnews.com/photo-gallery/trump-kentucky-ohio-iran-photos-9f1229256082cb5afdf7de97da1365fd</link>
-<pubDate>Thu, 12 Mar 2026 01:01:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s supreme leader resolves to keep fighting in his first public remarks]]></title>
-<link>https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506</link>
-<pubDate>Fri, 13 Mar 2026 01:06:47 -0000</pubDate>
+<title><![CDATA[Young Cubans turn to church and state as cheap, synthetic drugs flood the streets]]></title>
+<link>https://apnews.com/article/cuba-drug-use-chemical-economy-crisis-d0f22f6452b8f167f6766c9d4d481be6</link>
+<pubDate>Fri, 13 Mar 2026 03:09:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli military drops charges against soldiers accused of sexually assaulting Palestinian detainee]]></title>
-<link>https://apnews.com/article/israel-gaza-war-palestinians-prison-abuse-b11e5f0639b7fe51c5ea101f4b320f56</link>
-<pubDate>Thu, 12 Mar 2026 19:52:43 -0000</pubDate>
+<title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
+<link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
+<pubDate>Fri, 13 Mar 2026 03:39:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,6 +419,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran-linked hackers take aim at US and other targets, raising risk of cyberattacks during war]]></title>
+<link>https://apnews.com/article/cyber-threats-iran-war-trump-israel-hackers-2c0ae77b1799b3d1c5b1353f7798f8ff</link>
+<pubDate>Thu, 12 Mar 2026 18:22:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US defends Israel against South Africa’s allegation of genocide filed to top UN court]]></title>
 <link>https://apnews.com/article/world-court-israel-genocide-us-south-africa-1194b83a65c37541753a9b804133f9fd</link>
 <pubDate>Thu, 12 Mar 2026 19:37:43 -0000</pubDate>
@@ -440,12 +440,6 @@
 <title><![CDATA[The islands off Iran’s southern coast are key to its economy and security. What to know about them]]></title>
 <link>https://apnews.com/article/iran-war-islands-strait-hormuz-oil-trump-1b3e770e61c6a05d3e078223e15b20b2</link>
 <pubDate>Thu, 12 Mar 2026 15:30:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Damage to historical sites in Iran raises alarm about war’s impact on protected places]]></title>
-<link>https://apnews.com/article/unesco-iran-war-heritage-sites-bff566d6bc1fb7167614b43690277414</link>
-<pubDate>Thu, 12 Mar 2026 05:10:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +479,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela and Colombia abruptly cancel planned presidents’ meeting, citing ‘force majeure’]]></title>
-<link>https://apnews.com/article/venezuela-delcy-colombia-petro-meeting-trump-18793d4492ff9ee6812da4e8ee52c89a</link>
-<pubDate>Fri, 13 Mar 2026 00:06:47 -0000</pubDate>
+<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
+<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
+<pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls]]></title>
+<link>https://apnews.com/article/sudan-war-rsf-military-drone-schoolgirls-e1e102861f0d4cc193a51669f297c670</link>
+<pubDate>Thu, 12 Mar 2026 07:11:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
