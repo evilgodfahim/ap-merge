@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 19:07:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 19:51:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
@@ -77,12 +77,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s president confirms US talks as island’s energy and economic crises intensify]]></title>
-<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
-<pubDate>Fri, 13 Mar 2026 17:59:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
 <link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
 <pubDate>Fri, 13 Mar 2026 13:22:08 -0000</pubDate>
@@ -92,6 +86,12 @@
 <title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
 <pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cuba’s president confirms US talks as island’s energy and economic crises intensify]]></title>
+<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
+<pubDate>Fri, 13 Mar 2026 17:59:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Eswatini receives third batch of migrants deported by the US]]></title>
-<link>https://apnews.com/article/eswatini-deportees-us-trump-immigration-5388e0771714b074953cfcb1f110b67c</link>
-<pubDate>Fri, 13 Mar 2026 07:43:17 -0000</pubDate>
+<title><![CDATA[Drone strikes and clashes in eastern Congo threaten region’s peace efforts]]></title>
+<link>https://apnews.com/article/congo-m23-rwanda-goma-trump-peace-conflict-ca408e184f7da1e0ff31d2335fa5a576</link>
+<pubDate>Fri, 13 Mar 2026 19:51:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Landslides in southern Ethiopia leave at least 50 people dead and 125 missing]]></title>
-<link>https://apnews.com/article/ethiopia-landslides-deaths-b5cfde29f703aa1c025beb7cef1c9f57</link>
-<pubDate>Thu, 12 Mar 2026 19:52:41 -0000</pubDate>
+<title><![CDATA[Eswatini receives third batch of migrants deported by the US]]></title>
+<link>https://apnews.com/article/eswatini-deportees-us-trump-immigration-5388e0771714b074953cfcb1f110b67c</link>
+<pubDate>Fri, 13 Mar 2026 07:43:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,21 +125,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Number on gun used in fatal Old Dominion shooting was obliterated, law enforcement official says]]></title>
+<title><![CDATA[Justice Department charges man accused of selling gun to Old Dominion University shooter]]></title>
 <link>https://apnews.com/article/old-dominion-university-shooting-rotc-3e9049d15354b33bba37035a98a5299f</link>
-<pubDate>Fri, 13 Mar 2026 15:17:51 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 19:36:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Old Dominion shooter convicted of Islamic State group ties freed from prison 2 years before attack]]></title>
+<title><![CDATA[Trump signs executive orders aimed at addressing home affordability concerns ahead of midterms]]></title>
+<link>https://apnews.com/article/trump-housing-executive-orders-bafb561bcc5da770de8f44ec06676d0d</link>
+<pubDate>Fri, 13 Mar 2026 19:21:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Old Dominion shooter was released from prison early after completing drug program]]></title>
 <link>https://apnews.com/article/jalloh-old-dominion-university-shooting-islamic-state-b257727b0167982fbffafae2eb8548fd</link>
-<pubDate>Fri, 13 Mar 2026 15:02:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US forecasts blizzard, polar vortex, heat dome and atmospheric river all at once]]></title>
-<link>https://apnews.com/article/heat-dome-snow-blizzard-cold-polar-flooding-55e3baf6877e81ee1961aade3cb361c3</link>
-<pubDate>Fri, 13 Mar 2026 07:28:17 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 19:06:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,18 @@
 <title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
 <link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
 <pubDate>Sat, 07 Mar 2026 08:51:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s soap opera industry is the secret agent behind powerful films at the Oscars]]></title>
+<link>https://apnews.com/article/brazil-soap-operas-cinema-oscars-61148809cc6ec3038eaacff3769daed8</link>
+<pubDate>Fri, 13 Mar 2026 19:51:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Moscow businesses struggle as Russia restricts cellphone internet services]]></title>
+<link>https://apnews.com/article/russia-internet-outage-cellphone-app-disruptions-1792cfb177c26682efdb8046e0f9b063</link>
+<pubDate>Fri, 13 Mar 2026 19:36:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -356,18 +368,6 @@
 <title><![CDATA[Drone strike in Sudan near the border with Chad kills 4, injures many more]]></title>
 <link>https://apnews.com/article/sudan-darfur-war-army-drones-kordofan-0241df1e672527877fc2f2c602d48c94</link>
 <pubDate>Fri, 13 Mar 2026 17:59:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-march-12-2026-3014fc4390d512b90052073a9ccf51b0</link>
-<pubDate>Thu, 12 Mar 2026 20:22:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of a central Beirut district struck by Israeli bombs]]></title>
-<link>https://apnews.com/photo-gallery/israel-bombs-beirut-d19a3929d774d81d00ba1c06740d90b3</link>
-<pubDate>Thu, 12 Mar 2026 20:07:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
