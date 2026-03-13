@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 17:55:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 18:29:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The islands off Iran’s southern coast are key to its economy and security. What to know about them]]></title>
-<link>https://apnews.com/article/iran-war-islands-strait-hormuz-oil-trump-1b3e770e61c6a05d3e078223e15b20b2</link>
-<pubDate>Fri, 13 Mar 2026 08:43:17 -0000</pubDate>
+<title><![CDATA[Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge]]></title>
+<link>https://apnews.com/article/iran-war-hormuz-oil-shipping-49a1901c35cf2507830776a29706cf98</link>
+<pubDate>Fri, 13 Mar 2026 18:29:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,15 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian court convicts 19 people over deadly 2024 Moscow concert hall attack]]></title>
-<link>https://apnews.com/article/russia-court-convictions-crocus-city-hall-shooting-fb1676669f24ba7d3952b6c238591a62</link>
-<pubDate>Thu, 12 Mar 2026 11:47:25 -0000</pubDate>
+<title><![CDATA[US eases some Russian oil sanctions but crude prices stay high]]></title>
+<link>https://apnews.com/article/russia-oil-sanctions-iran-war-hormuz-d131631be94766f50a5b1888b2aad778</link>
+<pubDate>Fri, 13 Mar 2026 18:14:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[All but 2 of Austria’s 96 glaciers have retreated over last 2 years]]></title>
-<link>https://apnews.com/article/austria-alps-glaciers-climate-8977dd102a52c99b0d3505e2185df6e9</link>
-<pubDate>Fri, 13 Mar 2026 11:49:42 -0000</pubDate>
+<title><![CDATA[Russian court convicts 19 people over deadly 2024 Moscow concert hall attack]]></title>
+<link>https://apnews.com/article/russia-court-convictions-crocus-city-hall-shooting-fb1676669f24ba7d3952b6c238591a62</link>
+<pubDate>Thu, 12 Mar 2026 11:47:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,21 +77,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba’s president confirms US talks as island’s energy and economic crises intensify]]></title>
+<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
+<pubDate>Fri, 13 Mar 2026 17:59:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
 <link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
 <pubDate>Fri, 13 Mar 2026 13:22:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
-<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
-<pubDate>Fri, 13 Mar 2026 10:49:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
 <pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ethiopia declares 3 days of mourning after landslides in the south kill 80 people]]></title>
+<link>https://apnews.com/article/ethiopia-landslides-death-toll-6be27e4eafc4d85b7f9f483d27b49de4</link>
+<pubDate>Fri, 13 Mar 2026 17:44:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -110,12 +116,6 @@
 <title><![CDATA[Landslides in southern Ethiopia leave at least 50 people dead and 125 missing]]></title>
 <link>https://apnews.com/article/ethiopia-landslides-deaths-b5cfde29f703aa1c025beb7cef1c9f57</link>
 <pubDate>Thu, 12 Mar 2026 19:52:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Drone strike in Sudan near the border with Chad kills 4, injures many more]]></title>
-<link>https://apnews.com/article/sudan-darfur-war-army-drones-kordofan-0241df1e672527877fc2f2c602d48c94</link>
-<pubDate>Fri, 13 Mar 2026 01:06:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil revokes U.S. official’s visa in reciprocal measure]]></title>
+<link>https://apnews.com/article/brazil-revokes-visa-trump-adviser-bolsonaro-50a1a83aef3b38f433609abf64a24321</link>
+<pubDate>Fri, 13 Mar 2026 18:29:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[German museum celebrates famed Japanese artist Kusama in vast new exhibit]]></title>
 <link>https://apnews.com/article/yayoi-kusama-ludwig-cologne-germany-japan-7847250b9cfd95e7e503c86f5540b25e</link>
 <pubDate>Fri, 13 Mar 2026 15:32:52 -0000</pubDate>
@@ -218,6 +224,12 @@
 <title><![CDATA[2 Ohio pastors emerge as faithful allies for Haitian migrants during Trump’s crackdown]]></title>
 <link>https://apnews.com/article/migrants-haitians-springfield-ohio-immigration-crackdown-pastors-fec8c6fee73ccb97c4bbdd6d08697c76</link>
 <pubDate>Fri, 13 Mar 2026 15:17:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[All but 2 of Austria’s 96 glaciers have retreated over last 2 years]]></title>
+<link>https://apnews.com/article/austria-alps-glaciers-climate-8977dd102a52c99b0d3505e2185df6e9</link>
+<pubDate>Fri, 13 Mar 2026 18:14:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Drone strike in Sudan near the border with Chad kills 4, injures many more]]></title>
+<link>https://apnews.com/article/sudan-darfur-war-army-drones-kordofan-0241df1e672527877fc2f2c602d48c94</link>
+<pubDate>Fri, 13 Mar 2026 17:59:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-march-12-2026-3014fc4390d512b90052073a9ccf51b0</link>
 <pubDate>Thu, 12 Mar 2026 20:22:42 -0000</pubDate>
@@ -353,33 +371,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump bragged about low gas prices. The Iran conflict has him doing an about-face]]></title>
-<link>https://apnews.com/article/trump-iran-oil-hormuz-7abbe9d8140de1e61355fb3ddb94639d</link>
-<pubDate>Fri, 13 Mar 2026 06:44:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Visually impaired skier racer Meg Gustafson chases Paralympic medals with her brother as guide]]></title>
-<link>https://apnews.com/article/paralympics-milan-cortina-games-9fd53f426069b2a38064b2708c17dab7</link>
-<pubDate>Thu, 12 Mar 2026 18:37:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico’s president promises ‘Plan B’ after congressional defeat of electoral reforms]]></title>
-<link>https://apnews.com/article/mexico-election-reform-sheinbaum-morena-c7e2c6687d3beda30d2a319c72ee1976</link>
-<pubDate>Fri, 13 Mar 2026 10:49:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Blast rocks Tehran after Israel threatened to target area of government-organized rally]]></title>
 <link>https://apnews.com/article/iran-israel-us-march-13-2026-oil-prices-2a86a1f5c5997b70c6586d957074fb0c</link>
 <pubDate>Fri, 13 Mar 2026 13:52:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[All 6 airmen on a US refueling plane that crashed in Iraq are dead, US military says]]></title>
+<title><![CDATA[All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says]]></title>
 <link>https://apnews.com/article/us-iran-tanker-aircraft-crash-iraq-kc135-c337359a58be6280dc96fdbf1cb48a5b</link>
-<pubDate>Fri, 13 Mar 2026 17:04:21 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 18:29:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,12 +392,6 @@
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
 <pubDate>Fri, 13 Mar 2026 13:37:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq is caught in the crossfire of the Iran war, with attacks by both sides on its soil]]></title>
-<link>https://apnews.com/article/iraq-iran-war-kurds-oil-exports-baghdad-95ece8d9ce780634220cec5efe860c86</link>
-<pubDate>Fri, 13 Mar 2026 13:22:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iraq is caught in the crossfire of the Iran war, with attacks by both sides on its soil]]></title>
+<link>https://apnews.com/article/iraq-iran-war-kurds-oil-exports-baghdad-95ece8d9ce780634220cec5efe860c86</link>
+<pubDate>Fri, 13 Mar 2026 13:22:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran-linked hackers take aim at US and other targets, raising risk of cyberattacks during war]]></title>
 <link>https://apnews.com/article/cyber-threats-iran-war-trump-israel-hackers-2c0ae77b1799b3d1c5b1353f7798f8ff</link>
 <pubDate>Thu, 12 Mar 2026 18:22:57 -0000</pubDate>
@@ -434,12 +434,6 @@
 <title><![CDATA[US defends Israel against South Africa’s allegation of genocide filed to top UN court]]></title>
 <link>https://apnews.com/article/world-court-israel-genocide-us-south-africa-1194b83a65c37541753a9b804133f9fd</link>
 <pubDate>Thu, 12 Mar 2026 19:37:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge]]></title>
-<link>https://apnews.com/article/iran-war-hormuz-oil-shipping-49a1901c35cf2507830776a29706cf98</link>
-<pubDate>Wed, 11 Mar 2026 19:34:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[For the first time, Cuba confirms US talks as energy and economic crises intensify]]></title>
-<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
-<pubDate>Fri, 13 Mar 2026 16:49:21 -0000</pubDate>
+<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
+<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
+<pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
