@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 18:22:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 19:00:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says US ‘obliterated’ military targets on Iran’s Kharg Island]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-13-2026</link>
-<pubDate>Sat, 14 Mar 2026 01:05:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says]]></title>
 <link>https://apnews.com/article/us-iran-tanker-aircraft-crash-iraq-kc135-c337359a58be6280dc96fdbf1cb48a5b</link>
 <pubDate>Sat, 14 Mar 2026 03:37:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says US ‘obliterated’ military targets on Iran’s Kharg Island]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-13-2026</link>
+<pubDate>Sat, 14 Mar 2026 01:05:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +41,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rene Redzepi steps down from Noma and fine dining’s ‘brigade’ culture comes under scrutiny]]></title>
-<link>https://apnews.com/article/noma-redzepi-chef-abuse-celebrity-2a05c8368c4ab6c63cea97114ce958b3</link>
-<pubDate>Sat, 14 Mar 2026 12:26:32 -0000</pubDate>
+<title><![CDATA[AP Exclusive: Turkey’s Foreign Minister Hakan Fidan talks diplomacy efforts as regional war rages]]></title>
+<link>https://apnews.com/article/turkey-foreign-minister-iran-5a1bf8a77a475e33adefb0c99c26547c</link>
+<pubDate>Sat, 14 Mar 2026 19:00:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of Russia’s latest missile and drone attack on the Kyiv region]]></title>
-<link>https://apnews.com/photo-gallery/russia-ukraine-war-kyiv-attack-photos-2e692b52d0717e2d334646acb8e8fab4</link>
-<pubDate>Sat, 14 Mar 2026 10:36:17 -0000</pubDate>
+<title><![CDATA[Rene Redzepi steps down from Noma and fine dining’s ‘brigade’ culture comes under scrutiny]]></title>
+<link>https://apnews.com/article/noma-redzepi-chef-abuse-celebrity-2a05c8368c4ab6c63cea97114ce958b3</link>
+<pubDate>Sat, 14 Mar 2026 12:26:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the falloff in China’s military flights around Taiwan]]></title>
+<link>https://apnews.com/article/china-taiwan-military-flights-decline-b24b743955ab9544513c1de151e2b870</link>
+<pubDate>Sat, 14 Mar 2026 18:45:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australian jury convicts Sydney business consultant over deals with suspected Chinese spies]]></title>
 <link>https://apnews.com/article/australia-china-spies-csergo-foreign-interference-c731f021b7082ac0977a2ceb99d0de8b</link>
 <pubDate>Fri, 13 Mar 2026 13:37:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cambodia drafts its first law targeting online scam centers]]></title>
-<link>https://apnews.com/article/cambodia-cybercrime-online-fraud-88f377f649207d558bc6858609442858</link>
-<pubDate>Fri, 13 Mar 2026 11:19:42 -0000</pubDate>
+<title><![CDATA[Trinidad and Tobago extends state of emergency for 3 months over crime]]></title>
+<link>https://apnews.com/article/trinidad-tobago-state-of-emergency-extension-crime-334e1da25a442158055f59583a902f1d</link>
+<pubDate>Sat, 14 Mar 2026 18:30:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
 <link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
 <pubDate>Sat, 14 Mar 2026 17:33:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
-<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
-<pubDate>Fri, 13 Mar 2026 10:49:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cambodia drafts its first law targeting online scam centers]]></title>
+<link>https://apnews.com/article/cambodia-cybercrime-online-fraud-88f377f649207d558bc6858609442858</link>
+<pubDate>Sat, 14 Mar 2026 19:00:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dutch police probe suspected arson after explosion at Rotterdam synagogue]]></title>
 <link>https://apnews.com/article/netherlands-synagogue-arson-antisemitism-141c76e5d893c395ca4ac6dff0ff4301</link>
 <pubDate>Fri, 13 Mar 2026 15:02:52 -0000</pubDate>
@@ -353,21 +359,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks lose ground as war with Iran keeps pressure on oil prices]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-iran-trump-74bf078b7e40b6a0d38033c9fe29a87b</link>
-<pubDate>Fri, 13 Mar 2026 14:47:52 -0000</pubDate>
+<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
+<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
+<pubDate>Sat, 14 Mar 2026 18:45:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 5.5 quake jolts central Turkey, sending residents into the cold streets]]></title>
-<link>https://apnews.com/article/tokat-turkey-earthquake-cold-7913062f90c1c9fca1a1fe8f91eca1a0</link>
-<pubDate>Fri, 13 Mar 2026 03:24:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tehran threatens Middle East’s busiest port as Iran war enters its third week]]></title>
+<title><![CDATA[Tehran says the US attacked it from the UAE as Iran war enters its third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
-<pubDate>Sat, 14 Mar 2026 15:17:50 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 19:00:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -386,12 +386,6 @@
 <title><![CDATA[Russian strike on Kyiv region kills 4 people and wounds 15 as peace talks are stalled]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-4aed3cc6ff151c82a474acaf1a3a05ff</link>
 <pubDate>Sat, 14 Mar 2026 16:17:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trinidad and Tobago extends state of emergency for 3 months over crime]]></title>
-<link>https://apnews.com/article/trinidad-tobago-state-of-emergency-extension-crime-334e1da25a442158055f59583a902f1d</link>
-<pubDate>Sat, 14 Mar 2026 17:48:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,12 +446,6 @@
 <title><![CDATA[Jet fuel prices are rising. That could make summer flights more expensive]]></title>
 <link>https://apnews.com/article/jet-fuel-airfares-flights-prices-oil-ac2446896f112746345702bd6e1986cc</link>
 <pubDate>Sat, 14 Mar 2026 07:37:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the falloff in China’s military flights around Taiwan]]></title>
-<link>https://apnews.com/article/china-taiwan-military-flights-decline-b24b743955ab9544513c1de151e2b870</link>
-<pubDate>Fri, 13 Mar 2026 11:19:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
