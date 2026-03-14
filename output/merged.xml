@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 08:57:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 09:27:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years]]></title>
-<link>https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4</link>
-<pubDate>Wed, 11 Mar 2026 11:51:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
 <pubDate>Sat, 14 Mar 2026 00:50:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years]]></title>
+<link>https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4</link>
+<pubDate>Wed, 11 Mar 2026 11:51:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +389,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian strike on the Kyiv region kills 4 and wounds at least 15, with peace talks stalled]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-4aed3cc6ff151c82a474acaf1a3a05ff</link>
+<pubDate>Sat, 14 Mar 2026 07:22:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[North Korean leader Kim Jong Un and his teenage daughter shoot guns on visit to weapons factory]]></title>
 <link>https://apnews.com/video/north-korean-leader-kim-jong-un-and-his-teenage-daughter-shoot-guns-on-visit-to-weapons-factory-13e9884d633b458294ac9e4dd6bea242</link>
 <pubDate>Fri, 13 Mar 2026 23:48:48 -0000</pubDate>
@@ -452,12 +458,6 @@
 <title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
 <link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
 <pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strike on the Kyiv region kills 4 and wounds at least 15, with peace talks stalled]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-4aed3cc6ff151c82a474acaf1a3a05ff</link>
-<pubDate>Sat, 14 Mar 2026 07:22:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
