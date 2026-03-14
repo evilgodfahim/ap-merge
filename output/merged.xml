@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 11:43:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 12:26:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
@@ -14,12 +14,6 @@
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
 <pubDate>Sat, 14 Mar 2026 00:50:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years]]></title>
-<link>https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4</link>
-<pubDate>Wed, 11 Mar 2026 11:51:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,15 +29,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran war disrupts energy supplies as Iran’s new leader resolves to keep fighting]]></title>
+<link>https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506</link>
+<pubDate>Fri, 13 Mar 2026 07:14:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US defends Israel against South Africa’s allegation of genocide filed to top UN court]]></title>
 <link>https://apnews.com/article/world-court-israel-genocide-us-south-africa-1194b83a65c37541753a9b804133f9fd</link>
 <pubDate>Sat, 14 Mar 2026 07:08:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Out of the frying pan? Noma’s Rene Redzepi resigns, and fine dining confronts ‘brigade’ culture]]></title>
+<title><![CDATA[Rene Redzepi steps down from Noma and fine dining’s ‘brigade’ culture comes under scrutiny]]></title>
 <link>https://apnews.com/article/noma-redzepi-chef-abuse-celebrity-2a05c8368c4ab6c63cea97114ce958b3</link>
-<pubDate>Sat, 14 Mar 2026 10:51:17 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 12:26:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
+<link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
+<pubDate>Fri, 13 Mar 2026 13:22:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
 <pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Cuban president confirms US talks as island’s energy and economic crises intensify]]></title>
 <link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
 <pubDate>Fri, 13 Mar 2026 20:42:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s telenovela industry is the secret agent behind powerful films at the Oscars]]></title>
-<link>https://apnews.com/article/brazil-soap-operas-cinema-oscars-61148809cc6ec3038eaacff3769daed8</link>
-<pubDate>Sat, 14 Mar 2026 08:07:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bessent will meet China’s vice premier in Paris ahead of Trump’s visit to Beijing]]></title>
-<link>https://apnews.com/article/china-trump-xi-bessent-trade-talks-tariffs-70ec583e94bad2767567c2df38b3db29</link>
-<pubDate>Fri, 13 Mar 2026 08:13:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ships identify themselves as Chinese around Strait of Hormuz during Iran war to avoid attacks]]></title>
 <link>https://apnews.com/article/ships-iran-war-attacks-china-hormuz-6f86d32df52abc738f9cdf5bc825cc20</link>
 <pubDate>Fri, 13 Mar 2026 00:06:45 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[China adopts an ethnic unity law that critics say will cement assimilation]]></title>
 <link>https://apnews.com/article/china-ethnic-minority-assimilation-law-45db00f1d9e301f8704a0c0c057ca994</link>
 <pubDate>Fri, 13 Mar 2026 04:52:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court]]></title>
+<link>https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9</link>
+<pubDate>Thu, 12 Mar 2026 10:47:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Greek oil tanker damaged in suspected Black Sea drone attack as wars disrupt global shipping]]></title>
+<link>https://apnews.com/article/greece-russia-tanker-attack-drone-iran-oil-daaab01dc5bc97c1bb5fd7f51b78b0ac</link>
+<pubDate>Sat, 14 Mar 2026 12:26:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dutch police hunt suspect filmed setting off a blast outside a Jewish school in Amsterdam]]></title>
 <link>https://apnews.com/article/netherlands-dutch-jewish-explosion-arson-belgium-police-3a646562262ce0c7c2bec1c8209945d9</link>
 <pubDate>Sat, 14 Mar 2026 10:51:17 -0000</pubDate>
@@ -212,6 +218,12 @@
 <title><![CDATA[A canceled meeting between leaders dashes hopes of families of Colombian prisoners in Venezuela]]></title>
 <link>https://apnews.com/article/colombia-venezuela-prisoners-family-border-petro-delcy-16363ff9ffe9eae47a5a6aa0421707f9</link>
 <pubDate>Fri, 13 Mar 2026 20:42:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s telenovela industry is the secret agent behind powerful films at the Oscars]]></title>
+<link>https://apnews.com/article/brazil-soap-operas-cinema-oscars-61148809cc6ec3038eaacff3769daed8</link>
+<pubDate>Fri, 13 Mar 2026 22:03:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military refueling plane crashes in Iraq and rescue is underway]]></title>
-<link>https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d</link>
-<pubDate>Fri, 13 Mar 2026 12:52:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thiel brings his Antichrist lectures to the Vatican’s doorstep, and Catholic institutions back away]]></title>
-<link>https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743</link>
-<pubDate>Thu, 12 Mar 2026 23:51:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US bombs military sites on Iranian island as Trump threatens its oil infrastructure]]></title>
+<title><![CDATA[Iran strikes back after US bombs an oil-critical Iranian island as Mideast war enters third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
-<pubDate>Sat, 14 Mar 2026 05:05:45 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 12:26:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,15 +383,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the falloff in China’s military flights around Taiwan]]></title>
-<link>https://apnews.com/article/china-taiwan-military-flights-decline-b24b743955ab9544513c1de151e2b870</link>
-<pubDate>Fri, 13 Mar 2026 11:19:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russian strike on the Kyiv region kills 4 and wounds at least 15, with peace talks stalled]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-4aed3cc6ff151c82a474acaf1a3a05ff</link>
 <pubDate>Sat, 14 Mar 2026 07:22:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election]]></title>
+<link>https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204</link>
+<pubDate>Sat, 14 Mar 2026 12:11:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
-<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
-<pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
+<title><![CDATA[What to know about the falloff in China’s military flights around Taiwan]]></title>
+<link>https://apnews.com/article/china-taiwan-military-flights-decline-b24b743955ab9544513c1de151e2b870</link>
+<pubDate>Fri, 13 Mar 2026 11:19:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
-<link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
-<pubDate>Fri, 13 Mar 2026 03:39:14 -0000</pubDate>
+<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
+<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
+<pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China advances to the Women’s Asian Cup semifinals with a 2-0 extra-time win over Taiwan]]></title>
-<link>https://apnews.com/article/soccer-womens-asian-cup-598442102cea9c33bea664f479cb63ae</link>
-<pubDate>Sat, 14 Mar 2026 07:07:12 -0000</pubDate>
+<title><![CDATA[Bessent will meet China’s vice premier in Paris ahead of Trump’s visit to Beijing]]></title>
+<link>https://apnews.com/article/china-trump-xi-bessent-trade-talks-tariffs-70ec583e94bad2767567c2df38b3db29</link>
+<pubDate>Thu, 12 Mar 2026 20:07:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
