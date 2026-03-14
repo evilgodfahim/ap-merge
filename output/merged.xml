@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 14:53:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 15:17:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Jürgen Habermas, influential German philosopher, dies at 96]]></title>
+<link>https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5</link>
+<pubDate>Sat, 14 Mar 2026 15:17:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rene Redzepi steps down from Noma and fine dining’s ‘brigade’ culture comes under scrutiny]]></title>
 <link>https://apnews.com/article/noma-redzepi-chef-abuse-celebrity-2a05c8368c4ab6c63cea97114ce958b3</link>
 <pubDate>Sat, 14 Mar 2026 12:26:32 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Photos of Russia’s latest missile and drone attack on the Kyiv region]]></title>
 <link>https://apnews.com/photo-gallery/russia-ukraine-war-kyiv-attack-photos-2e692b52d0717e2d334646acb8e8fab4</link>
 <pubDate>Sat, 14 Mar 2026 10:36:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Prominent Belarus opposition figure picks up prize she was awarded while in prison]]></title>
-<link>https://apnews.com/article/belarus-kolesnikova-opposition-germany-charlemagne-prize-b4f96f96b61a990547a6b587e141a186</link>
-<pubDate>Sat, 14 Mar 2026 13:59:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
+<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
+<pubDate>Fri, 13 Mar 2026 10:49:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
 <link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
 <pubDate>Fri, 13 Mar 2026 13:22:08 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
 <pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuban president confirms US talks as island’s energy and economic crises intensify]]></title>
-<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
-<pubDate>Fri, 13 Mar 2026 20:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,15 +185,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protest in central Cuba at local communist headquarters ends in 5 arrests]]></title>
+<link>https://apnews.com/article/cuba-protest-arrests-communist-party-75e420ce4d6a1d52ceac5224839e2a6b</link>
+<pubDate>Sat, 14 Mar 2026 15:17:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air China to resume flights to North Korea at the end of the month after train service restarted]]></title>
 <link>https://apnews.com/article/china-north-korea-flights-air-china-19284305c58131e8243bddec33f170f1</link>
 <pubDate>Sat, 14 Mar 2026 13:59:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
-<link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
-<pubDate>Sat, 14 Mar 2026 13:44:04 -0000</pubDate>
+<title><![CDATA[Prominent Belarus opposition figure picks up prize she was awarded while in prison]]></title>
+<link>https://apnews.com/article/belarus-kolesnikova-opposition-germany-charlemagne-prize-b4f96f96b61a990547a6b587e141a186</link>
+<pubDate>Sat, 14 Mar 2026 15:02:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +266,12 @@
 <title><![CDATA[Two long-lost episodes of ‘Doctor Who’ have been found. Fans will soon be able to watch them]]></title>
 <link>https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8</link>
 <pubDate>Fri, 13 Mar 2026 13:37:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cuban president confirms US talks as island’s energy and economic crises intensify]]></title>
+<link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
+<pubDate>Sat, 14 Mar 2026 14:47:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela and Colombia abruptly cancel planned presidents’ meeting, citing ‘force majeure’]]></title>
-<link>https://apnews.com/article/venezuela-delcy-colombia-petro-meeting-trump-18793d4492ff9ee6812da4e8ee52c89a</link>
-<pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration denounces CNN for airing messages from Iranian leaders]]></title>
-<link>https://apnews.com/article/khamenei-trump-cnn-iran-criticism-speech-war-6c5d24c0de5469d01c4c41b2b432a879</link>
-<pubDate>Fri, 13 Mar 2026 00:21:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran war enters its third week as 2,500 more US Marines are being sent to the region]]></title>
+<title><![CDATA[Tehran threatens Middle East’s busiest port as Iran war enters its third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
-<pubDate>Sat, 14 Mar 2026 13:59:05 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 15:17:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strike on the Kyiv region kills 4 and wounds at least 15, with peace talks stalled]]></title>
+<title><![CDATA[Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-4aed3cc6ff151c82a474acaf1a3a05ff</link>
-<pubDate>Sat, 14 Mar 2026 07:22:12 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 15:02:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
-<link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
-<pubDate>Fri, 13 Mar 2026 03:24:14 -0000</pubDate>
+<title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
+<link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
+<pubDate>Sat, 14 Mar 2026 14:47:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
