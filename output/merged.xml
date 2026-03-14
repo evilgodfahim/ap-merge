@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 13:26:00 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
-<pubDate>Thu, 12 Mar 2026 22:48:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sat, 14 Mar 2026 13:59:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
 <pubDate>Sat, 14 Mar 2026 00:50:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US military says a refueling aircraft went down in Iraq, rescue efforts are underway]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-12-2026</link>
+<pubDate>Thu, 12 Mar 2026 22:48:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US defends Israel against South Africa’s allegation of genocide filed to top UN court]]></title>
-<link>https://apnews.com/article/world-court-israel-genocide-us-south-africa-1194b83a65c37541753a9b804133f9fd</link>
-<pubDate>Sat, 14 Mar 2026 07:08:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Rene Redzepi steps down from Noma and fine dining’s ‘brigade’ culture comes under scrutiny]]></title>
 <link>https://apnews.com/article/noma-redzepi-chef-abuse-celebrity-2a05c8368c4ab6c63cea97114ce958b3</link>
 <pubDate>Sat, 14 Mar 2026 12:26:32 -0000</pubDate>
@@ -53,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US eases some Russian oil sanctions but crude prices stay high]]></title>
-<link>https://apnews.com/article/russia-oil-sanctions-iran-war-hormuz-d131631be94766f50a5b1888b2aad778</link>
-<pubDate>Fri, 13 Mar 2026 18:14:13 -0000</pubDate>
+<title><![CDATA[Prominent Belarus opposition figure picks up prize she was awarded while in prison]]></title>
+<link>https://apnews.com/article/belarus-kolesnikova-opposition-germany-charlemagne-prize-b4f96f96b61a990547a6b587e141a186</link>
+<pubDate>Sat, 14 Mar 2026 13:59:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,6 +113,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump ally Ric Grenell stepping down as Kennedy Center president]]></title>
+<link>https://apnews.com/article/trump-kennedy-center-richard-grenell-6bf4f74ea5f0e80abf8f9c181cdd431a</link>
+<pubDate>Sat, 14 Mar 2026 13:44:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Judge quashes subpoenas in Justice Department’s investigation of Fed chair Jerome Powell]]></title>
 <link>https://apnews.com/article/feeral-reserve-trump-0fdd36447a6aa8ae3e7125930d03950f</link>
 <pubDate>Fri, 13 Mar 2026 20:27:25 -0000</pubDate>
@@ -134,12 +134,6 @@
 <title><![CDATA[What to know about Reform Judaism after an attack on one of its largest US synagogues]]></title>
 <link>https://apnews.com/article/jewish-synagogue-attacked-michigan-reform-judaism-72632b46dc92a50aa0cfa191a0f53a95</link>
 <pubDate>Thu, 12 Mar 2026 22:18:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Justice Department charges man accused of selling gun to Old Dominion University shooter]]></title>
-<link>https://apnews.com/article/old-dominion-university-shooting-rotc-3e9049d15354b33bba37035a98a5299f</link>
-<pubDate>Fri, 13 Mar 2026 19:36:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +182,18 @@
 <title><![CDATA[A boost for Moscow in the shadow of Iran war: US allows India to buy Russian oil for a month]]></title>
 <link>https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e</link>
 <pubDate>Sat, 07 Mar 2026 08:51:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Air China to resume flights to North Korea at the end of the month after train service restarted]]></title>
+<link>https://apnews.com/article/china-north-korea-flights-air-china-19284305c58131e8243bddec33f170f1</link>
+<pubDate>Sat, 14 Mar 2026 13:59:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
+<link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
+<pubDate>Sat, 14 Mar 2026 13:44:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,21 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guatemala’s new Constitutional Court faces a tough test to win back public trust]]></title>
-<link>https://apnews.com/article/guatemala-constitutional-court-arevalo-justice-26ba9058e99b57ccc7eedf8db358cf43</link>
-<pubDate>Fri, 13 Mar 2026 08:28:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A record number of political parties register for Haiti’s first election in a decade]]></title>
-<link>https://apnews.com/article/haiti-elections-registration-deadline-political-parties-870a26224ec31be5e664726fb7033d1c</link>
-<pubDate>Fri, 13 Mar 2026 00:06:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran strikes back after US bombs an oil-critical Iranian island as Mideast war enters third week]]></title>
+<title><![CDATA[Iran war enters its third week as 2,500 more US Marines are being sent to the region]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
-<pubDate>Sat, 14 Mar 2026 12:26:34 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 13:59:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranians grapple with whether to flee the country because of the war]]></title>
+<link>https://apnews.com/article/refugees-iran-turkey-war-migration-0e036a109d7e5b819a0fd6db5a6f3ddd</link>
+<pubDate>Sat, 14 Mar 2026 13:44:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,6 +431,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US eases some Russian oil sanctions but crude prices stay high]]></title>
+<link>https://apnews.com/article/russia-oil-sanctions-iran-war-hormuz-d131631be94766f50a5b1888b2aad778</link>
+<pubDate>Fri, 13 Mar 2026 18:14:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the Jones Act as Trump considers a waiver during the Iran war]]></title>
 <link>https://apnews.com/article/jones-act-trump-trade-abcac596db839bff3679b3117d2e81b2</link>
 <pubDate>Sat, 14 Mar 2026 08:07:12 -0000</pubDate>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump ally Ric Grenell stepping down as Kennedy Center president]]></title>
-<link>https://apnews.com/article/trump-kennedy-center-richard-grenell-6bf4f74ea5f0e80abf8f9c181cdd431a</link>
-<pubDate>Fri, 13 Mar 2026 20:57:26 -0000</pubDate>
+<title><![CDATA[The biggest change to voting in Republican election bill could become a burden for many US voters]]></title>
+<link>https://apnews.com/article/save-act-documents-requirements-citizenship-voting-congress-dfb43bcdd0255d3665da588a60286b4e</link>
+<pubDate>Sat, 14 Mar 2026 13:29:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
