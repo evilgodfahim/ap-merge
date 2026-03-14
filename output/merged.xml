@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 17:17:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 17:48:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -71,21 +71,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[American flag raised at US Embassy in Venezuela for the 1st time since 2019]]></title>
+<link>https://apnews.com/article/venezuela-american-embassy-flag-reopens-b6699999e31ee34dbd0b5e0a2051d38b</link>
+<pubDate>Sat, 14 Mar 2026 17:48:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
+<link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
+<pubDate>Sat, 14 Mar 2026 17:33:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran war and rising fuel costs could boost Panama Canal traffic, administrator says]]></title>
 <link>https://apnews.com/article/panama-canal-middle-east-shipping-cd96f57f8aede33a274381be5525a6aa</link>
 <pubDate>Fri, 13 Mar 2026 10:49:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba will release 51 people from prison in an unexpected move]]></title>
-<link>https://apnews.com/article/cuba-prisoner-release-vatican-f94d7310e1dda84f92ab293ef6edb365</link>
-<pubDate>Fri, 13 Mar 2026 13:22:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
-<pubDate>Fri, 13 Mar 2026 17:04:20 -0000</pubDate>
+<title><![CDATA[South African soldiers dismantle illegal mining operations near Johannesburg as miners flee]]></title>
+<link>https://apnews.com/article/south-africa-army-deployment-illegal-mining-57bdb1d71247fdfafb98ee8fd065f186</link>
+<pubDate>Sat, 14 Mar 2026 17:18:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Eswatini receives third batch of migrants deported by the US]]></title>
-<link>https://apnews.com/article/eswatini-deportees-us-trump-immigration-5388e0771714b074953cfcb1f110b67c</link>
-<pubDate>Fri, 13 Mar 2026 07:43:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A seat at the table, but no vote yet for a Democratic lawmaker in the Kennedy Center board showdown]]></title>
 <link>https://apnews.com/article/trump-kennedy-center-lawsuit-beatty-renovations-53d19b342753174b9a90b9c21aa9fa0c</link>
 <pubDate>Sat, 14 Mar 2026 16:17:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ruptured pipe that leaked millions of gallons of raw waste into the Potomac is back in operation]]></title>
+<link>https://apnews.com/article/washington-sewage-leak-raw-waste-potomac-river-3d1207916d3e9bccce90e8e31e917272</link>
+<pubDate>Sat, 14 Mar 2026 17:03:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -128,12 +134,6 @@
 <title><![CDATA[Judge quashes subpoenas in Justice Department’s investigation of Fed chair Jerome Powell]]></title>
 <link>https://apnews.com/article/feeral-reserve-trump-0fdd36447a6aa8ae3e7125930d03950f</link>
 <pubDate>Fri, 13 Mar 2026 20:27:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man who rammed into Michigan synagogue had just lost family in an Israeli strike in Lebanon]]></title>
-<link>https://apnews.com/article/michigan-synagogue-attack-fbi-investigation-58331bad2c28e78c6c99a4a764637873</link>
-<pubDate>Sat, 14 Mar 2026 00:35:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Dutch police hunt suspect filmed setting off a blast outside a Jewish school in Amsterdam]]></title>
+<title><![CDATA[Dutch authorities seek 2 suspects in an explosion outside an Amsterdam Jewish school]]></title>
 <link>https://apnews.com/article/netherlands-dutch-jewish-explosion-arson-belgium-police-3a646562262ce0c7c2bec1c8209945d9</link>
-<pubDate>Sat, 14 Mar 2026 10:51:17 -0000</pubDate>
+<pubDate>Sat, 14 Mar 2026 17:48:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +254,12 @@
 <title><![CDATA[Brazil revokes visa of US diplomat who sought to visit Bolsonaro in prison]]></title>
 <link>https://apnews.com/article/brazil-revokes-visa-trump-adviser-bolsonaro-50a1a83aef3b38f433609abf64a24321</link>
 <pubDate>Fri, 13 Mar 2026 20:27:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
+<pubDate>Sat, 14 Mar 2026 17:33:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vehicle sought in US consulate shooting investigation found, Toronto police say]]></title>
-<link>https://apnews.com/article/canada-us-toronto-consulate-shooting-23bb2eb587b69a4da72a4158838d7f8f</link>
-<pubDate>Fri, 13 Mar 2026 00:51:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Tehran threatens Middle East’s busiest port as Iran war enters its third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
 <pubDate>Sat, 14 Mar 2026 15:17:50 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election]]></title>
-<link>https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204</link>
-<pubDate>Sat, 14 Mar 2026 12:11:34 -0000</pubDate>
+<title><![CDATA[Trinidad and Tobago extends state of emergency for 3 months over crime]]></title>
+<link>https://apnews.com/article/trinidad-tobago-state-of-emergency-extension-crime-334e1da25a442158055f59583a902f1d</link>
+<pubDate>Sat, 14 Mar 2026 17:48:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,15 +467,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indigenous women tour Ecuador oil field as warning against Amazon drilling expansion]]></title>
-<link>https://apnews.com/article/climate-ecuador-amazon-oil-drilling-b2ef49bfac17102456a4d3bf30730be2</link>
-<pubDate>Sat, 14 Mar 2026 14:47:50 -0000</pubDate>
+<title><![CDATA[Former Brazil President Bolsonaro’s kidney function worsens but pneumonia stabilized, hospital says]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-hospitalization-kidney-pneumonia-fb07a9d4327d3ea907e42aeb14a86f4e</link>
+<pubDate>Sat, 14 Mar 2026 17:33:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[South African soldiers dismantle illegal mining operations near Johannesburg as miners flee]]></title>
-<link>https://apnews.com/article/south-africa-army-deployment-illegal-mining-57bdb1d71247fdfafb98ee8fd065f186</link>
-<pubDate>Fri, 13 Mar 2026 08:43:19 -0000</pubDate>
+<title><![CDATA[Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election]]></title>
+<link>https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204</link>
+<pubDate>Sat, 14 Mar 2026 12:11:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
