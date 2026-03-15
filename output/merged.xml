@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 15:48:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 16:19:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -47,9 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Prince Harry and Meghan slam author of new book on royals for ‘deranged conspiracy’]]></title>
-<link>https://apnews.com/article/harry-meghan-tom-bower-royal-book-prince-87c0c1ae701335ec6925596f79371caf</link>
-<pubDate>Sun, 15 Mar 2026 13:28:23 -0000</pubDate>
+<title><![CDATA[Prince William shares a post remembering his late mother Princess Diana on UK Mother’s Day]]></title>
+<link>https://apnews.com/article/uk-britain-william-diana-mothers-day-photo-2aaec4e496c7af9771e7c1b7b19c0f41</link>
+<pubDate>Sun, 15 Mar 2026 16:19:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan says it hit militant hideouts in Afghanistan’s Kandahar as fighting shows no letup]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-kandahar-fighting-15de9a35d08aa0c265de42a13d1ddaea</link>
+<pubDate>Sun, 15 Mar 2026 16:04:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kazakhstanis vote in referendum on new constitution that would cement president’s grip on power]]></title>
-<link>https://apnews.com/article/kazakhstan-referendum-tokayev-constitution-fef36383f2de35fa7f636a6d9310348d</link>
-<pubDate>Sun, 15 Mar 2026 11:15:10 -0000</pubDate>
+<title><![CDATA[Brazil ex-President Bolsonaro’s kidney function improves but he remains in intensive care]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-medical-report-6a604ababab70be9214919489bd63556</link>
+<pubDate>Sun, 15 Mar 2026 15:49:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Former Brazil President Bolsonaro’s kidney function worsens but pneumonia stabilized, hospital says]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-hospitalization-kidney-pneumonia-fb07a9d4327d3ea907e42aeb14a86f4e</link>
 <pubDate>Sat, 14 Mar 2026 22:33:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trinidad and Tobago extends state of emergency for 3 months over crime]]></title>
-<link>https://apnews.com/article/trinidad-tobago-state-of-emergency-extension-crime-334e1da25a442158055f59583a902f1d</link>
-<pubDate>Sat, 14 Mar 2026 18:30:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,15 +125,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The biggest change to voting in Republican election bill could become a burden for many US voters]]></title>
-<link>https://apnews.com/article/save-act-documents-requirements-citizenship-voting-congress-dfb43bcdd0255d3665da588a60286b4e</link>
-<pubDate>Sat, 14 Mar 2026 20:00:35 -0000</pubDate>
+<title><![CDATA[Israeli military claims brother of man who attacked Michigan synagogue was Hezbollah commander]]></title>
+<link>https://apnews.com/article/michigan-synagogue-attack-israel-hezbollah-5d77acb920b9435e4fb8d3bd340868cb</link>
+<pubDate>Sun, 15 Mar 2026 15:34:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A seat at the table, but no vote yet for a Democratic lawmaker in the Kennedy Center board showdown]]></title>
-<link>https://apnews.com/article/trump-kennedy-center-lawsuit-beatty-renovations-53d19b342753174b9a90b9c21aa9fa0c</link>
-<pubDate>Sat, 14 Mar 2026 16:17:53 -0000</pubDate>
+<title><![CDATA[The biggest change to voting in Republican election bill could become a burden for many US voters]]></title>
+<link>https://apnews.com/article/save-act-documents-requirements-citizenship-voting-congress-dfb43bcdd0255d3665da588a60286b4e</link>
+<pubDate>Sat, 14 Mar 2026 20:00:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Prince Harry and Meghan slam author of new book on royals for ‘deranged conspiracy’]]></title>
+<link>https://apnews.com/article/harry-meghan-tom-bower-royal-book-prince-87c0c1ae701335ec6925596f79371caf</link>
+<pubDate>Sun, 15 Mar 2026 16:19:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Armed group killed security personnel in an ambush in north-central Nigeria, authorities say]]></title>
 <link>https://apnews.com/article/nigeria-armed-attack-3493e7c6793a5787fd7bef6d8c36af7b</link>
 <pubDate>Sun, 15 Mar 2026 13:28:23 -0000</pubDate>
@@ -200,6 +206,12 @@
 <title><![CDATA[After quieter weeks, Taiwan reports large-scale Chinese military aircraft presence near the island]]></title>
 <link>https://apnews.com/article/china-taiwan-planes-military-decline-surge-c7a1dfa0bd5fba6b74ccf430a422c178</link>
 <pubDate>Sun, 15 Mar 2026 08:59:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kazakhstanis vote in referendum on new constitution that would cement president’s grip on power]]></title>
+<link>https://apnews.com/article/kazakhstan-referendum-tokayev-constitution-fef36383f2de35fa7f636a6d9310348d</link>
+<pubDate>Sun, 15 Mar 2026 16:04:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +272,12 @@
 <title><![CDATA[AP Exclusive: Turkey’s Foreign Minister Hakan Fidan talks diplomatic efforts as regional war rages]]></title>
 <link>https://apnews.com/article/turkey-foreign-minister-iran-5a1bf8a77a475e33adefb0c99c26547c</link>
 <pubDate>Sun, 15 Mar 2026 13:13:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trinidad and Tobago extends state of emergency for 3 months over crime]]></title>
+<link>https://apnews.com/article/trinidad-tobago-state-of-emergency-extension-crime-334e1da25a442158055f59583a902f1d</link>
+<pubDate>Sun, 15 Mar 2026 15:49:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,27 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s telenovela industry is the secret agent behind powerful films at the Oscars]]></title>
-<link>https://apnews.com/article/brazil-soap-operas-cinema-oscars-61148809cc6ec3038eaacff3769daed8</link>
-<pubDate>Fri, 13 Mar 2026 22:03:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Moscow businesses struggle as Russia restricts cellphone internet services]]></title>
-<link>https://apnews.com/article/russia-internet-outage-cellphone-app-disruptions-1792cfb177c26682efdb8046e0f9b063</link>
-<pubDate>Fri, 13 Mar 2026 19:36:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil revokes visa of US diplomat who sought to visit Bolsonaro in prison]]></title>
-<link>https://apnews.com/article/brazil-revokes-visa-trump-adviser-bolsonaro-50a1a83aef3b38f433609abf64a24321</link>
-<pubDate>Fri, 13 Mar 2026 20:27:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gulf Arab states intercept new missiles and drones as Iran threatens to widen the war]]></title>
+<title><![CDATA[Trump’s call for countries to send warships to protect the Strait of Hormuz brings no promises]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-15-2026-9bbed3c906146844be08fdfd02595754</link>
-<pubDate>Sun, 15 Mar 2026 13:28:24 -0000</pubDate>
+<pubDate>Sun, 15 Mar 2026 16:19:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
