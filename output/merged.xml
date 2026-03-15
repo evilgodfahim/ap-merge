@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 14:01:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 14:52:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -185,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Swedish court orders detention of Russian captain of tanker boarded off Sweden]]></title>
+<link>https://apnews.com/article/sweden-sea-owl-captain-detained-russia-shadow-fleet-cca0c94b55a02a416846583dafb8f78d</link>
+<pubDate>Sun, 15 Mar 2026 14:52:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Armed group killed security personnel in an ambush in north-central Nigeria, authorities say]]></title>
 <link>https://apnews.com/article/nigeria-armed-attack-3493e7c6793a5787fd7bef6d8c36af7b</link>
 <pubDate>Sun, 15 Mar 2026 13:28:23 -0000</pubDate>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says]]></title>
-<link>https://apnews.com/article/brazil-bolsonaro-icu-pneumonia-21ea5f3ed34455b919943a3ad51f0284</link>
-<pubDate>Sat, 14 Mar 2026 17:33:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gulf Arab states intercept new missiles and drones as Iran threatens to widen the war]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-15-2026-9bbed3c906146844be08fdfd02595754</link>
 <pubDate>Sun, 15 Mar 2026 13:28:24 -0000</pubDate>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hospital officials say an Israeli strike killed 4 in Gaza, including 2 children and a pregnant woman]]></title>
+<title><![CDATA[Hospital officials say Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman]]></title>
 <link>https://apnews.com/article/gaza-israel-war-hamas-6b085df37d118091c442e29e481f0d91</link>
-<pubDate>Sun, 15 Mar 2026 10:19:20 -0000</pubDate>
+<pubDate>Sun, 15 Mar 2026 14:52:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says Ukraine waiting on US and Russia to set next round of talks]]></title>
+<title><![CDATA[Zelenskyy says Ukraine is waiting on US and Russia to set the next round of talks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-zelenskyy-talks-da43331a99bfcfd80b14e64159c26d8f</link>
-<pubDate>Sun, 15 Mar 2026 11:45:12 -0000</pubDate>
+<pubDate>Sun, 15 Mar 2026 14:37:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
