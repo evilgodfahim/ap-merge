@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 08:25:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 08:59:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-macron-oil-drones-a9330482d471ea67890a0e8ec1913db7</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French voters head to polls in early municipal test before 2027 presidential election]]></title>
+<link>https://apnews.com/article/france-municipal-elections-61a015af8539baa39df8605f7c5023b2</link>
+<pubDate>Sun, 15 Mar 2026 08:59:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jürgen Habermas, influential German philosopher, dies at 96]]></title>
 <link>https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5</link>
 <pubDate>Sat, 14 Mar 2026 15:17:49 -0000</pubDate>
@@ -47,27 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms]]></title>
-<link>https://apnews.com/article/italy-meloni-protests-iran-spain-greece-1a007751a1ea7fbf6c579cdf6085eb4e</link>
-<pubDate>Sat, 14 Mar 2026 21:17:19 -0000</pubDate>
+<title><![CDATA[A bus carrying Indian pilgrims plunges off a mountain road in Nepal, killing 7]]></title>
+<link>https://apnews.com/article/nepal-bus-accident-indian-pilgrims-3990ccc28f30e135c02e6d9259892ccb</link>
+<pubDate>Sun, 15 Mar 2026 08:44:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kazakhs vote in referendum on new constitution that could keep the president in power]]></title>
+<title><![CDATA[Kazakhstanis vote in referendum on new constitution that could keep the president in power]]></title>
 <link>https://apnews.com/article/kazakhstan-referendum-tokayev-constitution-fef36383f2de35fa7f636a6d9310348d</link>
-<pubDate>Sun, 15 Mar 2026 07:22:35 -0000</pubDate>
+<pubDate>Sun, 15 Mar 2026 08:29:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Millions in Vietnam to vote for a new legislature in general election]]></title>
 <link>https://apnews.com/article/vietnam-election-national-assembly-c3a445f2e29da4d30267c1d18f079f0c</link>
 <pubDate>Sun, 15 Mar 2026 05:47:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s president says Afghan Taliban forces crossed a ‘red line’ with drone attacks on civilians]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-drone-attacks-zardari-89e68a28e725c7e8f5609ec8a253796b</link>
-<pubDate>Sat, 14 Mar 2026 10:21:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,6 +137,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan’s president says Afghan Taliban forces crossed a ‘red line’ with drone attacks on civilians]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-drone-attacks-zardari-89e68a28e725c7e8f5609ec8a253796b</link>
+<pubDate>Sat, 14 Mar 2026 10:21:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about the falloff in China’s military flights around Taiwan]]></title>
 <link>https://apnews.com/article/china-taiwan-military-flights-decline-b24b743955ab9544513c1de151e2b870</link>
 <pubDate>Sat, 14 Mar 2026 18:45:32 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[Ships identify themselves as Chinese around Strait of Hormuz during Iran war to avoid attacks]]></title>
 <link>https://apnews.com/article/ships-iran-war-attacks-china-hormuz-6f86d32df52abc738f9cdf5bc825cc20</link>
 <pubDate>Fri, 13 Mar 2026 00:06:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China positions itself as force for global stability at its annual Congress]]></title>
-<link>https://apnews.com/article/china-congress-legislature-closing-five-year-plan-d754b321c4235f619c998e9b4d03f130</link>
-<pubDate>Sat, 14 Mar 2026 07:52:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,21 +185,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French voters head to polls in early municipal test before 2027 presidential election]]></title>
-<link>https://apnews.com/article/france-municipal-elections-61a015af8539baa39df8605f7c5023b2</link>
-<pubDate>Sun, 15 Mar 2026 07:37:36 -0000</pubDate>
+<title><![CDATA[After quieter weeks, Taiwan reports large-scale Chinese military aircraft presence near the island]]></title>
+<link>https://apnews.com/article/china-taiwan-planes-military-decline-surge-c7a1dfa0bd5fba6b74ccf430a422c178</link>
+<pubDate>Sun, 15 Mar 2026 08:59:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Stars pack the Polo Lounge for Chanel and Charles Finch’s 17th pre-Oscar dinner]]></title>
 <link>https://apnews.com/article/chanel-oscars-event-b51cd1589dd5e19cad3622d8ebd359e3</link>
 <pubDate>Sun, 15 Mar 2026 07:22:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A bus carrying Indian pilgrims plunges off a mountain road in Nepal, killing 7]]></title>
-<link>https://apnews.com/article/nepal-bus-accident-indian-pilgrims-3990ccc28f30e135c02e6d9259892ccb</link>
-<pubDate>Sun, 15 Mar 2026 07:07:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -218,6 +212,12 @@
 <title><![CDATA[Formula 1 calls off April races in Bahrain and Saudi Arabia due to Iran war]]></title>
 <link>https://apnews.com/article/f1-mideast-races-canceled-4c110a35b3548020124106b9c21368c5</link>
 <pubDate>Sat, 14 Mar 2026 22:48:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms]]></title>
+<link>https://apnews.com/article/italy-meloni-protests-iran-spain-greece-1a007751a1ea7fbf6c579cdf6085eb4e</link>
+<pubDate>Sun, 15 Mar 2026 08:44:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +353,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Residents of Tehran tell AP of rising fear and isolation as bombs strike without warning]]></title>
+<link>https://apnews.com/article/iran-war-tehran-73dd5b0c125a9147d632b4c82d9f0213</link>
+<pubDate>Sun, 15 Mar 2026 08:29:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuban president confirms US talks as island’s energy and economic crises intensify]]></title>
 <link>https://apnews.com/article/cuba-us-talks-68bec1bfee9efe696c8ce357463c7a56</link>
 <pubDate>Sat, 14 Mar 2026 14:47:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Poland’s Tusk vows to use EU defense loans despite president’s veto]]></title>
-<link>https://apnews.com/article/poland-defense-european-union-loans-president-veto-210b118852c6dbcc90347c8d399c64a5</link>
-<pubDate>Fri, 13 Mar 2026 13:22:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump urges US allies to send warships to Strait of Hormuz as Iran vows to retaliate]]></title>
+<title><![CDATA[Gulf states intercept new missiles and drones as Iran threatens to widen war]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-15-2026-9bbed3c906146844be08fdfd02595754</link>
-<pubDate>Sun, 15 Mar 2026 05:47:58 -0000</pubDate>
+<pubDate>Sun, 15 Mar 2026 08:59:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War has already displaced nearly a million Lebanese, and aid groups warn of a humanitarian crisis]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-displacement-shelter-249cacd33642bb03b0b90f4704e82c49</link>
-<pubDate>Sat, 14 Mar 2026 07:08:24 -0000</pubDate>
+<title><![CDATA[Hospital officials say an Israeli strike killed 4 in Gaza, including a child and his pregnant mother]]></title>
+<link>https://apnews.com/article/gaza-israel-war-hamas-6b085df37d118091c442e29e481f0d91</link>
+<pubDate>Sun, 15 Mar 2026 08:44:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +407,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show the impact of the Iran war on tourism in Dubai]]></title>
-<link>https://apnews.com/photo-gallery/dubai-tourism-photo-iran-war-d5fd5024ebbce163bf1aa301a2c98a6e</link>
-<pubDate>Sat, 14 Mar 2026 21:17:20 -0000</pubDate>
+<title><![CDATA[Another 3 members of Iran’s women’s soccer team decide against staying in Australia as refugees]]></title>
+<link>https://apnews.com/article/australia-iran-female-soccer-team-f94c5e36be8b5dd309bbcb0db868704e</link>
+<pubDate>Sun, 15 Mar 2026 08:29:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Residents of Tehran tell AP of rising fear and isolation as bombs strike without warning]]></title>
-<link>https://apnews.com/article/iran-war-tehran-73dd5b0c125a9147d632b4c82d9f0213</link>
-<pubDate>Sat, 14 Mar 2026 19:45:36 -0000</pubDate>
+<title><![CDATA[War has already displaced nearly a million Lebanese, and aid groups warn of a humanitarian crisis]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-displacement-shelter-249cacd33642bb03b0b90f4704e82c49</link>
+<pubDate>Sat, 14 Mar 2026 07:08:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show the impact of the Iran war on tourism in Dubai]]></title>
+<link>https://apnews.com/photo-gallery/dubai-tourism-photo-iran-war-d5fd5024ebbce163bf1aa301a2c98a6e</link>
+<pubDate>Sat, 14 Mar 2026 21:17:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
