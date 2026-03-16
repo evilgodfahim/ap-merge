@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 23:20:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 23:48:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tehran claims the US attacked it from the UAE as Iran war enters its third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
@@ -71,15 +71,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More than 200 people killed in Pakistan strike on Afghanistan hospital treating drug users]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36</link>
-<pubDate>Mon, 16 Mar 2026 22:16:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Roof collapse at Pakistan welfare payment site kills at least 8 women]]></title>
 <link>https://apnews.com/article/pakistan-roof-collapse-women-welfare-9e67be7c6bf9b0ff1a5de9a6bbba1b4f</link>
 <pubDate>Mon, 16 Mar 2026 12:44:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 dead after 2 boats carrying students capsize off US base construction site in southern Japan]]></title>
+<link>https://apnews.com/article/japan-okinawa-henoko-accident-us-f353010b49d2073843f7e2d93ec164ef</link>
+<pubDate>Mon, 16 Mar 2026 09:23:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazilian police release 3 Israeli tourists after clashes with pro-Palestine locals in beach city]]></title>
+<link>https://apnews.com/article/brazil-israeli-tourists-released-police-12acecc6b5df0b5a06337d95b5562163</link>
+<pubDate>Mon, 16 Mar 2026 23:48:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Supreme Court to hear arguments over push to end legal protections for migrants from Haiti, Syria]]></title>
 <link>https://apnews.com/article/supreme-court-migrant-protections-haiti-syria-3b3f42bffff1ca2c3a4e8ec5fc9f1765</link>
 <pubDate>Mon, 16 Mar 2026 19:46:11 -0000</pubDate>
@@ -284,12 +290,6 @@
 <title><![CDATA[Kazakhstan’s new constitution cementing president’s grip on power approved in a referendum]]></title>
 <link>https://apnews.com/article/kazakhstan-referendum-tokayev-constitution-89d92610c9eb73454592faafa7504587</link>
 <pubDate>Mon, 16 Mar 2026 13:28:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 dead after 2 boats carrying students capsize off US base construction site in southern Japan]]></title>
-<link>https://apnews.com/article/japan-okinawa-henoko-accident-us-f353010b49d2073843f7e2d93ec164ef</link>
-<pubDate>Mon, 16 Mar 2026 17:22:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Islandwide blackout hits Cuba as island struggles with deepening energy crisis]]></title>
+<link>https://apnews.com/article/cuba-power-outage-electricity-4dcd92d4b7b3bbeda88622b543074ceb</link>
+<pubDate>Mon, 16 Mar 2026 22:16:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[400 people killed in Pakistan strike on Afghanistan hospital treating drug users]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36</link>
+<pubDate>Mon, 16 Mar 2026 23:48:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[El Salvador has arbitrarily detained nationals deported from the US, Human Rights Watch says]]></title>
 <link>https://apnews.com/article/el-salvador-deportees-detention-trump-immigration-2d5ca7102f4865c722d61ceb5a542cf5</link>
 <pubDate>Mon, 16 Mar 2026 21:02:48 -0000</pubDate>
@@ -392,18 +404,6 @@
 <title><![CDATA[‘Radiant’ mother from Kentucky was among 6 US service members killed in air crash in Iraq]]></title>
 <link>https://apnews.com/article/us-military-aircraft-down-iran-iraq-ad3196de72ca6248045e42daa0cd9ce7</link>
 <pubDate>Mon, 16 Mar 2026 15:35:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians grapple with whether to flee the country because of the war]]></title>
-<link>https://apnews.com/article/refugees-iran-turkey-war-migration-0e036a109d7e5b819a0fd6db5a6f3ddd</link>
-<pubDate>Sat, 14 Mar 2026 13:44:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Islandwide blackout hits Cuba as island struggles with deepening energy crisis]]></title>
-<link>https://apnews.com/article/cuba-power-outage-electricity-4dcd92d4b7b3bbeda88622b543074ceb</link>
-<pubDate>Mon, 16 Mar 2026 22:16:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
