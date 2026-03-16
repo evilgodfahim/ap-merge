@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 15:35:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 16:51:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tehran claims the US attacked it from the UAE as Iran war enters its third week]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran threatens UAE ports as war enters its third week]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-14-2026</link>
-<pubDate>Mon, 16 Mar 2026 07:51:33 -0000</pubDate>
+<title><![CDATA[European allies seek clarity on Trump’s calls to send warships to Strait of Hormuz]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-16-2026</link>
+<pubDate>Mon, 16 Mar 2026 16:51:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Another 3 members of Iran’s women’s soccer team decide against staying in Australia as refugees]]></title>
-<link>https://apnews.com/article/australia-iran-female-soccer-team-f94c5e36be8b5dd309bbcb0db868704e</link>
-<pubDate>Sun, 15 Mar 2026 17:50:45 -0000</pubDate>
+<title><![CDATA[Iran threatens UAE ports as war enters its third week]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-14-2026</link>
+<pubDate>Mon, 16 Mar 2026 07:51:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[BBC asks US court to dismiss Trump’s $10 billion defamation lawsuit]]></title>
+<link>https://apnews.com/article/trump-media-britain-bbc-lawsuit-defamation-243128261f72a22de342d0cc02c0e4f1</link>
+<pubDate>Mon, 16 Mar 2026 16:51:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Is spring really — finally — here?]]></title>
 <link>https://apnews.com/article/spring-vernal-equinox-solstice-sun-daylight-e70d97f42571da5d863ba0887399909c</link>
 <pubDate>Mon, 16 Mar 2026 14:13:37 -0000</pubDate>
@@ -254,6 +260,12 @@
 <title><![CDATA[Norwegian family drama ‘Sentimental Value’ wins Oscar for best international film]]></title>
 <link>https://apnews.com/article/oscars-2026-best-international-film-ac9d608fec5a03ecbe2d0a0b67b44bbd</link>
 <pubDate>Mon, 16 Mar 2026 03:59:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sean Penn wins best supporting actor Oscar for ‘One Battle After Another’ but opts not to attend]]></title>
+<link>https://apnews.com/article/best-supporting-actor-2026-oscars-b82e633d4e4b384c63855d93d6f979d4</link>
+<pubDate>Mon, 16 Mar 2026 16:36:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Orbán and challenger Magyar summon rival rallies in show of strength before Hungary’s April election]]></title>
-<link>https://apnews.com/article/hungary-orban-magyar-rival-rallies-election-d9802379bae4d314463d9b80dacea950</link>
-<pubDate>Mon, 16 Mar 2026 04:45:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli soldiers fire on family car in occupied West Bank, killing 4]]></title>
-<link>https://apnews.com/article/mideast-wars-west-bank-deaths-ec9966789dbd71f85fe5776fe864ab97</link>
-<pubDate>Mon, 16 Mar 2026 09:38:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping]]></title>
 <link>https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d</link>
 <pubDate>Mon, 16 Mar 2026 14:13:37 -0000</pubDate>
@@ -431,9 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Falling oil prices send Wall Street toward its best day since the start of the Iran war]]></title>
+<title><![CDATA[Falling oil prices send Wall Street toward its best day since the Iran war began]]></title>
 <link>https://apnews.com/article/oil-stocks-markets-iran-trump-f982468f7ed277b058836387b04622b4</link>
-<pubDate>Mon, 16 Mar 2026 14:20:57 -0000</pubDate>
+<pubDate>Mon, 16 Mar 2026 16:51:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Snow and wind hit Eastern US and Midwest, blocking roads and grounding more than 2,000 flights]]></title>
+<title><![CDATA[Snow and wind hit Eastern US and Midwest, closing schools and grounding more than 3,000 flights]]></title>
 <link>https://apnews.com/article/severe-weather-storm-snow-east-coast-a8bbd037aba99aaf0cc930e91fdb72ca</link>
-<pubDate>Mon, 16 Mar 2026 13:35:57 -0000</pubDate>
+<pubDate>Mon, 16 Mar 2026 16:36:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump suggests he may delay China trip, but Bessent says it’s not to pressure on Strait of Hormuz]]></title>
+<title><![CDATA[Trump side-stepped diplomacy on his way to war in Iran. Now, he’s asking China and others for help]]></title>
 <link>https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266</link>
-<pubDate>Mon, 16 Mar 2026 12:14:05 -0000</pubDate>
+<pubDate>Mon, 16 Mar 2026 16:21:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
