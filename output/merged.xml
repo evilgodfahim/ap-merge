@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Mar 2026 11:35:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 12:42:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: Flights suspended at Dubai airport after drone sparks fire]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-15-2026</link>
@@ -125,12 +125,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some flight cancellations and delays continue after US storms dump snow in the Midwest and head east]]></title>
-<link>https://apnews.com/article/travel-weather-storms-flights-airports-f485f93852f31ab2fbd0513a117c7e20</link>
-<pubDate>Tue, 17 Mar 2026 04:16:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A Utah woman who wrote a book on grief after husband’s death found guilty of murdering him]]></title>
 <link>https://apnews.com/article/kouri-richins-murder-trial-closing-arguments-6c84063dd55f602b923dfbba59eaa12c</link>
 <pubDate>Tue, 17 Mar 2026 09:28:33 -0000</pubDate>
@@ -146,6 +140,12 @@
 <title><![CDATA[A $50 million push hopes to make child care a top issue in the midterm elections]]></title>
 <link>https://apnews.com/article/daycare-child-care-assistance-midterm-elections-1a006de0d9e0557370958e482d6f51f4</link>
 <pubDate>Tue, 17 Mar 2026 03:46:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Texas man executed for fatally stabbing girlfriend and her son as survivor of attack looks on]]></title>
+<link>https://apnews.com/article/texas-execution-cedric-ricks-stabbing-lethal-injection-ec09a8f506189dcea6ff49f62850ce1e</link>
+<pubDate>Wed, 11 Mar 2026 23:46:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,18 @@
 <title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
 <link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
 <pubDate>Mon, 09 Mar 2026 00:08:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France’s far right makes gains in first-round municipal elections as major cities head to runoff]]></title>
+<link>https://apnews.com/article/france-paris-mayor-municipal-elections-far-right-34784eeeaf04f4735f7e8e3ed33c23ad</link>
+<pubDate>Tue, 17 Mar 2026 12:42:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s Mexico Embassy says Iran is negotiating with FIFA to move World Cup matches]]></title>
+<link>https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228</link>
+<pubDate>Tue, 17 Mar 2026 12:27:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[United Arab Emirates briefly closes airspace as Israel strikes Lebanon and Tehran]]></title>
-<link>https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d</link>
-<pubDate>Tue, 17 Mar 2026 05:50:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US stocks climb to their best day since the Iran war began after oil prices ease]]></title>
-<link>https://apnews.com/article/oil-stocks-markets-iran-trump-f982468f7ed277b058836387b04622b4</link>
-<pubDate>Tue, 17 Mar 2026 09:43:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel says it killed 2 top Iranian security officials in a blow to Tehran’s leadership]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31</link>
 <pubDate>Tue, 17 Mar 2026 11:35:51 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares are mixed and US futures slip as Brent hovers above $100 a barrel]]></title>
+<title><![CDATA[Crude prices resume climb and pressure financial markets again]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-oil-iran-trump-c206d3ca9d54f9cb2c0548eb6bb639d0</link>
-<pubDate>Tue, 17 Mar 2026 09:13:34 -0000</pubDate>
+<pubDate>Tue, 17 Mar 2026 12:42:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suspected suicide bombers target Nigeria’s Maiduguri city, killing 23 people and injuring over 100]]></title>
+<title><![CDATA[At least 23 killed and 100 wounded in suspected suicide bombings in northeast Nigeria]]></title>
 <link>https://apnews.com/article/nigeria-suicide-bombings-borno-maiduguri-3eaeb7f126866ab3c8b1d927a8bc7168</link>
-<pubDate>Tue, 17 Mar 2026 09:28:34 -0000</pubDate>
+<pubDate>Tue, 17 Mar 2026 12:27:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Winds, blizzards and triple-digit heat put over half of the US in the path of extreme weather]]></title>
-<link>https://apnews.com/article/severe-weather-storm-snow-east-coast-a8bbd037aba99aaf0cc930e91fdb72ca</link>
-<pubDate>Mon, 16 Mar 2026 17:52:26 -0000</pubDate>
+<title><![CDATA[Some flight cancellations and delays continue after US storms dump snow in the Midwest and head east]]></title>
+<link>https://apnews.com/article/travel-weather-storms-flights-airports-f485f93852f31ab2fbd0513a117c7e20</link>
+<pubDate>Tue, 17 Mar 2026 12:12:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
