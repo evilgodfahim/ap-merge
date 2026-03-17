@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Mar 2026 06:35:40 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 07:46:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: Flights suspended at Dubai airport after drone sparks fire]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-15-2026</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[El Salvador has arbitrarily detained nationals deported from the US, Human Rights Watch says]]></title>
+<link>https://apnews.com/article/el-salvador-deportees-detention-trump-immigration-2d5ca7102f4865c722d61ceb5a542cf5</link>
+<pubDate>Tue, 17 Mar 2026 07:46:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mezcal’s popularity is booming in the US. That comes with a growing environmental cost in Mexico]]></title>
 <link>https://apnews.com/article/mezcal-mexico-environment-deforestation-agave-oaxaca-erosion-a53aa9d26d3c3bb3cbd65177c1a91c01</link>
 <pubDate>Tue, 17 Mar 2026 06:35:37 -0000</pubDate>
@@ -92,18 +98,6 @@
 <title><![CDATA[Chile’s new far-right president launches work on border barrier]]></title>
 <link>https://apnews.com/article/chile-border-barrier-jose-antonio-kast-trump-immigration-crackdown-fbd8b92131fa05c8b3b5cbeddbc4816b</link>
 <pubDate>Mon, 16 Mar 2026 22:01:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina’s wine industry withers on the vine as consumption hits a record low]]></title>
-<link>https://apnews.com/article/argentina-wine-industry-crisis-exports-grape-mendoza-80e12920dafb4b2afbc0e503ae8a86db</link>
-<pubDate>Tue, 17 Mar 2026 04:31:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say]]></title>
-<link>https://apnews.com/article/nigeria-bombings-boko-haram-borno-maiduguri-2256cebae89370b21930b006c5aa6f6e</link>
-<pubDate>Mon, 16 Mar 2026 21:31:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -122,6 +116,12 @@
 <title><![CDATA[Republic of Congo votes in an election that’s expected to extend incumbent president’s 42-year rule]]></title>
 <link>https://apnews.com/article/republic-of-congo-president-election-a7e32fea3127f90dabfc838eedd83d21</link>
 <pubDate>Mon, 16 Mar 2026 15:05:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election]]></title>
+<link>https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204</link>
+<pubDate>Sun, 15 Mar 2026 07:07:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,6 +203,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina’s wine industry withers on the vine as consumption hits a record low]]></title>
+<link>https://apnews.com/article/argentina-wine-industry-crisis-exports-grape-mendoza-80e12920dafb4b2afbc0e503ae8a86db</link>
+<pubDate>Tue, 17 Mar 2026 07:46:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock]]></title>
 <link>https://apnews.com/article/elon-musk-twitter-shareholders-class-action-trial-8cee8350cc041459ef23dd1efb41ace0</link>
 <pubDate>Tue, 17 Mar 2026 05:16:39 -0000</pubDate>
@@ -230,6 +236,12 @@
 <title><![CDATA[Brazilian police release 3 Israeli tourists after clashes with pro-Palestine locals in beach city]]></title>
 <link>https://apnews.com/article/brazil-israeli-tourists-released-police-12acecc6b5df0b5a06337d95b5562163</link>
 <pubDate>Mon, 16 Mar 2026 23:48:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say]]></title>
+<link>https://apnews.com/article/nigeria-bombings-boko-haram-borno-maiduguri-2256cebae89370b21930b006c5aa6f6e</link>
+<pubDate>Tue, 17 Mar 2026 07:31:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan says 400 people killed in Pakistan strike on Kabul hospital]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36</link>
+<pubDate>Tue, 17 Mar 2026 07:16:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Roof collapse at Pakistan welfare payment site kills at least 8 women]]></title>
 <link>https://apnews.com/article/pakistan-roof-collapse-women-welfare-9e67be7c6bf9b0ff1a5de9a6bbba1b4f</link>
 <pubDate>Tue, 17 Mar 2026 04:31:39 -0000</pubDate>
@@ -359,27 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gulf investors seen likely to keep funding Africa renewable energy despite the Iran war]]></title>
-<link>https://apnews.com/article/iran-war-gulf-funds-renewable-energy-ec3300910b69857d7cd4d1e994b46574</link>
-<pubDate>Mon, 16 Mar 2026 07:21:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[United Arab Emirates briefly closes airspace as Israel strikes Lebanon and Tehran]]></title>
-<link>https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d</link>
-<pubDate>Tue, 17 Mar 2026 05:50:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘KPop Demon Hunters,’ ‘Sinners’ and more: Oscars choreographer Mandy Moore breaks down the show]]></title>
-<link>https://apnews.com/article/oscars-2026-sinners-kpop-demon-hunters-performances-209c29cc74b8fbc3a4a3cd3afdaa1053</link>
-<pubDate>Mon, 16 Mar 2026 05:45:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel launches new strikes on Tehran and Lebanon as Iran hits back and fires on Gulf neighbors]]></title>
+<title><![CDATA[Iran fires on Gulf neighbors and vows not to relinquish stranglehold on strategic Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31</link>
-<pubDate>Tue, 17 Mar 2026 06:35:39 -0000</pubDate>
+<pubDate>Tue, 17 Mar 2026 07:46:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rescue crews dig bodies out of the ruins of a Kabul hospital hit in an airstrike blamed on Pakistan]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-conflict-kabul-airstrike-hospital-596bfd6c30d879be09af4d7a039972fe</link>
+<pubDate>Tue, 17 Mar 2026 07:31:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,15 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan says 400 people killed in Pakistan strike on Kabul hospital]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36</link>
-<pubDate>Tue, 17 Mar 2026 00:53:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[El Salvador has arbitrarily detained nationals deported from the US, Human Rights Watch says]]></title>
-<link>https://apnews.com/article/el-salvador-deportees-detention-trump-immigration-2d5ca7102f4865c722d61ceb5a542cf5</link>
-<pubDate>Mon, 16 Mar 2026 21:02:48 -0000</pubDate>
+<title><![CDATA[Police in Nigeria suspect suicide bombers in deaths of at least 23 people in Maiduguri]]></title>
+<link>https://apnews.com/article/nigeria-suicide-bombings-borno-maiduguri-3eaeb7f126866ab3c8b1d927a8bc7168</link>
+<pubDate>Tue, 17 Mar 2026 07:16:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
