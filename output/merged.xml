@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 06:37:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 07:44:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US deploys 5,000-pound bombs near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-17-2026</link>
@@ -95,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kenya’s capital experiments with giving workers menstrual leave]]></title>
+<link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
+<pubDate>Wed, 18 Mar 2026 07:44:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Denis Sassou N’Guesso reelected president of Congo with 94.8% of the vote, extending 42-year rule]]></title>
 <link>https://apnews.com/article/republic-of-congo-president-election-a7e32fea3127f90dabfc838eedd83d21</link>
 <pubDate>Tue, 17 Mar 2026 23:36:26 -0000</pubDate>
@@ -104,12 +110,6 @@
 <title><![CDATA[Belgian court orders trial of ex-diplomat for Congo independence icon Patrice Lumumba’s killing]]></title>
 <link>https://apnews.com/article/patrice-lumumba-trial-belgium-e004b908f0cab8d0c6e8291e37f04e03</link>
 <pubDate>Tue, 17 Mar 2026 19:47:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 men found with hundreds of ants are charged with illegally dealing in wildlife in Kenya]]></title>
-<link>https://apnews.com/article/kenya-wildlife-ants-case-cf1511c78036ae2246c906214d980d11</link>
-<pubDate>Tue, 17 Mar 2026 16:09:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,21 +185,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kenya’s capital experiments with giving workers menstrual leave]]></title>
-<link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
-<pubDate>Wed, 18 Mar 2026 06:37:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A new U.S. trade deal with Indonesia secures fossil fuels and access to critical minerals]]></title>
 <link>https://apnews.com/article/southeast-indonesia-energy-trump-tariff-deal-23c6aa733b8d03294d26efc65c0b9723</link>
 <pubDate>Wed, 18 Mar 2026 05:25:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares gain and oil slips back despite a barrage of attacks by Iran]]></title>
+<title><![CDATA[Asian shares advance and oil slips back despite a barrage of attacks by Iran]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-fddc46573a120d8235d0b696350b268d</link>
-<pubDate>Wed, 18 Mar 2026 05:10:36 -0000</pubDate>
+<pubDate>Wed, 18 Mar 2026 07:44:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -272,6 +266,12 @@
 <title><![CDATA[Hungary and Slovakia strike a new fuel pipeline deal to steady regional supplies]]></title>
 <link>https://apnews.com/article/hungary-slovakia-fuel-pipeline-agreement-814d92c11ade5cbd497c1c5ebc66833b</link>
 <pubDate>Tue, 17 Mar 2026 16:54:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 men found with hundreds of ants are charged with illegally dealing in wildlife in Kenya]]></title>
+<link>https://apnews.com/article/kenya-wildlife-ants-case-cf1511c78036ae2246c906214d980d11</link>
+<pubDate>Wed, 18 Mar 2026 07:29:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ali Larijani, believed to be running Iran since the beginning of the war, is killed in a strike]]></title>
-<link>https://apnews.com/article/ali-larijani-dead-be5f46c171b2f9bf1dbd8325261a92a6</link>
-<pubDate>Tue, 17 Mar 2026 23:51:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran lashes out with attacks on Israel and Gulf neighbors as Israel hits Beirut]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-18-2026-d7ca062ba1bf99d1f8dc00c8073cf10f</link>
 <pubDate>Wed, 18 Mar 2026 06:37:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ali Larijani, believed to be running Iran since the beginning of the war, is killed in a strike]]></title>
+<link>https://apnews.com/article/ali-larijani-dead-be5f46c171b2f9bf1dbd8325261a92a6</link>
+<pubDate>Tue, 17 Mar 2026 23:51:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
