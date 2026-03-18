@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 15:43:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 16:48:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US deploys 5,000-pound bombs near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-17-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN rights report condemns displacement of Palestinians in West Bank]]></title>
-<link>https://apnews.com/article/israel-west-bank-palestinians-un-rights-report-236f21615a2e9b08cf444db896fd178d</link>
-<pubDate>Wed, 18 Mar 2026 14:14:22 -0000</pubDate>
+<title><![CDATA[A look at the top Iranian official and the head of internal security targeted by Israel]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-larijani-basij-security-protests-a3134079432a7200180469e409a4fdae</link>
+<pubDate>Wed, 18 Mar 2026 16:48:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Emergency room for injured wild birds opens at Warsaw Zoo in Poland]]></title>
+<title><![CDATA[This new bird ER offers hope for injured wildlife]]></title>
 <link>https://apnews.com/article/poland-warsaw-zoo-birds-hospital-emergency-room-b98d8d5ec8df8a44004b9cd3f48c4228</link>
-<pubDate>Wed, 18 Mar 2026 13:29:22 -0000</pubDate>
+<pubDate>Wed, 18 Mar 2026 16:33:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,15 +65,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan announces pause in strikes on Afghanistan, 2 days after deadly Kabul airstrike]]></title>
+<title><![CDATA[Pakistan and Afghanistan announce temporary pause in fighting, 2 days after deadly Kabul strike]]></title>
 <link>https://apnews.com/article/afghanistan-pakistan-hospital-drug-rehabilitation-airstrike-funeral-c457ea4cffb45299ab9967543610b4fe</link>
-<pubDate>Wed, 18 Mar 2026 15:28:30 -0000</pubDate>
+<pubDate>Wed, 18 Mar 2026 16:18:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[About 90 ships cross the Strait of Hormuz as Iran exports millions of barrels of oil despite the war]]></title>
 <link>https://apnews.com/article/ships-iran-oil-china-us-trump-hormuz-82a9acb473837f1bf7a821d0c3f95205</link>
 <pubDate>Wed, 18 Mar 2026 12:59:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cuba’s leader says US aggression would meet ‘impregnable resistance’]]></title>
+<link>https://apnews.com/article/cuba-us-diaz-canel-trump-rubio-f078518742b21ec735fa4a6959907ade</link>
+<pubDate>Wed, 18 Mar 2026 16:03:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,21 +95,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[El Salvador’s Bukele pushes through life sentences in nation that has imprisoned 1% of population]]></title>
-<link>https://apnews.com/article/el-salvador-bukele-life-sentence-constitutional-reform-c893c3086799a351e1c864aa1abbec85</link>
-<pubDate>Wed, 18 Mar 2026 03:29:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Making menstrual leave official: 2 paid days off a month for period pain]]></title>
-<link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
-<pubDate>Wed, 18 Mar 2026 12:29:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Rwanda seeks $134 million from the UK in arbitration over scrapped refugee deal]]></title>
 <link>https://apnews.com/article/britain-rwanda-refugee-deal-737aaa74d44983e8c2ca56c2ea76d470</link>
 <pubDate>Wed, 18 Mar 2026 12:42:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[At least 17 dead in fighting on Sudan’s border with Chad, aid group says]]></title>
+<link>https://apnews.com/article/sudan-chad-border-attacks-bf385efedd9e06312b6eed4fbf16f67c</link>
+<pubDate>Wed, 18 Mar 2026 15:48:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FAA mandates radar separation for helicopters and planes after deadly DC midair collision]]></title>
+<link>https://apnews.com/article/aviation-safety-dc-plane-crash-faa-helicopters-ebab15b224cdb1b9f81665f6bb8f818f</link>
+<pubDate>Wed, 18 Mar 2026 15:33:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran war has US farmers worried about the cost and availability of fertilizer]]></title>
 <link>https://apnews.com/article/iran-war-fertilizer-availability-cost-farmers-aa846fb0e30d1060d8993c65d32fe12b</link>
 <pubDate>Wed, 18 Mar 2026 11:21:41 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[Decades after a Florida canal project was abandoned, advocates are trying to reunite 3 rivers]]></title>
 <link>https://apnews.com/article/florida-silver-springs-restoration-environment-rodman-ocklawaha-63b280aaaa220667cc38fdc5a680c2ed</link>
 <pubDate>Wed, 18 Mar 2026 12:14:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A prolonged and unusual March heat wave is gripping cities across the West]]></title>
-<link>https://apnews.com/article/weather-heat-wave-san-francisco-west-33c5aa9d425556655d22f6a842de567c</link>
-<pubDate>Wed, 18 Mar 2026 00:42:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -242,6 +242,12 @@
 <title><![CDATA[African soccer confederation strips Senegal of Africa Cup title and declares Morocco the champion]]></title>
 <link>https://apnews.com/article/afcon-morocco-senegal-overturned-ruling-deee4ed18e0f49b5836cf6c672df9193</link>
 <pubDate>Wed, 18 Mar 2026 08:41:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[El Salvador’s Bukele pushes through life sentences in nation that has imprisoned 1% of population]]></title>
+<link>https://apnews.com/article/el-salvador-bukele-life-sentence-constitutional-reform-c893c3086799a351e1c864aa1abbec85</link>
+<pubDate>Wed, 18 Mar 2026 16:48:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran wants to move its World Cup matches from US to Mexico. FIFA is sticking to its schedule]]></title>
-<link>https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228</link>
-<pubDate>Tue, 17 Mar 2026 17:45:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-18-2026-d7ca062ba1bf99d1f8dc00c8073cf10f</link>
 <pubDate>Wed, 18 Mar 2026 14:14:24 -0000</pubDate>
@@ -419,6 +419,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Many in Egypt struggle as the costs of a distant war drive up prices in local markets]]></title>
+<link>https://apnews.com/article/iran-us-war-egypt-economy-fuel-prices-6e75d557bc9b031036a1f07c7f8498f8</link>
+<pubDate>Wed, 18 Mar 2026 16:48:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ali Larijani, believed to be running Iran since the beginning of the war, is killed in a strike]]></title>
 <link>https://apnews.com/article/ali-larijani-dead-be5f46c171b2f9bf1dbd8325261a92a6</link>
 <pubDate>Tue, 17 Mar 2026 23:51:27 -0000</pubDate>
@@ -434,12 +440,6 @@
 <title><![CDATA[A look at Eid al-Fitr and how Muslims celebrate the Islamic holiday]]></title>
 <link>https://apnews.com/article/islam-eid-al-fitr-celebration-ramadan-ce78168c35b35af56ef5ee1ff8b3fef1</link>
 <pubDate>Wed, 18 Mar 2026 12:12:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the top Iranian official and the head of internal security targeted by Israel]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-larijani-basij-security-protests-a3134079432a7200180469e409a4fdae</link>
-<pubDate>Tue, 17 Mar 2026 13:56:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A new U.S. trade deal with Indonesia secures fossil fuels and access to critical minerals]]></title>
+<title><![CDATA[A new US trade deal with Indonesia secures fossil fuels and access to critical minerals]]></title>
 <link>https://apnews.com/article/southeast-indonesia-energy-trump-tariff-deal-23c6aa733b8d03294d26efc65c0b9723</link>
-<pubDate>Wed, 18 Mar 2026 10:21:42 -0000</pubDate>
+<pubDate>Wed, 18 Mar 2026 16:33:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 17 dead in fighting on Sudan’s border with Chad, aid group says]]></title>
-<link>https://apnews.com/article/sudan-chad-border-attacks-bf385efedd9e06312b6eed4fbf16f67c</link>
-<pubDate>Wed, 18 Mar 2026 11:42:57 -0000</pubDate>
+<title><![CDATA[Making menstrual leave official: 2 paid days off a month for period pain]]></title>
+<link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
+<pubDate>Wed, 18 Mar 2026 16:18:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
