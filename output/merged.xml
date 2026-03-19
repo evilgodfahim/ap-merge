@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Mar 2026 14:01:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 15:09:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US deploys 5,000-pound bombs near Strait of Hormuz]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-17-2026</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[BTS will stage a long-awaited comeback concert at a Seoul landmark]]></title>
+<link>https://apnews.com/article/bts-concert-seoul-gwanghwamun-square-korea-kpop-4f1028029fd8b74defb876aacd07aa16</link>
+<pubDate>Thu, 19 Mar 2026 15:09:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Overnight storm in Pakistan’s largest city, Karachi, kills at least 15 people and injures several]]></title>
 <link>https://apnews.com/article/pakistan-rains-strong-winds-killed-people-karachi-fece6096b73d4b058cedb348de686b0a</link>
 <pubDate>Thu, 19 Mar 2026 08:35:54 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Pakistani Taliban announces 3-day ceasefire after Pakistan, Afghanistan pause fighting ahead of Eid]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-pakistani-taliban-announced-ceasefire-eid-25e20c0e4d8b29efd29df9e3379653fc</link>
 <pubDate>Thu, 19 Mar 2026 08:20:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The probe of Hong Kong’s deadliest fire in decades begins hearings]]></title>
-<link>https://apnews.com/article/hong-kong-deadly-fire-probe-begins-7bc481fbc1965883b83bb7668e7d8c6f</link>
-<pubDate>Thu, 19 Mar 2026 12:21:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s leader heads to Washington for a visit complicated by the Iran war fallout]]></title>
+<link>https://apnews.com/article/japan-us-takaichi-trump-iran-security-e98099783b5ff39610c1b2dbe1b61369</link>
+<pubDate>Wed, 18 Mar 2026 18:56:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips]]></title>
 <link>https://apnews.com/article/iran-china-trump-xi-hormuz-b4037d9d5af7fa4b210d75f6d69d4533</link>
 <pubDate>Wed, 18 Mar 2026 19:11:01 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[China warns Trump’s latest tariff moves could damage trade ties]]></title>
 <link>https://apnews.com/article/us-china-trade-talks-paris-trump-c506344b213fa28d811a8376cae3b584</link>
 <pubDate>Mon, 16 Mar 2026 14:13:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump side-stepped diplomacy on his way to war in Iran. Now, he’s asking China and others for help]]></title>
-<link>https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266</link>
-<pubDate>Wed, 18 Mar 2026 02:59:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
 <link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
 <pubDate>Thu, 19 Mar 2026 00:57:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Macao lawmakers pass a bill allowing closed-door trials for national security reasons]]></title>
+<link>https://apnews.com/article/macao-national-security-closed-door-court-trial-f21e1f5bec85cb5be70234d49cc352bb</link>
+<pubDate>Thu, 19 Mar 2026 15:09:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,12 +239,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Hubei province arrests 7, shuts websites in fentanyl crackdown]]></title>
-<link>https://apnews.com/article/china-hubei-fentanyl-precursor-arrest-bd909d74dcf984ed9f10201711ab798f</link>
-<pubDate>Thu, 19 Mar 2026 10:50:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Belarus leader hosts US envoy for talks, latest step in his effort to improve ties with Washington]]></title>
 <link>https://apnews.com/article/belarus-us-lukashenko-trump-sanctions-prisoners-06d5703f575f6cca9ad27ba923acde2a</link>
 <pubDate>Thu, 19 Mar 2026 10:35:21 -0000</pubDate>
@@ -260,6 +260,12 @@
 <title><![CDATA[Tina Turner’s name, image, likeness and most music catalog rights acquired by Pophouse]]></title>
 <link>https://apnews.com/article/tina-turner-nil-music-catalog-pophouse-sale-3b93e8b5c9b713140d15b96343bb4854</link>
 <pubDate>Thu, 19 Mar 2026 06:59:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The probe of Hong Kong’s deadliest fire in decades begins hearings]]></title>
+<link>https://apnews.com/article/hong-kong-deadly-fire-probe-begins-7bc481fbc1965883b83bb7668e7d8c6f</link>
+<pubDate>Thu, 19 Mar 2026 14:54:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran women’s soccer team returns home after some players sought asylum, Iranian media reports]]></title>
-<link>https://apnews.com/article/iran-womens-soccer-asylum-australia-3433f18eb3d6bb8181785cff73984771</link>
-<pubDate>Wed, 18 Mar 2026 14:14:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pentagon seeks $200 billion in additional funds for the Iran war, AP source says]]></title>
 <link>https://apnews.com/article/iran-war-us-pentagon-972ec1bd956a2c3633e6ab7fff389791</link>
 <pubDate>Thu, 19 Mar 2026 14:01:31 -0000</pubDate>
@@ -401,15 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Prime Minister Takaichi meets with Trump as he seeks help securing the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13</link>
-<pubDate>Thu, 19 Mar 2026 04:51:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Which countries are allowed to cross the Strait Of Hormuz during Iran war?]]></title>
-<link>https://apnews.com/video/which-countries-are-allowed-to-cross-the-strait-of-hormuz-amid-the-iran-war-b53fe835f46446ca8130dc7d8d0245de</link>
-<pubDate>Thu, 19 Mar 2026 13:31:31 -0000</pubDate>
+<title><![CDATA[Trade with Cuba collapses as Trump escalates pressure on Communist Party leadership]]></title>
+<link>https://apnews.com/article/cuba-trump-rubio-oil-communist-party-745611a2d6fb7e9ba02e322401003a3e</link>
+<pubDate>Thu, 19 Mar 2026 15:09:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,9 +413,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Large part of intercepted Iranian missile removed near homes in northern Israel]]></title>
-<link>https://apnews.com/video/large-part-of-intercepted-iranian-missile-removed-near-homes-in-northern-israel-d48d6e6dbd16497ab59811f841fa30f4</link>
-<pubDate>Wed, 18 Mar 2026 00:42:56 -0000</pubDate>
+<title><![CDATA[Shortage of cooking gas pushes restaurants to use coal ahead of Eid festival in some Southeast Asian countries]]></title>
+<link>https://apnews.com/video/shortage-of-cooking-gas-pushes-restaurants-to-use-coal-ahead-of-eid-festival-in-some-southeast-asian-countries-ca7073566ed04489b82032039ecb3a1f</link>
+<pubDate>Thu, 19 Mar 2026 14:54:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The Colosseum has a bright new look after restoration]]></title>
+<link>https://apnews.com/video/the-colosseum-polishes-up-for-its-next-9-million-visitors-5b007d331b864c32b617cdf7cc228920</link>
+<pubDate>Thu, 19 Mar 2026 14:39:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BTS will stage a long-awaited comeback concert at a Seoul landmark]]></title>
-<link>https://apnews.com/article/bts-concert-seoul-gwanghwamun-square-korea-kpop-4f1028029fd8b74defb876aacd07aa16</link>
-<pubDate>Thu, 19 Mar 2026 04:36:51 -0000</pubDate>
+<title><![CDATA[Japan’s Prime Minister Takaichi meets with Trump as he seeks help securing the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13</link>
+<pubDate>Thu, 19 Mar 2026 04:51:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -509,9 +509,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s leader heads to Washington for a visit complicated by the Iran war fallout]]></title>
-<link>https://apnews.com/article/japan-us-takaichi-trump-iran-security-e98099783b5ff39610c1b2dbe1b61369</link>
-<pubDate>Wed, 18 Mar 2026 13:44:24 -0000</pubDate>
+<title><![CDATA[China’s Hubei province arrests 7, shuts websites in fentanyl crackdown]]></title>
+<link>https://apnews.com/article/china-hubei-fentanyl-precursor-arrest-bd909d74dcf984ed9f10201711ab798f</link>
+<pubDate>Thu, 19 Mar 2026 14:24:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
