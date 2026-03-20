@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Mar 2026 23:49:49 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US deploys 5,000-pound bombs near Strait of Hormuz]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-17-2026</link>
-<pubDate>Wed, 18 Mar 2026 05:25:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Fri, 20 Mar 2026 01:08:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump threatens to strike South Pars gas field if Iran attacks Qatar again]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-18-2026</link>
@@ -17,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After Iran escalates attacks on Gulf energy sites, Israel says it will stop striking its gas field]]></title>
+<title><![CDATA[Israel says it will hold off striking key Iranian natural gas field as war rattles energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
-<pubDate>Thu, 19 Mar 2026 20:31:18 -0000</pubDate>
+<pubDate>Fri, 20 Mar 2026 01:08:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -32,6 +26,12 @@
 <title><![CDATA[Iran launches barrage of missiles after Israel kills 2 of its top officials]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31</link>
 <pubDate>Wed, 18 Mar 2026 05:10:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The body of an American student who went missing in Barcelona has been found, police in Spain say]]></title>
+<link>https://apnews.com/article/spain-illinois-student-missing-barcelona-ec6bc6a9ca00c4d3901c1b65ae634f89</link>
+<pubDate>Fri, 20 Mar 2026 00:53:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korean leader Kim and his daughter ride a tank together during army training]]></title>
+<link>https://apnews.com/article/north-korea-kim-daughter-tank-4b33005ec1153cb876dcbf5cd77d2b20</link>
+<pubDate>Fri, 20 Mar 2026 00:38:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[BTS will stage a long-awaited comeback concert at a Seoul landmark]]></title>
 <link>https://apnews.com/article/bts-concert-seoul-gwanghwamun-square-korea-kpop-4f1028029fd8b74defb876aacd07aa16</link>
 <pubDate>Thu, 19 Mar 2026 15:09:35 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Overnight storm in Pakistan’s largest city, Karachi, kills at least 15 people and injures several]]></title>
 <link>https://apnews.com/article/pakistan-rains-strong-winds-killed-people-karachi-fece6096b73d4b058cedb348de686b0a</link>
 <pubDate>Thu, 19 Mar 2026 08:35:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistani Taliban announces 3-day ceasefire after Pakistan, Afghanistan pause fighting ahead of Eid]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-pakistani-taliban-announced-ceasefire-eid-25e20c0e4d8b29efd29df9e3379653fc</link>
-<pubDate>Thu, 19 Mar 2026 08:20:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran women’s soccer team greeted with a ‘welcome ceremony’ in Tehran]]></title>
+<link>https://apnews.com/article/iran-womens-soccer-homecoming-31e86a58956f48bc3afe94c3753e5a76</link>
+<pubDate>Fri, 20 Mar 2026 01:08:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/iran-us-israel-oil-extreme-weather-ramadan-photos-d799c7311c1308e276811435e68dca36</link>
 <pubDate>Thu, 19 Mar 2026 22:52:16 -0000</pubDate>
@@ -224,12 +230,6 @@
 <title><![CDATA[The targeting of key Gulf energy infrastructure raises the risk of long-term disruption]]></title>
 <link>https://apnews.com/article/energy-infrastructure-middle-east-iran-36037b31738bd9582f0ca617f292839d</link>
 <pubDate>Thu, 19 Mar 2026 19:25:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The body of an American student who went missing in Barcelona has been found, police in Spain say]]></title>
-<link>https://apnews.com/article/spain-illinois-student-missing-barcelona-ec6bc6a9ca00c4d3901c1b65ae634f89</link>
-<pubDate>Thu, 19 Mar 2026 21:36:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -296,6 +296,12 @@
 <title><![CDATA[2 men appear in court accused of ‘hostile’ surveillance of UK’s Jewish community for Iran]]></title>
 <link>https://apnews.com/article/uk-iran-spying-charges-c7df5c093441adb0fcd5fd143f26980e</link>
 <pubDate>Thu, 19 Mar 2026 15:42:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistani Taliban announces 3-day ceasefire after Pakistan, Afghanistan pause fighting ahead of Eid]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-pakistani-taliban-announced-ceasefire-eid-25e20c0e4d8b29efd29df9e3379653fc</link>
+<pubDate>Fri, 20 Mar 2026 00:53:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Five EU leaders seek urgent solution for drifting Russian tanker to avoid environmental catastrophe]]></title>
-<link>https://apnews.com/article/italy-spain-greece-cypus-malta-russia-tanker-oil-environment-disaster-f9a343fc9caad046e83c2d5c3f531d49</link>
-<pubDate>Thu, 19 Mar 2026 11:37:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pentagon seeks $200 billion in additional funds for the Iran war, AP source says]]></title>
 <link>https://apnews.com/article/iran-war-us-pentagon-972ec1bd956a2c3633e6ab7fff389791</link>
 <pubDate>Thu, 19 Mar 2026 14:01:31 -0000</pubDate>
@@ -401,21 +401,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrike hits an apartment building in central Beirut]]></title>
-<link>https://apnews.com/video/israeli-airstrike-hits-an-apartment-building-in-central-beirut-26626bdcb2ab4dcca56380a3983b5062</link>
-<pubDate>Wed, 18 Mar 2026 23:33:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Shortage of cooking gas pushes restaurants to use coal ahead of Eid festival in some Southeast Asian countries]]></title>
-<link>https://apnews.com/video/shortage-of-cooking-gas-pushes-restaurants-to-use-coal-ahead-of-eid-festival-in-some-southeast-asian-countries-ca7073566ed04489b82032039ecb3a1f</link>
-<pubDate>Thu, 19 Mar 2026 14:54:37 -0000</pubDate>
+<title><![CDATA[Which countries are allowed to cross the Strait Of Hormuz during Iran war?]]></title>
+<link>https://apnews.com/video/which-countries-are-allowed-to-cross-the-strait-of-hormuz-amid-the-iran-war-b53fe835f46446ca8130dc7d8d0245de</link>
+<pubDate>Thu, 19 Mar 2026 13:31:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[The Colosseum has a bright new look after restoration]]></title>
 <link>https://apnews.com/video/the-colosseum-polishes-up-for-its-next-9-million-visitors-5b007d331b864c32b617cdf7cc228920</link>
 <pubDate>Thu, 19 Mar 2026 14:39:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli airstrike hits an apartment building in central Beirut]]></title>
+<link>https://apnews.com/video/israeli-airstrike-hits-an-apartment-building-in-central-beirut-26626bdcb2ab4dcca56380a3983b5062</link>
+<pubDate>Wed, 18 Mar 2026 23:33:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
