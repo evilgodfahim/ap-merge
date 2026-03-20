@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 07:59:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 08:42:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump threatens to strike South Pars gas field if Iran attacks Qatar again]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-18-2026</link>
@@ -35,15 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Joe Kent’s resignation over Iran war reignites antisemitism fears and debate over Israeli influence]]></title>
+<link>https://apnews.com/article/joe-kent-iran-war-antisemitism-republicans-carlson-7db226dd6d6e4ec6fe538d17e705f0d1</link>
+<pubDate>Fri, 20 Mar 2026 08:42:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Jews grapple with a surge in attacks and bitter rifts over Israeli policies]]></title>
 <link>https://apnews.com/article/us-jews-antisemitism-israel-zionism-gaza-9c56403aabc37d35ea0f601414b410d5</link>
 <pubDate>Fri, 20 Mar 2026 05:10:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War and displacement mar the run-up to Eid al-Fitr holiday for many in Lebanon]]></title>
-<link>https://apnews.com/article/lebanon-displaced-eid-war-ramadan-876809d5be8a8142739ad3cbb911f95d</link>
-<pubDate>Fri, 20 Mar 2026 03:25:26 -0000</pubDate>
+<title><![CDATA[Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive]]></title>
+<link>https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f</link>
+<pubDate>Fri, 20 Mar 2026 08:27:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,21 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU scrambles to contain energy costs from war in Middle East]]></title>
-<link>https://apnews.com/article/brussels-energy-eu-middle-east-iran-war-4148c8bdeeef440de372ab9154677127</link>
-<pubDate>Thu, 19 Mar 2026 08:50:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Asia scrambles to conserve energy as Iran war disrupts oil and gas supplies]]></title>
 <link>https://apnews.com/article/iran-war-asia-energy-gas-oil-hormuz-d1265c39c990abb2dd43e037adb37c7a</link>
 <pubDate>Thu, 19 Mar 2026 15:57:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korean leader Kim and his daughter ride a tank together during army training]]></title>
+<title><![CDATA[Teen daughter of North Korean leader Kim drives a tank while observing drill with her father]]></title>
 <link>https://apnews.com/article/north-korea-kim-daughter-tank-4b33005ec1153cb876dcbf5cd77d2b20</link>
-<pubDate>Fri, 20 Mar 2026 00:38:10 -0000</pubDate>
+<pubDate>Fri, 20 Mar 2026 08:12:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at South Korean auto parts factory injures at least 50]]></title>
+<title><![CDATA[Fire at South Korean auto parts factory injures at least 53]]></title>
 <link>https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d</link>
-<pubDate>Fri, 20 Mar 2026 07:27:00 -0000</pubDate>
+<pubDate>Fri, 20 Mar 2026 08:42:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil prices ease and Asian shares are mixed as energy supply worries over Iran war remain]]></title>
+<title><![CDATA[Oil prices ease and Asian shares are mostly lower as energy supply worries over Iran war remain]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c</link>
-<pubDate>Fri, 20 Mar 2026 05:10:44 -0000</pubDate>
+<pubDate>Fri, 20 Mar 2026 08:27:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +341,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU scrambles to contain energy costs from war in Middle East]]></title>
+<link>https://apnews.com/article/brussels-energy-eu-middle-east-iran-war-4148c8bdeeef440de372ab9154677127</link>
+<pubDate>Fri, 20 Mar 2026 08:12:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War and displacement mar the run-up to Eid al-Fitr holiday for many in Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-displaced-eid-war-ramadan-876809d5be8a8142739ad3cbb911f95d</link>
+<pubDate>Fri, 20 Mar 2026 07:57:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bank of England holds interest rates and hints of increases as Iran war jolts inflation outlook]]></title>
 <link>https://apnews.com/article/britain-economy-iran-oil-prices-interest-rates-a9fdbdf21313f103e1c6490fb66dd218</link>
 <pubDate>Thu, 19 Mar 2026 19:10:09 -0000</pubDate>
@@ -365,18 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian Americans mark Persian New Year with a mix of sadness and joy]]></title>
-<link>https://apnews.com/article/iranian-american-nowruz-spring-celebration-war-411df755fbf97a0dd4143bffad037a44</link>
-<pubDate>Thu, 19 Mar 2026 05:21:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tina Turner’s name, image, likeness and most music catalog rights acquired by Pophouse]]></title>
-<link>https://apnews.com/article/tina-turner-nil-music-catalog-pophouse-sale-3b93e8b5c9b713140d15b96343bb4854</link>
-<pubDate>Thu, 19 Mar 2026 06:59:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran hits Kuwaiti oil refinery and explosions boom over Tehran from Israeli attack]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
 <pubDate>Fri, 20 Mar 2026 07:27:01 -0000</pubDate>
@@ -386,12 +386,6 @@
 <title><![CDATA[Pentagon seeks $200 billion in additional funds for the Iran war, AP source says]]></title>
 <link>https://apnews.com/article/iran-war-us-pentagon-972ec1bd956a2c3633e6ab7fff389791</link>
 <pubDate>Thu, 19 Mar 2026 14:01:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive]]></title>
-<link>https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f</link>
-<pubDate>Fri, 20 Mar 2026 07:12:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,6 +419,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A look at celebrations for Eid al-Fitr around the world, in photos]]></title>
+<link>https://apnews.com/photo-gallery/islam-eid-al-fitr-celebration-ramadan-1a316a9a57bf48f16568f8e8d3e11049</link>
+<pubDate>Fri, 20 Mar 2026 08:42:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Palestinians were bystanders to the Iran war. Now they’re victims too]]></title>
 <link>https://apnews.com/article/palestinians-iran-airstrike-beauty-salon-hebron-a8645480cce3491f0651155b97b59088</link>
 <pubDate>Fri, 20 Mar 2026 05:10:45 -0000</pubDate>
@@ -440,12 +440,6 @@
 <title><![CDATA[Israel is rapidly killing Iran’s top leaders. Experts warn the strategy could backfire]]></title>
 <link>https://apnews.com/article/iran-us-israel-killing-leaders-hezbollah-hamas-history-9e9edf108ae8288c673b964c066b59c6</link>
 <pubDate>Thu, 19 Mar 2026 05:06:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Joe Kent’s resignation over Iran war reignites antisemitism fears and debate over Israeli influence]]></title>
-<link>https://apnews.com/article/joe-kent-iran-war-antisemitism-republicans-carlson-7db226dd6d6e4ec6fe538d17e705f0d1</link>
-<pubDate>Thu, 19 Mar 2026 06:59:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
