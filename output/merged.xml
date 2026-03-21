@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 23:48:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 01:04:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
+<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
+<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Making menstrual leave official: 2 paid days off a month for period pain]]></title>
 <link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
 <pubDate>Wed, 18 Mar 2026 12:29:22 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris]]></title>
 <link>https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748</link>
 <pubDate>Fri, 20 Mar 2026 07:12:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
-<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
-<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rio police pull 4 officers from street duty in a probe into a deadly raid]]></title>
-<link>https://apnews.com/article/brazil-police-operation-rio-favela-2e101f155b9dacf6ba0876477a7e9aa5</link>
-<pubDate>Fri, 20 Mar 2026 17:13:06 -0000</pubDate>
+<title><![CDATA[A US strike on a suspected drug boat off Costa Rica leaves 2 dead, 1 critically hurt]]></title>
+<link>https://apnews.com/article/us-drug-trafficking-boat-strike-costa-rica-2150e17effa292b3d7c9b6e07312a9ec</link>
+<pubDate>Sat, 21 Mar 2026 01:04:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Mexican teen migrant dies in a Florida jail holding ICE detainees]]></title>
-<link>https://apnews.com/article/glades-florida-migrant-immigration-death-detention-40e75bd4dc8c335a7c0e579e597bbf28</link>
-<pubDate>Fri, 20 Mar 2026 03:10:26 -0000</pubDate>
+<title><![CDATA[Tons of aid flows into Cuba as humanitarian convoy arrives on the struggling island]]></title>
+<link>https://apnews.com/article/cuba-convoy-international-aid-humanitarian-help-0bafbd3bd16bee8cb77d06efc0f329fb</link>
+<pubDate>Sat, 21 Mar 2026 00:49:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba refuses to let US Embassy in Havana import diesel for its generators]]></title>
+<link>https://apnews.com/article/cuba-fuel-embassy-trump-blockade-dd5a11ac933daf258d3f689e7cbb822d</link>
+<pubDate>Sat, 21 Mar 2026 01:04:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[BTS returns with comeback concert in Seoul after four-year hiatus]]></title>
+<link>https://apnews.com/article/bts-kpop-concert-south-korea-9fb788ea4a1916681d09710a3c696dec</link>
+<pubDate>Sat, 21 Mar 2026 00:49:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US to set up 12 regional disaster response hubs as it consolidates emergency humanitarian aid]]></title>
 <link>https://apnews.com/article/us-state-department-usaid-foreign-aid-7c28b03ecdee2ecceaa569f449d86ad0</link>
 <pubDate>Fri, 20 Mar 2026 21:50:32 -0000</pubDate>
@@ -230,6 +242,12 @@
 <title><![CDATA[Georgia suspends fuel tax, but other states may not follow]]></title>
 <link>https://apnews.com/article/georgia-gas-price-tax-states-war-a93bad3748fb594ec58ce061c2c8bff4</link>
 <pubDate>Fri, 20 Mar 2026 17:13:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rio police pull 4 officers from street duty in a probe into a deadly raid]]></title>
+<link>https://apnews.com/article/brazil-police-operation-rio-favela-2e101f155b9dacf6ba0876477a7e9aa5</link>
+<pubDate>Sat, 21 Mar 2026 00:34:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,9 +323,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at South Korean auto parts factory injures at least 55]]></title>
+<title><![CDATA[Officials say at least 10 people were killed in a South Korean factory fire]]></title>
 <link>https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d</link>
-<pubDate>Fri, 20 Mar 2026 10:05:11 -0000</pubDate>
+<pubDate>Sat, 21 Mar 2026 00:19:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,24 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What Trump and Netanyahu’s split on Iran gas field means for the war]]></title>
-<link>https://apnews.com/article/trump-iran-netanyahu-gas-cd880a355e3873d8175084140581b2c1</link>
-<pubDate>Fri, 20 Mar 2026 04:40:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil rolls out law boosting online protection of minors]]></title>
-<link>https://apnews.com/article/brazil-internet-regulation-social-media-cd5d8f51ecbc0bb28f43a741dd95bc05</link>
-<pubDate>Fri, 20 Mar 2026 09:35:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba readies for first Russian oil shipment of the year as energy crisis deepens]]></title>
-<link>https://apnews.com/article/cuba-russian-oil-shipment-tanker-hong-kong-d51ead9f2cfdab1070dea2d869423b3f</link>
-<pubDate>Fri, 20 Mar 2026 16:28:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive]]></title>
 <link>https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f</link>
 <pubDate>Fri, 20 Mar 2026 07:12:01 -0000</pubDate>
@@ -389,21 +389,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kim Jong Un sits on a tank with his daughter at a military exercise]]></title>
-<link>https://apnews.com/video/north-korean-leader-sits-on-tank-with-his-daughter-at-military-exercise-1d63875a5035408491c6e110db6fcb26</link>
-<pubDate>Fri, 20 Mar 2026 15:03:08 -0000</pubDate>
+<title><![CDATA[Trump cites Pearl Harbor to defend Iran war decision: ‘Who knows surprise better than Japan?’]]></title>
+<link>https://apnews.com/video/trump-cites-pearl-harbor-to-defend-iran-war-decision-who-knows-surprise-better-than-japan-fcac7d56714e465eb9841fd57ffd57ea</link>
+<pubDate>Sat, 21 Mar 2026 01:04:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Which countries are allowed to cross the Strait Of Hormuz during Iran war?]]></title>
-<link>https://apnews.com/video/which-countries-are-allowed-to-cross-the-strait-of-hormuz-amid-the-iran-war-b53fe835f46446ca8130dc7d8d0245de</link>
-<pubDate>Thu, 19 Mar 2026 13:31:31 -0000</pubDate>
+<title><![CDATA[Aftermath of strike on checkpoint in Tehran as Israel continues attacks]]></title>
+<link>https://apnews.com/video/aftermath-of-strike-on-checkpoint-in-tehran-as-israel-continues-attacks-e298b2e9900a4d6c85818b1ce905c6ee</link>
+<pubDate>Sat, 21 Mar 2026 00:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrike hits an apartment building in central Beirut]]></title>
-<link>https://apnews.com/video/israeli-airstrike-hits-an-apartment-building-in-central-beirut-26626bdcb2ab4dcca56380a3983b5062</link>
-<pubDate>Wed, 18 Mar 2026 23:33:54 -0000</pubDate>
+<title><![CDATA[Uganda reintroduces rhinos into protected area where they’ve been extinct since 1983]]></title>
+<link>https://apnews.com/video/uganda-reintroduces-rhinos-into-protected-area-where-theyve-been-extinct-since-1983-68c64c252bca4f4c82cc01c25a75f0a0</link>
+<pubDate>Sat, 21 Mar 2026 00:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
