@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 12:24:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 13:14:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[K-pop sensation BTS returns with a comeback concert in Seoul after a 4-year hiatus]]></title>
+<link>https://apnews.com/article/bts-kpop-concert-south-korea-9fb788ea4a1916681d09710a3c696dec</link>
+<pubDate>Sat, 21 Mar 2026 13:14:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Japan’s Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz]]></title>
 <link>https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13</link>
 <pubDate>Sat, 21 Mar 2026 10:01:01 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[Teen daughter of North Korean leader Kim drives a tank while observing drill with her father]]></title>
 <link>https://apnews.com/article/north-korea-kim-daughter-tank-4b33005ec1153cb876dcbf5cd77d2b20</link>
 <pubDate>Fri, 20 Mar 2026 08:12:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Political tug of war over Iranian women’s soccer team prompts criticism in Australia]]></title>
-<link>https://apnews.com/article/australia-iran-asylum-soccer-women-team-burke-82518f8c01e624423e4169af42903789</link>
-<pubDate>Fri, 20 Mar 2026 04:55:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[It’s not just vaccines — parents are refusing other routine preventive care for newborns]]></title>
-<link>https://apnews.com/article/babies-newborns-pediatricians-vitamin-k-hepatitis-b-erythromycin-9126463f0cb38b9778fb77bc0d071776</link>
-<pubDate>Sat, 21 Mar 2026 11:27:03 -0000</pubDate>
+<title><![CDATA[Big money flows into state attorney general races as legal battles shape American politics]]></title>
+<link>https://apnews.com/article/attorney-general-elections-2026-arizona-texas-54d50c21447b6f85137da5e01d4652fa</link>
+<pubDate>Sat, 21 Mar 2026 12:59:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA officers are quitting as a funding standoff forces them to staff airports without pay]]></title>
-<link>https://apnews.com/article/tsa-lines-airport-wait-times-shutdown-5b1abfe9f0ec32475fe2bdad88dd9174</link>
-<pubDate>Sat, 21 Mar 2026 11:12:03 -0000</pubDate>
+<title><![CDATA[It’s not just vaccines — parents are refusing other routine preventive care for newborns]]></title>
+<link>https://apnews.com/article/babies-newborns-pediatricians-vitamin-k-hepatitis-b-erythromycin-9126463f0cb38b9778fb77bc0d071776</link>
+<pubDate>Sat, 21 Mar 2026 11:27:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran says a strike hit a key nuclear facility as Mideast war enters week 4 and US sends more troops]]></title>
+<title><![CDATA[Israel threatens a surge in attacks as Iran fires missiles farther than ever]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e</link>
-<pubDate>Sat, 21 Mar 2026 10:16:04 -0000</pubDate>
+<pubDate>Sat, 21 Mar 2026 13:14:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
-<link>https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c</link>
-<pubDate>Sat, 21 Mar 2026 09:46:04 -0000</pubDate>
+<title><![CDATA[Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war]]></title>
+<link>https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e</link>
+<pubDate>Sat, 21 Mar 2026 12:59:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BTS returns with comeback concert in Seoul after 4-year hiatus]]></title>
-<link>https://apnews.com/article/bts-kpop-concert-south-korea-9fb788ea4a1916681d09710a3c696dec</link>
-<pubDate>Sat, 21 Mar 2026 09:31:04 -0000</pubDate>
+<title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
+<link>https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c</link>
+<pubDate>Sat, 21 Mar 2026 09:46:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
