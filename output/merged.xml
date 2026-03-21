@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 03:32:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 05:01:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
@@ -32,12 +32,6 @@
 <title><![CDATA[The body of an American student who went missing in Barcelona has been found, police in Spain say]]></title>
 <link>https://apnews.com/article/spain-illinois-student-missing-barcelona-ec6bc6a9ca00c4d3901c1b65ae634f89</link>
 <pubDate>Fri, 20 Mar 2026 00:53:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kurds in northern Iraq celebrate the new year festival of Nowruz, in photos]]></title>
-<link>https://apnews.com/photo-gallery/iraq-kurds-kurdistan-nowruz-persian-new-year-celebrate-4f207c898265db75faecaae7d5d194b9</link>
-<pubDate>Fri, 20 Mar 2026 21:35:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Judge orders Voice of America be put back together again. What are the chances that will happen?]]></title>
+<link>https://apnews.com/article/voice-of-america-radio-trump-kari-lake-d9ccd621cd9ee431eb3e897810243ef1</link>
+<pubDate>Sat, 21 Mar 2026 05:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba refuses to let US Embassy in Havana import diesel for its generators]]></title>
 <link>https://apnews.com/article/cuba-fuel-embassy-trump-blockade-dd5a11ac933daf258d3f689e7cbb822d</link>
 <pubDate>Sat, 21 Mar 2026 01:04:02 -0000</pubDate>
@@ -200,6 +200,12 @@
 <title><![CDATA[BTS returns with comeback concert in Seoul after four-year hiatus]]></title>
 <link>https://apnews.com/article/bts-kpop-concert-south-korea-9fb788ea4a1916681d09710a3c696dec</link>
 <pubDate>Sat, 21 Mar 2026 00:49:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kurds in northern Iraq celebrate the new year festival of Nowruz, in photos]]></title>
+<link>https://apnews.com/photo-gallery/iraq-kurds-kurdistan-nowruz-persian-new-year-celebrate-4f207c898265db75faecaae7d5d194b9</link>
+<pubDate>Sat, 21 Mar 2026 04:46:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -254,6 +260,12 @@
 <title><![CDATA[Drifting Russian tanker has entered Libya search and rescue zone, Italy’s civil protection says]]></title>
 <link>https://apnews.com/article/italy-libya-russia-tanker-lng-arctic-metagaz-fuel-environment-8d617d539de5280549b2978ea7ed3709</link>
 <pubDate>Fri, 20 Mar 2026 16:58:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US attack on alleged drug-smuggling boat leaves 2 dead, 1 survivor in eastern Pacific]]></title>
+<link>https://apnews.com/article/boat-strikes-us-military-trump-drug-cartels-90d9f5ab94352f59aadf5728d1db27ad</link>
+<pubDate>Sat, 21 Mar 2026 04:31:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran women’s soccer team greeted with a welcome ceremony in Tehran]]></title>
-<link>https://apnews.com/article/iran-womens-soccer-homecoming-31e86a58956f48bc3afe94c3753e5a76</link>
-<pubDate>Fri, 20 Mar 2026 03:40:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/iran-us-israel-oil-extreme-weather-ramadan-photos-d799c7311c1308e276811435e68dca36</link>
-<pubDate>Thu, 19 Mar 2026 22:52:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AC/DC guitarist Stevie Young hospitalized ahead of Buenos Aires concerts]]></title>
-<link>https://apnews.com/article/acdc-stevie-young-hospital-buenos-aires-argentina-power-up-tour-eac77597a8e4ba12ad35474e6df32b60</link>
-<pubDate>Thu, 19 Mar 2026 22:37:16 -0000</pubDate>
+<title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
+<link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
+<pubDate>Sat, 21 Mar 2026 05:01:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +380,6 @@
 <title><![CDATA[A look at who holds the reins of power in Iran since the country’s top leaders were killed]]></title>
 <link>https://apnews.com/article/iran-leadership-khamenei-revolutionary-guards-regime-change-745783d7a2fe63205f7a6eded58bc315</link>
 <pubDate>Fri, 20 Mar 2026 10:05:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US attack on alleged drug-smuggling boat leaves 2 dead, 1 survivor in eastern Pacific]]></title>
-<link>https://apnews.com/article/boat-strikes-us-military-trump-drug-cartels-90d9f5ab94352f59aadf5728d1db27ad</link>
-<pubDate>Fri, 20 Mar 2026 21:35:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
