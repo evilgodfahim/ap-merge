@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 13:55:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 14:17:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
@@ -35,9 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War, through food’s lens: How Iranian Americans are celebrating their new year — or not]]></title>
-<link>https://apnews.com/article/iran-food-new-years-nowruz-war-a509b85a494517c1ef07244d9f3008e4</link>
-<pubDate>Sat, 21 Mar 2026 06:39:58 -0000</pubDate>
+<title><![CDATA[Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls]]></title>
+<link>https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083</link>
+<pubDate>Sat, 21 Mar 2026 14:17:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian strike on Zaporizhzhia kills 2 as Ukraine seeks to move forward peace talks]]></title>
+<link>https://apnews.com/article/peace-talks-ukraine-russia-zelenskyy-drones-861a4bc4ebccd55aa00715917d060036</link>
+<pubDate>Sat, 21 Mar 2026 14:02:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +59,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian and Romanian charged after trying to enter UK’s nuclear submarine base]]></title>
-<link>https://apnews.com/article/uk-faslane-nuclear-submarine-arrests-iran-ea42e175cdbf356a286dd9e097a92ee8</link>
-<pubDate>Sat, 21 Mar 2026 11:42:03 -0000</pubDate>
+<title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
+<link>https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c</link>
+<pubDate>Sat, 21 Mar 2026 13:47:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,12 +74,6 @@
 <title><![CDATA[Japan’s Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz]]></title>
 <link>https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13</link>
 <pubDate>Sat, 21 Mar 2026 10:01:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Teen daughter of North Korean leader Kim drives a tank while observing drill with her father]]></title>
-<link>https://apnews.com/article/north-korea-kim-daughter-tank-4b33005ec1153cb876dcbf5cd77d2b20</link>
-<pubDate>Fri, 20 Mar 2026 08:12:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranian and Romanian charged after trying to enter UK’s nuclear submarine base]]></title>
+<link>https://apnews.com/article/uk-faslane-nuclear-submarine-arrests-iran-ea42e175cdbf356a286dd9e097a92ee8</link>
+<pubDate>Sat, 21 Mar 2026 14:17:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Models with Down syndrome walk a Bucharest runway for World Down Syndrome Day, in photos]]></title>
 <link>https://apnews.com/photo-gallery/down-syndrome-catwalk-romania-fashion-show-photos-0b695b93b764cd68a7d9d0a46ab713a1</link>
 <pubDate>Sat, 21 Mar 2026 07:49:42 -0000</pubDate>
@@ -218,6 +224,12 @@
 <title><![CDATA[US to set up 12 regional disaster response hubs as it consolidates emergency humanitarian aid]]></title>
 <link>https://apnews.com/article/us-state-department-usaid-foreign-aid-7c28b03ecdee2ecceaa569f449d86ad0</link>
 <pubDate>Fri, 20 Mar 2026 21:50:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War, through food’s lens: How Iranian Americans are celebrating their new year — or not]]></title>
+<link>https://apnews.com/article/iran-food-new-years-nowruz-war-a509b85a494517c1ef07244d9f3008e4</link>
+<pubDate>Sat, 21 Mar 2026 14:02:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[High oil prices knock down stocks and erase Wall Street’s hopes for a cut to interest rates]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c</link>
-<pubDate>Fri, 20 Mar 2026 19:20:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kuwait says its Mina Al-Ahmadi refinery again hit in Iranian drone attacks, starting fire]]></title>
-<link>https://apnews.com/article/iran-war-isreal-us-kuwait-d052e93613dac59e4164194f4df52c88</link>
-<pubDate>Sat, 21 Mar 2026 11:27:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel threatens a surge in attacks as Iran fires missiles farther than ever]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e</link>
 <pubDate>Sat, 21 Mar 2026 13:14:47 -0000</pubDate>
@@ -389,15 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strike on Zaporizhzhia kills 2 as Ukraine seeks to move forward peace talks]]></title>
-<link>https://apnews.com/article/peace-talks-ukraine-russia-zelenskyy-drones-861a4bc4ebccd55aa00715917d060036</link>
-<pubDate>Sat, 21 Mar 2026 10:01:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war]]></title>
-<link>https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e</link>
-<pubDate>Sat, 21 Mar 2026 12:59:47 -0000</pubDate>
+<title><![CDATA[What to know about Diego Garcia after Iran targets the remote island’s key US military base]]></title>
+<link>https://apnews.com/article/diego-garcia-iran-missiles-what-to-know-d51bd9c3bcd83ee0300288221bff5614</link>
+<pubDate>Sat, 21 Mar 2026 14:17:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Syrian Kurds return home to celebrate Nowruz for the first time since exile]]></title>
+<link>https://apnews.com/article/syria-kurds-afrin-nowruz-730b2cf7c477bfdcaf898d212c8dced9</link>
+<pubDate>Sat, 21 Mar 2026 14:02:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A look at who holds the reins of power in Iran since the country’s top leaders were killed]]></title>
 <link>https://apnews.com/article/iran-leadership-khamenei-revolutionary-guards-regime-change-745783d7a2fe63205f7a6eded58bc315</link>
 <pubDate>Fri, 20 Mar 2026 10:05:12 -0000</pubDate>
@@ -434,12 +434,6 @@
 <title><![CDATA[Iranians mark Persian new year with heavy hearts as war cuts contact with loved ones]]></title>
 <link>https://apnews.com/article/iran-war-france-nowruz-paris-baf8fc43af567f94170fff5fc02475b8</link>
 <pubDate>Fri, 20 Mar 2026 22:37:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls]]></title>
-<link>https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083</link>
-<pubDate>Fri, 20 Mar 2026 14:48:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
-<link>https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c</link>
-<pubDate>Sat, 21 Mar 2026 09:46:04 -0000</pubDate>
+<title><![CDATA[Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war]]></title>
+<link>https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e</link>
+<pubDate>Sat, 21 Mar 2026 12:59:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
