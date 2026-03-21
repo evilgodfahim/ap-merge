@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 15:15:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 15:45:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000</link>
@@ -35,15 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls]]></title>
-<link>https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083</link>
-<pubDate>Sat, 21 Mar 2026 14:17:58 -0000</pubDate>
+<title><![CDATA[Iranians mark Persian new year with heavy hearts as war cuts contact with loved ones]]></title>
+<link>https://apnews.com/article/iran-war-france-nowruz-paris-baf8fc43af567f94170fff5fc02475b8</link>
+<pubDate>Fri, 20 Mar 2026 22:37:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strike on Zaporizhzhia kills 2 as Ukraine seeks to move forward peace talks]]></title>
+<title><![CDATA[4 killed as Russia and Ukraine trade attacks ahead of US talks]]></title>
 <link>https://apnews.com/article/peace-talks-ukraine-russia-zelenskyy-drones-861a4bc4ebccd55aa00715917d060036</link>
-<pubDate>Sat, 21 Mar 2026 14:02:58 -0000</pubDate>
+<pubDate>Sat, 21 Mar 2026 15:45:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls]]></title>
+<link>https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083</link>
+<pubDate>Sat, 21 Mar 2026 15:45:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Umberto Bossi, the League’s populist founder and a pivotal figure in Italian politics, dies aged 84]]></title>
 <link>https://apnews.com/article/italy-umberto-bossi-obit-northern-league-politics-silvio-berlusconi-d276e311379a2d6704d7b3dc056b9318</link>
 <pubDate>Fri, 20 Mar 2026 11:34:56 -0000</pubDate>
@@ -362,12 +368,6 @@
 <title><![CDATA[Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive]]></title>
 <link>https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f</link>
 <pubDate>Sat, 21 Mar 2026 11:42:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about Denmark’s election that follows a standoff with the US over Greenland]]></title>
-<link>https://apnews.com/article/denmark-parliament-election-greenland-c6951fa94fc601efa1401318112a3a04</link>
-<pubDate>Fri, 20 Mar 2026 13:23:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congress looks for Trump’s exit plan as the Iran war drags on]]></title>
+<link>https://apnews.com/article/iran-war-powers-exit-strategy-congress-trump-781ef538fbb493cf0973c6a89698f36e</link>
+<pubDate>Sat, 21 Mar 2026 15:30:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Syrian Kurds return home to celebrate Nowruz for the first time since exile]]></title>
 <link>https://apnews.com/article/syria-kurds-afrin-nowruz-730b2cf7c477bfdcaf898d212c8dced9</link>
 <pubDate>Sat, 21 Mar 2026 14:02:59 -0000</pubDate>
@@ -428,12 +434,6 @@
 <title><![CDATA[Israel strikes Iran’s feared Basij from commanders down to street level, but its grip remains strong]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-basij-security-protests-0f6d38e55743aff6d3fe536ea233ee11</link>
 <pubDate>Fri, 20 Mar 2026 09:35:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians mark Persian new year with heavy hearts as war cuts contact with loved ones]]></title>
-<link>https://apnews.com/article/iran-war-france-nowruz-paris-baf8fc43af567f94170fff5fc02475b8</link>
-<pubDate>Fri, 20 Mar 2026 22:37:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hawaii suffers its worst flooding in 20 years and forecasters warn more rain is coming]]></title>
+<title><![CDATA[Hawaii’s worst flooding in 20 years threatens dam, prompts evacuations as more rain looms]]></title>
 <link>https://apnews.com/article/hawaii-flooding-heavy-rain-oahu-north-shore-e4b4f3642491b3e5de4a5ad7b82e9f39</link>
-<pubDate>Sat, 21 Mar 2026 11:42:04 -0000</pubDate>
+<pubDate>Sat, 21 Mar 2026 15:15:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
