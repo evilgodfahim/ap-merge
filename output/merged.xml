@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 13:25:05 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
-<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
-<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 22 Mar 2026 13:57:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
@@ -17,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris]]></title>
-<link>https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748</link>
-<pubDate>Fri, 20 Mar 2026 07:12:00 -0000</pubDate>
+<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
+<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
+<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,21 +23,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The body of an American student who went missing in Barcelona has been found, police in Spain say]]></title>
-<link>https://apnews.com/article/spain-illinois-student-missing-barcelona-ec6bc6a9ca00c4d3901c1b65ae634f89</link>
-<pubDate>Fri, 20 Mar 2026 00:53:10 -0000</pubDate>
+<title><![CDATA[Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris]]></title>
+<link>https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748</link>
+<pubDate>Fri, 20 Mar 2026 07:12:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e</link>
+<pubDate>Sun, 22 Mar 2026 13:57:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos from the Mideast in the 4th week of the Iran war]]></title>
+<link>https://apnews.com/photo-gallery/iran-war-mideast-photos-07455c55782c2dfbaad05da4734ad300</link>
+<pubDate>Sun, 22 Mar 2026 13:42:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
 <link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
 <pubDate>Sun, 22 Mar 2026 10:50:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Congress looks for Trump’s exit plan as the Iran war drags on]]></title>
-<link>https://apnews.com/article/iran-war-powers-exit-strategy-congress-trump-781ef538fbb493cf0973c6a89698f36e</link>
-<pubDate>Sun, 22 Mar 2026 07:11:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congress looks for Trump’s exit plan as the Iran war drags on]]></title>
+<link>https://apnews.com/article/iran-war-powers-exit-strategy-congress-trump-781ef538fbb493cf0973c6a89698f36e</link>
+<pubDate>Sun, 22 Mar 2026 13:57:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iranian and Romanian charged after trying to enter UK’s nuclear submarine base]]></title>
 <link>https://apnews.com/article/uk-faslane-nuclear-submarine-arrests-iran-ea42e175cdbf356a286dd9e097a92ee8</link>
 <pubDate>Sat, 21 Mar 2026 14:17:58 -0000</pubDate>
@@ -260,12 +266,6 @@
 <title><![CDATA[Models with Down syndrome in Romania strike a pose for World Down Syndrome Day]]></title>
 <link>https://apnews.com/article/down-syndrome-catwalk-romania-fashion-show-europe-2d3f827919306e882041cda89d64894a</link>
 <pubDate>Sat, 21 Mar 2026 06:39:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e</link>
-<pubDate>Sun, 22 Mar 2026 04:45:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens attacks on Iranian power plants if Tehran fails to open the Strait of Hormuz]]></title>
+<title><![CDATA[US and Iran trade threats of expanding war after strikes near sites tied to nuclear sites]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78</link>
-<pubDate>Sun, 22 Mar 2026 08:21:34 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 13:57:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
