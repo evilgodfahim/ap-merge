@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 10:16:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 10:50:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
@@ -32,6 +32,12 @@
 <title><![CDATA[The body of an American student who went missing in Barcelona has been found, police in Spain say]]></title>
 <link>https://apnews.com/article/spain-illinois-student-missing-barcelona-ec6bc6a9ca00c4d3901c1b65ae634f89</link>
 <pubDate>Fri, 20 Mar 2026 00:53:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
+<link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
+<pubDate>Sun, 22 Mar 2026 10:50:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +419,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s mixed messages on Iran: ‘Winding down’ the war and easing sanctions but adding more troops]]></title>
+<link>https://apnews.com/article/trump-iran-war-oil-sanctions-troops-contradictions-eb10ac163be642ad4d738bab9f0ae2a6</link>
+<pubDate>Sun, 22 Mar 2026 10:50:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A wave of executions is feared in Iran after 3 young men were hanged this week]]></title>
 <link>https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3</link>
 <pubDate>Sat, 21 Mar 2026 06:39:59 -0000</pubDate>
@@ -422,12 +434,6 @@
 <title><![CDATA[As Netanyahu prepares for elections, his foes in Iran and Lebanon could get a vote]]></title>
 <link>https://apnews.com/article/israel-iran-netanyahu-election-72ca7119827c289e127d6464119d3761</link>
 <pubDate>Sat, 21 Mar 2026 18:06:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
-<link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
-<pubDate>Sat, 21 Mar 2026 05:01:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
