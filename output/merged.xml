@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 15:45:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 16:17:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
-<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
-<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[France takes ‘appropriate measures’ after sailor’s jogging app exposes aircraft carrier’s location]]></title>
 <link>https://apnews.com/article/france-aircraft-carrier-sailor-sports-app-location-acbd3595a2317c2b8068dc42082c3d51</link>
 <pubDate>Sat, 21 Mar 2026 07:49:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
+<link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
+<pubDate>Fri, 20 Mar 2026 22:52:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,21 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Photos from the Mideast in the 4th week of the Iran war]]></title>
-<link>https://apnews.com/photo-gallery/iran-war-mideast-photos-07455c55782c2dfbaad05da4734ad300</link>
-<pubDate>Sun, 22 Mar 2026 13:42:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
-<link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
-<pubDate>Sun, 22 Mar 2026 10:50:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about Diego Garcia after Iran targets the remote island’s key US military base]]></title>
 <link>https://apnews.com/article/diego-garcia-iran-missiles-what-to-know-d51bd9c3bcd83ee0300288221bff5614</link>
 <pubDate>Sun, 22 Mar 2026 06:41:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos from the Mideast in the 4th week of the Iran war]]></title>
+<link>https://apnews.com/photo-gallery/iran-war-mideast-photos-07455c55782c2dfbaad05da4734ad300</link>
+<pubDate>Sun, 22 Mar 2026 13:42:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -275,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel strikes Hezbollah’s civilian as well as military wings in an attempt to crush the group]]></title>
+<link>https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd</link>
+<pubDate>Sun, 22 Mar 2026 16:17:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Judge orders Voice of America be put back together again. What are the chances that will happen?]]></title>
 <link>https://apnews.com/article/voice-of-america-radio-trump-kari-lake-d9ccd621cd9ee431eb3e897810243ef1</link>
 <pubDate>Sat, 21 Mar 2026 05:01:05 -0000</pubDate>
@@ -371,15 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nearly 90,000 bottles of children’s liquid pain medication recalled]]></title>
-<link>https://apnews.com/article/fda-recall-ibuprofen-children-bottles-d619d34043433f2a0f7a1afe4bc6bed7</link>
-<pubDate>Fri, 20 Mar 2026 15:33:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iran threaten to expand the war to the region’s power plants]]></title>
+<title><![CDATA[Iran threatens to close Strait of Hormuz and hit power plants after Trump’s 48-hour ultimatum]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78</link>
-<pubDate>Sun, 22 Mar 2026 15:16:22 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 16:17:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -416,6 +410,12 @@
 <title><![CDATA[Uganda reintroduces rhinos into protected area where they’ve been extinct since 1983]]></title>
 <link>https://apnews.com/video/uganda-reintroduces-rhinos-into-protected-area-where-theyve-been-extinct-since-1983-68c64c252bca4f4c82cc01c25a75f0a0</link>
 <pubDate>Sat, 21 Mar 2026 00:34:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian authorities’ new limits on alcohol sales in Damascus spark backlash]]></title>
+<link>https://apnews.com/article/syria-alsharaa-alcohol-ban-christians-ed5f71c33b444b6be791644a915da9a7</link>
+<pubDate>Sun, 22 Mar 2026 16:02:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
