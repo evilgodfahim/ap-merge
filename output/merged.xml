@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 01:11:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 03:56:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
@@ -32,6 +32,12 @@
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
 <pubDate>Fri, 20 Mar 2026 13:38:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A look at who holds the reins of power in Iran since the country’s top leaders were killed]]></title>
+<link>https://apnews.com/article/iran-leadership-khamenei-revolutionary-guards-regime-change-745783d7a2fe63205f7a6eded58bc315</link>
+<pubDate>Sun, 22 Mar 2026 03:56:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,12 +197,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s power grid collapses leaving it without electricity for the 3rd time this month]]></title>
-<link>https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8</link>
-<pubDate>Sun, 22 Mar 2026 00:56:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A deadly South Tyrol avalanche kills 2 skiers, trapping 25 near the Austria border]]></title>
 <link>https://apnews.com/article/italy-avalanche-skiers-killed-f793b17f97e5a39a2b1fe427cefeaf4b</link>
 <pubDate>Sat, 21 Mar 2026 18:21:17 -0000</pubDate>
@@ -353,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine is using its drone expertise to help 5 countries against Iran attacks, Zelenskyy says]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-us-talks-iran-drones-40ad8f5481d954fe8207c3d576d540f7</link>
+<pubDate>Sun, 22 Mar 2026 03:56:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Norway’s crown princess talks about her ties to Epstein for the first time]]></title>
 <link>https://apnews.com/article/epstein-norway-crown-princess-mettemarit-10a95f4325fad68e181e034e51916f53</link>
 <pubDate>Fri, 20 Mar 2026 11:49:56 -0000</pubDate>
@@ -383,9 +389,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about Diego Garcia after Iran targets the remote island’s key US military base]]></title>
-<link>https://apnews.com/article/diego-garcia-iran-missiles-what-to-know-d51bd9c3bcd83ee0300288221bff5614</link>
-<pubDate>Sat, 21 Mar 2026 14:17:59 -0000</pubDate>
+<title><![CDATA[Cuba’s power grid collapses leaving it without electricity for the 3rd time this month]]></title>
+<link>https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8</link>
+<pubDate>Sun, 22 Mar 2026 03:56:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Japanese national detained in Iran last year has been released, Japan’s foreign minister says]]></title>
+<link>https://apnews.com/article/japan-iran-war-detention-release-193f389a5c1fbbcf6c17ff4afeb07d17</link>
+<pubDate>Sun, 22 Mar 2026 03:41:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +425,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about Diego Garcia after Iran targets the remote island’s key US military base]]></title>
+<link>https://apnews.com/article/diego-garcia-iran-missiles-what-to-know-d51bd9c3bcd83ee0300288221bff5614</link>
+<pubDate>Sat, 21 Mar 2026 14:17:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Congress looks for Trump’s exit plan as the Iran war drags on]]></title>
 <link>https://apnews.com/article/iran-war-powers-exit-strategy-congress-trump-781ef538fbb493cf0973c6a89698f36e</link>
 <pubDate>Sat, 21 Mar 2026 15:30:09 -0000</pubDate>
@@ -422,12 +440,6 @@
 <title><![CDATA[Syrian Kurds return home to celebrate Nowruz for the first time since exile]]></title>
 <link>https://apnews.com/article/syria-kurds-afrin-nowruz-730b2cf7c477bfdcaf898d212c8dced9</link>
 <pubDate>Sat, 21 Mar 2026 14:02:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A look at who holds the reins of power in Iran since the country’s top leaders were killed]]></title>
-<link>https://apnews.com/article/iran-leadership-khamenei-revolutionary-guards-regime-change-745783d7a2fe63205f7a6eded58bc315</link>
-<pubDate>Fri, 20 Mar 2026 10:05:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +491,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hawaii’s worst flooding in 20 years threatens dam, prompts evacuations as more rain looms]]></title>
+<title><![CDATA[Hawaii’s worst flooding in 20 years threatens dam, prompts evacuations, as more rain looms]]></title>
 <link>https://apnews.com/article/hawaii-flooding-heavy-rain-oahu-north-shore-e4b4f3642491b3e5de4a5ad7b82e9f39</link>
-<pubDate>Sat, 21 Mar 2026 15:15:09 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 03:26:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
