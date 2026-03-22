@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 11:42:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 12:26:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran threatens tourism sites and US sends more Marines to Middle East as Trump hints at wind-down]]></title>
 <link>https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris]]></title>
-<link>https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748</link>
-<pubDate>Fri, 20 Mar 2026 07:12:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
 <pubDate>Fri, 20 Mar 2026 13:38:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Drone video from inside a Fukushima reactor shows a hole in pressure vessel, likely fuel debris]]></title>
+<link>https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748</link>
+<pubDate>Fri, 20 Mar 2026 07:12:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,15 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French voters head to the polls in municipal runoffs with Paris, Marseille and Lyon in focus]]></title>
+<title><![CDATA[France holds the final round of municipal elections ahead of 2027 presidential race]]></title>
 <link>https://apnews.com/article/france-municipal-elections-second-round-1e6af62a55b0d69c5d336f254b612236</link>
-<pubDate>Sun, 22 Mar 2026 08:21:33 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 12:26:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni]]></title>
-<link>https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b</link>
-<pubDate>Sun, 22 Mar 2026 06:26:19 -0000</pubDate>
+<title><![CDATA[Slovenia’s governing liberals face right-wing populists in a tight parliamentary election]]></title>
+<link>https://apnews.com/article/slovenia-election-liberals-populists-6e24d78054ea2c3072c9b79b80ddd586</link>
+<pubDate>Sun, 22 Mar 2026 05:15:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,15 +137,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Detained immigrant children still face concerning conditions at Texas facility, lawyers say]]></title>
-<link>https://apnews.com/article/detained-immigrant-children-dilley-texas-facility-1fb596b4327bb8ce126991b5d7a3e8c5</link>
-<pubDate>Sat, 21 Mar 2026 22:13:09 -0000</pubDate>
+<title><![CDATA[Cast a ballot and wait for the plane. In Alaska, a grace period for ballots is seen as a necessity]]></title>
+<link>https://apnews.com/article/election-day-mail-ballots-supreme-court-alaska-eb311b3f85f990254bf62a89fcbc0d9f</link>
+<pubDate>Sun, 22 Mar 2026 12:11:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Feds move to dismiss charges against officers accused of falsifying warrant in Breonna Taylor raid]]></title>
-<link>https://apnews.com/article/breonna-taylor-shooting-charges-dropped-da7af3049b7eb8a24c1333e0be3c1788</link>
-<pubDate>Fri, 20 Mar 2026 18:36:39 -0000</pubDate>
+<title><![CDATA[Detained immigrant children still face concerning conditions at Texas facility, lawyers say]]></title>
+<link>https://apnews.com/article/detained-immigrant-children-dilley-texas-facility-1fb596b4327bb8ce126991b5d7a3e8c5</link>
+<pubDate>Sat, 21 Mar 2026 22:13:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 buildings collapse in central Istanbul after gas explosion, search operations underway]]></title>
+<link>https://apnews.com/article/turkey-istanbul-building-collapse-8185abbe79303740a784c2503b307f97</link>
+<pubDate>Sun, 22 Mar 2026 12:26:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The media may have unmasked Banksy — again. That’s angered some art fans but not ruffled dealers]]></title>
 <link>https://apnews.com/article/banksy-art-gunningham-identity-bca10c147d7ea97bdbb23058cfd613b5</link>
 <pubDate>Sun, 22 Mar 2026 07:11:20 -0000</pubDate>
@@ -206,12 +212,6 @@
 <title><![CDATA[Photos show the ‘Feline Oscars,’ an international feline beauty competition in Romania]]></title>
 <link>https://apnews.com/photo-gallery/romania-cat-show-photos-41dd948ce63a4c3660507867c68124b8</link>
 <pubDate>Sun, 22 Mar 2026 05:15:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Slovenia’s governing liberals face right-wing populists in a tight parliamentary election]]></title>
-<link>https://apnews.com/article/slovenia-election-liberals-populists-6e24d78054ea2c3072c9b79b80ddd586</link>
-<pubDate>Sun, 22 Mar 2026 08:21:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni]]></title>
+<link>https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b</link>
+<pubDate>Sun, 22 Mar 2026 07:11:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How Ukraine’s front line became a laboratory for drone innovation]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-drones-innovation-interceptor-shahed-e9de7db6437d3cbb428a6bacac326fb3</link>
 <pubDate>Sun, 22 Mar 2026 06:56:21 -0000</pubDate>
@@ -404,12 +410,6 @@
 <title><![CDATA[Trump cites Pearl Harbor to defend Iran war decision: ‘Who knows surprise better than Japan?’]]></title>
 <link>https://apnews.com/video/trump-cites-pearl-harbor-to-defend-iran-war-decision-who-knows-surprise-better-than-japan-fcac7d56714e465eb9841fd57ffd57ea</link>
 <pubDate>Sat, 21 Mar 2026 01:04:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Aftermath of strike on checkpoint in Tehran as Israel continues attacks]]></title>
-<link>https://apnews.com/video/aftermath-of-strike-on-checkpoint-in-tehran-as-israel-continues-attacks-e298b2e9900a4d6c85818b1ce905c6ee</link>
-<pubDate>Sat, 21 Mar 2026 00:49:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
