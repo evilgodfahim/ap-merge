@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 14:50:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 15:16:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
@@ -221,6 +221,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba’s power grid collapses leaving it without electricity for the 3rd time this month]]></title>
+<link>https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8</link>
+<pubDate>Sun, 22 Mar 2026 00:56:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A deadly South Tyrol avalanche kills 2 skiers, trapping 25 near the Austria border]]></title>
 <link>https://apnews.com/article/italy-avalanche-skiers-killed-f793b17f97e5a39a2b1fe427cefeaf4b</link>
 <pubDate>Sat, 21 Mar 2026 18:21:17 -0000</pubDate>
@@ -371,15 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Czech authorities probe suspected arson at a drone technology company]]></title>
-<link>https://apnews.com/article/czech-fire-warehouse-drones-lpp-arson-3fed52f223f3426d07056e0c56b2cfc0</link>
-<pubDate>Fri, 20 Mar 2026 15:18:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iran trade threats of expanding war after strikes near sites tied to nuclear sites]]></title>
+<title><![CDATA[US and Iran threaten to expand the war to the region’s power plants]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78</link>
-<pubDate>Sun, 22 Mar 2026 13:57:40 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 15:16:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,15 +395,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A strike on a hospital in Sudan killed at least 64 people, WHO says]]></title>
-<link>https://apnews.com/article/sudan-strike-darfur-rsf-army-hospital-127fa3eb59ac1d19f72d1f7a1b2624bd</link>
-<pubDate>Sun, 22 Mar 2026 06:41:21 -0000</pubDate>
+<title><![CDATA[Cuba begins to restore power after third nationwide collapse in a month]]></title>
+<link>https://apnews.com/article/cuba-blackout-energy-ba0e5a5df1f428dbf26656d23a16a772</link>
+<pubDate>Sun, 22 Mar 2026 15:01:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s power grid collapses leaving it without electricity for the 3rd time this month]]></title>
-<link>https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8</link>
-<pubDate>Sun, 22 Mar 2026 03:56:14 -0000</pubDate>
+<title><![CDATA[A strike on a hospital in Sudan killed at least 64 people, WHO says]]></title>
+<link>https://apnews.com/article/sudan-strike-darfur-rsf-army-hospital-127fa3eb59ac1d19f72d1f7a1b2624bd</link>
+<pubDate>Sun, 22 Mar 2026 06:41:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
