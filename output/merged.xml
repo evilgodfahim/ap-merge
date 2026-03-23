@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Mar 2026 06:56:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 07:58:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
@@ -50,6 +50,12 @@
 <title><![CDATA[Emmanuel Grégoire, a Socialist long involved in local politics, becomes Paris’ new mayor]]></title>
 <link>https://apnews.com/article/paris-mayor-emmanuel-gregoire-socialist-b487efda02134f1312c349d1c89bee21</link>
 <pubDate>Mon, 23 Mar 2026 06:56:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trial opens over Greek train crash that killed 57, many of them students]]></title>
+<link>https://apnews.com/article/greece-rail-disaster-trial-tempe-190ad9b5e77163f972876976bfa9206b</link>
+<pubDate>Mon, 23 Mar 2026 07:58:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,12 +107,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Africa’s solar boom faces higher costs as China cuts export subsidies]]></title>
-<link>https://apnews.com/article/china-rebates-solar-africa-renewable-energy-1927e8535ce146018842726155df9a51</link>
-<pubDate>Sun, 22 Mar 2026 05:00:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How these secretive traditional circumcision rites are responsible for dozens of deaths]]></title>
 <link>https://apnews.com/article/south-africa-initiation-circumcision-deaths-eada8249280e1096338ca81c5f9cd11b</link>
 <pubDate>Sat, 21 Mar 2026 09:46:01 -0000</pubDate>
@@ -116,6 +116,18 @@
 <title><![CDATA[Uganda reintroduces rhinos into a protected area where they have been extinct since 1983]]></title>
 <link>https://apnews.com/article/uganda-rhinos-translocation-kidepo-valley-national-park-2e7651868d61735937e51cdeaa7ea1cd</link>
 <pubDate>Fri, 20 Mar 2026 15:18:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of rhinos being reintroduced to a national park in Uganda]]></title>
+<link>https://apnews.com/photo-gallery/rhino-rhinoceros-sanctuary-poaching-2047d481cd1184ce2c87dadd558cb83c</link>
+<pubDate>Fri, 20 Mar 2026 18:51:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show the scene of a collision on a runway at LaGuardia Airport in New York]]></title>
+<link>https://apnews.com/photo-gallery/new-york-laguardia-air-canada-collision-photos-9f5ddcb29b62be61aa9786fc648f4f03</link>
+<pubDate>Mon, 23 Mar 2026 07:43:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -134,12 +146,6 @@
 <title><![CDATA[Cast a ballot and wait for the plane. In Alaska, a grace period for ballots is seen as a necessity]]></title>
 <link>https://apnews.com/article/election-day-mail-ballots-supreme-court-alaska-eb311b3f85f990254bf62a89fcbc0d9f</link>
 <pubDate>Sun, 22 Mar 2026 12:11:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spiking gas prices tied to Iran war are set to eat up tax refunds touted by Trump]]></title>
-<link>https://apnews.com/article/trump-tax-refunds-gas-prices-859494e746561a3343dcd57836c3dc83</link>
-<pubDate>Sun, 22 Mar 2026 17:32:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -203,12 +209,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares decline as hopes dim for resolution in Iran after Trump’s latest comments]]></title>
-<link>https://apnews.com/article/stocks-markets-oil-iran-trump-026e3ab83a6256e36001b85058f92b5d</link>
-<pubDate>Mon, 23 Mar 2026 03:47:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Tusk says Poland long suspected Hungary shared EU Council details with Russia]]></title>
 <link>https://apnews.com/article/russia-hungary-poland-30ebc20b85ac089b43bcf081efd75bf7</link>
 <pubDate>Sun, 22 Mar 2026 20:14:41 -0000</pubDate>
@@ -242,6 +242,12 @@
 <title><![CDATA[Socialist Grégoire becomes Paris mayor as the far right wins Nice in key municipal elections]]></title>
 <link>https://apnews.com/article/france-municipal-elections-second-round-1e6af62a55b0d69c5d336f254b612236</link>
 <pubDate>Mon, 23 Mar 2026 06:41:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni]]></title>
+<link>https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b</link>
+<pubDate>Mon, 23 Mar 2026 07:58:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,12 +401,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni]]></title>
-<link>https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b</link>
-<pubDate>Sun, 22 Mar 2026 07:11:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump cites Pearl Harbor to defend Iran war decision: ‘Who knows surprise better than Japan?’]]></title>
 <link>https://apnews.com/video/trump-cites-pearl-harbor-to-defend-iran-war-decision-who-knows-surprise-better-than-japan-fcac7d56714e465eb9841fd57ffd57ea</link>
 <pubDate>Sat, 21 Mar 2026 01:04:03 -0000</pubDate>
@@ -437,33 +437,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What the World Happiness Report reveals about social media and the world’s happiest country]]></title>
-<link>https://apnews.com/article/world-happiness-finland-social-media-unhappiness-bf3b4dae7fcfe2842ea2bd47f88b3c4b</link>
-<pubDate>Sat, 21 Mar 2026 07:49:43 -0000</pubDate>
+<title><![CDATA[Asian shares decline as hopes dim for resolution in Iran after Trump’s latest comments]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-iran-trump-026e3ab83a6256e36001b85058f92b5d</link>
+<pubDate>Mon, 23 Mar 2026 07:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asia scrambles to conserve energy as Iran war disrupts oil and gas supplies]]></title>
-<link>https://apnews.com/article/iran-war-asia-energy-gas-oil-hormuz-d1265c39c990abb2dd43e037adb37c7a</link>
-<pubDate>Thu, 19 Mar 2026 13:16:31 -0000</pubDate>
+<title><![CDATA[Spiking gas prices tied to Iran war are set to eat up tax refunds touted by Trump]]></title>
+<link>https://apnews.com/article/trump-tax-refunds-gas-prices-859494e746561a3343dcd57836c3dc83</link>
+<pubDate>Mon, 23 Mar 2026 07:28:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba readies for first Russian oil shipment of the year as energy crisis deepens]]></title>
-<link>https://apnews.com/article/cuba-russian-oil-shipment-tanker-hong-kong-d51ead9f2cfdab1070dea2d869423b3f</link>
-<pubDate>Thu, 19 Mar 2026 20:01:20 -0000</pubDate>
+<title><![CDATA[Iran war halts Qatar helium output, threatening global tech supply chains]]></title>
+<link>https://apnews.com/article/iran-chips-semiconductor-helium-exports-war-fe934332f7c83bb722ca87db22cd57d0</link>
+<pubDate>Mon, 23 Mar 2026 07:13:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil rolls out law boosting online protection of minors]]></title>
-<link>https://apnews.com/article/brazil-internet-regulation-social-media-cd5d8f51ecbc0bb28f43a741dd95bc05</link>
-<pubDate>Sat, 21 Mar 2026 07:34:43 -0000</pubDate>
+<title><![CDATA[Nonprofits, unions and airports rally to feed TSA officers as shutdown drags]]></title>
+<link>https://apnews.com/article/tsa-lines-airport-shutdown-food-banks-a1e52ca10557f4f70c1360e878567b4b</link>
+<pubDate>Mon, 23 Mar 2026 06:58:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Making menstrual leave official: 2 paid days off a month for period pain]]></title>
-<link>https://apnews.com/article/kenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89</link>
-<pubDate>Wed, 18 Mar 2026 16:18:24 -0000</pubDate>
+<title><![CDATA[Africa’s solar boom faces higher costs as China cuts export subsidies]]></title>
+<link>https://apnews.com/article/china-rebates-solar-africa-renewable-energy-1927e8535ce146018842726155df9a51</link>
+<pubDate>Mon, 23 Mar 2026 06:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
