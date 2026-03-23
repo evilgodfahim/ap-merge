@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Mar 2026 11:36:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 12:39:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[French navy boards a tanker in the Mediterranean suspected of being part of Russia’s shadow fleet]]></title>
 <link>https://apnews.com/article/france-russia-tanker-intercepted-shadow-fleet-e8a24c4cebf73bc2f7097ef3ae6c344d</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea says summit with Japan is off unless Tokyo drops ‘its anachronistic’ ways]]></title>
+<link>https://apnews.com/article/north-korea-japan-kim-takaichi-summit-trump-096be456541ae9daf8baf21e6409d4b5</link>
+<pubDate>Mon, 23 Mar 2026 12:39:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
 <link>https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c</link>
 <pubDate>Sat, 21 Mar 2026 13:47:58 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[K-pop sensation BTS returns with a comeback concert in Seoul after a 4-year hiatus]]></title>
 <link>https://apnews.com/article/bts-kpop-concert-south-korea-9fb788ea4a1916681d09710a3c696dec</link>
 <pubDate>Sat, 21 Mar 2026 13:14:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz]]></title>
-<link>https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13</link>
-<pubDate>Sat, 21 Mar 2026 10:01:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,6 +383,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran built a vast camera network to control dissent. Israel turned it into a targeting tool]]></title>
+<link>https://apnews.com/article/iran-war-security-cameras-surveillance-5f9a1fe5845d94894f3edd50af560d3a</link>
+<pubDate>Mon, 23 Mar 2026 12:39:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jewish charity’s ambulances set on fire in what UK police investigate as an antisemitic attack]]></title>
 <link>https://apnews.com/article/london-golders-green-ambulance-arson-antisemitism-hatzola-493f0d803b9c197a158d8f970eeb0998</link>
 <pubDate>Mon, 23 Mar 2026 11:21:07 -0000</pubDate>
@@ -437,9 +443,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Global shares decline as hopes dim for resolution in Iran after Trump’s latest comments]]></title>
+<title><![CDATA[Markets shoot higher and oil futures sink after Trump announces progress with Iran, halt on bombing]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-026e3ab83a6256e36001b85058f92b5d</link>
-<pubDate>Mon, 23 Mar 2026 08:52:53 -0000</pubDate>
+<pubDate>Mon, 23 Mar 2026 12:24:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
