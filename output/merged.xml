@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Mar 2026 18:38:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 19:39:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran threatens to ‘completely’ close Strait of Hormuz and hit power plants after Trump ultimatum]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war]]></title>
-<link>https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e</link>
-<pubDate>Sun, 22 Mar 2026 06:11:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Live updates: Iran denies any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
 <pubDate>Mon, 23 Mar 2026 18:38:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war]]></title>
+<link>https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e</link>
+<pubDate>Sun, 22 Mar 2026 06:11:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bodies of Africans were once dug up and sent to Europe for research. Now they are coming home]]></title>
+<link>https://apnews.com/article/south-africa-khoi-san-remains-reburials-museums-e24fdaf956357d9325c448cc0b5d363d</link>
+<pubDate>Mon, 23 Mar 2026 19:39:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Notorious apartheid police commander ‘Prime Evil’ testifies at South African hearing on killings]]></title>
 <link>https://apnews.com/article/south-africa-apartheid-killings-inquiry-police-ce81c4459c4685d3680d6543e075c30d</link>
 <pubDate>Mon, 23 Mar 2026 16:29:42 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Secretive deal leaves deportees from the US stuck in Equatorial Guinea with ‘no more hope’]]></title>
 <link>https://apnews.com/article/equatorial-guinea-deportations-trump-asylum-migrants-9d0a623b83288f5c7b1d1a71443d04cd</link>
 <pubDate>Mon, 23 Mar 2026 05:51:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Africa’s solar boom faces higher costs as China cuts export subsidies]]></title>
-<link>https://apnews.com/article/china-rebates-solar-africa-renewable-energy-1927e8535ce146018842726155df9a51</link>
-<pubDate>Sun, 22 Mar 2026 05:00:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Small comforts fade and big worries grow as fuel prices surge globally]]></title>
+<link>https://apnews.com/article/oil-gas-iran-trump-war-49a1eeec97df1364851c63397e6599d2</link>
+<pubDate>Mon, 23 Mar 2026 19:39:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration to pay French company $1B to walk away from US offshore wind leases]]></title>
 <link>https://apnews.com/article/trump-offshore-wind-energy-climate-totalenergies-interior-092eeeacc5d09730d4e20a95d7df7de1</link>
 <pubDate>Mon, 23 Mar 2026 18:38:13 -0000</pubDate>
@@ -218,12 +224,6 @@
 <title><![CDATA[An explosion in Nigeria’s Kwara state kills at least 1 person, police say]]></title>
 <link>https://apnews.com/article/nigeria-deadly-explosion-kwara-muslim-militants-c592a8910b015fc58da24c42793cb595</link>
 <pubDate>Mon, 23 Mar 2026 15:32:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Bodies of Africans were once dug up and sent to Europe for research. Now they are coming home]]></title>
-<link>https://apnews.com/article/south-africa-khoi-san-remains-reburials-museums-e24fdaf956357d9325c448cc0b5d363d</link>
-<pubDate>Mon, 23 Mar 2026 15:17:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Africa’s solar boom faces higher costs as China cuts export subsidies]]></title>
+<link>https://apnews.com/article/china-rebates-solar-africa-renewable-energy-1927e8535ce146018842726155df9a51</link>
+<pubDate>Mon, 23 Mar 2026 19:24:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Slovenia’s liberals and populists neck and neck, preliminary results show]]></title>
 <link>https://apnews.com/article/slovenia-election-liberals-populists-6e24d78054ea2c3072c9b79b80ddd586</link>
 <pubDate>Mon, 23 Mar 2026 06:26:51 -0000</pubDate>
@@ -368,12 +374,6 @@
 <title><![CDATA[Iranian and Romanian charged after trying to enter UK’s nuclear submarine base]]></title>
 <link>https://apnews.com/article/uk-faslane-nuclear-submarine-arrests-iran-ea42e175cdbf356a286dd9e097a92ee8</link>
 <pubDate>Sat, 21 Mar 2026 14:17:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian Kurds return home to celebrate Nowruz for the first time since exile]]></title>
-<link>https://apnews.com/article/syria-kurds-afrin-nowruz-730b2cf7c477bfdcaf898d212c8dced9</link>
-<pubDate>Sun, 22 Mar 2026 08:06:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil prices ease and stock markets jump as hopes rise for an end to the Iran war]]></title>
+<title><![CDATA[Wall Street rallies in relief after Trump hints at a possible end to war, even as Iran denies talks]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-026e3ab83a6256e36001b85058f92b5d</link>
-<pubDate>Mon, 23 Mar 2026 16:44:44 -0000</pubDate>
+<pubDate>Mon, 23 Mar 2026 19:39:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
