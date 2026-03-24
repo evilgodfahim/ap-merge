@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 03:44:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 05:18:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s parliament speaker denies there have been any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
@@ -38,12 +38,6 @@
 <title><![CDATA[A wave of executions is feared in Iran after 3 young men were hanged this week]]></title>
 <link>https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3</link>
 <pubDate>Mon, 23 Mar 2026 20:30:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[As Netanyahu prepares for elections, his foes in Iran and Lebanon could get a vote]]></title>
-<link>https://apnews.com/article/israel-iran-netanyahu-election-72ca7119827c289e127d6464119d3761</link>
-<pubDate>Sun, 22 Mar 2026 20:14:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,15 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Here’s what to know as the scope of damage from Hawaii’s floods becomes clearer]]></title>
-<link>https://apnews.com/article/hawaii-flood-oahu-19062f660994694b07c59e0f29fd37cb</link>
-<pubDate>Mon, 23 Mar 2026 22:19:58 -0000</pubDate>
+<title><![CDATA[Workers’ job market gloom has increased dramatically over the past few years, Gallup survey finds]]></title>
+<link>https://apnews.com/article/jobs-economy-pessimism-498d797131e133585c35cbea8255e9ac</link>
+<pubDate>Tue, 24 Mar 2026 05:18:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Record-smashing heat continues: ‘Basically the entire US is going to be hot’]]></title>
-<link>https://apnews.com/article/record-heat-climate-warming-arizona-california-11dcebf8ba88cfcd3fd9bc1144a5df10</link>
-<pubDate>Tue, 24 Mar 2026 03:14:18 -0000</pubDate>
+<title><![CDATA[Some state officials say shifting mail ballot deadline will complicate plans for November elections]]></title>
+<link>https://apnews.com/article/supreme-court-mail-ballots-election-day-dc9053456365c7aa0be10462df030b12</link>
+<pubDate>Tue, 24 Mar 2026 05:03:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -281,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 pilots killed when jet collides with fire truck at New York’s LaGuardia Airport]]></title>
+<link>https://apnews.com/article/new-york-laguardia-airport-air-canada-collision-6a3cbabbeed76125fa5f7aed32679fd8</link>
+<pubDate>Tue, 24 Mar 2026 05:18:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Everything you need to know about ‘BTS: The Return,’ the new Netflix documentary]]></title>
 <link>https://apnews.com/article/bts-return-review-netflix-documentary-bd1b21a574d733d3823d8755607be521</link>
 <pubDate>Mon, 23 Mar 2026 05:21:24 -0000</pubDate>
@@ -371,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s power grid collapses leaving it without electricity for the 3rd time this month]]></title>
-<link>https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8</link>
-<pubDate>Sun, 22 Mar 2026 00:56:49 -0000</pubDate>
+<title><![CDATA[Iran targets Israel and Gulf Arab states even as Trump says US is in talks to end the war]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778</link>
+<pubDate>Tue, 24 Mar 2026 05:18:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Military plane with 121 aboard crashes in Colombia, killing dozens]]></title>
+<title><![CDATA[At least 66 killed in military plane crash in Colombia, head of armed forces says]]></title>
 <link>https://apnews.com/article/colombia-military-plane-crash-hercules-troops-defense-minister-putumayo-8357e5d7614bbe1208ec0bf1c280f9e9</link>
-<pubDate>Tue, 24 Mar 2026 00:36:10 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 05:03:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 pilots killed when jet collides with fire truck at New York’s LaGuardia Airport]]></title>
-<link>https://apnews.com/article/new-york-laguardia-airport-air-canada-collision-6a3cbabbeed76125fa5f7aed32679fd8</link>
-<pubDate>Mon, 23 Mar 2026 16:29:44 -0000</pubDate>
+<title><![CDATA[Stories of survival emerge from deadly New York airport collision as officials investigate its cause]]></title>
+<link>https://apnews.com/article/aircraft-collision-fire-truck-new-york-de154ca6f3e7f492232dfc9db7739834</link>
+<pubDate>Tue, 24 Mar 2026 04:48:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
