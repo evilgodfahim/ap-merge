@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 10:39:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 11:37:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s parliament speaker denies there have been any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Denmark votes in an early election that follows a crisis over US designs on Greenland]]></title>
+<link>https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c</link>
+<pubDate>Tue, 24 Mar 2026 11:37:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Jewish charity’s ambulances set on fire in what UK police investigate as an antisemitic attack]]></title>
 <link>https://apnews.com/article/london-golders-green-ambulance-arson-antisemitism-hatzola-493f0d803b9c197a158d8f970eeb0998</link>
 <pubDate>Tue, 24 Mar 2026 07:46:12 -0000</pubDate>
@@ -47,27 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Emmanuel Grégoire, a Socialist long involved in local politics, becomes Paris’ new mayor]]></title>
-<link>https://apnews.com/article/paris-mayor-emmanuel-gregoire-socialist-b487efda02134f1312c349d1c89bee21</link>
-<pubDate>Mon, 23 Mar 2026 06:56:51 -0000</pubDate>
+<title><![CDATA[Asia boosts coal use as Iran war squeezes global LNG supplies]]></title>
+<link>https://apnews.com/article/middle-east-wars-energy-asia-gas-coal-f8ea1e10a6bb47085e5e6141fc3f1d3e</link>
+<pubDate>Tue, 24 Mar 2026 11:22:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 1,000-year-old temple lies battered after Cambodia-Thailand border clashes]]></title>
+<title><![CDATA[A 1,000-year-old cliff-top temple lies battered after Cambodia-Thailand border clashes]]></title>
 <link>https://apnews.com/article/cambodia-border-fighting-preah-vihear-temple-78ed49b616c43df61ad9194b8db22621</link>
-<pubDate>Tue, 24 Mar 2026 09:28:48 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 11:07:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[International Energy Agency head says global economy faces ‘major, major threat’ from Iran war]]></title>
-<link>https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165</link>
-<pubDate>Tue, 24 Mar 2026 09:13:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japanese national returns home after monthslong detention in Iran]]></title>
-<link>https://apnews.com/article/japan-iran-war-detention-release-193f389a5c1fbbcf6c17ff4afeb07d17</link>
-<pubDate>Tue, 24 Mar 2026 03:29:18 -0000</pubDate>
+<title><![CDATA[Vietnam and Russia advance nuclear power deal as energy security concerns grow in Southeast Asia]]></title>
+<link>https://apnews.com/article/vietnam-russia-nuclear-power-energy-security-asia-cec89f114c4e812673b1dc8c173bb2b0</link>
+<pubDate>Tue, 24 Mar 2026 10:52:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Large oil refinery explosion near Texas coast forces residents to shelter in place]]></title>
+<title><![CDATA[Fire out and shelter-in-place order is lifted after oil refinery explosion near Texas coast]]></title>
 <link>https://apnews.com/article/refinery-explosion-texas-coast-60ecf6d9a70a2f1d5494fb8e38a84c4a</link>
-<pubDate>Tue, 24 Mar 2026 08:43:48 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 10:37:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -191,9 +191,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Scientists are driving antimatter around in a truck for research. Watch the journey live]]></title>
+<title><![CDATA[CERN runs a delicate test on transporting antimatter]]></title>
 <link>https://apnews.com/article/cern-antiproton-road-test-switzerland-geneva-17369ec3439bf5263d82ca11f0124895</link>
-<pubDate>Tue, 24 Mar 2026 09:28:49 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 11:37:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +317,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[International Energy Agency head says global economy faces ‘major, major threat’ from Iran war]]></title>
+<link>https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165</link>
+<pubDate>Tue, 24 Mar 2026 11:22:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Emmanuel Grégoire, a Socialist long involved in local politics, becomes Paris’ new mayor]]></title>
+<link>https://apnews.com/article/paris-mayor-emmanuel-gregoire-socialist-b487efda02134f1312c349d1c89bee21</link>
+<pubDate>Tue, 24 Mar 2026 11:07:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[2 pilots killed when jet collides with fire truck at New York’s LaGuardia Airport]]></title>
 <link>https://apnews.com/article/new-york-laguardia-airport-air-canada-collision-6a3cbabbeed76125fa5f7aed32679fd8</link>
 <pubDate>Tue, 24 Mar 2026 05:18:33 -0000</pubDate>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chappell Roan pushes back after soccer star Jorginho alleges his daughter was mistreated]]></title>
-<link>https://apnews.com/article/chappell-roan-jorginho-grammy-soccer-d23631e3b7fe884f9a2efaae282ad41c</link>
-<pubDate>Sun, 22 Mar 2026 19:59:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba begins to restore power after nationwide grid collapse]]></title>
-<link>https://apnews.com/article/cuba-blackout-energy-ba0e5a5df1f428dbf26656d23a16a772</link>
-<pubDate>Tue, 24 Mar 2026 00:36:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran targets Israel and Gulf Arab states even as Trump says US is in talks to end the war]]></title>
+<title><![CDATA[Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778</link>
-<pubDate>Tue, 24 Mar 2026 05:18:34 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 11:37:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,21 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia fires nearly 400 drones at Ukraine with signs its spring offensive has started]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-offensive-civilian-attacks-48a46d2503513c903bc3e4de31b96e00</link>
+<pubDate>Tue, 24 Mar 2026 11:22:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran built a vast camera network to control dissent. Israel turned it into a targeting tool]]></title>
 <link>https://apnews.com/article/iran-war-security-cameras-surveillance-5f9a1fe5845d94894f3edd50af560d3a</link>
 <pubDate>Mon, 23 Mar 2026 12:39:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Denmark votes in an early election that follows a crisis over US designs on Greenland]]></title>
-<link>https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c</link>
-<pubDate>Tue, 24 Mar 2026 07:46:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU and Australia sign free trade pact and announce a new defense partnership]]></title>
-<link>https://apnews.com/article/australia-eu-trade-agreement-china-us-tariffs-0ceec9b36ff1fc5f00500b57b65619ba</link>
-<pubDate>Tue, 24 Mar 2026 03:44:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says US and Iran are talking. His claim is eliciting market cheers and plenty of skepticism]]></title>
+<title><![CDATA[Trump’s claim that US and Iran are talking elicits market cheers and plenty of skepticism]]></title>
 <link>https://apnews.com/article/trump-iran-talks-objectives-e27ba37004edf6dc241417ad11c87760</link>
-<pubDate>Tue, 24 Mar 2026 09:28:50 -0000</pubDate>
+<pubDate>Tue, 24 Mar 2026 11:07:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,6 +437,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU and Australia sign free trade pact and announce a new defense partnership]]></title>
+<link>https://apnews.com/article/australia-eu-trade-agreement-china-us-tariffs-0ceec9b36ff1fc5f00500b57b65619ba</link>
+<pubDate>Tue, 24 Mar 2026 03:44:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Workers’ job market gloom has increased dramatically over the past few years, Gallup survey finds]]></title>
 <link>https://apnews.com/article/jobs-economy-pessimism-498d797131e133585c35cbea8255e9ac</link>
 <pubDate>Tue, 24 Mar 2026 08:58:50 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[Kalshi and Polymarket place new bans on insider trading as senators move to curb prediction markets]]></title>
 <link>https://apnews.com/article/kalshi-polymarket-prediction-markets-cftc-trump-insider-trading-fe7435cf6efefd922aa2edb9a0e80a05</link>
 <pubDate>Tue, 24 Mar 2026 08:28:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asia boosts coal use as Iran war squeezes global LNG supplies]]></title>
-<link>https://apnews.com/article/middle-east-wars-energy-asia-gas-coal-f8ea1e10a6bb47085e5e6141fc3f1d3e</link>
-<pubDate>Tue, 24 Mar 2026 03:14:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
