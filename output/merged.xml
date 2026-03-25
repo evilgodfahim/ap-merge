@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 15:40:18 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 16:52:46 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Iran dismisses US ceasefire plan, issues counterproposal as strikes land across the Mideast]]></title>
+<title><![CDATA[Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a</link>
-<pubDate>Wed, 25 Mar 2026 15:40:16 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 16:52:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[TSA officers share how they’re scraping by without pay]]></title>
+<link>https://apnews.com/article/tsa-agents-airports-government-shutdown-02c8fdbda5488b1cfb019fcf79c0430a</link>
+<pubDate>Wed, 25 Mar 2026 16:37:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Seconds before LaGuardia crash, controller cleared the fire truck to cross the runway, NTSB says]]></title>
 <link>https://apnews.com/article/laguardia-plane-crash-new-york-investigation-ntsb-33073747e410c8d7bceab0ebc347d35f</link>
 <pubDate>Wed, 25 Mar 2026 04:49:03 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Savannah Guthrie in NBC News interview appeals for help finding her missing mother]]></title>
 <link>https://apnews.com/article/savannah-guthrie-nbc-today-interview-mother-nancy-13f7a8c2cf9c9d4cb9cc9f990e6ac8bb</link>
 <pubDate>Wed, 25 Mar 2026 12:40:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The NAACP names ex-DOJ civil rights chief Kristen Clarke as its top lawyer]]></title>
-<link>https://apnews.com/article/naacp-general-counsel-kristen-clarke-doj-biden-f0f32570daaedfeb4c1178ceae1e923e</link>
-<pubDate>Wed, 25 Mar 2026 13:55:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,18 @@
 <title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
 <link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
 <pubDate>Thu, 19 Mar 2026 00:57:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lobsters and red carpet gowns: A new show celebrates Schiaparelli’s surrealist fashion]]></title>
+<link>https://apnews.com/article/va-museum-schiaparelli-fashion-exhibition-2b509cd0f3df9c7dc19bcc6b57dad220</link>
+<pubDate>Wed, 25 Mar 2026 16:52:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Prime Minister Carney says Air Canada CEO’s English-only condolences lacked compassion]]></title>
+<link>https://apnews.com/article/air-canada-ceo-french-crash-carney-laguardia-944ea1e6a7a6c3ee0ce47b6a1b816f86</link>
+<pubDate>Wed, 25 Mar 2026 16:37:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio plans travel to France to sell Iran war to skeptical G7 allies]]></title>
-<link>https://apnews.com/article/rubio-g7-trump-iran-9af085a4bedb1450ec7a9408ef9fbfa5</link>
-<pubDate>Wed, 25 Mar 2026 01:11:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[An arson attack leaves Britain’s Jewish community feeling vulnerable]]></title>
-<link>https://apnews.com/article/uk-jewish-community-antisemitic-attack-hatzola-iran-b563836e81aa1bb075955b18e1acedb6</link>
-<pubDate>Wed, 25 Mar 2026 09:41:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-fire-ustluga-9cb9adca61c79312b470a00fa8ae80be</link>
 <pubDate>Wed, 25 Mar 2026 09:26:47 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks rise and oil prices ease as Wall Street keeps yo-yoing because of the war with Iran]]></title>
+<title><![CDATA[Stocks and oil prices keep yo-yoing on uncertainty about when the war with Iran will end]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17</link>
-<pubDate>Wed, 25 Mar 2026 15:25:17 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 16:37:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA officers share how they’re scraping by without pay]]></title>
-<link>https://apnews.com/article/tsa-agents-airports-government-shutdown-02c8fdbda5488b1cfb019fcf79c0430a</link>
-<pubDate>Wed, 25 Mar 2026 13:55:08 -0000</pubDate>
+<title><![CDATA[Record-high passenger wait times at airports, but no deal yet on the 40th day of the shutdown]]></title>
+<link>https://apnews.com/article/airport-wait-times-shutdown-dhs-congress-tsa-391cbd731bed2e8433ab7f1a96ca9663</link>
+<pubDate>Wed, 25 Mar 2026 16:22:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
