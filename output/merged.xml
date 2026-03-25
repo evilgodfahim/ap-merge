@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 03:55:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 05:19:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s parliament speaker denies there have been any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
 <pubDate>Tue, 24 Mar 2026 03:44:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran threatens to ‘completely’ close Strait of Hormuz and hit power plants after Trump ultimatum]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78</link>
-<pubDate>Mon, 23 Mar 2026 04:02:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -32,6 +26,12 @@
 <title><![CDATA[North Korea says summit with Japan is off unless Tokyo drops ‘its anachronistic’ ways]]></title>
 <link>https://apnews.com/article/north-korea-japan-kim-takaichi-summit-trump-096be456541ae9daf8baf21e6409d4b5</link>
 <pubDate>Mon, 23 Mar 2026 12:39:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration offers 15-point ceasefire plan to Iran]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778</link>
+<pubDate>Wed, 25 Mar 2026 05:19:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War in Mideast spurs Muslims in Indian-controlled Kashmir to collect donations for Iran]]></title>
+<link>https://apnews.com/photo-gallery/kashmir-iran-us-israel-war-donations-photos-0191c08ddf59cdb57cc23dbbece85996</link>
+<pubDate>Wed, 25 Mar 2026 05:04:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Thai court holds gold mine operator liable for toxic runoff in a decade-old environmental case]]></title>
 <link>https://apnews.com/article/thailand-mining-lawsuit-environment-gold-australia-a6b322cd209abc8dfd240a06c8f233a4</link>
 <pubDate>Tue, 24 Mar 2026 12:43:43 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Asia boosts coal use as Iran war squeezes global LNG supplies]]></title>
 <link>https://apnews.com/article/middle-east-wars-energy-asia-gas-coal-f8ea1e10a6bb47085e5e6141fc3f1d3e</link>
 <pubDate>Tue, 24 Mar 2026 11:22:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A 1,000-year-old cliff-top temple lies battered after Cambodia-Thailand border clashes]]></title>
-<link>https://apnews.com/article/cambodia-border-fighting-preah-vihear-temple-78ed49b616c43df61ad9194b8db22621</link>
-<pubDate>Tue, 24 Mar 2026 11:07:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Seconds before LaGuardia crash, controller cleared the fire truck to cross the runway, NTSB says]]></title>
+<link>https://apnews.com/article/laguardia-plane-crash-new-york-investigation-ntsb-33073747e410c8d7bceab0ebc347d35f</link>
+<pubDate>Wed, 25 Mar 2026 04:49:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pilots killed in LaGuardia collision were young Canadians who had long dreamed of flying planes]]></title>
 <link>https://apnews.com/article/pilots-identified-crash-laguardia-mackenzie-gunther-antoine-forrest-c5238ddbe5b0ba6ccedfa967ac62efc0</link>
 <pubDate>Wed, 25 Mar 2026 00:11:11 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Minnesota sues Trump administration over shootings, including deaths of Alex Pretti and Renee Good]]></title>
 <link>https://apnews.com/article/immigration-minneapolis-sue-alex-pretti-renee-good-5a0b98ac7173ce0e9ecc3bf9a39e3919</link>
 <pubDate>Tue, 24 Mar 2026 19:30:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jewish communities boost security and continue observances amid rise in hateful incidents]]></title>
-<link>https://apnews.com/article/antisemitism-threats-islamophobia-law-enforcement-429b71bf337dac5dc7fb73e79b23ecc6</link>
-<pubDate>Tue, 24 Mar 2026 23:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,9 +197,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As New Mexico jury finds Meta platforms harm children, social media firms await more legal decisions]]></title>
+<link>https://apnews.com/article/social-media-lawsuits-meta-google-tiktokl-96922e625326f6e6dce55c6b73b17360</link>
+<pubDate>Wed, 25 Mar 2026 05:19:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Oil falls more than 5% and Asian shares gain over Trump’s talk of negotiations with Iran]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17</link>
 <pubDate>Wed, 25 Mar 2026 03:55:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Jewish communities boost security and continue observances amid rise in hateful incidents]]></title>
+<link>https://apnews.com/article/antisemitism-threats-islamophobia-law-enforcement-429b71bf337dac5dc7fb73e79b23ecc6</link>
+<pubDate>Wed, 25 Mar 2026 05:04:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,6 +329,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A 1,000-year-old cliff-top temple lies battered after Cambodia-Thailand border clashes]]></title>
+<link>https://apnews.com/article/cambodia-border-fighting-preah-vihear-temple-78ed49b616c43df61ad9194b8db22621</link>
+<pubDate>Wed, 25 Mar 2026 04:49:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kim vows to ‘irreversibly’ cement North Korea’s nuclear status]]></title>
 <link>https://apnews.com/article/north-korea-kim-nuclear-seoul-trump-parliament-89e4da24d985fc91f3c223836ab4855f</link>
 <pubDate>Tue, 24 Mar 2026 09:13:49 -0000</pubDate>
@@ -359,27 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Small comforts fade and big worries grow as fuel prices surge globally]]></title>
-<link>https://apnews.com/article/oil-gas-iran-trump-war-49a1eeec97df1364851c63397e6599d2</link>
-<pubDate>Mon, 23 Mar 2026 19:39:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration to pay French company $1B to walk away from US offshore wind leases]]></title>
-<link>https://apnews.com/article/trump-offshore-wind-energy-climate-totalenergies-interior-092eeeacc5d09730d4e20a95d7df7de1</link>
-<pubDate>Mon, 23 Mar 2026 18:38:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Europe’s far right backs Orbán as Hungary’s coming election puts his brand to the test]]></title>
-<link>https://apnews.com/article/europe-far-right-orban-election-hungary-patriots-19d10ec77e96fed77d44484049be241b</link>
-<pubDate>Tue, 24 Mar 2026 07:46:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration offers 15-point ceasefire plan to Iran]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778</link>
-<pubDate>Wed, 25 Mar 2026 03:55:35 -0000</pubDate>
+<title><![CDATA[Iranian military mocks Trump’s claim of US-Iran negotiations]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a</link>
+<pubDate>Wed, 25 Mar 2026 05:19:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about possible talks to wind down the Iran war]]></title>
+<title><![CDATA[What we know and don’t know about the Iran war negotiations]]></title>
 <link>https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a</link>
-<pubDate>Tue, 24 Mar 2026 21:58:54 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 05:04:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -491,15 +491,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Seconds before LaGuardia crash, controller cleared the fire truck to cross the runway, NTSB says]]></title>
-<link>https://apnews.com/article/laguardia-plane-crash-new-york-investigation-ntsb-33073747e410c8d7bceab0ebc347d35f</link>
-<pubDate>Tue, 24 Mar 2026 23:26:12 -0000</pubDate>
+<title><![CDATA[TSA officers describe tears, tough choices and dwindling savings from working without pay]]></title>
+<link>https://apnews.com/article/tsa-agents-airports-government-shutdown-02c8fdbda5488b1cfb019fcf79c0430a</link>
+<pubDate>Wed, 25 Mar 2026 04:49:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan confirms arrest of soldier after China protests over alleged break-in at its embassy in Tokyo]]></title>
+<title><![CDATA[Japan conveys regrets to China after arrest of soldier over alleged break-in at Chinese embassy]]></title>
 <link>https://apnews.com/article/japan-china-embassy-break-681e907aa1ff18862aa29f425d994734</link>
-<pubDate>Wed, 25 Mar 2026 03:25:35 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 04:34:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
