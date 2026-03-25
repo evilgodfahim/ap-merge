@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 01:11:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 03:55:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s parliament speaker denies there have been any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044</link>
-<pubDate>Mon, 23 Mar 2026 20:45:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US to deploy at least 1,000 troops from the 82nd Airborne Division to the Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-24-2026</link>
 <pubDate>Wed, 25 Mar 2026 01:11:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044</link>
+<pubDate>Mon, 23 Mar 2026 20:45:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A timeline of the deadly collision at LaGuardia Airport]]></title>
+<link>https://apnews.com/article/laguardia-air-canada-crash-cb227dafbe84fbcc1701e71befb5ceaa</link>
+<pubDate>Wed, 25 Mar 2026 03:55:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Minnesota sues Trump administration over shootings, including deaths of Alex Pretti and Renee Good]]></title>
 <link>https://apnews.com/article/immigration-minneapolis-sue-alex-pretti-renee-good-5a0b98ac7173ce0e9ecc3bf9a39e3919</link>
 <pubDate>Tue, 24 Mar 2026 19:30:28 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Jewish communities boost security and continue observances amid rise in hateful incidents]]></title>
 <link>https://apnews.com/article/antisemitism-threats-islamophobia-law-enforcement-429b71bf337dac5dc7fb73e79b23ecc6</link>
 <pubDate>Tue, 24 Mar 2026 23:56:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Georgia could become the first state with weapons detection in all public schools]]></title>
-<link>https://apnews.com/article/georgia-apalachee-schools-guns-weapons-detection-784da79e1c81b2c01a33a12dd53a8ba9</link>
-<pubDate>Tue, 24 Mar 2026 19:15:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
 <link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
 <pubDate>Thu, 19 Mar 2026 00:57:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Oil falls more than 5% and Asian shares gain over Trump’s talk of negotiations with Iran]]></title>
+<link>https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17</link>
+<pubDate>Wed, 25 Mar 2026 03:55:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Notorious apartheid police commander ‘Prime Evil’ testifies at South African hearing on killings]]></title>
-<link>https://apnews.com/article/south-africa-apartheid-killings-inquiry-police-ce81c4459c4685d3680d6543e075c30d</link>
-<pubDate>Tue, 24 Mar 2026 14:12:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says the US is in talks with Iran as diplomatic efforts pick up]]></title>
+<title><![CDATA[Trump administration offers 15-point ceasefire plan to Iran]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778</link>
-<pubDate>Wed, 25 Mar 2026 01:11:12 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 03:55:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -425,9 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attacks batter northwest Iran striking a residential building in first AP photos from outside Tehran]]></title>
+<title><![CDATA[Photos show destruction in northwest Iran after strike hits a residential building]]></title>
 <link>https://apnews.com/photo-gallery/iran-us-israel-march-24-2026-tabriz-8f22505d9963859f33dc2ad5f0e26e75</link>
-<pubDate>Tue, 24 Mar 2026 23:06:04 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 03:40:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China protests to Japan over alleged break-in at its embassy in Tokyo]]></title>
+<title><![CDATA[Japan confirms arrest of soldier after China protests over alleged break-in at its embassy in Tokyo]]></title>
 <link>https://apnews.com/article/japan-china-embassy-break-681e907aa1ff18862aa29f425d994734</link>
-<pubDate>Tue, 24 Mar 2026 13:12:05 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 03:25:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
