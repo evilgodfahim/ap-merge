@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 12:40:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 14:10:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s parliament speaker denies there have been any negotiations with the US]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-23-2026</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US to deploy at least 1,000 troops from the 82nd Airborne Division to the Middle East]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-24-2026</link>
-<pubDate>Wed, 25 Mar 2026 01:11:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a</link>
 <pubDate>Wed, 25 Mar 2026 11:33:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US to deploy at least 1,000 troops from the 82nd Airborne Division to the Middle East]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-24-2026</link>
+<pubDate>Wed, 25 Mar 2026 01:11:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,15 +35,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[PHOTO ESSAY: Life goes on underground in Israel, in scenes both real and surreal]]></title>
-<link>https://apnews.com/photo-essay/israel-iran-war-missiles-shelters-daily-life-de0a6e947b6be9dc6eca45dbc9f0a695</link>
-<pubDate>Wed, 25 Mar 2026 00:56:11 -0000</pubDate>
+<title><![CDATA[More than 2 million people in Darfur left without proper care after drone strike on major hospital]]></title>
+<link>https://apnews.com/article/sudan-war-hospital-darfur-miliary-rsf-e47023e32b2aa4c6dd53567af1d1f667</link>
+<pubDate>Wed, 25 Mar 2026 14:10:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon orders Iran’s ambassador out, escalating a crackdown on Tehran’s influence]]></title>
-<link>https://apnews.com/article/lebanon-iran-war-israel-hezbollah-ambassador-a0891fa5736b710e990572aff3d73a81</link>
-<pubDate>Wed, 25 Mar 2026 00:41:11 -0000</pubDate>
+<title><![CDATA[PHOTO ESSAY: Life goes on underground in Israel, in scenes both real and surreal]]></title>
+<link>https://apnews.com/photo-essay/israel-iran-war-missiles-shelters-daily-life-de0a6e947b6be9dc6eca45dbc9f0a695</link>
+<pubDate>Wed, 25 Mar 2026 00:56:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The ferocity of the downpour that brought the latest Hawaii flooding surprised even meteorologists]]></title>
-<link>https://apnews.com/article/hawaii-flash-flood-kona-low-manoa-b4c587953c95d942946cc45da9d2e40b</link>
-<pubDate>Wed, 25 Mar 2026 10:33:30 -0000</pubDate>
+<title><![CDATA[The NAACP names ex-DOJ civil rights chief Kristen Clarke as its top lawyer]]></title>
+<link>https://apnews.com/article/naacp-general-counsel-kristen-clarke-doj-biden-f0f32570daaedfeb4c1178ceae1e923e</link>
+<pubDate>Wed, 25 Mar 2026 13:55:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,18 @@
 <title><![CDATA[India eyes third T20 World Cup title as New Zealand hopes to spoil party in Sunday’s final]]></title>
 <link>https://apnews.com/article/t20-world-cup-final-india-new-zealand-3207af0fb4067a434faa8259452a0115</link>
 <pubDate>Thu, 19 Mar 2026 00:57:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[BBC names ex-Google executive Matt Brittin its new director-general as it faces a feud with Trump]]></title>
+<link>https://apnews.com/article/bbc-new-director-b455487b304f1177745d18bba42cd2a0</link>
+<pubDate>Wed, 25 Mar 2026 14:10:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[World Food Prize goes to food safety scientist for preventing millions of cases of foodborne illness]]></title>
+<link>https://apnews.com/article/world-food-prize-safety-standards-huub-lelieveld-f83fb29de76138e9e36a598b9e3988d1</link>
+<pubDate>Wed, 25 Mar 2026 13:55:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -272,6 +284,12 @@
 <title><![CDATA[Some of Trump’s Iran war objectives remain unfulfilled as he looks to wind down the conflict]]></title>
 <link>https://apnews.com/article/trump-us-objectives-iran-war-f79f03a2f1b9383423b2c7fa1166262d</link>
 <pubDate>Tue, 24 Mar 2026 20:30:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon orders Iran’s ambassador out, escalating a crackdown on Tehran’s influence]]></title>
+<link>https://apnews.com/article/lebanon-iran-war-israel-hezbollah-ambassador-a0891fa5736b710e990572aff3d73a81</link>
+<pubDate>Wed, 25 Mar 2026 13:40:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,24 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thai court holds gold mine operator liable for toxic runoff in a decade-old environmental case]]></title>
-<link>https://apnews.com/article/thailand-mining-lawsuit-environment-gold-australia-a6b322cd209abc8dfd240a06c8f233a4</link>
-<pubDate>Wed, 25 Mar 2026 09:26:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[CERN runs a delicate test on transporting antimatter]]></title>
-<link>https://apnews.com/article/cern-antiproton-road-test-switzerland-geneva-17369ec3439bf5263d82ca11f0124895</link>
-<pubDate>Tue, 24 Mar 2026 11:37:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Preliminary magnitude 7.6 earthquake strikes near Tonga in the South Pacific Ocean, USGS says]]></title>
-<link>https://apnews.com/article/tonga-neiafu-earthquake-usgs-ee15a478af6ed3f74da416ec82275bf8</link>
-<pubDate>Tue, 24 Mar 2026 06:21:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-fire-ustluga-9cb9adca61c79312b470a00fa8ae80be</link>
 <pubDate>Wed, 25 Mar 2026 09:26:47 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hope for Iran off ramp sends oil prices sharply lower as global stocks rise]]></title>
+<title><![CDATA[Stocks jump and oil eases as hope for a possible end to the Iran war takes over Wall Street again]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17</link>
-<pubDate>Wed, 25 Mar 2026 12:25:26 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 14:10:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA officers describe tears, tough choices and dwindling savings from working without pay]]></title>
+<title><![CDATA[TSA officers share how they’re scraping by without pay]]></title>
 <link>https://apnews.com/article/tsa-agents-airports-government-shutdown-02c8fdbda5488b1cfb019fcf79c0430a</link>
-<pubDate>Wed, 25 Mar 2026 04:49:04 -0000</pubDate>
+<pubDate>Wed, 25 Mar 2026 13:55:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
