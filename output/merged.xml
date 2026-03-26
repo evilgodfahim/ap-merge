@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 26 Mar 2026 01:16:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 04:07:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran dismisses US ceasefire plan and issues its own counterproposal]]></title>
+<title><![CDATA[Trump’s potential troop deployment is getting pushback on Capitol Hill]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-25-2026</link>
-<pubDate>Wed, 25 Mar 2026 18:41:22 -0000</pubDate>
+<pubDate>Thu, 26 Mar 2026 04:07:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044</link>
-<pubDate>Mon, 23 Mar 2026 20:45:18 -0000</pubDate>
+<title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
+<link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
+<pubDate>Thu, 26 Mar 2026 03:52:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,12 +83,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican President Sheinbaum says she will uphold Cuban doctor agreement as other countries dip out]]></title>
-<link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
-<pubDate>Wed, 25 Mar 2026 18:26:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[As US pressure grows for leadership change in Cuba, a Castro could be the next president]]></title>
 <link>https://apnews.com/article/cuba-president-miguel-diaz-canel-castro-cousins-9546dcd1d4b55b38e900c1d3144a70aa</link>
 <pubDate>Wed, 25 Mar 2026 18:11:22 -0000</pubDate>
@@ -98,6 +92,12 @@
 <title><![CDATA[Migrants march from southern Mexico, protesting delays and seeking papers to work]]></title>
 <link>https://apnews.com/article/mexico-migrants-caravan-tapachula-us-2f3fdc43b431dccdc1f7c01ac2bafc3f</link>
 <pubDate>Wed, 25 Mar 2026 17:56:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Strike on alleged drug boat kills 4 in the Caribbean Sea, US military says]]></title>
+<link>https://apnews.com/article/boat-strike-caribbean-drugs-trump-b95aed239fa1bee4d3f36a8eb8c26f21</link>
+<pubDate>Thu, 26 Mar 2026 03:37:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight]]></title>
-<link>https://apnews.com/article/airport-wait-times-shutdown-dhs-congress-tsa-391cbd731bed2e8433ab7f1a96ca9663</link>
-<pubDate>Thu, 26 Mar 2026 00:16:31 -0000</pubDate>
+<title><![CDATA[‘This is our fight': Suburbanites embrace anti-Trump resistance ahead of No Kings protests]]></title>
+<link>https://apnews.com/article/donald-trump-suburbs-no-kings-resistance-7f42979bbd254f3e4e5d79ec252e0cc2</link>
+<pubDate>Thu, 26 Mar 2026 03:22:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[PopMart investors are worried the company is relying too heavily on Labubus, according to analysts]]></title>
+<link>https://apnews.com/article/labubu-pop-mart-china-shares-earnings-0b0cfc1a1bde2ea5502a0e6479b8702e</link>
+<pubDate>Thu, 26 Mar 2026 03:07:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -164,12 +170,6 @@
 <title><![CDATA[Energy fallout from Iran war signals a global wake-up call for renewable energy]]></title>
 <link>https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e</link>
 <pubDate>Tue, 24 Mar 2026 07:16:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3 men are charged with conspiring to smuggle US artificial intelligence to China]]></title>
-<link>https://apnews.com/article/artificial-intelligence-china-charges-e8f5135a71b8863c66b9c73d04cb0eb2</link>
-<pubDate>Fri, 20 Mar 2026 04:40:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump envoy credits colorful rhetoric and vodka shots in helping him build bond with Belarus leader]]></title>
-<link>https://apnews.com/article/trump-belarus-lukashenko-europe-15b872d1a3c16ae893592b7d6af82412</link>
-<pubDate>Wed, 25 Mar 2026 23:23:36 -0000</pubDate>
+<title><![CDATA[Bus sinks in Bangladesh river, killing at least 18 people]]></title>
+<link>https://apnews.com/article/bus-accident-bangladesh-rajbari-f7235d06a6ce8a705d8125dca6cb7dd0</link>
+<pubDate>Thu, 26 Mar 2026 04:07:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Strike on alleged drug boat kills 4 in the Caribbean Sea, US military says]]></title>
-<link>https://apnews.com/article/boat-strike-caribbean-drugs-trump-b95aed239fa1bee4d3f36a8eb8c26f21</link>
-<pubDate>Wed, 25 Mar 2026 21:57:48 -0000</pubDate>
+<title><![CDATA[Trump envoy credits colorful rhetoric and vodka shots in helping him build bond with Belarus leader]]></title>
+<link>https://apnews.com/article/trump-belarus-lukashenko-europe-15b872d1a3c16ae893592b7d6af82412</link>
+<pubDate>Wed, 25 Mar 2026 23:23:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
