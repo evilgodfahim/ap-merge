@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 26 Mar 2026 07:55:41 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 08:43:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea, Belarus leaders meet in Pyongyang, sign friendship treaty]]></title>
+<link>https://apnews.com/article/north-korea-belarus-kim-jong-un-lukashenko-b29fe37a9468d03e22be2f6121b3ac7b</link>
+<pubDate>Thu, 26 Mar 2026 08:43:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-fire-ustluga-9cb9adca61c79312b470a00fa8ae80be</link>
 <pubDate>Thu, 26 Mar 2026 05:54:19 -0000</pubDate>
@@ -59,18 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Danish election produces inconclusive result that leaves prime minister’s future unclear]]></title>
-<link>https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c</link>
-<pubDate>Wed, 25 Mar 2026 00:26:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Southeast Asia revisits nuclear power plans for AI data centers as Iran war disrupts energy supplies]]></title>
-<link>https://apnews.com/article/southeast-nuclear-energy-power-artificial-intelligence-c08108c2c5da7fd263098ff43748eac5</link>
-<pubDate>Thu, 26 Mar 2026 05:39:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bus sinks in Bangladesh river, killing at least 18 people]]></title>
 <link>https://apnews.com/article/bus-accident-bangladesh-rajbari-f7235d06a6ce8a705d8125dca6cb7dd0</link>
 <pubDate>Thu, 26 Mar 2026 05:24:19 -0000</pubDate>
@@ -80,6 +74,12 @@
 <title><![CDATA[Afghanistan releases American national Dennis Coyle held for more than a year]]></title>
 <link>https://apnews.com/article/afghanistan-taliban-dennis-coyle-41b3670f26e02ca7520e3923c24cf388</link>
 <pubDate>Wed, 25 Mar 2026 09:26:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cambodian man deported by the US to Eswatini is being repatriated, his lawyer says]]></title>
+<link>https://apnews.com/article/immigration-deported-trump-us-eswatini-cambodia-dc6e217e6abf34a05dad314bd8c272f9</link>
+<pubDate>Wed, 25 Mar 2026 06:35:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +107,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kenya’s flower industry loses millions of dollars weekly due to the Iran war]]></title>
-<link>https://apnews.com/article/kenya-flowers-iran-war-export-shipping-loss-7431e182c7cf5d9190d345ad4ab4e429</link>
-<pubDate>Wed, 25 Mar 2026 20:12:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[South Africa’s top police officer faces charges in a widening corruption scandal]]></title>
 <link>https://apnews.com/article/south-africa-police-corruption-arrest-contract-crime-9226199627aff1dc806ea22701e92b2a</link>
 <pubDate>Wed, 25 Mar 2026 17:41:22 -0000</pubDate>
@@ -122,6 +116,12 @@
 <title><![CDATA[UN calls for reparations to remedy the ‘historical wrongs’ of trafficking enslaved Africans]]></title>
 <link>https://apnews.com/article/un-vote-africa-slavery-trafficking-reparations-a7497cdb7d24a89eedb50beb683adc0f</link>
 <pubDate>Wed, 25 Mar 2026 17:26:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rebels in Congo used containers to hold journalists in brutal conditions, advocacy group says]]></title>
+<link>https://apnews.com/article/congo-goma-m23-reporters-without-borders-f2c557904c997a40cc4992276c8de7cf</link>
+<pubDate>Wed, 25 Mar 2026 08:56:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos from China Fashion Week]]></title>
+<link>https://apnews.com/photo-gallery/china-fashion-week-photos-cd7d699518ff6d9f0df04823b493a352</link>
+<pubDate>Thu, 26 Mar 2026 08:43:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As juries turn against social media for harming kids, Big Tech’s invincibility starts to show cracks]]></title>
 <link>https://apnews.com/article/social-media-meta-youtube-instagram-trials-aa1d936fca51c67478db7bc5b08d1c45</link>
 <pubDate>Thu, 26 Mar 2026 05:54:20 -0000</pubDate>
@@ -206,12 +212,6 @@
 <title><![CDATA[One Tech Tip: Here’s how AI can (and can’t) help you in your job hunt]]></title>
 <link>https://apnews.com/article/job-search-ai-resume-screening-interview-a535a7932ff291a1998158d40cd82c4c</link>
 <pubDate>Thu, 26 Mar 2026 05:39:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Asian stocks mostly fall and oil climbs again over Iran war de-escalation uncertainties]]></title>
-<link>https://apnews.com/article/stock-markets-trump-iran-oil-8118f58d75859b9fc74ab133fa9e8c3e</link>
-<pubDate>Thu, 26 Mar 2026 05:24:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,12 +305,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BBC names ex-Google executive Matt Brittin its new director-general as it faces a feud with Trump]]></title>
-<link>https://apnews.com/article/bbc-new-director-b455487b304f1177745d18bba42cd2a0</link>
-<pubDate>Wed, 25 Mar 2026 14:10:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[More than 2 million people in Darfur left without proper care after drone strike on major hospital]]></title>
 <link>https://apnews.com/article/sudan-war-hospital-darfur-miliary-rsf-e47023e32b2aa4c6dd53567af1d1f667</link>
 <pubDate>Thu, 26 Mar 2026 01:16:32 -0000</pubDate>
@@ -371,9 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cambodian man deported by the US to Eswatini is being repatriated, his lawyer says]]></title>
-<link>https://apnews.com/article/immigration-deported-trump-us-eswatini-cambodia-dc6e217e6abf34a05dad314bd8c272f9</link>
-<pubDate>Thu, 26 Mar 2026 04:39:20 -0000</pubDate>
+<title><![CDATA[War in Mideast spurs Muslims in Indian-controlled Kashmir to collect donations for Iran, in photos<br>]]></title>
+<link>https://apnews.com/photo-gallery/kashmir-iran-us-israel-war-donations-photos-0191c08ddf59cdb57cc23dbbece85996</link>
+<pubDate>Wed, 25 Mar 2026 10:48:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What could come next for other social media firms as a jury finds Meta platforms harm children]]></title>
+<link>https://apnews.com/article/social-media-lawsuits-meta-google-tiktokl-96922e625326f6e6dce55c6b73b17360</link>
+<pubDate>Wed, 25 Mar 2026 14:55:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,33 +437,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Moldova imposes 60-day energy emergency after Russian strikes in Ukraine cut key power line]]></title>
-<link>https://apnews.com/article/moldova-energy-power-line-russia-war-romania-europe-6eab12eb279528f7b5277fc1e175a01d</link>
-<pubDate>Wed, 25 Mar 2026 07:44:59 -0000</pubDate>
+<title><![CDATA[What men and women think about gender and pay, according to a new AP-NORC poll]]></title>
+<link>https://apnews.com/article/equal-pay-day-gender-discrimination-4813dc047921c82c2eca7913b39ff3c1</link>
+<pubDate>Thu, 26 Mar 2026 08:43:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Mexico jury says Meta harms children’s mental health and safety, violating state law]]></title>
-<link>https://apnews.com/article/meta-facebook-new-mexico-trial-28eabd8ec5f58c1d1ecddc21bb107de7</link>
-<pubDate>Wed, 25 Mar 2026 07:29:59 -0000</pubDate>
+<title><![CDATA[Asian stocks mostly fall and oil climbs again over Iran war de-escalation uncertainties]]></title>
+<link>https://apnews.com/article/stock-markets-trump-iran-oil-8118f58d75859b9fc74ab133fa9e8c3e</link>
+<pubDate>Thu, 26 Mar 2026 08:28:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks rise and oil prices ease as Wall Street keeps yo-yoing because of the war with Iran]]></title>
-<link>https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17</link>
-<pubDate>Wed, 25 Mar 2026 15:25:17 -0000</pubDate>
+<title><![CDATA[BBC names ex-Google executive Matt Brittin its new director-general as it faces a feud with Trump]]></title>
+<link>https://apnews.com/article/bbc-new-director-b455487b304f1177745d18bba42cd2a0</link>
+<pubDate>Thu, 26 Mar 2026 08:13:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The better family SUV. Edmunds compares the Ford Explorer and Nissan Pathfinder]]></title>
-<link>https://apnews.com/article/ford-explorer-nissan-pathfinder-family-suvs-b2dae202bc8ded7b1ac368762e9d47b7</link>
-<pubDate>Wed, 25 Mar 2026 12:10:26 -0000</pubDate>
+<title><![CDATA[Southeast Asia revisits nuclear power plans for AI data centers as Iran war disrupts energy supplies]]></title>
+<link>https://apnews.com/article/southeast-nuclear-energy-power-artificial-intelligence-c08108c2c5da7fd263098ff43748eac5</link>
+<pubDate>Thu, 26 Mar 2026 07:58:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns]]></title>
-<link>https://apnews.com/article/openai-closes-sora-ai-c60de960536923f33edc04b92ddbe1cd</link>
-<pubDate>Wed, 25 Mar 2026 06:59:59 -0000</pubDate>
+<title><![CDATA[Kenya’s flower industry loses millions of dollars weekly due to the Iran war]]></title>
+<link>https://apnews.com/article/kenya-flowers-iran-war-export-shipping-loss-7431e182c7cf5d9190d345ad4ab4e429</link>
+<pubDate>Wed, 25 Mar 2026 08:41:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
