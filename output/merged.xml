@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 08:38:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 09:42:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -32,6 +32,12 @@
 <title><![CDATA[Hungary will cut natural gas supplies to Ukraine until Russian oil deliveries resume]]></title>
 <link>https://apnews.com/article/hungary-cut-gas-supplies-ukraine-russian-oil-dispute-4a8e4c31c5f10b768edba145b9fc1d4e</link>
 <pubDate>Thu, 26 Mar 2026 12:48:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The war in Iran sparks a global fertilizer shortage and threatens food prices]]></title>
+<link>https://apnews.com/article/iran-war-fertilizer-exports-farming-3b7c92d58dba0817c3aa8f1db47464b7</link>
+<pubDate>Fri, 27 Mar 2026 09:42:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,12 +215,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio tries to sell Iran war to skeptical G7 diplomats after Trump insults allies]]></title>
-<link>https://apnews.com/article/g7-france-rubio-iran-war-allies-trump-63a8ee21dcca5ecce0c6b1cb900a8c16</link>
-<pubDate>Fri, 27 Mar 2026 08:08:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A vigil in Colombia, Messi in action and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/colombia-plane-crash-caravan-mexico-photos-0bfbb1a459bfc2e5fd88455f217c6f9d</link>
 <pubDate>Fri, 27 Mar 2026 05:39:21 -0000</pubDate>
@@ -371,9 +371,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel launches new wave of strikes on Iran with no sign of diplomatic breakthrough]]></title>
+<title><![CDATA[How the war in Iran is landing with Republicans, according to a new AP-NORC poll]]></title>
+<link>https://apnews.com/article/ap-poll-iran-republicans-trump-2ce973fa38cbed78a19f1c37fb7b6926</link>
+<pubDate>Thu, 26 Mar 2026 13:18:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Rubio tries to sell Iran war to skeptical G7 diplomats after Trump insults allies]]></title>
+<link>https://apnews.com/article/g7-france-rubio-iran-war-allies-trump-63a8ee21dcca5ecce0c6b1cb900a8c16</link>
+<pubDate>Fri, 27 Mar 2026 09:42:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israel launches a new wave of strikes on Iran with no sign of diplomatic breakthrough]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
-<pubDate>Fri, 27 Mar 2026 06:55:13 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 09:27:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,12 +404,6 @@
 <title><![CDATA[Somali children are ‘on the edge’ as hunger spreads. UNICEF says Iran war has worsened the crisis]]></title>
 <link>https://apnews.com/article/somalia-hungry-children-unicef-iran-war-6783d2d4b41318f88e3d21ae6fb95973</link>
 <pubDate>Fri, 27 Mar 2026 06:40:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The war in Iran sparks a global fertilizer shortage and threatens food prices]]></title>
-<link>https://apnews.com/article/iran-war-fertilizer-exports-farming-3b7c92d58dba0817c3aa8f1db47464b7</link>
-<pubDate>Fri, 27 Mar 2026 04:08:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
