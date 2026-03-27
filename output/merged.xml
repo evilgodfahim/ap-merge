@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 16:10:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 17:13:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba’s president expresses concern over 2 missing aid sailboats headed to island]]></title>
+<link>https://apnews.com/article/cuba-aid-missing-sailboats-mexico-search-9bfabff8fcd47fb5dd067c254556edcd</link>
+<pubDate>Fri, 27 Mar 2026 17:13:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Costa Rica to accept 25 ‘third country’ deportees from US every week]]></title>
 <link>https://apnews.com/article/costa-rica-third-country-deportees-us-trump-b8563adb2e854548f256cbfd12b0ad33</link>
 <pubDate>Fri, 27 Mar 2026 14:03:15 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Venezuela’s Delcy Rodríguez pitches newly opened oil sector to investors at Miami summit]]></title>
 <link>https://apnews.com/article/venezuela-oil-delcy-rodriguez-investors-trump-maduro-4f3b38841ca46910e35cf3208b312977</link>
 <pubDate>Thu, 26 Mar 2026 18:35:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gulf of Mexico oil spill spread hundreds of miles, killed wildlife and polluted Mexican reserves]]></title>
-<link>https://apnews.com/article/mexico-oil-spill-veracruz-17d98fc79f37987932ebddde9909a630</link>
-<pubDate>Fri, 27 Mar 2026 01:01:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Closing some US airports due to TSA staffing would have big consequences, experts say]]></title>
-<link>https://apnews.com/article/tsa-security-airports-closures-9cfec628f35358d9fd158f920fb525b5</link>
-<pubDate>Thu, 26 Mar 2026 23:53:26 -0000</pubDate>
+<title><![CDATA[Panicked travelers hear a new message from airports: Don’t get here so early]]></title>
+<link>https://apnews.com/article/airport-delays-security-lines-tsa-6fb45976ea952c0c825d8c3c7c507953</link>
+<pubDate>Fri, 27 Mar 2026 16:58:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,15 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A Build America, Buy America law is causing construction delays amid the US housing crisis]]></title>
-<link>https://apnews.com/article/affordable-housing-construction-baba-hud-delays-4302744b3b5839268acaee92bf172eb9</link>
-<pubDate>Fri, 27 Mar 2026 09:34:04 -0000</pubDate>
+<title><![CDATA[FAA investigating close call between a passenger plane and military helicopter in California]]></title>
+<link>https://apnews.com/article/helicopter-military-california-flight-faa-close-call-4c5de18794034d45d36f5ad02102013c</link>
+<pubDate>Fri, 27 Mar 2026 16:43:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Savannah Guthrie to return to ‘Today’ on April 6 after mother’s disappearance]]></title>
 <link>https://apnews.com/article/savannah-guthrie-mom-kidnapped-636c9effdd2b0004db6230c87a3cc0c6</link>
 <pubDate>Fri, 27 Mar 2026 14:42:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brother and sister are charged after an explosive device was found outside a Florida Air Force base]]></title>
+<link>https://apnews.com/article/explosive-macdill-air-force-base-china-a43f420596cda346d15ab32ae5bbf6a7</link>
+<pubDate>Thu, 26 Mar 2026 18:05:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -158,12 +164,6 @@
 <title><![CDATA[Japan conveys regrets to China after arrest of soldier over alleged break-in at Chinese embassy]]></title>
 <link>https://apnews.com/article/japan-china-embassy-break-681e907aa1ff18862aa29f425d994734</link>
 <pubDate>Wed, 25 Mar 2026 16:26:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Africa’s solar boom faces higher costs as China cuts export subsidies]]></title>
-<link>https://apnews.com/article/china-rebates-solar-africa-renewable-energy-1927e8535ce146018842726155df9a51</link>
-<pubDate>Sun, 22 Mar 2026 05:00:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,24 @@
 <title><![CDATA[Armed or unarmed? US and Iran spar over status of Iranian warship sunk by a submarine]]></title>
 <link>https://apnews.com/article/iran-israel-us-iris-dena-warship-submarine-8789cf718b1ebf8b571cb8ef5d785150</link>
 <pubDate>Thu, 19 Mar 2026 09:20:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pro-Iranian hacking group claims credit for hack of FBI Director Kash Patel’s personal account]]></title>
+<link>https://apnews.com/article/patel-iran-hacking-cyberscurity-9237ca30d1c85f237d7d83e6798d97f0</link>
+<pubDate>Fri, 27 Mar 2026 17:13:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search]]></title>
+<link>https://apnews.com/article/yahoo-artificial-intelligence-search-comeback-a9ec7ff0f7af72662b6d98ddd9c5280d</link>
+<pubDate>Fri, 27 Mar 2026 16:58:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mongolia’s prime minister resigns following tensions within the ruling party]]></title>
+<link>https://apnews.com/article/mongolia-prime-minister-resign-zandanshatar-boycott-687a953be2131d06c2a459699fd23fe1</link>
+<pubDate>Fri, 27 Mar 2026 16:43:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -260,6 +278,18 @@
 <title><![CDATA[Iran forbids its sports teams from traveling to ‘hostile’ countries]]></title>
 <link>https://apnews.com/article/iran-saudi-arabia-war-soccer-58a6347b3bab91b18b5cdd444a2a417d</link>
 <pubDate>Fri, 27 Mar 2026 01:16:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[After markets rattle, Trump once again punts on following through with threat on Iran power plants]]></title>
+<link>https://apnews.com/article/trump-iran-hormuz-markets-bd5ad0e6999abf1cbdf1e7cfb8ea5109</link>
+<pubDate>Fri, 27 Mar 2026 16:28:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gulf of Mexico oil spill spread hundreds of miles, killed wildlife and polluted Mexican reserves]]></title>
+<link>https://apnews.com/article/mexico-oil-spill-veracruz-17d98fc79f37987932ebddde9909a630</link>
+<pubDate>Fri, 27 Mar 2026 16:13:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -341,63 +371,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Movie Review: ‘Two Prosecutors’ is a perfect nightmare of state corruption]]></title>
-<link>https://apnews.com/article/two-prosecutors-movie-review-4ecc1a644032395fe84096f5e1ec0538</link>
-<pubDate>Thu, 26 Mar 2026 16:51:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US eases Belarus sanctions as Trump says he’ll help US farmers impacted by Iran war]]></title>
-<link>https://apnews.com/article/treasury-trump-belarus-sanctions-lukashenko-farmers-fertilizer-48a742dbf2e4176a04f308d3020c0b4a</link>
-<pubDate>Thu, 26 Mar 2026 16:36:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[LaGuardia Airport runway reopens, days after crash on tarmac killed 2 Canadian pilots]]></title>
-<link>https://apnews.com/article/laguardia-airport-plane-fire-truck-crash-new-york-b32cfa572be79c830224dca1a370310a</link>
-<pubDate>Thu, 26 Mar 2026 21:05:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police in Kenya exhume at least 33 bodies from a mass grave]]></title>
-<link>https://apnews.com/article/kenya-kericho-mass-grave-915b6f8e7a870d54718888eec12e3e3d</link>
-<pubDate>Fri, 27 Mar 2026 14:57:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life]]></title>
-<link>https://apnews.com/article/japan-stabbing-tokyo-pokemon-knife-sunshine-city-43248aca022d887f50c9153ba75638b3</link>
-<pubDate>Thu, 26 Mar 2026 14:18:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Analysis: 1 month into war, Iran is using insurgent tactics and holding the world economy hostage]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-analysis-23fb5978ef583308f0da4228a9a02c66</link>
 <pubDate>Fri, 27 Mar 2026 15:12:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel warns attacks on Iran ‘will escalate and expand’ as Trump claims advances in ceasefire talks]]></title>
+<title><![CDATA[Iran says nuclear facilities have been targeted after Israel said attacks ‘will escalate and expand’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
-<pubDate>Fri, 27 Mar 2026 14:03:17 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 17:13:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After markets rattle, Trump once again punts on following through with threat on Iran power plants]]></title>
-<link>https://apnews.com/article/trump-iran-hormuz-markets-bd5ad0e6999abf1cbdf1e7cfb8ea5109</link>
-<pubDate>Fri, 27 Mar 2026 01:16:12 -0000</pubDate>
+<title><![CDATA[Hamas considers a proposal to disarm in Gaza that’s central to the territory’s future]]></title>
+<link>https://apnews.com/article/gaza-hamas-disarmament-israel-trump-weapons-ceasefire-a2cb4dc8c6f6af4a61d7102a29974a87</link>
+<pubDate>Fri, 27 Mar 2026 16:58:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[‘Just in case any enemies show up’ - Kim Jong Un given rifle by President of Belarus]]></title>
+<link>https://apnews.com/video/just-in-case-any-enemies-show-up-kim-jong-un-given-rifle-by-president-of-belarus-276cae70e4b747b6b65473b368b81a4a</link>
+<pubDate>Fri, 27 Mar 2026 16:43:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump reveals Iran’s ‘present’ was allowing 10 oil tankers to pass through Strait of Hormuz]]></title>
 <link>https://apnews.com/video/trump-reveals-irans-present-was-allowing-10-oil-tankers-to-pass-through-strait-of-hormuz-a062558205074db68a83893d0b831def</link>
 <pubDate>Thu, 26 Mar 2026 23:53:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump insists Iran is ‘begging to make a deal’]]></title>
-<link>https://apnews.com/video/trump-insists-iran-is-begging-to-make-a-deal-c5774e1c7cbb4e8093c4d6d780c58268</link>
-<pubDate>Thu, 26 Mar 2026 23:38:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Bolsonaro leaves hospital and heads home to serve the rest of his 27-year sentence]]></title>
+<title><![CDATA[Brazil’s Bolsonaro leaves hospital and heads home to serve his 27-year sentence]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-house-imprisonment-brasilia-3128ec598ba47e3086325e4c503455f4</link>
-<pubDate>Fri, 27 Mar 2026 14:57:46 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 16:28:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brother and sister are charged after an explosive device was found outside a Florida Air Force base]]></title>
-<link>https://apnews.com/article/explosive-macdill-air-force-base-china-a43f420596cda346d15ab32ae5bbf6a7</link>
-<pubDate>Thu, 26 Mar 2026 23:23:27 -0000</pubDate>
+<title><![CDATA[China’s BYD sees first profit drop since 2021, even as the Tesla-rival takes global EV crown]]></title>
+<link>https://apnews.com/article/china-byd-ev-sales-tesla-c2fe8ed6647f245161b7648cd7407a51</link>
+<pubDate>Fri, 27 Mar 2026 16:13:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
