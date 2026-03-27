@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 04:08:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 05:54:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghans hold second mass funeral for victims of an airstrike on Kabul]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-strikes-drug-treatment-conflict-d8d0b0f59aa56113a5e1a4722a7810d1</link>
+<pubDate>Fri, 27 Mar 2026 05:54:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[North Korean and Belarussian leaders sign friendship treaty]]></title>
 <link>https://apnews.com/article/north-korea-belarus-kim-jong-un-lukashenko-b29fe37a9468d03e22be2f6121b3ac7b</link>
 <pubDate>Fri, 27 Mar 2026 04:08:08 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Balen Shah’s political rise in Nepal reflects a broader shift after youth-led protests]]></title>
 <link>https://apnews.com/article/nepal-election-balen-shah-prime-minister-youth-ea32dc4500a26e4f8abf046af7614dda</link>
 <pubDate>Thu, 26 Mar 2026 14:03:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life]]></title>
-<link>https://apnews.com/article/japan-stabbing-tokyo-pokemon-knife-sunshine-city-43248aca022d887f50c9153ba75638b3</link>
-<pubDate>Thu, 26 Mar 2026 15:32:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Leo XIV makes a rare 1-day visit to glitzy Monaco]]></title>
+<link>https://apnews.com/article/vatican-monaco-pope-albert-prince-e69085c49a37833ea183ea3cb8f18e47</link>
+<pubDate>Fri, 27 Mar 2026 05:54:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rubio will try to sell Iran war to skeptical G7 diplomats after Trump insults allies]]></title>
 <link>https://apnews.com/article/g7-france-rubio-iran-war-allies-trump-63a8ee21dcca5ecce0c6b1cb900a8c16</link>
 <pubDate>Fri, 27 Mar 2026 04:08:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A vigil in Colombia, Messi in action and other top photos from Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/colombia-plane-crash-caravan-mexico-photos-0bfbb1a459bfc2e5fd88455f217c6f9d</link>
+<pubDate>Fri, 27 Mar 2026 05:39:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -293,6 +305,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life]]></title>
+<link>https://apnews.com/article/japan-stabbing-tokyo-pokemon-knife-sunshine-city-43248aca022d887f50c9153ba75638b3</link>
+<pubDate>Thu, 26 Mar 2026 14:18:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air Canada CEO apologizes for his inability to speak French after plane crash]]></title>
 <link>https://apnews.com/article/air-canada-ceo-french-apologizes-crash-73dddcb277af099ff69c91aceca48477</link>
 <pubDate>Thu, 26 Mar 2026 14:03:51 -0000</pubDate>
@@ -344,24 +362,6 @@
 <title><![CDATA[Senegal vows to fight ‘unfair administrative robbery’ after CAF strips AFCON title]]></title>
 <link>https://apnews.com/article/afcon-africa-cup-senegal-morocco-cas-appeal-8a7ea2e9a485ca7b32c46916cc6f828e</link>
 <pubDate>Thu, 26 Mar 2026 11:25:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal’s newly elected parliament is sworn in months after a youth-led revolt]]></title>
-<link>https://apnews.com/article/nepal-new-parliament-oath-government-63ba01bc70fca4a0e90479027c80bb5e</link>
-<pubDate>Thu, 26 Mar 2026 19:55:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos shows the crawfish processing in Louisiana, an industry hit by a shortage of foreign workers]]></title>
-<link>https://apnews.com/photo-gallery/louisiana-immigrant-crawfish-photos-3c4f91493fc10d717679d58023f23cc4</link>
-<pubDate>Thu, 26 Mar 2026 11:10:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A soothing study session: Students cram in Amsterdam’s Concertgebouw as musicians play]]></title>
-<link>https://apnews.com/article/music-students-amsterdam-concertgebouw-2cd5161649aca5e4264f1000c7e0e11c</link>
-<pubDate>Thu, 26 Mar 2026 09:51:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghans hold second mass funeral for victims of an airstrike on Kabul]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-strikes-drug-treatment-conflict-d8d0b0f59aa56113a5e1a4722a7810d1</link>
-<pubDate>Thu, 26 Mar 2026 15:17:02 -0000</pubDate>
+<title><![CDATA[Nepal’s new prime minister chooses auspicious time to take oath of office]]></title>
+<link>https://apnews.com/article/nepal-new-prime-minister-oath-astrology-19047838815c73ad4ac21d46c04fc24b</link>
+<pubDate>Fri, 27 Mar 2026 05:54:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
