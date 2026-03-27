@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 19:54:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 20:25:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s potential troop deployment is getting pushback on Capitol Hill]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-25-2026</link>
-<pubDate>Thu, 26 Mar 2026 04:07:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime]]></title>
 <link>https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07</link>
 <pubDate>Fri, 27 Mar 2026 11:34:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s potential troop deployment is getting pushback on Capitol Hill]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-25-2026</link>
+<pubDate>Thu, 26 Mar 2026 04:07:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Austria plans to ban social media use for under-14s, joining a string of other countries]]></title>
-<link>https://apnews.com/article/austria-government-social-media-under-14-ban-7516559412eecd9197df70ed958186fe</link>
-<pubDate>Fri, 27 Mar 2026 10:49:04 -0000</pubDate>
+<title><![CDATA[Rubio denies Zelenskyy’s claim that the US asked Ukraine to cede land to Russia for security deal]]></title>
+<link>https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba</link>
+<pubDate>Fri, 27 Mar 2026 20:25:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,15 +83,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Costa Rica to accept 25 ‘third country’ deportees from US every week]]></title>
-<link>https://apnews.com/article/costa-rica-third-country-deportees-us-trump-b8563adb2e854548f256cbfd12b0ad33</link>
-<pubDate>Fri, 27 Mar 2026 14:03:15 -0000</pubDate>
+<title><![CDATA[Colombia holds ceremony for 69 killed in military plane crash]]></title>
+<link>https://apnews.com/article/colombia-plane-crash-military-mass-funeral-ea15ae2f24e9d5cc0cdb6f557805cef9</link>
+<pubDate>Fri, 27 Mar 2026 20:10:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s Delcy Rodríguez pitches newly opened oil sector to investors at Miami summit]]></title>
-<link>https://apnews.com/article/venezuela-oil-delcy-rodriguez-investors-trump-maduro-4f3b38841ca46910e35cf3208b312977</link>
-<pubDate>Thu, 26 Mar 2026 18:35:56 -0000</pubDate>
+<title><![CDATA[Costa Rica to accept 25 ‘third country’ deportees from US every week]]></title>
+<link>https://apnews.com/article/costa-rica-third-country-deportees-us-trump-b8563adb2e854548f256cbfd12b0ad33</link>
+<pubDate>Fri, 27 Mar 2026 14:03:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 killed in tourist helicopter crash off the coast of the Hawaiian island of Kauai]]></title>
+<title><![CDATA[3 killed in tour company helicopter crash off the coast of the Hawaiian island of Kauai]]></title>
 <link>https://apnews.com/article/hawaii-kauai-helicopter-crash-fd89fbd743330bd2c787e52541a82036</link>
-<pubDate>Fri, 27 Mar 2026 14:57:45 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 19:55:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -137,9 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Savannah Guthrie to return to ‘Today’ on April 6 after mother’s disappearance]]></title>
+<title><![CDATA[Savannah Guthrie to return to ‘Today’ show on April 6 after mother’s disappearance]]></title>
 <link>https://apnews.com/article/savannah-guthrie-mom-kidnapped-636c9effdd2b0004db6230c87a3cc0c6</link>
-<pubDate>Fri, 27 Mar 2026 14:42:45 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 19:40:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Armed or unarmed? US and Iran spar over status of Iranian warship sunk by a submarine]]></title>
 <link>https://apnews.com/article/iran-israel-us-iris-dena-warship-submarine-8789cf718b1ebf8b571cb8ef5d785150</link>
 <pubDate>Thu, 19 Mar 2026 09:20:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Reports: Iran soccer star Sardar Azmoun threatened with asset seizure by state]]></title>
+<link>https://apnews.com/article/soccer-iran-sardar-azmoun-2eb4c991e6fb4ffc186de1ae552a0a6e</link>
+<pubDate>Fri, 27 Mar 2026 20:25:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -251,6 +257,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Austria plans to ban social media use for under-14s, joining a string of other countries]]></title>
+<link>https://apnews.com/article/austria-government-social-media-under-14-ban-7516559412eecd9197df70ed958186fe</link>
+<pubDate>Fri, 27 Mar 2026 20:10:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[In the wake of US social media verdicts, a look at what limits other countries have imposed for kids]]></title>
 <link>https://apnews.com/article/countries-social-media-ban-restriction-australia-europe-meta-instagram-70ec39c0753b8d7599de6da419916d32</link>
 <pubDate>Fri, 27 Mar 2026 11:19:05 -0000</pubDate>
@@ -299,9 +311,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks drop again after Trump’s latest delay in the Iran war fails to raise hope]]></title>
+<title><![CDATA[Wall Street drops again to close its 5th straight losing week and its worst since the Iran war]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-war-894e6adadff8cb4be04b05fce819461a</link>
-<pubDate>Fri, 27 Mar 2026 18:13:33 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 19:55:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[25-year-old Noelia Castillo dies by legal euthanasia in case that drew national spotlight in Spain]]></title>
-<link>https://apnews.com/article/spain-euthanasia-case-03852078fc0c5ec75559c7d3fd3f0643</link>
-<pubDate>Fri, 27 Mar 2026 10:04:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Slovenia says it has confirmed foreign influence on last weekend’s election]]></title>
-<link>https://apnews.com/article/slovenia-election-influence-allegations-black-cube-jansa-af8c08450f922a669e9b22f146a1026f</link>
-<pubDate>Thu, 26 Mar 2026 18:50:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Analysis: 1 month into war, Iran is using insurgent tactics and holding the world economy hostage]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-analysis-23fb5978ef583308f0da4228a9a02c66</link>
 <pubDate>Fri, 27 Mar 2026 15:12:46 -0000</pubDate>
@@ -386,6 +386,12 @@
 <title><![CDATA[Hamas considers a proposal to disarm in Gaza that’s central to the territory’s future]]></title>
 <link>https://apnews.com/article/gaza-hamas-disarmament-israel-trump-weapons-ceasefire-a2cb4dc8c6f6af4a61d7102a29974a87</link>
 <pubDate>Fri, 27 Mar 2026 16:58:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico says a third of 130,000 missing people might be alive, fueling criticisms by families]]></title>
+<link>https://apnews.com/article/mexico-disappearances-missing-people-government-report-528f5fa913c34129b28e61279e020a4e</link>
+<pubDate>Fri, 27 Mar 2026 20:25:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[House Republicans reject DHS funding bill from Senate, risking an even longer shutdown]]></title>
+<title><![CDATA[Trump signs executive action to pay TSA employees after Congress fails to agree on DHS funding]]></title>
 <link>https://apnews.com/article/senate-tsa-homeland-security-airports-trump-672467393ae043e47938874e7aaddcd6</link>
-<pubDate>Fri, 27 Mar 2026 18:28:34 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 20:10:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
