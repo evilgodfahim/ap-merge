@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 12:38:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 14:03:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Costa Rica to accept 25 ‘third country’ deportees from US every week]]></title>
+<link>https://apnews.com/article/costa-rica-third-country-deportees-us-trump-b8563adb2e854548f256cbfd12b0ad33</link>
+<pubDate>Fri, 27 Mar 2026 14:03:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuela’s Delcy Rodríguez pitches newly opened oil sector to investors at Miami summit]]></title>
 <link>https://apnews.com/article/venezuela-oil-delcy-rodriguez-investors-trump-maduro-4f3b38841ca46910e35cf3208b312977</link>
 <pubDate>Thu, 26 Mar 2026 18:35:56 -0000</pubDate>
@@ -95,21 +101,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As her kidneys fail and time runs short, this activist fights to decriminalize euthanasia in Mexico]]></title>
-<link>https://apnews.com/article/mexico-euthanasia-samara-martinez-right-to-die-40f144e5db93fa676d7158ea268e3d3a</link>
-<pubDate>Thu, 26 Mar 2026 12:33:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Militants in northern Nigeria kill 10 security forces and 1 resident, officials say]]></title>
-<link>https://apnews.com/article/nigeria-kebbi-attack-militants-giron-masa-236fa65e7cd1531a465aadb6fcee46e4</link>
-<pubDate>Thu, 26 Mar 2026 20:10:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Police in Kenya exhume at least 33 bodies from a mass grave]]></title>
-<link>https://apnews.com/article/kenya-kericho-mass-grave-915b6f8e7a870d54718888eec12e3e3d</link>
-<pubDate>Thu, 26 Mar 2026 15:02:00 -0000</pubDate>
+<title><![CDATA[Landslides triggered by heavy rainfall kill at least 20 people in Tanzania]]></title>
+<link>https://apnews.com/article/tanzania-mbeya-landslides-rainfall-flooding-climate-kenya-65e63cf2a2e1186d4d98b90469a86c8e</link>
+<pubDate>Fri, 27 Mar 2026 13:48:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zimbabwe says 15 of its citizens killed after fraudulent recruitment into Russia-Ukraine war]]></title>
-<link>https://apnews.com/article/zimbabwe-russia-ukraine-war-recruitment-78529d023b34e099bcbbaae10e9e306d</link>
-<pubDate>Thu, 26 Mar 2026 05:09:19 -0000</pubDate>
+<title><![CDATA[What to know as Africans welcome UN vote on slavery reparations]]></title>
+<link>https://apnews.com/article/africa-un-slavery-reparations-ghana-e957e864e402e6ce16fd878b7ec89653</link>
+<pubDate>Fri, 27 Mar 2026 13:33:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Police in Kenya exhume at least 33 bodies from a mass grave]]></title>
+<link>https://apnews.com/article/kenya-kericho-mass-grave-915b6f8e7a870d54718888eec12e3e3d</link>
+<pubDate>Thu, 26 Mar 2026 15:02:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[AI’s arrival complicates Big Tech climate goals, and some worry it’s locking in more fossil fuels]]></title>
+<link>https://apnews.com/article/technology-artificial-intelligence-climate-change-data-centers-ef3a9c264bd6376d77e2c81ab266fb38</link>
+<pubDate>Fri, 27 Mar 2026 14:03:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russian man sentenced to 4 years in UK prison for assault witnessed on video by Barron Trump]]></title>
+<link>https://apnews.com/article/barron-trump-russian-assault-video-london-rumiantsev-53167ee4694a3c9f7cc2109eb9f40745</link>
+<pubDate>Fri, 27 Mar 2026 13:48:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[An unknown attacker threw Molotov cocktails at a Russian center in Prague, police say]]></title>
 <link>https://apnews.com/article/czech-russia-prague-molotov-cocktails-attack-234539d828b51f29ddb0ae29ccb1e309</link>
 <pubDate>Fri, 27 Mar 2026 11:34:05 -0000</pubDate>
@@ -212,12 +224,6 @@
 <title><![CDATA[Snow and stormy winds close schools and roads, and cut power in some Balkan countries]]></title>
 <link>https://apnews.com/article/croatia-slovenia-bosnia-snow-weather-c4dd4a536298ab174e5cb26d9446e2e5</link>
 <pubDate>Fri, 27 Mar 2026 11:04:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Landslides triggered by heavy rainfall kill at least 20 people in Tanzania]]></title>
-<link>https://apnews.com/article/tanzania-mbeya-landslides-rainfall-flooding-climate-kenya-65e63cf2a2e1186d4d98b90469a86c8e</link>
-<pubDate>Fri, 27 Mar 2026 10:49:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,9 +251,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[World shares mostly lower and oil gains after Wall Street’s worst day since start of Iran war]]></title>
+<title><![CDATA[Stocks fall and oil prices rise after Trump’s latest delay in the Iran war fails to raise much hope]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-war-894e6adadff8cb4be04b05fce819461a</link>
-<pubDate>Fri, 27 Mar 2026 10:19:05 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 13:33:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,15 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU lawmakers approve trade deal with US but add safeguards]]></title>
-<link>https://apnews.com/article/european-union-us-trade-deal-9becc5c1ad5f0a5e42e7cf17c659a3e1</link>
-<pubDate>Thu, 26 Mar 2026 13:33:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel hits Tehran with wave of strikes and warns attacks on Iran ‘will escalate and expand’]]></title>
+<title><![CDATA[Israel warns attacks on Iran ‘will escalate and expand’ as Trump claims advances in ceasefire talks]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
-<pubDate>Fri, 27 Mar 2026 11:19:06 -0000</pubDate>
+<pubDate>Fri, 27 Mar 2026 14:03:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,15 +473,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Costa Rica to accept 25 ‘third country’ deportees from US every week]]></title>
-<link>https://apnews.com/article/costa-rica-third-country-deportees-us-trump-b8563adb2e854548f256cbfd12b0ad33</link>
-<pubDate>Thu, 26 Mar 2026 17:50:58 -0000</pubDate>
+<title><![CDATA[Brazil’s Bolsonaro to continue his sentence at home because of poor health]]></title>
+<link>https://apnews.com/article/brazil-bolsonaro-house-imprisonment-brasilia-3128ec598ba47e3086325e4c503455f4</link>
+<pubDate>Fri, 27 Mar 2026 13:48:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as Africans welcome UN vote on slavery reparations]]></title>
-<link>https://apnews.com/article/africa-un-slavery-reparations-ghana-e957e864e402e6ce16fd878b7ec89653</link>
-<pubDate>Thu, 26 Mar 2026 19:25:46 -0000</pubDate>
+<title><![CDATA[A boat packed with migrants that capsized off Djibouti left at least 9 dead and 45 missing]]></title>
+<link>https://apnews.com/article/djibouti-iom-yemen-obock-migrants-e3deedb141a0ab2f0a37b60fcc6a86bd</link>
+<pubDate>Fri, 27 Mar 2026 13:33:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
