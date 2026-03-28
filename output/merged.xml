@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 23:50:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 01:09:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s potential troop deployment is getting pushback on Capitol Hill]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-25-2026</link>
-<pubDate>Thu, 26 Mar 2026 04:07:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Migrants march from southern Mexico, protesting delays and seeking papers to work]]></title>
 <link>https://apnews.com/article/mexico-migrants-caravan-tapachula-us-2f3fdc43b431dccdc1f7c01ac2bafc3f</link>
 <pubDate>Wed, 25 Mar 2026 17:56:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump delays Strait of Hormuz deadline as Wall Street has biggest loss of war]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-26-2026</link>
+<pubDate>Sat, 28 Mar 2026 01:09:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesia starts implementing social media restrictions for children under 16]]></title>
+<link>https://apnews.com/article/indonesia-social-media-children-under-16-761b3ae00231ea0b176f93813c0a35eb</link>
+<pubDate>Sat, 28 Mar 2026 00:54:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal’s youngest prime minister takes the oath of office]]></title>
 <link>https://apnews.com/article/nepal-new-prime-minister-oath-astrology-19047838815c73ad4ac21d46c04fc24b</link>
 <pubDate>Fri, 27 Mar 2026 18:28:33 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[China opens investigations into US trade practices in response to Trump tariff moves]]></title>
 <link>https://apnews.com/article/china-us-trade-investigation-trump-tariff-52e6741f5e0a25cac971da0a07d001e4</link>
 <pubDate>Fri, 27 Mar 2026 10:19:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The war in Iran sparks a global fertilizer shortage and threatens food prices]]></title>
-<link>https://apnews.com/article/iran-war-fertilizer-exports-farming-3b7c92d58dba0817c3aa8f1db47464b7</link>
-<pubDate>Fri, 27 Mar 2026 09:42:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The war in Iran sparks a global fertilizer shortage and threatens food prices]]></title>
+<link>https://apnews.com/article/iran-war-fertilizer-exports-farming-3b7c92d58dba0817c3aa8f1db47464b7</link>
+<pubDate>Fri, 27 Mar 2026 09:42:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Landslides triggered by heavy rainfall kill at least 20 people in Tanzania]]></title>
 <link>https://apnews.com/article/tanzania-mbeya-landslides-rainfall-flooding-climate-kenya-65e63cf2a2e1186d4d98b90469a86c8e</link>
 <pubDate>Fri, 27 Mar 2026 13:48:15 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Conflict in eastern Congo is escalating with use of heavy weapons and drones, UN warns]]></title>
 <link>https://apnews.com/article/congo-united-nations-rebels-government-conflict-drones-51be6546b03bfa58d6179119e1b5c69d</link>
 <pubDate>Thu, 26 Mar 2026 22:53:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[What to know as Africans welcome UN vote on slavery reparations]]></title>
-<link>https://apnews.com/article/africa-un-slavery-reparations-ghana-e957e864e402e6ce16fd878b7ec89653</link>
-<pubDate>Fri, 27 Mar 2026 13:33:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian strike wounds US troops and damages planes at Saudi air base, official says]]></title>
+<title><![CDATA[Israel hits Iranian nuke facilities and Tehran strikes base in Saudi Arabia, wounding US troops]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
-<pubDate>Fri, 27 Mar 2026 22:56:52 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 01:09:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Just in case any enemies show up’ - Kim Jong Un given rifle by President of Belarus]]></title>
-<link>https://apnews.com/video/just-in-case-any-enemies-show-up-kim-jong-un-given-rifle-by-president-of-belarus-276cae70e4b747b6b65473b368b81a4a</link>
-<pubDate>Fri, 27 Mar 2026 16:43:49 -0000</pubDate>
+<title><![CDATA[AP calls Israel’s attack on Lebanon an invasion. AP explains what that means and why it matters]]></title>
+<link>https://apnews.com/video/ap-calls-israels-attack-on-lebanon-an-invasion-ap-explains-what-that-means-and-why-it-matters-79edea52addb44058737f34072d32aaa</link>
+<pubDate>Sat, 28 Mar 2026 00:54:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian attack on Saudi base injures at least 10 US troops and damages several planes]]></title>
+<title><![CDATA[Iranian attack on Saudi base wounds at least 10 US troops and damages several planes]]></title>
 <link>https://apnews.com/article/iran-war-us-troops-wounded-saudi-base-8404fd9b67b76c756e543fc307565572</link>
-<pubDate>Fri, 27 Mar 2026 22:26:52 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 00:39:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump signs executive action to pay TSA employees after Congress fails to agree on DHS funding]]></title>
+<title><![CDATA[Trump signs order to pay TSA employees after Congress fails to agree on DHS funding]]></title>
 <link>https://apnews.com/article/senate-tsa-homeland-security-airports-trump-672467393ae043e47938874e7aaddcd6</link>
-<pubDate>Fri, 27 Mar 2026 20:10:22 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 00:24:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
