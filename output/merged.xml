@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 21:49:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 22:17:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime]]></title>
 <link>https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rubio denies Zelenskyy’s claim that the US asked Ukraine to cede land to Russia for security deal]]></title>
+<link>https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba</link>
+<pubDate>Fri, 27 Mar 2026 20:25:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuban president says Raúl Castro involved in US talks that are in early stages]]></title>
 <link>https://apnews.com/article/cuba-president-diaz-canel-iglesias-interview-raul-castro-76a73d9205b3bea9df4aa962869edf55</link>
 <pubDate>Thu, 26 Mar 2026 13:48:51 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Yemen’s Houthis claim responsibility for missile attack on Israel, their first since war started]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
 <pubDate>Sat, 28 Mar 2026 16:20:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio denies Zelenskyy’s claim that the US asked Ukraine to cede land to Russia for security deal]]></title>
-<link>https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba</link>
-<pubDate>Fri, 27 Mar 2026 20:25:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil spill deals economic blow to fishermen in the Gulf of Mexico]]></title>
+<link>https://apnews.com/article/mexico-oil-spill-fishermen-gulf-of-mexico-633ad6e54db8615c26ddfc00b8390e56</link>
+<pubDate>Sat, 28 Mar 2026 22:17:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brazil’s Bolsonaro leaves hospital and heads home to serve his 27-year sentence]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-house-imprisonment-brasilia-3128ec598ba47e3086325e4c503455f4</link>
 <pubDate>Sat, 28 Mar 2026 15:20:43 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Mexico says a third of 130,000 missing people might be alive, fueling criticism from families]]></title>
 <link>https://apnews.com/article/mexico-disappearances-missing-people-government-report-528f5fa913c34129b28e61279e020a4e</link>
 <pubDate>Sat, 28 Mar 2026 08:23:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia holds ceremony for 69 killed in military plane crash]]></title>
-<link>https://apnews.com/article/colombia-plane-crash-military-mass-funeral-ea15ae2f24e9d5cc0cdb6f557805cef9</link>
-<pubDate>Fri, 27 Mar 2026 20:10:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,6 +227,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Colombia holds ceremony for 69 killed in military plane crash]]></title>
+<link>https://apnews.com/article/colombia-plane-crash-military-mass-funeral-ea15ae2f24e9d5cc0cdb6f557805cef9</link>
+<pubDate>Sat, 28 Mar 2026 22:17:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Reports: Iran soccer star Sardar Azmoun threatened with asset seizure by state]]></title>
 <link>https://apnews.com/article/soccer-iran-sardar-azmoun-2eb4c991e6fb4ffc186de1ae552a0a6e</link>
 <pubDate>Fri, 27 Mar 2026 20:25:22 -0000</pubDate>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV makes a rare 1-day visit to glitzy Monaco]]></title>
-<link>https://apnews.com/article/vatican-monaco-pope-albert-prince-e69085c49a37833ea183ea3cb8f18e47</link>
-<pubDate>Fri, 27 Mar 2026 05:54:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran-backed Houthis enter the month-old war and could further threaten global shipping]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-28-2026-0f919596403d2f851196451f4532717e</link>
 <pubDate>Sat, 28 Mar 2026 18:24:46 -0000</pubDate>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s navy locates 2 missing sailboats carrying aid off the coast of Cuba amid mounting crisis]]></title>
+<title><![CDATA[Missing sailboats carrying aid land in Cuba after being located by Mexican navy]]></title>
 <link>https://apnews.com/article/cuba-mexico-aid-boats-56f72fa44529c621b77b96fc2b74c613</link>
-<pubDate>Sat, 28 Mar 2026 20:52:37 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 22:17:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
