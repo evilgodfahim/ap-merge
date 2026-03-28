@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 12:30:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 13:42:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexican President says she will uphold Cuban doctor agreement as other countries dip out]]></title>
 <link>https://apnews.com/article/mexico-cuba-doctors-trump-33b9459c0dabdc6d8ef50cf782096e98</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US lawmakers say they’ll visit Taiwan before Trump’s summit with China’s Xi]]></title>
+<link>https://apnews.com/article/congress-taiwan-china-japan-south-korea-trump-eb546b420ab4968275996c3acc7c2a4d</link>
+<pubDate>Sat, 28 Mar 2026 13:42:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Why Pakistan has emerged as a mediator between US and Iran]]></title>
 <link>https://apnews.com/article/pakistan-us-iran-war-emerging-peace-mediator-f4e809dd3f93b3d67b54f9d75d33d55c</link>
 <pubDate>Fri, 27 Mar 2026 11:19:04 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Indonesia starts implementing social media restrictions for children under 16]]></title>
 <link>https://apnews.com/article/indonesia-social-media-children-under-16-761b3ae00231ea0b176f93813c0a35eb</link>
 <pubDate>Sat, 28 Mar 2026 00:54:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China opens investigations into US trade practices in response to Trump tariff moves]]></title>
-<link>https://apnews.com/article/china-us-trade-investigation-trump-tariff-52e6741f5e0a25cac971da0a07d001e4</link>
-<pubDate>Fri, 27 Mar 2026 10:19:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,27 +113,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bills to pay FAA and TSA workers during shutdowns get introduced but keep stalling in Congress]]></title>
+<link>https://apnews.com/article/congress-tsa-agents-pay-shutdown-81eabb42d06e17db4d6952b27f112ff7</link>
+<pubDate>Sat, 28 Mar 2026 13:27:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Frustrated travelers hear a new message from airports: Don’t get here so early]]></title>
 <link>https://apnews.com/article/airport-delays-security-lines-tsa-6fb45976ea952c0c825d8c3c7c507953</link>
 <pubDate>Fri, 27 Mar 2026 21:09:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 killed in tour company helicopter crash off the coast of the Hawaiian island of Kauai]]></title>
-<link>https://apnews.com/article/hawaii-kauai-helicopter-crash-fd89fbd743330bd2c787e52541a82036</link>
-<pubDate>Fri, 27 Mar 2026 19:55:21 -0000</pubDate>
+<title><![CDATA[UFC brings cage-match bout to the White House, home of a president who favors cage-match politics]]></title>
+<link>https://apnews.com/article/trump-ufc-white-house-cage-match-mma-41816a1c6fd732447217ba479f74e897</link>
+<pubDate>Sat, 28 Mar 2026 13:12:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FAA investigating close call between a passenger plane and military helicopter in California]]></title>
-<link>https://apnews.com/article/helicopter-military-california-flight-faa-close-call-4c5de18794034d45d36f5ad02102013c</link>
-<pubDate>Fri, 27 Mar 2026 16:43:47 -0000</pubDate>
+<title><![CDATA[Trump signs order to pay TSA employees after Congress fails to agree on DHS funding]]></title>
+<link>https://apnews.com/article/senate-tsa-homeland-security-airports-trump-672467393ae043e47938874e7aaddcd6</link>
+<pubDate>Sat, 28 Mar 2026 12:57:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[First submarine named after Massachusetts joins the Navy fleet]]></title>
-<link>https://apnews.com/article/uss-massachusetts-navy-boston-commissioned-e1f22f74d0ba90fb5a3557b62fb409ee</link>
-<pubDate>Sat, 28 Mar 2026 12:30:31 -0000</pubDate>
+<title><![CDATA[China opens investigations into US trade practices in response to Trump tariff moves]]></title>
+<link>https://apnews.com/article/china-us-trade-investigation-trump-tariff-52e6741f5e0a25cac971da0a07d001e4</link>
+<pubDate>Fri, 27 Mar 2026 10:19:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -152,12 +158,6 @@
 <title><![CDATA[PopMart investors are worried the company is relying too heavily on Labubus, according to analysts]]></title>
 <link>https://apnews.com/article/labubu-pop-mart-china-shares-earnings-0b0cfc1a1bde2ea5502a0e6479b8702e</link>
 <pubDate>Thu, 26 Mar 2026 03:07:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan conveys regrets to China after arrest of soldier over alleged break-in at Chinese embassy]]></title>
-<link>https://apnews.com/article/japan-china-embassy-break-681e907aa1ff18862aa29f425d994734</link>
-<pubDate>Wed, 25 Mar 2026 16:26:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +182,12 @@
 <title><![CDATA[Armed or unarmed? US and Iran spar over status of Iranian warship sunk by a submarine]]></title>
 <link>https://apnews.com/article/iran-israel-us-iris-dena-warship-submarine-8789cf718b1ebf8b571cb8ef5d785150</link>
 <pubDate>Thu, 19 Mar 2026 09:20:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sectarian attacks rock a Christian town in Syria after a dispute]]></title>
+<link>https://apnews.com/article/syria-christians-sectarian-attacks-suqaylabiyah-d3c66fd9713084c1fbab0c307c77bcf9</link>
+<pubDate>Sat, 28 Mar 2026 13:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,12 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Conflict in eastern Congo is escalating with use of heavy weapons and drones, UN warns]]></title>
-<link>https://apnews.com/article/congo-united-nations-rebels-government-conflict-drones-51be6546b03bfa58d6179119e1b5c69d</link>
-<pubDate>Sat, 28 Mar 2026 07:26:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran-backed Houthis claim first missile launch on Israel as war in the Mideast intensifies]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-28-2026-0f919596403d2f851196451f4532717e</link>
 <pubDate>Sat, 28 Mar 2026 09:57:56 -0000</pubDate>
@@ -401,9 +401,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Strikes kill at least 5 in Ukraine, as Zelenskyy visits Gulf Arab states to talk drone defense]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-odesa-drones-zelenskyy-gulf-5d520d03324170efbfb7f75ca6f2492e</link>
-<pubDate>Sat, 28 Mar 2026 12:30:33 -0000</pubDate>
+<title><![CDATA[Trump’s conflicting messages sow confusion over the Iran war]]></title>
+<link>https://apnews.com/article/trump-iran-war-conflicting-messages-f9269cc4fe1cee914501b68ec5b6c217</link>
+<pubDate>Sat, 28 Mar 2026 13:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump signs order to pay TSA employees after Congress fails to agree on DHS funding]]></title>
-<link>https://apnews.com/article/senate-tsa-homeland-security-airports-trump-672467393ae043e47938874e7aaddcd6</link>
-<pubDate>Sat, 28 Mar 2026 00:24:55 -0000</pubDate>
+<title><![CDATA[How the Homeland Security deal unraveled and split Republican leaders in Congress]]></title>
+<link>https://apnews.com/article/congress-shutdown-johnson-thune-dhs-deal-unraveled-4ad4076c09705ca4bbebbdbcac7a0e75</link>
+<pubDate>Sat, 28 Mar 2026 13:27:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
