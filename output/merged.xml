@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 19:24:17 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime]]></title>
-<link>https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07</link>
-<pubDate>Fri, 27 Mar 2026 11:34:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Sun, 29 Mar 2026 19:51:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rubio denies Zelenskyy’s claim that the US asked Ukraine to cede land to Russia for security deal]]></title>
 <link>https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Yemen’s Houthis claim responsibility for missile attacks on Israel as war in Middle East intensifies]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-28-2026</link>
 <pubDate>Sun, 29 Mar 2026 05:55:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
+<pubDate>Sun, 29 Mar 2026 19:51:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Central Haitian town descends into fire and bloodshed from gang warfare]]></title>
+<link>https://apnews.com/article/haiti-gang-warfare-vigilantes-2555264c9c0e29fce2f78708ea0e5345</link>
+<pubDate>Sun, 29 Mar 2026 19:36:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Oil spill deals economic blow to fishermen in the Gulf of Mexico]]></title>
 <link>https://apnews.com/article/mexico-oil-spill-fishermen-gulf-of-mexico-633ad6e54db8615c26ddfc00b8390e56</link>
 <pubDate>Sat, 28 Mar 2026 22:17:10 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Brazil’s Bolsonaro leaves hospital and heads home to serve his 27-year sentence]]></title>
 <link>https://apnews.com/article/brazil-bolsonaro-house-imprisonment-brasilia-3128ec598ba47e3086325e4c503455f4</link>
 <pubDate>Sat, 28 Mar 2026 15:20:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico says a third of 130,000 missing people might be alive, fueling criticism from families]]></title>
-<link>https://apnews.com/article/mexico-disappearances-missing-people-government-report-528f5fa913c34129b28e61279e020a4e</link>
-<pubDate>Sat, 28 Mar 2026 08:23:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[Spain begins Holy Week with processions, palm branches and familiar faces]]></title>
 <link>https://apnews.com/article/spain-palm-sunday-banderas-procession-4b87aec216c1cb3d825cd12908e73163</link>
 <pubDate>Sun, 29 Mar 2026 16:22:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
+<link>https://apnews.com/article/egypt-arab-league-nabil-fahmy-394654167aea99ceefd2921b385eefca</link>
+<pubDate>Sun, 29 Mar 2026 19:51:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -329,6 +335,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico says a third of 130,000 missing people might be alive, fueling criticism from families]]></title>
+<link>https://apnews.com/article/mexico-disappearances-missing-people-government-report-528f5fa913c34129b28e61279e020a4e</link>
+<pubDate>Sun, 29 Mar 2026 19:36:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran’s soccer team honors victims of deadly missile strike on elementary school]]></title>
 <link>https://apnews.com/article/iran-soccer-protest-school-bombing-backpacks-92aa32aea8f3d832745338cea6068c8a</link>
 <pubDate>Fri, 27 Mar 2026 19:13:33 -0000</pubDate>
@@ -350,24 +362,6 @@
 <title><![CDATA[Mapping the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/the-worlds-most-important-21-miles-0000019d2fbfd29daffdefffc72e0000</link>
 <pubDate>Fri, 27 Mar 2026 18:43:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pro-Iranian group claims credit for hack of FBI Director Kash Patel’s personal account]]></title>
-<link>https://apnews.com/article/patel-iran-hacking-cyberscurity-9237ca30d1c85f237d7d83e6798d97f0</link>
-<pubDate>Fri, 27 Mar 2026 21:54:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search]]></title>
-<link>https://apnews.com/article/yahoo-artificial-intelligence-search-comeback-a9ec7ff0f7af72662b6d98ddd9c5280d</link>
-<pubDate>Fri, 27 Mar 2026 16:58:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
-<pubDate>Sun, 29 Mar 2026 18:31:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -416,12 +410,6 @@
 <title><![CDATA[Photos show Lebanon’s Catholics marking Palm Sunday as the shadow of war weighs heavily]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-palm-sunday-mideast-war-israel-hezbollah-c8ea74135b1b83a2dc98a304862d87cb</link>
 <pubDate>Sun, 29 Mar 2026 16:22:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
-<link>https://apnews.com/article/egypt-arab-league-nabil-fahmy-394654167aea99ceefd2921b385eefca</link>
-<pubDate>Sun, 29 Mar 2026 16:07:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
