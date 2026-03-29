@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 17:56:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 18:31:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime]]></title>
 <link>https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan accuses Pakistan of shelling outskirts of eastern city, killing and wounding civilians]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-asadabad-shelling-fighting-d6c9c6a99e2a80748fb2f9f1471810d6</link>
+<pubDate>Sun, 29 Mar 2026 18:31:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Extreme weather in Afghanistan leaves 17 people dead, authorities say]]></title>
 <link>https://apnews.com/article/afghanistan-extreme-weather-floods-landslide-storm-f6f7b0120daa6d9ab63e8b279b16f510</link>
 <pubDate>Sun, 29 Mar 2026 14:41:58 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Nepal police arrest former prime minister and former home minister over September protest deaths]]></title>
 <link>https://apnews.com/article/nepal-former-prime-minister-oli-arrest-protests-0853943a32336ba71f3564e2ee93c246</link>
 <pubDate>Sun, 29 Mar 2026 04:13:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US lawmakers say they’ll visit Taiwan before Trump’s summit with China’s Xi]]></title>
-<link>https://apnews.com/article/congress-taiwan-china-japan-south-korea-trump-eb546b420ab4968275996c3acc7c2a4d</link>
-<pubDate>Sat, 28 Mar 2026 13:42:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,15 +125,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TSA agents will soon be paid but it may not mean immediate relief at airport security lines]]></title>
-<link>https://apnews.com/article/airport-travel-delays-tsa-trump-a3452b3d6a212905fab23730bbe90138</link>
-<pubDate>Sun, 29 Mar 2026 14:26:58 -0000</pubDate>
+<title><![CDATA[Midnight train from Georgia: A view of America from the tracks as airports struggle in the shutdown]]></title>
+<link>https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a</link>
+<pubDate>Sun, 29 Mar 2026 18:16:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Some familiar names to the Supreme Court in a death row case over racial bias in jury makeup]]></title>
-<link>https://apnews.com/article/supreme-court-mississippi-death-row-black-jurors-9659f62345fdbd24b3b10f476272692d</link>
-<pubDate>Sun, 29 Mar 2026 13:19:09 -0000</pubDate>
+<title><![CDATA[TSA pay may be coming, but airport delays could persist and ICE agents may not leave soon]]></title>
+<link>https://apnews.com/article/airport-travel-delays-tsa-trump-a3452b3d6a212905fab23730bbe90138</link>
+<pubDate>Sun, 29 Mar 2026 18:01:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China’s BYD sees first profit drop since 2021, even as the Tesla-rival takes global EV crown]]></title>
+<link>https://apnews.com/article/china-byd-ev-sales-tesla-c2fe8ed6647f245161b7648cd7407a51</link>
+<pubDate>Sat, 28 Mar 2026 08:08:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -152,12 +158,6 @@
 <title><![CDATA[Trump will travel to Beijing for rescheduled China trip May 14-15, after delay due to Iran war]]></title>
 <link>https://apnews.com/article/trump-china-trip-iran-war-401c4c33a01b2acce72e96eb8058f8cc</link>
 <pubDate>Thu, 26 Mar 2026 23:23:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[PopMart investors are worried the company is relying too heavily on Labubus, according to analysts]]></title>
-<link>https://apnews.com/article/labubu-pop-mart-china-shares-earnings-0b0cfc1a1bde2ea5502a0e6479b8702e</link>
-<pubDate>Thu, 26 Mar 2026 03:07:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -224,12 +224,6 @@
 <title><![CDATA[Disney’s new CEO opens World of Frozen in Paris as he showcases the empire that made him]]></title>
 <link>https://apnews.com/article/disney-frozen-paris-tourism-park-b09aaa203714b67589cd3a51273b4225</link>
 <pubDate>Sun, 29 Mar 2026 17:14:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Worries about global economic pain deepen as the war in Iran drags on]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4</link>
-<pubDate>Sun, 29 Mar 2026 05:55:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +359,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran warns US ground troops would be ‘set on fire’ as regional diplomats meet on the war]]></title>
+<title><![CDATA[Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search]]></title>
+<link>https://apnews.com/article/yahoo-artificial-intelligence-search-comeback-a9ec7ff0f7af72662b6d98ddd9c5280d</link>
+<pubDate>Fri, 27 Mar 2026 16:58:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
-<pubDate>Sun, 29 Mar 2026 14:56:59 -0000</pubDate>
+<pubDate>Sun, 29 Mar 2026 18:31:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Worries about global economic pain deepen as the war in Iran drags on]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4</link>
+<pubDate>Sun, 29 Mar 2026 04:13:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -392,6 +398,12 @@
 <title><![CDATA[Trump reveals Iran’s ‘present’ was allowing 10 oil tankers to pass through Strait of Hormuz]]></title>
 <link>https://apnews.com/video/trump-reveals-irans-present-was-allowing-10-oil-tankers-to-pass-through-strait-of-hormuz-a062558205074db68a83893d0b831def</link>
 <pubDate>Thu, 26 Mar 2026 23:53:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[One month into the war, Iranians wrestle with lost livelihoods, bombs and worries of the future]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-iranians-daily-life-politics-fb07dcee815394241359a6d10868a183</link>
+<pubDate>Sat, 28 Mar 2026 08:23:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s BYD sees first profit drop since 2021, even as the Tesla-rival takes global EV crown]]></title>
-<link>https://apnews.com/article/china-byd-ev-sales-tesla-c2fe8ed6647f245161b7648cd7407a51</link>
-<pubDate>Fri, 27 Mar 2026 16:13:49 -0000</pubDate>
+<title><![CDATA[US lawmakers say they’ll visit Taiwan before Trump’s summit with China’s Xi]]></title>
+<link>https://apnews.com/article/congress-taiwan-china-japan-south-korea-trump-eb546b420ab4968275996c3acc7c2a4d</link>
+<pubDate>Sun, 29 Mar 2026 18:16:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
