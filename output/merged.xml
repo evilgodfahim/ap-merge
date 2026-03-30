@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 22:23:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 23:01:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Live updates: Trump says US is negotiating with Iran’s parliamentary speaker, who denies talks]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-30-2026</link>
+<pubDate>Mon, 30 Mar 2026 23:01:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade]]></title>
 <link>https://apnews.com/article/cuba-trump-russia-oil-shipment-b6845987728e28d5d762992840ca6b69</link>
 <pubDate>Mon, 30 Mar 2026 11:52:07 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Yemen’s Houthis claim responsibility for missile attacks on Israel as war in Middle East intensifies]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-28-2026</link>
 <pubDate>Sun, 29 Mar 2026 05:55:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says US is negotiating with Iran’s parliamentary speaker]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-30-2026</link>
-<pubDate>Mon, 30 Mar 2026 21:32:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,15 +77,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suriname ex-president, Chandrikapersad Santokhi, who probed the 1982 political killings, dies at 67]]></title>
-<link>https://apnews.com/article/suriname-president-dies-chandrikapersad-santokhi-137f8a008bac38cb4459c9f5ef8107a5</link>
-<pubDate>Mon, 30 Mar 2026 21:02:20 -0000</pubDate>
+<title><![CDATA[Clowns take to the streets of Bolivia to protest decree that could crush their livelihoods]]></title>
+<link>https://apnews.com/article/bolivia-clowns-protest-streets-education-decree-6063408d58c342f071813a0724f8bc37</link>
+<pubDate>Mon, 30 Mar 2026 22:46:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Air Canada CEO will retire this year after his English-only crash message was criticized]]></title>
-<link>https://apnews.com/article/air-canada-ceo-crash-english-french-resign-02da899607c92b8ecb31dc01085e4980</link>
-<pubDate>Mon, 30 Mar 2026 14:19:49 -0000</pubDate>
+<title><![CDATA[Cuba to receive a sanctioned Russian oil tanker as it struggles under US blockade]]></title>
+<link>https://apnews.com/article/cuba-trump-russia-oil-shipment-9f6005bdfe7d20e07d290c7e23aeda69</link>
+<pubDate>Mon, 30 Mar 2026 22:31:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,21 +119,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Student shoots a teacher at Texas high school before fatally shooting self, authorities say]]></title>
+<link>https://apnews.com/article/texas-high-school-student-teacher-shot-ff3dccd4cf6c1d7221ad2239ecf8ca60</link>
+<pubDate>Mon, 30 Mar 2026 22:16:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother]]></title>
 <link>https://apnews.com/article/supreme-court-birthright-citizenship-trump-immigration-constitution-e51d13b21b4240f6b8625700abe6030e</link>
 <pubDate>Mon, 30 Mar 2026 15:32:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor case]]></title>
+<title><![CDATA[Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor conspiracy]]></title>
 <link>https://apnews.com/article/onetaste-orgasmic-meditation-founder-daedone-sentenced-1fdbf1d4b23078128c7c4f030983d52f</link>
-<pubDate>Mon, 30 Mar 2026 19:16:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A ‘World Cup’ for immigrant girls uses the joy of sport to counter ICE fears]]></title>
-<link>https://apnews.com/article/immigration-refugee-girls-soccer-tournament-fa2e1b21aa68d120b3454a18d688e9ed</link>
-<pubDate>Mon, 30 Mar 2026 18:44:20 -0000</pubDate>
+<pubDate>Mon, 30 Mar 2026 22:01:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Yemeni lawmaker sues US military veterans, accusing them of attempting to kill him]]></title>
+<link>https://apnews.com/article/yemeni-lawmaker-assassination-attempt-uae-spear-operations-c627ad64f9a90a76349fcadfdfe7a17a</link>
+<pubDate>Mon, 30 Mar 2026 23:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Suriname ex-president, Chandrikapersad Santokhi, who probed the 1982 political killings, dies at 67]]></title>
+<link>https://apnews.com/article/suriname-president-dies-chandrikapersad-santokhi-137f8a008bac38cb4459c9f5ef8107a5</link>
+<pubDate>Mon, 30 Mar 2026 22:46:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-march-30-2026-36efeb1c745e7726455572a7c7cb04a4</link>
 <pubDate>Mon, 30 Mar 2026 21:32:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[A ‘World Cup’ for immigrant girls uses the joy of sport to counter ICE fears]]></title>
+<link>https://apnews.com/article/immigration-refugee-girls-soccer-tournament-fa2e1b21aa68d120b3454a18d688e9ed</link>
+<pubDate>Mon, 30 Mar 2026 22:31:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -230,6 +248,12 @@
 <title><![CDATA[German leader raises prospect of many Syrians returning home as the country’s president visits]]></title>
 <link>https://apnews.com/article/germany-syria-refugees-migrants-return-738b393d1ece62dc238b06a72ea081f5</link>
 <pubDate>Mon, 30 Mar 2026 15:17:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Air Canada CEO will retire this year after his English-only crash message was criticized]]></title>
+<link>https://apnews.com/article/air-canada-ceo-crash-english-french-resign-02da899607c92b8ecb31dc01085e4980</link>
+<pubDate>Mon, 30 Mar 2026 22:16:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,6 +311,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War disrupts life on the Iraq‑Iran border, isolating families and stifling trade]]></title>
+<link>https://apnews.com/article/iran-iraq-border-communications-families-war-security-9981048c7a39bb8bb9a73ec8af5218cf</link>
+<pubDate>Mon, 30 Mar 2026 22:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kosovo, one of Europe’s poorest countries, struggles as Iran war drives up fuel prices]]></title>
 <link>https://apnews.com/article/kosovo-iran-war-fuel-prices-63d431a82c5fe28b967e41308a382662</link>
 <pubDate>Mon, 30 Mar 2026 21:17:21 -0000</pubDate>
@@ -335,39 +365,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paramilitary attack kills at least 14 in central Sudan, group says]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-6abc282349c8deba92481895d1744913</link>
-<pubDate>Mon, 30 Mar 2026 16:43:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spain begins Holy Week with processions, palm branches and familiar faces]]></title>
-<link>https://apnews.com/article/spain-palm-sunday-banderas-procession-4b87aec216c1cb3d825cd12908e73163</link>
-<pubDate>Sun, 29 Mar 2026 16:22:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos show Lebanon’s Catholics marking Palm Sunday as the shadow of war weighs heavily]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-palm-sunday-mideast-war-israel-hezbollah-c8ea74135b1b83a2dc98a304862d87cb</link>
-<pubDate>Mon, 30 Mar 2026 08:52:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
-<link>https://apnews.com/article/egypt-arab-league-nabil-fahmy-394654167aea99ceefd2921b385eefca</link>
-<pubDate>Sun, 29 Mar 2026 19:51:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli police prevent Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church]]></title>
-<link>https://apnews.com/article/israel-police-jerusalem-church-palm-sunday-906c8fa00e5e461760089260a18a2b98</link>
-<pubDate>Mon, 30 Mar 2026 11:37:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump again threatens widespread destruction in Iran if a deal is not reached ‘shortly’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-30-2026-8abb0ee50be4cd8dd9ddde3a9d846ef8</link>
 <pubDate>Mon, 30 Mar 2026 18:44:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated]]></title>
+<link>https://apnews.com/article/trump-iran-saudi-arabia-mbs-gulf-war-uae-89f690b952fe28d3140c537b70fa5051</link>
+<pubDate>Mon, 30 Mar 2026 23:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump threatens to destroy Iran’s desalination plants. Here’s what that could mean for the Mideast]]></title>
+<link>https://apnews.com/article/trump-iran-threat-desalination-plants-war-f624bed66bee79f68454d581ae1d624a</link>
+<pubDate>Mon, 30 Mar 2026 22:46:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,18 +395,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba to receive a sanctioned Russian oil tanker as it struggles under US blockade]]></title>
-<link>https://apnews.com/article/cuba-trump-russia-oil-shipment-9f6005bdfe7d20e07d290c7e23aeda69</link>
-<pubDate>Mon, 30 Mar 2026 19:46:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran says its expelled ambassador won’t leave Lebanon as political tensions soar]]></title>
-<link>https://apnews.com/article/lebanon-iran-ambassador-hezbollah-5b78aff2d419e808afa556a8cbedcb88</link>
-<pubDate>Mon, 30 Mar 2026 12:37:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Pakistani foreign minister says his country will host talks between US and Iran]]></title>
 <link>https://apnews.com/video/pakistani-foreign-minister-says-his-country-will-host-talks-between-us-and-iran-9104b9abd59344fcba49c96bf0ed3768</link>
 <pubDate>Mon, 30 Mar 2026 07:35:59 -0000</pubDate>
@@ -407,6 +407,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show Christians marking Holy Week across the world]]></title>
+<link>https://apnews.com/photo-gallery/holy-week-catholic-easter-christian-palm-sunday-ed3a76e5e93246f6257d90c7dc874d1d</link>
+<pubDate>Mon, 30 Mar 2026 22:31:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel punishes a military unit that assaulted a CNN crew in the West Bank]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-violence-cnn-jeremy-diamond-7607f775cbf2532c7a9831a7a3001a37</link>
 <pubDate>Mon, 30 Mar 2026 17:28:28 -0000</pubDate>
@@ -416,18 +422,6 @@
 <title><![CDATA[Israeli parliament passes budget, allowing Netanyahu to avoid early elections]]></title>
 <link>https://apnews.com/article/israel-war-iran-budget-netanyahu-elections-bc75b11a9d1d833733c6f9e56a15aeda</link>
 <pubDate>Mon, 30 Mar 2026 13:49:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War disrupts life on the Iraq‑Iran border, isolating families and stifling trade]]></title>
-<link>https://apnews.com/article/iran-iraq-border-communications-families-war-security-9981048c7a39bb8bb9a73ec8af5218cf</link>
-<pubDate>Mon, 30 Mar 2026 10:38:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spain closes off its airspace to US planes involved in the Iran war]]></title>
-<link>https://apnews.com/article/trump-spain-united-states-iran-war-05e23ef4e0bda9cb226a16b10cd9437c</link>
-<pubDate>Mon, 30 Mar 2026 21:17:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -458,6 +452,12 @@
 <title><![CDATA[Oil spill deals economic blow to fishermen in the Gulf of Mexico]]></title>
 <link>https://apnews.com/article/mexico-oil-spill-fishermen-gulf-of-mexico-633ad6e54db8615c26ddfc00b8390e56</link>
 <pubDate>Mon, 30 Mar 2026 08:22:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Spain closes off its airspace to US planes involved in the Iran war]]></title>
+<link>https://apnews.com/article/trump-spain-united-states-iran-war-05e23ef4e0bda9cb226a16b10cd9437c</link>
+<pubDate>Mon, 30 Mar 2026 21:17:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
