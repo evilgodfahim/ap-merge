@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 06:13:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 08:05:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rubio denies Zelenskyy’s claim that the US asked Ukraine to cede land to Russia for security deal]]></title>
 <link>https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba</link>
@@ -14,12 +14,6 @@
 <title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
 <pubDate>Sun, 29 Mar 2026 19:51:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen’s Houthis claim responsibility for missile attack on Israel, their first since war started]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0</link>
-<pubDate>Sat, 28 Mar 2026 16:20:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,15 +29,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
-<link>https://apnews.com/article/egypt-arab-league-nabil-fahmy-394654167aea99ceefd2921b385eefca</link>
-<pubDate>Mon, 30 Mar 2026 04:05:59 -0000</pubDate>
+<title><![CDATA[North Korea conducts engine test for missile capable of targeting US mainland]]></title>
+<link>https://apnews.com/article/north-korea-kim-missile-engine-test-us-bdc130f08bed4fd569bdd041ce2c67aa</link>
+<pubDate>Mon, 30 Mar 2026 08:05:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training]]></title>
-<link>https://apnews.com/article/soldier-connecticut-killed-israel-a39eb6cf1833c6fc40c544c196cd0473</link>
-<pubDate>Sun, 29 Mar 2026 22:18:59 -0000</pubDate>
+<title><![CDATA[Jerusalem heads into a subdued Passover and Easter under the shadow of the Iran war]]></title>
+<link>https://apnews.com/article/israel-iran-war-easter-passover-jerusalem-83dd39fc7f931970230542339cd1b827</link>
+<pubDate>Mon, 30 Mar 2026 07:50:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
+<link>https://apnews.com/article/egypt-arab-league-nabil-fahmy-394654167aea99ceefd2921b385eefca</link>
+<pubDate>Mon, 30 Mar 2026 04:05:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training]]></title>
+<link>https://apnews.com/article/soldier-connecticut-killed-israel-a39eb6cf1833c6fc40c544c196cd0473</link>
+<pubDate>Mon, 30 Mar 2026 08:05:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UK police arrest a man after a car hits pedestrians in the English city of Derby, injuring 7]]></title>
 <link>https://apnews.com/article/britain-car-pedestrians-derby-c20e989aa8b79c396fe4bb11a3099355</link>
 <pubDate>Sun, 29 Mar 2026 17:29:04 -0000</pubDate>
@@ -260,12 +266,6 @@
 <title><![CDATA[Worries about global economic pain deepen as the war in Iran drags on]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4</link>
 <pubDate>Sun, 29 Mar 2026 05:55:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea conducts engine test for missile capable of targeting US mainland]]></title>
-<link>https://apnews.com/article/north-korea-kim-missile-engine-test-us-bdc130f08bed4fd569bdd041ce2c67aa</link>
-<pubDate>Mon, 30 Mar 2026 06:13:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump mulls seizing Iranian island even as diplomatic talks appear to be moving ahead]]></title>
+<title><![CDATA[Trump mulls seizing Iran’s Kharg Island oil terminal even as talks show progress]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-30-2026-8abb0ee50be4cd8dd9ddde3a9d846ef8</link>
-<pubDate>Mon, 30 Mar 2026 06:13:14 -0000</pubDate>
+<pubDate>Mon, 30 Mar 2026 08:05:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,27 +389,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Egypt’s early closing order jolts Cairo’s night life as war-driven oil costs soar]]></title>
-<link>https://apnews.com/article/us-war-israel-iran-middle-east-egypt-economy-oil-aa25e671bcb27bf03b401ae138f36dc9</link>
-<pubDate>Mon, 30 Mar 2026 01:20:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A youth-led push for change threatens Orbán’s 16-year rule in Hungary’s elections]]></title>
 <link>https://apnews.com/article/hungary-election-youth-voters-orban-58e71836ef9e3a38bc478bdbde9ca0b0</link>
 <pubDate>Mon, 30 Mar 2026 05:58:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[AP calls Israel’s attack on Lebanon an invasion. AP explains what that means and why it matters]]></title>
-<link>https://apnews.com/video/ap-calls-israels-attack-on-lebanon-an-invasion-ap-explains-what-that-means-and-why-it-matters-79edea52addb44058737f34072d32aaa</link>
-<pubDate>Sat, 28 Mar 2026 00:54:55 -0000</pubDate>
+<title><![CDATA[Israeli parliament to vote on death penalty for Palestinians convicted of murdering Israelis]]></title>
+<link>https://apnews.com/article/israel-palestinians-death-penalty-bill-knesset-ben-gvir-c67c1c14f218a4d67ed3d5011cd5cf8d</link>
+<pubDate>Mon, 30 Mar 2026 07:50:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump reveals Iran’s ‘present’ was allowing 10 oil tankers to pass through Strait of Hormuz]]></title>
-<link>https://apnews.com/video/trump-reveals-irans-present-was-allowing-10-oil-tankers-to-pass-through-strait-of-hormuz-a062558205074db68a83893d0b831def</link>
-<pubDate>Thu, 26 Mar 2026 23:53:27 -0000</pubDate>
+<title><![CDATA[Pakistani foreign minister says his country will host talks between US and Iran]]></title>
+<link>https://apnews.com/video/pakistani-foreign-minister-says-his-country-will-host-talks-between-us-and-iran-9104b9abd59344fcba49c96bf0ed3768</link>
+<pubDate>Mon, 30 Mar 2026 07:35:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he has ‘no problem’ with Russian oil tanker bringing relief to Cuba despite blockade]]></title>
+<link>https://apnews.com/video/trump-says-he-has-no-problem-with-russian-oil-tanker-bringing-relief-to-cuba-despite-blockade-96ef1d03abe64d69987bde80af378f9c</link>
+<pubDate>Mon, 30 Mar 2026 07:20:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli police prevent Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church]]></title>
+<link>https://apnews.com/article/israel-police-jerusalem-church-palm-sunday-906c8fa00e5e461760089260a18a2b98</link>
+<pubDate>Sun, 29 Mar 2026 14:41:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -422,12 +428,6 @@
 <title><![CDATA[Photos show Lebanon’s Catholics marking Palm Sunday as the shadow of war weighs heavily]]></title>
 <link>https://apnews.com/photo-gallery/lebanon-palm-sunday-mideast-war-israel-hezbollah-c8ea74135b1b83a2dc98a304862d87cb</link>
 <pubDate>Sun, 29 Mar 2026 16:22:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Jerusalem heads into a subdued Passover and Easter under the shadow of the Iran war]]></title>
-<link>https://apnews.com/article/israel-iran-war-easter-passover-jerusalem-83dd39fc7f931970230542339cd1b827</link>
-<pubDate>Sun, 29 Mar 2026 09:04:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
