@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 23:55:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 01:26:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump suggests US could take Iran’s Kharg Island]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-29-2026</link>
-<pubDate>Mon, 30 Mar 2026 04:20:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Live updates: Trump says US is negotiating with Iran’s parliamentary speaker, who denies talks]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-30-2026</link>
 <pubDate>Mon, 30 Mar 2026 23:01:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump suggests US could take Iran’s Kharg Island]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-03-29-2026</link>
+<pubDate>Mon, 30 Mar 2026 04:20:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,21 +53,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China sanctions Japanese lawmaker over his Taiwan ties. Japan calls the step ‘unacceptable’]]></title>
-<link>https://apnews.com/article/japan-china-taiwan-lawmaker-sanctioned-takaichi-dc6ad167ba0bf64a1ace8784961e56a9</link>
-<pubDate>Mon, 30 Mar 2026 12:37:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Cambodia advances a scam center law with penalties of up to life in prison]]></title>
 <link>https://apnews.com/article/cambodia-cybercrime-law-scam-centers-eb296eedd73b026bdf54a0059f6e2940</link>
 <pubDate>Mon, 30 Mar 2026 12:22:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China resumes direct flights to North Korea after 6 years]]></title>
+<link>https://apnews.com/article/air-china-flight-north-korea-tourism-83457241c49f3db4047f973d3f11396f</link>
+<pubDate>Tue, 31 Mar 2026 01:26:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australian police kill a suspect 7 months after he allegedly shot 3 officers, killing 2]]></title>
 <link>https://apnews.com/article/australia-police-shooting-dezi-freeman-victoria-21d43166099bfbf60d4939780e32e02a</link>
 <pubDate>Mon, 30 Mar 2026 12:07:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Chile’s president vows tougher school security following recent stabbing and firearms incidents]]></title>
+<link>https://apnews.com/article/chile-school-violence-gun-stabbing-kast-b46ca6b1e939dde1255238b7dda885f0</link>
+<pubDate>Tue, 31 Mar 2026 01:11:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Clowns take to the streets of Bolivia to protest decree that could crush their livelihoods]]></title>
 <link>https://apnews.com/article/bolivia-clowns-protest-streets-education-decree-6063408d58c342f071813a0724f8bc37</link>
 <pubDate>Mon, 30 Mar 2026 22:46:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba to receive a sanctioned Russian oil tanker as it struggles under US blockade]]></title>
-<link>https://apnews.com/article/cuba-trump-russia-oil-shipment-9f6005bdfe7d20e07d290c7e23aeda69</link>
-<pubDate>Mon, 30 Mar 2026 22:31:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sheinbaum meets FIFA’s Infantino to review Mexico’s 2026 World Cup preparations]]></title>
+<link>https://apnews.com/article/world-cup-2026-gianni-infantino-claudia-sheinbaum-mexico-bcc1e4700401611064f90a2af9f6b44f</link>
+<pubDate>Tue, 31 Mar 2026 01:26:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[After a harrowing travel ordeal, Iraq faces Bolivia for a 2026 World Cup spot]]></title>
+<link>https://apnews.com/article/iraq-bolivia-playoff-fifa-world-cup-2026-b92c40f43a5b0de15036633493b9f5d3</link>
+<pubDate>Tue, 31 Mar 2026 01:11:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Yemeni lawmaker sues US military veterans, accusing them of attempting to kill him]]></title>
 <link>https://apnews.com/article/yemeni-lawmaker-assassination-attempt-uae-spear-operations-c627ad64f9a90a76349fcadfdfe7a17a</link>
 <pubDate>Mon, 30 Mar 2026 23:01:05 -0000</pubDate>
@@ -233,15 +245,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Activists in Haiti say at least 30 people are dead after a gang attacks a town again]]></title>
-<link>https://apnews.com/article/haiti-gang-violence-artibonite-jean-denis-9ceb486d3c24b292eed3a7e6fa093b62</link>
-<pubDate>Mon, 30 Mar 2026 15:47:41 -0000</pubDate>
+<title><![CDATA[Cuba to receive a sanctioned Russian oil tanker as it struggles under US blockade]]></title>
+<link>https://apnews.com/article/cuba-trump-russia-oil-shipment-9f6005bdfe7d20e07d290c7e23aeda69</link>
+<pubDate>Tue, 31 Mar 2026 00:56:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US reopens embassy in Venezuela months after military operation to remove Maduro]]></title>
-<link>https://apnews.com/article/us-venezuela-maduro-a437b1fa15b0bc91453ecdeecb327bb8</link>
-<pubDate>Mon, 30 Mar 2026 15:32:41 -0000</pubDate>
+<title><![CDATA[Activists in Haiti say at least 30 people are dead after a gang attacks a town again]]></title>
+<link>https://apnews.com/article/haiti-gang-violence-artibonite-jean-denis-9ceb486d3c24b292eed3a7e6fa093b62</link>
+<pubDate>Mon, 30 Mar 2026 15:47:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,9 +317,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thieves steal paintings by Renoir, Cézanne and Matisse from Italian private museum]]></title>
+<title><![CDATA[Thieves steal paintings by Renoir, Cézanne and Matisse from a private museum in Italy]]></title>
 <link>https://apnews.com/article/italy-theft-renoir-cezanne-matisse-paintings-magnani-eaf757cce051594fa4919bb90aad9d49</link>
-<pubDate>Mon, 30 Mar 2026 09:22:02 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 00:41:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,18 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan accuses Pakistan of shelling outskirts of eastern city, killing and wounding civilians]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-asadabad-shelling-fighting-d6c9c6a99e2a80748fb2f9f1471810d6</link>
-<pubDate>Mon, 30 Mar 2026 11:52:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK police arrest a man after a car hits pedestrians in the English city of Derby, injuring 7]]></title>
-<link>https://apnews.com/article/britain-car-pedestrians-derby-c20e989aa8b79c396fe4bb11a3099355</link>
-<pubDate>Sun, 29 Mar 2026 17:29:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump again threatens widespread destruction in Iran if a deal is not reached ‘shortly’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-30-2026-8abb0ee50be4cd8dd9ddde3a9d846ef8</link>
 <pubDate>Mon, 30 Mar 2026 18:44:23 -0000</pubDate>
@@ -389,21 +389,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s parliament approves the death penalty for Palestinians convicted of murdering Israelis]]></title>
-<link>https://apnews.com/article/israel-palestinians-death-penalty-bill-knesset-ben-gvir-c67c1c14f218a4d67ed3d5011cd5cf8d</link>
-<pubDate>Mon, 30 Mar 2026 21:32:22 -0000</pubDate>
+<title><![CDATA[Leavitt insists US military will act within law as Trump threatens Iran’s energy sites]]></title>
+<link>https://apnews.com/video/leavitt-insists-us-military-will-act-within-law-as-trump-threatens-irans-energy-sites-fd420440c4144eb89c3b2e005f9139c7</link>
+<pubDate>Tue, 31 Mar 2026 01:26:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistani foreign minister says his country will host talks between US and Iran]]></title>
-<link>https://apnews.com/video/pakistani-foreign-minister-says-his-country-will-host-talks-between-us-and-iran-9104b9abd59344fcba49c96bf0ed3768</link>
-<pubDate>Mon, 30 Mar 2026 07:35:59 -0000</pubDate>
+<title><![CDATA[White House says the Iranian officials ‘are appearing more reasonable behind the scenes’ in talks]]></title>
+<link>https://apnews.com/video/white-house-says-the-iranian-officials-are-appearing-more-reasonable-behind-the-scenes-in-talks-f1ec4809668b41529b40379a62dd90f0</link>
+<pubDate>Tue, 31 Mar 2026 01:11:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says he has ‘no problem’ with Russian oil tanker bringing relief to Cuba despite blockade]]></title>
-<link>https://apnews.com/video/trump-says-he-has-no-problem-with-russian-oil-tanker-bringing-relief-to-cuba-despite-blockade-96ef1d03abe64d69987bde80af378f9c</link>
-<pubDate>Mon, 30 Mar 2026 07:20:59 -0000</pubDate>
+<title><![CDATA[Sky turned red ahead of tropical cyclone in Western Australia]]></title>
+<link>https://apnews.com/video/sky-turned-red-ahead-of-tropical-cyclone-in-western-australia-89eb5264b83f4865aed87d6271b61079</link>
+<pubDate>Tue, 31 Mar 2026 00:56:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran says its expelled ambassador won’t leave Lebanon as political tensions soar]]></title>
+<link>https://apnews.com/article/lebanon-iran-ambassador-hezbollah-5b78aff2d419e808afa556a8cbedcb88</link>
+<pubDate>Mon, 30 Mar 2026 12:37:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,15 +467,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China resumes direct flights to North Korea after 6 years]]></title>
-<link>https://apnews.com/article/air-china-flight-north-korea-tourism-83457241c49f3db4047f973d3f11396f</link>
-<pubDate>Mon, 30 Mar 2026 05:28:14 -0000</pubDate>
+<title><![CDATA[China sanctions Japanese lawmaker over his Taiwan ties. Japan calls the step ‘unacceptable’]]></title>
+<link>https://apnews.com/article/japan-china-taiwan-lawmaker-sanctioned-takaichi-dc6ad167ba0bf64a1ace8784961e56a9</link>
+<pubDate>Tue, 31 Mar 2026 00:41:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chile’s president vows tougher school security following recent stabbing and firearms incidents]]></title>
-<link>https://apnews.com/article/chile-school-violence-gun-stabbing-kast-b46ca6b1e939dde1255238b7dda885f0</link>
-<pubDate>Mon, 30 Mar 2026 19:16:52 -0000</pubDate>
+<title><![CDATA[US reopens embassy in Venezuela months after military operation to remove Maduro]]></title>
+<link>https://apnews.com/article/us-venezuela-maduro-a437b1fa15b0bc91453ecdeecb327bb8</link>
+<pubDate>Tue, 31 Mar 2026 00:26:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
