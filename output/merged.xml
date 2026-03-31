@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 31 Mar 2026 08:35:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 09:53:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Wolf bites woman in a shopping area in Germany’s 2nd-biggest city]]></title>
+<link>https://apnews.com/article/germany-hamburg-wolf-attack-caught-binnenalster-202f5edec5d05edd72ba2e677c33514d</link>
+<pubDate>Tue, 31 Mar 2026 09:53:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Czech police arrest a man who claimed responsibility for attack on a Russian center in Prague]]></title>
+<link>https://apnews.com/article/czech-russia-prague-molotov-cocktails-attack-ec1f1b6ca575d0e3c72c1c0b0e7cb62f</link>
+<pubDate>Tue, 31 Mar 2026 09:38:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France suspects an Iran link after foiling bomb attack outside Bank of America]]></title>
 <link>https://apnews.com/article/france-bank-of-america-attack-thwarted-paris-a5a5bf12b6422ad7e658b6cbaad5bda8</link>
 <pubDate>Mon, 30 Mar 2026 17:43:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spain closes off its airspace to US planes involved in the Iran war]]></title>
-<link>https://apnews.com/article/trump-spain-united-states-iran-war-05e23ef4e0bda9cb226a16b10cd9437c</link>
-<pubDate>Tue, 31 Mar 2026 08:35:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[International observers urge violence-free elections after clashes at Serbia vote]]></title>
-<link>https://apnews.com/article/croatia-serbia-regional-summit-canceled-7ade5ea34784d647c1a60684b4a6a196</link>
-<pubDate>Mon, 30 Mar 2026 21:17:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -89,9 +89,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen kill more than 70 in South Sudan after a dispute at a gold mine]]></title>
-<link>https://apnews.com/article/south-sudan-gold-mine-jebel-iraq-deaths-juba-d7f2d7954df7275add92f3017d565947</link>
-<pubDate>Tue, 31 Mar 2026 03:43:29 -0000</pubDate>
+<title><![CDATA[Gunmen kill at least 20 in nighttime attack in Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-attack-plateau-state-bd6de9c8eec49087f7638afdc804ceeb</link>
+<pubDate>Mon, 30 Mar 2026 17:13:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Central African Republic’s president sworn in for a third term after disputed election]]></title>
+<link>https://apnews.com/article/central-african-republic-president-sworn-election-4a2d44f1cc1b2a28952b781673b18e9e</link>
+<pubDate>Mon, 30 Mar 2026 17:28:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen kill at least 20 in nighttime attack in Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-attack-plateau-state-bd6de9c8eec49087f7638afdc804ceeb</link>
-<pubDate>Mon, 30 Mar 2026 17:13:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Europe seeks to increase deportations as some warn of Trump-like tactics]]></title>
-<link>https://apnews.com/article/eu-migration-deportation-asylum-detention-90d2cb40727d461bac532ae9294006cb</link>
-<pubDate>Mon, 30 Mar 2026 05:58:12 -0000</pubDate>
+<title><![CDATA[A women-led music festival pushes for peace in Congo’s conflict-ridden eastern region]]></title>
+<link>https://apnews.com/article/congo-women-festival-3fc3527a2ec723d10a8f14edcfd976fb</link>
+<pubDate>Tue, 31 Mar 2026 09:23:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -233,6 +233,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[International observers urge violence-free elections after clashes at Serbia vote]]></title>
+<link>https://apnews.com/article/croatia-serbia-regional-summit-canceled-7ade5ea34784d647c1a60684b4a6a196</link>
+<pubDate>Tue, 31 Mar 2026 03:28:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A ‘World Cup’ for immigrant girls uses the joy of sport to counter ICE fears]]></title>
 <link>https://apnews.com/article/immigration-refugee-girls-soccer-tournament-fa2e1b21aa68d120b3454a18d688e9ed</link>
 <pubDate>Mon, 30 Mar 2026 22:31:05 -0000</pubDate>
@@ -317,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Spain closes off its airspace to US planes involved in the Iran war]]></title>
+<link>https://apnews.com/article/trump-spain-united-states-iran-war-05e23ef4e0bda9cb226a16b10cd9437c</link>
+<pubDate>Tue, 31 Mar 2026 09:53:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cambodia advances a scam center law with penalties of up to life in prison]]></title>
 <link>https://apnews.com/article/cambodia-cybercrime-law-scam-centers-eb296eedd73b026bdf54a0059f6e2940</link>
 <pubDate>Tue, 31 Mar 2026 07:50:33 -0000</pubDate>
@@ -326,12 +338,6 @@
 <title><![CDATA[Death toll in Afghanistan flooding increases to 28, authorities say]]></title>
 <link>https://apnews.com/article/weather-floods-afghanistan-storm-landslide-e6be89ef89f32f5d8c68f3380bdebbe7</link>
 <pubDate>Mon, 30 Mar 2026 12:37:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A women-led music festival pushes for peace in Congo’s conflict-ridden eastern region]]></title>
-<link>https://apnews.com/article/congo-women-festival-3fc3527a2ec723d10a8f14edcfd976fb</link>
-<pubDate>Mon, 30 Mar 2026 12:22:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Thieves steal paintings by Renoir, Cézanne and Matisse from a private museum in Italy]]></title>
-<link>https://apnews.com/article/italy-theft-renoir-cezanne-matisse-paintings-magnani-eaf757cce051594fa4919bb90aad9d49</link>
-<pubDate>Tue, 31 Mar 2026 00:41:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US attacks Iranian nuclear site while Tehran hits oil tanker off the Dubai coast]]></title>
+<title><![CDATA[US strikes a city home to an Iranian nuclear site while Tehran hits oil tanker off Dubai coast]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-31-2026-07fcd5216ceae44965de79a60a4623da</link>
-<pubDate>Tue, 31 Mar 2026 05:58:55 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 09:53:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European diplomats visit Ukraine on anniversary of Russia’s Bucha atrocities]]></title>
+<title><![CDATA[European diplomats steer attention to Ukraine with visit on Russian atrocities anniversary]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-bucha-europe-7e5737277056a2c3b431e99d85fb48c7</link>
-<pubDate>Tue, 31 Mar 2026 08:35:33 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 09:38:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gas prices soar past $4 on average for a gallon of regular in the US, the highest since 2022]]></title>
+<title><![CDATA[US gas prices hit $4 per gallon, the highest since 2022]]></title>
 <link>https://apnews.com/article/gas-prices-4-gallon-iran-war-de8b7ccea254a1585cab86f336db57a6</link>
-<pubDate>Tue, 31 Mar 2026 08:05:33 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 09:23:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Central African Republic’s president sworn in for a third term after disputed election]]></title>
-<link>https://apnews.com/article/central-african-republic-president-sworn-election-4a2d44f1cc1b2a28952b781673b18e9e</link>
-<pubDate>Tue, 31 Mar 2026 03:43:30 -0000</pubDate>
+<title><![CDATA[Gunmen kill more than 70 in South Sudan after a dispute at a gold mine]]></title>
+<link>https://apnews.com/article/south-sudan-gold-mine-jebel-iraq-deaths-juba-d7f2d7954df7275add92f3017d565947</link>
+<pubDate>Mon, 30 Mar 2026 11:37:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
