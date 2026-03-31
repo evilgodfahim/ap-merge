@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 31 Mar 2026 11:39:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 12:51:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[King Charles III will undertake state visit to the United States and Bermuda in late April]]></title>
+<link>https://apnews.com/article/britain-king-charles-state-visit-us-bermuda-be6ada2db122108b6c380c62b641308f</link>
+<pubDate>Tue, 31 Mar 2026 12:51:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Wolf bites woman in a shopping area in Germany’s 2nd-biggest city]]></title>
 <link>https://apnews.com/article/germany-hamburg-wolf-attack-caught-binnenalster-202f5edec5d05edd72ba2e677c33514d</link>
 <pubDate>Tue, 31 Mar 2026 09:53:30 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Czech police arrest a man who claimed responsibility for attack on a Russian center in Prague]]></title>
 <link>https://apnews.com/article/czech-russia-prague-molotov-cocktails-attack-ec1f1b6ca575d0e3c72c1c0b0e7cb62f</link>
 <pubDate>Tue, 31 Mar 2026 09:38:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France suspects an Iran link after foiling bomb attack outside Bank of America]]></title>
-<link>https://apnews.com/article/france-bank-of-america-attack-thwarted-paris-a5a5bf12b6422ad7e658b6cbaad5bda8</link>
-<pubDate>Mon, 30 Mar 2026 17:43:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,27 +113,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Airport bottlenecks ease as TSA workers get paid, but shutdown continues]]></title>
+<link>https://apnews.com/article/airport-travel-delays-tsa-trump-b2dcb2933f62751b6cc13e7d4e2a68d6</link>
+<pubDate>Mon, 30 Mar 2026 19:31:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[For César Chavez supporters, a painful question: What to do with his legacy now]]></title>
 <link>https://apnews.com/article/cesar-chavez-legacy-sexual-abuse-allegations-bba8cf4fc86651097889bdfcab3effa2</link>
 <pubDate>Tue, 31 Mar 2026 05:28:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[NASA is shooting for the moon. A guide to the Artemis II mission]]></title>
+<link>https://apnews.com/article/nasa-moon-artemis-astronauts-f3f49214618099a98338835715e4562a</link>
+<pubDate>Tue, 31 Mar 2026 12:36:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Georgia proposal could take DNA swabs from immigrants in custody for minor offenses]]></title>
 <link>https://apnews.com/article/immigration-dna-collection-georgia-0339ebe512ccaee81cc229b91f7bf189</link>
 <pubDate>Tue, 31 Mar 2026 06:58:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Student shoots a teacher at Texas high school before fatally shooting self, authorities say]]></title>
-<link>https://apnews.com/article/texas-high-school-student-teacher-shot-ff3dccd4cf6c1d7221ad2239ecf8ca60</link>
-<pubDate>Mon, 30 Mar 2026 22:16:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man who crashed pickup into Michigan synagogue was inspired by Iran-backed Hezbollah, FBI says]]></title>
-<link>https://apnews.com/article/michigan-synagogue-attack-hezbollah-f4e82f8084af29aa387004e07eefa4b1</link>
-<pubDate>Tue, 31 Mar 2026 11:09:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[With Spielberg’s help, a 101-year-old Auschwitz survivor has become a mighty warrior against hate]]></title>
+<link>https://apnews.com/article/france-holocaust-auschwitz-ginette-kolinka-steven-spielberg-58b9594cc8290d40f1687dcb1c4a2579</link>
+<pubDate>Tue, 31 Mar 2026 12:51:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Eurovision Song Contest is expanding with an Asian edition later this year]]></title>
 <link>https://apnews.com/article/thailand-bangkok-eurovision-2026-20a6ddbe65a9612738a0e85f711870bf</link>
 <pubDate>Tue, 31 Mar 2026 11:09:52 -0000</pubDate>
@@ -254,6 +260,12 @@
 <title><![CDATA[International observers urge violence-free elections after clashes at Serbia vote]]></title>
 <link>https://apnews.com/article/croatia-serbia-regional-summit-canceled-7ade5ea34784d647c1a60684b4a6a196</link>
 <pubDate>Tue, 31 Mar 2026 03:28:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Man who crashed pickup into Michigan synagogue was inspired by Iran-backed Hezbollah, FBI says]]></title>
+<link>https://apnews.com/article/michigan-synagogue-attack-hezbollah-f4e82f8084af29aa387004e07eefa4b1</link>
+<pubDate>Tue, 31 Mar 2026 12:36:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,21 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in Afghanistan flooding increases to 28, authorities say]]></title>
-<link>https://apnews.com/article/weather-floods-afghanistan-storm-landslide-e6be89ef89f32f5d8c68f3380bdebbe7</link>
-<pubDate>Mon, 30 Mar 2026 12:37:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In the Passover ritual, Jews worldwide reenact an ancient story of liberation]]></title>
-<link>https://apnews.com/article/judaism-passover-seder-israel-gaza-iran-war-972fed55d78395f06b66c1496574672c</link>
-<pubDate>Mon, 30 Mar 2026 12:07:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US strikes a city home to an Iranian nuclear site while Tehran hits oil tanker off Dubai coast]]></title>
+<title><![CDATA[Trump voices frustration with allies as Iran war and strait closure pushes fuel prices higher]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-31-2026-07fcd5216ceae44965de79a60a4623da</link>
-<pubDate>Tue, 31 Mar 2026 09:53:31 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 12:51:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European diplomats steer attention to Ukraine with visit on Russian atrocities anniversary]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-bucha-europe-7e5737277056a2c3b431e99d85fb48c7</link>
-<pubDate>Tue, 31 Mar 2026 09:38:31 -0000</pubDate>
+<title><![CDATA[Horror and fear in West Bank as Israel approves hanging Palestinians convicted of murdering Israelis]]></title>
+<link>https://apnews.com/article/israel-palestinians-death-penalty-west-bank-protest-ffa751057915fd0514dcd61c6095c170</link>
+<pubDate>Tue, 31 Mar 2026 12:36:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated]]></title>
+<link>https://apnews.com/article/trump-iran-saudi-arabia-mbs-gulf-war-uae-89f690b952fe28d3140c537b70fa5051</link>
+<pubDate>Mon, 30 Mar 2026 23:01:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli parliament passes budget, allowing Netanyahu to avoid early elections]]></title>
 <link>https://apnews.com/article/israel-war-iran-budget-netanyahu-elections-bc75b11a9d1d833733c6f9e56a15aeda</link>
 <pubDate>Mon, 30 Mar 2026 13:49:51 -0000</pubDate>
@@ -425,21 +431,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[With Spielberg’s help, a 101-year-old Auschwitz survivor has become a mighty warrior against hate]]></title>
-<link>https://apnews.com/article/france-holocaust-auschwitz-ginette-kolinka-steven-spielberg-58b9594cc8290d40f1687dcb1c4a2579</link>
-<pubDate>Tue, 31 Mar 2026 08:20:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US gas prices hit $4 per gallon, the highest since 2022]]></title>
 <link>https://apnews.com/article/gas-prices-4-gallon-iran-war-de8b7ccea254a1585cab86f336db57a6</link>
 <pubDate>Tue, 31 Mar 2026 09:23:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil eases and world shares mixed as Iran war shows no clear de-escalation signs]]></title>
+<title><![CDATA[Oil prices hold above $100 and Wall Street rebounds as US exchanges strikes with Iran]]></title>
 <link>https://apnews.com/article/stock-markets-war-oil-trump-iran-84a7c46b51b3583f743c8da6a40d36ac</link>
-<pubDate>Tue, 31 Mar 2026 11:24:52 -0000</pubDate>
+<pubDate>Tue, 31 Mar 2026 12:21:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +455,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Airport bottlenecks ease as TSA workers get paid, but shutdown continues]]></title>
-<link>https://apnews.com/article/airport-travel-delays-tsa-trump-b2dcb2933f62751b6cc13e7d4e2a68d6</link>
-<pubDate>Mon, 30 Mar 2026 17:44:23 -0000</pubDate>
+<title><![CDATA[Spice maker McCormick is combining with Unilever’s food division]]></title>
+<link>https://apnews.com/article/unilever-mccormick-merger-spices-d395e09cc4637177bcfb7cf0f8ce6202</link>
+<pubDate>Tue, 31 Mar 2026 12:06:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[European ministers in Ukraine for Bucha atrocities anniversary as drones hammer Russian oil ports]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-bucha-europe-7e5737277056a2c3b431e99d85fb48c7</link>
+<pubDate>Tue, 31 Mar 2026 11:51:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
