@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Apr 2026 07:58:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 09:00:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump estimates US will be done in Iran in 2 to 3 weeks]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-31-2026</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Man due in court after pedestrians struck in UK city of Derby]]></title>
+<link>https://apnews.com/article/britain-pedestrians-struck-derby-car-charges-e32758cebc66b8aaaa10b3e53fba901f</link>
+<pubDate>Wed, 01 Apr 2026 09:00:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Securing Iran’s enriched uranium by force would be risky and complex, experts say]]></title>
 <link>https://apnews.com/article/iran-nuclear-uranium-enriched-trump-war-1fd6de24bd1e6c3a4945d58d3f777462</link>
 <pubDate>Wed, 01 Apr 2026 07:58:03 -0000</pubDate>
@@ -47,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European ministers in Ukraine for Bucha atrocities anniversary as drones hammer Russian oil ports]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-bucha-europe-7e5737277056a2c3b431e99d85fb48c7</link>
-<pubDate>Wed, 01 Apr 2026 05:53:52 -0000</pubDate>
+<title><![CDATA[Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps]]></title>
+<link>https://apnews.com/article/rohingya-bangladesh-aid-ration-cuts-wfp-8349d38f8f8b21c96e70b5e805468fd1</link>
+<pubDate>Wed, 01 Apr 2026 08:45:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,9 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil-thirsty Asian nations seek Russian crude as Iran war strains supplies]]></title>
-<link>https://apnews.com/article/middle-east-wars-energy-asia-russia-crude-oil-ea90f06d9f35fe4bb977f068d2c6ef27</link>
-<pubDate>Wed, 01 Apr 2026 04:09:52 -0000</pubDate>
+<title><![CDATA[Chile’s new President José Antonio Kast brings openly religious views to a changing country]]></title>
+<link>https://apnews.com/article/chile-jose-antonio-kast-schoenstatt-religion-conservative-abortion-lgbtq-c181a457c476a0d6993d0b77f47a2779</link>
+<pubDate>Wed, 01 Apr 2026 08:30:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[One Cuban family navigates daily life under a US oil embargo and a deepening economic crisis]]></title>
 <link>https://apnews.com/article/cuba-us-oil-crisis-trump-daily-life-6ed4ca97c19836a52db3546bf24683ce</link>
 <pubDate>Wed, 01 Apr 2026 05:23:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lula keeps Alckmin as his running mate for Brazil’s general election in October]]></title>
-<link>https://apnews.com/article/brazil-lula-ticket-vice-president-alckmin-election-228b20934c2dc47a94fd4daf62b487a6</link>
-<pubDate>Tue, 31 Mar 2026 18:46:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil-thirsty Asian nations seek Russian crude as Iran war strains supplies]]></title>
+<link>https://apnews.com/article/middle-east-wars-energy-asia-russia-crude-oil-ea90f06d9f35fe4bb977f068d2c6ef27</link>
+<pubDate>Wed, 01 Apr 2026 04:09:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US lawmakers express support for stalled Taiwan special defense budget]]></title>
 <link>https://apnews.com/article/taiwan-us-lawmakers-defense-budget-congress-685b8cf5feef733a86b360325913e442</link>
 <pubDate>Tue, 31 Mar 2026 03:13:29 -0000</pubDate>
@@ -152,12 +158,6 @@
 <title><![CDATA[China sanctions Japanese lawmaker over his Taiwan ties. Japan calls the step ‘unacceptable’]]></title>
 <link>https://apnews.com/article/japan-china-taiwan-lawmaker-sanctioned-takaichi-dc6ad167ba0bf64a1ace8784961e56a9</link>
 <pubDate>Mon, 30 Mar 2026 12:37:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China resumes direct flights to North Korea after 6 years]]></title>
-<link>https://apnews.com/article/air-china-flight-north-korea-tourism-83457241c49f3db4047f973d3f11396f</link>
-<pubDate>Tue, 31 Mar 2026 01:26:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Photos show the scene in Beirut’s Jnah area after an Israeli airstrike hits Lebanese capital]]></title>
+<link>https://apnews.com/photo-gallery/israel-airstrikes-beirut-photos-e742669ddbdb64e618791f31754d393b</link>
+<pubDate>Wed, 01 Apr 2026 09:00:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[AP Exclusive: Pakistan, Afghan Taliban resume talks in China as Beijing seeks ceasefire]]></title>
+<link>https://apnews.com/article/china-host-talks-between-pakistan-afghanistan-ceasefire-207a599868bf4ba127c53b188e8e7769</link>
+<pubDate>Wed, 01 Apr 2026 08:45:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Italy’s latest World Cup failure labeled ‘3rd apocalypse.’ It’s the new norm for the 4-time champion]]></title>
+<link>https://apnews.com/article/italy-world-cup-playoffs-eliminated-c41b58511967df48ab3e548f52873f9d</link>
+<pubDate>Wed, 01 Apr 2026 08:30:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Fire and explosions cause panic near military camp in Burundi]]></title>
 <link>https://apnews.com/article/burundi-military-camp-fire-explosions-40c10cdbc733daa8a53cd657637263de</link>
 <pubDate>Wed, 01 Apr 2026 07:58:03 -0000</pubDate>
@@ -197,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian military plane crashes in annexed Crimea, killing 29 people on board]]></title>
+<title><![CDATA[Russian military plane crash in Crimea kills 29 people]]></title>
 <link>https://apnews.com/article/russia-crimea-plane-crash-3f45321e150f091583b8ba6c71c09586</link>
-<pubDate>Wed, 01 Apr 2026 06:08:52 -0000</pubDate>
+<pubDate>Wed, 01 Apr 2026 08:15:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -305,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lula keeps Alckmin as his running mate for Brazil’s general election in October]]></title>
+<link>https://apnews.com/article/brazil-lula-ticket-vice-president-alckmin-election-228b20934c2dc47a94fd4daf62b487a6</link>
+<pubDate>Wed, 01 Apr 2026 08:00:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia arrests Scottish man sought by Spain in connection with an international crime syndicate]]></title>
 <link>https://apnews.com/article/indonesia-scotland-spain-fugitive-38811b522ae528fd0978d795030af725</link>
 <pubDate>Tue, 31 Mar 2026 17:31:51 -0000</pubDate>
@@ -341,33 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European Union official says reports of violence during Serbia vote unacceptable]]></title>
-<link>https://apnews.com/article/serbia-eu-election-tensions-vucic-1ef781a3c0441b5e723c9ea3e1482621</link>
-<pubDate>Wed, 01 Apr 2026 07:13:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sanctioned Russian tanker docks in Cuba after US allows passage despite energy blockade]]></title>
-<link>https://apnews.com/article/cuba-russia-oil-sanctions-blockade-us-trump-1b69b79b322586503d08f28882e5b948</link>
-<pubDate>Wed, 01 Apr 2026 05:23:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Evacuated from Gaza as newborns, a group of Palestinian toddlers returns to an uncertain future]]></title>
-<link>https://apnews.com/article/gaza-palestinian-babies-premature-evacuate-hospital-newborn-2adcc9a7082956bf295d57330d40cdf5</link>
-<pubDate>Wed, 01 Apr 2026 06:58:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s go-to moves to influence the markets are increasingly falling flat as the Iran war drags on]]></title>
-<link>https://apnews.com/article/trump-economy-iran-war-stock-market-6424803f3e30c65d5924912e4facdcf6</link>
-<pubDate>Tue, 31 Mar 2026 11:39:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran hits tanker off coast of Qatar, Kuwait airport and Israel kills 5 in Beirut attack]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-1-2026-19cf516c2d2c614eb182dbad7a6592ef</link>
 <pubDate>Wed, 01 Apr 2026 07:58:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese displaced by war fill Beirut’s streets, upending city life]]></title>
+<link>https://apnews.com/article/lebanon-displaced-war-hezbollah-israel-beirut-4f11267f43ddafd8a0babcdbc41c3fe5</link>
+<pubDate>Wed, 01 Apr 2026 09:00:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -380,12 +386,6 @@
 <title><![CDATA[Iran’s imprisoned Nobel peace laureate Narges Mohammadi may have had a heart attack]]></title>
 <link>https://apnews.com/article/iran-narges-mohammadi-nobel-zanjan-heart-attack-ca48de854319d4704e183dd13ff5d9be</link>
 <pubDate>Tue, 31 Mar 2026 19:16:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India has begun its long-delayed population census. Here’s why it matters]]></title>
-<link>https://apnews.com/article/india-population-census-3c7480e4eb294efcf56e9a85cd87a087</link>
-<pubDate>Wed, 01 Apr 2026 06:08:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps]]></title>
-<link>https://apnews.com/article/rohingya-bangladesh-aid-ration-cuts-wfp-8349d38f8f8b21c96e70b5e805468fd1</link>
-<pubDate>Wed, 01 Apr 2026 04:09:53 -0000</pubDate>
+<title><![CDATA[India has begun its long-delayed population census. Here’s why it matters]]></title>
+<link>https://apnews.com/article/india-population-census-3c7480e4eb294efcf56e9a85cd87a087</link>
+<pubDate>Wed, 01 Apr 2026 06:08:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
