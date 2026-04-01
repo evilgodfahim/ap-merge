@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Apr 2026 22:26:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 23:02:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump estimates US will be done in Iran in 2 to 3 weeks]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-31-2026</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US journalist Shelly Kittleson was kidnapped in Baghdad]]></title>
+<link>https://apnews.com/article/iraq-journalist-kidnapped-926840aa37ac059f05069e146d1fe17b</link>
+<pubDate>Wed, 01 Apr 2026 23:02:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say]]></title>
 <link>https://apnews.com/article/kharg-island-seize-ground-troops-oil-iran-4244166c19dd33689f8a59e96e1d7d5b</link>
 <pubDate>Wed, 01 Apr 2026 17:40:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What you need to know about desalination, a growing source of drinking water]]></title>
-<link>https://apnews.com/article/climate-desalination-drought-freshwater-ocean-0197d8fe2670cfe5c83f652c225a91a4</link>
-<pubDate>Wed, 01 Apr 2026 14:24:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trans-Atlantic rift widens as Trump lashes out at NATO allies over Mideast war]]></title>
+<title><![CDATA[US-Europe rift widens as Trump lashes out at NATO allies over Mideast war]]></title>
 <link>https://apnews.com/article/nato-trump-iran-israel-war-hormuz-eu-4674aca45519c441fc42beac482180bc</link>
-<pubDate>Wed, 01 Apr 2026 15:48:47 -0000</pubDate>
+<pubDate>Wed, 01 Apr 2026 22:47:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,9 +125,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Four astronauts await liftoff on humanity’s first flight to the moon in half a century]]></title>
-<link>https://apnews.com/article/nasa-artemis-moon-launch-055040ce0579ec238d0ec9fcb0278ed3</link>
-<pubDate>Wed, 01 Apr 2026 20:32:13 -0000</pubDate>
+<title><![CDATA[New DNA testing links unsolved death of Utah teen in 1974 to serial killer Ted Bundy]]></title>
+<link>https://apnews.com/article/ted-bundy-cold-case-utah-teen-murder-eec0731fc0a912640cc3bb9cd3e3f268</link>
+<pubDate>Wed, 01 Apr 2026 22:32:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +269,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What you need to know about desalination, a growing source of drinking water]]></title>
+<link>https://apnews.com/article/climate-desalination-drought-freshwater-ocean-0197d8fe2670cfe5c83f652c225a91a4</link>
+<pubDate>Wed, 01 Apr 2026 23:02:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French prosecutors seek detention for 4 suspects in foiled Paris Bank of America bomb plot]]></title>
 <link>https://apnews.com/article/france-bank-america-attack-paris-iran-bomb-9c5ffc3b99f168c81e48d4ea938f92af</link>
 <pubDate>Wed, 01 Apr 2026 15:03:47 -0000</pubDate>
@@ -371,21 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hiker’s dog lost in a wild New Zealand forest rescued by helicopter after strangers fund search]]></title>
-<link>https://apnews.com/article/molly-dog-rescue-helicopter-new-zealand-waterfall-b698bf1cb50d6f2b23b61f85ac17f2d7</link>
-<pubDate>Wed, 01 Apr 2026 10:16:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Attacks persist on Iran and across the Mideast as Trump threatens escalation]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-1-2026-19cf516c2d2c614eb182dbad7a6592ef</link>
 <pubDate>Wed, 01 Apr 2026 15:48:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanese displaced by war fill Beirut’s streets, upending city life]]></title>
+<title><![CDATA[Beirut is bursting as over 1 million people flee Israeli strikes and evacuation orders]]></title>
 <link>https://apnews.com/article/lebanon-displaced-war-hezbollah-israel-beirut-4f11267f43ddafd8a0babcdbc41c3fe5</link>
-<pubDate>Wed, 01 Apr 2026 09:00:36 -0000</pubDate>
+<pubDate>Wed, 01 Apr 2026 23:02:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,6 +419,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran remains a stubborn foe after absorbing massive US-Israeli attacks]]></title>
+<link>https://apnews.com/article/iran-israel-us-trump-pete-hegseth-centcom-airstrikes-missiles-drones-7b94d5de628bf8df2de6b728efff2285</link>
+<pubDate>Tue, 31 Mar 2026 15:43:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Reporter who was kidnapped in Baghdad was known for pursuing gutsy, low-budget assignments]]></title>
 <link>https://apnews.com/article/iraq-kidnapped-journalist-baghdad-shelly-kittleson-3f3df27cb39ae304ecf49c81b7c44c80</link>
 <pubDate>Wed, 01 Apr 2026 17:40:43 -0000</pubDate>
@@ -434,12 +440,6 @@
 <title><![CDATA[Iran’s imprisoned Nobel peace laureate Narges Mohammadi may have had a heart attack]]></title>
 <link>https://apnews.com/article/iran-narges-mohammadi-nobel-zanjan-heart-attack-ca48de854319d4704e183dd13ff5d9be</link>
 <pubDate>Tue, 31 Mar 2026 19:16:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US journalist Shelly Kittleson was kidnapped in Baghdad]]></title>
-<link>https://apnews.com/article/iraq-journalist-kidnapped-926840aa37ac059f05069e146d1fe17b</link>
-<pubDate>Wed, 01 Apr 2026 04:24:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New DNA testing links unsolved death of Utah teen in 1974 to serial killer Ted Bundy]]></title>
-<link>https://apnews.com/article/ted-bundy-cold-case-utah-teen-murder-eec0731fc0a912640cc3bb9cd3e3f268</link>
-<pubDate>Wed, 01 Apr 2026 21:17:14 -0000</pubDate>
+<title><![CDATA[Artemis II astronauts bound for moon after rocketing away on NASA’s first lunar voyage in decades]]></title>
+<link>https://apnews.com/article/nasa-artemis-moon-launch-055040ce0579ec238d0ec9fcb0278ed3</link>
+<pubDate>Wed, 01 Apr 2026 22:32:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
