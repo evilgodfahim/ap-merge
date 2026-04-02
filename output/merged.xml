@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 09:32:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 10:41:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
 <link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[AP Exclusive: Pakistan and Afghan Taliban officials meet in China for ceasefire talks]]></title>
+<link>https://apnews.com/article/china-host-talks-between-pakistan-afghanistan-ceasefire-207a599868bf4ba127c53b188e8e7769</link>
+<pubDate>Thu, 02 Apr 2026 10:41:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India has begun its long-delayed population census. Here’s why it matters]]></title>
 <link>https://apnews.com/article/india-population-census-3c7480e4eb294efcf56e9a85cd87a087</link>
 <pubDate>Wed, 01 Apr 2026 15:33:47 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Macron calls for ceasefire in Mideast during visit to Japan]]></title>
 <link>https://apnews.com/article/macron-takaichi-japan-france-iran-minerals-security-1447dc4946d795fe62c84eb616837b3a</link>
 <pubDate>Thu, 02 Apr 2026 05:24:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps]]></title>
-<link>https://apnews.com/article/rohingya-bangladesh-aid-ration-cuts-wfp-8349d38f8f8b21c96e70b5e805468fd1</link>
-<pubDate>Wed, 01 Apr 2026 08:45:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,15 +125,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about serial killer Ted Bundy and his rampage of violence]]></title>
-<link>https://apnews.com/article/ted-bundy-serial-killer-utah-dna-murders-20f8cfacdff5331a9e06fd2b0837abcd</link>
-<pubDate>Thu, 02 Apr 2026 00:14:56 -0000</pubDate>
+<title><![CDATA[Immigrants seeking asylum are ordered to countries they’ve never been to, but end up stuck in limbo]]></title>
+<link>https://apnews.com/article/trump-immigration-deportation-57084b48328548fbfda3355aa933913b</link>
+<pubDate>Thu, 02 Apr 2026 10:26:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New DNA testing confirms serial killer Ted Bundy killed a Utah teen in 1974]]></title>
-<link>https://apnews.com/article/ted-bundy-cold-case-utah-teen-murder-eec0731fc0a912640cc3bb9cd3e3f268</link>
-<pubDate>Thu, 02 Apr 2026 03:03:08 -0000</pubDate>
+<title><![CDATA[What to know about serial killer Ted Bundy and his rampage of violence]]></title>
+<link>https://apnews.com/article/ted-bundy-serial-killer-utah-dna-murders-20f8cfacdff5331a9e06fd2b0837abcd</link>
+<pubDate>Thu, 02 Apr 2026 00:14:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war disrupts US small businesses with shipping complications and higher costs]]></title>
-<link>https://apnews.com/article/iran-war-small-business-shipping-800b30598735bd60b92baa95114a28ee</link>
-<pubDate>Thu, 02 Apr 2026 09:32:23 -0000</pubDate>
+<title><![CDATA[Trump uses Iran war address to urge an increasingly skeptical electorate to give him a bit more time]]></title>
+<link>https://apnews.com/article/trump-iran-war-address-to-nation-patience-940c2cd13a8c45f9d6d35a4750b7b499</link>
+<pubDate>Thu, 02 Apr 2026 10:41:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Immigrants seeking asylum are ordered to countries they’ve never been to, but end up stuck in limbo]]></title>
-<link>https://apnews.com/article/trump-immigration-deportation-57084b48328548fbfda3355aa933913b</link>
-<pubDate>Thu, 02 Apr 2026 05:54:11 -0000</pubDate>
+<title><![CDATA[International groups warn of ‘spiral of violence’ against journalists in Serbia]]></title>
+<link>https://apnews.com/article/serbia-press-freedom-attacks-journalists-safety-vucic-4146ed936a110ae32a5d011e60941f7c</link>
+<pubDate>Thu, 02 Apr 2026 10:26:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran war disrupts US small businesses with shipping complications and higher costs]]></title>
+<link>https://apnews.com/article/iran-war-small-business-shipping-800b30598735bd60b92baa95114a28ee</link>
+<pubDate>Thu, 02 Apr 2026 09:32:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chile’s new President José Antonio Kast brings openly religious views to a changing country]]></title>
-<link>https://apnews.com/article/chile-jose-antonio-kast-schoenstatt-religion-conservative-abortion-lgbtq-c181a457c476a0d6993d0b77f47a2779</link>
-<pubDate>Wed, 01 Apr 2026 20:47:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran fires missiles at Israel and Gulf neighbors as Trump talks of winding down Mideast war]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-2-2026-c41dbdb8148d02ce6561ea6bd4aa0da1</link>
 <pubDate>Thu, 02 Apr 2026 08:05:29 -0000</pubDate>
@@ -395,9 +395,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[AP Exclusive: Pakistan and Afghan Taliban officials meet in China for ceasefire talks]]></title>
-<link>https://apnews.com/article/china-host-talks-between-pakistan-afghanistan-ceasefire-207a599868bf4ba127c53b188e8e7769</link>
-<pubDate>Wed, 01 Apr 2026 15:03:48 -0000</pubDate>
+<title><![CDATA[Pakistan says a new round of peace talks with Afghanistan is underway in China after deadly fighting]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-fe6135ac3b986a5362a0b951f66ec5c1</link>
+<pubDate>Thu, 02 Apr 2026 10:41:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -437,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil rises 6% and Asian stocks fall after Trump says US will hit Iran hard and ‘finish the job’]]></title>
+<title><![CDATA[Oil rises 7% and world shares fall after Trump says US will hit Iran hard and ‘finish the job’]]></title>
 <link>https://apnews.com/article/stock-markets-war-oil-trump-iran-6fc90a2e50b1252cde130fc3e0ce0da3</link>
-<pubDate>Thu, 02 Apr 2026 09:32:24 -0000</pubDate>
+<pubDate>Thu, 02 Apr 2026 10:26:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
