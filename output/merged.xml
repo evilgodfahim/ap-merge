@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 01:14:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 04:03:10 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
+<link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
+<pubDate>Thu, 02 Apr 2026 04:03:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump estimates US will be done in Iran in 2 to 3 weeks]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-03-31-2026</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rocket lifts off with four Artemis II astronauts on a mission to the moon and back]]></title>
-<link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
-<pubDate>Thu, 02 Apr 2026 01:14:56 -0000</pubDate>
+<title><![CDATA[Trump says US military objectives in Iran ‘nearing completion’]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-01-2026</link>
+<pubDate>Thu, 02 Apr 2026 03:48:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -23,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump addresses the nation on the US war effort in Iran]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-01-2026</link>
-<pubDate>Thu, 02 Apr 2026 00:59:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade]]></title>
-<link>https://apnews.com/article/cuba-trump-russia-oil-shipment-b6845987728e28d5d762992840ca6b69</link>
-<pubDate>Mon, 30 Mar 2026 11:52:07 -0000</pubDate>
+<title><![CDATA[Israeli parliament passes budget, allowing Netanyahu to avoid early elections]]></title>
+<link>https://apnews.com/article/israel-war-iran-budget-netanyahu-elections-bc75b11a9d1d833733c6f9e56a15aeda</link>
+<pubDate>Tue, 31 Mar 2026 17:46:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,21 +65,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil rises and Asian stocks fall after Trump says US will hit Iran hard and ‘finish the job’]]></title>
+<link>https://apnews.com/article/stock-markets-war-oil-trump-iran-6fc90a2e50b1252cde130fc3e0ce0da3</link>
+<pubDate>Thu, 02 Apr 2026 03:33:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India has begun its long-delayed population census. Here’s why it matters]]></title>
 <link>https://apnews.com/article/india-population-census-3c7480e4eb294efcf56e9a85cd87a087</link>
 <pubDate>Wed, 01 Apr 2026 15:33:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps]]></title>
-<link>https://apnews.com/article/rohingya-bangladesh-aid-ration-cuts-wfp-8349d38f8f8b21c96e70b5e805468fd1</link>
-<pubDate>Wed, 01 Apr 2026 08:45:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Chang Ung, North Korean ex-IOC member who brokered Olympic joint marches with South, dies]]></title>
-<link>https://apnews.com/article/north-korea-ioc-chang-olympic-marches-dies-1fb702fe2c85e8ca2f94649711430028</link>
-<pubDate>Wed, 01 Apr 2026 05:38:52 -0000</pubDate>
+<title><![CDATA[AI machine sorts clothes faster than humans to boost textile recycling in China]]></title>
+<link>https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4</link>
+<pubDate>Thu, 02 Apr 2026 03:18:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New DNA testing confirms serial killer Ted Bundy slayed a Utah teen in 1974]]></title>
+<title><![CDATA[New DNA testing confirms serial killer Ted Bundy killed a Utah teen in 1974]]></title>
 <link>https://apnews.com/article/ted-bundy-cold-case-utah-teen-murder-eec0731fc0a912640cc3bb9cd3e3f268</link>
-<pubDate>Wed, 01 Apr 2026 23:59:56 -0000</pubDate>
+<pubDate>Thu, 02 Apr 2026 03:03:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,15 +197,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II astronauts embark on historic NASA mission to the moon and back, in photos]]></title>
-<link>https://apnews.com/photo-gallery/artemis-ii-launch-photos-b87b2d017672b6dd323ccf9c224c4909</link>
-<pubDate>Thu, 02 Apr 2026 01:14:56 -0000</pubDate>
+<title><![CDATA[FACT FOCUS: False claims Trump made as he addressed the nation about Iran]]></title>
+<link>https://apnews.com/article/trump-iran-fact-focus-gas-prices-inflation-821374c3c249ad0abf471843ce8e9557</link>
+<pubDate>Thu, 02 Apr 2026 04:03:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Earthquake in northern Indonesian waters sets off small tsunami]]></title>
-<link>https://apnews.com/article/indonesia-earthquake-molucca-sea-3538e21d71cf82da4733747987f701cd</link>
-<pubDate>Thu, 02 Apr 2026 00:59:56 -0000</pubDate>
+<title><![CDATA[Read the complete transcript of Trump’s address to the nation]]></title>
+<link>https://apnews.com/article/donald-trump-transcript-address-iran-war-b5970011fe934dde84d95d650bda56a9</link>
+<pubDate>Thu, 02 Apr 2026 03:48:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Artemis II astronauts embark on historic NASA mission to the moon and back, in photos]]></title>
+<link>https://apnews.com/photo-gallery/artemis-ii-launch-photos-b87b2d017672b6dd323ccf9c224c4909</link>
+<pubDate>Thu, 02 Apr 2026 01:14:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,9 +251,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[FIFA appears to have technical difficulties with World Cup ticket sales]]></title>
+<title><![CDATA[FIFA raises top ticket price for World Cup final to $10,990 during glitch-hampered sales reopening]]></title>
 <link>https://apnews.com/article/world-cup-tickets-sale-e4bb8a9eb9aa285f55caa4b9405fb182</link>
-<pubDate>Wed, 01 Apr 2026 17:25:42 -0000</pubDate>
+<pubDate>Thu, 02 Apr 2026 03:33:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -272,6 +278,12 @@
 <title><![CDATA[A speech from a British monarch returns to Capitol Hill as US-UK tensions simmer]]></title>
 <link>https://apnews.com/article/king-charles-congress-address-3dcb5fd378c5acbd1c6ed21d63a8b768</link>
 <pubDate>Wed, 01 Apr 2026 15:18:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Macron calls for ceasefire in Mideast during visit to Japan]]></title>
+<link>https://apnews.com/article/macron-takaichi-japan-france-iran-minerals-security-1447dc4946d795fe62c84eb616837b3a</link>
+<pubDate>Thu, 02 Apr 2026 03:18:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,21 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Man charged after a car plowed into a crowd outside a British pub]]></title>
-<link>https://apnews.com/article/britain-pedestrians-struck-derby-car-charges-e32758cebc66b8aaaa10b3e53fba901f</link>
-<pubDate>Wed, 01 Apr 2026 14:09:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A fire and explosions at a military camp in Burundi kill 13 people and injure 57]]></title>
-<link>https://apnews.com/article/burundi-military-camp-fire-explosions-40c10cdbc733daa8a53cd657637263de</link>
-<pubDate>Wed, 01 Apr 2026 20:32:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump addresses nation on Iran war in first prime-time speech since launching strikes 4 weeks ago]]></title>
+<title><![CDATA[Trump says US forces will ‘finish the job’ soon in first prime-time speech since starting Iran war]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-1-2026-19cf516c2d2c614eb182dbad7a6592ef</link>
-<pubDate>Thu, 02 Apr 2026 01:14:57 -0000</pubDate>
+<pubDate>Thu, 02 Apr 2026 04:03:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,15 +401,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lost dog rescued by helicopter in New Zealand after strangers fund search]]></title>
-<link>https://apnews.com/video/hikers-dog-lost-in-a-wild-new-zealand-forest-rescued-by-helicopter-after-strangers-fund-search-90443b3d17a14bd3b018c3c3e8bb7e1c</link>
-<pubDate>Wed, 01 Apr 2026 14:48:48 -0000</pubDate>
+<title><![CDATA[State TV reports on Iran president asking Americans in letter if war is in their interest]]></title>
+<link>https://apnews.com/video/state-tv-reports-on-iran-president-asking-americans-in-letter-if-war-is-in-their-interest-f33ba1b48e75461cadeec23d553fcc22</link>
+<pubDate>Thu, 02 Apr 2026 03:48:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US strikes on Iran’s Isfahan send massive fireball into night sky]]></title>
-<link>https://apnews.com/video/us-strikes-on-isfahan-send-massive-fireball-into-night-sky-5fa329581c374cc2adee9b0cb2535d7a</link>
-<pubDate>Wed, 01 Apr 2026 14:33:48 -0000</pubDate>
+<title><![CDATA[Thousands mourn Revolutionary Guard navy commander in Tehran]]></title>
+<link>https://apnews.com/video/thousands-mourn-revolutionary-guard-navy-commander-in-tehran-6e2534812d3b4107a5c8b1e885790021</link>
+<pubDate>Thu, 02 Apr 2026 03:33:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -419,21 +419,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What to watch as Trump addresses the nation about the Iran war]]></title>
-<link>https://apnews.com/article/trump-address-iran-war-takeaways-3a232cc5ae76436433bc62118a32b415</link>
-<pubDate>Thu, 02 Apr 2026 00:44:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran remains a stubborn foe after absorbing massive US-Israeli attacks]]></title>
 <link>https://apnews.com/article/iran-israel-us-trump-pete-hegseth-centcom-airstrikes-missiles-drones-7b94d5de628bf8df2de6b728efff2285</link>
 <pubDate>Tue, 31 Mar 2026 15:43:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Reporter who was kidnapped in Baghdad was known for pursuing gutsy, low-budget assignments]]></title>
+<title><![CDATA[Securing Iran’s enriched uranium by force would be risky and complex, experts say]]></title>
+<link>https://apnews.com/article/iran-nuclear-uranium-enriched-trump-war-1fd6de24bd1e6c3a4945d58d3f777462</link>
+<pubDate>Wed, 01 Apr 2026 07:43:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Reporter who was kidnapped in Baghdad is known for pursuing gutsy, low-budget assignments]]></title>
 <link>https://apnews.com/article/iraq-kidnapped-journalist-baghdad-shelly-kittleson-3f3df27cb39ae304ecf49c81b7c44c80</link>
-<pubDate>Wed, 01 Apr 2026 17:40:43 -0000</pubDate>
+<pubDate>Thu, 02 Apr 2026 03:18:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,21 +479,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Macron calls for ceasefire in Mideast during visit to Japan]]></title>
-<link>https://apnews.com/article/macron-takaichi-japan-france-iran-minerals-security-1447dc4946d795fe62c84eb616837b3a</link>
-<pubDate>Wed, 01 Apr 2026 14:18:48 -0000</pubDate>
+<title><![CDATA[Earthquake in Indonesia kills at least 1 person and sets off small tsunami]]></title>
+<link>https://apnews.com/article/indonesia-earthquake-molucca-sea-3538e21d71cf82da4733747987f701cd</link>
+<pubDate>Thu, 02 Apr 2026 03:03:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Trump ally testifies in trial over secret Venezuela lobbying effort]]></title>
 <link>https://apnews.com/article/venezuela-trump-lobbying-rivera-delcy-wiles-rubio-c7b78a2696112621c4b375b7cadc4149</link>
 <pubDate>Wed, 01 Apr 2026 21:32:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say]]></title>
-<link>https://apnews.com/article/kharg-island-seize-ground-troops-oil-iran-4244166c19dd33689f8a59e96e1d7d5b</link>
-<pubDate>Tue, 31 Mar 2026 04:13:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
