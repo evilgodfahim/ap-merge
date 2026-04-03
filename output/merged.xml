@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 18:37:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 19:31:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
 <link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hegseth asks the Army’s top uniformed officer to step down, the Pentagon says]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-02-2026</link>
-<pubDate>Thu, 02 Apr 2026 23:25:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[1 crew member rescued, AP sources say]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
 <pubDate>Fri, 03 Apr 2026 17:56:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hegseth asks the Army’s top uniformed officer to step down, the Pentagon says]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-02-2026</link>
+<pubDate>Thu, 02 Apr 2026 23:25:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China says peace talks between Afghanistan and Pakistan are advancing]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-92f73bfacd2c6e68a4808ce8923b4645</link>
+<pubDate>Fri, 03 Apr 2026 19:31:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rubio accuses China of ‘bullying’ for holding up Panama-flagged ships after canal clash]]></title>
 <link>https://apnews.com/article/panama-china-united-states-ships-detained-b2bc0875404ff71f61b006c3be9e460e</link>
 <pubDate>Fri, 03 Apr 2026 06:55:56 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[Pakistanis face unprecedented fuel price rise of up to 54% as global oil price spikes]]></title>
 <link>https://apnews.com/article/pakistan-fuel-prices-increase-iran-war-d649ed3d36e603d57ed5a0e374858832</link>
 <pubDate>Fri, 03 Apr 2026 11:14:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
-<link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
-<pubDate>Fri, 03 Apr 2026 06:40:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Online cyberscam suspect arrested in Cambodia is extradited to China]]></title>
+<link>https://apnews.com/article/cambodia-china-scam-cybercrime-extradition-d3bb4f2cacda45204b35cfc8ac3d3681</link>
+<pubDate>Thu, 02 Apr 2026 22:25:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Passengers stranded in moving traffic after robotaxi outage in China’s Wuhan]]></title>
 <link>https://apnews.com/article/china-baidu-robotaxi-wuhan-ec3dcd026dfa1a19eb79467d5211f01d</link>
 <pubDate>Wed, 01 Apr 2026 09:46:57 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[Mamdani puts New York City government back on TikTok]]></title>
 <link>https://apnews.com/article/tiktok-nyc-mamdani-social-media-zohran-ab1d67463ef5ecf3e262a399646e47bd</link>
 <pubDate>Wed, 01 Apr 2026 12:22:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan deploys its first long-range missiles]]></title>
-<link>https://apnews.com/article/japan-china-taiwan-missile-longrange-40322ab51735b2ce17ce6f02d224d14f</link>
-<pubDate>Tue, 31 Mar 2026 07:13:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +176,12 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Wed, 25 Mar 2026 16:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[5.8 magnitude quake hits Afghanistan and Pakistan, killing 8 in Afghanistan]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-earthquake-7539c245309fc48c85f1348656affbde</link>
+<pubDate>Fri, 03 Apr 2026 19:31:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,15 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says a new round of peace talks with Afghanistan is underway in China]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-fe6135ac3b986a5362a0b951f66ec5c1</link>
-<pubDate>Fri, 03 Apr 2026 10:29:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[1 crew member rescued after US fighter jet shot down in Iran, AP sources say]]></title>
+<title><![CDATA[1 crew member rescued after US fighter jet shot down in Iran, officials tell AP]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668</link>
-<pubDate>Fri, 03 Apr 2026 17:56:30 -0000</pubDate>
+<pubDate>Fri, 03 Apr 2026 19:31:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China says peace talks between Afghanistan and Pakistan are advancing]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-92f73bfacd2c6e68a4808ce8923b4645</link>
-<pubDate>Fri, 03 Apr 2026 15:06:00 -0000</pubDate>
+<title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
+<link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
+<pubDate>Fri, 03 Apr 2026 19:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Online cyberscam suspect arrested in Cambodia is extradited to China]]></title>
-<link>https://apnews.com/article/cambodia-china-scam-cybercrime-extradition-d3bb4f2cacda45204b35cfc8ac3d3681</link>
-<pubDate>Wed, 01 Apr 2026 12:22:40 -0000</pubDate>
+<title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
+<link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
+<pubDate>Thu, 02 Apr 2026 06:58:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
