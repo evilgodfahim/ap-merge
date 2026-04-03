@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 23:54:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 01:17:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
 <link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
 <pubDate>Thu, 02 Apr 2026 04:03:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump estimates US will be done in Iran in 2 to 3 weeks]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-03-31-2026</link>
-<pubDate>Wed, 01 Apr 2026 04:24:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856</link>
+<pubDate>Thu, 02 Apr 2026 16:43:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US-Europe rift widens as Trump lashes out at NATO allies over Mideast war]]></title>
 <link>https://apnews.com/article/nato-trump-iran-israel-war-hormuz-eu-4674aca45519c441fc42beac482180bc</link>
 <pubDate>Wed, 01 Apr 2026 22:47:46 -0000</pubDate>
@@ -53,21 +53,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Danish warship sunk by Nelson’s British fleet discovered after 225 years]]></title>
-<link>https://apnews.com/article/denmark-archaeologists-warship-nelson-copenhagen-dannebroge-lynetteholm-4519533d9e774a490f6020e893634e09</link>
-<pubDate>Thu, 02 Apr 2026 06:43:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Judges say ICC prosecutor in sexual misconduct inquiry can potentially resume work, documents show]]></title>
 <link>https://apnews.com/article/icc-prosecutor-karim-khan-investigation-united-nations-4f01c8ce5259dc726a565ce9a7f0a37b</link>
 <pubDate>Thu, 02 Apr 2026 16:28:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says a new round of peace talks with Afghanistan is underway in China]]></title>
-<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-fe6135ac3b986a5362a0b951f66ec5c1</link>
-<pubDate>Thu, 02 Apr 2026 18:40:39 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV revives the Holy Thursday foot-washing of priests after Francis’s inclusive tradition]]></title>
+<link>https://apnews.com/article/pope-holy-thursday-washing-feet-leo-261952cb4d9eb65c6d171263cdc10d64</link>
+<pubDate>Fri, 03 Apr 2026 01:17:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,6 +74,12 @@
 <title><![CDATA[A judge rules against a Pennsylvania man’s deportation whose ‘80s murder conviction was dismissed]]></title>
 <link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-0bd9d1020fb60e23983d23111dc14e12</link>
 <pubDate>Thu, 02 Apr 2026 16:13:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Indonesia delays again deportation of Scottish crime boss to Spain]]></title>
+<link>https://apnews.com/article/indonesia-scotland-spain-lyons-crime-01a1837eae85cb4695bf154a3de86728</link>
+<pubDate>Thu, 02 Apr 2026 15:01:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[First group of 12 deportees from the US arrives in Uganda, lawyers say]]></title>
+<link>https://apnews.com/article/uganda-us-deportees-trump-transfer-immigration-crackdown-53425375eea5a5f93aa12106b77e0fd5</link>
+<pubDate>Thu, 02 Apr 2026 15:28:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[A rare school in Kenya is empowering teenage mothers with education and child care]]></title>
 <link>https://apnews.com/article/kenya-school-teenage-mothers-children-greenland-education-fd3a06465725de394e8248f4a126e68c</link>
 <pubDate>Thu, 02 Apr 2026 06:28:56 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[New funding transforms lives by expanding electricity access across Africa]]></title>
 <link>https://apnews.com/article/africa-electricity-access-world-bank-mission-300-a0ee6e21a12f8168b8a0e288db95acb3</link>
 <pubDate>Thu, 02 Apr 2026 09:32:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A hearing on extending Zimbabwe president’s term erupts in chaos]]></title>
-<link>https://apnews.com/article/zimbabwe-constitutional-amendment-presidential-term-extension-violence-d64b105289d952e288a8f5092f314202</link>
-<pubDate>Tue, 31 Mar 2026 17:31:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN set to vote on a watered-down proposal to open Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-strait-of-hormuz-un-vote-f2a2fafe3e1691b9f0be5e7d691a90d0</link>
+<pubDate>Fri, 03 Apr 2026 01:17:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/iran-us-israel-lebanon-iraq-no-kings-religion-energy-4c562cff0035784d8d5ad5f25819b1aa</link>
 <pubDate>Thu, 02 Apr 2026 23:25:26 -0000</pubDate>
@@ -239,12 +245,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV revives the Holy Thursday foot-washing of priests after Francis’s inclusive tradition]]></title>
-<link>https://apnews.com/article/pope-holy-thursday-washing-feet-leo-261952cb4d9eb65c6d171263cdc10d64</link>
-<pubDate>Thu, 02 Apr 2026 17:55:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran makes World Cup progress in talks with Infantino as war darkens June trip to US]]></title>
 <link>https://apnews.com/article/iran-world-cup-fifa-infantino-6e30afd95cc0db3213afdadd54d2b94b</link>
 <pubDate>Thu, 02 Apr 2026 15:31:36 -0000</pubDate>
@@ -257,15 +257,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II’s moonbound toilet is working again to astronauts’ relief after overnight fix]]></title>
+<title><![CDATA[Artemis II astronauts rocket toward the moon after spending a day around Earth]]></title>
 <link>https://apnews.com/article/nasa-artemis-astronauts-moon-6ef3f195b4d4f8abcbfa908cacea6da6</link>
-<pubDate>Thu, 02 Apr 2026 17:40:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia delays again deportation of Scottish crime boss to Spain]]></title>
-<link>https://apnews.com/article/indonesia-scotland-spain-lyons-crime-01a1837eae85cb4695bf154a3de86728</link>
-<pubDate>Thu, 02 Apr 2026 17:25:39 -0000</pubDate>
+<pubDate>Fri, 03 Apr 2026 01:02:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -308,6 +302,12 @@
 <title><![CDATA[Iran war disrupts US small businesses with shipping complications and higher costs]]></title>
 <link>https://apnews.com/article/iran-war-small-business-shipping-800b30598735bd60b92baa95114a28ee</link>
 <pubDate>Thu, 02 Apr 2026 09:32:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Danish warship sunk by Nelson’s British fleet discovered after 225 years]]></title>
+<link>https://apnews.com/article/denmark-archaeologists-warship-nelson-copenhagen-dannebroge-lynetteholm-4519533d9e774a490f6020e893634e09</link>
+<pubDate>Fri, 03 Apr 2026 00:47:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,39 +383,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856</link>
-<pubDate>Thu, 02 Apr 2026 16:43:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia plans to send second oil tanker to Cuba]]></title>
 <link>https://apnews.com/article/russia-cuba-oil-tanker-us-energy-blockade-cfbe8565b665fa99117b449112621dfd</link>
 <pubDate>Thu, 02 Apr 2026 18:40:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Machete-wielding man attacks Ugandan nursery school, killing 4 children]]></title>
-<link>https://apnews.com/article/uganda-machete-attack-nursery-school-kampala-children-58bc7c3bcd36184246400c6fa28e00d6</link>
-<pubDate>Thu, 02 Apr 2026 14:31:37 -0000</pubDate>
+<title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
+<link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
+<pubDate>Thu, 02 Apr 2026 06:58:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump tells countries that rely on oil from Strait of Hormuz ‘they must grab it and cherish it’]]></title>
+<link>https://apnews.com/video/trump-tells-countries-that-rely-on-oil-from-strait-of-hormuz-they-must-grab-it-and-cherish-it-354279b4b4564c7aa1cbc4159b7cc1e5</link>
+<pubDate>Fri, 03 Apr 2026 01:17:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[State TV reports on Iran president asking Americans in letter if war is in their interest]]></title>
 <link>https://apnews.com/video/state-tv-reports-on-iran-president-asking-americans-in-letter-if-war-is-in-their-interest-f33ba1b48e75461cadeec23d553fcc22</link>
 <pubDate>Thu, 02 Apr 2026 03:48:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands mourn Revolutionary Guard navy commander in Tehran]]></title>
-<link>https://apnews.com/video/thousands-mourn-revolutionary-guard-navy-commander-in-tehran-6e2534812d3b4107a5c8b1e885790021</link>
-<pubDate>Thu, 02 Apr 2026 03:33:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hegseth puts allies on notice over Iran: Might want to learn ‘how to fight for yourself’]]></title>
-<link>https://apnews.com/video/hegseth-puts-allies-on-notice-over-iran-might-want-to-learn-how-to-fight-for-yourself-bb40b35de44848e681baf12da2671e35</link>
-<pubDate>Wed, 01 Apr 2026 01:24:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
-<link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
-<pubDate>Thu, 02 Apr 2026 06:58:57 -0000</pubDate>
+<title><![CDATA[Pakistan says a new round of peace talks with Afghanistan is underway in China]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-fe6135ac3b986a5362a0b951f66ec5c1</link>
+<pubDate>Fri, 03 Apr 2026 01:02:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -485,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[First group of 12 deportees from the US arrives in Uganda, lawyers say]]></title>
-<link>https://apnews.com/article/uganda-us-deportees-trump-transfer-immigration-crackdown-53425375eea5a5f93aa12106b77e0fd5</link>
-<pubDate>Thu, 02 Apr 2026 18:10:40 -0000</pubDate>
+<title><![CDATA[Machete-wielding man attacks Ugandan nursery school, killing 4 children]]></title>
+<link>https://apnews.com/article/uganda-machete-attack-nursery-school-kampala-children-58bc7c3bcd36184246400c6fa28e00d6</link>
+<pubDate>Thu, 02 Apr 2026 14:31:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
