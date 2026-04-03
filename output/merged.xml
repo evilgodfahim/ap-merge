@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 04:04:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 05:54:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
 <link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump lashes out at allies, says securing the Strait of Hormuz is ‘not for us’]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-31-2026-07fcd5216ceae44965de79a60a4623da</link>
-<pubDate>Wed, 01 Apr 2026 01:09:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Hegseth asks the Army’s top uniformed officer to step down, the Pentagon says]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-02-2026</link>
 <pubDate>Thu, 02 Apr 2026 23:25:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump lashes out at allies, says securing the Strait of Hormuz is ‘not for us’]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-march-31-2026-07fcd5216ceae44965de79a60a4623da</link>
+<pubDate>Wed, 01 Apr 2026 01:09:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil prices surge while Asian share prices rise moderately]]></title>
+<link>https://apnews.com/article/financial-markets-oil-prices-iran-trump-cbf38b67032e2fae95073f4fbcc0ca24</link>
+<pubDate>Fri, 03 Apr 2026 05:54:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan says a new round of peace talks with Afghanistan is underway in China]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-fe6135ac3b986a5362a0b951f66ec5c1</link>
 <pubDate>Thu, 02 Apr 2026 18:40:39 -0000</pubDate>
@@ -77,27 +83,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A judge rules against a Pennsylvania man’s deportation whose ‘80s murder conviction was dismissed]]></title>
-<link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-0bd9d1020fb60e23983d23111dc14e12</link>
-<pubDate>Thu, 02 Apr 2026 16:13:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia plans to send second oil tanker to Cuba]]></title>
 <link>https://apnews.com/article/russia-cuba-oil-tanker-us-energy-blockade-cfbe8565b665fa99117b449112621dfd</link>
 <pubDate>Fri, 03 Apr 2026 04:04:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Focus returns to the Falkland Islands on the April 2 anniversary of 1982 war, in photos]]></title>
-<link>https://apnews.com/photo-gallery/falklands-malvinas-britain-war-argentina-anniversary-islands-73c3686f232b2abfb809fd3ef4a0d1a9</link>
-<pubDate>Thu, 02 Apr 2026 15:43:44 -0000</pubDate>
+<title><![CDATA[Christians mark Holy Week in the region and other top photos from Latin America and the Caribbean]]></title>
+<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-bae5c6ee90e47f93738a55dd68097131</link>
+<pubDate>Fri, 03 Apr 2026 05:39:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump ally testifies in trial over secret Venezuela lobbying effort]]></title>
-<link>https://apnews.com/article/venezuela-trump-lobbying-rivera-delcy-wiles-rubio-c7b78a2696112621c4b375b7cadc4149</link>
-<pubDate>Thu, 02 Apr 2026 14:46:35 -0000</pubDate>
+<title><![CDATA[Focus returns to the Falkland Islands on the April 2 anniversary of 1982 war, in photos]]></title>
+<link>https://apnews.com/photo-gallery/falklands-malvinas-britain-war-argentina-anniversary-islands-73c3686f232b2abfb809fd3ef4a0d1a9</link>
+<pubDate>Thu, 02 Apr 2026 15:43:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -245,6 +245,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A judge rules against a Pennsylvania man’s deportation whose ‘80s murder conviction was dismissed]]></title>
+<link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-0bd9d1020fb60e23983d23111dc14e12</link>
+<pubDate>Fri, 03 Apr 2026 05:54:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran makes World Cup progress in talks with Infantino as war darkens June trip to US]]></title>
 <link>https://apnews.com/article/iran-world-cup-fifa-infantino-6e30afd95cc0db3213afdadd54d2b94b</link>
 <pubDate>Thu, 02 Apr 2026 15:31:36 -0000</pubDate>
@@ -311,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[No sign of war winding down in Mideast as Friday dawns with attacks across region]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-2-2026-c41dbdb8148d02ce6561ea6bd4aa0da1</link>
+<pubDate>Fri, 03 Apr 2026 05:39:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Danish warship sunk by Nelson’s British fleet discovered after 225 years]]></title>
 <link>https://apnews.com/article/denmark-archaeologists-warship-nelson-copenhagen-dannebroge-lynetteholm-4519533d9e774a490f6020e893634e09</link>
 <pubDate>Fri, 03 Apr 2026 00:47:19 -0000</pubDate>
@@ -365,21 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[First foreign troop in new gang suppression force lands in Haiti to replace previous mission]]></title>
-<link>https://apnews.com/article/haiti-chad-troops-arrive-gang-suppression-force-un-b54c208ac3e5704655430cb7aeddfb3d</link>
-<pubDate>Thu, 02 Apr 2026 05:24:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Putin warns Armenia it can’t be both a member of EU and Russia-led economic bloc]]></title>
-<link>https://apnews.com/article/russia-armenia-putin-pashinyan-642f4d5863ab584e0dc1e9a894c8cd0b</link>
-<pubDate>Wed, 01 Apr 2026 19:50:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[No sign of war winding down in Mideast as Friday dawns with attacks across region]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-2-2026-c41dbdb8148d02ce6561ea6bd4aa0da1</link>
-<pubDate>Fri, 03 Apr 2026 04:04:18 -0000</pubDate>
+<title><![CDATA[Iran fires on targets across Mideast while Israel and US hit Tehran as war shows no signs of slowing]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668</link>
+<pubDate>Fri, 03 Apr 2026 05:54:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -413,12 +413,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from Trump’s address: No end date for Iran war and few details on strategy ahead]]></title>
-<link>https://apnews.com/article/trump-address-iran-war-takeaways-3a232cc5ae76436433bc62118a32b415</link>
-<pubDate>Thu, 02 Apr 2026 06:43:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Operation to tow damaged Russian tanker off Libya fails due to weather]]></title>
 <link>https://apnews.com/article/libya-tanker-russia-tow-operation-46489e01bbf0c9f5ab639c05fec446c8</link>
 <pubDate>Thu, 02 Apr 2026 15:31:37 -0000</pubDate>
@@ -428,6 +422,12 @@
 <title><![CDATA[War crimes complaint filed in France over a deadly Israeli strike in Beirut]]></title>
 <link>https://apnews.com/article/war-crimes-israel-beirut-ali-cherri-04a38418dc5cda4c9abd20b8698f10a2</link>
 <pubDate>Thu, 02 Apr 2026 15:16:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Takeaways from Trump’s address: No end date for Iran war and few details on strategy ahead]]></title>
+<link>https://apnews.com/article/trump-address-iran-war-takeaways-3a232cc5ae76436433bc62118a32b415</link>
+<pubDate>Thu, 02 Apr 2026 06:43:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
