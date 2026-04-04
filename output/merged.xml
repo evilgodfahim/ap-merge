@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 11:20:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 11:49:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -35,15 +35,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War crimes complaint filed in France over a deadly Israeli strike in Beirut]]></title>
+<link>https://apnews.com/article/war-crimes-israel-beirut-ali-cherri-04a38418dc5cda4c9abd20b8698f10a2</link>
+<pubDate>Sat, 04 Apr 2026 11:49:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
+<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
+<pubDate>Sat, 04 Apr 2026 11:34:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
 <link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
 <pubDate>Sat, 04 Apr 2026 05:16:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Exclusive: Orbán challenger Magyar says election is a ‘referendum’ on Hungary’s place in the world]]></title>
-<link>https://apnews.com/article/orban-hungary-opponent-magyar-election-eu-russia-5ce359a2bf065484669454b722237ea1</link>
-<pubDate>Fri, 03 Apr 2026 13:09:39 -0000</pubDate>
+<title><![CDATA[European ministers call for profit caps on energy companies as Iran war drives price surge]]></title>
+<link>https://apnews.com/article/europe-iran-energy-war-inflation-85b036564fe87a205bc96e743cb22e83</link>
+<pubDate>Sat, 04 Apr 2026 11:19:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar’s parliament elects ruling general as president, keeping the army in charge]]></title>
+<link>https://apnews.com/article/myanmar-president-min-aung-hlaing-military-c263b2d6175b82c5868e24496c975ff8</link>
+<pubDate>Sat, 04 Apr 2026 11:04:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,15 +71,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Collapse of Tokyo’s aging cherry blossom trees during viewing season raises safety concerns]]></title>
-<link>https://apnews.com/article/japan-cherry-blossom-trees-falling-8214651be7d0f5a42748008bbb55f7fa</link>
-<pubDate>Sat, 04 Apr 2026 05:01:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio accuses China of ‘bullying’ for holding up Panama-flagged ships after canal clash]]></title>
-<link>https://apnews.com/article/panama-china-united-states-ships-detained-b2bc0875404ff71f61b006c3be9e460e</link>
-<pubDate>Fri, 03 Apr 2026 06:55:56 -0000</pubDate>
+<title><![CDATA[China’s Communist Party investigates ex-Xinjiang leader Ma Xingrui]]></title>
+<link>https://apnews.com/article/china-party-chief-ma-xingrui-xinjiang-investigation-fd5b0b312c7c059e1935c5f9dda0fd60</link>
+<pubDate>Sat, 04 Apr 2026 10:49:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,12 +95,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says]]></title>
-<link>https://apnews.com/article/sudan-hospital-doctors-attack-drone-strike-army-rapid-support-forces-8b4a43addd4acb65176b72686b7f4958</link>
-<pubDate>Sat, 04 Apr 2026 10:33:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Machete-wielding man attacks Ugandan nursery school, killing 4 children]]></title>
 <link>https://apnews.com/article/uganda-machete-attack-nursery-school-kampala-children-58bc7c3bcd36184246400c6fa28e00d6</link>
 <pubDate>Fri, 03 Apr 2026 10:59:40 -0000</pubDate>
@@ -104,6 +110,12 @@
 <title><![CDATA[A rare school in Kenya is empowering teenage mothers with education and child care]]></title>
 <link>https://apnews.com/article/kenya-school-teenage-mothers-children-greenland-education-fd3a06465725de394e8248f4a126e68c</link>
 <pubDate>Thu, 02 Apr 2026 06:28:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths]]></title>
+<link>https://apnews.com/article/mpox-disease-health-congo-africa-outbreak-f1219ae63e5675aa74d1202e21b9035b</link>
+<pubDate>Thu, 02 Apr 2026 15:13:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +143,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rubio accuses China of ‘bullying’ for holding up Panama-flagged ships after canal clash]]></title>
+<link>https://apnews.com/article/panama-china-united-states-ships-detained-b2bc0875404ff71f61b006c3be9e460e</link>
+<pubDate>Fri, 03 Apr 2026 06:55:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
 <link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
 <pubDate>Fri, 03 Apr 2026 06:40:56 -0000</pubDate>
@@ -146,12 +164,6 @@
 <title><![CDATA[Passengers stranded in moving traffic after robotaxi outage in China’s Wuhan]]></title>
 <link>https://apnews.com/article/china-baidu-robotaxi-wuhan-ec3dcd026dfa1a19eb79467d5211f01d</link>
 <pubDate>Wed, 01 Apr 2026 09:46:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AP Exclusive: Pakistan and Afghan Taliban officials meet in China for ceasefire talks]]></title>
-<link>https://apnews.com/article/china-host-talks-between-pakistan-afghanistan-ceasefire-207a599868bf4ba127c53b188e8e7769</link>
-<pubDate>Thu, 02 Apr 2026 10:41:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -176,6 +188,12 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Wed, 25 Mar 2026 16:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[One dead and dozens injured at Peru soccer stadium during fan rally]]></title>
+<link>https://apnews.com/article/peru-deaths-fans-stadium-crush-collapse-lima-98e580fbb578492a383895b31959b05f</link>
+<pubDate>Sat, 04 Apr 2026 11:49:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -227,9 +245,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Communist Party investigates ex-Xinjiang leader Ma Xingrui]]></title>
-<link>https://apnews.com/article/china-party-chief-ma-xingrui-xinjiang-investigation-fd5b0b312c7c059e1935c5f9dda0fd60</link>
-<pubDate>Fri, 03 Apr 2026 13:09:39 -0000</pubDate>
+<title><![CDATA[Exclusive: Orbán challenger Magyar says election is a ‘referendum’ on Hungary’s place in the world]]></title>
+<link>https://apnews.com/article/orban-hungary-opponent-magyar-election-eu-russia-5ce359a2bf065484669454b722237ea1</link>
+<pubDate>Sat, 04 Apr 2026 11:34:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -317,12 +335,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths]]></title>
-<link>https://apnews.com/article/mpox-disease-health-congo-africa-outbreak-f1219ae63e5675aa74d1202e21b9035b</link>
-<pubDate>Sat, 04 Apr 2026 10:03:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A judge rules against a Pennsylvania man’s deportation whose ‘80s murder conviction was dismissed]]></title>
 <link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-0bd9d1020fb60e23983d23111dc14e12</link>
 <pubDate>Fri, 03 Apr 2026 05:54:13 -0000</pubDate>
@@ -365,21 +377,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
-<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
-<pubDate>Sat, 04 Apr 2026 10:33:15 -0000</pubDate>
+<title><![CDATA[Russian strikes on Ukraine kill 5 people and wound 30 more]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-zelenskyy-4412a8422c255bc9a616c1963354537a</link>
+<pubDate>Sat, 04 Apr 2026 11:49:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Gulf kingdom of Bahrain cracks down on dissent as Iran war reignites internal unrest]]></title>
-<link>https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985</link>
-<pubDate>Fri, 03 Apr 2026 09:42:36 -0000</pubDate>
+<title><![CDATA[‘Wow!’ The eye surgery marathon that restored sight for some South Africans]]></title>
+<link>https://apnews.com/article/south-africa-health-eye-operation-marathon-cataracts-ec23ca9393113a7cafd823166200a1b7</link>
+<pubDate>Sat, 04 Apr 2026 08:50:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-displaced-attacks-shiite-christian-fe533bddfbdc8fa0e0ce892a241bbf69</link>
-<pubDate>Fri, 03 Apr 2026 06:55:57 -0000</pubDate>
+<title><![CDATA[Death toll from Afghan quake rises, including 8 members of refugee family returned from Iran]]></title>
+<link>https://apnews.com/article/afghanistan-earthquake-refugees-iran-b66c1e2677d6d561f2faf285ee2998db</link>
+<pubDate>Sat, 04 Apr 2026 11:34:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +407,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-displaced-attacks-shiite-christian-fe533bddfbdc8fa0e0ce892a241bbf69</link>
+<pubDate>Fri, 03 Apr 2026 06:55:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraq’s oil hub slows to a crawl as Strait of Hormuz shutdown strangles exports]]></title>
+<link>https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70</link>
+<pubDate>Sat, 04 Apr 2026 11:19:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Leading Iranian human rights lawyer detained in Tehran, daughter says]]></title>
 <link>https://apnews.com/article/iran-lawyer-detained-nasrin-sotoudeh-5a47e9229eb27702cd04ee83224c10ca</link>
 <pubDate>Thu, 02 Apr 2026 18:25:40 -0000</pubDate>
@@ -404,12 +428,6 @@
 <title><![CDATA[Operation to tow damaged Russian tanker off Libya fails due to weather]]></title>
 <link>https://apnews.com/article/libya-tanker-russia-tow-operation-46489e01bbf0c9f5ab639c05fec446c8</link>
 <pubDate>Thu, 02 Apr 2026 15:31:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War crimes complaint filed in France over a deadly Israeli strike in Beirut]]></title>
-<link>https://apnews.com/article/war-crimes-israel-beirut-ali-cherri-04a38418dc5cda4c9abd20b8698f10a2</link>
-<pubDate>Thu, 02 Apr 2026 15:16:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -443,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar’s parliament elects ruling general as president, keeping the army in charge]]></title>
-<link>https://apnews.com/article/myanmar-president-min-aung-hlaing-military-c263b2d6175b82c5868e24496c975ff8</link>
-<pubDate>Fri, 03 Apr 2026 06:40:57 -0000</pubDate>
+<title><![CDATA[Collapse of Tokyo’s aging cherry blossom trees during viewing season raises safety concerns]]></title>
+<link>https://apnews.com/article/japan-cherry-blossom-trees-falling-8214651be7d0f5a42748008bbb55f7fa</link>
+<pubDate>Sat, 04 Apr 2026 11:04:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +473,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Wow!’ The eye surgery marathon that restored sight for some South Africans]]></title>
-<link>https://apnews.com/article/south-africa-health-eye-operation-marathon-cataracts-ec23ca9393113a7cafd823166200a1b7</link>
-<pubDate>Sat, 04 Apr 2026 08:50:32 -0000</pubDate>
+<title><![CDATA[Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says]]></title>
+<link>https://apnews.com/article/sudan-hospital-doctors-attack-drone-strike-army-rapid-support-forces-8b4a43addd4acb65176b72686b7f4958</link>
+<pubDate>Fri, 03 Apr 2026 10:59:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
