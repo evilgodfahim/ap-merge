@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 21:52:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 22:17:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856</link>
-<pubDate>Thu, 02 Apr 2026 16:43:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b</link>
 <pubDate>Sat, 04 Apr 2026 19:50:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856</link>
+<pubDate>Thu, 02 Apr 2026 16:43:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Meloni hails arrest of top crime family suspect after raid at an Italian resort]]></title>
-<link>https://apnews.com/article/italy-fugitive-organized-crime-meloni-00eb8594028eff6e255d40931186fc61</link>
-<pubDate>Sat, 04 Apr 2026 20:53:39 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war]]></title>
+<link>https://apnews.com/article/vatican-pope-leo-easter-vigil-e9956423cd796c1dbdbb42efcbf31983</link>
+<pubDate>Sat, 04 Apr 2026 22:17:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -119,9 +119,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record]]></title>
+<title><![CDATA[Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13’s record]]></title>
 <link>https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13</link>
-<pubDate>Sat, 04 Apr 2026 16:22:27 -0000</pubDate>
+<pubDate>Sat, 04 Apr 2026 22:02:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Wed, 25 Mar 2026 16:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Meloni hails arrest of top crime family suspect after raid at an Italian resort]]></title>
+<link>https://apnews.com/article/italy-fugitive-organized-crime-meloni-00eb8594028eff6e255d40931186fc61</link>
+<pubDate>Sat, 04 Apr 2026 22:17:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths]]></title>
 <link>https://apnews.com/article/mpox-disease-health-congo-africa-outbreak-f1219ae63e5675aa74d1202e21b9035b</link>
 <pubDate>Sat, 04 Apr 2026 10:03:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A judge rules against a Pennsylvania man’s deportation whose ‘80s murder conviction was dismissed]]></title>
-<link>https://apnews.com/article/exoneration-india-pennsylvania-murder-deportation-0bd9d1020fb60e23983d23111dc14e12</link>
-<pubDate>Fri, 03 Apr 2026 05:54:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
