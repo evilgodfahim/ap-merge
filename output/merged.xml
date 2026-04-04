@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 15:51:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 16:22:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -119,6 +119,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record]]></title>
+<link>https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13</link>
+<pubDate>Sat, 04 Apr 2026 16:22:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Springs Fire in southern California reaches 45% containment as evacuations continue]]></title>
+<link>https://apnews.com/article/california-wildfire-riverside-county-evacuations-65de5a349d71a3ae08dd8df29ad0cd32</link>
+<pubDate>Sat, 04 Apr 2026 16:07:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As Trump orders UFO data released, a question hangs: If aliens exist, what would they think of us?]]></title>
 <link>https://apnews.com/article/extraterrestrials-ufo-uap-trump-obama-files-708d44143b6fdec9a85464655ca9d78d</link>
 <pubDate>Sat, 04 Apr 2026 04:46:57 -0000</pubDate>
@@ -128,18 +140,6 @@
 <title><![CDATA[Georgia lawmakers end annual session without settling conflict on voting machines]]></title>
 <link>https://apnews.com/article/georgia-voting-machines-5e3102cf591d28dd8c71c31feb1a6c07</link>
 <pubDate>Sat, 04 Apr 2026 04:31:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Iran war leaves Republicans adrift ahead of midterms]]></title>
-<link>https://apnews.com/article/trump-midterms-republicans-costs-iran-democrats-642b5f8fd79c980521c89afa86c4f249</link>
-<pubDate>Fri, 03 Apr 2026 14:50:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tennessee eases up on its unique child support rule for restoring voting rights after a felony]]></title>
-<link>https://apnews.com/article/tennessee-voting-rights-child-support-e44ad04d1187928b0658c44a6f81b6a5</link>
-<pubDate>Fri, 03 Apr 2026 17:26:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,9 +215,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US military aircraft hit in Iran war are first shot down by enemy fire in over 20 years]]></title>
+<title><![CDATA[US military jets hit in Iran war are the first shot down by enemy fire in over 20 years]]></title>
 <link>https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71</link>
-<pubDate>Sat, 04 Apr 2026 05:16:58 -0000</pubDate>
+<pubDate>Sat, 04 Apr 2026 16:22:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Floods, landslides triggered by heavy rain in Afghanistan leave 77 dead in 10 days, authorities say]]></title>
-<link>https://apnews.com/article/afghanistan-extreme-weather-flood-landslide-rain-storm-750d2cc1d9b4905a41e03c1cefbc1cf0</link>
-<pubDate>Sat, 04 Apr 2026 13:29:16 -0000</pubDate>
+<title><![CDATA[Death toll from Afghan quake rises, including 8 members of refugee family returned from Iran]]></title>
+<link>https://apnews.com/article/afghanistan-earthquake-refugees-iran-b66c1e2677d6d561f2faf285ee2998db</link>
+<pubDate>Sat, 04 Apr 2026 11:34:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from Afghan quake rises, including 8 members of refugee family returned from Iran]]></title>
-<link>https://apnews.com/article/afghanistan-earthquake-refugees-iran-b66c1e2677d6d561f2faf285ee2998db</link>
-<pubDate>Sat, 04 Apr 2026 11:34:25 -0000</pubDate>
+<title><![CDATA[Floods, landslides triggered by heavy rain in Afghanistan leave 77 dead in 10 days, authorities say]]></title>
+<link>https://apnews.com/article/afghanistan-extreme-weather-flood-landslide-rain-storm-750d2cc1d9b4905a41e03c1cefbc1cf0</link>
+<pubDate>Sat, 04 Apr 2026 13:29:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record]]></title>
-<link>https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13</link>
-<pubDate>Sat, 04 Apr 2026 14:41:19 -0000</pubDate>
+<title><![CDATA[Judge halts Trump effort requiring colleges to show they aren’t considering race in admissions]]></title>
+<link>https://apnews.com/article/trump-administration-lawsuit-higher-education-race-8b3a50026922cc78d9ca3d7c52b93acb</link>
+<pubDate>Sat, 04 Apr 2026 16:22:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
