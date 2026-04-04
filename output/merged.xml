@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 08:28:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 09:05:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
 <pubDate>Fri, 03 Apr 2026 22:21:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Highlights: Artemis II astronauts reach orbit<b> </b>on historic mission to the moon]]></title>
-<link>https://apnews.com/live/artemis-ii-launch-nasa-moon-rocket</link>
-<pubDate>Thu, 02 Apr 2026 04:03:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French and South Korean leaders say they’ll work together on the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/south-korea-france-lee-macron-trump-iran-3b0c39d11cdc7e23b98dc0f8dbe0f491</link>
+<pubDate>Fri, 03 Apr 2026 11:29:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Exclusive: Orbán challenger Magyar says election is a ‘referendum’ on Hungary’s place in the world]]></title>
 <link>https://apnews.com/article/orban-hungary-opponent-magyar-election-eu-russia-5ce359a2bf065484669454b722237ea1</link>
 <pubDate>Fri, 03 Apr 2026 13:09:39 -0000</pubDate>
@@ -44,12 +44,6 @@
 <title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
 <link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
 <pubDate>Sat, 04 Apr 2026 05:16:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French and South Korean leaders say they’ll work together on the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/south-korea-france-lee-macron-trump-iran-3b0c39d11cdc7e23b98dc0f8dbe0f491</link>
-<pubDate>Fri, 03 Apr 2026 11:29:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Good Friday across Latin America brings faith into the streets]]></title>
+<link>https://apnews.com/article/latin-america-holy-week-124d0106f1b3e586854aa824b328046e</link>
+<pubDate>Sat, 04 Apr 2026 09:05:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of freed prisoners reuniting with families outside a Cuban prison]]></title>
 <link>https://apnews.com/photo-gallery/cuba-prisoners-released-havana-prisons-65fb049a2bbbfdb48b1584b42808ef23</link>
 <pubDate>Fri, 03 Apr 2026 20:44:11 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[Cuba releasing 2,010 prisoners as the US pressures the island’s government]]></title>
 <link>https://apnews.com/article/cuba-pardons-holy-week-oil-blackouts-203c1b81aed59e81d252b29d27ad6654</link>
 <pubDate>Fri, 03 Apr 2026 20:29:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat]]></title>
-<link>https://apnews.com/article/fbi-cuba-boat-shooting-killed-83a090d8b3206491fabbab25c385bab4</link>
-<pubDate>Fri, 03 Apr 2026 12:54:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +317,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat]]></title>
+<link>https://apnews.com/article/fbi-cuba-boat-shooting-killed-83a090d8b3206491fabbab25c385bab4</link>
+<pubDate>Sat, 04 Apr 2026 09:05:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia plans to send second oil tanker to Cuba]]></title>
 <link>https://apnews.com/article/russia-cuba-oil-tanker-us-energy-blockade-cfbe8565b665fa99117b449112621dfd</link>
 <pubDate>Fri, 03 Apr 2026 20:14:12 -0000</pubDate>
@@ -359,9 +359,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German artist sentenced by Russian court for carnival display mocking Putin]]></title>
-<link>https://apnews.com/article/russia-putin-sentence-germany-artist-carnival-tilly-3e19041e40bd81093419da3418cb7a63</link>
-<pubDate>Thu, 02 Apr 2026 15:01:36 -0000</pubDate>
+<title><![CDATA[US presses search for a missing serviceman as Iran calls on public to find ‘enemy pilot’]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b</link>
+<pubDate>Sat, 04 Apr 2026 09:05:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
-<link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
-<pubDate>Fri, 03 Apr 2026 19:16:19 -0000</pubDate>
+<title><![CDATA[‘Wow!’ The eye surgery marathon that restored sight for some South Africans]]></title>
+<link>https://apnews.com/article/south-africa-health-eye-operation-marathon-cataracts-ec23ca9393113a7cafd823166200a1b7</link>
+<pubDate>Sat, 04 Apr 2026 08:50:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Good Friday across Latin America brings faith into the streets]]></title>
-<link>https://apnews.com/article/latin-america-holy-week-124d0106f1b3e586854aa824b328046e</link>
-<pubDate>Fri, 03 Apr 2026 20:44:13 -0000</pubDate>
+<title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
+<link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
+<pubDate>Fri, 03 Apr 2026 19:16:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
