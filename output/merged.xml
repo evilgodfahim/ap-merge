@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 05:56:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 06:58:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -101,6 +101,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cameroon lawmakers revive vice presidency, handing aging president sweeping control over the post]]></title>
+<link>https://apnews.com/article/cameroon-paul-biya-constitution-vice-president-e61d6da634274a01e6f8d468470d406f</link>
+<pubDate>Sun, 05 Apr 2026 06:58:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says]]></title>
 <link>https://apnews.com/article/sudan-hospital-doctors-attack-drone-strike-army-rapid-support-forces-8b4a43addd4acb65176b72686b7f4958</link>
 <pubDate>Sat, 04 Apr 2026 10:33:13 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[First group of 12 deportees from the US arrives in Uganda, lawyers say]]></title>
 <link>https://apnews.com/article/uganda-us-deportees-trump-transfer-immigration-crackdown-53425375eea5a5f93aa12106b77e0fd5</link>
 <pubDate>Thu, 02 Apr 2026 15:28:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[A rare school in Kenya is empowering teenage mothers with education and child care]]></title>
-<link>https://apnews.com/article/kenya-school-teenage-mothers-children-greenland-education-fd3a06465725de394e8248f4a126e68c</link>
-<pubDate>Thu, 02 Apr 2026 06:28:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US service member missing after Iran shot down fighter jet has been rescued]]></title>
+<title><![CDATA[A fire has broken out at a petrochemicals plant in the UAE following an attack]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
-<pubDate>Sun, 05 Apr 2026 05:56:54 -0000</pubDate>
+<pubDate>Sun, 05 Apr 2026 06:58:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
