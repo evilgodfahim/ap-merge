@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 15:32:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 16:24:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
 <pubDate>Fri, 03 Apr 2026 22:21:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump issues fiery new threat against Iran as details of US aviator’s rescue emerge]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
+<pubDate>Sun, 05 Apr 2026 14:59:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,12 +35,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump issues fiery new threat against Iran as details of US aviator’s rescue emerge]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
-<pubDate>Sun, 05 Apr 2026 14:59:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iraq’s oil hub slows to a crawl as Strait of Hormuz shutdown strangles exports]]></title>
 <link>https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70</link>
 <pubDate>Sun, 05 Apr 2026 13:30:19 -0000</pubDate>
@@ -47,21 +47,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem and Tehran]]></title>
+<title><![CDATA[Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem, Gaza and Tehran]]></title>
 <link>https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130</link>
-<pubDate>Sun, 05 Apr 2026 13:15:19 -0000</pubDate>
+<pubDate>Sun, 05 Apr 2026 16:24:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[3 killed as high winds topple a tree on an Easter egg hunt in Germany]]></title>
+<link>https://apnews.com/article/easter-egg-tree-germany-tragedy-0e958d0c36d9a3b513698361035c6751</link>
+<pubDate>Sun, 05 Apr 2026 16:09:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[English choirs seek to protect a musical tradition little changed since Queen Elizabeth I]]></title>
 <link>https://apnews.com/article/england-choral-music-evensong-cultural-heritage-cathedrals-36c2232d5653e9aa70f27b7be1729740</link>
 <pubDate>Sun, 05 Apr 2026 04:12:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sweden releases sanctioned tanker due to lack of evidence it caused oil spill]]></title>
-<link>https://apnews.com/article/sweden-sanctioned-oil-tanker-released-a4ab5aecbc464bc4b18ec024a70ab5cf</link>
-<pubDate>Sun, 05 Apr 2026 11:14:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,21 +197,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pressure mounts on Kanye West to be pulled from his headline role at a summer festival in London]]></title>
+<link>https://apnews.com/article/kanye-west-ye-festival-london-antisemitism-2cce850c45020e7e6f11f177ddeedcf3</link>
+<pubDate>Sun, 05 Apr 2026 16:24:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Photos show Christians celebrating Easter around the world]]></title>
 <link>https://apnews.com/photo-gallery/easter-christians-photos-bf98b73b047c6c24d8bfa6b28b39c1e8</link>
 <pubDate>Sun, 05 Apr 2026 14:59:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[3 killed as high winds topple a tree on an Easter egg hunt in Germany]]></title>
-<link>https://apnews.com/article/easter-egg-tree-germany-tragedy-0e958d0c36d9a3b513698361035c6751</link>
-<pubDate>Sun, 05 Apr 2026 14:44:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show Pope Leo’s first Easter Mass as pontiff]]></title>
 <link>https://apnews.com/photo-gallery/pope-easter-vatican-photos-e1c5f4dc872492c3945029c2b8f25f44</link>
 <pubDate>Sun, 05 Apr 2026 11:29:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sweden releases sanctioned tanker due to lack of evidence it caused oil spill]]></title>
+<link>https://apnews.com/article/sweden-sanctioned-oil-tanker-released-a4ab5aecbc464bc4b18ec024a70ab5cf</link>
+<pubDate>Sun, 05 Apr 2026 16:09:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -368,12 +374,6 @@
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/iran-us-israel-lebanon-iraq-no-kings-religion-energy-4c562cff0035784d8d5ad5f25819b1aa</link>
 <pubDate>Thu, 02 Apr 2026 23:25:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man arrested after threatening an attack on a high-speed train in Germany]]></title>
-<link>https://apnews.com/article/germany-attack-threat-train-siegburg-arrest-0855b6e7968b1589a72eb4c4f7e3e320</link>
-<pubDate>Thu, 02 Apr 2026 22:21:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
