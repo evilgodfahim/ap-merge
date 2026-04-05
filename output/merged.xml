@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 01:20:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 04:12:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668</link>
-<pubDate>Fri, 03 Apr 2026 23:30:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b</link>
 <pubDate>Sat, 04 Apr 2026 19:50:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668</link>
+<pubDate>Fri, 03 Apr 2026 23:30:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,15 +47,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
-<link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
-<pubDate>Sat, 04 Apr 2026 05:16:57 -0000</pubDate>
+<title><![CDATA[English choirs seek to protect a musical tradition little changed since Queen Elizabeth I]]></title>
+<link>https://apnews.com/article/england-choral-music-evensong-cultural-heritage-cathedrals-36c2232d5653e9aa70f27b7be1729740</link>
+<pubDate>Sun, 05 Apr 2026 04:12:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war]]></title>
-<link>https://apnews.com/article/vatican-pope-leo-easter-vigil-e9956423cd796c1dbdbb42efcbf31983</link>
-<pubDate>Sat, 04 Apr 2026 22:17:35 -0000</pubDate>
+<title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
+<link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
+<pubDate>Sat, 04 Apr 2026 05:16:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Wed, 25 Mar 2026 16:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war]]></title>
+<link>https://apnews.com/article/vatican-pope-leo-easter-vigil-e9956423cd796c1dbdbb42efcbf31983</link>
+<pubDate>Sun, 05 Apr 2026 04:12:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -362,12 +368,6 @@
 <title><![CDATA[Pope Leo XIV revives the Holy Thursday foot-washing of priests after Francis’s inclusive tradition]]></title>
 <link>https://apnews.com/article/pope-holy-thursday-washing-feet-leo-261952cb4d9eb65c6d171263cdc10d64</link>
 <pubDate>Thu, 02 Apr 2026 17:55:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths]]></title>
-<link>https://apnews.com/article/mpox-disease-health-congo-africa-outbreak-f1219ae63e5675aa74d1202e21b9035b</link>
-<pubDate>Sat, 04 Apr 2026 10:03:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
