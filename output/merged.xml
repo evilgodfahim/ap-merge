@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 12:32:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 13:45:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French and South Korean leaders say they’ll work together on the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/south-korea-france-lee-macron-trump-iran-3b0c39d11cdc7e23b98dc0f8dbe0f491</link>
-<pubDate>Fri, 03 Apr 2026 11:29:40 -0000</pubDate>
+<title><![CDATA[US aviator rescued as Trump vows strikes on Iran’s infrastructure if Strait of Hormuz isn’t reopened]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
+<pubDate>Sun, 05 Apr 2026 13:45:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iraq’s oil hub slows to a crawl as Strait of Hormuz shutdown strangles exports]]></title>
+<link>https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70</link>
+<pubDate>Sun, 05 Apr 2026 13:30:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Leading Iranian human rights lawyer detained in Tehran, daughter says]]></title>
-<link>https://apnews.com/article/iran-lawyer-detained-nasrin-sotoudeh-5a47e9229eb27702cd04ee83224c10ca</link>
-<pubDate>Sun, 05 Apr 2026 05:56:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV urges peace in first Easter Mass, skips naming conflicts in Urbi et Orbi]]></title>
+<title><![CDATA[Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem and Tehran]]></title>
 <link>https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130</link>
-<pubDate>Sun, 05 Apr 2026 12:32:14 -0000</pubDate>
+<pubDate>Sun, 05 Apr 2026 13:15:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Senegal limits foreign trips for officials as the fallout from Iran war deepens]]></title>
-<link>https://apnews.com/article/senegal-iran-war-energy-trips-6b9e3c0ec206475fe40b230c3958d8d9</link>
-<pubDate>Sun, 05 Apr 2026 12:17:14 -0000</pubDate>
+<title><![CDATA[‘Wow!’ The eye surgery marathon that restored sight for some South Africans]]></title>
+<link>https://apnews.com/article/south-africa-health-eye-operation-marathon-cataracts-ec23ca9393113a7cafd823166200a1b7</link>
+<pubDate>Sun, 05 Apr 2026 13:00:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cameroon lawmakers revive vice presidency, handing aging president sweeping control over the post]]></title>
-<link>https://apnews.com/article/cameroon-paul-biya-constitution-vice-president-e61d6da634274a01e6f8d468470d406f</link>
-<pubDate>Sun, 05 Apr 2026 06:58:08 -0000</pubDate>
+<title><![CDATA[Senegal limits foreign trips for officials as the fallout from Iran war deepens]]></title>
+<link>https://apnews.com/article/senegal-iran-war-energy-trips-6b9e3c0ec206475fe40b230c3958d8d9</link>
+<pubDate>Sun, 05 Apr 2026 12:17:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As Trump orders UFO data released, a question hangs: If aliens exist, what would they think of us?]]></title>
-<link>https://apnews.com/article/extraterrestrials-ufo-uap-trump-obama-files-708d44143b6fdec9a85464655ca9d78d</link>
-<pubDate>Sat, 04 Apr 2026 04:46:57 -0000</pubDate>
+<title><![CDATA[Screenwriters union and Hollywood studios reach four-year tentative agreement]]></title>
+<link>https://apnews.com/article/writers-guild-contract-818c7e857b5372a3d655a804a01e6c8f</link>
+<pubDate>Sun, 05 Apr 2026 12:45:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +323,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French and South Korean leaders say they’ll work together on the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/south-korea-france-lee-macron-trump-iran-3b0c39d11cdc7e23b98dc0f8dbe0f491</link>
+<pubDate>Sat, 04 Apr 2026 19:50:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Myanmar’s parliament elects ruling general as president, keeping the army in charge]]></title>
 <link>https://apnews.com/article/myanmar-president-min-aung-hlaing-military-c263b2d6175b82c5868e24496c975ff8</link>
 <pubDate>Sun, 05 Apr 2026 05:56:53 -0000</pubDate>
@@ -371,24 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How we came to be: Scientists get first look at the evolution of early complex animals]]></title>
-<link>https://apnews.com/article/fossil-animals-evolution-science-china-bizarre-a56a123cbad480e2c35f2356181d32d7</link>
-<pubDate>Thu, 02 Apr 2026 18:40:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump vows strikes on Iran’s power plants and bridges if Strait of Hormuz isn’t reopened]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
-<pubDate>Sun, 05 Apr 2026 12:32:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
-<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
-<pubDate>Sat, 04 Apr 2026 10:33:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP]]></title>
 <link>https://apnews.com/article/zelenskyy-russia-ukraine-iran-patriot-missiles-584e73848c0ca1008824c399b8026487</link>
 <pubDate>Sun, 05 Apr 2026 05:41:54 -0000</pubDate>
@@ -401,9 +389,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Congo to receive third-country deportees from the US under new deal]]></title>
+<link>https://apnews.com/article/congo-us-deportees-migration-trump-3b677c9a8a32db153151aae01af8b207</link>
+<pubDate>Sun, 05 Apr 2026 13:15:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump tells countries that rely on oil from Strait of Hormuz ‘they must grab it and cherish it’]]></title>
 <link>https://apnews.com/video/trump-tells-countries-that-rely-on-oil-from-strait-of-hormuz-they-must-grab-it-and-cherish-it-354279b4b4564c7aa1cbc4159b7cc1e5</link>
 <pubDate>Fri, 03 Apr 2026 01:17:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
+<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
+<pubDate>Sat, 04 Apr 2026 10:33:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -422,12 +422,6 @@
 <title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-displaced-attacks-shiite-christian-fe533bddfbdc8fa0e0ce892a241bbf69</link>
 <pubDate>Fri, 03 Apr 2026 06:55:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq’s oil hub slows to a crawl as Strait of Hormuz shutdown strangles exports]]></title>
-<link>https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70</link>
-<pubDate>Sat, 04 Apr 2026 11:19:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +467,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Wow!’ The eye surgery marathon that restored sight for some South Africans]]></title>
-<link>https://apnews.com/article/south-africa-health-eye-operation-marathon-cataracts-ec23ca9393113a7cafd823166200a1b7</link>
-<pubDate>Sat, 04 Apr 2026 08:50:32 -0000</pubDate>
+<title><![CDATA[Leading Iranian human rights lawyer detained in Tehran, daughter says]]></title>
+<link>https://apnews.com/article/iran-lawyer-detained-nasrin-sotoudeh-5a47e9229eb27702cd04ee83224c10ca</link>
+<pubDate>Thu, 02 Apr 2026 18:25:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cameroon lawmakers revive vice presidency, handing aging president sweeping control over the post]]></title>
+<link>https://apnews.com/article/cameroon-paul-biya-constitution-vice-president-e61d6da634274a01e6f8d468470d406f</link>
+<pubDate>Sun, 05 Apr 2026 13:00:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
