@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 16:04:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 17:10:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran]]></title>
-<link>https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe</link>
-<pubDate>Mon, 06 Apr 2026 08:07:32 -0000</pubDate>
+<title><![CDATA[Iran rejects latest ceasefire proposal, calling instead for permanent end to the war]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-06-2026</link>
+<pubDate>Mon, 06 Apr 2026 17:10:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump’s go-it-alone certainty confronts the uncertainties of war]]></title>
+<link>https://apnews.com/article/trump-iran-war-go-it-alone-approach-c5f6cba859417ad1a6997b422a6f9d43</link>
+<pubDate>Mon, 06 Apr 2026 16:55:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
+<link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
+<pubDate>Mon, 06 Apr 2026 16:40:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Good Friday across Latin America brings faith into the streets]]></title>
 <link>https://apnews.com/article/latin-america-holy-week-124d0106f1b3e586854aa824b328046e</link>
 <pubDate>Sat, 04 Apr 2026 09:05:31 -0000</pubDate>
@@ -80,12 +92,6 @@
 <title><![CDATA[Photos of freed prisoners reuniting with families outside a Cuban prison]]></title>
 <link>https://apnews.com/photo-gallery/cuba-prisoners-released-havana-prisons-65fb049a2bbbfdb48b1584b42808ef23</link>
 <pubDate>Fri, 03 Apr 2026 20:44:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba releasing 2,010 prisoners as the US pressures the island’s government]]></title>
-<link>https://apnews.com/article/cuba-pardons-holy-week-oil-blackouts-203c1b81aed59e81d252b29d27ad6654</link>
-<pubDate>Fri, 03 Apr 2026 20:29:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran state media say Tehran rejects latest ceasefire proposal and wants permanent end to the war]]></title>
+<title><![CDATA[Iran rejects latest ceasefire proposal as Trump’s deadline approaches]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5</link>
-<pubDate>Mon, 06 Apr 2026 15:09:39 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 17:10:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -389,6 +395,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran]]></title>
+<link>https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe</link>
+<pubDate>Sun, 05 Apr 2026 20:19:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Displaced by war, Lebanon’s Christians mark Easter far from their homes and churches]]></title>
+<link>https://apnews.com/article/lebanon-christians-easter-hezbollah-israel-war-936e2d8636610149ef1700f6fccdd7c4</link>
+<pubDate>Mon, 06 Apr 2026 05:43:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
 <link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
 <pubDate>Sun, 05 Apr 2026 05:26:54 -0000</pubDate>
@@ -398,18 +416,6 @@
 <title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
 <link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
 <pubDate>Sat, 04 Apr 2026 10:33:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s go-it-alone certainty confronts the uncertainties of war]]></title>
-<link>https://apnews.com/article/trump-iran-war-go-it-alone-approach-c5f6cba859417ad1a6997b422a6f9d43</link>
-<pubDate>Sun, 05 Apr 2026 08:16:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gulf kingdom of Bahrain cracks down on dissent as Iran war reignites internal unrest]]></title>
-<link>https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985</link>
-<pubDate>Fri, 03 Apr 2026 09:42:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -431,9 +437,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tailors and dressmakers retire their pincushions as US demand for skilled sewers grows]]></title>
+<title><![CDATA[Tailors age out of the workforce even as demand for their skills grows]]></title>
 <link>https://apnews.com/article/tailors-alterations-skilled-trades-shortage-aging-199faf6ecfc3f30b324e9b778a2000c6</link>
-<pubDate>Mon, 06 Apr 2026 05:28:23 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 16:55:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -449,9 +455,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
-<link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
-<pubDate>Fri, 03 Apr 2026 19:16:19 -0000</pubDate>
+<title><![CDATA[2 US lawmakers visiting Cuba denounce island’s ‘economic bombing’ under energy blockade]]></title>
+<link>https://apnews.com/article/cuba-us-congress-jayapal-jackson-92db6e9bfebfb70f3c0b29a42a40c8fa</link>
+<pubDate>Mon, 06 Apr 2026 16:40:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
