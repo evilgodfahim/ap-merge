@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 18:08:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 19:33:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
 <pubDate>Mon, 06 Apr 2026 04:20:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump says he’s ‘not at all’ concerned about war crimes as he threatens Iran’s civilian infrastructure]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-06-2026</link>
+<pubDate>Mon, 06 Apr 2026 19:33:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b</link>
 <pubDate>Sat, 04 Apr 2026 19:50:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran rejects latest ceasefire proposal, calling instead for permanent end to the war]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-06-2026</link>
-<pubDate>Mon, 06 Apr 2026 17:10:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela’s Delcy Rodríguez remains acting president after her initial 90-day appointment expired]]></title>
+<link>https://apnews.com/article/venezuela-maduro-acting-president-delcy-rodriguez-trump-f33d6fe7407305b513940dfa4f69136c</link>
+<pubDate>Mon, 06 Apr 2026 19:18:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[As freed prisoners celebrate in Cuba, human rights groups demand clarity and release of protesters]]></title>
 <link>https://apnews.com/article/cuba-prisoners-released-havana-prisons-843f4cceab3786c064919af0a5250947</link>
 <pubDate>Mon, 06 Apr 2026 16:40:36 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Good Friday across Latin America brings faith into the streets]]></title>
 <link>https://apnews.com/article/latin-america-holy-week-124d0106f1b3e586854aa824b328046e</link>
 <pubDate>Sat, 04 Apr 2026 09:05:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of freed prisoners reuniting with families outside a Cuban prison]]></title>
-<link>https://apnews.com/photo-gallery/cuba-prisoners-released-havana-prisons-65fb049a2bbbfdb48b1584b42808ef23</link>
-<pubDate>Fri, 03 Apr 2026 20:44:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -188,6 +188,12 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Mon, 06 Apr 2026 10:31:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The year in review: Influential people who have died in 2026]]></title>
+<link>https://apnews.com/article/deaths-this-year-2026-31a6aa330392d182c0bdfd16b6eaf314</link>
+<pubDate>Mon, 06 Apr 2026 19:33:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -359,15 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[5.8 magnitude quake hits Afghanistan and Pakistan, killing 8 in Afghanistan]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-earthquake-7539c245309fc48c85f1348656affbde</link>
-<pubDate>Fri, 03 Apr 2026 19:31:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[United Airlines raises bag fees amid rising fuel costs and introduces tiered premium fares]]></title>
-<link>https://apnews.com/article/united-bag-fees-prices-40ad812a15f1cc8aeb981763db72745b</link>
-<pubDate>Sat, 04 Apr 2026 01:11:16 -0000</pubDate>
+<title><![CDATA[Photos of freed prisoners reuniting with families outside a Cuban prison]]></title>
+<link>https://apnews.com/photo-gallery/cuba-prisoners-released-havana-prisons-65fb049a2bbbfdb48b1584b42808ef23</link>
+<pubDate>Mon, 06 Apr 2026 19:18:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II astronauts race to set a new distance record from Earth and behold the moon’s far side]]></title>
+<title><![CDATA[Artemis II kicks off trip around the moon after surpassing Apollo 13’s distance record]]></title>
 <link>https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4</link>
-<pubDate>Mon, 06 Apr 2026 10:31:09 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 19:33:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
