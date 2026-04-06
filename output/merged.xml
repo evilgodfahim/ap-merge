@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 23:01:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 23:55:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Live updates: Trump brushes off war crime concerns as he repeats threat to Iran’s infrastructure]]></title>
+<title><![CDATA[Trump brushes off war crime concerns as he repeats threat to Iran’s infrastructure]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-06-2026</link>
-<pubDate>Mon, 06 Apr 2026 22:25:36 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 23:55:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
-<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
-<pubDate>Sat, 04 Apr 2026 11:34:23 -0000</pubDate>
+<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
+<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
+<pubDate>Sun, 05 Apr 2026 08:31:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -353,6 +353,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
+<link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
+<pubDate>Mon, 06 Apr 2026 23:55:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dutch police probe a small blast outside a pro-Israel Christian center]]></title>
 <link>https://apnews.com/article/israel-explosion-netherlands-christian-center-9b6dea38aa5beb251bc4ebbb31f21eb5</link>
 <pubDate>Sat, 04 Apr 2026 10:18:14 -0000</pubDate>
@@ -362,12 +368,6 @@
 <title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
 <link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
 <pubDate>Sun, 05 Apr 2026 10:02:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US military jets hit in Iran war are the first shot down by enemy fire in over 20 years]]></title>
-<link>https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71</link>
-<pubDate>Sat, 04 Apr 2026 16:22:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s threatened destruction of Iran’s power plants could be considered a war crime, experts say]]></title>
+<link>https://apnews.com/article/trump-iran-power-plants-civilian-war-crimes-88b8ca1bc8e5cc8adabaf6c34e93e597</link>
+<pubDate>Mon, 06 Apr 2026 23:55:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The South Pars natural gas complex is an energy lifeline for Iran]]></title>
 <link>https://apnews.com/article/south-pars-natural-gas-field-iran-29e03d9dd5e31c5ea10d2bdc87d68257</link>
 <pubDate>Mon, 06 Apr 2026 20:46:46 -0000</pubDate>
@@ -410,12 +416,6 @@
 <title><![CDATA[Displaced by war, Lebanon’s Christians mark Easter far from their homes and churches]]></title>
 <link>https://apnews.com/article/lebanon-christians-easter-hezbollah-israel-war-936e2d8636610149ef1700f6fccdd7c4</link>
 <pubDate>Mon, 06 Apr 2026 05:43:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
-<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
-<pubDate>Sun, 05 Apr 2026 05:26:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II kicks off trip around the moon after surpassing Apollo 13’s distance record]]></title>
+<title><![CDATA[Artemis II sails through trip around the moon after surpassing Apollo 13’s distance record]]></title>
 <link>https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4</link>
-<pubDate>Mon, 06 Apr 2026 19:33:18 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 23:40:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
