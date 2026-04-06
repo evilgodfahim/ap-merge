@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 01:20:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 04:20:33 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Trump issues a fiery, expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
+<title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
-<pubDate>Mon, 06 Apr 2026 01:20:32 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 04:20:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crude oil prices jump in early trading after Trump threats]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-05-2026</link>
+<pubDate>Mon, 06 Apr 2026 01:05:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,21 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crude oil prices jump in early trading after Trump threats]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-05-2026</link>
-<pubDate>Mon, 06 Apr 2026 01:05:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iraq’s oil hub slows to a crawl as Strait of Hormuz shutdown strangles exports]]></title>
-<link>https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70</link>
-<pubDate>Sun, 05 Apr 2026 13:30:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
-<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
-<pubDate>Sun, 05 Apr 2026 08:31:36 -0000</pubDate>
+<title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-displaced-attacks-shiite-christian-fe533bddfbdc8fa0e0ce892a241bbf69</link>
+<pubDate>Mon, 06 Apr 2026 04:05:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -194,6 +188,18 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Wed, 25 Mar 2026 16:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-april-6-2026-0ce864790d89533daf6169ab559aaf95</link>
+<pubDate>Mon, 06 Apr 2026 04:20:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares mostly gain while oil prices keep rising]]></title>
+<link>https://apnews.com/article/stock-markets-trump-oil-war-iran-148682a5d853dbdb16aaf08e554b001b</link>
+<pubDate>Mon, 06 Apr 2026 04:05:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,15 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Christians mark Holy Week in the region and other top photos from Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-bae5c6ee90e47f93738a55dd68097131</link>
-<pubDate>Fri, 03 Apr 2026 20:29:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street closed for Good Friday, but US futures inch lower following strong March jobs report]]></title>
-<link>https://apnews.com/article/financial-markets-oil-prices-iran-trump-cbf38b67032e2fae95073f4fbcc0ca24</link>
-<pubDate>Fri, 03 Apr 2026 14:50:59 -0000</pubDate>
+<title><![CDATA[After Gaza devastation, Israeli attacks on Lebanon’s health care system feel familiar for many]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-gaza-palestinians-hospital-attacks-2324ed88a4d95513093d427167335c6e</link>
+<pubDate>Mon, 06 Apr 2026 04:05:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -395,6 +395,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
+<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
+<pubDate>Sun, 05 Apr 2026 05:26:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Outspoken Iranians overseas say their loved ones are being detained back home]]></title>
 <link>https://apnews.com/article/iran-crackdown-dissidents-activists-opposition-war-exile-0cd818d9a5e66ada07f834c27e5f0065</link>
 <pubDate>Sat, 04 Apr 2026 10:33:15 -0000</pubDate>
@@ -410,12 +416,6 @@
 <title><![CDATA[Gulf kingdom of Bahrain cracks down on dissent as Iran war reignites internal unrest]]></title>
 <link>https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985</link>
 <pubDate>Fri, 03 Apr 2026 09:42:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-displaced-attacks-shiite-christian-fe533bddfbdc8fa0e0ce892a241bbf69</link>
-<pubDate>Fri, 03 Apr 2026 06:55:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
