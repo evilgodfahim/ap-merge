@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 23:54:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 01:20:33 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Live updates: A-10 aircraft hit by Iran’s air defenses, second US aircraft to go down in Middle East]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-03-2026</link>
-<pubDate>Fri, 03 Apr 2026 22:21:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump issues fiery new threat to strike Iran’s infrastructure if Strait of Hormuz isn’t reopened]]></title>
+<title><![CDATA[Trump issues a fiery, expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
-<pubDate>Sun, 05 Apr 2026 19:08:32 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 01:20:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -32,6 +26,12 @@
 <title><![CDATA[2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668</link>
 <pubDate>Fri, 03 Apr 2026 23:30:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crude oil prices jump in early trading after Trump threats]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-05-2026</link>
+<pubDate>Mon, 06 Apr 2026 01:05:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Step aside, children: A Chilean zoo stages an Easter egg hunt with treats for the animals]]></title>
+<link>https://apnews.com/article/chile-zoo-bioparque-buinzoo-easter-egg-hunt-bb683e12fdea19b096b9c6c03cccf29d</link>
+<pubDate>Mon, 06 Apr 2026 01:20:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pressure mounts on Ye to be pulled from his headline role at a summer festival in London]]></title>
 <link>https://apnews.com/article/kanye-west-ye-festival-london-antisemitism-2cce850c45020e7e6f11f177ddeedcf3</link>
 <pubDate>Sun, 05 Apr 2026 19:08:33 -0000</pubDate>
@@ -206,6 +212,12 @@
 <title><![CDATA[Photos show Christians celebrating Easter around the world]]></title>
 <link>https://apnews.com/photo-gallery/easter-christians-photos-bf98b73b047c6c24d8bfa6b28b39c1e8</link>
 <pubDate>Sun, 05 Apr 2026 14:59:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Eulogy for the CIA Factbook: The free standard for world facts, long an educational staple, is gone]]></title>
+<link>https://apnews.com/article/cia-factbook-world-trump-map-reference-manual-749b7577c2c8f1c2adae6888ea9dee06</link>
+<pubDate>Mon, 06 Apr 2026 01:05:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bahrain waters down UN proposal over opposition to allowing force to open Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-strait-of-hormuz-un-vote-f2a2fafe3e1691b9f0be5e7d691a90d0</link>
-<pubDate>Fri, 03 Apr 2026 04:04:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/iran-us-israel-lebanon-iraq-no-kings-religion-energy-4c562cff0035784d8d5ad5f25819b1aa</link>
-<pubDate>Thu, 02 Apr 2026 23:25:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran]]></title>
 <link>https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe</link>
 <pubDate>Sun, 05 Apr 2026 20:19:52 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Eulogy for the CIA Factbook: The free standard for world facts, long an educational staple, is gone]]></title>
-<link>https://apnews.com/article/cia-factbook-world-trump-map-reference-manual-749b7577c2c8f1c2adae6888ea9dee06</link>
-<pubDate>Sun, 05 Apr 2026 12:02:15 -0000</pubDate>
+<title><![CDATA[From digging coal to selling noodles? China’s mining workers face change]]></title>
+<link>https://apnews.com/article/climate-china-renewable-energy-coal-transition-datong-616404d9c7f4dbc09d3544adaf379709</link>
+<pubDate>Mon, 06 Apr 2026 01:05:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
