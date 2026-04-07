@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 23:55:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 01:20:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
-<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
-<pubDate>Sun, 05 Apr 2026 08:31:36 -0000</pubDate>
+<title><![CDATA[A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran]]></title>
+<link>https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe</link>
+<pubDate>Mon, 06 Apr 2026 08:07:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,12 +143,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s Communist Party investigates ex-Xinjiang leader Ma Xingrui]]></title>
-<link>https://apnews.com/article/china-party-chief-ma-xingrui-xinjiang-investigation-fd5b0b312c7c059e1935c5f9dda0fd60</link>
-<pubDate>Sat, 04 Apr 2026 10:49:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[China says peace talks between Afghanistan and Pakistan are advancing]]></title>
 <link>https://apnews.com/article/pakistan-afghanistan-china-talks-fighting-urumqi-92f73bfacd2c6e68a4808ce8923b4645</link>
 <pubDate>Fri, 03 Apr 2026 19:31:18 -0000</pubDate>
@@ -164,6 +158,12 @@
 <title><![CDATA[New Zealand and Cook Islands sign a defense pact, easing tensions over a China deal]]></title>
 <link>https://apnews.com/article/cook-islands-new-zealand-china-security-deal-a48cfa5347704092dd0a2a5dd73a4f1e</link>
 <pubDate>Fri, 03 Apr 2026 06:40:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[AI machine sorts clothes faster than humans to boost textile recycling in China]]></title>
+<link>https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4</link>
+<pubDate>Thu, 02 Apr 2026 03:18:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -287,6 +287,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Displaced by war, Lebanon’s Christians mark Easter far from their homes and churches]]></title>
+<link>https://apnews.com/article/lebanon-christians-easter-hezbollah-israel-war-936e2d8636610149ef1700f6fccdd7c4</link>
+<pubDate>Tue, 07 Apr 2026 01:20:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[English choirs seek to protect a musical tradition little changed since Queen Elizabeth I]]></title>
 <link>https://apnews.com/article/england-choral-music-evensong-cultural-heritage-cathedrals-36c2232d5653e9aa70f27b7be1729740</link>
 <pubDate>Mon, 06 Apr 2026 05:58:22 -0000</pubDate>
@@ -365,12 +371,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Women take pride in Holy Week roles after a Spanish Catholic brotherhood’s procession excluded them]]></title>
-<link>https://apnews.com/article/holy-week-spain-easter-procession-gender-equality-f66ab358bffc4a3aceb071b0495747ad</link>
-<pubDate>Sun, 05 Apr 2026 10:02:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump widens threat to all of Iran’s power plants and bridges as his deadline for a deal approaches]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5</link>
 <pubDate>Mon, 06 Apr 2026 21:01:46 -0000</pubDate>
@@ -395,9 +395,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump insists Iranians want the US to ‘keep bombing’]]></title>
+<link>https://apnews.com/video/trump-insists-iranians-want-the-us-to-keep-bombing-dcdda9b4c8594f7a94acf7fde3e8350d</link>
+<pubDate>Tue, 07 Apr 2026 01:20:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli authorities respond in three cities after latest Iranian missile attacks]]></title>
+<link>https://apnews.com/video/israeli-authorities-respond-in-three-cities-after-latest-iranian-missile-attacks-1af16e88370046859f713ea93d99d263</link>
+<pubDate>Tue, 07 Apr 2026 01:05:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s threatened destruction of Iran’s power plants could be considered a war crime, experts say]]></title>
 <link>https://apnews.com/article/trump-iran-power-plants-civilian-war-crimes-88b8ca1bc8e5cc8adabaf6c34e93e597</link>
 <pubDate>Mon, 06 Apr 2026 23:55:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[China aims to show global leadership with Iran war diplomacy. US appears uninterested]]></title>
+<link>https://apnews.com/article/china-pakistan-iran-war-diplomacy-5032adf869db373558775db0e030f18c</link>
+<pubDate>Sat, 04 Apr 2026 01:11:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,15 +425,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran]]></title>
-<link>https://apnews.com/article/iran-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe</link>
-<pubDate>Sun, 05 Apr 2026 20:19:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Displaced by war, Lebanon’s Christians mark Easter far from their homes and churches]]></title>
-<link>https://apnews.com/article/lebanon-christians-easter-hezbollah-israel-war-936e2d8636610149ef1700f6fccdd7c4</link>
-<pubDate>Mon, 06 Apr 2026 05:43:23 -0000</pubDate>
+<title><![CDATA[Aid groups warn Iran war is hindering food and medicine from reaching millions]]></title>
+<link>https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b</link>
+<pubDate>Sun, 05 Apr 2026 05:26:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -473,9 +485,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China aims to show global leadership with Iran war diplomacy. US appears uninterested]]></title>
-<link>https://apnews.com/article/china-pakistan-iran-war-diplomacy-5032adf869db373558775db0e030f18c</link>
-<pubDate>Sat, 04 Apr 2026 01:11:16 -0000</pubDate>
+<title><![CDATA[China’s Communist Party investigates ex-Xinjiang leader Ma Xingrui]]></title>
+<link>https://apnews.com/article/china-party-chief-ma-xingrui-xinjiang-investigation-fd5b0b312c7c059e1935c5f9dda0fd60</link>
+<pubDate>Tue, 07 Apr 2026 00:50:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
