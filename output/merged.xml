@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 05:59:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 07:21:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian attacks kill 4 as Ukraine drones target oil infrastructure]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-odesa-drones-oil-e455aee8c725ef624bf23ddf1542c523</link>
+<pubDate>Tue, 07 Apr 2026 07:21:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hungary’s Orbán has long annoyed the European Union. Now some hope he faces defeat]]></title>
 <link>https://apnews.com/article/hungary-orban-eu-elections-reforms-brussels-budapest-69868c03330a50c679050bf585cdf92e</link>
 <pubDate>Mon, 06 Apr 2026 09:45:12 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem, Gaza and Tehran]]></title>
 <link>https://apnews.com/article/vatican-pope-easter-urbi-et-orbi-611de44cf58ffa153f00ae1145ad3130</link>
 <pubDate>Sun, 05 Apr 2026 16:24:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[After harsh winter, Ukrainians find joy in releasing bats rescued from war]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-bats-spring-kyiv-810fc1d18dfee2db1a1e34ba2f17f136</link>
-<pubDate>Mon, 06 Apr 2026 05:43:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -365,9 +365,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran urges youths to protect power plants and Saudi Arabia closes bridge as Trump’s deadline nears]]></title>
+<title><![CDATA[Iran calls for human chains around power plants as Trump’s deadline nears]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f</link>
-<pubDate>Tue, 07 Apr 2026 05:59:53 -0000</pubDate>
+<pubDate>Tue, 07 Apr 2026 07:21:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks kill 4 as Ukraine drones target oil infrastructure]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-odesa-drones-oil-e455aee8c725ef624bf23ddf1542c523</link>
-<pubDate>Mon, 06 Apr 2026 12:14:27 -0000</pubDate>
+<title><![CDATA[JD Vance travels to Hungary days before election, hoping to boost Orbán’s campaign]]></title>
+<link>https://apnews.com/article/jd-vance-hungary-orban-election-campaign-08e0929e9c8b3ae4302ae4e8c0393d5e</link>
+<pubDate>Tue, 07 Apr 2026 07:06:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
