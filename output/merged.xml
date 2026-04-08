@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 20:05:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 21:05:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel says ceasefire with Iran doesn’t include war in Lebanon against Hezbollah]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-07-2026</link>
 <pubDate>Wed, 08 Apr 2026 04:58:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran accuses US of violating parts of deal framework, says ceasefire is ‘unreasonable’]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-08-2026</link>
+<pubDate>Wed, 08 Apr 2026 21:05:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -20,12 +26,6 @@
 <title><![CDATA[US and Iran agree to 2-week ceasefire as Trump pulls back on threats]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f</link>
 <pubDate>Wed, 08 Apr 2026 04:43:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran accuses US of violating parts of deal framework, says ceasefire ‘unreasonable’]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-08-2026</link>
-<pubDate>Wed, 08 Apr 2026 19:08:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Decorated Australian veteran remains behind bars on Afghan war crime charges]]></title>
+<link>https://apnews.com/article/australia-afghanistan-war-crime-ben-roberts-smith-345fb96c8a6f7eb825a303335f8a111c</link>
+<pubDate>Wed, 08 Apr 2026 04:13:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia extradites Scottish man sought by Spain as crime boss]]></title>
 <link>https://apnews.com/article/indonesia-scotland-spain-lyons-extradition-f6315ab1ea8ca58d3d5410dccdc527f3</link>
 <pubDate>Wed, 08 Apr 2026 03:58:29 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[Photos show boats sitting idle at Mumbai’s historic dock as the Iran war drives up fuel costs]]></title>
 <link>https://apnews.com/photo-gallery/india-iran-war-fuel-costs-fishers-ca6b67912cf8fc0004341336c5ac5b25</link>
 <pubDate>Wed, 08 Apr 2026 09:57:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanistan says peace talks held in China to end fighting with Pakistan have been constructive]]></title>
-<link>https://apnews.com/article/afghanistan-pakistan-china-peace-talks-ec077a5161268a07a44b87152aee6d8f</link>
-<pubDate>Tue, 07 Apr 2026 15:36:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Lula argues for ban on online betting platforms]]></title>
-<link>https://apnews.com/article/brazil-lula-betting-companies-prohibition-94101dd1f215eca0197e8654d762f993</link>
-<pubDate>Wed, 08 Apr 2026 18:53:31 -0000</pubDate>
+<title><![CDATA[Mexican miner rescued after nearly 14 days in a flooded Sinaloa mine]]></title>
+<link>https://apnews.com/article/mexico-miners-missing-sinaloa-rescue-mine-020cf0d6eca9521be8cb45f1df8d5067</link>
+<pubDate>Wed, 08 Apr 2026 20:50:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -113,6 +113,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II astronauts follow Apollo tradition of naming lunar features after loved ones]]></title>
+<link>https://apnews.com/article/artemis-apollo-nasa-moon-crater-names-26017ccb57b285e66d504852ed80900e</link>
+<pubDate>Wed, 08 Apr 2026 20:35:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump-endorsed Republican Clay Fuller wins Marjorie Taylor Greene’s former House seat in Georgia]]></title>
 <link>https://apnews.com/article/georgia-congressional-election-clay-fuller-shawn-harris-bfed8047f8300cf5e3d57d92280967b8</link>
 <pubDate>Wed, 08 Apr 2026 17:12:22 -0000</pubDate>
@@ -125,15 +131,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II astronauts make long-distance call to the space station as they head home from the moon]]></title>
-<link>https://apnews.com/article/artemis-moon-astronauts-space-station-ee54471e830fee1e3e95e9891116f3d7</link>
-<pubDate>Tue, 07 Apr 2026 18:33:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Long Island architect Rex Heuermann pleads guilty to murdering 7 women and admits he killed an 8th]]></title>
-<link>https://apnews.com/article/gilgo-beach-serial-killings-guilty-plea-fdfbb6aace18e89bd5f7593859825eef</link>
-<pubDate>Wed, 08 Apr 2026 18:23:31 -0000</pubDate>
+<title><![CDATA[Jim Whittaker, first American to climb Everest, dies at 97]]></title>
+<link>https://apnews.com/article/jim-whittaker-dies-mount-everest-4184fbb5021a4b60b457bc9c1c365ce4</link>
+<pubDate>Wed, 08 Apr 2026 20:20:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,9 +185,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican miner rescued after nearly 14 days in a flooded Sinaloa mine]]></title>
-<link>https://apnews.com/article/mexico-miners-missing-sinaloa-rescue-mine-020cf0d6eca9521be8cb45f1df8d5067</link>
-<pubDate>Wed, 08 Apr 2026 19:08:31 -0000</pubDate>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/associated-press-top-photos-april-8-2026-4b6cd29cee0de894dfdb5c05becb5d38</link>
+<pubDate>Wed, 08 Apr 2026 21:05:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos from Tehran, where daily life continues despite war]]></title>
+<link>https://apnews.com/photo-gallery/tehran-iran-daily-life-cafe-park-pets-stores-markets-cb249090a6314a53c945430048d0b998</link>
+<pubDate>Wed, 08 Apr 2026 20:50:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil’s Lula argues for ban on online betting platforms]]></title>
+<link>https://apnews.com/article/brazil-lula-betting-companies-prohibition-94101dd1f215eca0197e8654d762f993</link>
+<pubDate>Wed, 08 Apr 2026 20:35:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -215,9 +227,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Heavy rains force Dominican officials to cancel classes, warning of flooding and power outages]]></title>
+<title><![CDATA[Heavy rains kill a child in the Dominican Republic, damage thousands of homes]]></title>
 <link>https://apnews.com/article/dominican-republic-heavy-rains-flooding-landslides-classes-0b7b726cef9419b4a91b77e95f1a59c0</link>
-<pubDate>Wed, 08 Apr 2026 17:27:22 -0000</pubDate>
+<pubDate>Wed, 08 Apr 2026 20:20:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of Israel’s bombing of central Beirut]]></title>
+<link>https://apnews.com/photo-gallery/israel-lebanon-hezbollah-beirut-strikes-e7a40578560c91df14356ce73a96a793</link>
+<pubDate>Wed, 08 Apr 2026 20:05:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II astronauts make long-distance call to the space station as they head home from the moon]]></title>
+<link>https://apnews.com/article/artemis-moon-astronauts-space-station-ee54471e830fee1e3e95e9891116f3d7</link>
+<pubDate>Wed, 08 Apr 2026 19:50:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon buries a Christian official killed in an Israeli strike as anti-Hezbollah anger surges]]></title>
 <link>https://apnews.com/article/lebanon-war-hezbollah-israel-christian-funeral-cfda9970d9c3914c83fbcabebd52db7c</link>
 <pubDate>Wed, 08 Apr 2026 07:41:09 -0000</pubDate>
@@ -341,39 +365,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds of Cuban women rally against US energy blockade as crisis deepens]]></title>
-<link>https://apnews.com/article/cuba-womens-march-espin-trump-blockade-protest-d90123810256fad9afb4b4f7351508ae</link>
-<pubDate>Wed, 08 Apr 2026 17:53:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Deliveroo orders to Paris address cited in tax residency case against former France midfielder Nasri]]></title>
-<link>https://apnews.com/article/france-nasri-taxes-dubai-uae-03b9866bfa4777e9ee974047eadcb03c</link>
-<pubDate>Tue, 07 Apr 2026 17:33:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Artemis II astronauts channel Apollo 8 with a striking Earthset photo]]></title>
-<link>https://apnews.com/article/nasa-artemis-moon-astronauts-earthset-5ca505933a4c22e6859f15cc100858b6</link>
-<pubDate>Wed, 08 Apr 2026 07:26:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French train driver killed after crashing into truck at railway crossing]]></title>
-<link>https://apnews.com/article/france-train-crash-truck-driver-killed-afa9783d500e286cefc50dd29a0cd5fe</link>
-<pubDate>Tue, 07 Apr 2026 17:18:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Here’s where things stand after a tentative, 2-week Iran ceasefire took effect]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-ceasefire-takeaways-e53287f7594521f125dc1d6014c03a05</link>
 <pubDate>Wed, 08 Apr 2026 14:27:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[More than 100 killed as Israel strikes central Beirut after saying Iran truce doesn’t apply there]]></title>
+<title><![CDATA[At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn’t apply there]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea</link>
-<pubDate>Wed, 08 Apr 2026 17:42:23 -0000</pubDate>
+<pubDate>Wed, 08 Apr 2026 21:05:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -383,9 +383,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea fires missiles toward sea after ridiculing South’s hopes for better ties]]></title>
-<link>https://apnews.com/article/north-korea-launch-south-korea-098ca1f60e71fe6aa25539d8a9e14c96</link>
-<pubDate>Wed, 08 Apr 2026 01:23:17 -0000</pubDate>
+<title><![CDATA[Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms]]></title>
+<link>https://apnews.com/article/strait-of-hormuz-iran-tolls-oil-3ef5dcd907122922db714d318c35317e</link>
+<pubDate>Wed, 08 Apr 2026 20:50:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -401,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shaky ceasefire unlikely to stop cyberattacks from Iran-linked hackers for long]]></title>
+<link>https://apnews.com/article/iran-trump-cyber-israel-kash-patel-handala-5d844886ecd92f6a79ccda4d41f2b36a</link>
+<pubDate>Wed, 08 Apr 2026 20:35:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iranians fear power outages and further attacks as Trump’s deadline nears]]></title>
 <link>https://apnews.com/article/iran-us-trump-power-station-ultimatum-tehran-cc651d7588ecc7b7bdca424474e26e30</link>
 <pubDate>Tue, 07 Apr 2026 19:48:46 -0000</pubDate>
@@ -413,21 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A 12-hour drive through Iran offers glimpses of destruction, defiance and daily life]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-ap-visit-daily-life-712a964141a72724971765850ca675ca</link>
-<pubDate>Mon, 06 Apr 2026 12:29:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of Israel’s bombing of central Beirut]]></title>
-<link>https://apnews.com/photo-gallery/israel-lebanon-hezbollah-beirut-strikes-e7a40578560c91df14356ce73a96a793</link>
-<pubDate>Wed, 08 Apr 2026 15:53:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Oil plunges toward $95 as the Dow surges 1,000 in a worldwide rally following a ceasefire with Iran]]></title>
+<title><![CDATA[Oil plunges below $95 as the Dow surges 1,300 in a worldwide rally following a ceasefire with Iran]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-2fc5ac7823bea71984b3578ec36aacee</link>
-<pubDate>Wed, 08 Apr 2026 15:38:53 -0000</pubDate>
+<pubDate>Wed, 08 Apr 2026 20:20:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Decorated Australian veteran remains behind bars on Afghan war crime charges]]></title>
-<link>https://apnews.com/article/australia-afghanistan-war-crime-ben-roberts-smith-345fb96c8a6f7eb825a303335f8a111c</link>
-<pubDate>Wed, 08 Apr 2026 06:19:49 -0000</pubDate>
+<title><![CDATA[North Korea fires missiles toward sea after ridiculing South’s hopes for better ties]]></title>
+<link>https://apnews.com/article/north-korea-launch-south-korea-098ca1f60e71fe6aa25539d8a9e14c96</link>
+<pubDate>Wed, 08 Apr 2026 01:23:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
