@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Apr 2026 18:46:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 19:57:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel says ceasefire with Iran doesn’t include war in Lebanon against Hezbollah]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-07-2026</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rutte the ‘Trump whisperer’ faces a fresh test as the US leader turns on NATO over Iran]]></title>
+<link>https://apnews.com/article/nato-iran-rutte-trump-hormuz-support-e43e774a64341e3ad8d1b73823f07298</link>
+<pubDate>Thu, 09 Apr 2026 19:57:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UK and Norway led a military operation to deter Russian submarines in the North Atlantic]]></title>
 <link>https://apnews.com/article/britain-norway-russian-submarines-atlantic-7aa163bc29266504dd1d4c9949aeafde</link>
 <pubDate>Thu, 09 Apr 2026 12:41:48 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Orbán’s rural base is still behind the Hungarian leader ahead of Sunday’s pivotal vote]]></title>
 <link>https://apnews.com/article/orban-rural-base-support-hungary-election-348539b3911d721bcf8f3e0d1f937ab3</link>
 <pubDate>Thu, 09 Apr 2026 17:34:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia’s internet crackdown leads to a spring of growing discontent]]></title>
-<link>https://apnews.com/article/russia-internet-crackdown-censorship-ee23f818b73c0a65e0dddc60f6958bc2</link>
-<pubDate>Thu, 09 Apr 2026 10:37:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,21 +71,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan acting President Delcy Rodríguez asks workers for patience and promises May wage increase]]></title>
-<link>https://apnews.com/article/venezuela-rodriguez-minimum-wage-economy-workers-inflation-ea4e89cf51b13d39f9bc662440310a99</link>
-<pubDate>Thu, 09 Apr 2026 00:36:43 -0000</pubDate>
+<title><![CDATA[Argentina approves Milei’s bill that eases protections for glaciers despite environmental backlash]]></title>
+<link>https://apnews.com/article/milei-glacier-bill-argentina-environment-climate-change-27d4f5638c148f0b10690cf3114309f5</link>
+<pubDate>Thu, 09 Apr 2026 17:19:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan police block protesters demanding higher wages and pensions]]></title>
+<link>https://apnews.com/article/caracas-protests-workers-delcy-venezuela-e3564d762d1c1951fdfd04f042123128</link>
+<pubDate>Thu, 09 Apr 2026 19:42:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Iran war puts focus on petrochemicals used in numerous products and a driver of climate change]]></title>
 <link>https://apnews.com/article/climate-petrochemicals-oil-iran-war-fossil-fuels-48ed9e6cc05c15e24472cdb1714274f7</link>
 <pubDate>Thu, 09 Apr 2026 14:50:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Argentina approves Milei’s bill that eases protections for glaciers despite environmental backlash]]></title>
-<link>https://apnews.com/article/milei-glacier-bill-argentina-environment-climate-change-27d4f5638c148f0b10690cf3114309f5</link>
-<pubDate>Thu, 09 Apr 2026 17:19:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Former NYPD officer gets 3 to 9 years in prison for throwing a cooler that caused fatal crash]]></title>
-<link>https://apnews.com/article/new-york-police-cooler-throwing-death-sentencing-63f8537712e6de2a2dd4d98a359ed0b1</link>
-<pubDate>Thu, 09 Apr 2026 15:41:09 -0000</pubDate>
+<title><![CDATA[Universities of Wisconsin regents cite disputes over AI and other topics in president’s firing]]></title>
+<link>https://apnews.com/article/university-wisconsin-president-jay-rothman-fired-53f21203d3e9220ec4c7c07f59877efd</link>
+<pubDate>Thu, 09 Apr 2026 19:27:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Judge postpones termination of temporary status for Ethiopians]]></title>
+<link>https://apnews.com/article/ethiopians-temporary-protected-status-8b256704d841018d7b3834bb1ede6bca</link>
+<pubDate>Thu, 09 Apr 2026 19:57:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Transgender darts player criticizes new policy limiting women’s events to biological females]]></title>
 <link>https://apnews.com/article/darts-transgender-policy-ad551e0a0940e7dcdd03dff23ffbeeaa</link>
 <pubDate>Thu, 09 Apr 2026 18:46:34 -0000</pubDate>
@@ -197,9 +203,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Several Nigerian soldiers killed during an assault on a military base in the northeast]]></title>
+<title><![CDATA[Nigerian army general and several soldiers killed during an assault on a base in the northeast]]></title>
 <link>https://apnews.com/article/nigeria-attack-military-base-aee50fdefb5fe82dc14d3aa93b9bdd49</link>
-<pubDate>Thu, 09 Apr 2026 17:19:23 -0000</pubDate>
+<pubDate>Thu, 09 Apr 2026 19:42:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -269,6 +275,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia’s internet crackdown leads to a spring of growing discontent]]></title>
+<link>https://apnews.com/article/russia-internet-crackdown-censorship-ee23f818b73c0a65e0dddc60f6958bc2</link>
+<pubDate>Thu, 09 Apr 2026 19:27:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Vilma Jää Brings herding calls and mocking songs to Met Opera’s production of ‘Innocence’]]></title>
 <link>https://apnews.com/article/innocence-met-opera-vilma-jaa-73445290fa30a6323e89a84a9b678a77</link>
 <pubDate>Thu, 09 Apr 2026 06:01:03 -0000</pubDate>
@@ -290,6 +302,12 @@
 <title><![CDATA[Guatemalan man pleads guilty in federal court after truck crash in Mexico killed over 50 migrants]]></title>
 <link>https://apnews.com/article/bus-crash-migrants-mexico-guatemala-a4ea0eb1ad85d456403d0e366de6f3ab</link>
 <pubDate>Thu, 09 Apr 2026 01:21:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan acting President Delcy Rodríguez asks workers for patience and promises May wage increase]]></title>
+<link>https://apnews.com/article/venezuela-rodriguez-minimum-wage-economy-workers-inflation-ea4e89cf51b13d39f9bc662440310a99</link>
+<pubDate>Thu, 09 Apr 2026 19:12:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -347,24 +365,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican miner rescued after nearly 14 days in a flooded Sinaloa mine]]></title>
-<link>https://apnews.com/article/mexico-miners-missing-sinaloa-rescue-mine-020cf0d6eca9521be8cb45f1df8d5067</link>
-<pubDate>Wed, 08 Apr 2026 19:08:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Lula argues for ban on online betting platforms]]></title>
-<link>https://apnews.com/article/brazil-lula-betting-companies-prohibition-94101dd1f215eca0197e8654d762f993</link>
-<pubDate>Wed, 08 Apr 2026 20:35:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil’s Indigenous leader Raoni backs Lula despite protesting against railway in the Amazon]]></title>
-<link>https://apnews.com/article/brazil-indigenous-raoni-amazon-rainforest-lula-abde2e0c3c82727fc10b32dc23fe80fe</link>
-<pubDate>Wed, 08 Apr 2026 18:53:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-9-2026-7760f88f183ed2a13a721057e31f3ce7</link>
 <pubDate>Thu, 09 Apr 2026 17:34:24 -0000</pubDate>
@@ -377,21 +377,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rutte the ‘Trump whisperer’ faces a fresh test as the US leader turns on NATO over Iran]]></title>
-<link>https://apnews.com/article/nato-iran-rutte-trump-hormuz-support-e43e774a64341e3ad8d1b73823f07298</link>
-<pubDate>Thu, 09 Apr 2026 17:04:24 -0000</pubDate>
+<title><![CDATA[Timeline of decades of conflict between Israel and Hezbollah]]></title>
+<link>https://apnews.com/article/israel-hezbollah-conflict-timeline-a2f7978dee7f29af1d50f690d032e4d3</link>
+<pubDate>Thu, 09 Apr 2026 19:57:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[What to know about the ongoing war between Israel and Hezbollah in Lebanon]]></title>
 <link>https://apnews.com/article/israel-hezbollah-lebanon-war-995a8b2126eef9949beae3066715ce60</link>
 <pubDate>Thu, 09 Apr 2026 16:49:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pro-Iran groups have used AI to troll Trump and try to control the war narrative]]></title>
-<link>https://apnews.com/article/ai-meme-war-iran-trump-6622aa77b833cbd470b53ed7d43be9bd</link>
-<pubDate>Thu, 09 Apr 2026 05:46:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,6 +401,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel lifts restrictions at holy sites in Jerusalem after fragile ceasefire announced]]></title>
+<link>https://apnews.com/article/jerusalem-holy-sites-reopened-iran-war-13deb8fdf364e2b31b23c07ac066c14a</link>
+<pubDate>Thu, 09 Apr 2026 12:11:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[European leaders urge a negotiated settlement as Iran closes the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-europe-eu-hormuz-lebanon-macron-meloni-merz-5c49b81c89bc694207db8e07ceba70ea</link>
 <pubDate>Thu, 09 Apr 2026 15:56:10 -0000</pubDate>
@@ -419,15 +419,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump complains NATO ‘wasn’t there when we needed them’ after talks with alliance leader Rutte]]></title>
-<link>https://apnews.com/article/trump-nato-rutte-iran-war-981d250a7265774a4913b63d8797fc34</link>
-<pubDate>Thu, 09 Apr 2026 01:21:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US stocks swing higher and oil prices trim their gains on hopes for the ceasefire with Iran]]></title>
+<title><![CDATA[US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d</link>
-<pubDate>Thu, 09 Apr 2026 18:46:35 -0000</pubDate>
+<pubDate>Thu, 09 Apr 2026 19:42:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -452,6 +446,12 @@
 <title><![CDATA[Paramount president Jeff Shell is stepping down from his post amid a legal battle]]></title>
 <link>https://apnews.com/article/jeff-shell-leaves-paramount-lawsuit-7c86e5299a1df76553767a2c10a515b1</link>
 <pubDate>Thu, 09 Apr 2026 08:04:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia’s Putin declares a ceasefire in Ukraine for Orthodox Easter]]></title>
+<link>https://apnews.com/article/russia-ukraine-putin-orthodox-easter-ceasefire-ff25a818f5509d6820df1f3deba587e7</link>
+<pubDate>Thu, 09 Apr 2026 19:27:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
