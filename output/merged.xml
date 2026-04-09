@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Apr 2026 14:50:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 16:11:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel says ceasefire with Iran doesn’t include war in Lebanon against Hezbollah]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-07-2026</link>
@@ -32,6 +32,12 @@
 <title><![CDATA[At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn’t apply there]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea</link>
 <pubDate>Thu, 09 Apr 2026 01:21:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms]]></title>
+<link>https://apnews.com/article/strait-of-hormuz-iran-tolls-oil-3ef5dcd907122922db714d318c35317e</link>
+<pubDate>Thu, 09 Apr 2026 16:11:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s president weighs fracking to curb reliance on US natural gas]]></title>
-<link>https://apnews.com/article/mexico-sheinbaum-fracking-gas-us-d96ec1b5ae5907b0c829862cb9fad089</link>
-<pubDate>Wed, 08 Apr 2026 17:27:22 -0000</pubDate>
+<title><![CDATA[Argentina approves Milei’s bill that eases protections for glaciers, despite environmental backlash]]></title>
+<link>https://apnews.com/article/milei-glacier-bill-argentina-environment-climate-change-27d4f5638c148f0b10690cf3114309f5</link>
+<pubDate>Thu, 09 Apr 2026 15:56:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,9 +137,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from the Gilgo Beach case as Rex Heuermann pleads guilty to 7 murders and admits to an 8th]]></title>
-<link>https://apnews.com/article/rex-heuermann-guilty-pleas-gilgo-beach-killings-a7f4b1013f1f9fd085a390a26e62fd97</link>
-<pubDate>Thu, 09 Apr 2026 09:52:33 -0000</pubDate>
+<title><![CDATA[Former NYPD officer gets 3 to 9 years in prison for throwing a cooler that caused fatal crash]]></title>
+<link>https://apnews.com/article/new-york-police-cooler-throwing-death-sentencing-63f8537712e6de2a2dd4d98a359ed0b1</link>
+<pubDate>Thu, 09 Apr 2026 15:41:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -182,6 +188,18 @@
 <title><![CDATA[Lukas prizes honor books on homelessness, the US Census and ancient India]]></title>
 <link>https://apnews.com/article/anthony-lukas-prizes-census-india-d31f5e237a641a28ebf9e4d070d60773</link>
 <pubDate>Mon, 06 Apr 2026 10:31:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[IMF chief warns that Iran war will slow global economic growth]]></title>
+<link>https://apnews.com/article/imf-global-economy-downgrade-war-tariff-f70405a5ef0526371bd7b577b13c4796</link>
+<pubDate>Thu, 09 Apr 2026 16:11:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Thief who stole handbag containing a Fabergé egg sentenced to prison]]></title>
+<link>https://apnews.com/article/faberge-egg-theft-prison-sentence-127215fde2ac3e0d25deeabe7092066c</link>
+<pubDate>Thu, 09 Apr 2026 15:56:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -323,6 +341,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico’s president weighs fracking to curb reliance on US natural gas]]></title>
+<link>https://apnews.com/article/mexico-sheinbaum-fracking-gas-us-d96ec1b5ae5907b0c829862cb9fad089</link>
+<pubDate>Thu, 09 Apr 2026 15:41:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[British pastor charged with manslaughter after man drowns at baptism]]></title>
 <link>https://apnews.com/article/baptism-death-london-pastor-charged-869c6c57d5da6bae9a9b5096db64fc21</link>
 <pubDate>Wed, 08 Apr 2026 17:42:22 -0000</pubDate>
@@ -347,27 +371,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Police in the Bahamas arrest husband of US woman who vanished from boat]]></title>
-<link>https://apnews.com/article/bahamas-missing-us-woman-husband-boat-overboard-8ae1798fc90e3716796ac76f28c3e92a</link>
-<pubDate>Thu, 09 Apr 2026 03:51:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Carney attracts a 5th Conservative lawmaker to Canada’s Liberal Party]]></title>
-<link>https://apnews.com/article/carney-liberals-conservative-defection-majority-government-b7a3714898eb6543fa4a80278cac89d2</link>
-<pubDate>Wed, 08 Apr 2026 18:23:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 21 people are missing after a boat capsizes in eastern Congo on Lake Kivu]]></title>
-<link>https://apnews.com/article/congo-lake-kivu-boat-capsizes-3f45a8ca33fc08b5fd40aeeaa4cc1e7f</link>
-<pubDate>Wed, 08 Apr 2026 15:38:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ceasefire in the Iran war teeters with disagreements over Lebanon and the Strait of Hormuz]]></title>
+<title><![CDATA[Netanyahu authorizes direct talks with Lebanon ‘as soon as possible’]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-9-2026-7760f88f183ed2a13a721057e31f3ce7</link>
-<pubDate>Thu, 09 Apr 2026 12:56:49 -0000</pubDate>
+<pubDate>Thu, 09 Apr 2026 16:11:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -407,6 +413,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[European leaders urge a negotiated settlement as Iran closes the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-europe-eu-hormuz-lebanon-macron-meloni-merz-5c49b81c89bc694207db8e07ceba70ea</link>
+<pubDate>Thu, 09 Apr 2026 15:56:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[What does the Iran ceasefire deal mean? It depends on which side you talk to]]></title>
 <link>https://apnews.com/article/iran-war-ceasefire-strait-hormuz-nuclear-enrichment-9f5d7fce2cf32b8513861ca872e3cfb2</link>
 <pubDate>Thu, 09 Apr 2026 11:56:49 -0000</pubDate>
@@ -419,15 +431,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms]]></title>
-<link>https://apnews.com/article/strait-of-hormuz-iran-tolls-oil-3ef5dcd907122922db714d318c35317e</link>
-<pubDate>Wed, 08 Apr 2026 20:50:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Oil prices rise toward $100 as stocks slow on doubts about the US-Iran ceasefire]]></title>
+<title><![CDATA[Oil prices rise to $100 as stocks slow on uncertainty about the US-Iran ceasefire]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d</link>
-<pubDate>Thu, 09 Apr 2026 14:35:30 -0000</pubDate>
+<pubDate>Thu, 09 Apr 2026 15:41:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
