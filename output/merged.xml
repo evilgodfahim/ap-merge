@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 15:52:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 16:23:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A 1.9 billion-year-old bedrock will soon house the world’s first permanent nuclear waste site]]></title>
 <link>https://apnews.com/article/finland-nuclear-waste-disposal-storage-d1a110758e2bd087a9cee43f56f1a05b</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Photos from Tehran as a fragile ceasefire is marked by mourning and a quiet weekend]]></title>
+<link>https://apnews.com/photo-gallery/tehran-weekend-ceasefire-iran-13d5f5191fef611e31a300840498812a</link>
+<pubDate>Sat, 11 Apr 2026 16:23:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[AP reporter describes intense Israeli attacks that stunned Beirut]]></title>
 <link>https://apnews.com/article/lebanon-israel-attacks-dd04fb97804f93e62d02962be90e1171</link>
 <pubDate>Sat, 11 Apr 2026 10:59:35 -0000</pubDate>
@@ -47,9 +53,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fuel protests disrupt Ireland as over a third of service stations run dry]]></title>
+<title><![CDATA[Irish police clear demonstrators to reopen refinery as fuel protest causes chaos]]></title>
 <link>https://apnews.com/article/ireland-fuel-protests-roadblocks-cost-refinery-roads-d5ee29fe105bc874177e76dd0c1ac646</link>
-<pubDate>Sat, 11 Apr 2026 12:33:02 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 16:08:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,15 +137,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AP Exclusive: Trump administration admits a glaring error in its New York health fraud accusations]]></title>
-<link>https://apnews.com/article/new-york-medicaid-fraud-dr-oz-trump-342285a3c5d5b71f36ce3f3c77ec72c5</link>
-<pubDate>Fri, 10 Apr 2026 15:10:53 -0000</pubDate>
+<title><![CDATA[Stabbings on New York subway leaves 3 hurt as officers shoot knife-wielding man]]></title>
+<link>https://apnews.com/article/new-york-subway-station-injuries-hospital-1cd670e7b0a302e2d51f851a74247bfd</link>
+<pubDate>Sat, 11 Apr 2026 15:53:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[In his first 100 days, Mamdani brings a unique star power to New York City governance]]></title>
-<link>https://apnews.com/article/zohran-mamdani-nyc-mayor-100-days-4588280d3f2cc5b369ff0ddcf3dbf29e</link>
-<pubDate>Fri, 10 Apr 2026 10:54:06 -0000</pubDate>
+<title><![CDATA[AP Exclusive: Trump administration admits a glaring error in its New York health fraud accusations]]></title>
+<link>https://apnews.com/article/new-york-medicaid-fraud-dr-oz-trump-342285a3c5d5b71f36ce3f3c77ec72c5</link>
+<pubDate>Fri, 10 Apr 2026 15:10:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -188,6 +194,18 @@
 <title><![CDATA[Energy fallout from Iran war signals a global wake-up call for renewable energy]]></title>
 <link>https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e</link>
 <pubDate>Fri, 03 Apr 2026 12:24:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Guyana launches search for pilot after Cessna plane crash near Brazilian border]]></title>
+<link>https://apnews.com/article/guyana-brazil-plane-crash-gold-mining-d97634e7c3ab432d87c9329db594b106</link>
+<pubDate>Sat, 11 Apr 2026 16:23:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Typhoon Sinlaku could reach Guam by Monday, bringing potential flooding and Category 3 winds]]></title>
+<link>https://apnews.com/article/typhoon-sinlaku-hurricane-guam-8ba2fb782f69875777608ee4a0d90bbc</link>
+<pubDate>Sat, 11 Apr 2026 16:08:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,27 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[From ‘BuddhaBot’ to $1.99 chats with AI Jesus, the faith-based tech boom is here]]></title>
-<link>https://apnews.com/article/religious-chatbots-ai-technology-jesus-buddhabot-e1ed4832b25a23ee85292da681a0ec37</link>
-<pubDate>Fri, 10 Apr 2026 11:39:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[By the numbers: US thrashed military targets in Iran, but some capabilities remain]]></title>
-<link>https://apnews.com/article/iran-war-us-military-targets-israel-71c389bc3f308e7d00acce7adc74f528</link>
-<pubDate>Fri, 10 Apr 2026 11:24:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Iran direct talks begin in Pakistan as war’s fragile ceasefire holds]]></title>
+<title><![CDATA[Historic US-Iran direct talks begin in Pakistan as war’s fragile ceasefire holds]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9</link>
-<pubDate>Sat, 11 Apr 2026 15:00:31 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 16:23:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Orthodox Easter truce falters as Ukraine says Russia continues drone strikes despite ceasefire]]></title>
+<title><![CDATA[Orthodox Easter truce falters as Ukraine says Russia continues drone strikes]]></title>
 <link>https://apnews.com/article/russia-ukraine-odesa-drones-ceasefire-prisoner-exchange-0f6548cf06dde9a2c261b22af17aa9ef</link>
-<pubDate>Sat, 11 Apr 2026 14:45:31 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 16:08:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,6 +413,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war]]></title>
+<link>https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524</link>
+<pubDate>Fri, 10 Apr 2026 08:35:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon digs for survivors after Israeli attack kills over 300, as surprise word of talks emerges]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-46a82d3758b7d0df9ac6df7bd18f936a</link>
 <pubDate>Thu, 09 Apr 2026 17:19:24 -0000</pubDate>
@@ -422,12 +434,6 @@
 <title><![CDATA[Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war]]></title>
 <link>https://apnews.com/article/ukraine-zelenskyy-shahed-drones-iran-russia-war-4a5a6e01f0377a20404ab29093e69f12</link>
 <pubDate>Fri, 10 Apr 2026 06:49:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Photos from Tehran as a fragile ceasefire is marked by mourning and a quiet weekend]]></title>
-<link>https://apnews.com/photo-gallery/tehran-weekend-ceasefire-iran-13d5f5191fef611e31a300840498812a</link>
-<pubDate>Fri, 10 Apr 2026 22:00:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
