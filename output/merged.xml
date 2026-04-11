@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 03:56:56 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-8-2026-38d75d5e4f1c7339a1456fc99415bb2a</link>
-<pubDate>Wed, 08 Apr 2026 17:42:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sat, 11 Apr 2026 05:22:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn’t apply there]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-9-2026-7760f88f183ed2a13a721057e31f3ce7</link>
 <pubDate>Fri, 10 Apr 2026 02:06:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iranian delegation arrives in Pakistan for talks with the US]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-10-2026</link>
+<pubDate>Sat, 11 Apr 2026 05:22:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -89,6 +89,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[The myrrh tree that’s key to luxury perfumes and African incomes is threatened by drought]]></title>
+<link>https://apnews.com/article/myrrh-ethiopia-perfumes-climate-drought-tree-a53414a3240dd6c2f07b956b132ea9cb</link>
+<pubDate>Sat, 11 Apr 2026 05:07:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A country-by-country glance at Pope Leo XIV’s trip to Africa]]></title>
 <link>https://apnews.com/article/vatican-africa-pope-angola-cameroon-algeria-equatorial-guinea-1420c2425d627d4f3affc67f2a7c4813</link>
 <pubDate>Fri, 10 Apr 2026 21:30:54 -0000</pubDate>
@@ -104,12 +110,6 @@
 <title><![CDATA[Djibouti holds presidential election with longtime ruler favored for a sixth term]]></title>
 <link>https://apnews.com/article/djibouti-election-guelleh-6ac59342e219e558a06b75037602c1ab</link>
 <pubDate>Fri, 10 Apr 2026 08:50:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Prince Harry sued for defamation by charity he set up in Africa to honor his mother Princess Diana]]></title>
-<link>https://apnews.com/article/prince-harry-sued-sentabale-african-charity-defamation-26a15ecf36ea1dd16483697a3d5aac21</link>
-<pubDate>Fri, 10 Apr 2026 20:37:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,6 +185,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump likes to back winners in foreign elections. The upcoming vote in Hungary will test his clout]]></title>
+<link>https://apnews.com/article/trump-orban-hungary-foreign-election-influence-4f4b8cd1ad982c714dc78280c0343162</link>
+<pubDate>Sat, 11 Apr 2026 05:22:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Unsettled and uncertain: What the Iran war means around the world as US and Iran enter talks]]></title>
+<link>https://apnews.com/article/iran-war-pakistan-trump-israel-vance-lebanon-gulf-nato-b0dcca332a3e631a5fa98c9fe0434071</link>
+<pubDate>Sat, 11 Apr 2026 05:07:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Gap between rich and poor nations is growing even wider, UN report says]]></title>
 <link>https://apnews.com/article/un-global-gap-financial-imf-world-bank-9c4b03b02a6cf3e1081656bfaea2e057</link>
 <pubDate>Sat, 11 Apr 2026 01:14:59 -0000</pubDate>
@@ -227,6 +239,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope amplifies criticism of Iran war and says ‘God does not bless any conflict’]]></title>
+<link>https://apnews.com/article/vatican-pope-leo-chaldean-trump-mideast-iran-720eea814712d1d859875f39661d599f</link>
+<pubDate>Sat, 11 Apr 2026 04:52:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Worsening ocean heat waves are ‘supercharging’ hurricane damage, study finds]]></title>
 <link>https://apnews.com/article/hurricanes-climate-change-ocean-heat-disaster-9eddeee8d77a98df4ec0c841dcd75e28</link>
 <pubDate>Fri, 10 Apr 2026 18:54:28 -0000</pubDate>
@@ -236,6 +254,18 @@
 <title><![CDATA[Belarus detains more than 50 at architectural firm in escalating crackdown]]></title>
 <link>https://apnews.com/article/belarus-crackdown-lukashenko-repression-bialiatski-viasna-d591f57b0a0f95872d960633bf41ab17</link>
 <pubDate>Fri, 10 Apr 2026 18:05:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli strike kills Lebanese security forces as Israel and Hezbollah trade fire ahead of talks]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-war-conflict-iran-talks-9b6faa0c2d139aca1faa451325a5c788</link>
+<pubDate>Sat, 11 Apr 2026 04:37:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Prince Harry sued for defamation by charity he set up in Africa to honor his mother Princess Diana]]></title>
+<link>https://apnews.com/article/prince-harry-sued-sentabale-african-charity-defamation-26a15ecf36ea1dd16483697a3d5aac21</link>
+<pubDate>Sat, 11 Apr 2026 04:22:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -323,51 +353,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05</link>
+<pubDate>Sat, 11 Apr 2026 04:07:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Stocks drift lower and oil prices ease ahead of planned US-Iran talks]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-7ef6ebab1aaa731d2da6406b3cbde6dd</link>
 <pubDate>Fri, 10 Apr 2026 20:07:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Croatian fishermen feel the strain after Iran war ramps up fuel prices]]></title>
-<link>https://apnews.com/article/croatia-fishing-fuel-prices-iran-war-04e7aa974513232d01a42f3d8279b4ce</link>
-<pubDate>Fri, 10 Apr 2026 09:28:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Citizen ‘Frog Patrol’ helps amphibians survive a dangerous road journey in Poland]]></title>
-<link>https://apnews.com/article/poland-frogs-toads-community-saving-road-killing-e58af9e80114e4d9089a8238948612c7</link>
-<pubDate>Fri, 10 Apr 2026 05:10:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What’s in a name? It’s succession, legacy and celebration in Japan’s Kabuki theater]]></title>
-<link>https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd</link>
-<pubDate>Fri, 10 Apr 2026 04:55:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Good Friday, Venezuelan protests and other top photos from Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-e95f15393ed8fe75e2393a8ef345fcc3</link>
-<pubDate>Fri, 10 Apr 2026 04:40:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Britain celebrates late Queen Elizabeth II as a style icon to mark her centenary]]></title>
-<link>https://apnews.com/article/queen-elizabeth-ii-style-fashion-exhibit-museum-68836150ce63335c04e9afead73b9b92</link>
-<pubDate>Fri, 10 Apr 2026 04:25:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s tenuous Iran exit plan isn’t healing Republican rifts exposed by the war]]></title>
-<link>https://apnews.com/article/trump-iran-republicans-election-2026-war-ceasefire-6fe581f139a851a2d2daec3fe5dbc8b2</link>
-<pubDate>Fri, 10 Apr 2026 04:10:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05</link>
-<pubDate>Fri, 10 Apr 2026 16:11:11 -0000</pubDate>
+<title><![CDATA[US-Iran talks set to bring together Vance and Iranian officials in Pakistan as ceasefire strains]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9</link>
+<pubDate>Sat, 11 Apr 2026 05:22:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,18 +407,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope amplifies criticism of Iran war and says ‘God does not bless any conflict’]]></title>
-<link>https://apnews.com/article/vatican-pope-leo-chaldean-trump-mideast-iran-720eea814712d1d859875f39661d599f</link>
-<pubDate>Fri, 10 Apr 2026 19:24:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon digs for survivors after Israeli attack kills over 300, as surprise word of talks emerges]]></title>
-<link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-46a82d3758b7d0df9ac6df7bd18f936a</link>
-<pubDate>Thu, 09 Apr 2026 17:19:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Longtime AP reporter and editor Bill Mann dies at 83]]></title>
 <link>https://apnews.com/article/obituary-ap-journalist-bill-billy-mann-dies-663d774b693449e88f8e5eaeb8974fe4</link>
 <pubDate>Fri, 10 Apr 2026 23:07:29 -0000</pubDate>
@@ -428,6 +416,12 @@
 <title><![CDATA[Photos from Tehran as a fragile ceasefire is marked by mourning and a quiet weekend]]></title>
 <link>https://apnews.com/photo-gallery/tehran-weekend-ceasefire-iran-13d5f5191fef611e31a300840498812a</link>
 <pubDate>Fri, 10 Apr 2026 22:00:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[AP reporter describes intense Israeli attacks that stunned Beirut]]></title>
+<link>https://apnews.com/article/lebanon-israel-attacks-dd04fb97804f93e62d02962be90e1171</link>
+<pubDate>Thu, 09 Apr 2026 22:24:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
