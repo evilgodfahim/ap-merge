@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 20:56:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 21:24:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A 1.9 billion-year-old bedrock will soon house the world’s first permanent nuclear waste site]]></title>
 <link>https://apnews.com/article/finland-nuclear-waste-disposal-storage-d1a110758e2bd087a9cee43f56f1a05b</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war]]></title>
-<link>https://apnews.com/article/ukraine-zelenskyy-shahed-drones-iran-russia-war-4a5a6e01f0377a20404ab29093e69f12</link>
-<pubDate>Sat, 11 Apr 2026 17:54:02 -0000</pubDate>
+<title><![CDATA[US and Iranian officials meet face-to-face in Islamabad ceasefire talks]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-11-2026</link>
+<pubDate>Sat, 11 Apr 2026 21:24:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,6 +125,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II’s record-breaking journey around the moon ends with dramatic splashdown]]></title>
+<link>https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1</link>
+<pubDate>Sat, 11 Apr 2026 21:09:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Allies yank support for Swalwell’s California governor run after sexual assault allegations]]></title>
 <link>https://apnews.com/article/california-governor-eric-swalwell-assault-allegations-aa1d13afe441be38d1d16f648e06d503</link>
 <pubDate>Sat, 11 Apr 2026 06:20:20 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Tribal gas stations offer a reprieve from high prices during Iran war]]></title>
 <link>https://apnews.com/article/iran-war-gasoline-prices-native-american-reservation-7f272163a63b12eec15f23463ae3907b</link>
 <pubDate>Sat, 11 Apr 2026 13:46:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Officials: Stabbings on New York subway leave 3 hurt as officers shoot and kill knife-wielding man]]></title>
-<link>https://apnews.com/article/new-york-subway-station-injuries-hospital-1cd670e7b0a302e2d51f851a74247bfd</link>
-<pubDate>Sat, 11 Apr 2026 19:20:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,9 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US and Iran hold historic talks in Pakistan on war’s fragile ceasefire]]></title>
+<title><![CDATA[US-Iran historic ceasefire talks in Pakistan continue after midnight]]></title>
 <link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9</link>
-<pubDate>Sat, 11 Apr 2026 20:20:10 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 21:24:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis II’s record-breaking journey around the moon ends with dramatic splashdown]]></title>
-<link>https://apnews.com/article/nasa-artemis-astronauts-moon-splashdown-16adc5450f0127a0743292ef30b239f1</link>
-<pubDate>Sat, 11 Apr 2026 03:56:55 -0000</pubDate>
+<title><![CDATA[Artemis II’s moon-traveling astronauts return home to cheers after a record-breaking trip]]></title>
+<link>https://apnews.com/article/artemis-astronauts-moon-flyby-splashdown-1fe7e0f38a9dd506945a4e508abb402d</link>
+<pubDate>Sat, 11 Apr 2026 21:09:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Britain beats Australia to advance to Billie Jean King Cup finals]]></title>
+<title><![CDATA[Titleholder Italy reaches Billie Jean King Cup finals but US ousted by Belgium]]></title>
 <link>https://apnews.com/article/billie-jean-king-cup-bjk-731a1fda5c2668c9d839e8989b7e0dee</link>
-<pubDate>Sat, 11 Apr 2026 10:14:36 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 20:54:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
