@@ -3,23 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 02:30:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 05:10:26 GMT</lastBuildDate>
 <item>
-<title><![CDATA[A 1.9 billion-year-old bedrock will soon house the world’s first permanent nuclear waste site]]></title>
-<link>https://apnews.com/article/finland-nuclear-waste-disposal-storage-d1a110758e2bd087a9cee43f56f1a05b</link>
-<pubDate>Fri, 10 Apr 2026 19:24:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-9-2026-7760f88f183ed2a13a721057e31f3ce7</link>
-<pubDate>Fri, 10 Apr 2026 02:06:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iranian officials meet face-to-face in Islamabad ceasefire talks]]></title>
+<title><![CDATA[Trump downplays Iran negotiations, says deal ‘makes no difference’]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-11-2026</link>
-<pubDate>Sat, 11 Apr 2026 21:24:37 -0000</pubDate>
+<pubDate>Sun, 12 Apr 2026 05:10:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,6 +23,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A 9-year-old was found locked in a van since 2024, malnourished and unable to walk]]></title>
+<link>https://apnews.com/article/france-boy-trapped-van-father-charged-hagenbach-0888b35ffb0f1f4b298270905e9e0a2d</link>
+<pubDate>Sat, 11 Apr 2026 17:39:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan]]></title>
+<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9</link>
+<pubDate>Sun, 12 Apr 2026 04:55:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon digs for survivors after Israeli attack kills over 300, as surprise word of talks emerges]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-46a82d3758b7d0df9ac6df7bd18f936a</link>
 <pubDate>Sat, 11 Apr 2026 20:20:09 -0000</pubDate>
@@ -44,6 +44,12 @@
 <title><![CDATA[Longtime AP reporter and editor Bill Mann dies at 83]]></title>
 <link>https://apnews.com/article/obituary-ap-journalist-bill-billy-mann-dies-663d774b693449e88f8e5eaeb8974fe4</link>
 <pubDate>Sat, 11 Apr 2026 20:05:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Orthodox Easter truce falters as Ukraine says Russia continues drone strikes]]></title>
+<link>https://apnews.com/article/russia-ukraine-odesa-drones-ceasefire-prisoner-exchange-0f6548cf06dde9a2c261b22af17aa9ef</link>
+<pubDate>Sun, 12 Apr 2026 04:40:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll]]></title>
-<link>https://apnews.com/article/hungary-election-orban-magyar-final-rallies-928262ae663d05a02879e6f2a57a2efb</link>
-<pubDate>Sat, 11 Apr 2026 19:50:09 -0000</pubDate>
+<title><![CDATA[China’s state media turns to social media and AI to tell its story — and often mock the US]]></title>
+<link>https://apnews.com/article/ai-iran-war-animation-video-china-8b74148007a3906cef85534eead1d7c8</link>
+<pubDate>Sat, 11 Apr 2026 01:14:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[South Korean minister vows to expand legal remedies for adoptees and other rights victims]]></title>
 <link>https://apnews.com/article/south-korea-justice-minister-foreign-adoptions-738d7db81fe194e14cd860440c30227b</link>
 <pubDate>Fri, 10 Apr 2026 09:28:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tourist boat capsizes in northern India, killing at least 10]]></title>
-<link>https://apnews.com/article/india-boat-capsize-yamuna-river-c50aabbcf091b2cf72f0f85ce0b05132</link>
-<pubDate>Fri, 10 Apr 2026 18:05:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Key Indian states hold elections that will test reach of Modi’s party in opposition strongholds]]></title>
+<link>https://apnews.com/article/india-elections-assam-kerala-modi-bjp-1645f4291c85a39553a6817525b707cb</link>
+<pubDate>Thu, 09 Apr 2026 07:28:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[India has begun its long-delayed population census. Here’s why it matters]]></title>
 <link>https://apnews.com/article/india-population-census-3c7480e4eb294efcf56e9a85cd87a087</link>
 <pubDate>Wed, 01 Apr 2026 15:33:47 -0000</pubDate>
@@ -191,9 +197,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Energy fallout from Iran war signals a global wake-up call for renewable energy]]></title>
-<link>https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e</link>
-<pubDate>Fri, 03 Apr 2026 12:24:39 -0000</pubDate>
+<title><![CDATA[Stampede at Haitian mountaintop fortress reportedly leaves at least 30 dead]]></title>
+<link>https://apnews.com/article/haiti-citadelle-laferriere-stampede-3e505492e9d43e8da7ccc3227cd85b77</link>
+<pubDate>Sun, 12 Apr 2026 05:10:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll]]></title>
+<link>https://apnews.com/article/hungary-election-orban-magyar-final-rallies-928262ae663d05a02879e6f2a57a2efb</link>
+<pubDate>Sun, 12 Apr 2026 04:55:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -218,12 +230,6 @@
 <title><![CDATA[A Syrian man buries his wife and 4 children killed in Israeli strikes on Beirut]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-syria-burial-ce86e72d564055a585a2f6ee99bbcbe8</link>
 <pubDate>Sat, 11 Apr 2026 13:46:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A 9-year-old was found locked in a van since 2024, malnourished and unable to walk]]></title>
-<link>https://apnews.com/article/france-boy-trapped-van-father-charged-hagenbach-0888b35ffb0f1f4b298270905e9e0a2d</link>
-<pubDate>Sat, 11 Apr 2026 20:20:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,21 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research]]></title>
-<link>https://apnews.com/article/france-picasso-alzheimers-raffle-f32c1c86c6b2e367272f50ea1b7a891c</link>
-<pubDate>Fri, 10 Apr 2026 13:39:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Vice President JD Vance says talks with Iran ended after 21 hours without reaching agreement]]></title>
-<link>https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9</link>
-<pubDate>Sun, 12 Apr 2026 02:30:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Orthodox Easter truce falters as Ukraine says Russia continues drone strikes]]></title>
-<link>https://apnews.com/article/russia-ukraine-odesa-drones-ceasefire-prisoner-exchange-0f6548cf06dde9a2c261b22af17aa9ef</link>
-<pubDate>Sat, 11 Apr 2026 16:08:26 -0000</pubDate>
+<title><![CDATA[Polls open in Hungary in a key election that could unseat populist Prime Minister Orbán]]></title>
+<link>https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab</link>
+<pubDate>Sun, 12 Apr 2026 04:55:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China’s state media turns to social media and AI to tell its story — and often mock the US]]></title>
-<link>https://apnews.com/article/ai-iran-war-animation-video-china-8b74148007a3906cef85534eead1d7c8</link>
-<pubDate>Sat, 11 Apr 2026 10:44:36 -0000</pubDate>
+<title><![CDATA[Iran war diverts US military and attention from Asia ahead of Trump’s summit with China’s leader]]></title>
+<link>https://apnews.com/article/iran-war-asia-china-trump-xi-44891d1bdf2c6b47acc766a8faf69ec6</link>
+<pubDate>Sun, 12 Apr 2026 04:40:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Key Indian states hold elections that will test reach of Modi’s party in opposition strongholds]]></title>
-<link>https://apnews.com/article/india-elections-assam-kerala-modi-bjp-1645f4291c85a39553a6817525b707cb</link>
-<pubDate>Thu, 09 Apr 2026 05:16:04 -0000</pubDate>
+<title><![CDATA[Tourist boat capsizes in northern India, killing at least 10]]></title>
+<link>https://apnews.com/article/india-boat-capsize-yamuna-river-c50aabbcf091b2cf72f0f85ce0b05132</link>
+<pubDate>Sat, 11 Apr 2026 00:45:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
