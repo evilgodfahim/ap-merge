@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Apr 2026 02:34:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 04:59:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AP Exclusive: Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head warns]]></title>
 <link>https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703</link>
@@ -11,9 +11,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and Iran say Strait of Hormuz is now fully open, but US says blockade will stay]]></title>
+<title><![CDATA[Iran reopens the Strait of Hormuz, but threatens to close it again as the US maintains its blockade]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-17-2026</link>
-<pubDate>Sat, 18 Apr 2026 02:34:50 -0000</pubDate>
+<pubDate>Sat, 18 Apr 2026 04:59:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,9 +29,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey sees its second school shooting in as many days as a student kills 4 people Wednesday]]></title>
-<link>https://apnews.com/article/turkey-school-gunfire-9ba3a4a9512bf7b4c36b19077b53f705</link>
-<pubDate>Thu, 16 Apr 2026 02:35:32 -0000</pubDate>
+<title><![CDATA[Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling]]></title>
+<link>https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b</link>
+<pubDate>Fri, 17 Apr 2026 03:33:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Starmer’s Mandelson nightmare never ends. This time, it may cost him his job as UK leader]]></title>
+<link>https://apnews.com/article/britain-starmer-mandelson-epstein-vetting-ambassador-trump-35c2c302e7370efcd0098b5b9419c72e</link>
+<pubDate>Sat, 18 Apr 2026 04:44:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -47,27 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[London police, some in protective clothing, probe discarded items near Israeli Embassy]]></title>
-<link>https://apnews.com/article/britain-london-israel-embassy-39df1a04a6c1fcbaee22339437232456</link>
-<pubDate>Fri, 17 Apr 2026 13:46:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[India Parliament blocks Modi’s bid to redraw voting boundaries alongside seat quota for women]]></title>
 <link>https://apnews.com/article/india-women-reservation-bill-modi-seats-boundaries-e12e5dc09848d6bb94ad9b1ccd436a03</link>
 <pubDate>Fri, 17 Apr 2026 15:03:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Former President Win Myint freed in broad Myanmar prisoner amnesty]]></title>
-<link>https://apnews.com/article/myanmar-prisoner-amnesty-min-aung-hlaing-suu-kyi-827718552f12faec188e56e381658a60</link>
-<pubDate>Fri, 17 Apr 2026 11:11:49 -0000</pubDate>
+<title><![CDATA[Weapons-grade chemical carfentanil surges as dangerous substitute for fentanyl]]></title>
+<link>https://apnews.com/article/carfentanil-surging-fentanyl-deaths-dea-china-mexico-6b32fe6450861754d8689a595fb830a5</link>
+<pubDate>Sat, 18 Apr 2026 04:29:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[After a paralyzing stroke, a South Korean pianist recreates himself as a one-handed performer]]></title>
-<link>https://apnews.com/article/korea-onehanded-pianist-stroke-4aa4d4ebf27c4cf68e25e470e116b44d</link>
-<pubDate>Fri, 17 Apr 2026 03:18:34 -0000</pubDate>
+<title><![CDATA[Former President Win Myint freed in broad Myanmar prisoner amnesty]]></title>
+<link>https://apnews.com/article/myanmar-prisoner-amnesty-min-aung-hlaing-suu-kyi-827718552f12faec188e56e381658a60</link>
+<pubDate>Fri, 17 Apr 2026 11:11:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Stories of Black and Indigenous patriots come into focus as US remembers the American Revolution]]></title>
+<link>https://apnews.com/article/lexington-black-patriots-american-revolution-70a4a423a0ba52813db469c69b0e44f5</link>
+<pubDate>Sat, 18 Apr 2026 04:14:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Some American farmers bet on solar. Then Trump changed the rules]]></title>
 <link>https://apnews.com/article/climate-solar-energy-farmers-grants-trump-585a1df02a748d689b3ee5136ce69313</link>
 <pubDate>Fri, 17 Apr 2026 12:31:07 -0000</pubDate>
@@ -128,12 +134,6 @@
 <title><![CDATA[Patients and dental community mourn Dr. Cerina Fairfax, killed by Virginia’s ex-lieutenant governor]]></title>
 <link>https://apnews.com/article/virginia-justin-cerina-fairfax-death-802965d14f3dffa70b1974cfa8d78a17</link>
 <pubDate>Fri, 17 Apr 2026 19:20:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Defense team in Charlie Kirk murder case says courtroom cameras are unfairly tilting case]]></title>
-<link>https://apnews.com/article/tyler-robinson-charlie-kirk-camera-ban-39c6672b630539a97b7caaffa4cd9e43</link>
-<pubDate>Sat, 18 Apr 2026 02:04:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -182,6 +182,18 @@
 <title><![CDATA[Key Indian states hold elections that will test reach of Modi’s party in opposition strongholds]]></title>
 <link>https://apnews.com/article/india-elections-assam-kerala-modi-bjp-1645f4291c85a39553a6817525b707cb</link>
 <pubDate>Thu, 09 Apr 2026 07:28:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Canadian man facing 14 murder charges to plead guilty to aiding suicide]]></title>
+<link>https://apnews.com/article/canada-suicide-charges-kenneth-law-da527a294c52487e8a11c75c599b22fa</link>
+<pubDate>Sat, 18 Apr 2026 04:59:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial]]></title>
+<link>https://apnews.com/article/russian-oil-sanctions-iran-war-95ae06ece63f4f8c1f72ac3c2dc4251f</link>
+<pubDate>Sat, 18 Apr 2026 04:44:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -281,6 +293,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[London police, some in protective clothing, probe discarded items near Israeli Embassy]]></title>
+<link>https://apnews.com/article/britain-london-israel-embassy-39df1a04a6c1fcbaee22339437232456</link>
+<pubDate>Sat, 18 Apr 2026 04:29:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bulgaria’s pro-Russian former president is seen as strong front-runner in Sunday’s election]]></title>
 <link>https://apnews.com/article/bulgaria-election-radev-borissov-corruption-russia-427c265d8b314a00fbbcd159b76b52e2</link>
 <pubDate>Fri, 17 Apr 2026 11:11:50 -0000</pubDate>
@@ -344,24 +362,6 @@
 <title><![CDATA[Canada Post taking steps to stop home mail delivery]]></title>
 <link>https://apnews.com/article/canada-post-home-delivery-d56514b5a3e7b72e00a67e4191a67ebe</link>
 <pubDate>Fri, 17 Apr 2026 03:48:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling]]></title>
-<link>https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b</link>
-<pubDate>Fri, 17 Apr 2026 08:43:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazilian ex-intelligence chief Ramagem released after immigration arrest, thanks Trump]]></title>
-<link>https://apnews.com/article/brazil-intelligence-agency-released-ice-ee4b4ba4e2758eab014164be79488a0f</link>
-<pubDate>Fri, 17 Apr 2026 03:33:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Artemis II astronauts praise their moonship’s performance, especially the heat shield]]></title>
-<link>https://apnews.com/article/nasa-artemis-moon-astronauts-e5f210b79bd269e9d402ef291623f5e9</link>
-<pubDate>Thu, 16 Apr 2026 21:33:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
