@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Apr 2026 23:00:51 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 23:58:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran fully closes Strait of Hormuz over US blockade and fires on ships]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37</link>
@@ -23,9 +23,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens to destroy civilian infrastructure if Iran refuses deal]]></title>
+<title><![CDATA[Iran vows swift response after US seizes vessel]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-19-2026</link>
-<pubDate>Sun, 19 Apr 2026 21:00:16 -0000</pubDate>
+<pubDate>Sun, 19 Apr 2026 23:58:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds pack Montevideo’s plaza as La Rueda de Candombe caps a breakout run]]></title>
+<link>https://apnews.com/article/uruguay-montevideo-candombe-street-music-cannes-8582dd4d0d41fc319b3f92437f7d0d18</link>
+<pubDate>Sun, 19 Apr 2026 23:43:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[While Trump lashes out at Spain, US Democrats join a progressive rally in Barcelona]]></title>
 <link>https://apnews.com/article/sanchez-lula-trump-sheinbaum-progressive-summit-e67096a2138f55f3b63d5c24a3b32789</link>
 <pubDate>Sun, 19 Apr 2026 05:38:20 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[With a handshake, Spain and Mexico put diplomatic tussle over their colonial past behind them]]></title>
 <link>https://apnews.com/article/spain-mexico-colonial-past-sheinbaum-sanchez-7ca927e01d56d74cae729efaaae6fe46</link>
 <pubDate>Sat, 18 Apr 2026 12:36:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Peru’s interim president defers $3.5 billion fighter jet purchase to the next government]]></title>
-<link>https://apnews.com/article/peru-fighter-jets-purchase-balcazar-presidential-election-6fa5fcfbaea1e53283cd87ab21a8000a</link>
-<pubDate>Sat, 18 Apr 2026 18:10:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Businesses can claim refunds for Trump tariffs ruled unconstitutional starting Monday]]></title>
+<title><![CDATA[Businesses can claim refunds starting Monday for Trump tariffs declared unconstitutional]]></title>
 <link>https://apnews.com/article/tariff-refund-trump-customs-08861f153801156d213c30c4e2f6a683</link>
-<pubDate>Sun, 19 Apr 2026 19:33:43 -0000</pubDate>
+<pubDate>Sun, 19 Apr 2026 23:58:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -248,6 +248,12 @@
 <title><![CDATA[Venezuela’s Maria Corina Machado draws a huge Madrid crowd and rebuffs meeting with Spain’s PM]]></title>
 <link>https://apnews.com/article/venezuela-spain-trump-maduro-machado-nobel-sanchez-4819d547e7f3ff9a86228d0e457e92be</link>
 <pubDate>Sat, 18 Apr 2026 20:09:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Peru’s interim president defers $3.5 billion fighter jet purchase to the next government]]></title>
+<link>https://apnews.com/article/peru-fighter-jets-purchase-balcazar-presidential-election-6fa5fcfbaea1e53283cd87ab21a8000a</link>
+<pubDate>Sun, 19 Apr 2026 23:43:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -311,6 +317,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Russia has looted thousands of Ukrainian cultural objects in the war. Finding them is a challenge]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-culture-art-heritage-93f96dac8cfb7af675abc1a5f90bcd40</link>
+<pubDate>Sun, 19 Apr 2026 11:50:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Australia and Japan seal $6.5B warship deal with 3 Mogami frigates ordered first]]></title>
 <link>https://apnews.com/article/australia-japan-frigates-contracts-mogami-3716bd636db875cc9576ae871816d201</link>
 <pubDate>Sat, 18 Apr 2026 07:38:16 -0000</pubDate>
@@ -365,27 +377,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Alleged Irish crime boss Daniel Kinahan is arrested in Dubai]]></title>
-<link>https://apnews.com/article/daniel-kinahan-ireland-crime-gang-arrest-dubai-209c1131f51e88d950a2a4affd4ce2e8</link>
-<pubDate>Sat, 18 Apr 2026 07:23:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Inside FIBO, the world’s largest fitness fair, in photos]]></title>
-<link>https://apnews.com/photo-gallery/inside-fibo-world-s-largest-fitness-fair-photos-2dc8d3b24f7342b69e85fccfbdc0249d</link>
-<pubDate>Fri, 17 Apr 2026 19:50:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US seizes Iranian-flagged ship near Strait of Hormuz and Tehran vows to respond]]></title>
+<title><![CDATA[US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3</link>
-<pubDate>Sun, 19 Apr 2026 22:23:30 -0000</pubDate>
+<pubDate>Sun, 19 Apr 2026 23:58:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Oil prices rise anew after a US-Iran standoff in the Strait of Hormuz strands tankers]]></title>
+<link>https://apnews.com/article/oil-prices-crude-iran-war-4de9058b58ed944a4113dfb2cf6369c8</link>
+<pubDate>Sun, 19 Apr 2026 23:43:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says]]></title>
 <link>https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7</link>
 <pubDate>Sat, 18 Apr 2026 20:09:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hong Kong fire victims to return to burned homes, grieving losses and grappling with trauma]]></title>
+<link>https://apnews.com/article/fire-victims-return-burned-homes-hong-kong-56a5b17180e14bba15987b17e07da9d9</link>
+<pubDate>Sun, 19 Apr 2026 23:28:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[8 children between the ages of 1 and 14 are dead after a mass shooting in Louisiana, police say]]></title>
+<title><![CDATA[Louisiana father kills 7 of his children plus another child in shooting at house, police say]]></title>
 <link>https://apnews.com/article/shreveport-mass-shooting-louisiana-15098626d4c868b2bbc8a957a6a6ead8</link>
-<pubDate>Sun, 19 Apr 2026 19:03:44 -0000</pubDate>
+<pubDate>Sun, 19 Apr 2026 23:13:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
