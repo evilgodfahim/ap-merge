@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Apr 2026 10:29:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 11:07:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran fully closes Strait of Hormuz over US blockade and fires on ships]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37</link>
@@ -23,21 +23,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AP Exclusive: Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head warns]]></title>
-<link>https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703</link>
-<pubDate>Thu, 16 Apr 2026 14:54:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade]]></title>
 <link>https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67</link>
 <pubDate>Sat, 18 Apr 2026 09:37:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling]]></title>
+<link>https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b</link>
+<pubDate>Fri, 17 Apr 2026 03:33:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Macron and Starmer welcome Hormuz reopening and push for permanent navigation security]]></title>
 <link>https://apnews.com/article/hormuz-strait-iran-blockade-britain-france-10518e69aecbb986c9118ff42ab0ca02</link>
 <pubDate>Sun, 19 Apr 2026 04:30:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Allies back Starmer as Mandelson and Epstein leave the UK leader fighting for his job]]></title>
+<link>https://apnews.com/article/keir-starmer-mandelson-epstein-ambassador-security-vetting-266cda693968937f15a661f39f48663c</link>
+<pubDate>Sun, 19 Apr 2026 11:07:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -50,12 +56,6 @@
 <title><![CDATA[Belgium’s tranquil oases in a world of noise and distraction]]></title>
 <link>https://apnews.com/article/bruges-belgium-beguinages-fb25a8cea5f6608a9e1c144393cb96d9</link>
 <pubDate>Sun, 19 Apr 2026 06:08:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says]]></title>
-<link>https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7</link>
-<pubDate>Sun, 19 Apr 2026 05:53:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,12 +95,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo’s own heritage may be a point of reflection as he visits a church linked to slavery]]></title>
-<link>https://apnews.com/article/pope-leo-angola-africa-slavery-church-16df3604b4dd1a2722e43687b930b720</link>
-<pubDate>Sat, 18 Apr 2026 13:39:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Gunmen in Nigeria attack a passenger bus and abduct students]]></title>
 <link>https://apnews.com/article/nigeria-benue-students-kidnapping-1a4b620203fb12e2105f9166b78cb9b5</link>
 <pubDate>Fri, 17 Apr 2026 14:33:20 -0000</pubDate>
@@ -116,6 +110,12 @@
 <title><![CDATA[Iran war energy shock drives nuclear power plans in hard-hit Asia and Africa]]></title>
 <link>https://apnews.com/article/middle-east-wars-nuclear-energy-asia-africa-ab082ccbbc1fca8ab7eb6871040bf4a3</link>
 <pubDate>Sat, 18 Apr 2026 13:54:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[About 15 Latin American deportees from the US arrive in Congo]]></title>
+<link>https://apnews.com/article/congo-us-latin-america-deportations-3bcf9794c5cda0ec4c96a28c70686db2</link>
+<pubDate>Fri, 17 Apr 2026 13:01:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,6 +209,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela’s Maria Corina Machado draws a huge Madrid crowd and rebuffs meeting with Spain’s PM]]></title>
+<link>https://apnews.com/article/venezuela-spain-trump-maduro-machado-nobel-sanchez-4819d547e7f3ff9a86228d0e457e92be</link>
+<pubDate>Sat, 18 Apr 2026 20:09:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000]]></title>
 <link>https://apnews.com/article/titanic-sinking-life-jacket-auction-8b435e9092435b0d7fe719f04017b1d2</link>
 <pubDate>Sat, 18 Apr 2026 18:40:10 -0000</pubDate>
@@ -254,6 +260,12 @@
 <title><![CDATA[Russian attacks on Ukraine kill 1 and wound dozens; Ukraine targets Russian industrial areas]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-attacks-91b94c473cfe21ba90a8f25764fae291</link>
 <pubDate>Sat, 18 Apr 2026 11:07:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV challenges Angola’s leaders while delivering a message of encouragement for its people]]></title>
+<link>https://apnews.com/article/pope-africa-angola-cameroon-afc7a60bc2a5ccb48eac34489c70fc9c</link>
+<pubDate>Sun, 19 Apr 2026 11:07:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,21 +371,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[World Court celebrates 80-year anniversary as the international legal framework is under strain]]></title>
-<link>https://apnews.com/article/world-court-80-rule-law-international-justice-07d6b59875506e24e4af738f2919d8a8</link>
-<pubDate>Fri, 17 Apr 2026 15:33:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Men caught competing in the women’s category of a prestigious South African marathon]]></title>
-<link>https://apnews.com/article/south-africa-marathon-men-women-cheating-bibs-05092d282888805ba9384614274a33ad</link>
-<pubDate>Fri, 17 Apr 2026 18:50:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran doubles down on closing the Strait of Hormuz as the ceasefire nears expiration]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3</link>
 <pubDate>Sun, 19 Apr 2026 09:37:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says]]></title>
+<link>https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7</link>
+<pubDate>Sat, 18 Apr 2026 20:09:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -383,15 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV says ‘not in my interest at all’ to debate Trump but will keep preaching peace]]></title>
-<link>https://apnews.com/article/pope-leo-trump-war-iran-peace-f9980c81d36fad024cce788c915c16eb</link>
-<pubDate>Sat, 18 Apr 2026 13:24:47 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV heads to Catholic shrine in Angola that was a center of African slave trade]]></title>
+<link>https://apnews.com/article/pope-vatican-africa-race-082b240dc063e5e382a76bf278cb18e8</link>
+<pubDate>Sun, 19 Apr 2026 11:07:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s Maria Corina Machado draws a huge Madrid crowd and rebuffs meeting with Spain’s PM]]></title>
-<link>https://apnews.com/article/venezuela-spain-trump-maduro-machado-nobel-sanchez-4819d547e7f3ff9a86228d0e457e92be</link>
-<pubDate>Sun, 19 Apr 2026 06:23:22 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV says ‘not in my interest at all’ to debate Trump but will keep preaching peace]]></title>
+<link>https://apnews.com/article/pope-leo-trump-war-iran-peace-f9980c81d36fad024cce788c915c16eb</link>
+<pubDate>Sat, 18 Apr 2026 13:24:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,12 +437,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling]]></title>
-<link>https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b</link>
-<pubDate>Sun, 19 Apr 2026 09:22:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US investment in a South African rare earths project is part of the focus on countering China]]></title>
 <link>https://apnews.com/article/us-south-africa-china-minerals-rare-earths-8bfd695cfbbda2f73fbd32cca0326006</link>
 <pubDate>Sun, 19 Apr 2026 09:07:25 -0000</pubDate>
@@ -461,6 +461,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[EU officials in Hungary to discuss unlocking billions of euros held while Orbán was in charge]]></title>
+<link>https://apnews.com/article/hungary-eu-unlock-funds-orban-5a208f4094d4d66a47de9fc10b9d194f</link>
+<pubDate>Sun, 19 Apr 2026 10:52:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bulgarians head to the polls to elect a parliament for the eighth time in 5 years]]></title>
 <link>https://apnews.com/article/bulgaria-election-radev-borissov-corruption-3e20cf8eef356337f724fd967efb72cf</link>
 <pubDate>Sun, 19 Apr 2026 06:08:22 -0000</pubDate>
@@ -479,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV challenges Angola’s leaders while delivering a message of encouragement for its people]]></title>
-<link>https://apnews.com/article/pope-africa-angola-cameroon-afc7a60bc2a5ccb48eac34489c70fc9c</link>
-<pubDate>Sat, 18 Apr 2026 17:01:51 -0000</pubDate>
+<title><![CDATA[Pope Leo’s own heritage may be a point of reflection as he visits a church linked to slavery]]></title>
+<link>https://apnews.com/article/pope-leo-angola-africa-slavery-church-16df3604b4dd1a2722e43687b930b720</link>
+<pubDate>Sat, 18 Apr 2026 02:19:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
