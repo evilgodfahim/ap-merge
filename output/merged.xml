@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Apr 2026 17:31:54 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran vows swift response after US seizes vessel]]></title>
-<link>https://apnews.com/live/iran-war-israel-trump-04-19-2026</link>
-<pubDate>Sun, 19 Apr 2026 23:58:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Tue, 21 Apr 2026 18:55:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump says he’s ‘highly unlikely’ to renew ceasefire with Iran ahead of peace talks in Pakistan]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-20-2026</link>
 <pubDate>Mon, 20 Apr 2026 16:53:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iran vows swift response after US seizes vessel]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-19-2026</link>
+<pubDate>Sun, 19 Apr 2026 23:58:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Driven by the pressures of war, Iran gives its field commanders more power over militias in Iraq]]></title>
-<link>https://apnews.com/article/iraq-militias-iran-war-c2fce96e2769bc8b3be43a729da5517b</link>
-<pubDate>Tue, 21 Apr 2026 17:31:50 -0000</pubDate>
+<title><![CDATA[Iran hasn’t yet decided whether to join ceasefire talks, Foreign Ministry spokesman says]]></title>
+<link>https://apnews.com/live/iran-war-israel-trump-04-21-2026</link>
+<pubDate>Tue, 21 Apr 2026 18:55:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Earthquake sets off brief tsunami alert and a megaquake advisory in northern Japan]]></title>
-<link>https://apnews.com/article/japan-earthquake-tsunami-0746aebae49fc6cc37e20836ca37d570</link>
-<pubDate>Tue, 21 Apr 2026 04:24:14 -0000</pubDate>
+<title><![CDATA[Driven by the pressures of war, Iran gives its field commanders more power over militias in Iraq]]></title>
+<link>https://apnews.com/article/iraq-militias-iran-war-c2fce96e2769bc8b3be43a729da5517b</link>
+<pubDate>Tue, 21 Apr 2026 17:31:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -47,15 +47,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Late Queen Elizabeth II’s legacy still looms over British monarchy 100 years after her birth]]></title>
-<link>https://apnews.com/article/queen-elizabeth-ii-centenary-king-charles-iii-b8bd95ffd4632d298b0740527503a4fb</link>
-<pubDate>Tue, 21 Apr 2026 04:09:14 -0000</pubDate>
+<title><![CDATA[Ukraine completes Druzhba pipeline repairs, hoping to unlock blocked EU loan]]></title>
+<link>https://apnews.com/article/ukraine-druzhba-pipeline-7dfc9574bf95a69eda13b1440171e402</link>
+<pubDate>Tue, 21 Apr 2026 18:40:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mideast crises divide Europe as it grapples with rising fuel costs and policy toward Israel]]></title>
-<link>https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93</link>
-<pubDate>Tue, 21 Apr 2026 17:01:50 -0000</pubDate>
+<title><![CDATA[Late Queen Elizabeth II’s legacy still looms over British monarchy 100 years after her birth]]></title>
+<link>https://apnews.com/article/queen-elizabeth-ii-centenary-king-charles-iii-b8bd95ffd4632d298b0740527503a4fb</link>
+<pubDate>Tue, 21 Apr 2026 04:09:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,6 +77,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico’s Sheinbaum demands explanation after US officials die after operation in Chihuahua]]></title>
+<link>https://apnews.com/article/mexico-sheinbaum-chihuahua-us-officials-deaths-646664d05452ddbad7b39b9d480fd46e</link>
+<pubDate>Tue, 21 Apr 2026 09:40:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba confirms meeting with US officials on island, wants energy blockade lifted]]></title>
 <link>https://apnews.com/article/cuba-us-talks-energy-blockade-meeting-bfdd1c4cc35f7c280b790cb500ae0d0c</link>
 <pubDate>Mon, 20 Apr 2026 18:50:07 -0000</pubDate>
@@ -89,21 +95,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Chad will deploy 1,500 troops to Haiti to help combat gang violence]]></title>
-<link>https://apnews.com/article/chad-haiti-gang-violence-un-suppression-force-3c0fc858eec089354342858434d9c0d1</link>
-<pubDate>Tue, 21 Apr 2026 09:25:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Nigeria charges 6 with treason over alleged coup plot]]></title>
 <link>https://apnews.com/article/nigeria-coup-treason-charges-arrest-bced3bf2645edf7dc615552dbc14b6b4</link>
 <pubDate>Tue, 21 Apr 2026 16:46:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan president postpones Eswatini visit and says China pressured African countries]]></title>
-<link>https://apnews.com/article/taiwan-eswatini-visit-cancel-lai-china-pressure-766186171449ceb7e62b1356e503986d</link>
-<pubDate>Tue, 21 Apr 2026 12:24:13 -0000</pubDate>
+<title><![CDATA[Pope Leo pays tribute to Pope Francis on the anniversary of his death]]></title>
+<link>https://apnews.com/article/pope-leo-xiv-francis-rome-vatican-africa-19148488ef19588dbacf666eb4c71b7c</link>
+<pubDate>Tue, 21 Apr 2026 10:58:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,9 +137,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Northeast flower and fruit farmers grapple with whiplash weather]]></title>
-<link>https://apnews.com/article/weather-hot-frost-crops-0d86613e76f0d10961e32ac96c9391fe</link>
-<pubDate>Tue, 21 Apr 2026 11:54:13 -0000</pubDate>
+<title><![CDATA[Republicans are launching a new effort to fund the Department of Homeland Security]]></title>
+<link>https://apnews.com/article/homeland-security-shutdown-trump-senate-ice-88123d8659e5df0572e4882f40238393</link>
+<pubDate>Tue, 21 Apr 2026 18:25:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Teenager pleads guilty after arson attack on London synagogue]]></title>
+<link>https://apnews.com/article/britain-court-london-arson-attacks-jewish-40f01690f6887c00324a727f1d288f03</link>
+<pubDate>Tue, 21 Apr 2026 18:55:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Earth Day started as a US ‘teach-in’ 56 years ago. Now it’s a global event]]></title>
 <link>https://apnews.com/article/earth-day-explained-environment-a027792357624ee3e88aea43f14d3ba0</link>
 <pubDate>Tue, 21 Apr 2026 17:31:52 -0000</pubDate>
@@ -218,6 +224,12 @@
 <title><![CDATA[NATO intercepts Russian military aircraft flying over the Baltic Sea]]></title>
 <link>https://apnews.com/article/nato-russia-fighter-jets-baltic-sea-interception-cb1a9726e66b602895636ba08ba5ed7b</link>
 <pubDate>Tue, 21 Apr 2026 13:09:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Mideast crises divide Europe as it grapples with rising fuel costs and policy toward Israel]]></title>
+<link>https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93</link>
+<pubDate>Tue, 21 Apr 2026 18:40:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -257,9 +269,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope criticizes colonization of Africa’s minerals as he arrives in Equatorial Guinea]]></title>
-<link>https://apnews.com/article/africa-pope-equatorial-guinea-0134a6982c295c125259c5fa4eb73395</link>
-<pubDate>Tue, 21 Apr 2026 14:55:09 -0000</pubDate>
+<title><![CDATA[Chad will deploy 1,500 troops to Haiti to help combat gang violence]]></title>
+<link>https://apnews.com/article/chad-haiti-gang-violence-un-suppression-force-3c0fc858eec089354342858434d9c0d1</link>
+<pubDate>Tue, 21 Apr 2026 18:25:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,21 +371,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Google testimony challenges key claim in Indonesian corruption trial]]></title>
-<link>https://apnews.com/article/indonesia-google-chromebook-corruption-5526609dd100adc95b5609bedc529edb</link>
-<pubDate>Tue, 21 Apr 2026 04:09:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Amy Winehouse’s father loses legal bid for funds friends made selling singer’s memorabilia]]></title>
-<link>https://apnews.com/article/amy-winehouse-estate-father-lawsuit-friends-memorabilia-fb0b4aa615e9bdfc72b1e238c9909f15</link>
-<pubDate>Mon, 20 Apr 2026 14:26:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[As US-Iran ceasefire deadline nears, uncertainty hangs over possible talks]]></title>
+<title><![CDATA[US puts negotiations with Iran on hold as ceasefire deadline nears]]></title>
 <link>https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30</link>
-<pubDate>Tue, 21 Apr 2026 17:31:53 -0000</pubDate>
+<pubDate>Tue, 21 Apr 2026 18:55:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,15 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy]]></title>
-<link>https://apnews.com/article/japan-lethal-weapons-export-takaichi-767250e58084ea3d585ab736372deeac</link>
-<pubDate>Tue, 21 Apr 2026 07:58:50 -0000</pubDate>
+<title><![CDATA[2 CIA officers killed in Mexico vehicle crash after counterdrug operation, AP sources say]]></title>
+<link>https://apnews.com/article/cia-mexico-crash-trump-sheinbaum-9a237fbbb7dca4f286727c65974396da</link>
+<pubDate>Tue, 21 Apr 2026 18:40:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s famous Teotihuacan pyramids are closed after gunman opens fire on tourists]]></title>
-<link>https://apnews.com/article/shooting-teotihuacuan-pyramid-canadian-killed-3f4e43decf5559a438b4cd89ae3a3eca</link>
-<pubDate>Tue, 21 Apr 2026 16:03:10 -0000</pubDate>
+<title><![CDATA[Pope criticizes colonization of Africa’s minerals as he arrives in Equatorial Guinea]]></title>
+<link>https://apnews.com/article/africa-pope-equatorial-guinea-0134a6982c295c125259c5fa4eb73395</link>
+<pubDate>Tue, 21 Apr 2026 18:25:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,9 +443,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks and oil prices hold relatively steady in the countdown to US-Iran ceasefire talks]]></title>
+<title><![CDATA[Stocks slip and oil prices rise as ceasefire talks between the U.S. and Iran look uncertain]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-oil-trump-2a433707e09976e2e77f2eba3a225f3d</link>
-<pubDate>Tue, 21 Apr 2026 13:55:09 -0000</pubDate>
+<pubDate>Tue, 21 Apr 2026 18:10:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy]]></title>
+<link>https://apnews.com/article/japan-lethal-weapons-export-takaichi-767250e58084ea3d585ab736372deeac</link>
+<pubDate>Tue, 21 Apr 2026 07:58:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,15 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Warsh says Trump has not pressured him to cut rates, even as president calls for reductions]]></title>
+<title><![CDATA[Warsh says he got no pressure from Trump to cut rates even as president publicly pushes for them]]></title>
 <link>https://apnews.com/article/federal-reserve-kevin-warsh-jerome-powell-dd88a3f06eddcada4db555fe11e547eb</link>
-<pubDate>Tue, 21 Apr 2026 16:46:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[California says Amazon pressured retailers to boost prices on their websites to not undercut it]]></title>
-<link>https://apnews.com/article/amazon-california-lawsuit-e1cc6a009a6bf11652b65b6675584461</link>
-<pubDate>Tue, 21 Apr 2026 06:28:50 -0000</pubDate>
+<pubDate>Tue, 21 Apr 2026 17:55:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,15 +479,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s Sheinbaum demands explanation after US officials die after operation in Chihuahua]]></title>
-<link>https://apnews.com/article/mexico-sheinbaum-chihuahua-us-officials-deaths-646664d05452ddbad7b39b9d480fd46e</link>
-<pubDate>Tue, 21 Apr 2026 01:23:58 -0000</pubDate>
+<title><![CDATA[Gunman who fired on tourists at Mexican pyramid carried materials related to 1999 Columbine massacre]]></title>
+<link>https://apnews.com/article/shooting-teotihuacuan-pyramid-canadian-killed-3f4e43decf5559a438b4cd89ae3a3eca</link>
+<pubDate>Tue, 21 Apr 2026 17:40:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo pays tribute to Pope Francis on the anniversary of his death]]></title>
-<link>https://apnews.com/article/pope-leo-xiv-francis-rome-vatican-africa-19148488ef19588dbacf666eb4c71b7c</link>
-<pubDate>Tue, 21 Apr 2026 12:54:14 -0000</pubDate>
+<title><![CDATA[Taiwan president postpones Eswatini visit and says China pressured African countries]]></title>
+<link>https://apnews.com/article/taiwan-eswatini-visit-cancel-lai-china-pressure-766186171449ceb7e62b1356e503986d</link>
+<pubDate>Tue, 21 Apr 2026 17:25:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
