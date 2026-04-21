@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Apr 2026 01:23:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 04:24:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran fully closes Strait of Hormuz over US blockade and fires on ships]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37</link>
@@ -29,9 +29,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan warns of slightly increased risk of mega-quake after a 7.7-magnitude one]]></title>
+<title><![CDATA[Earthquake sets off brief tsunami alert and a megaquake advisory in northern Japan]]></title>
 <link>https://apnews.com/article/japan-earthquake-tsunami-0746aebae49fc6cc37e20836ca37d570</link>
-<pubDate>Mon, 20 Apr 2026 16:38:00 -0000</pubDate>
+<pubDate>Tue, 21 Apr 2026 04:24:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -47,21 +47,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[EU hosts Palestinian peace conference as it seeks greater sway in the Middle East]]></title>
-<link>https://apnews.com/article/palestinian-authority-brussels-gaza-09d6a05a5947aaaf5053d4a09445446d</link>
-<pubDate>Mon, 20 Apr 2026 14:11:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US funding helps Cyprus upgrade military bases for its role as a regional safe haven]]></title>
-<link>https://apnews.com/article/cyprus-us-funding-military-air-navy-bases-16864b09ec8a04731d9ae32e1c2ef0a6</link>
-<pubDate>Mon, 20 Apr 2026 04:55:21 -0000</pubDate>
+<title><![CDATA[Late Queen Elizabeth II’s legacy still looms over British monarchy 100 years after her birth]]></title>
+<link>https://apnews.com/article/queen-elizabeth-ii-centenary-king-charles-iii-b8bd95ffd4632d298b0740527503a4fb</link>
+<pubDate>Tue, 21 Apr 2026 04:09:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Migrants rush to apply under Spain’s new mass legalization program]]></title>
 <link>https://apnews.com/article/spain-immigration-european-union-amnesty-immigrants-migrants-0f42829587a6d2aa74d61d5ab72c4a94</link>
 <pubDate>Mon, 20 Apr 2026 15:50:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hungary’s Magyar announces ministers after landslide election win]]></title>
+<link>https://apnews.com/article/hungary-magyar-cabinet-tisza-orban-kapitany-2be6015ab5363a0e36ca264fccd0985b</link>
+<pubDate>Tue, 21 Apr 2026 03:54:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[New Zealand Prime Minister Luxon survives party leadership vote months before election]]></title>
+<link>https://apnews.com/article/new-zealand-luxon-6dd3049deae8673ec17b381b386cb4c4</link>
+<pubDate>Tue, 21 Apr 2026 03:39:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[Bus accident in Indian-controlled Kashmir kills 21 people]]></title>
 <link>https://apnews.com/article/bus-accident-himalayan-road-kashmir-india-b9cd607b169151ab08c083b0a547f076</link>
 <pubDate>Mon, 20 Apr 2026 13:56:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Google testimony challenges key claim in Indonesian corruption trial]]></title>
-<link>https://apnews.com/article/indonesia-google-chromebook-corruption-5526609dd100adc95b5609bedc529edb</link>
-<pubDate>Mon, 20 Apr 2026 16:23:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A top paramilitary commander defects to Sudan’s military as war enters 4th year]]></title>
+<link>https://apnews.com/article/sudan-war-military-rsf-4e23d2a23f5efc8684aa85cb9295a773</link>
+<pubDate>Mon, 20 Apr 2026 21:06:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pope prays at Catholic shrine in Angola that was a center of African slave trade]]></title>
 <link>https://apnews.com/article/pope-vatican-africa-race-082b240dc063e5e382a76bf278cb18e8</link>
 <pubDate>Mon, 20 Apr 2026 12:13:34 -0000</pubDate>
@@ -119,15 +125,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds pack Montevideo’s plaza as La Rueda de Candombe caps a breakout run]]></title>
-<link>https://apnews.com/article/uruguay-montevideo-candombe-street-music-cannes-8582dd4d0d41fc319b3f92437f7d0d18</link>
-<pubDate>Sun, 19 Apr 2026 23:43:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[2 killed, 5 injured as planned fight between teens turns into deadly shooting at North Carolina park]]></title>
 <link>https://apnews.com/article/winston-salem-north-carolina-park-shooting-8036b934a84c4ba5fba4988a0220ff3c</link>
 <pubDate>Mon, 20 Apr 2026 20:51:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[After facing the death of its dominant newspaper, Pittsburgh’s media has a surprising turnaround]]></title>
+<link>https://apnews.com/article/pittsburgh-post-gazette-newspaper-shutdown-media-478142b7e1c8c8870d5859204749ec99</link>
+<pubDate>Tue, 21 Apr 2026 03:24:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -140,12 +146,6 @@
 <title><![CDATA[Search is on for 6 from a ship that overturned near the Northern Marianas during a typhoon]]></title>
 <link>https://apnews.com/article/saipan-missing-ship-typhoon-sinlaku-06386f4a15356f275b67070e0be489a6</link>
 <pubDate>Tue, 21 Apr 2026 01:08:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[With no end in sight to their deployment, National Guard troops roam Washington]]></title>
-<link>https://apnews.com/article/national-guard-surge-washington-dc-trump-7db1c795056a51c9fdc2d9c7f4c2147c</link>
-<pubDate>Mon, 20 Apr 2026 18:20:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Asian shares are mixed and oil prices slip as talks on ending Iran war in doubt]]></title>
+<link>https://apnews.com/article/stocks-markets-iran-oil-trump-2a433707e09976e2e77f2eba3a225f3d</link>
+<pubDate>Tue, 21 Apr 2026 04:24:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iranian extradited to US to face 2014 smuggling indictment over export of military sonar gear]]></title>
 <link>https://apnews.com/article/iran-military-export-sanctions-a34a6fce5ee61acf60944d34aeeb1523</link>
 <pubDate>Mon, 20 Apr 2026 23:33:00 -0000</pubDate>
@@ -233,12 +239,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary’s Magyar announces ministers after landslide election win]]></title>
-<link>https://apnews.com/article/hungary-magyar-cabinet-tisza-orban-kapitany-2be6015ab5363a0e36ca264fccd0985b</link>
-<pubDate>Mon, 20 Apr 2026 18:05:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU says Serbia could lose access to a billion euros over democratic backsliding]]></title>
 <link>https://apnews.com/article/eu-serbia-democracy-funding-kos-elections-venice-901cc53a44cc6349b0b3434c271b7667</link>
 <pubDate>Mon, 20 Apr 2026 17:50:07 -0000</pubDate>
@@ -254,6 +254,12 @@
 <title><![CDATA[Most fashion mannequins are about a size 2. The Met Gala exhibit is making room for diverse bodies]]></title>
 <link>https://apnews.com/article/met-gala-mannequins-costume-art-body-positivity-832682a0821a15abf314f6a721ac9b68</link>
 <pubDate>Mon, 20 Apr 2026 15:50:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Google testimony challenges key claim in Indonesian corruption trial]]></title>
+<link>https://apnews.com/article/indonesia-google-chromebook-corruption-5526609dd100adc95b5609bedc529edb</link>
+<pubDate>Tue, 21 Apr 2026 04:09:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -287,6 +293,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US funding helps Cyprus upgrade military bases for its role as a regional safe haven]]></title>
+<link>https://apnews.com/article/cyprus-us-funding-military-air-navy-bases-16864b09ec8a04731d9ae32e1c2ef0a6</link>
+<pubDate>Tue, 21 Apr 2026 03:54:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/associated-press-top-photos-april-20-2026-547be782ea53ed2b3e69c6c5c30db188</link>
 <pubDate>Mon, 20 Apr 2026 05:25:21 -0000</pubDate>
@@ -308,6 +320,12 @@
 <title><![CDATA[North Korea again tests cluster munitions in a launch observed by Kim and his daughter]]></title>
 <link>https://apnews.com/article/north-korea-kim-cluster-bombs-missiles-6e84f9d5a62f2067af2df8735fbc279d</link>
 <pubDate>Mon, 20 Apr 2026 13:41:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hundreds pack Montevideo’s plaza as La Rueda de Candombe caps a breakout run]]></title>
+<link>https://apnews.com/article/uruguay-montevideo-candombe-street-music-cannes-8582dd4d0d41fc319b3f92437f7d0d18</link>
+<pubDate>Mon, 20 Apr 2026 21:06:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,24 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The center-left coalition of former President Radev will win Bulgaria’s election, exit poll suggests]]></title>
-<link>https://apnews.com/article/bulgaria-election-radev-borissov-corruption-3e20cf8eef356337f724fd967efb72cf</link>
-<pubDate>Mon, 20 Apr 2026 09:07:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A humanoid robot sprints past the human half-marathon world record in Beijing race]]></title>
-<link>https://apnews.com/article/humanoid-robots-half-marathon-beijing-302d0c4781bab20100d6a0bb4e77b629</link>
-<pubDate>Mon, 20 Apr 2026 13:26:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea launches multiple short-range ballistic missiles toward sea]]></title>
-<link>https://apnews.com/article/korea-north-south-ballistic-missiles-849909a708458d07d6171570dc83be19</link>
-<pubDate>Mon, 20 Apr 2026 02:14:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump offers mixed messages about path ahead for US war against Iran]]></title>
 <link>https://apnews.com/article/us-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375</link>
 <pubDate>Mon, 20 Apr 2026 19:53:11 -0000</pubDate>
@@ -389,21 +389,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gunman shoots several tourists at historic pyramids in Mexico, killing a Canadian]]></title>
+<link>https://apnews.com/article/shooting-teotihuacuan-pyramid-canadian-killed-cfb0ee81bf45ab5df335a17363631296</link>
+<pubDate>Tue, 21 Apr 2026 04:24:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexico’s Sheinbaum demands explanation after US officials die after operation in Chihuahua]]></title>
 <link>https://apnews.com/article/mexico-sheinbaum-chihuahua-us-officials-deaths-646664d05452ddbad7b39b9d480fd46e</link>
 <pubDate>Tue, 21 Apr 2026 01:23:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people]]></title>
-<link>https://apnews.com/article/shooting-teotihuacuan-pyramid-canadian-killed-cfb0ee81bf45ab5df335a17363631296</link>
-<pubDate>Mon, 20 Apr 2026 21:36:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Did Pope Leo find his voice in Africa? Or did the world finally hear him?]]></title>
-<link>https://apnews.com/article/africa-pope-leo-trump-iran-war-d72ee89589d821785fa4ed195f0e99f6</link>
-<pubDate>Mon, 20 Apr 2026 14:26:41 -0000</pubDate>
+<title><![CDATA[Japan approves scrapping a ban on lethal weapons exports in a change of its postwar pacifist policy]]></title>
+<link>https://apnews.com/article/japan-lethal-weapons-export-takaichi-767250e58084ea3d585ab736372deeac</link>
+<pubDate>Tue, 21 Apr 2026 04:09:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -416,6 +416,12 @@
 <title><![CDATA[Drone footage shows devastation in strategic eastern Ukrainian city of Chasiv Yar]]></title>
 <link>https://apnews.com/video/drone-footage-shows-devastation-in-strategic-eastern-ukrainian-city-of-chasiv-yar-bb026ef101a04592949c4e2b0662d9d8</link>
 <pubDate>Mon, 20 Apr 2026 23:18:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[EU hosts Palestinian peace conference as it seeks greater sway in the Middle East]]></title>
+<link>https://apnews.com/article/palestinian-authority-brussels-gaza-09d6a05a5947aaaf5053d4a09445446d</link>
+<pubDate>Tue, 21 Apr 2026 01:08:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand Prime Minister Luxon survives party leadership vote months before election]]></title>
-<link>https://apnews.com/article/new-zealand-luxon-6dd3049deae8673ec17b381b386cb4c4</link>
-<pubDate>Tue, 21 Apr 2026 00:53:58 -0000</pubDate>
+<title><![CDATA[South Korean police seek to arrest K-pop mogul behind BTS]]></title>
+<link>https://apnews.com/article/south-korea-bang-hybe-arrest-bts-00e181bfbe471c541118d67f7ccad7bd</link>
+<pubDate>Tue, 21 Apr 2026 03:54:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A top paramilitary commander defects to Sudan’s military as war enters 4th year]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-4e23d2a23f5efc8684aa85cb9295a773</link>
-<pubDate>Mon, 20 Apr 2026 15:20:46 -0000</pubDate>
+<title><![CDATA[Did Pope Leo find his voice in Africa? Or did the world finally hear him?]]></title>
+<link>https://apnews.com/article/africa-pope-leo-trump-iran-war-d72ee89589d821785fa4ed195f0e99f6</link>
+<pubDate>Mon, 20 Apr 2026 14:26:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
