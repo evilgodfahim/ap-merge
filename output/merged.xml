@@ -3,23 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Apr 2026 07:09:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 09:00:47 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Trump offers combative social media post as ceasefire indefinitely extended]]></title>
+<title><![CDATA[2 ships attacked in Strait of Hormuz, Britain says, tangling efforts to end US-Iran war]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-21-2026</link>
-<pubDate>Wed, 22 Apr 2026 02:00:26 -0000</pubDate>
+<pubDate>Wed, 22 Apr 2026 09:00:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Trump says he’s ‘highly unlikely’ to renew ceasefire with Iran ahead of peace talks in Pakistan]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-20-2026</link>
 <pubDate>Mon, 20 Apr 2026 16:53:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response]]></title>
-<link>https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3</link>
-<pubDate>Mon, 20 Apr 2026 09:22:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,9 +29,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump offers mixed messages about path ahead for US war against Iran]]></title>
+<link>https://apnews.com/article/us-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375</link>
+<pubDate>Tue, 21 Apr 2026 13:24:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli army reservist kills 2 Palestinians, including a 14-year-old, in the occupied West Bank]]></title>
 <link>https://apnews.com/article/israel-settler-attack-west-bank-palestinians-995b157d60b99b1be91b430b23eaf605</link>
 <pubDate>Wed, 22 Apr 2026 07:08:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope visiting Equatorial Guinea prison in spotlight after US migrant deportations]]></title>
+<link>https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284</link>
+<pubDate>Wed, 22 Apr 2026 08:45:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -50,12 +56,6 @@
 <title><![CDATA[The AP Interview: Cyprus president says EU needs a clear playbook on helping members under attack]]></title>
 <link>https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c</link>
 <pubDate>Wed, 22 Apr 2026 05:09:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A specialized tour at the Berlin Zoo brings joy to people living with dementia]]></title>
-<link>https://apnews.com/article/barrier-free-tours-dementia-germany-3b325ed1491e9b97af68f62ddabeeeec</link>
-<pubDate>Wed, 22 Apr 2026 06:38:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,12 +95,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[How Sheila the three-wheeler dodged danger on a record 14,000-mile journey to tip of South Africa]]></title>
-<link>https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915</link>
-<pubDate>Wed, 22 Apr 2026 04:39:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Nigeria charges 6 with treason over alleged coup plot]]></title>
 <link>https://apnews.com/article/nigeria-coup-treason-charges-arrest-bced3bf2645edf7dc615552dbc14b6b4</link>
 <pubDate>Tue, 21 Apr 2026 16:46:50 -0000</pubDate>
@@ -116,6 +110,12 @@
 <title><![CDATA[French ambassador calls for South Africa to be at G20 after Trump bars country]]></title>
 <link>https://apnews.com/article/south-africa-france-ambassador-g20-g7-9e7997a75fb6666b402d93349be1c8a7</link>
 <pubDate>Tue, 21 Apr 2026 15:48:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Libya fueled war in Sudan with Colombian mercenaries and equipment, UN report finds]]></title>
+<link>https://apnews.com/article/sudan-war-military-rsf-libya-uae-d6dea5d3d58c99bdf9c30d4554e24508</link>
+<pubDate>Wed, 22 Apr 2026 01:15:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,15 +191,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope visiting Equatorial Guinea prison in spotlight after US migrant deportations]]></title>
-<link>https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284</link>
-<pubDate>Wed, 22 Apr 2026 07:09:00 -0000</pubDate>
+<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/see-world-vertical-top-photos-ap-photojournalists-8f0a5e13b63a4ae582e4542d6eb63b16</link>
+<pubDate>Wed, 22 Apr 2026 09:00:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK inflation rises in March as prices at the pump spike higher after Iran war]]></title>
+<link>https://apnews.com/article/britain-economy-inflation-iran-oil-440ff829ff37e2f77938a5f69625cc83</link>
+<pubDate>Wed, 22 Apr 2026 08:45:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Asian shares are mixed and oil prices little changed as investors watch for US-Iran talks]]></title>
 <link>https://apnews.com/article/stocks-markets-trump-oil-iran-bf4ea5c851c73f31ac1b12a7c21aa164</link>
 <pubDate>Wed, 22 Apr 2026 05:09:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A specialized tour at the Berlin Zoo brings joy to people living with dementia]]></title>
+<link>https://apnews.com/article/barrier-free-tours-dementia-germany-3b325ed1491e9b97af68f62ddabeeeec</link>
+<pubDate>Wed, 22 Apr 2026 04:54:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,6 +263,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[2 US officials killed in Mexico crash after anti-drug operation worked for CIA, AP sources say]]></title>
+<link>https://apnews.com/article/cia-mexico-crash-trump-sheinbaum-9a237fbbb7dca4f286727c65974396da</link>
+<pubDate>Wed, 22 Apr 2026 08:30:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Takeaways from former top UK official’s testimony on the Mandelson appointment scandal]]></title>
 <link>https://apnews.com/article/uk-starmer-mandelson-epstein-robbins-takeaways-725f077d6fd88561a99e96f9114b0864</link>
 <pubDate>Wed, 22 Apr 2026 06:54:00 -0000</pubDate>
@@ -278,12 +296,6 @@
 <title><![CDATA[Homophobic chant surfaces again in Mexico stadiums as issue looms for World Cup]]></title>
 <link>https://apnews.com/article/world-cup-mexico-chant-lgbt-b16ba646b1ae1d1a261b94343fe11785</link>
 <pubDate>Tue, 21 Apr 2026 15:48:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Libya fueled war in Sudan with Colombian mercenaries and equipment, UN report finds]]></title>
-<link>https://apnews.com/article/sudan-war-military-rsf-libya-uae-d6dea5d3d58c99bdf9c30d4554e24508</link>
-<pubDate>Tue, 21 Apr 2026 13:24:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says the US will extend its ceasefire with Iran at Pakistan’s request]]></title>
-<link>https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30</link>
-<pubDate>Wed, 22 Apr 2026 05:54:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[No cuddles, but lots of care: How a Paris-area wildlife hospital keeps rescued animals wild]]></title>
-<link>https://apnews.com/article/france-wildlife-hospital-fox-cub-9848e300cf7338761efb764f993106d5</link>
-<pubDate>Tue, 21 Apr 2026 11:39:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran attacks ship in Strait of Hormuz, complicating diplomatic efforts to resume talks]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
 <pubDate>Wed, 22 Apr 2026 07:09:01 -0000</pubDate>
@@ -380,12 +380,6 @@
 <title><![CDATA[PHOTO ESSAY: AP photographer chronicles Chernobyl’s painful legacy of silence, sacrifice and danger]]></title>
 <link>https://apnews.com/photo-essay/ukraine-chernobyl-nuclear-russia-soviet-union-photo-essay-2bcb2a72cf3989ec93e2e36f3080c293</link>
 <pubDate>Wed, 22 Apr 2026 06:39:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[2 US officials killed in Mexico crash after anti-drug operation worked for CIA, AP sources say]]></title>
-<link>https://apnews.com/article/cia-mexico-crash-trump-sheinbaum-9a237fbbb7dca4f286727c65974396da</link>
-<pubDate>Tue, 21 Apr 2026 19:58:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope criticizes colonization of Africa’s minerals as he arrives in Equatorial Guinea]]></title>
-<link>https://apnews.com/article/africa-pope-equatorial-guinea-0134a6982c295c125259c5fa4eb73395</link>
-<pubDate>Tue, 21 Apr 2026 18:25:32 -0000</pubDate>
+<title><![CDATA[How Sheila the three-wheeler dodged danger on a record 14,000-mile journey to tip of South Africa]]></title>
+<link>https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915</link>
+<pubDate>Wed, 22 Apr 2026 08:45:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
