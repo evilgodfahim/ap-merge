@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Apr 2026 06:22:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 08:14:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Pentagon says it will take months to clear mines in the Strait of Hormuz, AP source says]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-22-2026</link>
@@ -35,27 +35,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel pauses for Memorial Day, a public day for mourning in the shadow of war]]></title>
-<link>https://apnews.com/article/israel-war-gaza-memorial-dcf28223f7a0b9972dfe2bb3bd093794</link>
-<pubDate>Wed, 22 Apr 2026 23:37:08 -0000</pubDate>
+<title><![CDATA[Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge]]></title>
+<link>https://apnews.com/article/iran-us-war-leadership-24061a2a22ea5d74d3df89149ebcc3da</link>
+<pubDate>Thu, 23 Apr 2026 08:14:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[2 trains collide in Denmark, leaving 4 people critically injured]]></title>
+<link>https://apnews.com/article/denmark-train-collision-258a8ca0bcfdbe6b9c9b787abf5db7dc</link>
+<pubDate>Thu, 23 Apr 2026 07:59:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Nuclear energy is having a global revival 40 years after Chernobyl]]></title>
+<link>https://apnews.com/article/chernobyl-nuclear-power-iran-russia-3f5003ca20dfb4e2380c1c18aa6613b4</link>
+<pubDate>Thu, 23 Apr 2026 07:44:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[European Union ramps up crisis testing, convinced that Trump’s security priorities lie elsewhere]]></title>
 <link>https://apnews.com/article/eu-security-article-42-7-nato-trump-d8f2d19238a69903fdf2173ead1c4027</link>
 <pubDate>Thu, 23 Apr 2026 06:22:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[EU close to approving a $106B loan for Ukraine after months of deadlock]]></title>
-<link>https://apnews.com/article/eu-ukraine-loan-russia-hungary-oil-pipeline-40527e36edaea03d0a71f2d3e56fc90b</link>
-<pubDate>Wed, 22 Apr 2026 15:46:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine wants a Zelenskyy-Putin summit to jolt stalled US-led peace efforts]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-summit-drone-attack-dcd076caeda4cf67f5592274beed6364</link>
-<pubDate>Wed, 22 Apr 2026 10:44:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,15 +191,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[2 trains collide in Denmark, prompting a massive emergency response north of Copenhagen]]></title>
-<link>https://apnews.com/article/denmark-train-collision-258a8ca0bcfdbe6b9c9b787abf5db7dc</link>
-<pubDate>Thu, 23 Apr 2026 06:22:56 -0000</pubDate>
+<title><![CDATA[Turkish parliament passes bill to restrict social media access for under-15s]]></title>
+<link>https://apnews.com/article/turkey-social-media-children-restrictions-law-d88963a7446a12cf4963b73d455b5ef7</link>
+<pubDate>Thu, 23 Apr 2026 08:14:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Navy Secretary John Phelan is leaving in latest departure of a top defense leader]]></title>
+<title><![CDATA[Samsung workers rally in South Korea, demanding higher pay and threatening to strike]]></title>
+<link>https://apnews.com/article/korea-samsung-union-strike-ai-38e7a5030d3688850d3e8d8baf240f58</link>
+<pubDate>Thu, 23 Apr 2026 07:59:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[‘The Devil Wears Prada 2' puts a spotlight on Italy’s fashion capital]]></title>
+<link>https://apnews.com/article/italy-devil-wears-prada-milan-fashion-b67ede6ed7fdfddb146d13e430e74ba4</link>
+<pubDate>Thu, 23 Apr 2026 07:44:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Navy Secretary John Phelan is leaving in the latest departure of a top defense leader]]></title>
 <link>https://apnews.com/article/pentagon-navy-secretary-phelan-cao-3a871b87f1a31c1c7168f69e8fe4f7b5</link>
-<pubDate>Wed, 22 Apr 2026 23:37:09 -0000</pubDate>
+<pubDate>Thu, 23 Apr 2026 07:29:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,27 +371,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Most serious cyberattacks against the UK now from Russia, Iran and China, cyber chief says]]></title>
-<link>https://apnews.com/article/russia-iran-china-uk-cyber-defense-5fcdc5eaf14b2d016c2575bbdab47c39</link>
-<pubDate>Wed, 22 Apr 2026 12:43:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Peru’s election chief resigns over logistical problems in hotly disputed presidential contest]]></title>
-<link>https://apnews.com/article/peru-election-agency-head-resigns-2994623d10aeded475dc21357fe0f662</link>
-<pubDate>Wed, 22 Apr 2026 18:22:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
 <pubDate>Wed, 22 Apr 2026 12:58:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[More confusion looms over Strait of Hormuz after Iran attacks three ships near waterway]]></title>
-<link>https://apnews.com/article/us-iran-war-strait-of-hormuz-oil-tankers-b8b1d607583f88334bf10489cc4b63a2</link>
-<pubDate>Wed, 22 Apr 2026 19:59:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,9 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nuclear energy is having a global revival 40 years after Chernobyl]]></title>
-<link>https://apnews.com/article/chernobyl-nuclear-power-iran-russia-3f5003ca20dfb4e2380c1c18aa6613b4</link>
-<pubDate>Thu, 23 Apr 2026 06:22:58 -0000</pubDate>
+<title><![CDATA[A look at China’s behind-the-scenes role in Iran war diplomacy]]></title>
+<link>https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-64ffed10e021be660b3fb97f6f8647e9</link>
+<pubDate>Thu, 23 Apr 2026 08:14:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine]]></title>
+<link>https://apnews.com/article/slovakia-russia-oil-pipeline-ukraine-8ddc0f83e41d4be65b141c833f885eff</link>
+<pubDate>Thu, 23 Apr 2026 07:44:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,6 +407,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[More confusion looms over Strait of Hormuz after Iran attacks three ships near waterway]]></title>
+<link>https://apnews.com/article/us-iran-war-strait-of-hormuz-oil-tankers-b8b1d607583f88334bf10489cc4b63a2</link>
+<pubDate>Wed, 22 Apr 2026 19:59:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says]]></title>
+<link>https://apnews.com/article/lebanese-journalist-amal-khalil-killed-israel-airstrike-14cabe8f773f59450b1ac47e7706d0e6</link>
+<pubDate>Thu, 23 Apr 2026 07:29:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iranians have long sought work and relative stability in Turkey. The war could force some to return]]></title>
 <link>https://apnews.com/article/iran-war-turkey-migration-d5a32bc8f4694ad365b505ebbd471a90</link>
 <pubDate>Wed, 22 Apr 2026 06:54:01 -0000</pubDate>
@@ -416,18 +428,6 @@
 <title><![CDATA[Photos show Israelis celebrating at a West Bank spring despite heightened tensions]]></title>
 <link>https://apnews.com/photo-gallery/photos-west-bank-israelis-water-access-spring-19ee6835725cc224145035f8d9138e70</link>
 <pubDate>Wed, 22 Apr 2026 19:29:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge]]></title>
-<link>https://apnews.com/article/iran-us-war-leadership-24061a2a22ea5d74d3df89149ebcc3da</link>
-<pubDate>Tue, 21 Apr 2026 14:55:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Her kidnapped son was killed in a Gaza tunnel. A new memoir gives a searing account of her grief]]></title>
-<link>https://apnews.com/article/israel-palestinians-gaza-hamas-hostage-hersh-34222f0a396b6577853831015ba6b8b3</link>
-<pubDate>Tue, 21 Apr 2026 13:09:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
