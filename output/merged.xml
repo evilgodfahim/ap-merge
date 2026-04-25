@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 04:11:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 06:02:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says it seizes another oil tanker associated with Iran]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
@@ -35,15 +35,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[After a failed attempt, Australian families again attempt repatriation from Syria’s Roj camp]]></title>
-<link>https://apnews.com/article/roj-camp-syria-australia-islamic-state-families-2a3cdc8336aea5713832e8657cbdc2f6</link>
-<pubDate>Sat, 25 Apr 2026 03:56:06 -0000</pubDate>
+<title><![CDATA[Syrian authorities arrest ex-intelligence officer tied to a leaked video of a massacre]]></title>
+<link>https://apnews.com/article/syria-2013-shooting-video-yousef-intelligence-b51313a245018d0dec7672da3a342aa5</link>
+<pubDate>Sat, 25 Apr 2026 06:02:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
-<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
-<pubDate>Fri, 24 Apr 2026 14:29:07 -0000</pubDate>
+<title><![CDATA[Palestinians mourn third teenager killed in occupied West Bank this week]]></title>
+<link>https://apnews.com/article/west-bank-palestinian-teenager-killed-israel-military-3d74e0c2b6d66dd927622ac4a37e1ead</link>
+<pubDate>Sat, 25 Apr 2026 05:47:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Another wave of public outcry tests Putin’s rule in wartime Russia]]></title>
+<link>https://apnews.com/article/russia-putin-war-ukraine-discontent-approvals-6cb5bc7982e06584ad80cccb136c36fd</link>
+<pubDate>Sat, 25 Apr 2026 05:32:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,15 +59,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds]]></title>
-<link>https://apnews.com/article/britain-royals-state-visit-king-charles-iii-14e9bb0bd9b4ddfef85af836f68ae401</link>
-<pubDate>Sat, 25 Apr 2026 03:41:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war]]></title>
-<link>https://apnews.com/article/france-nato-russia-baltic-rafale-romania-5e60f8bb039282aa97fb076cbf1ca073</link>
-<pubDate>Fri, 24 Apr 2026 10:18:51 -0000</pubDate>
+<title><![CDATA[EU considers helping with Mideast energy infrastructure to bypass conflict zones]]></title>
+<link>https://apnews.com/article/oil-gas-hormuz-gulf-energy-infrastructure-95425c82bcd5287f372ad6bb0ee69f5f</link>
+<pubDate>Sat, 25 Apr 2026 05:17:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[What a reporter learned covering a protest in Venezuela led by women hoping to free their loved ones]]></title>
+<link>https://apnews.com/article/venezuela-political-prisoners-protests-wives-maduro-trump-f886b2b766cbf3f85b0148a324187434</link>
+<pubDate>Sat, 25 Apr 2026 05:02:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Colombia’s leader visits Venezuela for key talks with acting President Delcy Rodríguez]]></title>
 <link>https://apnews.com/article/petro-delcy-meeting-colombia-venezuela-trump-cda00185427fd9ca51ecc7296ffabb07</link>
 <pubDate>Sat, 25 Apr 2026 01:05:25 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Peru police raid ex-election chief’s home as ballot shortages spark a widening probe]]></title>
 <link>https://apnews.com/article/peru-election-probe-ballots-corvetto-police-raid-62a35c5c87117431503f07a017459a89</link>
 <pubDate>Fri, 24 Apr 2026 21:23:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Countries to gather in Colombia for summit aimed at breaking fossil fuel reliance]]></title>
-<link>https://apnews.com/article/conference-santa-marta-fossil-fuels-colombia-global-warming-69bed10edb165919582664b89964f753</link>
-<pubDate>Fri, 24 Apr 2026 17:12:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[EU considers helping with Mideast energy infrastructure to bypass conflict zones]]></title>
-<link>https://apnews.com/article/oil-gas-hormuz-gulf-energy-infrastructure-95425c82bcd5287f372ad6bb0ee69f5f</link>
-<pubDate>Sat, 25 Apr 2026 04:11:07 -0000</pubDate>
+<title><![CDATA[Australia and New Zealand gather in Turkey to commemorate WWI battle]]></title>
+<link>https://apnews.com/article/turkey-australia-new-zealand-anzac-day-gallipoli-2d62a5a205d683efce64c62661ce3cb3</link>
+<pubDate>Sat, 25 Apr 2026 06:02:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds]]></title>
+<link>https://apnews.com/article/britain-royals-state-visit-king-charles-iii-14e9bb0bd9b4ddfef85af836f68ae401</link>
+<pubDate>Sat, 25 Apr 2026 05:47:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -257,6 +263,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[After a failed attempt, Australian families again attempt repatriation from Syria’s Roj camp]]></title>
+<link>https://apnews.com/article/roj-camp-syria-australia-islamic-state-families-2a3cdc8336aea5713832e8657cbdc2f6</link>
+<pubDate>Sat, 25 Apr 2026 05:32:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Milan design week draws global creatives and makers despite war and economic worries]]></title>
 <link>https://apnews.com/article/italy-milan-design-week-furniture-fair-36490907e47baff819ccf6be59055e97</link>
 <pubDate>Fri, 24 Apr 2026 12:56:45 -0000</pubDate>
@@ -305,9 +317,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war]]></title>
+<link>https://apnews.com/article/france-nato-russia-baltic-rafale-romania-5e60f8bb039282aa97fb076cbf1ca073</link>
+<pubDate>Sat, 25 Apr 2026 05:17:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
+<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
+<pubDate>Sat, 25 Apr 2026 05:02:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A mass trial in El Salvador and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/latin-america-caribbean-photos-this-week-40067cd5183ea840b9750af0e2652348</link>
 <pubDate>Fri, 24 Apr 2026 04:33:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Countries to gather in Colombia for summit aimed at breaking fossil fuel reliance]]></title>
+<link>https://apnews.com/article/conference-santa-marta-fossil-fuels-colombia-global-warming-69bed10edb165919582664b89964f753</link>
+<pubDate>Sat, 25 Apr 2026 04:47:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,39 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cuban diplomat denies that releasing political prisoners is part of US negotiations]]></title>
-<link>https://apnews.com/article/cuba-trump-oil-embargo-political-prisoners-1251c4705935219ef5fac5215fb4dda5</link>
-<pubDate>Thu, 23 Apr 2026 20:51:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about a kidnapping case involving a child flown back to the US from Cuba]]></title>
-<link>https://apnews.com/article/cuba-utah-kidnapping-child-gender-surgery-57318ff0d101d6fad1caf2126ebe2fee</link>
-<pubDate>Thu, 23 Apr 2026 19:31:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US charges 2 Chinese nationals with managing cyberscam compound in Myanmar]]></title>
-<link>https://apnews.com/article/myanmar-scam-compound-chinese-nationals-charges-4b6a987f7af1d0ec4fd893e57b07c351</link>
-<pubDate>Thu, 23 Apr 2026 19:16:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[4 tickets to World Cup final are listed on FIFA’s resale site for more than $2 million]]></title>
-<link>https://apnews.com/article/fifa-world-cup-tickets-2403a3af16c67366c3aa1adcb5960f99</link>
-<pubDate>Thu, 23 Apr 2026 19:01:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Italy dismisses replacing Iran at the World Cup after suggestion by Trump official]]></title>
-<link>https://apnews.com/article/world-cup-iran-italy-93fc46cd72a9b8e0540377c96bc14ba9</link>
-<pubDate>Thu, 23 Apr 2026 16:55:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister]]></title>
-<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</link>
-<pubDate>Fri, 24 Apr 2026 17:42:13 -0000</pubDate>
+<title><![CDATA[Trump sends envoys to Islamabad as Iran rules out direct talks]]></title>
+<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0</link>
+<pubDate>Sat, 25 Apr 2026 06:02:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -392,12 +392,6 @@
 <title><![CDATA[Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded]]></title>
 <link>https://apnews.com/article/chernobyl-russia-ukraine-war-drone-dbd19c1f8d63b72483829e3b487dfee2</link>
 <pubDate>Sat, 25 Apr 2026 01:20:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What a reporter learned covering a protest in Venezuela led by women hoping to free their loved ones]]></title>
-<link>https://apnews.com/article/venezuela-political-prisoners-protests-wives-maduro-trump-f886b2b766cbf3f85b0148a324187434</link>
-<pubDate>Fri, 24 Apr 2026 12:26:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -425,15 +419,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian authorities arrest ex-intelligence officer tied to a leaked video of a massacre]]></title>
-<link>https://apnews.com/article/syria-2013-shooting-video-yousef-intelligence-b51313a245018d0dec7672da3a342aa5</link>
-<pubDate>Fri, 24 Apr 2026 14:29:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Palestinians mourn third teenager killed in occupied West Bank this week]]></title>
-<link>https://apnews.com/article/west-bank-palestinian-teenager-killed-israel-military-3d74e0c2b6d66dd927622ac4a37e1ead</link>
-<pubDate>Fri, 24 Apr 2026 12:11:46 -0000</pubDate>
+<title><![CDATA[Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister]]></title>
+<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</link>
+<pubDate>Fri, 24 Apr 2026 17:42:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
