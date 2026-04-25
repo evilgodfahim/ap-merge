@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 06:02:04 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US military says it seizes another oil tanker associated with Iran]]></title>
-<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
-<pubDate>Thu, 23 Apr 2026 12:58:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sat, 25 Apr 2026 07:49:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel and Lebanon agree to extend ceasefire by 3 weeks, Trump says]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-23-2026</link>
@@ -35,15 +29,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian authorities arrest ex-intelligence officer tied to a leaked video of a massacre]]></title>
-<link>https://apnews.com/article/syria-2013-shooting-video-yousef-intelligence-b51313a245018d0dec7672da3a342aa5</link>
-<pubDate>Sat, 25 Apr 2026 06:02:02 -0000</pubDate>
+<title><![CDATA[Mexico’s government keeps contradicting itself over role of CIA agents in Chihuahua operation]]></title>
+<link>https://apnews.com/article/mexico-cia-drugs-chihuahua-sheinbaum-4e75a18fe10e75219d62825d39f75b41</link>
+<pubDate>Sat, 25 Apr 2026 07:49:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Palestinians mourn third teenager killed in occupied West Bank this week]]></title>
-<link>https://apnews.com/article/west-bank-palestinian-teenager-killed-israel-military-3d74e0c2b6d66dd927622ac4a37e1ead</link>
-<pubDate>Sat, 25 Apr 2026 05:47:02 -0000</pubDate>
+<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
+<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
+<pubDate>Fri, 24 Apr 2026 14:29:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump likes a naval blockade. But Iran presents big differences from Venezuela and Cuba]]></title>
+<link>https://apnews.com/article/iran-blockade-strait-hormuz-trump-navy-f7af4e8f73dc75e158790db8c32296ac</link>
+<pubDate>Fri, 24 Apr 2026 14:14:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,15 +71,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean prosecutors deny police request for arrest warrant for K-pop mogul behind BTS]]></title>
-<link>https://apnews.com/article/south-korea-bang-hybe-bts-k-pop-625a450e8d721c768c4698bbca3af7f9</link>
-<pubDate>Fri, 24 Apr 2026 09:48:51 -0000</pubDate>
+<title><![CDATA[Radio Taiso exercise tradition is a simple yet dynamic way to start the day]]></title>
+<link>https://apnews.com/article/radio-taiso-c4faaf9abb045b3f25d3fda2779943bb</link>
+<pubDate>Sat, 25 Apr 2026 07:34:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China will send giant pandas to Atlanta again]]></title>
-<link>https://apnews.com/article/china-us-pandas-zoo-atlanta-743549119313ddeea6b1d838f76fe8b3</link>
-<pubDate>Fri, 24 Apr 2026 09:33:51 -0000</pubDate>
+<title><![CDATA[South Korean prosecutors deny police request for arrest warrant for K-pop mogul behind BTS]]></title>
+<link>https://apnews.com/article/south-korea-bang-hybe-bts-k-pop-625a450e8d721c768c4698bbca3af7f9</link>
+<pubDate>Fri, 24 Apr 2026 09:48:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -155,6 +155,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[China will send giant pandas to Atlanta again]]></title>
+<link>https://apnews.com/article/china-us-pandas-zoo-atlanta-743549119313ddeea6b1d838f76fe8b3</link>
+<pubDate>Fri, 24 Apr 2026 09:33:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration vows crackdown on Chinese companies ‘exploiting’ AI models made in US]]></title>
 <link>https://apnews.com/article/ai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c</link>
 <pubDate>Fri, 24 Apr 2026 01:11:55 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[Hong Kong regulators fine PwC $166M over China Evergrande audit]]></title>
 <link>https://apnews.com/article/hong-kong-china-evergrande-pwc-fine-a65ab658fa808e27fa9ffdaa6ac6151a</link>
 <pubDate>Thu, 23 Apr 2026 23:19:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A look at China’s behind-the-scenes role in Iran war diplomacy]]></title>
-<link>https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-64ffed10e021be660b3fb97f6f8647e9</link>
-<pubDate>Fri, 24 Apr 2026 12:56:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -269,6 +269,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Palestinians mourn third teenager killed in occupied West Bank this week]]></title>
+<link>https://apnews.com/article/west-bank-palestinian-teenager-killed-israel-military-3d74e0c2b6d66dd927622ac4a37e1ead</link>
+<pubDate>Sat, 25 Apr 2026 07:49:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Milan design week draws global creatives and makers despite war and economic worries]]></title>
 <link>https://apnews.com/article/italy-milan-design-week-furniture-fair-36490907e47baff819ccf6be59055e97</link>
 <pubDate>Fri, 24 Apr 2026 12:56:45 -0000</pubDate>
@@ -290,6 +296,12 @@
 <title><![CDATA[Daily life around the world, in photos]]></title>
 <link>https://apnews.com/photo-gallery/daily-life-photos-e581c7e4c2ece1ee145e0aaa176121de</link>
 <pubDate>Fri, 24 Apr 2026 11:22:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Syrian authorities arrest ex-intelligence officer tied to a leaked video of a massacre]]></title>
+<link>https://apnews.com/article/syria-2013-shooting-video-yousef-intelligence-b51313a245018d0dec7672da3a342aa5</link>
+<pubDate>Sat, 25 Apr 2026 07:34:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -320,12 +332,6 @@
 <title><![CDATA[In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war]]></title>
 <link>https://apnews.com/article/france-nato-russia-baltic-rafale-romania-5e60f8bb039282aa97fb076cbf1ca073</link>
 <pubDate>Sat, 25 Apr 2026 05:17:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
-<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
-<pubDate>Sat, 25 Apr 2026 05:02:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,15 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[At least 17 Somali migrants die after boat capsizes off Algeria]]></title>
-<link>https://apnews.com/article/somalia-algeria-migrants-capsized-boat-bc1978f36e98f84ec34b551553d3eda4</link>
-<pubDate>Thu, 23 Apr 2026 19:46:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump sends envoys to Islamabad as Iran rules out direct talks]]></title>
+<title><![CDATA[Trump to send envoys to Islamabad as Iran rules out direct talks]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0</link>
-<pubDate>Sat, 25 Apr 2026 06:02:03 -0000</pubDate>
+<pubDate>Sat, 25 Apr 2026 07:49:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
