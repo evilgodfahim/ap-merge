@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 11:31:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 12:37:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel and Lebanon agree to extend ceasefire by 3 weeks, Trump says]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-23-2026</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
-<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
-<pubDate>Fri, 24 Apr 2026 14:29:07 -0000</pubDate>
+<title><![CDATA[Wounded Lebanese journalist recounts hours of agony when Israeli strike killed colleague]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-journalist-killed-amal-khalil-4dd23ffb0fd8146253b686e5acfc076d</link>
+<pubDate>Sat, 25 Apr 2026 12:37:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Violent tornado tears through Oklahoma town, damaging 40 homes but sparing lives]]></title>
+<link>https://apnews.com/article/oklahoma-tornado-enid-eb6d1d20f03e8577ea46cf8489ca4c8e</link>
+<pubDate>Sat, 25 Apr 2026 12:22:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Growing wildfires blamed for death of Florida firefighter and destruction of 120 Georgia homes]]></title>
 <link>https://apnews.com/article/georgia-florida-wildfires-drought-54ae4a4b099c1c11b3d76800275055e1</link>
 <pubDate>Sat, 25 Apr 2026 03:26:06 -0000</pubDate>
@@ -131,15 +137,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Former Colorado funeral home owner sentenced to 30 years in case that forced industry crackdown]]></title>
-<link>https://apnews.com/article/colorado-funeral-home-corpse-abuse-sentencing-0b95f6ac895c7eca39d598845e02241c</link>
-<pubDate>Fri, 24 Apr 2026 20:53:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Justice Department to allow firing squads for executions in move to ramp up capital punishment]]></title>
-<link>https://apnews.com/article/death-penalty-firing-squads-justice-department-9e81687b80402e1e19d57bbc55772470</link>
-<pubDate>Fri, 24 Apr 2026 19:12:51 -0000</pubDate>
+<title><![CDATA[Trump’s disdain for wind projects creates a political storm for Republicans in coastal Virginia]]></title>
+<link>https://apnews.com/article/trump-clean-energy-offshore-wind-democrats-virginia-2ea1ca1df84435ddddef9320bbe6084d</link>
+<pubDate>Sat, 25 Apr 2026 12:07:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -275,6 +275,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister]]></title>
+<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</link>
+<pubDate>Sat, 25 Apr 2026 12:37:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Time runs out for assisted dying bill for England and Wales]]></title>
 <link>https://apnews.com/article/britain-assisted-dying-bill-9fa2b61a9a81cee698fc423577609efc</link>
 <pubDate>Sat, 25 Apr 2026 03:41:07 -0000</pubDate>
@@ -329,6 +335,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold]]></title>
+<link>https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41</link>
+<pubDate>Sat, 25 Apr 2026 05:02:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Intel’s best day since 1987 leads the US stock market to more records]]></title>
 <link>https://apnews.com/article/stock-markets-trump-iran-oil-75bd462d6795062bed788709d647dc68</link>
 <pubDate>Sat, 25 Apr 2026 08:56:12 -0000</pubDate>
@@ -359,18 +371,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Amnesty International and rights groups issue a World Cup travel advisory for the US]]></title>
-<link>https://apnews.com/article/amnesty-international-world-cup-travel-advisory-df0893a26006ae6594dc39fac53a78e4</link>
-<pubDate>Thu, 23 Apr 2026 21:36:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/associated-press-top-photos-april-23-2026-cfbf6f5f989695e146f7742187d8f813</link>
-<pubDate>Thu, 23 Apr 2026 21:21:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump to send envoys to Islamabad as Iran rules out direct talks]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0</link>
 <pubDate>Sat, 25 Apr 2026 07:49:36 -0000</pubDate>
@@ -383,15 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunfire and blasts rock Mali as attackers hit capital and other cities, residents say]]></title>
-<link>https://apnews.com/article/mali-gunfire-airport-96f93a72f4766d538e0c98d9e6afa912</link>
-<pubDate>Sat, 25 Apr 2026 11:31:09 -0000</pubDate>
+<title><![CDATA[US says it’s hunting for explosive mines in latest push to open the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-war-strait-hormuz-minesweeping-navy-underwater-edef3201f6e227c4b5e5edf1a28f6f77</link>
+<pubDate>Sat, 25 Apr 2026 12:37:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?]]></title>
-<link>https://apnews.com/article/iran-strait-hormuz-closed-us-military-analysis-5df204d8321e76cfad30c4329eb8d1ac</link>
-<pubDate>Fri, 24 Apr 2026 08:58:14 -0000</pubDate>
+<title><![CDATA[Gunfire and blasts rock Mali as attackers hit capital and other cities, residents say]]></title>
+<link>https://apnews.com/article/mali-gunfire-airport-96f93a72f4766d538e0c98d9e6afa912</link>
+<pubDate>Sat, 25 Apr 2026 11:31:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,6 +407,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump claims progress in Mideast wars, but grievances could reignite them]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-ceasefire-lebanon-gaza-9cad20d6a7c17855cc40c9e7d934fdcb</link>
+<pubDate>Sat, 25 Apr 2026 12:22:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?]]></title>
+<link>https://apnews.com/article/iran-strait-hormuz-closed-us-military-analysis-5df204d8321e76cfad30c4329eb8d1ac</link>
+<pubDate>Fri, 24 Apr 2026 08:58:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Israel’s Benjamin Netanyahu says he was treated for prostate cancer and is now healthy]]></title>
 <link>https://apnews.com/article/israel-netanyahu-prostate-cancer-84f65e369ec803694555baaf5f4f8f8f</link>
 <pubDate>Sat, 25 Apr 2026 04:11:08 -0000</pubDate>
@@ -416,18 +428,6 @@
 <title><![CDATA[EU considers helping with Mideast energy infrastructure to bypass conflict zones]]></title>
 <link>https://apnews.com/article/oil-gas-hormuz-gulf-energy-infrastructure-95425c82bcd5287f372ad6bb0ee69f5f</link>
 <pubDate>Sat, 25 Apr 2026 05:32:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wounded Lebanese journalist recounts hours of agony when Israeli strike killed colleague]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-journalist-killed-amal-khalil-4dd23ffb0fd8146253b686e5acfc076d</link>
-<pubDate>Fri, 24 Apr 2026 21:38:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister]]></title>
-<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</link>
-<pubDate>Fri, 24 Apr 2026 17:42:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Violent tornado tears through Oklahoma town, damaging 40 homes but sparing lives]]></title>
-<link>https://apnews.com/article/oklahoma-tornado-enid-eb6d1d20f03e8577ea46cf8489ca4c8e</link>
-<pubDate>Fri, 24 Apr 2026 20:53:09 -0000</pubDate>
+<title><![CDATA[Roommate charged with two counts of murder in death, disappearance of two USF students]]></title>
+<link>https://apnews.com/article/missing-graduate-students-florida-bangladesh-983f85642596c8ef9db9bfd76dd79669</link>
+<pubDate>Sat, 25 Apr 2026 12:07:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
