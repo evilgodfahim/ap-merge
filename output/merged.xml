@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Apr 2026 16:59:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 18:04:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump says he called off dispatching envoys to Iran talks]]></title>
 <link>https://apnews.com/live/iran-war-israel-trump-04-25-2026</link>
@@ -53,21 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
+<link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
+<pubDate>Mon, 27 Apr 2026 18:04:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Camera trap shows Sumatra orangutan using a canopy bridge to cross a public road in Indonesia]]></title>
 <link>https://apnews.com/article/orangutan-crosses-canopy-bridge-indonesia-sumatra-9015f59ef2c9223e60ea7a749ff2a2ee</link>
 <pubDate>Mon, 27 Apr 2026 16:59:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Afghanistan calls on Afghans who helped US in war and are now stuck in Qatar to return home]]></title>
-<link>https://apnews.com/article/afghanistan-refugees-resettlement-trump-congo-5b8935d0aa96f89556d75a34d6510648</link>
-<pubDate>Mon, 27 Apr 2026 11:05:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China’s top diplomat meets leader of Myanmar’s military-backed government on regional tour]]></title>
-<link>https://apnews.com/article/china-myanmar-diplomat-visit-tour-southeast-asia-e896637f4082b906f1b2fe6322eb8638</link>
-<pubDate>Mon, 27 Apr 2026 03:03:40 -0000</pubDate>
+<title><![CDATA[Japan’s prime minister launches a panel to review her country’s defense policies as threats escalate]]></title>
+<link>https://apnews.com/article/japan-takaichi-security-strategy-military-205195780b1577a8304b0df076d57018</link>
+<pubDate>Mon, 27 Apr 2026 17:49:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,9 +113,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Washington media dinner shooting suspect is set for his first court appearance on federal charges]]></title>
-<link>https://apnews.com/article/trump-correspondents-dinner-shooting-suspect-d4111facf965aaaa10334eb5c12901db</link>
-<pubDate>Mon, 27 Apr 2026 16:14:56 -0000</pubDate>
+<title><![CDATA[Prosecutors say suspect in missing students’ killings asked ChatGPT about disposing of a body]]></title>
+<link>https://apnews.com/article/missing-graduate-students-florida-bangladesh-8c51e7fabbf62c2c7ca91b7f04883ba6</link>
+<pubDate>Mon, 27 Apr 2026 17:34:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[College students are changing course in search of ‘AI-proof’ majors. But no one knows what they are]]></title>
+<link>https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba</link>
+<pubDate>Mon, 27 Apr 2026 17:19:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,15 +131,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Body found near the Florida bridge where body of 1 of 2 missing students was found days earlier]]></title>
-<link>https://apnews.com/article/missing-graduate-students-florida-bangladesh-8c51e7fabbf62c2c7ca91b7f04883ba6</link>
-<pubDate>Mon, 27 Apr 2026 14:34:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Fast-moving storms batter the Midwest, flooding streets and stranding commuters]]></title>
 <link>https://apnews.com/article/storms-tornadoes-missouri-st-louis-kansas-rescue-1c9df7f5f9bb905051c44ed909ffccb0</link>
 <pubDate>Mon, 27 Apr 2026 14:19:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China’s top diplomat meets leader of Myanmar’s military-backed government on regional tour]]></title>
+<link>https://apnews.com/article/china-myanmar-diplomat-visit-tour-southeast-asia-e896637f4082b906f1b2fe6322eb8638</link>
+<pubDate>Mon, 27 Apr 2026 03:03:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -152,12 +158,6 @@
 <title><![CDATA[China’s DeepSeek rolls out a long-anticipated update of its AI model]]></title>
 <link>https://apnews.com/article/deepseek-ai-china-gpt-v4-d2ed33f2521917193616e061674d5f92</link>
 <pubDate>Sat, 25 Apr 2026 08:56:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese foreign minister and Thai prime minister agree to collaborate on fighting cyberscams]]></title>
-<link>https://apnews.com/article/thailand-china-wang-yi-visit-anutin-81df5186d031e8f6e3d83178647d9496</link>
-<pubDate>Sat, 25 Apr 2026 09:26:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,9 +185,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Archaeologists at Pompeii use artificial intelligence to reveal the face of one of the victims]]></title>
+<title><![CDATA[Afghan officials say Pakistani strikes killed 7 and wounded 85 in first attacks since peace talks]]></title>
+<link>https://apnews.com/article/afghanistan-pakistan-fighting-china-attack-d73d4447afeb618210367aba860ff824</link>
+<pubDate>Mon, 27 Apr 2026 18:04:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Archaeologists at Pompeii use AI to reconstruct the face of one of the victims of volcano’s eruption]]></title>
 <link>https://apnews.com/article/italy-pompeii-artificial-intelligence-reconstruction-victims-vesuvius-2b1b4c944f4285a10699b3f3053fe8a6</link>
-<pubDate>Mon, 27 Apr 2026 16:59:57 -0000</pubDate>
+<pubDate>Mon, 27 Apr 2026 17:49:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,12 +365,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AP Was There: Early Chernobyl victims buried in Moscow cemetery]]></title>
-<link>https://apnews.com/article/ap-was-there-chernobyl-graves-anniversary-f5319808ed6d6bbcd70f7a3ecba5357c</link>
-<pubDate>Mon, 27 Apr 2026 05:43:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103</link>
 <pubDate>Mon, 27 Apr 2026 11:20:47 -0000</pubDate>
@@ -383,15 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Argentina’s leader bars journalists from government HQ, raising concerns about press freedom]]></title>
-<link>https://apnews.com/article/argentina-javier-milei-trump-casa-rosada-press-access-freedom-cpj-9c0478222865d18378b9b304694293f0</link>
-<pubDate>Mon, 27 Apr 2026 15:04:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[How a surgeon kept a Sudan hospital functioning on the war’s front line]]></title>
 <link>https://apnews.com/article/sudan-doctor-hospital-war-surgeon-omdurman-eb44070e80c6c646bf280559d27e8140</link>
 <pubDate>Mon, 27 Apr 2026 06:28:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Argentina’s leader bars journalists from government HQ, raising concerns about press freedom]]></title>
+<link>https://apnews.com/article/argentina-javier-milei-trump-casa-rosada-press-access-freedom-cpj-9c0478222865d18378b9b304694293f0</link>
+<pubDate>Mon, 27 Apr 2026 15:04:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks edge back from their records as oil prices rise]]></title>
+<title><![CDATA[US stocks hover near their records as oil prices rise]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-rates-oil-3e4d531c5ffa6b2ea91eb8a3c84b5822</link>
-<pubDate>Mon, 27 Apr 2026 16:59:58 -0000</pubDate>
+<pubDate>Mon, 27 Apr 2026 18:04:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
-<link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
-<pubDate>Mon, 27 Apr 2026 10:50:47 -0000</pubDate>
+<title><![CDATA[Trains collide near Indonesia’s capital, killing at least 3 people]]></title>
+<link>https://apnews.com/article/indonesia-train-crash-collision-jakarta-bekasi-01a34fb0c86c8f5b1ad4f1f7a9b1675b</link>
+<pubDate>Mon, 27 Apr 2026 17:49:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[College students are changing course in search of ‘AI-proof’ majors. But no one knows what they are]]></title>
-<link>https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba</link>
-<pubDate>Mon, 27 Apr 2026 14:19:14 -0000</pubDate>
+<title><![CDATA[Washington media dinner shooting suspect makes first court appearance on federal charges]]></title>
+<link>https://apnews.com/article/trump-correspondents-dinner-shooting-suspect-d4111facf965aaaa10334eb5c12901db</link>
+<pubDate>Mon, 27 Apr 2026 17:34:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China blocks Meta from acquiring AI startup Manus]]></title>
+<title><![CDATA[China blocks Meta from acquiring startup Manus as global AI rivalry deepens]]></title>
 <link>https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a</link>
-<pubDate>Mon, 27 Apr 2026 12:27:40 -0000</pubDate>
+<pubDate>Mon, 27 Apr 2026 17:19:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
