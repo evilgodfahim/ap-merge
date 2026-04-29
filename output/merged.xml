@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Apr 2026 04:06:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 06:41:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say]]></title>
 <link>https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103</link>
@@ -23,21 +23,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone]]></title>
-<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026-9f7bcaf20c42b56d3dba4b504936f7ee</link>
-<pubDate>Tue, 28 Apr 2026 05:21:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[With goals of Iran war unfulfilled, Netanyahu’s government faces unhappy public as elections loom]]></title>
 <link>https://apnews.com/article/netanyahu-trump-elections-ben-gvir-israel-iran-9e80db532e7f117c9fd57c706e3ffa56</link>
 <pubDate>Tue, 28 Apr 2026 07:42:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran’s economy has been battered. Its leaders still think Trump will blink first]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-economy-blockade-steel-exports-7d3c6c63ec432e57325814d48938ccfe</link>
+<pubDate>Wed, 29 Apr 2026 06:41:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Committee to Protect Journalists calls for release of missing German journalist in Syria]]></title>
 <link>https://apnews.com/article/germany-syria-missing-journalist-eva-maria-michelmann-e3a562c327b03f764cc75f18a0adfac4</link>
 <pubDate>Wed, 29 Apr 2026 04:06:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[King Charles III highlights US-UK bond during busy day of diplomacy with Trump and Congress]]></title>
+<link>https://apnews.com/article/king-charles-us-state-visit-trump-congress-4cd294e6333b4a9ba7ada2af4dd71aa9</link>
+<pubDate>Wed, 29 Apr 2026 06:26:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,12 +59,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[89-year-old man arrested for allegedly wounding at least 4 people with a shotgun in Greek capital]]></title>
-<link>https://apnews.com/article/greece-shooting-athens-f6c9e28cf880f86f2bdbd43b57290f2f</link>
-<pubDate>Wed, 29 Apr 2026 03:36:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[South Korean court extends prison sentence for wife of ousted president]]></title>
 <link>https://apnews.com/article/south-korea-martial-law-yoon-wife-kim-ece62dfc5d6e9eb88048d37b98d1d8f9</link>
 <pubDate>Tue, 28 Apr 2026 13:59:56 -0000</pubDate>
@@ -71,9 +71,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The Supreme Court seems likely to shut down a lawsuit by Falun Gong over Cisco’s aid to China]]></title>
-<link>https://apnews.com/article/supreme-court-china-cisco-falun-gong-lawsuit-c6a1fca49c35e031f9c889ac5bd30276</link>
-<pubDate>Tue, 28 Apr 2026 17:56:37 -0000</pubDate>
+<title><![CDATA[Rare earth mining is poisoning Mekong River tributaries, threatening ‘the world’s kitchen’]]></title>
+<link>https://apnews.com/article/rare-toxin-asia-food-energy-rivers-997fe49779594e002211352a019c1381</link>
+<pubDate>Wed, 29 Apr 2026 06:11:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s prime minister launches a panel to review her country’s defense policies as threats escalate]]></title>
+<link>https://apnews.com/article/japan-takaichi-security-strategy-military-205195780b1577a8304b0df076d57018</link>
+<pubDate>Mon, 27 Apr 2026 17:49:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[China blocks Meta from acquiring startup Manus as global AI rivalry deepens]]></title>
 <link>https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a</link>
 <pubDate>Tue, 28 Apr 2026 04:06:21 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil]]></title>
 <link>https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7</link>
 <pubDate>Sat, 25 Apr 2026 18:13:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up]]></title>
-<link>https://apnews.com/article/china-autos-evs-beijing-show-5822949e08d47f15eb268962d6a2daa1</link>
-<pubDate>Fri, 24 Apr 2026 18:42:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -188,6 +188,30 @@
 <title><![CDATA[India Parliament blocks Modi’s bid to redraw voting boundaries alongside seat quota for women]]></title>
 <link>https://apnews.com/article/india-women-reservation-bill-modi-seats-boundaries-e12e5dc09848d6bb94ad9b1ccd436a03</link>
 <pubDate>Tue, 28 Apr 2026 19:28:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Asian stocks gain and oil prices decline after the UAE says it will exit OPEC]]></title>
+<link>https://apnews.com/article/stock-markets-opec-trump-oil-iran-rates-16286a529f0fbb34ed213005ffda74b2</link>
+<pubDate>Wed, 29 Apr 2026 06:41:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hegseth will be grilled by Congress for the first time since the Iran war began]]></title>
+<link>https://apnews.com/article/hegseth-caine-iran-war-congress-military-budget-3bc48c4833414f9d786e19b6f93bf8b5</link>
+<pubDate>Wed, 29 Apr 2026 06:26:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show how toxic runoff from rare earth mines are risking Southeast Asia’s rivers]]></title>
+<link>https://apnews.com/photo-gallery/rare-earth-asia-food-energy-rivers-20b70f0050dffaa850ebf3273cef756d</link>
+<pubDate>Wed, 29 Apr 2026 06:11:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Supreme Court to weigh Trump administration push to end protections for Haitian, Syrian migrants]]></title>
+<link>https://apnews.com/article/immigration-supreme-court-haiti-syria-tps-f051fee0f9b2b95acf6bb4dc64deb43a</link>
+<pubDate>Wed, 29 Apr 2026 05:56:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -299,6 +323,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[89-year-old man arrested for allegedly wounding at least 4 people with a shotgun in Greek capital]]></title>
+<link>https://apnews.com/article/greece-shooting-athens-f6c9e28cf880f86f2bdbd43b57290f2f</link>
+<pubDate>Wed, 29 Apr 2026 05:41:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rescuers recover victims from an Indonesia train crash, in photos]]></title>
 <link>https://apnews.com/photo-gallery/indonesia-train-crash-jakarta-bekasi-photos-8c1e78d4e34967ce2ffee5c1d5c93325</link>
 <pubDate>Tue, 28 Apr 2026 07:42:16 -0000</pubDate>
@@ -341,36 +371,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela’s leader visits Barbados seeking oil and gas investments]]></title>
-<link>https://apnews.com/article/venezuela-delcy-rodriguez-barbados-visit-oil-investment-3d785041fed40fe36856c66b3da273ae</link>
-<pubDate>Tue, 28 Apr 2026 01:51:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pedro Pascal is moved to tears on his second visit to CCXP Mexico pop culture convention]]></title>
-<link>https://apnews.com/article/star-wars-pedro-pascal-favreau-mandalorian-grogu-72d7a13a9515e1312bd45634ce16d75e</link>
-<pubDate>Tue, 28 Apr 2026 01:36:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia climate conference highlights lack of financing for shift from fossil fuels]]></title>
-<link>https://apnews.com/article/climate-fossil-fuels-finance-conference-energy-transition-335239cc78c0c26e580d3c62a5e23658</link>
-<pubDate>Mon, 27 Apr 2026 23:41:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico’s Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident]]></title>
-<link>https://apnews.com/article/mexico-cia-drugs-chihuahua-sheinbaum-69998cb30f1fbe2eb4817bb44df4e898</link>
-<pubDate>Tue, 28 Apr 2026 01:21:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iran clash over Tehran’s nuclear program as review of atomic treaty begins at UN]]></title>
-<link>https://apnews.com/article/iran-un-nuclear-nonproliferation-treaty-us-2dee996cbaec872604baabc4cbd3f4df</link>
-<pubDate>Tue, 28 Apr 2026 19:28:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[United Arab Emirates will leave OPEC in a blow to the oil cartel]]></title>
 <link>https://apnews.com/article/opec-united-arab-emirates-leaving-cartel-4966108c3fafacb67181152216deda14</link>
 <pubDate>Wed, 29 Apr 2026 04:06:57 -0000</pubDate>
@@ -383,15 +383,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Young Palestinian artists in Gaza exhibit their impressions of war as a fragile ceasefire holds]]></title>
-<link>https://apnews.com/article/gaza-palestinians-israel-artists-exhibit-601d1e511ead06ad3d22a2e10908226c</link>
-<pubDate>Tue, 28 Apr 2026 17:41:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[King Charles III highlights US-UK bond during busy day of diplomacy with Trump and Congress]]></title>
-<link>https://apnews.com/article/king-charles-us-state-visit-trump-congress-4cd294e6333b4a9ba7ada2af4dd71aa9</link>
-<pubDate>Wed, 29 Apr 2026 03:36:57 -0000</pubDate>
+<title><![CDATA[Sudan’s war leaves Khartoum with unexploded mines and other weapons]]></title>
+<link>https://apnews.com/article/sudan-mines-war-children-66261ba53ba429d9982dc84c41fc1e7d</link>
+<pubDate>Wed, 29 Apr 2026 06:41:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,6 +455,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[King Charles III and Queen Camilla visiting 9/11 Memorial and other NYC landmarks as part of US trip]]></title>
+<link>https://apnews.com/article/king-charles-queen-camilla-nyc-us-visit-63f8929b0af8268eed30d3a1ebfcebcf</link>
+<pubDate>Wed, 29 Apr 2026 06:26:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rescuers recover last victims from Indonesia train wreck that killed 15 and injured dozens]]></title>
 <link>https://apnews.com/article/indonesia-train-crash-collision-jakarta-bekasi-68733f623f8f615f2f7eb55f180f328f</link>
 <pubDate>Tue, 28 Apr 2026 13:44:58 -0000</pubDate>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s prime minister launches a panel to review her country’s defense policies as threats escalate]]></title>
-<link>https://apnews.com/article/japan-takaichi-security-strategy-military-205195780b1577a8304b0df076d57018</link>
-<pubDate>Tue, 28 Apr 2026 09:04:29 -0000</pubDate>
+<title><![CDATA[The Supreme Court seems likely to shut down a lawsuit by Falun Gong over Cisco’s aid to China]]></title>
+<link>https://apnews.com/article/supreme-court-china-cisco-falun-gong-lawsuit-c6a1fca49c35e031f9c889ac5bd30276</link>
+<pubDate>Wed, 29 Apr 2026 06:11:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
