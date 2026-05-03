@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 03 May 2026 10:43:20 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran’s supreme leader vows to protect nuclear and missile capabilities]]></title>
-<link>https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b</link>
-<pubDate>Fri, 01 May 2026 05:33:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sun, 03 May 2026 11:34:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Mexico City is sinking so quickly, it can be seen from space]]></title>
 <link>https://apnews.com/article/mexico-city-sinking-nasa-satellite-imagery-b5a70fbc2f73a789f248ab69b08c75e7</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-oil-drone-attacks-environment-bd5d03a3e3515f0a3b5b48031bc2c18c</link>
 <pubDate>Sun, 03 May 2026 06:44:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Mexico to investigate US indictment of officials for alleged Sinaloa Cartel ties]]></title>
+<link>https://apnews.com/article/mexico-us-drugs-indictment-sheinbaum-sinaloa-6bd92fa1363049e9e53860fde26f0d3b</link>
+<pubDate>Thu, 30 Apr 2026 23:40:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Kentucky man charged in deadly bank robbery after high-speed chase]]></title>
+<link>https://apnews.com/article/berea-kentucky-bank-robbery-bf13b9d339ceef55ffd4b21ab2bb3f8e</link>
+<pubDate>Sat, 02 May 2026 04:21:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pickleball players killed in Texas plane crash included a school tennis star, trauma counselor]]></title>
 <link>https://apnews.com/article/texas-plane-crash-pickleball-555c97a4ebc91b07000d471be696cac0</link>
 <pubDate>Sat, 02 May 2026 23:06:57 -0000</pubDate>
@@ -134,12 +140,6 @@
 <title><![CDATA[OxyContin maker Purdue Pharma’s settlement, by the numbers]]></title>
 <link>https://apnews.com/article/purdue-pharma-opioid-crisis-settlement-sackler-3eb7b6f1c6d343a0289ea57e992bf9a7</link>
 <pubDate>Fri, 01 May 2026 13:12:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro’s Venezuela]]></title>
-<link>https://apnews.com/article/venezuela-foreign-lobbying-e797f94aed52b4a031b39eae7eba0992</link>
-<pubDate>Fri, 01 May 2026 17:03:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -188,6 +188,18 @@
 <title><![CDATA[India Parliament blocks Modi’s bid to redraw voting boundaries alongside seat quota for women]]></title>
 <link>https://apnews.com/article/india-women-reservation-bill-modi-seats-boundaries-e12e5dc09848d6bb94ad9b1ccd436a03</link>
 <pubDate>Tue, 28 Apr 2026 19:28:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[How a weaker dollar is quietly making life more expensive]]></title>
+<link>https://apnews.com/article/trump-dollar-currency-inflation-dd9a898575e378e6144b3f152e9d8ea0</link>
+<pubDate>Sun, 03 May 2026 11:34:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[2 dead and 16 injured in attempted channel crossing from France to UK]]></title>
+<link>https://apnews.com/article/migrants-boat-france-uk-channel-dbe3697184bf0329bb02a3fa1683968a</link>
+<pubDate>Sun, 03 May 2026 11:19:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -266,6 +278,12 @@
 <title><![CDATA[Hundreds detained during May Day protests in Turkey]]></title>
 <link>https://apnews.com/article/turkey-may-day-istanbul-arrests-51e1c609c94fee210f48d9482defd103</link>
 <pubDate>Fri, 01 May 2026 17:48:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro’s Venezuela]]></title>
+<link>https://apnews.com/article/venezuela-foreign-lobbying-e797f94aed52b4a031b39eae7eba0992</link>
+<pubDate>Sun, 03 May 2026 11:04:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -350,24 +368,6 @@
 <title><![CDATA[Man jailed after being charged with attempted murder in stabbings of Jewish men in London]]></title>
 <link>https://apnews.com/article/london-jewish-stabbing-d892f8e3446b03fdcb0e59d97465ccd7</link>
 <pubDate>Sat, 02 May 2026 10:40:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Venezuela nonstop flights resume, and other top photos from Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-colombia-haiti-top-photos-latin-america-caribbean-adb607610046cbd647d5d93a3cfadb13</link>
-<pubDate>Fri, 01 May 2026 17:18:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Major global news moments of April, in AP photos]]></title>
-<link>https://apnews.com/photo-gallery/major-global-news-moments-march-ap-photos-89d6a8bcf68f41508b34a56c747bb1ff</link>
-<pubDate>Fri, 01 May 2026 05:33:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says deadline for Congress to approve Iran war doesn’t apply: Hostilities have ‘terminated’]]></title>
-<link>https://apnews.com/article/iran-congress-war-powers-republicans-trump-authorization-41ef029df176a6486422e9d68aa6d872</link>
-<pubDate>Fri, 01 May 2026 18:25:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Kentucky man charged in deadly bank robbery after high-speed chase]]></title>
-<link>https://apnews.com/article/berea-kentucky-bank-robbery-bf13b9d339ceef55ffd4b21ab2bb3f8e</link>
-<pubDate>Fri, 01 May 2026 16:48:29 -0000</pubDate>
+<title><![CDATA[Trump keeps us up in the air with his hints of what’s coming in a new batch of UFO files]]></title>
+<link>https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-a46e3de873e25fe2222de040a8e0242b</link>
+<pubDate>Sun, 03 May 2026 11:34:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
