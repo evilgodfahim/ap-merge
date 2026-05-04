@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 04 May 2026 13:19:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 15:26:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump says the US will ‘guide’ stranded ships from the Strait of Hormuz, starting on Monday]]></title>
 <link>https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-454006a0a9bb19a45a2f299c0869cefb</link>
 <pubDate>Mon, 04 May 2026 07:29:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico City is sinking so quickly, it can be seen from space]]></title>
-<link>https://apnews.com/article/mexico-city-sinking-nasa-satellite-imagery-b5a70fbc2f73a789f248ab69b08c75e7</link>
-<pubDate>Fri, 01 May 2026 13:27:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,9 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[King Charles III wins praise for deft handling of Trump on his US state visit]]></title>
-<link>https://apnews.com/article/king-charles-iii-trump-state-visit-3dbe93e7c379d5ef6fe08864db2f8a2c</link>
-<pubDate>Fri, 01 May 2026 13:42:29 -0000</pubDate>
+<title><![CDATA[2 US service members missing after military exercises in Morocco]]></title>
+<link>https://apnews.com/article/morocco-us-africom-african-lion-exercise-missing-733658c155ce6d64a740a2abb9e59e52</link>
+<pubDate>Sun, 03 May 2026 21:31:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine hits key Russian oil-loading port and 3 ‘shadow fleet’ tankers]]></title>
+<link>https://apnews.com/article/russia-ukraine-drones-strike-attack-oil-port-b686081ec3f3a9da07d380413067cfd6</link>
+<pubDate>Mon, 04 May 2026 03:59:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,9 +71,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nearly 200,000 people affected as over 5,400 flee ash from Philippine volcano]]></title>
-<link>https://apnews.com/article/mayon-volcano-philippines-albay-province-ae152c7f9bd208273cafea80cee9d33d</link>
-<pubDate>Mon, 04 May 2026 11:11:14 -0000</pubDate>
+<title><![CDATA[Australian Jews tell antisemitism inquiry of surge in hate before Bondi Hanukkah massacre]]></title>
+<link>https://apnews.com/article/australia-antisemitism-bondi-shooting-royal-commission-jewish-268d18b155876f1f44ffaffaf7d658d3</link>
+<pubDate>Mon, 04 May 2026 15:26:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about hantavirus, the illness suspected in a cruise ship outbreak]]></title>
+<link>https://apnews.com/article/what-to-know-hantavirus-cruise-ship-366c781ff168656ff47ae9796965daaa</link>
+<pubDate>Mon, 04 May 2026 15:11:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A sun-baked Senegal village erupts in color for one of Africa’s biggest dance festivals]]></title>
 <link>https://apnews.com/article/senegal-dance-festival-98edb730f6c15bce140574457f5f083a</link>
 <pubDate>Mon, 04 May 2026 10:56:14 -0000</pubDate>
@@ -110,12 +116,6 @@
 <title><![CDATA[Armed men abduct a former minister and junta critic in Mali, his family says]]></title>
 <link>https://apnews.com/article/mali-abduction-minister-bamako-mountaga-tall-3d459f971e35e8335aa74dc22ca8c11a</link>
 <pubDate>Mon, 04 May 2026 06:29:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[2 US service members missing after military exercises in Morocco]]></title>
-<link>https://apnews.com/article/morocco-us-africom-african-lion-exercise-missing-733658c155ce6d64a740a2abb9e59e52</link>
-<pubDate>Sun, 03 May 2026 21:31:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -173,12 +173,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
-<link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
-<pubDate>Mon, 27 Apr 2026 18:04:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Voting begins in India’s West Bengal state after a national voter list purge]]></title>
 <link>https://apnews.com/article/india-west-bengal-election-3e3e4f6d073311d2f49b903c170076a1</link>
 <pubDate>Fri, 24 Apr 2026 00:56:55 -0000</pubDate>
@@ -197,6 +191,30 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India Parliament blocks Modi’s bid to redraw voting boundaries alongside seat quota for women]]></title>
+<link>https://apnews.com/article/india-women-reservation-bill-modi-seats-boundaries-e12e5dc09848d6bb94ad9b1ccd436a03</link>
+<pubDate>Tue, 28 Apr 2026 19:28:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Berlin’s Pergamon Museum will reopen in mid-2027 as a lengthy restoration moves forward]]></title>
+<link>https://apnews.com/article/germany-berlin-pergamon-museum-reopening-2027-altar-961443688a26ce54414a2857b3e95c3d</link>
+<pubDate>Mon, 04 May 2026 15:26:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Rubio plans to visit the Vatican this week as tensions between Trump and the pope rise]]></title>
+<link>https://apnews.com/article/rubio-trump-pope-leo-italy-vatican-8f5b900912e02ac6f3b93e173e01ea74</link>
+<pubDate>Mon, 04 May 2026 15:11:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Seattle to host World Cup games for the 1st time: 5 things to know about the Emerald City]]></title>
+<link>https://apnews.com/article/world-cup-seattle-fan-zones-transportation-dae52a921f1dc4cca01c333270f609f0</link>
+<pubDate>Mon, 04 May 2026 14:56:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Princess Eugenie and her husband announce they are expecting their 3rd child]]></title>
 <link>https://apnews.com/article/britain-royal-princess-eugenie-pregnant-jack-brooksbank-105a03459b7243aa4e057fc2db07a765</link>
 <pubDate>Mon, 04 May 2026 11:41:15 -0000</pubDate>
@@ -209,15 +227,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nearly 200,000 people affected as over 5,400 flee ash from Philippine volcano]]></title>
+<link>https://apnews.com/article/mayon-volcano-philippines-albay-province-ae152c7f9bd208273cafea80cee9d33d</link>
+<pubDate>Mon, 04 May 2026 14:41:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-day-ap-s-photojournalists-e7bc2f553f3846a0bd188d2e6226d5f8</link>
 <pubDate>Mon, 04 May 2026 07:14:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street retreats, oil prices jump on conflicting reports of a strike on US Navy vessel near Iran]]></title>
+<title><![CDATA[Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-oil-iran-f49473018bee5fb6f2af85495fa045f8</link>
-<pubDate>Mon, 04 May 2026 13:19:39 -0000</pubDate>
+<pubDate>Mon, 04 May 2026 14:26:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,33 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba’s electric and petroleum workers celebrate their colleagues during massive rally]]></title>
-<link>https://apnews.com/article/cuba-may-1-power-workers-outages-union-petroleum-9ecb9f1c31357cb0b599869d3c49d31b</link>
-<pubDate>Mon, 04 May 2026 13:04:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds detained during May Day protests in Turkey]]></title>
-<link>https://apnews.com/article/turkey-may-day-istanbul-arrests-51e1c609c94fee210f48d9482defd103</link>
-<pubDate>Fri, 01 May 2026 17:48:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro’s Venezuela]]></title>
-<link>https://apnews.com/article/venezuela-foreign-lobbying-e797f94aed52b4a031b39eae7eba0992</link>
-<pubDate>Sun, 03 May 2026 11:04:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says he’s not satisfied with Iran’s proposal to end the war]]></title>
-<link>https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-b48635e586e2907caae65b58bd03f5b7</link>
-<pubDate>Sat, 02 May 2026 08:17:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US denies Iran struck a military vessel during new effort to reopen Strait of Hormuz]]></title>
+<title><![CDATA[US claims progress in reopening the Strait of Hormuz, saying 2 merchant ships have transited]]></title>
 <link>https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-a4857f28d9b47e0170b65ced19451a25</link>
-<pubDate>Mon, 04 May 2026 13:19:40 -0000</pubDate>
+<pubDate>Mon, 04 May 2026 15:26:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,15 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[For foreign workers in the Mideast, risk from the Iran war collides with economic strain at home]]></title>
-<link>https://apnews.com/article/iran-war-economy-asia-migrant-workers-af7df2adfab5dc17fbd07a040e5c4edf</link>
-<pubDate>Mon, 04 May 2026 04:14:07 -0000</pubDate>
+<title><![CDATA[Argentina’s Milei restores press access to presidency after a ban sparks backlash]]></title>
+<link>https://apnews.com/article/argentina-milei-press-freedom-democracy-trump-casa-rosada-13c730088043d61f01f2bf5683d4c317</link>
+<pubDate>Mon, 04 May 2026 15:11:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A cruise ship is waiting for help after a suspected outbreak of rare hantavirus onboard killed 3]]></title>
-<link>https://apnews.com/article/hantavirus-cruise-ship-hondius-cape-verde-74c38cab57da78f7d4c0eefac4311edf</link>
-<pubDate>Mon, 04 May 2026 13:04:40 -0000</pubDate>
+<title><![CDATA[Iran war has put foreign workers in the Gulf at greater risk while raising the cost of going home]]></title>
+<link>https://apnews.com/article/iran-war-economy-asia-migrant-workers-af7df2adfab5dc17fbd07a040e5c4edf</link>
+<pubDate>Mon, 04 May 2026 14:56:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Australian Jews tell antisemitism inquiry of surge in hate before Bondi Hanukkah massacre]]></title>
-<link>https://apnews.com/article/australia-antisemitism-bondi-shooting-royal-commission-jewish-268d18b155876f1f44ffaffaf7d658d3</link>
-<pubDate>Mon, 04 May 2026 09:21:07 -0000</pubDate>
+<title><![CDATA[Modi’s party takes control of India’s West Bengal in key state election]]></title>
+<link>https://apnews.com/article/india-state-elections-west-bengal-joseph-vija-561dc6a5460485df5c4d6d84c9bc1502</link>
+<pubDate>Mon, 04 May 2026 14:41:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about hantavirus, the illness suspected in a cruise ship outbreak]]></title>
-<link>https://apnews.com/article/what-to-know-hantavirus-cruise-ship-366c781ff168656ff47ae9796965daaa</link>
-<pubDate>Mon, 04 May 2026 03:29:07 -0000</pubDate>
+<title><![CDATA[A cruise ship is waiting for help after a suspected outbreak of rare hantavirus onboard killed 3]]></title>
+<link>https://apnews.com/article/hantavirus-cruise-ship-hondius-cape-verde-74c38cab57da78f7d4c0eefac4311edf</link>
+<pubDate>Mon, 04 May 2026 13:04:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Shooting at a lakeside party near Oklahoma City sends at least 13 people to hospitals]]></title>
+<title><![CDATA[Police search for suspects in Oklahoma shooting that sent at least 13 people to hospitals]]></title>
 <link>https://apnews.com/article/oklahoma-edmond-arcadia-lake-party-shooting-2bcf01e21af70e114b6132765252a8a1</link>
-<pubDate>Mon, 04 May 2026 11:26:15 -0000</pubDate>
+<pubDate>Mon, 04 May 2026 14:26:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -503,9 +503,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Modi’s party is set to take control of West Bengal in key election, a blow to opposition]]></title>
-<link>https://apnews.com/article/india-state-elections-west-bengal-joseph-vija-561dc6a5460485df5c4d6d84c9bc1502</link>
-<pubDate>Mon, 04 May 2026 12:19:40 -0000</pubDate>
+<title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
+<link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
+<pubDate>Mon, 27 Apr 2026 10:50:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
