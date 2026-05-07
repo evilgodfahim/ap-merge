@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 07 May 2026 15:08:24 GMT</lastBuildDate>
-<item>
-<title><![CDATA[How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified]]></title>
-<link>https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240</link>
-<pubDate>Wed, 06 May 2026 20:05:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Thu, 07 May 2026 17:12:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cruise ship hantavirus patients arrive in Europe for treatment]]></title>
 <link>https://apnews.com/live/hantavirus-cruise-ship-updates-05-06-2026</link>
 <pubDate>Wed, 06 May 2026 21:35:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified]]></title>
+<link>https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240</link>
+<pubDate>Wed, 06 May 2026 20:05:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,15 +35,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers]]></title>
-<link>https://apnews.com/article/iran-war-ceasefire-strait-hormuz-explainer-1e5055b74f935a4b9a73ea2c1b636a44</link>
-<pubDate>Thu, 07 May 2026 15:08:22 -0000</pubDate>
+<title><![CDATA[China is stepping up its Iran war diplomacy ahead of Trump’s summit with Xi]]></title>
+<link>https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-cd2283edc105303e6cbc5eadc8840ad2</link>
+<pubDate>Thu, 07 May 2026 17:12:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France moves aircraft carrier group toward Strait of Hormuz for possible defensive mission]]></title>
-<link>https://apnews.com/article/french-carrier-charles-de-gaulle-suez-hormuz-2749dc877f0ac34a0ccd4f0530786009</link>
-<pubDate>Wed, 06 May 2026 19:35:54 -0000</pubDate>
+<title><![CDATA[What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers]]></title>
+<link>https://apnews.com/article/iran-war-ceasefire-strait-hormuz-explainer-1e5055b74f935a4b9a73ea2c1b636a44</link>
+<pubDate>Thu, 07 May 2026 15:08:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,9 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV comforts 13 priests from southern Lebanon with a surprise video call from Rome]]></title>
-<link>https://apnews.com/article/pope-leo-israel-lebanon-hezbollah-priests-call-69bfbfa7a5268e4abfac9a0bf0f6f4c5</link>
-<pubDate>Thu, 07 May 2026 10:37:28 -0000</pubDate>
+<title><![CDATA[Fire at a shopping center in Iran kills 8 people and injures dozens]]></title>
+<link>https://apnews.com/article/iran-shopping-center-fire-0de6c0b687098d659877ef257ac2037e</link>
+<pubDate>Thu, 07 May 2026 07:46:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Nigerian army says it rescued some children abducted from an orphanage last month]]></title>
+<link>https://apnews.com/article/nigeria-orphanage-abduction-rescue-8bf4432828a557b9b95d235debf9a491</link>
+<pubDate>Thu, 07 May 2026 16:57:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -122,12 +128,6 @@
 <title><![CDATA[Antarctica’s tourism boom raises concerns about contamination and disease]]></title>
 <link>https://apnews.com/article/antarctica-tourism-hantavirus-biosecurity-a618a3e522603bf34706a0a1f3ea20fc</link>
 <pubDate>Wed, 06 May 2026 07:15:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Congo’s president warns next elections can’t take place unless the conflict in the east is resolved]]></title>
-<link>https://apnews.com/article/congo-election-felix-tshisekedi-m23-7b51a769b9d2d1327e7e2b4da23669b7</link>
-<pubDate>Wed, 06 May 2026 22:38:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,9 +209,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Man with weapon arrested near home of the former Prince Andrew in England]]></title>
+<title><![CDATA[Man arrested on suspicion of weapon possession after report former Prince Andrew was threatened]]></title>
 <link>https://apnews.com/article/britain-andrew-home-man-with-weapon-arrested-942bea44ba59deaa3e8a325bd079f02c</link>
-<pubDate>Thu, 07 May 2026 14:53:23 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 17:12:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,12 +251,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nigerian army says it rescued some children abducted from an orphanage last month]]></title>
-<link>https://apnews.com/article/nigeria-orphanage-abduction-rescue-8bf4432828a557b9b95d235debf9a491</link>
-<pubDate>Thu, 07 May 2026 10:37:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[China gives suspended death sentences to 2 former defense ministers accused of bribery]]></title>
 <link>https://apnews.com/article/china-former-defense-ministers-death-sentence-165e2afcc5f893745a7166ea85a23f4c</link>
 <pubDate>Thu, 07 May 2026 10:22:29 -0000</pubDate>
@@ -284,6 +278,12 @@
 <title><![CDATA[South Korean court reduces prison sentence for ex-prime minister in martial law case]]></title>
 <link>https://apnews.com/article/south-korea-yoon-martial-law-sentence-han-76201e4dd5322e645d4efe717d7f628b</link>
 <pubDate>Thu, 07 May 2026 07:46:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Congo’s president warns next elections can’t take place unless the conflict in the east is resolved]]></title>
+<link>https://apnews.com/article/congo-election-felix-tshisekedi-m23-7b51a769b9d2d1327e7e2b4da23669b7</link>
+<pubDate>Thu, 07 May 2026 16:57:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,6 +347,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France moves aircraft carrier group toward Strait of Hormuz for possible defensive mission]]></title>
+<link>https://apnews.com/article/french-carrier-charles-de-gaulle-suez-hormuz-2749dc877f0ac34a0ccd4f0530786009</link>
+<pubDate>Thu, 07 May 2026 16:42:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bus and oil tanker collide in Indonesia, killing at least 16 people]]></title>
 <link>https://apnews.com/article/indonesia-bus-oil-tanker-truck-collide-0fe32f654f80f757a31d65c374520c60</link>
 <pubDate>Wed, 06 May 2026 14:51:20 -0000</pubDate>
@@ -356,6 +362,12 @@
 <title><![CDATA[Venezuela tells UN court that mineral-rich part of Guyana was fraudulently taken in colonial era]]></title>
 <link>https://apnews.com/article/venezuela-guyana-essequibo-icj-court-f30fcf7266eb819fedabafc325361b08</link>
 <pubDate>Wed, 06 May 2026 19:05:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV comforts 13 priests from southern Lebanon with a surprise video call from Rome]]></title>
+<link>https://apnews.com/article/pope-leo-israel-lebanon-hezbollah-priests-call-69bfbfa7a5268e4abfac9a0bf0f6f4c5</link>
+<pubDate>Thu, 07 May 2026 06:46:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,15 +383,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show female amputees in Rwanda building community and healing through football]]></title>
-<link>https://apnews.com/photo-gallery/photos-show-female-amputees-rwanda-building-community-healing-through-football-fbc725bed5bb4175b5b529f90c523111</link>
-<pubDate>Wed, 06 May 2026 11:57:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran reviewing US proposal as Trump pressures Tehran for agreement on deal to end war]]></title>
+<title><![CDATA[Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with US]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b</link>
-<pubDate>Thu, 07 May 2026 10:37:31 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 17:12:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Dozens of passengers left hantavirus-stricken cruise ship after 1st fatality]]></title>
+<title><![CDATA[Health officials track dozens who left hantavirus-stricken ship after 1st fatality]]></title>
 <link>https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7</link>
-<pubDate>Thu, 07 May 2026 10:22:31 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 16:57:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -425,15 +431,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[3 Australian women returning from Syria are arrested on suspicion of slavery and terrorism offenses]]></title>
-<link>https://apnews.com/article/isis-brides-australia-syria-islamic-state-b9d0a50bf12aea039becc08dd8c4c6bc</link>
-<pubDate>Thu, 07 May 2026 14:53:24 -0000</pubDate>
+<title><![CDATA[Hamas says a son of its chief negotiator was killed in an Israeli strike on Gaza]]></title>
+<link>https://apnews.com/article/israel-hamas-war-news-05-07-2026-cfb7d60979a86c973b9885a9bf18649f</link>
+<pubDate>Thu, 07 May 2026 16:42:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China is stepping up its Iran war diplomacy ahead of Trump’s summit with Xi]]></title>
-<link>https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-cd2283edc105303e6cbc5eadc8840ad2</link>
-<pubDate>Wed, 06 May 2026 12:12:46 -0000</pubDate>
+<title><![CDATA[3 Australian women returning from Syria are arrested on suspicion of slavery and terrorism offenses]]></title>
+<link>https://apnews.com/article/isis-brides-australia-syria-islamic-state-b9d0a50bf12aea039becc08dd8c4c6bc</link>
+<pubDate>Thu, 07 May 2026 14:53:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -476,12 +482,6 @@
 <title><![CDATA[Hantavirus is on the rise in Argentina, where a stricken cruise ship began its journey]]></title>
 <link>https://apnews.com/article/argentina-hantavirus-cruise-ship-5841c25be9aa6dd3cd6edc81c74609de</link>
 <pubDate>Wed, 06 May 2026 20:05:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Fire at a shopping center in Iran kills 8 people and injures dozens]]></title>
-<link>https://apnews.com/article/iran-shopping-center-fire-0de6c0b687098d659877ef257ac2037e</link>
-<pubDate>Wed, 06 May 2026 04:48:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
