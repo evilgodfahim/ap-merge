@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 07 May 2026 17:12:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 19:09:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cruise ship hantavirus patients arrive in Europe for treatment]]></title>
 <link>https://apnews.com/live/hantavirus-cruise-ship-updates-05-06-2026</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russia declares a truce in Ukraine to mark Victory Day. Kyiv says it’ll cease fire two days earlier]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-unilateral-truce-parade-9a686273da1f284230180a7819613719</link>
-<pubDate>Mon, 04 May 2026 21:19:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Cruise ship with hantavirus outbreak heads to Canary Islands after 3 are evacuated]]></title>
 <link>https://apnews.com/article/cruise-ship-hantavirus-andes-strain-south-africa-cb424510bb0c934c781f6bd42ce2e7c8</link>
 <pubDate>Thu, 07 May 2026 08:01:17 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3</link>
 <pubDate>Thu, 07 May 2026 01:52:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Alberta separatist group says it has enough signatures to trigger referendum on leaving Canada]]></title>
+<link>https://apnews.com/article/alberta-separation-canada-referendum-e93c247ccc2e5f0340a5490d88ab0da2</link>
+<pubDate>Tue, 05 May 2026 19:55:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Paraguay’s president visits Taiwan as pressure from China grows]]></title>
-<link>https://apnews.com/article/paraguay-president-pena-taiwan-china-dab2e121a2efdfdff5515958706fab27</link>
-<pubDate>Thu, 07 May 2026 06:31:17 -0000</pubDate>
+<title><![CDATA[UK border official and former Hong Kong cop convicted of assisting Chinese spy agency in Britain]]></title>
+<link>https://apnews.com/article/uk-hong-kong-spying-trial-china-london-police-53807fa519d601404a552198de00d425</link>
+<pubDate>Thu, 07 May 2026 19:09:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -89,15 +89,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A solar-powered charging station in central Cuba brings life to a darkened island]]></title>
-<link>https://apnews.com/article/cuba-solar-power-charging-station-panels-santa-clara-solinera-0dc6f6ea3fcc3edb37a4e045425e26f0</link>
-<pubDate>Thu, 07 May 2026 06:16:17 -0000</pubDate>
+<title><![CDATA[Paraguay’s president visits Taiwan as pressure from China grows]]></title>
+<link>https://apnews.com/article/paraguay-president-pena-taiwan-china-dab2e121a2efdfdff5515958706fab27</link>
+<pubDate>Thu, 07 May 2026 06:31:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s new counterterrorism strategy makes targeting Western Hemisphere cartels the top priority]]></title>
-<link>https://apnews.com/article/trump-counterterrorism-strategy-drug-cartels-western-hemisphere-dd0fedaf0f9a0ac1a495d25ad569f44e</link>
-<pubDate>Wed, 06 May 2026 16:41:42 -0000</pubDate>
+<title><![CDATA[A solar-powered charging station in central Cuba brings life to a darkened island]]></title>
+<link>https://apnews.com/article/cuba-solar-power-charging-station-panels-santa-clara-solinera-0dc6f6ea3fcc3edb37a4e045425e26f0</link>
+<pubDate>Thu, 07 May 2026 06:16:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,9 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nigerian army says it rescued some children abducted from an orphanage last month]]></title>
+<title><![CDATA[Nigerian army rescues 7 children and 2 women abducted from an orphanage last month]]></title>
 <link>https://apnews.com/article/nigeria-orphanage-abduction-rescue-8bf4432828a557b9b95d235debf9a491</link>
-<pubDate>Thu, 07 May 2026 16:57:43 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 18:54:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tennessee lawmakers to vote on new US House map sought by Trump that carves up Memphis]]></title>
+<title><![CDATA[Tennessee lawmakers pass US House map carving up majority-Black district in Memphis]]></title>
 <link>https://apnews.com/article/redistricting-congress-voting-rights-trump-33d3a24a63aeb1a0b3702d362e1325c9</link>
-<pubDate>Thu, 07 May 2026 14:38:22 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 18:39:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,9 +203,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK border official and former Hong Kong cop convicted of assisting Chinese spy agency in Britain]]></title>
-<link>https://apnews.com/article/uk-hong-kong-spying-trial-china-london-police-53807fa519d601404a552198de00d425</link>
-<pubDate>Thu, 07 May 2026 15:08:23 -0000</pubDate>
+<title><![CDATA[Tech is turning increasingly to religion in a quest to create ethical AI]]></title>
+<link>https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea</link>
+<pubDate>Thu, 07 May 2026 19:09:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of Mississippi communities reeling after tornadoes]]></title>
+<link>https://apnews.com/photo-gallery/photos-mississippi-communities-reeling-after-tornadoes-228147789a26481cbd5c1316061c6643</link>
+<pubDate>Thu, 07 May 2026 18:54:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[An outsider artist takes the world’s biggest stage with the US Pavilion at the Venice Biennale]]></title>
+<link>https://apnews.com/article/italy-venice-biennale-us-pavilion-alma-allen-6946c000a67b568badd24c6d371f52bb</link>
+<pubDate>Thu, 07 May 2026 18:39:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -317,6 +329,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s new counterterrorism strategy makes targeting Western Hemisphere cartels the top priority]]></title>
+<link>https://apnews.com/article/trump-counterterrorism-strategy-drug-cartels-western-hemisphere-dd0fedaf0f9a0ac1a495d25ad569f44e</link>
+<pubDate>Thu, 07 May 2026 18:24:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[‘The Sheep Detectives’ is the starry, family-friendly whodunit you didn’t know you needed]]></title>
 <link>https://apnews.com/article/sheep-detectives-movie-c4b49bf526f158bcaa22d06e12ff8ef7</link>
 <pubDate>Wed, 06 May 2026 19:20:55 -0000</pubDate>
@@ -365,24 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV comforts 13 priests from southern Lebanon with a surprise video call from Rome]]></title>
-<link>https://apnews.com/article/pope-leo-israel-lebanon-hezbollah-priests-call-69bfbfa7a5268e4abfac9a0bf0f6f4c5</link>
-<pubDate>Thu, 07 May 2026 06:46:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope will inaugurate Barcelona’s Sagrada Familia tower and meet with migrants in June trip to Spain]]></title>
-<link>https://apnews.com/article/vatican-pope-spain-sagrada-familia-migration-9b52641c1f3c8966171f0e41f747bdc7</link>
-<pubDate>Wed, 06 May 2026 18:50:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters in pink balaclavas swarm Russia’s pavilion at Venice Biennale and release colored smoke]]></title>
-<link>https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348</link>
-<pubDate>Wed, 06 May 2026 18:35:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with US]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b</link>
 <pubDate>Thu, 07 May 2026 17:12:45 -0000</pubDate>
@@ -398,6 +398,12 @@
 <title><![CDATA[Health officials track dozens who left hantavirus-stricken ship after 1st fatality]]></title>
 <link>https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7</link>
 <pubDate>Thu, 07 May 2026 16:57:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A timeline of the cruise ship hantavirus outbreak and when passengers fell sick]]></title>
+<link>https://apnews.com/article/hantavirus-cruise-ship-timeline-events-b9eb3985b547758b1e42dbab6ceb3887</link>
+<pubDate>Thu, 07 May 2026 19:09:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,9 +449,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil prices keep falling, while US stocks hang near their record highs]]></title>
+<title><![CDATA[US stocks hover just below records as oil slips on hopes of an Iran deal]]></title>
 <link>https://apnews.com/article/stocks-markets-rates-iran-trump-oil-44bac8b794519ae9169f968ddc9ea675</link>
-<pubDate>Thu, 07 May 2026 14:38:24 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 18:54:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +491,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Kenyan politicians trade accusations of ‘goonism’ as political violence rises ahead of 2027 election]]></title>
+<title><![CDATA[“Goonism” is on the rise in Kenya, where a Christian leader is accused of betraying his faith]]></title>
 <link>https://apnews.com/article/kenya-goonism-politics-ruto-election-c67f1203c457650b26599bf9b41efcd7</link>
-<pubDate>Thu, 07 May 2026 06:46:24 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 18:39:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tornadoes cut across Mississippi as severe storms damage 500 homes]]></title>
+<title><![CDATA[Survivors of Mississippi tornadoes crawled under furniture and held onto their kids]]></title>
 <link>https://apnews.com/article/mississippi-tornado-damage-severe-storms-southeast-4f30e7f3e6713f42051714719cc2159b</link>
-<pubDate>Thu, 07 May 2026 14:23:24 -0000</pubDate>
+<pubDate>Thu, 07 May 2026 18:24:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
