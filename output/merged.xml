@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 08 May 2026 15:58:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 17:13:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cruise ship hantavirus patients arrive in Europe for treatment]]></title>
 <link>https://apnews.com/live/hantavirus-cruise-ship-updates-05-06-2026</link>
@@ -71,15 +71,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[At least 3 hikers killed by volcano eruption on Indonesian island]]></title>
+<title><![CDATA[Volcanic eruption on a remote Indonesian island kills 3 hikers]]></title>
 <link>https://apnews.com/article/indonesia-dukono-eruption-volcano-hikers-killed-b87deb3e34843da67f77901d7c0631c0</link>
-<pubDate>Fri, 08 May 2026 10:46:20 -0000</pubDate>
+<pubDate>Fri, 08 May 2026 17:13:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[North Korea will deploy new artillery guns targeting Seoul and commission its 1st destroyer]]></title>
 <link>https://apnews.com/article/north-korea-kim-artillery-destroyer-south-4e25362f8d7d0311d85bb3505a46c1cf</link>
 <pubDate>Fri, 08 May 2026 04:35:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Despite gains combating deforestation in Brazil’s Amazon, forest degradation is a looming threat]]></title>
+<link>https://apnews.com/article/brazil-amazon-rainforest-wildfires-el-nino-ff6208f102ad9976f033ec39c3d1481b</link>
+<pubDate>Fri, 08 May 2026 16:58:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Salvadoran news outlet El Faro says its assets frozen in retaliation for reporting on Bukele]]></title>
-<link>https://apnews.com/article/el-salvador-nayib-bukele-el-faro-assets-frozen-6b6a044384caa27ef085090593cc42d4</link>
-<pubDate>Fri, 08 May 2026 01:57:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[A government critic dies in custody in Rwanda, drawing calls for an independent probe]]></title>
 <link>https://apnews.com/article/rwanda-karasira-government-critic-death-e9fd91a7581c24232a01db6645095ac0</link>
 <pubDate>Fri, 08 May 2026 14:14:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa’s top court revives Ramaphosa cash scandal, paving way for impeachment]]></title>
+<title><![CDATA[South Africa’s top court revives Ramaphosa cash scandal, paving way for possible impeachment]]></title>
 <link>https://apnews.com/article/south-africa-ramaphosa-impeachment-e6f9a07b9f76c165e64b0a6ae6d693b3</link>
-<pubDate>Fri, 08 May 2026 10:16:20 -0000</pubDate>
+<pubDate>Fri, 08 May 2026 16:43:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
 <link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
 <pubDate>Mon, 27 Apr 2026 18:04:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of the Palestinian marathon]]></title>
+<link>https://apnews.com/photo-gallery/photos-palestinian-marathon-cef5ab548baf4285b8384c29f7f5aeec</link>
+<pubDate>Fri, 08 May 2026 17:13:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,15 +371,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[New Jersey lowers $150 train fare for World Cup to $105 amid outcry]]></title>
-<link>https://apnews.com/article/world-cup-new-jersey-transit-fare-4cff57844959ea0dda85053f746bcbe5</link>
-<pubDate>Thu, 07 May 2026 20:29:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[How public health officials are tracing people who came in contact with hantavirus victims]]></title>
-<link>https://apnews.com/article/hantavirus-andes-virus-cruise-ship-rodents-e7e64b81dbee4b21c5301be9e1d945c5</link>
-<pubDate>Fri, 08 May 2026 05:12:04 -0000</pubDate>
+<title><![CDATA[Salvadoran news outlet El Faro says its assets frozen in retaliation for reporting on Bukele]]></title>
+<link>https://apnews.com/article/el-salvador-nayib-bukele-el-faro-assets-frozen-6b6a044384caa27ef085090593cc42d4</link>
+<pubDate>Fri, 08 May 2026 04:05:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Despite gains combating deforestation in Brazil’s Amazon, forest degradation is a looming threat]]></title>
-<link>https://apnews.com/article/brazil-amazon-rainforest-wildfires-el-nino-ff6208f102ad9976f033ec39c3d1481b</link>
-<pubDate>Fri, 08 May 2026 13:59:53 -0000</pubDate>
+<title><![CDATA[Four people convicted of conspiracy in US trial tied to 2021 assassination of Haiti’s president]]></title>
+<link>https://apnews.com/article/haiti-assassination-plot-florida-0c4b12972bc0d387140deeb9e8326b3d</link>
+<pubDate>Fri, 08 May 2026 17:13:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
