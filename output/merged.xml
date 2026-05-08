@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 08 May 2026 20:02:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 21:31:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Cruise ship hantavirus patients arrive in Europe for treatment]]></title>
 <link>https://apnews.com/live/hantavirus-cruise-ship-updates-05-06-2026</link>
 <pubDate>Wed, 06 May 2026 21:35:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified]]></title>
-<link>https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240</link>
-<pubDate>Wed, 06 May 2026 20:05:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -32,6 +26,12 @@
 <title><![CDATA[US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b</link>
 <pubDate>Fri, 08 May 2026 04:50:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3</link>
+<pubDate>Thu, 07 May 2026 01:52:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
 <link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
 <pubDate>Fri, 08 May 2026 17:49:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US authorities cancel cruise ship worker visas as part of child sexual abuse images case]]></title>
+<link>https://apnews.com/article/cruise-ships-border-protection-0fb090bf764932182a60828bda3e0b62</link>
+<pubDate>Fri, 08 May 2026 21:31:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-week-ap-photojournalists-d8983832bfd44db38737b233fd96de4b</link>
-<pubDate>Thu, 07 May 2026 22:50:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b</link>
 <pubDate>Fri, 08 May 2026 15:58:13 -0000</pubDate>
@@ -437,9 +437,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks rise toward records as solid data on the job market overshadows higher oil prices]]></title>
+<title><![CDATA[US stocks rise to records after a solid jobs report overshadows higher oil prices]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-28e493ba47e80517a743ecd54fb6acbc</link>
-<pubDate>Fri, 08 May 2026 15:28:13 -0000</pubDate>
+<pubDate>Fri, 08 May 2026 21:31:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
