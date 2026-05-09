@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 09 May 2026 16:12:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 17:26:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Health officials track dozens who left hantavirus-stricken ship after first fatality]]></title>
 <link>https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7</link>
@@ -14,12 +14,6 @@
 <title><![CDATA[US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b</link>
 <pubDate>Fri, 08 May 2026 04:50:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hungary returns a seized cash and gold shipment worth $82 million to Ukraine]]></title>
-<link>https://apnews.com/article/hungary-ukraine-cash-gold-shipment-zelenskyy-c6181fc0aec462e05cce8781a993aa97</link>
-<pubDate>Wed, 06 May 2026 16:56:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,15 +29,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[3 Australian women back from Syria face slavery and terrorism charges over alleged IS links]]></title>
-<link>https://apnews.com/article/isis-brides-australia-syria-charged-repatriate-bbb757dcc2066788d3e44c956eeb7259</link>
-<pubDate>Sat, 09 May 2026 07:08:00 -0000</pubDate>
+<title><![CDATA[Starmer says he won’t quit after local elections deliver losses for Labour and wins for Reform UK]]></title>
+<link>https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6</link>
+<pubDate>Fri, 08 May 2026 11:16:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Democratic senators press US military on Israel’s evacuation zones, warning of legal risks]]></title>
-<link>https://apnews.com/article/lebanon-iran-israel-evacuation-warnings-us-military-c6381874a5e11e04b7119d1fee341a17</link>
-<pubDate>Fri, 08 May 2026 22:43:30 -0000</pubDate>
+<title><![CDATA[Sudan was already at war and hungry. Now its farmers are hit by another conflict]]></title>
+<link>https://apnews.com/article/sudan-agriculture-war-iran-food-fertilizer-fb8e50ee7b770c5255a02e1545d6b3d2</link>
+<pubDate>Sat, 09 May 2026 17:26:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[3 Australian women back from Syria face slavery and terrorism charges over alleged IS links]]></title>
+<link>https://apnews.com/article/isis-brides-australia-syria-charged-repatriate-bbb757dcc2066788d3e44c956eeb7259</link>
+<pubDate>Sat, 09 May 2026 07:08:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +59,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[WHO head seeks to reassure residents of Spanish island where hantavirus cruise ship is headed]]></title>
+<title><![CDATA[WHO head seeks to reassure residents of Spanish island where hantavirus-stricken ship is headed]]></title>
 <link>https://apnews.com/article/hantavirus-cruise-ship-hondius-spain-53d606306e31bf220d92614d9de519dd</link>
-<pubDate>Sat, 09 May 2026 15:12:31 -0000</pubDate>
+<pubDate>Sat, 09 May 2026 17:11:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[In Gaza, some Palestinian children find respite and catharsis in breakdancing]]></title>
-<link>https://apnews.com/article/gaza-palestinians-refugees-youth-breakdancing-gymnastics-b866a634ac5c137a20b8a54726364ddd</link>
-<pubDate>Fri, 08 May 2026 06:12:03 -0000</pubDate>
+<title><![CDATA[Israel indicts Jewish man accused of attacking Christian nun in Jerusalem]]></title>
+<link>https://apnews.com/article/israel-man-indicted-nun-attack-jerusalem-a66879093ee8c6ea2f1a31471b32175d</link>
+<pubDate>Fri, 08 May 2026 15:58:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -218,6 +218,12 @@
 <title><![CDATA[Venice Biennale opens without a jury amid strife over Russian and Israeli participation]]></title>
 <link>https://apnews.com/article/italy-venice-biennale-protests-israel-russia-760228a0f311f8fe8f8dd3487e57cc70</link>
 <pubDate>Sat, 09 May 2026 11:19:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics]]></title>
+<link>https://apnews.com/article/vatican-lgbtq-pope-b58b0ac6e1ec26d4285aaa5502eb90ba</link>
+<pubDate>Sat, 09 May 2026 17:26:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,12 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Sony reports declining profit but expects a record for this year]]></title>
-<link>https://apnews.com/article/sony-earnings-japan-music-movies-games-a8b3569c1ea61bc6235ee228cb9aa5a6</link>
-<pubDate>Fri, 08 May 2026 06:27:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Moscow marks Victory Day with a scaled down Red Square parade under tight security]]></title>
 <link>https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262</link>
 <pubDate>Sat, 09 May 2026 10:00:04 -0000</pubDate>
@@ -395,15 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-moscow-parade-ceasefire-cde7ec7a0fb10a3e2563171b931485e8</link>
-<pubDate>Fri, 08 May 2026 14:29:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics]]></title>
-<link>https://apnews.com/article/vatican-lgbtq-pope-b58b0ac6e1ec26d4285aaa5502eb90ba</link>
-<pubDate>Sat, 09 May 2026 07:08:01 -0000</pubDate>
+<title><![CDATA[UCLA online textbook gives voice to Asian American, Pacific Islander history and cultures]]></title>
+<link>https://apnews.com/article/ucla-asian-american-pacific-islander-history-textbook-cfcf335634d138e826dc7297fa333c04</link>
+<pubDate>Sat, 09 May 2026 16:56:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -416,6 +410,12 @@
 <title><![CDATA[A humanoid robot becomes Buddhist monk in South Korea ahead of Buddha’s birthday]]></title>
 <link>https://apnews.com/video/south-korean-buddhist-sect-welcomes-humanoid-robot-cc0932ae27b446a78324255136fa0b6c</link>
 <pubDate>Fri, 08 May 2026 23:29:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-nabatiyeh-4fd1002c9713df5359acfa090598fd50</link>
+<pubDate>Sat, 09 May 2026 16:41:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -434,12 +434,6 @@
 <title><![CDATA[Hamas says a son of its chief negotiator was killed in an Israeli strike on Gaza]]></title>
 <link>https://apnews.com/article/israel-hamas-war-news-05-07-2026-cfb7d60979a86c973b9885a9bf18649f</link>
 <pubDate>Thu, 07 May 2026 16:42:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Sudan was already at war and hungry. Now its farmers are hit by another conflict]]></title>
-<link>https://apnews.com/article/sudan-agriculture-war-iran-food-fertilizer-fb8e50ee7b770c5255a02e1545d6b3d2</link>
-<pubDate>Fri, 08 May 2026 05:42:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel indicts Jewish man accused of attacking Christian nun in Jerusalem]]></title>
-<link>https://apnews.com/article/israel-man-indicted-nun-attack-jerusalem-a66879093ee8c6ea2f1a31471b32175d</link>
-<pubDate>Thu, 07 May 2026 12:08:22 -0000</pubDate>
+<title><![CDATA[Democratic senators press US military on Israel’s evacuation zones, warning of legal risks]]></title>
+<link>https://apnews.com/article/lebanon-iran-israel-evacuation-warnings-us-military-c6381874a5e11e04b7119d1fee341a17</link>
+<pubDate>Fri, 08 May 2026 04:20:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
