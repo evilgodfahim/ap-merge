@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 10 May 2026 12:52:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 14:15:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport]]></title>
 <link>https://apnews.com/article/denver-airport-frontier-airline-person-injured-runway-e75355b2bed9ec3bae44cb064c92c1da</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Starmer says he won’t quit after local elections deliver losses for Labour and wins for Reform UK]]></title>
-<link>https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6</link>
-<pubDate>Fri, 08 May 2026 11:16:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran warns the US against attacks on its oil tankers and other ships but ceasefire appears to hold]]></title>
 <link>https://apnews.com/article/iran-us-war-0c25b2ca53ee90bc19bfbf6c44a66e6e</link>
 <pubDate>Sun, 10 May 2026 12:52:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Starmer says he won’t quit after local elections deliver losses for Labour and wins for Reform UK]]></title>
+<link>https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6</link>
+<pubDate>Fri, 08 May 2026 11:16:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
