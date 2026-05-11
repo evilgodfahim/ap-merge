@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 11 May 2026 02:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 05:59:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport]]></title>
 <link>https://apnews.com/article/denver-airport-frontier-airline-person-injured-runway-e75355b2bed9ec3bae44cb064c92c1da</link>
 <pubDate>Sat, 09 May 2026 19:38:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b</link>
-<pubDate>Sat, 09 May 2026 11:49:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Spain prepares to receive passengers and crew from hantavirus-hit cruise ship]]></title>
+<link>https://apnews.com/live/hantavirus-cruise-ship-updates-05-08-2026</link>
+<pubDate>Sat, 09 May 2026 15:27:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Surfers in war-torn Gaza find rare moments of joy taking to the waves]]></title>
 <link>https://apnews.com/article/gaza-surfing-palestinians-sea-israel-war-f94898d4495c4ce5ecf63d88f2ebfab2</link>
 <pubDate>Mon, 11 May 2026 01:44:50 -0000</pubDate>
@@ -53,33 +53,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukrainians seeking cultural escape from war’s brutality find comfort and resilience at Kyiv art fair]]></title>
+<link>https://apnews.com/article/ukraine-art-fair-kyiv-russia-war-ea2a6dcefcecd0f3133c67ff57b33639</link>
+<pubDate>Mon, 11 May 2026 05:59:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Britain’s Starmer fights for his job as calls for his ouster grow after local election losses]]></title>
 <link>https://apnews.com/article/uk-starmer-labour-resignation-pressure-98241a9dfeb39c385a5e2e5207a1a5a3</link>
 <pubDate>Sun, 10 May 2026 17:12:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Passengers disembark from a hantavirus-stricken cruise ship, in photos]]></title>
-<link>https://apnews.com/photo-gallery/hantavirus-cruise-spain-7a7939de078ac29e4337349ea6624b7e</link>
-<pubDate>Sun, 10 May 2026 23:39:53 -0000</pubDate>
+<title><![CDATA[Turkish Airlines jet catches fire while landing at Nepal’s main airport; all passengers safe]]></title>
+<link>https://apnews.com/article/nepal-kathmandu-turkish-airlines-fire-24c5c314e92e81ed4f482322ebec09b3</link>
+<pubDate>Mon, 11 May 2026 05:44:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Bodies retrieved from Indonesian volcano after eruption kills 3 hikers]]></title>
+<link>https://apnews.com/article/indonesia-mount-dukono-eruption-hikers-search-bccb5313ea237d244e687872c72c13f3</link>
+<pubDate>Mon, 11 May 2026 05:29:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Death toll rises to 14 in a Pakistan suicide attack claimed by a Pakistani Taliban splinter group]]></title>
 <link>https://apnews.com/article/pakkstan-suicide-attack-security-post-northwest-taliban-1dd78871816127c1ab90589aa6971a77</link>
 <pubDate>Sun, 10 May 2026 16:42:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-suicide-attack-security-post-northwest-afghanistan-6a04e22947164302a59b4ccb8776ac82</link>
-<pubDate>Sat, 09 May 2026 19:23:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Oil tanker arrives in South Korea after passing through the Strait of Hormuz in mid-April]]></title>
-<link>https://apnews.com/article/south-korea-oil-tanker-iran-hormuz-03228f42ac32c0bfce3bab744a77d199</link>
-<pubDate>Sat, 09 May 2026 04:44:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,9 +125,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tennessee redistricting plan splits Memphis neighbors and reshapes midterms as other states follow]]></title>
-<link>https://apnews.com/article/tennessee-redistricting-memphis-black-voters-south-b35a4b19c2c4818a660d3689cb8b1f82</link>
-<pubDate>Sun, 10 May 2026 15:57:53 -0000</pubDate>
+<title><![CDATA[Tulsa Race Massacre reparations is soul-redeeming work for the US, Oklahoma civil rights lawyer says]]></title>
+<link>https://apnews.com/article/tulsa-race-massacre-book-reparations-solomon-simmons-47b043953f6da482e01f2a6a2ba3b1f1</link>
+<pubDate>Mon, 11 May 2026 05:14:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Abe Foxman, advocate for American Jews as longtime head of Anti-Defamation League, dies at 86]]></title>
+<link>https://apnews.com/article/antidefamation-league-abe-foxman-dies-0f0dfd6d64f41f079bdf66455883934d</link>
+<pubDate>Sun, 10 May 2026 20:22:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[NTSB gathering details on Frontier Airlines evacuation after plane hit and killed person in Denver]]></title>
+<link>https://apnews.com/article/frontier-airlines-denver-airport-pedestrian-killed-799d66864cd651277c47e6c846a047a1</link>
+<pubDate>Mon, 11 May 2026 04:59:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,15 +149,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[‘The Devil Wears Prada 2' bests ‘Mortal Kombat II’ at the box office]]></title>
-<link>https://apnews.com/article/mortal-kombat-box-office-c287918fbc4172ee10ee0be2106efc10</link>
-<pubDate>Sun, 10 May 2026 15:42:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Abe Foxman, advocate for American Jews as longtime head of Anti-Defamation League, dies at 86]]></title>
-<link>https://apnews.com/article/antidefamation-league-abe-foxman-dies-0f0dfd6d64f41f079bdf66455883934d</link>
-<pubDate>Sun, 10 May 2026 20:22:29 -0000</pubDate>
+<title><![CDATA[Trump’s deal making with Xi next week may determine Hong Kong jailed activist Jimmy Lai’s fate]]></title>
+<link>https://apnews.com/article/hong-kong-jimmy-lai-trump-xi-d0ebb5b2803acf8d4f550216552e0b29</link>
+<pubDate>Sat, 09 May 2026 04:29:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -164,12 +170,6 @@
 <title><![CDATA[The death toll from an explosion at a fireworks plant in China rises to 37]]></title>
 <link>https://apnews.com/article/china-fireworks-explosion-hunan-changsha-855af57e6c81f050294d15b22623a3d6</link>
 <pubDate>Fri, 08 May 2026 07:05:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Both engines shut off and cockpit struggle came before 2022 China plane crash, NTSB data suggests]]></title>
-<link>https://apnews.com/article/china-eastern-plane-crash-boeing-ntsb-1bd76be0fd8c8bd7b24d59b6f898b7e5</link>
-<pubDate>Fri, 08 May 2026 04:20:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,21 +197,45 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thailand’s Thaksin released from prison after serving 8 months for abuse of power]]></title>
-<link>https://apnews.com/article/thailand-politics-thaksin-shinawatra-prison-corruption-parole-e4d1415c95bda15488d86721416b2a03</link>
-<pubDate>Mon, 11 May 2026 01:59:53 -0000</pubDate>
+<title><![CDATA[The barista is human but an AI agent runs this experimental Swedish cafe]]></title>
+<link>https://apnews.com/article/ai-artificial-intelligence-sweden-84a8f903fdaea94e76e80e16ec3d9e6c</link>
+<pubDate>Mon, 11 May 2026 05:59:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photos of life inside Iran after U.S. ceasefire proposal falters]]></title>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-day-ap-s-photojournalists-0cc9e0655e3d4f1895860ef20813430a</link>
+<pubDate>Mon, 11 May 2026 05:44:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Neon, winner of 6 straight Palmes d’Or, comes into the Cannes Film Festival an unlikely heavyweight]]></title>
+<link>https://apnews.com/article/neon-cannes-palme-dor-ff279fcced34688a8a036b5bd95d4de0</link>
+<pubDate>Mon, 11 May 2026 05:29:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos: Romania tips its hat to World Hat Walk]]></title>
+<link>https://apnews.com/photo-gallery/photos-romania-tips-hat-world-hat-walk-c84ec4558065424c9962981bfab98287</link>
+<pubDate>Mon, 11 May 2026 05:14:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos of life inside Iran after latest US proposal falters]]></title>
 <link>https://apnews.com/photo-gallery/photos-life-inside-iran-after-u-s-ceasefire-proposal-falters-278b8c503c054895b4af4791d046ea08</link>
-<pubDate>Mon, 11 May 2026 01:44:53 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 04:59:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Surge of cartel violence in central Mexico forces between 800 and 1,000 families to flee homes]]></title>
 <link>https://apnews.com/article/mexico-cartels-guerrero-displacement-718ef5bdc543956e1759ff692edf0f01</link>
 <pubDate>Sun, 10 May 2026 21:37:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Passengers disembark from a hantavirus-stricken cruise ship, in photos]]></title>
+<link>https://apnews.com/photo-gallery/hantavirus-cruise-spain-7a7939de078ac29e4337349ea6624b7e</link>
+<pubDate>Mon, 11 May 2026 04:44:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -236,6 +260,12 @@
 <title><![CDATA[The ‘ghost of the forest’ makes a comeback in Kenya, in photos]]></title>
 <link>https://apnews.com/photo-gallery/-ghost-forest-makes-comeback-kenya-photos-65d199353f3c4570a7f687d70e6d38cb</link>
 <pubDate>Sat, 09 May 2026 21:33:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan]]></title>
+<link>https://apnews.com/article/pakistan-suicide-attack-security-post-northwest-afghanistan-6a04e22947164302a59b4ccb8776ac82</link>
+<pubDate>Mon, 11 May 2026 04:29:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,45 +377,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Laura Fernández sworn in as Costa Rica president, keeping outgoing president in 2 high-profile posts]]></title>
-<link>https://apnews.com/article/laura-fernandez-costa-rica-chaves-trump-aa0c3ea1712f6ee67235fb1bf6317ac2</link>
-<pubDate>Fri, 08 May 2026 20:02:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Court in Chad jails 8 opposition leaders for 8 years in insurrection case]]></title>
-<link>https://apnews.com/article/chad-opposition-leaders-sentenced-540eca227396b71afeb3d27238d8561c</link>
-<pubDate>Fri, 08 May 2026 18:49:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Botswana mourns death of Festus Mogae, the former president who prioritized HIV/AIDS fight]]></title>
-<link>https://apnews.com/article/botswana-former-president-festus-mogae-obituary-eb9f28d90d27a6da748d71012e215231</link>
-<pubDate>Sun, 10 May 2026 19:37:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of the Palestinian marathon]]></title>
-<link>https://apnews.com/photo-gallery/photos-palestinian-marathon-cef5ab548baf4285b8384c29f7f5aeec</link>
-<pubDate>Fri, 08 May 2026 17:13:42 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[4 people convicted of conspiracy in US trial tied to 2021 assassination of Haiti’s president]]></title>
-<link>https://apnews.com/article/haiti-assassination-plot-florida-0c4b12972bc0d387140deeb9e8326b3d</link>
-<pubDate>Sun, 10 May 2026 21:07:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Passengers evacuated from hantavirus-stricken cruise ship begin flying home from Canary Islands]]></title>
+<title><![CDATA[One evacuated passenger tests positive for hantavirus and another develops symptoms on flight home]]></title>
 <link>https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4</link>
-<pubDate>Sun, 10 May 2026 19:37:38 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 05:59:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran responds to US ceasefire proposal but Trump rejects it as ‘unacceptable’]]></title>
+<title><![CDATA[Trump rejects Iran’s response to latest US proposal to end the war]]></title>
 <link>https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a</link>
-<pubDate>Sun, 10 May 2026 21:37:31 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 05:44:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Asia braces for a second wave of energy shocks from the Iran war]]></title>
+<link>https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-45dcf2b9059930f298136720564d6ae6</link>
+<pubDate>Mon, 11 May 2026 05:29:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bodies retrieved from Indonesian volcano after eruption kills 3 hikers]]></title>
-<link>https://apnews.com/article/indonesia-mount-dukono-eruption-hikers-search-bccb5313ea237d244e687872c72c13f3</link>
-<pubDate>Sun, 10 May 2026 12:07:19 -0000</pubDate>
+<title><![CDATA[Thailand’s Thaksin released from prison after serving 8 months for abuse of power]]></title>
+<link>https://apnews.com/article/thailand-politics-thaksin-shinawatra-prison-corruption-parole-e4d1415c95bda15488d86721416b2a03</link>
+<pubDate>Mon, 11 May 2026 05:14:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,15 +497,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[NTSB gathering details on Frontier Airlines evacuation after plane hit and killed person in Denver]]></title>
-<link>https://apnews.com/article/frontier-airlines-denver-airport-pedestrian-killed-799d66864cd651277c47e6c846a047a1</link>
-<pubDate>Sun, 10 May 2026 18:52:38 -0000</pubDate>
+<title><![CDATA[Pediatricians group finds kids of all ages need regular recess for physical and mental health]]></title>
+<link>https://apnews.com/article/recess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e</link>
+<pubDate>Mon, 11 May 2026 04:59:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s deal making with Xi next week may determine Hong Kong jailed activist Jimmy Lai’s fate]]></title>
-<link>https://apnews.com/article/hong-kong-jimmy-lai-trump-xi-d0ebb5b2803acf8d4f550216552e0b29</link>
-<pubDate>Sun, 10 May 2026 07:08:02 -0000</pubDate>
+<title><![CDATA[Asian shares are mixed and oil jumps 4% after Trump rejects Iran’s response to ceasefire proposal]]></title>
+<link>https://apnews.com/article/stocks-markets-oil-iran-trump-234022685a51477ea9f72cc5aa170829</link>
+<pubDate>Mon, 11 May 2026 04:44:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
