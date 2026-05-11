@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 11 May 2026 09:42:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 12:33:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump rejects Iran’s response to latest US proposal to end the war]]></title>
+<link>https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a</link>
+<pubDate>Mon, 11 May 2026 12:33:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport]]></title>
 <link>https://apnews.com/article/denver-airport-frontier-airline-person-injured-runway-e75355b2bed9ec3bae44cb064c92c1da</link>
@@ -29,12 +35,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venice Biennale opens without a jury amid strife over Russian and Israeli participation]]></title>
-<link>https://apnews.com/article/italy-venice-biennale-protests-israel-russia-760228a0f311f8fe8f8dd3487e57cc70</link>
-<pubDate>Sun, 10 May 2026 21:37:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran war disruptions spark higher costs and lost income in Bangladesh]]></title>
 <link>https://apnews.com/article/bangladesh-iran-war-fuel-price-economy-722a6fa78dbd69691e61f0b327743fb5</link>
 <pubDate>Sun, 10 May 2026 15:28:41 -0000</pubDate>
@@ -47,9 +47,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Starmer pledges to bring Britain closer to the EU as he fights calls for his ouster]]></title>
+<title><![CDATA[Starmer pledges to bring Britain closer to the EU as he faces calls to step down]]></title>
 <link>https://apnews.com/article/uk-starmer-labour-resignation-pressure-speech-68bfcf656ecd0acf6c52e1211f3b1bdc</link>
-<pubDate>Mon, 11 May 2026 09:27:28 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 12:18:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Russia and Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end]]></title>
+<link>https://apnews.com/article/russia-ukraine-ceasefire-trump-talks-462cb4414a7222e27a7075e8ddbcf0d9</link>
+<pubDate>Mon, 11 May 2026 12:03:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,27 +65,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainians seeking cultural escape from war’s brutality find comfort and resilience at Kyiv art fair]]></title>
-<link>https://apnews.com/article/ukraine-art-fair-kyiv-russia-war-ea2a6dcefcecd0f3133c67ff57b33639</link>
-<pubDate>Mon, 11 May 2026 05:59:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Thailand’s Thaksin released from prison after serving 8 months for abuse of power]]></title>
 <link>https://apnews.com/article/thailand-politics-thaksin-shinawatra-prison-corruption-parole-e4d1415c95bda15488d86721416b2a03</link>
 <pubDate>Mon, 11 May 2026 08:57:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Turkish Airlines jet catches fire while landing at Nepal’s main airport; all passengers safe]]></title>
-<link>https://apnews.com/article/nepal-kathmandu-turkish-airlines-fire-24c5c314e92e81ed4f482322ebec09b3</link>
-<pubDate>Mon, 11 May 2026 05:44:51 -0000</pubDate>
+<title><![CDATA[Pakistan protests to Afghanistan over suicide attack that killed 15 officers]]></title>
+<link>https://apnews.com/article/pakistan-afghanistan-diplomat-summoned-suicide-attack-c564f3b095192da4d7d1a452eded8f04</link>
+<pubDate>Mon, 11 May 2026 11:48:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war could make Trump’s trip to China a bit chillier than his first-term visit]]></title>
-<link>https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309</link>
-<pubDate>Mon, 11 May 2026 08:42:28 -0000</pubDate>
+<title><![CDATA[Turkish Airlines jet catches fire while landing at Nepal’s main airport; all passengers safe]]></title>
+<link>https://apnews.com/article/nepal-kathmandu-turkish-airlines-fire-24c5c314e92e81ed4f482322ebec09b3</link>
+<pubDate>Mon, 11 May 2026 05:44:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -98,6 +98,12 @@
 <title><![CDATA[How a 3,400-year-old ballgame survives in Mexico against all odds]]></title>
 <link>https://apnews.com/article/mexico-ulama-prehispanic-ballgame-fifa-cup-3819e65e272d0360979a8cd2dd78b999</link>
 <pubDate>Sun, 10 May 2026 16:12:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Marathon marks a turning point for a Palestinian runner released from an Israeli prison]]></title>
+<link>https://apnews.com/article/palestine-marathon-palestinians-alassi-710510c7dc56b89d4a79c0432a0a89c2</link>
+<pubDate>Sun, 10 May 2026 09:20:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pediatricians group finds kids of all ages need regular recess for physical and mental health]]></title>
+<link>https://apnews.com/article/recess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e</link>
+<pubDate>Mon, 11 May 2026 11:33:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Democrats vow to fight $1 billion Senate security proposal for White House ballroom]]></title>
 <link>https://apnews.com/article/senate-trump-white-house-ballroom-construction-4b9f101ea8c4861e81018ad5e6627626</link>
 <pubDate>Mon, 11 May 2026 08:27:28 -0000</pubDate>
@@ -137,21 +149,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Abe Foxman, advocate for American Jews as longtime head of Anti-Defamation League, dies at 86]]></title>
-<link>https://apnews.com/article/antidefamation-league-abe-foxman-dies-0f0dfd6d64f41f079bdf66455883934d</link>
-<pubDate>Sun, 10 May 2026 20:22:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NTSB gathering details on Frontier Airlines evacuation after plane hit and killed person in Denver]]></title>
-<link>https://apnews.com/article/frontier-airlines-denver-airport-pedestrian-killed-799d66864cd651277c47e6c846a047a1</link>
-<pubDate>Mon, 11 May 2026 04:59:51 -0000</pubDate>
+<title><![CDATA[A Christian IVF doctor upended his life and found a new way to practice]]></title>
+<link>https://apnews.com/article/christian-ivf-doctor-moral-dilemma-tennessee-043ca82cf706233380cf516abada9aa8</link>
+<pubDate>Mon, 11 May 2026 11:18:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Trump’s deal making with Xi next week may determine Hong Kong jailed activist Jimmy Lai’s fate]]></title>
 <link>https://apnews.com/article/hong-kong-jimmy-lai-trump-xi-d0ebb5b2803acf8d4f550216552e0b29</link>
 <pubDate>Sat, 09 May 2026 04:29:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit]]></title>
+<link>https://apnews.com/article/china-trade-exports-growth-april-4e17ad3271e7391a27a247698cddd6f8</link>
+<pubDate>Mon, 11 May 2026 11:03:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -164,12 +176,6 @@
 <title><![CDATA[Paraguay and Taiwan reaffirm ties after China sought to lure away another Taipei ally]]></title>
 <link>https://apnews.com/article/taiwan-paraguay-china-pena-president-cea85fcac12619d30cd42a58baebd163</link>
 <pubDate>Fri, 08 May 2026 07:35:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The death toll from an explosion at a fireworks plant in China rises to 37]]></title>
-<link>https://apnews.com/article/china-fireworks-explosion-hunan-changsha-855af57e6c81f050294d15b22623a3d6</link>
-<pubDate>Fri, 08 May 2026 07:05:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +200,12 @@
 <title><![CDATA[India and New Zealand sign a free trade agreement to deepen economic ties]]></title>
 <link>https://apnews.com/article/india-new-zealand-trade-deal-88c5ddf71ab119907c438a08ae1e7800</link>
 <pubDate>Fri, 08 May 2026 17:49:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Former Polish justice minister who faces prosecution at home says he’s traveled from Hungary to US]]></title>
+<link>https://apnews.com/article/poland-former-justice-minister-ziobro-hungary-us-3d78a3a9cb1eb9ee29ff48848844079b</link>
+<pubDate>Mon, 11 May 2026 12:33:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -254,6 +266,12 @@
 <title><![CDATA[Passengers disembark from a hantavirus-stricken cruise ship, in photos]]></title>
 <link>https://apnews.com/photo-gallery/hantavirus-cruise-spain-7a7939de078ac29e4337349ea6624b7e</link>
 <pubDate>Mon, 11 May 2026 04:44:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[NTSB gathering details on Frontier Airlines evacuation after plane hit and killed person in Denver]]></title>
+<link>https://apnews.com/article/frontier-airlines-denver-airport-pedestrian-killed-799d66864cd651277c47e6c846a047a1</link>
+<pubDate>Mon, 11 May 2026 12:18:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,39 +383,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Dozens of artists bring new life to a gigantic former ironworks on UNESCO’s world heritage list]]></title>
-<link>https://apnews.com/article/germany-ironworks-voelklingen-unesco-heritage-urban-art-93e6a615e04cc68b79f45d29b5d39ea6</link>
-<pubDate>Sat, 09 May 2026 07:08:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics]]></title>
-<link>https://apnews.com/article/vatican-lgbtq-pope-b58b0ac6e1ec26d4285aaa5502eb90ba</link>
-<pubDate>Sat, 09 May 2026 17:26:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[2 passengers test positive for hantavirus as a third one shows symptoms after cruise ship evacuation]]></title>
+<title><![CDATA[2 passengers test positive for hantavirus as a third shows symptoms after cruise ship evacuation]]></title>
 <link>https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644</link>
-<pubDate>Mon, 11 May 2026 09:42:29 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 12:33:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran and the US are at an impasse ahead of Trump’s China trip]]></title>
+<title><![CDATA[Iran war ceasefire grows increasingly shaky after Trump rejects Tehran’s latest proposal]]></title>
 <link>https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c</link>
-<pubDate>Mon, 11 May 2026 09:27:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump rejects Iran’s response to latest US proposal to end the war]]></title>
-<link>https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a</link>
-<pubDate>Mon, 11 May 2026 05:44:52 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 12:18:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Asia braces for a second wave of energy shocks from the Iran war]]></title>
 <link>https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-45dcf2b9059930f298136720564d6ae6</link>
 <pubDate>Mon, 11 May 2026 05:29:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump-Xi summit comes with high stakes for Taiwan, the island democracy that China claims as its own]]></title>
+<link>https://apnews.com/article/trump-xi-taiwan-democracy-arms-semiconductors-5c6aed1f1628fee0d381ecbb1ff73d10</link>
+<pubDate>Mon, 11 May 2026 08:12:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -437,21 +443,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mixed and oil jumps 3% after Trump rejects Iran’s response to ceasefire proposal]]></title>
+<title><![CDATA[Wall Street mixed, oil prices jump as Trump calls Iran’s response to peace deal ‘unacceptable’]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-234022685a51477ea9f72cc5aa170829</link>
-<pubDate>Mon, 11 May 2026 08:57:29 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 11:48:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Young Americans’ job market optimism falls as older adults stay upbeat, new Gallup poll finds]]></title>
+<title><![CDATA[Older Americans say it’s a good time to find a job. Younger people aren’t buying it, new poll finds]]></title>
 <link>https://apnews.com/article/global-jobs-economy-poll-youth-older-adults-efa927fc1ddfb481294178becbbf3a1b</link>
-<pubDate>Mon, 11 May 2026 08:42:29 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 11:33:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit]]></title>
-<link>https://apnews.com/article/china-trade-exports-growth-april-4e17ad3271e7391a27a247698cddd6f8</link>
-<pubDate>Sat, 09 May 2026 04:44:35 -0000</pubDate>
+<title><![CDATA[China’s passenger car exports surge nearly 85% in April as domestic sales slump]]></title>
+<link>https://apnews.com/article/china-autos-evs-exports-cars-2e1c50df43a9c4975fd6d9f33e920545</link>
+<pubDate>Mon, 11 May 2026 11:18:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine House votes to impeach Vice President Sara Duterte]]></title>
+<title><![CDATA[Philippine vice president impeached by lawmakers over suspected wealth and threats]]></title>
 <link>https://apnews.com/article/philippines-vice-president-duterte-impeachment-5d619c24ae6ef880d3c03bbcdccc1536</link>
-<pubDate>Mon, 11 May 2026 08:27:29 -0000</pubDate>
+<pubDate>Mon, 11 May 2026 11:03:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +491,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pediatricians group finds kids of all ages need regular recess for physical and mental health]]></title>
-<link>https://apnews.com/article/recess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e</link>
-<pubDate>Mon, 11 May 2026 04:59:52 -0000</pubDate>
+<title><![CDATA[Voter confusion and headaches for election officials follow hasty GOP push to redraw US House seats]]></title>
+<link>https://apnews.com/article/redistricting-republicans-voting-primaries-black-voters-c12196b188922ae2c03319bcb9533431</link>
+<pubDate>Mon, 11 May 2026 10:48:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump-Xi summit comes with high stakes for Taiwan, the island democracy that China claims as its own]]></title>
-<link>https://apnews.com/article/trump-xi-taiwan-democracy-arms-semiconductors-5c6aed1f1628fee0d381ecbb1ff73d10</link>
-<pubDate>Mon, 11 May 2026 08:12:29 -0000</pubDate>
+<title><![CDATA[Iran war could make Trump’s trip to China a bit chillier than his first-term visit]]></title>
+<link>https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309</link>
+<pubDate>Sun, 10 May 2026 12:22:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
