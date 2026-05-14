@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 14 May 2026 20:49:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 21:59:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump downplays differences with China’s Xi over Iran as he heads to Beijing for high-stakes summit]]></title>
 <link>https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Clashes erupt in Bolivia as miners set off dynamite and police fire tear gas]]></title>
+<link>https://apnews.com/article/bolivia-protests-la-paz-dynamite-35532ee774130aa57cb8278a384852c3</link>
+<pubDate>Thu, 14 May 2026 21:59:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba’s power grid collapses and plunges eastern provinces into a major blackout]]></title>
 <link>https://apnews.com/article/cuba-blackout-energy-crisis-oil-embargo-5450e7802d2df142120ef4049fe500ac</link>
 <pubDate>Thu, 14 May 2026 19:02:40 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Families scour southern Mexico after 40 migrants vanished on a dangerous sea route]]></title>
 <link>https://apnews.com/article/mexico-migrants-deaths-cuba-trump-chiapas-guatemala-4f4eccda891e7daf3337b3d9012d5819</link>
 <pubDate>Thu, 14 May 2026 18:47:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Dominican opposition criticizes deal with US to take third-country deportees]]></title>
-<link>https://apnews.com/article/dominican-republic-third-country-dd80551ea9bc13349610a940cfd5cc1f</link>
-<pubDate>Thu, 14 May 2026 17:14:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A timeline of events in the death penalty case of Richard Glossip]]></title>
+<link>https://apnews.com/article/richard-glossip-death-sentence-overturned-2ffa055f13db0515108c5883fd2ceac8</link>
+<pubDate>Thu, 14 May 2026 21:44:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Louisiana senators pass new US House map while South Carolina plans for extra redistricting work]]></title>
 <link>https://apnews.com/article/redistricting-congress-voting-rights-trump-16458ce398b200dc808c7fac244e9632</link>
 <pubDate>Thu, 14 May 2026 20:49:56 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[The world’s reaction to hantavirus is tinged by echoes of something else: COVID]]></title>
 <link>https://apnews.com/article/hantavirus-covid19-coronavirus-pandemic-trust-worry-0caba20db004446dd45ecda3a24e6cc0</link>
 <pubDate>Thu, 14 May 2026 20:19:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Small cities in big Texas metro areas lead as the fastest growing municipalities in the US]]></title>
-<link>https://apnews.com/article/cities-census-bureau-texas-florida-growth-bef1238aa5f27fef8ff7911dfe420a5f</link>
-<pubDate>Thu, 14 May 2026 12:55:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,6 +203,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Jury awards $49.5M to the family of a woman killed in 2019 Boeing Max crash]]></title>
+<link>https://apnews.com/article/boeing-737-max-ethiopia-crash-lawsuit-verdict-fd51d51bf8c050672ea3a08e8da17734</link>
+<pubDate>Thu, 14 May 2026 21:59:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-week-ap-photojournalists-94ae0e739afb47c88296d706590833d2</link>
+<pubDate>Thu, 14 May 2026 21:44:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Canada doubles down on clean energy commitment, plans to reduce electricity costs]]></title>
 <link>https://apnews.com/article/energy-canada-carney-d6a987a0baf8005c2fc81ac42dfddd73</link>
 <pubDate>Thu, 14 May 2026 20:49:57 -0000</pubDate>
@@ -221,9 +233,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration pledges $1.8 billion more for UN humanitarian aid]]></title>
+<title><![CDATA[US pledges $1.8 billion more for UN humanitarian aid even as it’s cut foreign assistance overall]]></title>
 <link>https://apnews.com/article/united-nations-trump-humanitarian-aid-funding-74f0745da1c20f6fcf78651300da5285</link>
-<pubDate>Thu, 14 May 2026 19:17:41 -0000</pubDate>
+<pubDate>Thu, 14 May 2026 21:29:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,6 +347,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Dominican opposition criticizes deal with US to take third-country deportees]]></title>
+<link>https://apnews.com/article/dominican-republic-third-country-dd80551ea9bc13349610a940cfd5cc1f</link>
+<pubDate>Thu, 14 May 2026 21:14:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Remains of 2nd US soldier who went missing during military exercises in Morocco have been recovered]]></title>
 <link>https://apnews.com/article/morocco-united-states-soldiers-remains-recovered-1f53adf0633974fa5da4a8f0b6ef68ce</link>
 <pubDate>Thu, 14 May 2026 18:47:41 -0000</pubDate>
@@ -365,24 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US deportations to El Salvador double as Bukele aligns himself with Trump agenda]]></title>
-<link>https://apnews.com/article/us-deportations-el-salvador-bukele-trump-f62382064b466435b8d2db454e21fc57</link>
-<pubDate>Thu, 14 May 2026 16:44:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Bahamas Prime Minister Davis declares victory for party in snap election]]></title>
-<link>https://apnews.com/article/bahamas-election-9f6deccb424a7928955c21e3b9f413df</link>
-<pubDate>Wed, 13 May 2026 19:59:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[‘Ocean Dream’ blue-green diamond sells for more than $17 million at Christie’s auction in Geneva]]></title>
-<link>https://apnews.com/article/ocean-dream-diamond-geneva-christies-auction-sothebys-0fd9abd11de072b078853bac51ac4d44</link>
-<pubDate>Thu, 14 May 2026 01:19:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[China’s Xi warns Trump that differences over Taiwan could lead to conflict]]></title>
 <link>https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5</link>
 <pubDate>Thu, 14 May 2026 11:07:50 -0000</pubDate>
@@ -395,15 +395,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tensions flare near Strait of Hormuz as a ship is seized and another is sunk]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279</link>
-<pubDate>Thu, 14 May 2026 15:22:50 -0000</pubDate>
+<title><![CDATA[Cuban government says CIA Director John Ratcliffe met with officials in Havana]]></title>
+<link>https://apnews.com/article/cuba-us-meeting-cia-john-9a3e7946460f8e5e48424f3a59df3fe8</link>
+<pubDate>Thu, 14 May 2026 21:59:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK health secretary resigns, setting up a potential Labour leadership challenge to Keir Starmer]]></title>
-<link>https://apnews.com/article/britain-politics-starmer-streeting-rayner-6bd359148664c9478ed01b36ebb6e37d</link>
-<pubDate>Thu, 14 May 2026 17:29:32 -0000</pubDate>
+<title><![CDATA[Tensions flare near Strait of Hormuz as a ship is seized and another is sunk]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279</link>
+<pubDate>Thu, 14 May 2026 15:22:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -470,6 +470,12 @@
 <title><![CDATA[What a US gas tax suspension could mean for drivers and the prices they see at the pump]]></title>
 <link>https://apnews.com/article/gas-tax-oil-inflation-trump-90de4425d546a86e60901c1aecd87680</link>
 <pubDate>Wed, 13 May 2026 04:59:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK health secretary resigns, setting up a potential Labour leadership challenge to Keir Starmer]]></title>
+<link>https://apnews.com/article/britain-politics-starmer-streeting-rayner-6bd359148664c9478ed01b36ebb6e37d</link>
+<pubDate>Thu, 14 May 2026 17:29:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
