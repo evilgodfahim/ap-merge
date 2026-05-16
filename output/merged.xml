@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 16 May 2026 09:10:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 10:41:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tensions flare near Strait of Hormuz as a ship is seized and another is sunk]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump administration prepares to seek Raúl Castro indictment as it pressures Cuba, AP sources say]]></title>
+<link>https://apnews.com/article/raul-castro-cuba-doj-indictment-trump-40939c6644185652649bc90d4e445394</link>
+<pubDate>Sat, 16 May 2026 10:41:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump’s talk of 51st US state met with near-silence in Venezuela]]></title>
 <link>https://apnews.com/article/venezuela-us-state-trump-rodriguez-chavismo-silence-634203c885803b018ecd8ac012bb249d</link>
 <pubDate>Fri, 15 May 2026 13:26:22 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Gunfire breaks out in Philippine Senate where authorities tried to arrest a senator]]></title>
 <link>https://apnews.com/article/philippines-gunfire-senate-dela-rosa-icc-fdaeba231d80a51f191b06ce25057f40</link>
 <pubDate>Thu, 14 May 2026 07:37:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Remains of 2nd US soldier who went missing during military exercises in Morocco have been recovered]]></title>
-<link>https://apnews.com/article/morocco-united-states-soldiers-remains-recovered-1f53adf0633974fa5da4a8f0b6ef68ce</link>
-<pubDate>Wed, 13 May 2026 22:25:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Maldives divers search for bodies of 4 Italians in an underwater cave]]></title>
+<link>https://apnews.com/article/italy-divers-missing-maldives-search-underwater-cave-5cb0af32ad85149c9319b8861921d43b</link>
+<pubDate>Sat, 16 May 2026 10:26:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump says Xi is considering a detained pastor’s case, but freeing activist Jimmy Lai is ‘tough’]]></title>
 <link>https://apnews.com/article/china-trump-detainees-ezra-jin-jimmy-lai-29d069645e077108d1ecc9bce04f1139</link>
 <pubDate>Sat, 16 May 2026 08:55:05 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[The balikbayan box: The way Filipino Americans have sent love all the way back home]]></title>
 <link>https://apnews.com/article/filipino-balikbayan-box-philippines-4dd1be74b8465524d502dcd6d0821d90</link>
 <pubDate>Fri, 15 May 2026 18:30:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Journey of a lifetime: A US teen Buddhist lama is now a monk studying in the Himalayan foothills]]></title>
-<link>https://apnews.com/article/american-teenager-buddhist-lama-nepal-india-football-25f9543dcce005a43b90e74b7f56c6cf</link>
-<pubDate>Fri, 15 May 2026 15:18:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +104,6 @@
 <title><![CDATA[New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues]]></title>
 <link>https://apnews.com/article/israel-lebanon-hezbollah-iran-c194620ef1838812da6167db918da3ea</link>
 <pubDate>Fri, 15 May 2026 19:00:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ultranationalist Jews chant racist slogans during annual march into Jerusalem’s Old City]]></title>
-<link>https://apnews.com/article/israel-jerusalem-flag-march-violence-e458b96f6cdd16a72f2f3c653d36ef0f</link>
-<pubDate>Fri, 15 May 2026 17:20:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,9 +197,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US agrees to settle lawsuit that accused an Indian billionaire of hiding an alleged bribery scheme]]></title>
-<link>https://apnews.com/article/adani-lawsuit-settlement-8c2cfafe46e83c1de7dba4273c630074</link>
-<pubDate>Fri, 15 May 2026 10:01:56 -0000</pubDate>
+<title><![CDATA[Journey of a lifetime: A US teen Buddhist lama is now a monk studying in the Himalayan foothills]]></title>
+<link>https://apnews.com/article/american-teenager-buddhist-lama-nepal-india-football-25f9543dcce005a43b90e74b7f56c6cf</link>
+<pubDate>Fri, 15 May 2026 15:18:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A shark fatally mauls a spearfishing diver off Australia’s Rottnest Island, police say]]></title>
+<link>https://apnews.com/article/australia-spearfishing-diver-shark-attack-diver-rottnest-e5ee231b18bb384b52ffdf37bd771e4a</link>
+<pubDate>Sat, 16 May 2026 10:41:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[London police prepare for a busy day with two big rallies planned and a soccer final]]></title>
+<link>https://apnews.com/article/britain-protests-police-soccer-eb0bb38d30bbb677ba7f9893501946bf</link>
+<pubDate>Sat, 16 May 2026 10:26:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,21 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Animal welfare group finds systemic neglect at public dog shelters in Romania]]></title>
-<link>https://apnews.com/article/romania-dogs-animal-cruelty-shelters-kennels-419ef50c9dddb759c54046fa74e92cd7</link>
-<pubDate>Fri, 15 May 2026 12:41:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Photos of US-born teen Buddhist lama now studying near the Himalayas to become a monk]]></title>
-<link>https://apnews.com/photo-gallery/teen-buddist-lama-jalue-dorje-photos-8739864383359a7497f69abf123038ff</link>
-<pubDate>Fri, 15 May 2026 10:46:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says Islamic State group leader was killed in a joint US-Nigerian mission]]></title>
 <link>https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0</link>
 <pubDate>Sat, 16 May 2026 09:10:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israel says it killed the leader of Hamas’ military wing, one of the architects of Oct. 7 attacks]]></title>
+<link>https://apnews.com/article/gaza-hamas-israel-strike-2ae7c8e7a59b943a47f7a68fdc61051b</link>
+<pubDate>Sat, 16 May 2026 10:41:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -410,12 +410,6 @@
 <title><![CDATA[Takeaways from Trump’s trip to China: Taiwan, a new framework for relationship and flattery for Xi]]></title>
 <link>https://apnews.com/article/trump-xi-china-trade-iran-taiwan-f6c59000412653e445acbf9672ac7f47</link>
 <pubDate>Fri, 15 May 2026 17:20:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump administration prepares to seek Raúl Castro indictment as it pressures Cuba, AP sources say]]></title>
-<link>https://apnews.com/article/raul-castro-cuba-doj-indictment-trump-40939c6644185652649bc90d4e445394</link>
-<pubDate>Fri, 15 May 2026 19:00:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Maldives divers search for 4 missing Italians in an underwater cave]]></title>
-<link>https://apnews.com/article/italy-divers-missing-maldives-search-underwater-cave-5cb0af32ad85149c9319b8861921d43b</link>
-<pubDate>Sat, 16 May 2026 08:40:09 -0000</pubDate>
+<title><![CDATA[A cargo train hits a public bus at a Bangkok rail crossing, killing at least 8]]></title>
+<link>https://apnews.com/article/thailand-bangkok-train-collision-bus-984593ca4aaab2452ff60abc48092344</link>
+<pubDate>Sat, 16 May 2026 10:26:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
