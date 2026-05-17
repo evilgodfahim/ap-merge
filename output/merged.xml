@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 11:35:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 12:53:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Humpback whale released after spectacular rescue effort found dead off Denmark]]></title>
 <link>https://apnews.com/article/germany-denmark-dead-whale-timmy-rescue-c6e3de9fd7dd4a03c2a676b6994d14d8</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say]]></title>
+<link>https://apnews.com/article/kyiv-russia-attack-couple-killed-8283434fbf298047fd9bb973244cfd94</link>
+<pubDate>Sun, 17 May 2026 12:53:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Researchers stunned by a forgotten medieval book in Rome hiding the oldest English poem]]></title>
 <link>https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90</link>
 <pubDate>Sun, 17 May 2026 10:02:17 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers]]></title>
 <link>https://apnews.com/article/italy-divers-maldives-cave-search-finnish-6ed03204335b37f5b07b78e1d4415339</link>
 <pubDate>Sun, 17 May 2026 11:05:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister]]></title>
-<link>https://apnews.com/article/britain-politics-streeting-starmer-prime-minister-ffeb9e78cf0f156abc70e1e794f7fa23</link>
-<pubDate>Sun, 17 May 2026 07:54:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[On the voting rights trail, bus riders to Montgomery retrace old steps while fighting a new fight]]></title>
+<link>https://apnews.com/article/voting-civil-rights-movement-redistricting-montgomery-race-3eb3d70073023a8e3b08ad116541c184</link>
+<pubDate>Sun, 17 May 2026 12:38:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration promote program to check voter eligibility. Critics fear a midterm purge]]></title>
 <link>https://apnews.com/article/trump-voter-eligibility-purge-noncitizens-disenfranchised-8f78773f583e4404136707c62acc648a</link>
 <pubDate>Sun, 17 May 2026 10:50:28 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[Sen. Cassidy knocked out of Louisiana Republican primary as Trump-backed Letlow, Fleming make runoff]]></title>
 <link>https://apnews.com/article/louisiana-republican-senate-primary-2026-cassidy-letlow-1c8b927fd981c40cb4a538b0f89671dc</link>
 <pubDate>Sun, 17 May 2026 05:43:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury deadlocks]]></title>
-<link>https://apnews.com/article/harvey-weinstein-rape-retrial-jury-deliberations-metoo-5a7dbc5b8007e0d5bb02be104a2946b0</link>
-<pubDate>Sat, 16 May 2026 11:40:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,9 +209,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[At least 4 people killed in one of the largest Ukrainian drone strikes on Russia]]></title>
-<link>https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6</link>
-<pubDate>Sun, 17 May 2026 10:02:18 -0000</pubDate>
+<title><![CDATA[It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister]]></title>
+<link>https://apnews.com/article/britain-politics-streeting-starmer-prime-minister-ffeb9e78cf0f156abc70e1e794f7fa23</link>
+<pubDate>Sun, 17 May 2026 12:53:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -383,21 +383,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Drone strike sparks a fire on the perimeter of UAE’s nuclear power plant, shaking Iran war ceasefire]]></title>
+<title><![CDATA[Drone strike sparks fire on the edge of the UAE’s nuclear power plant in latest blow to Iran truce]]></title>
 <link>https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b</link>
-<pubDate>Sun, 17 May 2026 11:35:29 -0000</pubDate>
+<pubDate>Sun, 17 May 2026 12:53:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian drone strikes on Russia kill 4 and wound 12 others, while debris lands on a Moscow airport]]></title>
+<link>https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6</link>
+<pubDate>Sun, 17 May 2026 12:38:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Venezuela says it deported a close ally of Maduro to face criminal proceedings in US]]></title>
 <link>https://apnews.com/article/venezuela-us-maduro-ally-057c22fe6e9b7022388eaeea2f1ecb52</link>
 <pubDate>Sun, 17 May 2026 01:56:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say]]></title>
-<link>https://apnews.com/article/kyiv-russia-attack-couple-killed-8283434fbf298047fd9bb973244cfd94</link>
-<pubDate>Sun, 17 May 2026 08:10:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[North America’s largest commuter rail system shuts down as workers strike]]></title>
+<title><![CDATA[North America’s largest commuter rail system remains shut a second day as Monday rush hour looms]]></title>
 <link>https://apnews.com/article/lirr-new-york-commuter-rail-strike-union-a9b20b5de53a944c9da4263d289a845f</link>
-<pubDate>Sat, 16 May 2026 12:25:32 -0000</pubDate>
+<pubDate>Sun, 17 May 2026 12:23:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
