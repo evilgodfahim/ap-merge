@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 10:02:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 11:35:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Humpback whale released after spectacular rescue effort found dead off Denmark]]></title>
 <link>https://apnews.com/article/germany-denmark-dead-whale-timmy-rescue-c6e3de9fd7dd4a03c2a676b6994d14d8</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Maldives suspends search for 4 Italians in underwater cave after military diver dies]]></title>
-<link>https://apnews.com/article/italy-divers-missing-maldives-search-underwater-cave-5cb0af32ad85149c9319b8861921d43b</link>
-<pubDate>Sat, 16 May 2026 17:15:11 -0000</pubDate>
+<title><![CDATA[Trump says Islamic State group leader was killed in a joint US-Nigerian mission]]></title>
+<link>https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0</link>
+<pubDate>Sun, 17 May 2026 11:35:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A French judge will look into complaints against Saudi crown prince over Khashoggi’s killing]]></title>
+<link>https://apnews.com/article/khashoggi-mbs-washington-post-473fa575d7330e4b6ff2a79a2c5e61cc</link>
+<pubDate>Sun, 17 May 2026 11:20:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,15 +47,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s top diplomat says a lack of trust is impeding talks to end war with the US]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce</link>
-<pubDate>Sat, 16 May 2026 17:45:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Researchers stunned by a forgotten medieval book in Rome hiding the oldest English poem]]></title>
 <link>https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90</link>
 <pubDate>Sun, 17 May 2026 10:02:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers]]></title>
+<link>https://apnews.com/article/italy-divers-maldives-cave-search-finnish-6ed03204335b37f5b07b78e1d4415339</link>
+<pubDate>Sun, 17 May 2026 11:05:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -65,15 +71,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A cargo train hits a public bus at a Bangkok rail crossing, killing at least 8]]></title>
-<link>https://apnews.com/article/thailand-bangkok-train-collision-bus-984593ca4aaab2452ff60abc48092344</link>
-<pubDate>Sat, 16 May 2026 12:25:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[North Korean women’s soccer team arrives in South Korea for regional tournament]]></title>
 <link>https://apnews.com/article/north-korea-south-women-soccer-tensions-d3a3262a056a605b0009dd5b551e8690</link>
 <pubDate>Sun, 17 May 2026 07:39:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A cargo train hits a public bus at a Bangkok rail crossing, killing at least 8]]></title>
+<link>https://apnews.com/article/thailand-bangkok-train-collision-bus-984593ca4aaab2452ff60abc48092344</link>
+<pubDate>Sat, 16 May 2026 12:25:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump administration promote program to check voter eligibility. Critics fear a midterm purge]]></title>
+<link>https://apnews.com/article/trump-voter-eligibility-purge-noncitizens-disenfranchised-8f78773f583e4404136707c62acc648a</link>
+<pubDate>Sun, 17 May 2026 10:50:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[USS Ford returns home after 11-month deployment supporting the Iran war and Maduro’s capture]]></title>
 <link>https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4</link>
 <pubDate>Sat, 16 May 2026 14:46:28 -0000</pubDate>
@@ -140,12 +152,6 @@
 <title><![CDATA[Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury deadlocks]]></title>
 <link>https://apnews.com/article/harvey-weinstein-rape-retrial-jury-deliberations-metoo-5a7dbc5b8007e0d5bb02be104a2946b0</link>
 <pubDate>Sat, 16 May 2026 11:40:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[New US House map in Florida accused of violating state ban on partisan gerrymandering]]></title>
-<link>https://apnews.com/article/florida-us-house-redistricting-41b9143465d07a388662ee081cac4a18</link>
-<pubDate>Fri, 15 May 2026 17:45:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +200,12 @@
 <title><![CDATA[Journey of a lifetime: A US teen Buddhist lama is now a monk studying in the Himalayan foothills]]></title>
 <link>https://apnews.com/article/american-teenager-buddhist-lama-nepal-india-football-25f9543dcce005a43b90e74b7f56c6cf</link>
 <pubDate>Fri, 15 May 2026 15:18:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[1 dead and 9 missing after pickup truck falls off bridge in southern China]]></title>
+<link>https://apnews.com/article/river-accident-guangxi-china-pickup-truck-45bf1acee7f0080c345d32606e89f250</link>
+<pubDate>Sun, 17 May 2026 11:35:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -287,6 +299,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Maldives suspends search for 4 Italians in underwater cave after military diver dies]]></title>
+<link>https://apnews.com/article/italy-divers-missing-maldives-search-underwater-cave-5cb0af32ad85149c9319b8861921d43b</link>
+<pubDate>Sun, 17 May 2026 11:20:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos]]></title>
 <link>https://apnews.com/photo-gallery/senegal-dakar-wrestling-youth-sport-3ad1826257e184003d61e0789e3d2e54</link>
 <pubDate>Sat, 16 May 2026 23:10:11 -0000</pubDate>
@@ -365,15 +383,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Jane Schoenbrun’s queer slasher movie ‘Teenage Sex and Death at Camp Miasma’ jolts Cannes]]></title>
-<link>https://apnews.com/article/teenage-sex-death-camp-miasma-cannes-schoenbrun-1586772bced9cf6f3ca00cb30694d1d7</link>
-<pubDate>Fri, 15 May 2026 17:20:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Dozens of European nations sign off on new interpretation of rights convention in migration cases]]></title>
-<link>https://apnews.com/article/europe-migration-council-of-europe-moldova-20428c829c031554453493bfc34c37b6</link>
-<pubDate>Fri, 15 May 2026 17:05:04 -0000</pubDate>
+<title><![CDATA[Drone strike sparks a fire on the perimeter of UAE’s nuclear power plant, shaking Iran war ceasefire]]></title>
+<link>https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b</link>
+<pubDate>Sun, 17 May 2026 11:35:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,18 +407,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says Islamic State group leader was killed in a joint US-Nigerian mission]]></title>
-<link>https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0</link>
-<pubDate>Sat, 16 May 2026 09:10:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike kills Hamas’ military wing leader, who Israel says was an architect of Oct 7 attacks]]></title>
-<link>https://apnews.com/article/gaza-hamas-israel-strike-2ae7c8e7a59b943a47f7a68fdc61051b</link>
-<pubDate>Sat, 16 May 2026 14:18:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump said he didn’t ask China’s Xi ‘for any favors’ on Iran]]></title>
 <link>https://apnews.com/video/trump-said-he-didnt-ask-chinas-xi-for-any-favors-on-iran-36e5771877df4f98a6f9fe8df5c85d7f</link>
 <pubDate>Fri, 15 May 2026 23:43:23 -0000</pubDate>
@@ -416,6 +416,12 @@
 <title><![CDATA[Israeli airstrike targets Hamas leader in Gaza]]></title>
 <link>https://apnews.com/video/israeli-airstrike-targets-hamas-leader-in-gaza-9cf01e48949d439ead80f749a78731da</link>
 <pubDate>Fri, 15 May 2026 23:28:23 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Palestinian activist Ramy Shaath says France is seeking to deport him]]></title>
+<link>https://apnews.com/article/france-palestinian-activist-deportation-ab9809e05df0a7d41e2a79f609ea79a6</link>
+<pubDate>Sun, 17 May 2026 11:05:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -434,12 +440,6 @@
 <title><![CDATA[Israeli strike that killed Hamas military leader Izz al-Din al-Haddad, in photos]]></title>
 <link>https://apnews.com/photo-gallery/alhaddad-hamas-israel-war-gaza-photo-893b5d5910638a4393f7b6a495e04989</link>
 <pubDate>Sat, 16 May 2026 16:43:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A French judge will look into complaints against Saudi crown prince over Khashoggi’s killing]]></title>
-<link>https://apnews.com/article/khashoggi-mbs-washington-post-473fa575d7330e4b6ff2a79a2c5e61cc</link>
-<pubDate>Sat, 16 May 2026 18:32:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
