@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 21 May 2026 22:57:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 23:59:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ebola fears surge on the ground in Congo over rapid spread of a rare type]]></title>
 <link>https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Putin and Xi hail their friendship and growing energy trade at their meeting in Beijing]]></title>
-<link>https://apnews.com/article/china-russia-putin-xi-5b7304bc1604cbb7135cb96f217b8b3e</link>
-<pubDate>Thu, 21 May 2026 06:32:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Residents burn an Ebola treatment center in Congo as anger grows over the outbreak]]></title>
 <link>https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c</link>
 <pubDate>Thu, 21 May 2026 20:29:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Putin and Xi hail their friendship and growing energy trade at their meeting in Beijing]]></title>
+<link>https://apnews.com/article/china-russia-putin-xi-5b7304bc1604cbb7135cb96f217b8b3e</link>
+<pubDate>Thu, 21 May 2026 06:32:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,15 +53,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russia holds nuclear drills on land, sea and air, joined by its ally Belarus]]></title>
-<link>https://apnews.com/article/russia-nuclear-drill-belarus-ukraine-cce4ba1be04956f7a91222a24c61a819</link>
-<pubDate>Thu, 21 May 2026 16:17:59 -0000</pubDate>
+<title><![CDATA[Trump says he’s sending 5,000 more troops to Poland, stirring confusion about US presence in Europe]]></title>
+<link>https://apnews.com/article/trump-troops-withdrawal-germany-poland-europe-499a39701275a553d1ff15bb1756d2fe</link>
+<pubDate>Thu, 21 May 2026 23:59:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Documents show Queen Elizabeth was eager for ex-Prince Andrew to become trade envoy]]></title>
-<link>https://apnews.com/article/britain-andrew-queen-trade-envoy-6e924da58fd2e41e10cf5f32b12c30ea</link>
-<pubDate>Thu, 21 May 2026 10:14:13 -0000</pubDate>
+<title><![CDATA[Russia holds nuclear drills on land, sea and air, joined by its ally Belarus]]></title>
+<link>https://apnews.com/article/russia-nuclear-drill-belarus-ukraine-cce4ba1be04956f7a91222a24c61a819</link>
+<pubDate>Thu, 21 May 2026 16:17:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,9 +209,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen open fire in two separate attacks in Honduras, killing at least 16 people]]></title>
+<title><![CDATA[Gunmen open fire in 2 separate attacks in Honduras, killing at least 16 people]]></title>
 <link>https://apnews.com/article/honduras-attacks-trujillo-omoa-coast-3ac457d649e2fb3cc46988c8bc1d6481</link>
-<pubDate>Thu, 21 May 2026 20:29:08 -0000</pubDate>
+<pubDate>Thu, 21 May 2026 23:59:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -293,6 +293,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Documents show Queen Elizabeth was eager for ex-Prince Andrew to become trade envoy]]></title>
+<link>https://apnews.com/article/britain-andrew-queen-trade-envoy-6e924da58fd2e41e10cf5f32b12c30ea</link>
+<pubDate>Thu, 21 May 2026 23:44:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Energy shock from Iran war to weigh on Europe’s growth, boost inflation]]></title>
 <link>https://apnews.com/article/europe-economy-growth-outlook-inflation-4b1eb908b7399c75a7ec8a02a0d3481c</link>
 <pubDate>Thu, 21 May 2026 10:29:15 -0000</pubDate>
@@ -371,12 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil’s Lula adds pressure on big techs by increasing their liability for illegal user content]]></title>
-<link>https://apnews.com/article/brazil-lula-big-techs-decree-pressure-610644693b3f0df5420f1c2a46c5db41</link>
-<pubDate>Wed, 20 May 2026 22:19:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action]]></title>
 <link>https://apnews.com/article/trump-rubio-cuba-castro-intervention-a7a470404229ce2cf89b10501e8692b7</link>
 <pubDate>Thu, 21 May 2026 20:29:09 -0000</pubDate>
@@ -407,15 +407,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump: Netanyahu ‘will do whatever I want him to do’ on Iran]]></title>
-<link>https://apnews.com/video/trump-netanyahu-will-do-whatever-i-want-him-to-do-on-iran-eb1eedbf683640468e66b33f0f9590c3</link>
-<pubDate>Wed, 20 May 2026 23:44:31 -0000</pubDate>
+<title><![CDATA[Protest in Athens after Israel intercepts international flotilla carrying Gaza activists]]></title>
+<link>https://apnews.com/video/protest-in-athens-after-israel-intercepts-international-flotilla-carrying-gaza-activists-9b61907ab48c4d06864c551bbe93378b</link>
+<pubDate>Thu, 21 May 2026 23:59:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[In Iran’s capital, an influx of weaponry signals those at home and abroad as war threats remain]]></title>
-<link>https://apnews.com/video/in-irans-capital-an-influx-of-weaponry-signals-those-at-home-and-abroad-as-war-threats-remain-2e7f0caf105c45e58733aae636aad731</link>
-<pubDate>Wed, 20 May 2026 23:29:31 -0000</pubDate>
+<title><![CDATA[Dozens injured, buildings damaged as 5.8 magnitude earthquake strikes Peru’s Pacific region]]></title>
+<link>https://apnews.com/video/dozens-injured-buildings-damaged-as-5-8-magnitude-earthquake-strikes-perus-pacific-region-d1aeceea692d4709bf2d460b96f6ac67</link>
+<pubDate>Thu, 21 May 2026 23:44:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
