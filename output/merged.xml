@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 22 May 2026 13:21:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 15:58:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Residents burn an Ebola treatment center in Congo as anger grows over the outbreak]]></title>
 <link>https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c</link>
@@ -35,15 +35,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US sanctions Lebanese lawmakers, security officials over Hezbollah influence]]></title>
-<link>https://apnews.com/article/hezbollah-treasury-sanctions-d654875131c303a387173de7dcad6815</link>
-<pubDate>Fri, 22 May 2026 13:21:40 -0000</pubDate>
+<title><![CDATA[A displaced Lebanese grandmother feeds thousands of compatriots who fled war]]></title>
+<link>https://apnews.com/article/displaced-lebanon-food-israel-hezbollah-ea891d54258be5f5d0a75f10f67afef7</link>
+<pubDate>Fri, 22 May 2026 15:58:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli security minister who taunted flotilla activists has a record of extreme actions]]></title>
-<link>https://apnews.com/article/bengvir-flotilla-gaza-087fa379fa08ae4ddc3a0262b381e3e5</link>
-<pubDate>Fri, 22 May 2026 07:34:38 -0000</pubDate>
+<title><![CDATA[Israel deports hundreds of Gaza flotilla activists after international backlash]]></title>
+<link>https://apnews.com/article/israel-flotilla-gaza-sumud-deportations-f1101fc45ecf0d384c43e3562c3a1c61</link>
+<pubDate>Fri, 22 May 2026 15:43:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[NATO allies bewildered by Trump’s about-face on US troop moves in Europe]]></title>
+<link>https://apnews.com/article/nato-trump-troops-europe-poland-confusion-5ee39c29238cdee76c1780233cb6fddc</link>
+<pubDate>Fri, 22 May 2026 15:28:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,15 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK police renew call for witnesses as they broaden inquiry into former Prince Andrew]]></title>
-<link>https://apnews.com/article/britain-andrew-epstein-misconduct-0add5c233b8fd51039779e3c5b1c652c</link>
-<pubDate>Fri, 22 May 2026 10:25:20 -0000</pubDate>
+<title><![CDATA[An all-women Senate delegation is heading to the Arctic to reassure US allies]]></title>
+<link>https://apnews.com/article/arctic-greenland-women-senators-f932b33dca26620cc16ae266951de7b4</link>
+<pubDate>Fri, 22 May 2026 15:13:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[WHO chief says Ebola outbreak in Congo is ‘spreading rapidly’ and upgrades risk assessment]]></title>
-<link>https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954</link>
-<pubDate>Fri, 22 May 2026 12:51:40 -0000</pubDate>
+<title><![CDATA[Indonesia tightens control over key commodities in major trade takeover, influencing global exports]]></title>
+<link>https://apnews.com/article/indonesia-prabowo-resources-coal-nickel-9b50ad884646840db57d1fedbec564cd</link>
+<pubDate>Fri, 22 May 2026 14:58:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[Shoot-and-scoot: Mobile missile launchers play key role in US Pacific deterrence strategy]]></title>
 <link>https://apnews.com/article/us-marines-japan-pacific-himars-missiles-43ea25e49c7d853b77fe80efecbe8b88</link>
 <pubDate>Fri, 22 May 2026 09:55:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The differences — and similarities — in the Trump and Putin visits to China]]></title>
-<link>https://apnews.com/article/china-russia-us-summits-xi-putin-trump-d344badcd75d5aa2a5cda4aa146785ca</link>
-<pubDate>Fri, 22 May 2026 10:40:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,6 +101,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli security minister who taunted flotilla activists has a record of extreme actions]]></title>
+<link>https://apnews.com/article/bengvir-flotilla-gaza-087fa379fa08ae4ddc3a0262b381e3e5</link>
+<pubDate>Fri, 22 May 2026 07:34:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US sanctions Tanzanian police chief over human rights violations]]></title>
+<link>https://apnews.com/article/tanzania-us-sanctions-human-rights-a17769f800c63394d95ff5c90a9b7a22</link>
+<pubDate>Fri, 22 May 2026 14:43:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Kenyan public transport operators call off strike after president vows to reduce fuel prices]]></title>
 <link>https://apnews.com/article/kenya-fuel-prices-strike-protests-4b209fd7aa6aef912b6683eb2cda0c6f</link>
 <pubDate>Fri, 22 May 2026 09:40:20 -0000</pubDate>
@@ -119,21 +131,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[9 deportees from US arrive in Sierra Leone under third-country agreement]]></title>
-<link>https://apnews.com/article/sierra-leone-deportations-united-states-5ade9a8396189a335a65712c37b2e5e6</link>
-<pubDate>Wed, 20 May 2026 17:37:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Pushed to the limit, Republicans show rare defiance to Trump’s demands]]></title>
 <link>https://apnews.com/article/todd-blanche-justice-department-congress-irs-fund-70beefaf7d099ba79f1d36159972e2a9</link>
 <pubDate>Fri, 22 May 2026 12:36:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Paxton makes his final pitch in Texas US Senate race against Cornyn, buoyed by Trump’s endorsement]]></title>
+<title><![CDATA[Blanche thrust into Republican firestorm over $1.8B fund as he seeks to prove his loyalty to Trump]]></title>
+<link>https://apnews.com/article/justice-department-blanche-fbi-89a2334ef3ca9ac1398975d6a3528bff</link>
+<pubDate>Fri, 22 May 2026 14:28:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Paxton makes his final pitch in the Texas Senate race against Cornyn, buoyed by Trump’s endorsement]]></title>
 <link>https://apnews.com/article/trump-cornyn-paxton-texas-republican-runoff-373272b0c4e997fb8aef8097242b78ef</link>
-<pubDate>Fri, 22 May 2026 12:21:40 -0000</pubDate>
+<pubDate>Fri, 22 May 2026 14:13:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,9 +155,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tennessee fails to execute Tony Carruthers after IV difficulties. State won’t try again for a year]]></title>
-<link>https://apnews.com/article/carruthers-execution-lethal-injection-tennessee-memphis-225a47554413611c4626702c32a2577d</link>
-<pubDate>Thu, 21 May 2026 19:44:07 -0000</pubDate>
+<title><![CDATA[A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway]]></title>
+<link>https://apnews.com/article/panama-canal-authority-62951da4094c646b591fd31b1b0131f6</link>
+<pubDate>Fri, 22 May 2026 06:19:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The differences — and similarities — in the Trump and Putin visits to China]]></title>
+<link>https://apnews.com/article/china-russia-us-summits-xi-putin-trump-d344badcd75d5aa2a5cda4aa146785ca</link>
+<pubDate>Fri, 22 May 2026 10:40:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -158,18 +176,6 @@
 <title><![CDATA[US test fires mobile rocket system near Mount Fuji in rapid ‘shoot and scoot’ drill]]></title>
 <link>https://apnews.com/article/japan-us-military-rocket-launcher-test-fire-bb76f71c24143a246606c5ebf35f0a30</link>
 <pubDate>Thu, 21 May 2026 14:02:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan’s Lai says he’d tell Trump he hopes to continue arms purchases from US, if given a chance]]></title>
-<link>https://apnews.com/article/taiwan-lai-ching-te-address-second-annivesary-d52867fbbb34e66f414fb4a45929f7fc</link>
-<pubDate>Wed, 20 May 2026 11:40:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Putin visits China to reaffirm Russia ties as Xi also seeks stable US relations after Trump summit]]></title>
-<link>https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97</link>
-<pubDate>Tue, 19 May 2026 06:30:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +203,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Carney vows a better Canada after Alberta plans a vote on seeking independence]]></title>
+<link>https://apnews.com/article/canada-alberta-referendum-577ca32902e76dd399677f1db9b48010</link>
+<pubDate>Fri, 22 May 2026 15:58:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Belarusian journalist falls dangerously ill in prison, relatives say, urging for him to be released]]></title>
+<link>https://apnews.com/article/belarus-journalist-pazniak-lukashenko-crackdown-472b33fa8de429406d0d932f8f5c81d3</link>
+<pubDate>Fri, 22 May 2026 15:43:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Bruce Dern takes a bow at the Cannes Film Festival with a new documentary on his life]]></title>
+<link>https://apnews.com/article/bruce-dern-cannes-dernsie-laura-336dccaf813dbcf17d0f1d51083eb183</link>
+<pubDate>Fri, 22 May 2026 15:28:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A senior Buddhist monk accused of child sexual abuse is released on bail in Sri Lanka]]></title>
 <link>https://apnews.com/article/buddhist-monk-child-sexual-abuse-court-sri-lanka-7b6d070f2f1a22466e04353bf96c572f</link>
 <pubDate>Fri, 22 May 2026 13:21:43 -0000</pubDate>
@@ -206,12 +230,6 @@
 <title><![CDATA[Greek far-left terror group leader is released at age 82. But the decision could be reversed]]></title>
 <link>https://apnews.com/article/greece-us-armed-group-november-17-terrorism-9bb7a55843ab9ae03a778d06bba59c6b</link>
 <pubDate>Fri, 22 May 2026 13:06:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the death of Congolese man in Ireland]]></title>
-<link>https://apnews.com/article/congolese-death-dublin-security-arnotts-restraint-floyd-b364e4ce4b12e830a4ac4234690889e8</link>
-<pubDate>Fri, 22 May 2026 12:51:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -239,15 +257,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK police renew call for witnesses as they broaden inquiry into former Prince Andrew]]></title>
+<link>https://apnews.com/article/britain-andrew-epstein-misconduct-0add5c233b8fd51039779e3c5b1c652c</link>
+<pubDate>Fri, 22 May 2026 15:13:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The game’s afoot as armchair detectives mark Sherlock Holmes Day]]></title>
 <link>https://apnews.com/article/sherlock-holmes-day-arthur-conan-doyle-a588a0e80e44350dfd9324ade418c8e6</link>
 <pubDate>Fri, 22 May 2026 07:34:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street up modestly in premarket trading, oil prices climb on uncertainty over the Iran war]]></title>
+<title><![CDATA[Wall Street rises toward another winning week, even as U.S. households feel more discouraged]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-bonds-20c93cae93453da1e1994e676c05e895</link>
-<pubDate>Fri, 22 May 2026 12:36:43 -0000</pubDate>
+<pubDate>Fri, 22 May 2026 14:58:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -317,6 +341,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US sanctions Lebanese lawmakers, security officials over Hezbollah influence]]></title>
+<link>https://apnews.com/article/hezbollah-treasury-sanctions-d654875131c303a387173de7dcad6815</link>
+<pubDate>Fri, 22 May 2026 14:43:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings]]></title>
 <link>https://apnews.com/article/cuba-raul-castro-us-indictment-associates-9522edaf65977013e02c09422190cc16</link>
 <pubDate>Fri, 22 May 2026 03:11:04 -0000</pubDate>
@@ -347,39 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Atlantic hurricane season forecast to be milder than normal thanks to El Nino]]></title>
-<link>https://apnews.com/article/hurricanes-atlantic-pacific-el-nino-damage-risk-419de66615c5eb9b2974ef14b4d2f50b</link>
-<pubDate>Thu, 21 May 2026 18:21:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UN gravely concerned by an Afghan Taliban law that has provisions on child marriage]]></title>
-<link>https://apnews.com/article/afghanistan-women-taliban-child-marriage-united-nations-f430fdfdc0f0f49a5d8e91e7833a00ab</link>
-<pubDate>Fri, 22 May 2026 08:25:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Air France flight to US diverted to Montreal due to Ebola travel restrictions]]></title>
-<link>https://apnews.com/article/canada-flight-diverted-montreal-detroit-ebola-4a1bbc674c9a90a233b0862a7c3d9094</link>
-<pubDate>Thu, 21 May 2026 15:32:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Afghan women’s refugee team returning to international cricket after Taliban exclusion]]></title>
-<link>https://apnews.com/article/afghanistan-womens-cricket-refugee-tour-england-e0988d689be76b62241dc8bd4586aa47</link>
-<pubDate>Thu, 21 May 2026 15:17:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[French Open 2026 guide: How to watch on TV, betting odds and more to know about Roland-Garros]]></title>
-<link>https://apnews.com/article/french-open-tennis-guide-21a4054ea8eb1be9f5f737af17369e9f</link>
-<pubDate>Thu, 21 May 2026 15:02:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US says ‘slight progress’ in Iran talks amid uncertainty about whether war will resume]]></title>
 <link>https://apnews.com/article/iran-us-rubio-talks-c4be639e938fa57533f28f9fd62fb43b</link>
 <pubDate>Fri, 22 May 2026 13:21:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian protesters in Kyiv urge veto of a bill families fear could declare missing soldiers dead]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-soldiers-college-dorm-25f5b03ad0f97f28919047881c811b29</link>
+<pubDate>Fri, 22 May 2026 15:58:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,15 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[NATO allies bewildered by Trump’s about-face on US troop moves in Europe]]></title>
-<link>https://apnews.com/article/nato-trump-troops-europe-poland-confusion-5ee39c29238cdee76c1780233cb6fddc</link>
-<pubDate>Fri, 22 May 2026 10:25:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan’s government says US hasn’t notified it of any pause in a planned $14 billion arms sale]]></title>
-<link>https://apnews.com/article/taiwan-us-arms-china-fa36646d6b370a4cd3da756d2fafb77a</link>
-<pubDate>Fri, 22 May 2026 10:40:21 -0000</pubDate>
+<title><![CDATA[WHO chief says Ebola is spreading rapidly in Congo, upgrades risk assessment]]></title>
+<link>https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954</link>
+<pubDate>Fri, 22 May 2026 15:43:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -413,6 +413,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A grieving father buries his 6-year-old after a land mine kills 3 children in Syria’s Idlib]]></title>
+<link>https://apnews.com/article/syria-mines-booby-traps-unexploded-ordnance-killed-war-efddd9d390c80f3068f4cd0fe6c944f5</link>
+<pubDate>Fri, 22 May 2026 15:28:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-sanctions-treasury-army-paramedics-38cb2350059d56074456fb4ef0271d84</link>
+<pubDate>Fri, 22 May 2026 15:13:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A look at the Hajj pilgrimage and Eid al-Adha and their significance to Muslims around the world]]></title>
 <link>https://apnews.com/article/saudi-arabia-hajj-pilgrimage-muslims-explainer-ca62a82bd2d1055fc9bc96a3a4864a49</link>
 <pubDate>Fri, 22 May 2026 12:51:48 -0000</pubDate>
@@ -422,18 +434,6 @@
 <title><![CDATA[This hard-line Iranian general is a major player in talks with US over war]]></title>
 <link>https://apnews.com/article/iran-war-us-negotiations-ahmad-vahidi-0905fc9612407e75fffbfd0280776692</link>
 <pubDate>Thu, 21 May 2026 06:17:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A displaced Lebanese grandmother feeds thousands of compatriots who fled war]]></title>
-<link>https://apnews.com/article/displaced-lebanon-food-israel-hezbollah-ea891d54258be5f5d0a75f10f67afef7</link>
-<pubDate>Thu, 21 May 2026 16:18:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel deports hundreds of Gaza flotilla activists after international backlash]]></title>
-<link>https://apnews.com/article/israel-flotilla-gaza-sumud-deportations-f1101fc45ecf0d384c43e3562c3a1c61</link>
-<pubDate>Thu, 21 May 2026 18:21:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesia tightens control over key commodities in major trade takeover, influencing global exports]]></title>
-<link>https://apnews.com/article/indonesia-prabowo-resources-coal-nickel-9b50ad884646840db57d1fedbec564cd</link>
-<pubDate>Fri, 22 May 2026 06:04:40 -0000</pubDate>
+<title><![CDATA[Taiwan’s government says US hasn’t notified it of any pause in a planned $14 billion arms sale]]></title>
+<link>https://apnews.com/article/taiwan-us-arms-china-fa36646d6b370a4cd3da756d2fafb77a</link>
+<pubDate>Fri, 22 May 2026 10:40:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,15 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu’s coalition alliances with religious parties put his reelection at risk]]></title>
-<link>https://apnews.com/article/israel-election-netanyahu-ultra-orthodox-military-draft-d0051585fe954a9d09c5552fb0196b34</link>
-<pubDate>Thu, 21 May 2026 05:17:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US sanctions Tanzanian police chief over human rights violations]]></title>
-<link>https://apnews.com/article/tanzania-us-sanctions-human-rights-a17769f800c63394d95ff5c90a9b7a22</link>
-<pubDate>Fri, 22 May 2026 06:19:40 -0000</pubDate>
+<title><![CDATA[What to know about the death of a Congolese man in Ireland]]></title>
+<link>https://apnews.com/article/congolese-death-dublin-security-arnotts-restraint-floyd-b364e4ce4b12e830a4ac4234690889e8</link>
+<pubDate>Fri, 22 May 2026 14:58:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway]]></title>
-<link>https://apnews.com/article/panama-canal-authority-62951da4094c646b591fd31b1b0131f6</link>
-<pubDate>Thu, 21 May 2026 16:51:01 -0000</pubDate>
+<title><![CDATA[Chinese fast-fashion juggernaut Shein to buy eco-friendly Everlane in an unlikely fit]]></title>
+<link>https://apnews.com/article/fast-fashion-shein-everlane-china-ethical-e503f7f613242bb3e41b6624f0fecc5f</link>
+<pubDate>Fri, 22 May 2026 14:43:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
