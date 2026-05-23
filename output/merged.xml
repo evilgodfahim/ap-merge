@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 23 May 2026 12:56:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 14:26:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[NATO allies bewildered by Trump’s about-face on US troop moves in Europe]]></title>
 <link>https://apnews.com/article/nato-trump-troops-europe-poland-confusion-5ee39c29238cdee76c1780233cb6fddc</link>
@@ -35,21 +35,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-sanctions-treasury-army-paramedics-38cb2350059d56074456fb4ef0271d84</link>
+<pubDate>Sat, 23 May 2026 14:26:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Photos of live music stirring back to life in Tehran as a ceasefire offers a fragile respite]]></title>
 <link>https://apnews.com/photo-gallery/photo-gallery-iran-music-performance-a250d10ff4b145ec9ad7dd2a3a14ffb0</link>
 <pubDate>Sat, 23 May 2026 11:38:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A look at the Hajj pilgrimage and Eid al-Adha and their significance to Muslims around the world]]></title>
-<link>https://apnews.com/article/saudi-arabia-hajj-pilgrimage-muslims-explainer-ca62a82bd2d1055fc9bc96a3a4864a49</link>
-<pubDate>Sat, 23 May 2026 10:09:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo meets families of youth lost to illegal toxic waste dumping in Italy’s ‘Land of Fires’]]></title>
 <link>https://apnews.com/article/italy-pope-acerra-visit-toxic-waste-lands-a30bbb47bd83944946c0a7c119a295ce</link>
 <pubDate>Sat, 23 May 2026 11:23:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[France bans Israeli minister Itamar Ben-Gvir after ‘unspeakable’ flotilla detainee taunts]]></title>
+<link>https://apnews.com/article/france-israel-gaza-flotilla-itamar-bengvir-benjamin-netanyahu-a6c6b4bf6179bd6bc40037b010056ff4</link>
+<pubDate>Sat, 23 May 2026 14:11:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Two traffic accidents in Cambodia kill 14 garment factory workers and injure 93 others]]></title>
+<title><![CDATA[Two traffic accidents in Cambodia kill 14 garment factory workers and injure 79 others]]></title>
 <link>https://apnews.com/article/cambodia-garment-workers-women-traffic-safety-deaths-d7a172b0a687d1b437140a4ab0dea32a</link>
-<pubDate>Sat, 23 May 2026 12:41:52 -0000</pubDate>
+<pubDate>Sat, 23 May 2026 13:56:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,15 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A displaced Lebanese grandmother feeds thousands of compatriots who fled war]]></title>
-<link>https://apnews.com/article/displaced-lebanon-food-israel-hezbollah-ea891d54258be5f5d0a75f10f67afef7</link>
-<pubDate>Fri, 22 May 2026 15:58:51 -0000</pubDate>
+<title><![CDATA[This hard-line Iranian general is a major player in talks with US over war]]></title>
+<link>https://apnews.com/article/iran-war-us-negotiations-ahmad-vahidi-0905fc9612407e75fffbfd0280776692</link>
+<pubDate>Fri, 22 May 2026 20:37:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Behavior of teen in mosque shooting led police to seize family guns a year before attack]]></title>
-<link>https://apnews.com/article/san-diego-mosque-shooting-vazquez-clark-guns-32306e02616e46a3d20b281a1d7473b0</link>
-<pubDate>Sat, 23 May 2026 09:39:36 -0000</pubDate>
+<title><![CDATA[A displaced Lebanese grandmother feeds thousands of compatriots who fled war]]></title>
+<link>https://apnews.com/article/displaced-lebanon-food-israel-hezbollah-ea891d54258be5f5d0a75f10f67afef7</link>
+<pubDate>Fri, 22 May 2026 15:58:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,6 +353,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A look at the Hajj pilgrimage and Eid al-Adha and their significance to Muslims around the world]]></title>
+<link>https://apnews.com/article/saudi-arabia-hajj-pilgrimage-muslims-explainer-ca62a82bd2d1055fc9bc96a3a4864a49</link>
+<pubDate>Sat, 23 May 2026 14:26:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UK police renew call for witnesses as they broaden inquiry into former Prince Andrew]]></title>
 <link>https://apnews.com/article/britain-andrew-epstein-misconduct-0add5c233b8fd51039779e3c5b1c652c</link>
 <pubDate>Fri, 22 May 2026 15:13:52 -0000</pubDate>
@@ -377,21 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio aims to ease tensions with NATO allies as Trump confounds them with abrupt decisions]]></title>
-<link>https://apnews.com/article/nato-rubio-trump-europe-troop-reductions-4ad6e39e0c31d14b89b419906acbb6dc</link>
-<pubDate>Fri, 22 May 2026 20:52:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers]]></title>
 <link>https://apnews.com/article/uganda-ebola-bundibugyo-virus-outbreak-type-name-ed1d6b595f3c91800b5614d6bec5831d</link>
 <pubDate>Sat, 23 May 2026 05:49:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Coal mine explosion in China kills 90 people, state media say]]></title>
+<title><![CDATA[Deadliest coal mine explosion in China in years kills 90 people, state media say]]></title>
 <link>https://apnews.com/article/china-shanxi-coal-mine-explosion-6816642e300ae6a8aded7c8dcc3eba61</link>
-<pubDate>Sat, 23 May 2026 09:39:37 -0000</pubDate>
+<pubDate>Sat, 23 May 2026 14:26:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -425,6 +431,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Rubio reports ‘slight progress’ in Iran talks as Pakistan renews efforts to mediate a peace deal]]></title>
+<link>https://apnews.com/article/iran-us-rubio-talks-c4be639e938fa57533f28f9fd62fb43b</link>
+<pubDate>Fri, 22 May 2026 20:52:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Sudan’s war has left thousands missing. Many are buried in unmarked graves]]></title>
 <link>https://apnews.com/article/sudan-war-missing-people-graves-25fb50d331eb03a52a8d8309cf761922</link>
 <pubDate>Fri, 22 May 2026 07:19:40 -0000</pubDate>
@@ -440,12 +452,6 @@
 <title><![CDATA[A grieving father buries his 6-year-old after a land mine kills 3 children in Syria’s Idlib]]></title>
 <link>https://apnews.com/article/syria-mines-booby-traps-unexploded-ordnance-killed-war-efddd9d390c80f3068f4cd0fe6c944f5</link>
 <pubDate>Fri, 22 May 2026 15:28:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say]]></title>
-<link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-sanctions-treasury-army-paramedics-38cb2350059d56074456fb4ef0271d84</link>
-<pubDate>Fri, 22 May 2026 15:13:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,15 +497,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[This hard-line Iranian general is a major player in talks with US over war]]></title>
-<link>https://apnews.com/article/iran-war-us-negotiations-ahmad-vahidi-0905fc9612407e75fffbfd0280776692</link>
-<pubDate>Thu, 21 May 2026 06:17:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Senegal’s president fires prime minister after months of tensions]]></title>
 <link>https://apnews.com/article/senegal-fire-president-prime-minister-f90c5cb7025bcad7c0fddd9c35e9864e</link>
 <pubDate>Fri, 22 May 2026 23:26:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Behavior of teen in mosque shooting led police to seize family guns a year before attack]]></title>
+<link>https://apnews.com/article/san-diego-mosque-shooting-vazquez-clark-guns-32306e02616e46a3d20b281a1d7473b0</link>
+<pubDate>Fri, 22 May 2026 21:56:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
