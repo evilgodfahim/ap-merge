@@ -3,11 +3,23 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 00:01:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 04:30:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks]]></title>
 <link>https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29</link>
 <pubDate>Fri, 29 May 2026 12:38:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war]]></title>
+<link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
+<pubDate>Sat, 30 May 2026 04:30:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[When Sue Tilley met Lucian Freud, it changed her life. Now a painting of her could fetch $47 million]]></title>
+<link>https://apnews.com/article/lucian-freud-sue-tilley-model-auction-09137b80bb718e67ba9d57023689af80</link>
+<pubDate>Fri, 29 May 2026 11:38:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -23,18 +35,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[When Sue Tilley met Lucian Freud, it changed her life. Now a painting of her could fetch $47 million]]></title>
-<link>https://apnews.com/article/lucian-freud-sue-tilley-model-auction-09137b80bb718e67ba9d57023689af80</link>
-<pubDate>Fri, 29 May 2026 11:38:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Carney says Canada will buy European surveillance planes over two American options]]></title>
-<link>https://apnews.com/article/canada-carney-radar-planes-saab-sweden-bombardier-7e68f96c26440a1bcbe08a6a5e738b86</link>
-<pubDate>Fri, 29 May 2026 05:48:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[France asks prosecutors to investigate Israel’s treatment of Gaza flotilla activists]]></title>
 <link>https://apnews.com/article/gaza-flotilla-france-prosecutors-5c97c0888e8da286fc19db3240835f4a</link>
 <pubDate>Fri, 29 May 2026 19:26:45 -0000</pubDate>
@@ -44,6 +44,12 @@
 <title><![CDATA[Greek man allegedly planted ‘camera hidden in a sock’ to spy on journalist critical of Iran’s regime]]></title>
 <link>https://apnews.com/article/britain-iran-journalists-arrest-680fef3088579913f24018c7aa74f6f4</link>
 <pubDate>Fri, 29 May 2026 19:11:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Russian spies are aggressively seeking Western technology as sanctions bite, officials say]]></title>
+<link>https://apnews.com/article/russia-sanctions-intelligence-economy-defense-10ea5ad20158945f18c718375b84a2f3</link>
+<pubDate>Sat, 30 May 2026 04:15:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,12 +65,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers evacuate the first of 5 villagers found trapped in a cave in Laos; 2 still missing]]></title>
-<link>https://apnews.com/article/laos-cave-rescue-flood-xaisomboun-5a5652332b8fdcd75e9a451abef4e223</link>
-<pubDate>Fri, 29 May 2026 15:48:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Former leader of Hong Kong journalist group sent to prison for obstructing police]]></title>
 <link>https://apnews.com/article/hong-kong-journalist-appeal-ronson-chan-d63b737af8fe5e724fa4b9178c12d3ca</link>
 <pubDate>Fri, 29 May 2026 09:01:56 -0000</pubDate>
@@ -77,9 +77,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[3 astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew]]></title>
+<link>https://apnews.com/article/china-space-shenzhou21-tiangong-009ac65502477afa9ebce59feb506ffe</link>
+<pubDate>Sat, 30 May 2026 04:00:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Water shortages worsen across Cuba as oil supplies dwindle]]></title>
 <link>https://apnews.com/article/cuba-water-shortages-oil-fuel-us-blockade-4cffcda6aa913ef5e4540b91b1568e3b</link>
 <pubDate>Thu, 28 May 2026 22:51:21 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US calls for Nicaragua to free imprisoned Indigenous leader Brooklyn Rivera after hospital photos]]></title>
+<link>https://apnews.com/article/nicaragua-political-prisoner-brooklyn-rivera-ortega-a534e03a8094db089445b75199abf2d9</link>
+<pubDate>Sat, 30 May 2026 03:45:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -89,9 +101,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Colombians will vote Sunday in a high-stakes test of President Gustavo Petro’s agenda]]></title>
-<link>https://apnews.com/article/colombia-president-election-petro-cepeda-espriella-valencia-0f63ef5b74c483d3d3849e876cec3799</link>
-<pubDate>Fri, 29 May 2026 05:03:59 -0000</pubDate>
+<title><![CDATA[Eight students are suspected of arson after a deadly fire at a girls school in Kenya]]></title>
+<link>https://apnews.com/article/kenya-school-fire-dormitory-girls-arrested-arson-d25175b4840668ba80253e46d7fd77f2</link>
+<pubDate>Sat, 30 May 2026 03:30:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,12 +125,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Kenya court suspends US plan for Ebola quarantine facility for Americans]]></title>
-<link>https://apnews.com/article/kenya-us-ebola-quarantine-facility-f0c7ed6dc3fe339b9b974fd12782ca8d</link>
-<pubDate>Fri, 29 May 2026 11:08:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Despite scrutiny, special education money flows to for-profit residential treatment centers]]></title>
 <link>https://apnews.com/article/special-education-adopted-children-residential-treatment-calo-9f83abb62e04d3f7649502a1bae26aeb</link>
 <pubDate>Fri, 29 May 2026 10:53:54 -0000</pubDate>
@@ -137,9 +143,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Crews recover another worker after Washington chemical tank collapse as details about victims emerge]]></title>
+<title><![CDATA[A trivia champ, 2 brothers and a helpful grandfather were among victims of Washington tank collapse]]></title>
 <link>https://apnews.com/article/nippon-dynawave-longview-chemical-tank-implosion-washington-18bf3a55dcc2d5139c7c254f7aafeb9c</link>
-<pubDate>Sat, 30 May 2026 00:01:40 -0000</pubDate>
+<pubDate>Sat, 30 May 2026 03:15:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US and China trade journalist expulsions in tit-for-tat moves]]></title>
+<link>https://apnews.com/article/china-us-journalist-expelled-xinhua-times-aee81ac4e3fe851f0633cdc4987906e1</link>
+<pubDate>Sat, 30 May 2026 03:00:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,21 +161,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals]]></title>
+<link>https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a</link>
+<pubDate>Sat, 30 May 2026 02:45:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese]]></title>
 <link>https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228</link>
 <pubDate>Fri, 29 May 2026 20:48:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A Chinese dissident is in South Korean custody after a perilous escape by rubber boat]]></title>
-<link>https://apnews.com/article/south-korea-china-dissident-boat-flee-841285371639ff7add8d6827b7da3580</link>
-<pubDate>Thu, 28 May 2026 12:14:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[In a tourist-friendly move, China’s Tencent to allow PayPal payments through its WeChat networks]]></title>
-<link>https://apnews.com/article/china-tencent-paypal-tourists-economy-c871ddfb60aa87e9f1d6220c3131545d</link>
-<pubDate>Thu, 28 May 2026 09:59:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,15 +197,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US commander meets with Cuban military officials as Trump pressures island nation]]></title>
-<link>https://apnews.com/article/cuba-trump-donovan-meeting-southern-command-3ed36ac053b3b44c3a5ea7e29b092a91</link>
-<pubDate>Sat, 30 May 2026 00:01:41 -0000</pubDate>
+<title><![CDATA[AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar]]></title>
+<link>https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a</link>
+<pubDate>Sat, 30 May 2026 04:30:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US calls for Nicaragua to free imprisoned Indigenous leader Brooklyn Rivera after hospital photos]]></title>
-<link>https://apnews.com/article/nicaragua-political-prisoner-brooklyn-rivera-ortega-a534e03a8094db089445b75199abf2d9</link>
-<pubDate>Fri, 29 May 2026 23:46:41 -0000</pubDate>
+<title><![CDATA[Another US strike on an alleged drug boat kills 3 in the eastern Pacific Ocean]]></title>
+<link>https://apnews.com/article/boat-strikes-drug-trafficking-us-military-b2e473d6b1bdb73b180d6808dd047dc6</link>
+<pubDate>Sat, 30 May 2026 04:15:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US commander meets with Cuban military officials as Trump pressures island nation]]></title>
+<link>https://apnews.com/article/cuba-trump-donovan-meeting-southern-command-3ed36ac053b3b44c3a5ea7e29b092a91</link>
+<pubDate>Sat, 30 May 2026 00:01:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -239,12 +251,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[3 astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew]]></title>
-<link>https://apnews.com/article/china-space-shenzhou21-tiangong-009ac65502477afa9ebce59feb506ffe</link>
-<pubDate>Fri, 29 May 2026 16:03:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Chicago mayor sees Pope Leo XIV as key ally on social justice, migration after Vatican meeting]]></title>
 <link>https://apnews.com/article/vatican-chicago-mayor-johnson-pope-80f0c2fc8b572d79da47a03c0b18eea4</link>
 <pubDate>Fri, 29 May 2026 15:48:33 -0000</pubDate>
@@ -272,6 +278,12 @@
 <title><![CDATA[Photo highlights from the French Open tennis tournament]]></title>
 <link>https://apnews.com/photo-gallery/photo-highlights-french-open-tennis-tournament-42ca688c9309446681fe9b0e6abe17ff</link>
 <pubDate>Fri, 29 May 2026 09:16:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Kenya court suspends US plan for Ebola quarantine facility for Americans]]></title>
+<link>https://apnews.com/article/kenya-us-ebola-quarantine-facility-f0c7ed6dc3fe339b9b974fd12782ca8d</link>
+<pubDate>Sat, 30 May 2026 04:00:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,9 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Carney calls for new partnership with US as Trump mulls whether to renew free trade agreement]]></title>
-<link>https://apnews.com/article/carney-trump-us-free-trade-economic-club-new-york-ac5c8d9fa2d1171e9e408a4c6224d285</link>
-<pubDate>Thu, 28 May 2026 18:32:11 -0000</pubDate>
+<title><![CDATA[Hegseth reassures Pacific allies as he softens China ‘threat’ rhetoric]]></title>
+<link>https://apnews.com/article/hegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3</link>
+<pubDate>Sat, 30 May 2026 04:30:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -386,12 +398,6 @@
 <title><![CDATA[Trump administration grants rare TPS reprieve, extending protections for 11,000 Lebanese]]></title>
 <link>https://apnews.com/article/lebanon-israel-temporary-protective-status-6ca056cfd7c116a4d83790c42a4ae894</link>
 <pubDate>Fri, 29 May 2026 19:26:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war]]></title>
-<link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
-<pubDate>Fri, 29 May 2026 09:31:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals]]></title>
-<link>https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a</link>
-<pubDate>Fri, 29 May 2026 14:48:33 -0000</pubDate>
+<title><![CDATA[Rescuers evacuate the first of 5 villagers found trapped in a cave in Laos; 2 still missing]]></title>
+<link>https://apnews.com/article/laos-cave-rescue-flood-xaisomboun-5a5652332b8fdcd75e9a451abef4e223</link>
+<pubDate>Sat, 30 May 2026 04:00:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Eight students are suspected of arson after a deadly fire at a girls school in Kenya]]></title>
-<link>https://apnews.com/article/kenya-school-fire-dormitory-girls-arrested-arson-d25175b4840668ba80253e46d7fd77f2</link>
-<pubDate>Fri, 29 May 2026 14:33:33 -0000</pubDate>
+<title><![CDATA[As Ebola scourges Congo, experts warn of link to the consumption of ‘wild meat’]]></title>
+<link>https://apnews.com/article/ebola-congo-wild-meat-3ef8a5555bce331d1c0f9af50940e028</link>
+<pubDate>Sat, 30 May 2026 03:45:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US and China trade journalist expulsions days after Trump visits Xi in Beijing]]></title>
-<link>https://apnews.com/article/china-us-journalist-expelled-xinhua-times-aee81ac4e3fe851f0633cdc4987906e1</link>
-<pubDate>Fri, 29 May 2026 22:01:38 -0000</pubDate>
+<title><![CDATA[In Southern California Chinese enclave, a mayor’s arrest stokes fears of Beijing’s influence]]></title>
+<link>https://apnews.com/article/arcadia-mayor-chinese-agent-investigation-446ab239d986c78f5a7dd446ea200f61</link>
+<pubDate>Sat, 30 May 2026 03:30:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
