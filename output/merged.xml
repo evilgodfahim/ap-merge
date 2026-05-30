@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 16:50:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 17:56:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks]]></title>
 <link>https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29</link>
@@ -35,15 +35,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration grants rare TPS reprieve, extending protections for 11,000 Lebanese]]></title>
-<link>https://apnews.com/article/lebanon-israel-temporary-protective-status-6ca056cfd7c116a4d83790c42a4ae894</link>
-<pubDate>Sat, 30 May 2026 12:43:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[New patriarch assumes role in Iraq in one of Middle East’s most important Christian churches]]></title>
 <link>https://apnews.com/article/iraq-christians-chaldean-catholic-church-polis-nona-louis-sako-8e1626ec5a6298be17c0bcfeeb2440d8</link>
 <pubDate>Sat, 30 May 2026 11:10:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Sudanese medical group accuses paramilitary force of killing 27 in attack targeting civilians]]></title>
+<link>https://apnews.com/article/sudan-kordofan-war-military-rapid-support-forces-2422e513dc887358f232b6b6203897b5</link>
+<pubDate>Sat, 30 May 2026 10:55:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,6 +101,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Migrant amateur teams in Greece get into World Cup spirit before new EU border measures take effect]]></title>
+<link>https://apnews.com/article/migration-greece-soccer-tournament-athens-world-cup-d4e66005dc4dc06fecca2f59860d4c60</link>
+<pubDate>Sat, 30 May 2026 06:34:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Eight students are suspected of arson after a deadly fire at a girls school in Kenya]]></title>
 <link>https://apnews.com/article/kenya-school-fire-dormitory-girls-arrested-arson-d25175b4840668ba80253e46d7fd77f2</link>
 <pubDate>Sat, 30 May 2026 03:30:54 -0000</pubDate>
@@ -116,12 +122,6 @@
 <title><![CDATA[Ghana’s parliament passes a bill criminalizing the promotion of LGBTQ activities]]></title>
 <link>https://apnews.com/article/ghana-homosexuality-lgbtq-bill-4983b35c83983bb69c43564760c46fd3</link>
 <pubDate>Fri, 29 May 2026 21:18:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Sudanese medical group accuses paramilitary force of killing 27 in attack targeting civilians]]></title>
-<link>https://apnews.com/article/sudan-kordofan-war-military-rapid-support-forces-2422e513dc887358f232b6b6203897b5</link>
-<pubDate>Sat, 30 May 2026 10:55:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Festival honoring Lithuania’s iconic cold beet soup brings thousands to Vilnius]]></title>
+<title><![CDATA[Festival honoring bright pink soup brings thousands to the party in this history town]]></title>
 <link>https://apnews.com/article/lithuania-pink-soup-ceeab73905c3f4c9b1c1b442789eee28</link>
-<pubDate>Sat, 30 May 2026 14:22:38 -0000</pubDate>
+<pubDate>Sat, 30 May 2026 17:56:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -383,9 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire]]></title>
+<title><![CDATA[Israeli launches strikes near ancient heritage castle site in southern Lebanon]]></title>
+<link>https://apnews.com/article/lebanon-israel-hezbollah-gaza-airstrikes-5c4421bef28c5860a438c2892bc2983b</link>
+<pubDate>Sat, 30 May 2026 17:56:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[‘To call it a ceasefire is a joke': Israeli soldiers share rare accounts from Gaza with AP]]></title>
 <link>https://apnews.com/article/gaza-war-yellow-line-israeli-soldiers-8a6cb8e91ba454ddc80a6335e7466451</link>
-<pubDate>Sat, 30 May 2026 07:19:18 -0000</pubDate>
+<pubDate>Sat, 30 May 2026 17:41:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -401,12 +407,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[As Ebola scourges Congo, experts warn of link to eating wild animals]]></title>
-<link>https://apnews.com/article/ebola-congo-wild-meat-3ef8a5555bce331d1c0f9af50940e028</link>
-<pubDate>Sat, 30 May 2026 06:34:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UK’s largest chalk hill figure, the Cerne Abbas Giant, gets a makeover]]></title>
 <link>https://apnews.com/video/uks-largest-chalk-hill-figure-the-cerne-abbas-giant-gets-a-makeover-71bec4d561b342048e89723937b845b1</link>
 <pubDate>Fri, 29 May 2026 22:31:38 -0000</pubDate>
@@ -416,12 +416,6 @@
 <title><![CDATA[Rescuers in Laos evacuate first of 5 villagers trapped in cave for more than a week]]></title>
 <link>https://apnews.com/video/rescuers-in-laos-evacuate-first-of-5-villagers-trapped-in-cave-for-more-than-a-week-5a1447920625436bae99002214b29441</link>
 <pubDate>Fri, 29 May 2026 22:16:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A trip to the United Arab Emirates’ darkest spot reveals a rare view of the Milky Way]]></title>
-<link>https://apnews.com/article/uae-stargazing-desert-milky-way-light-pollution-ee678e1b535df81edc96f5140ad5e998</link>
-<pubDate>Sat, 30 May 2026 10:55:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -440,6 +434,12 @@
 <title><![CDATA[Israeli troops push deeper into Lebanon as the two sides start military talks at the Pentagon]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-talks-pentagon-military-ae70dbb957f8611af916d6a04f1752a3</link>
 <pubDate>Fri, 29 May 2026 15:48:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump administration grants rare TPS reprieve, extending protections for 11,000 Lebanese]]></title>
+<link>https://apnews.com/article/lebanon-israel-temporary-protective-status-6ca056cfd7c116a4d83790c42a4ae894</link>
+<pubDate>Fri, 29 May 2026 19:26:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Migrant amateur teams in Greece get into World Cup spirit before new EU border measures take effect]]></title>
-<link>https://apnews.com/article/migration-greece-soccer-tournament-athens-world-cup-d4e66005dc4dc06fecca2f59860d4c60</link>
-<pubDate>Sat, 30 May 2026 10:25:32 -0000</pubDate>
+<title><![CDATA[As Ebola scourges Congo, experts warn of link to eating wild animals]]></title>
+<link>https://apnews.com/article/ebola-congo-wild-meat-3ef8a5555bce331d1c0f9af50940e028</link>
+<pubDate>Sat, 30 May 2026 06:34:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
