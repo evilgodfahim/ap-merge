@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 15:43:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 16:50:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks]]></title>
 <link>https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29</link>
@@ -47,9 +47,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine keeps up assault on Russian oil infrastructure as Kyiv braces for more strikes]]></title>
+<title><![CDATA[Ukraine keeps up assault on Russian oil sites as Kyiv expects more strikes]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-oil-drones-9d946af5acdb3a32f977c791a79144b2</link>
-<pubDate>Sat, 30 May 2026 14:07:37 -0000</pubDate>
+<pubDate>Sat, 30 May 2026 16:50:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Colombia accuses Ecuador of ‘deliberate interference’ in general elections]]></title>
+<link>https://apnews.com/article/colombia-ecuador-tariffs-election-security-tax-8cd04c6e17686dc9f833747461bb1d7b</link>
+<pubDate>Sat, 30 May 2026 16:35:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US government labels Brazil’s 2 biggest drug gangs as foreign terrorist organizations]]></title>
 <link>https://apnews.com/article/brazil-pcc-comando-vermelho-foreign-terrorist-organizations-trump-68fe261fa5ab6980864405345970f68f</link>
 <pubDate>Sat, 30 May 2026 15:28:30 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Water shortages worsen across Cuba as oil supplies dwindle]]></title>
 <link>https://apnews.com/article/cuba-water-shortages-oil-fuel-us-blockade-4cffcda6aa913ef5e4540b91b1568e3b</link>
 <pubDate>Thu, 28 May 2026 22:51:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US calls on Nicaragua to free Indigenous leader after photos show him hooked up to hospital tubes]]></title>
-<link>https://apnews.com/article/nicaragua-political-prisoner-brooklyn-rivera-ortega-a534e03a8094db089445b75199abf2d9</link>
-<pubDate>Sat, 30 May 2026 06:49:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -227,6 +227,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[AI helps a musician with Parkinson’s finish his new album]]></title>
+<link>https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a</link>
+<pubDate>Sat, 30 May 2026 07:04:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Another US strike on an alleged drug boat kills 3 in the eastern Pacific Ocean]]></title>
 <link>https://apnews.com/article/boat-strikes-drug-trafficking-us-military-b2e473d6b1bdb73b180d6808dd047dc6</link>
 <pubDate>Sat, 30 May 2026 04:15:55 -0000</pubDate>
@@ -236,6 +242,12 @@
 <title><![CDATA[US commander meets with Cuban military officials as Trump pressures island nation]]></title>
 <link>https://apnews.com/article/cuba-trump-donovan-meeting-southern-command-3ed36ac053b3b44c3a5ea7e29b092a91</link>
 <pubDate>Sat, 30 May 2026 00:01:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US calls on Nicaragua to free Indigenous leader after photos show him hooked up to hospital tubes]]></title>
+<link>https://apnews.com/article/nicaragua-political-prisoner-brooklyn-rivera-ortega-a534e03a8094db089445b75199abf2d9</link>
+<pubDate>Sat, 30 May 2026 16:50:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,21 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Leaders of ASEAN member states to meet with Putin at June summit in Russia]]></title>
-<link>https://apnews.com/article/asean-philippines-russia-putin-june-summit-c540115ccef8366c3b86766b16e84f80</link>
-<pubDate>Fri, 29 May 2026 15:33:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Canadian man pleads guilty to selling lethal substances to people who killed themselves]]></title>
-<link>https://apnews.com/article/canada-suicide-plea-kenneth-law-lethal-substances-4a116222a2ecf0656342eb34735f0178</link>
-<pubDate>Fri, 29 May 2026 15:18:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US says it disables another commercial ship trying to breach blockade and reach Iran]]></title>
+<title><![CDATA[US says it disabled another commercial ship trying to breach blockade and reach Iran]]></title>
 <link>https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35</link>
-<pubDate>Sat, 30 May 2026 15:43:31 -0000</pubDate>
+<pubDate>Sat, 30 May 2026 16:50:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,6 +449,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds]]></title>
+<link>https://apnews.com/article/tariff-refunds-trump-court-appeal-7209128eeee29c565c4ea5a6892f73c6</link>
+<pubDate>Sat, 30 May 2026 16:35:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US stocks gain ground, adding to their records, as Dell soars]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-68f9166e428621a5b3349d2d2aea34b5</link>
 <pubDate>Fri, 29 May 2026 15:18:33 -0000</pubDate>
@@ -464,12 +470,6 @@
 <title><![CDATA[Key inflation gauge worsens as Americans’ income and spending power erodes]]></title>
 <link>https://apnews.com/article/economy-inflation-tariffs-gasoline-consumer-spending-4f59d739153d66682b6fbc2b457f5df6</link>
 <pubDate>Thu, 28 May 2026 15:39:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[AI helps a musician with Parkinson’s finish his new album]]></title>
-<link>https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a</link>
-<pubDate>Sat, 30 May 2026 12:28:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
