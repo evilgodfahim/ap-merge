@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 31 May 2026 11:25:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 12:53:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war]]></title>
 <link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
@@ -47,9 +47,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France detains hundreds after violent clashes as Paris Saint-German won Champions League]]></title>
-<link>https://apnews.com/article/france-paris-rioters-detained-psg-violence-clashes-3691c3c43303cc28b6b4c1e669222f3e</link>
-<pubDate>Sun, 31 May 2026 10:55:13 -0000</pubDate>
+<title><![CDATA[Ukraine hits Russian energy targets and denies striking Kremlin-occupied nuclear plant]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305</link>
+<pubDate>Sun, 31 May 2026 12:53:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine hits Russian energy targets and denies striking Kremlin-occupied nuclear plant]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305</link>
-<pubDate>Sun, 31 May 2026 11:10:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UK’s largest chalk hill figure, the Cerne Abbas Giant, gets a makeover]]></title>
 <link>https://apnews.com/video/uks-largest-chalk-hill-figure-the-cerne-abbas-giant-gets-a-makeover-71bec4d561b342048e89723937b845b1</link>
 <pubDate>Fri, 29 May 2026 22:31:38 -0000</pubDate>
@@ -467,9 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Heavy rains threaten to delay search for 2 people missing in Laos cave]]></title>
+<title><![CDATA[France detains hundreds after violent clashes as Paris Saint-German won Champions League]]></title>
+<link>https://apnews.com/article/france-paris-rioters-detained-psg-violence-clashes-3691c3c43303cc28b6b4c1e669222f3e</link>
+<pubDate>Sun, 31 May 2026 12:53:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Heavy rains threaten to delay search for 2 people still missing in Laos cave]]></title>
 <link>https://apnews.com/article/laos-cave-xaisomboun-flood-c402f763a23e08f33724061d4996adb4</link>
-<pubDate>Sun, 31 May 2026 09:11:01 -0000</pubDate>
+<pubDate>Sun, 31 May 2026 12:38:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
