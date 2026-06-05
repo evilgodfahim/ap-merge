@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Jun 2026 21:52:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 22:56:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum]]></title>
 <link>https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3</link>
@@ -119,15 +119,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures]]></title>
+<link>https://apnews.com/article/ebola-congo-virus-fever-bundibugyo-96b2fb69de2245605b1fddfe22ec623b</link>
+<pubDate>Fri, 05 Jun 2026 22:56:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Case filed against Equatorial Guinea for sending US deportees to nations where they face persecution]]></title>
 <link>https://apnews.com/article/equatorial-guinea-trump-administration-deportations-2f31af949e0c2271781f25ebda8785df</link>
 <pubDate>Fri, 05 Jun 2026 13:00:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Clashes erupt in Somalia’s capital ahead of a planned anti-government rally]]></title>
-<link>https://apnews.com/article/mogadishu-somalia-fighting-5c309734648b6270e88595b267de6fa3</link>
-<pubDate>Thu, 04 Jun 2026 15:37:16 -0000</pubDate>
+<title><![CDATA[National Park Service ranger dies after falling into a crevasse on Alaska’s Mount McKinley]]></title>
+<link>https://apnews.com/article/mckinley-denali-alaska-ranger-dead-mountaineering-8012e601e02f26f557a9e154191065ee</link>
+<pubDate>Fri, 05 Jun 2026 22:41:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,15 +149,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[LAPD arrest girlfriend’s son in stabbing death of actor James Handy]]></title>
+<title><![CDATA[After actor James Handy’s stabbing death, his girlfriend’s son is charged with murder]]></title>
 <link>https://apnews.com/article/james-handy-stabbing-death-arrest-3461bbb82a82b68342e5a9454d287f2b</link>
-<pubDate>Fri, 05 Jun 2026 17:48:42 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Virginia man gets life in prison for double murder scheme in affair with Brazilian au pair]]></title>
-<link>https://apnews.com/article/au-pair-affair-murder-sentence-brendan-banfield-b28c0b8d57a0faac3a7264b210b86e63</link>
-<pubDate>Fri, 05 Jun 2026 14:54:08 -0000</pubDate>
+<pubDate>Fri, 05 Jun 2026 22:26:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,12 +455,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[FACT FOCUS: Is inflation a red state vs. blue state issue? It’s increasing no matter how you cut it]]></title>
-<link>https://apnews.com/article/inflation-blue-states-fact-check-9cb276119b4dcaa9e433106cc29ca3a1</link>
-<pubDate>Fri, 05 Jun 2026 17:48:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[The US job market is strong but many Americans are still frustrated by prospects and rising prices]]></title>
 <link>https://apnews.com/article/employment-economy-jobs-layoffs-iran-94068a0f4e441024b05e72eb370b3a15</link>
 <pubDate>Fri, 05 Jun 2026 16:09:09 -0000</pubDate>
@@ -470,6 +464,12 @@
 <title><![CDATA[Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates]]></title>
 <link>https://apnews.com/article/stocks-markets-iran-oil-trump-b5e10863b81cb1d6399f688ad8885c46</link>
 <pubDate>Fri, 05 Jun 2026 17:33:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[FACT FOCUS: Is inflation a red state vs. blue state issue? It’s increasing no matter how you cut it]]></title>
+<link>https://apnews.com/article/inflation-blue-states-fact-check-9cb276119b4dcaa9e433106cc29ca3a1</link>
+<pubDate>Fri, 05 Jun 2026 17:48:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -503,9 +503,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[National Park Service ranger dies after falling into a crevasse on Alaska’s Mount McKinley]]></title>
-<link>https://apnews.com/article/mckinley-denali-alaska-ranger-dead-mountaineering-8012e601e02f26f557a9e154191065ee</link>
-<pubDate>Fri, 05 Jun 2026 20:20:12 -0000</pubDate>
+<title><![CDATA[Virginia man gets life in prison for double murder scheme in affair with Brazilian au pair]]></title>
+<link>https://apnews.com/article/au-pair-affair-murder-sentence-brendan-banfield-b28c0b8d57a0faac3a7264b210b86e63</link>
+<pubDate>Fri, 05 Jun 2026 22:56:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
