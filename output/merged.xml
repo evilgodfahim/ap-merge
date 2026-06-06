@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Jun 2026 07:39:22 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum]]></title>
-<link>https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3</link>
-<pubDate>Thu, 04 Jun 2026 09:06:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sat, 06 Jun 2026 09:51:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sherpa guide missing for a week on Mount Everest rescued while crawling to base camp]]></title>
 <link>https://apnews.com/article/everest-sherpa-rescued-d6123c24575ef363ff313940a76a9a75</link>
@@ -26,6 +20,12 @@
 <title><![CDATA[Australian cockroach kingpin caught with 100,000 illegal insects in record bug bust]]></title>
 <link>https://apnews.com/article/illegal-cockroaches-seized-australia-madagascar-hissing-dubia-e35889bf7910169f6bd091e34b35e029</link>
 <pubDate>Fri, 05 Jun 2026 10:09:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[More than half of Latin Americans deported from US to Congo are now back home]]></title>
+<link>https://apnews.com/article/congo-us-latin-deportations-trump-e8ab8fd45e3f9a2e5fafabade053cfe8</link>
+<pubDate>Fri, 05 Jun 2026 15:39:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +59,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Putin rejects Zelenskyy’s offer to meet, saying he sees no point in it]]></title>
-<link>https://apnews.com/article/russia-putin-ukraine-st-petersburg-economy-a57c76d347f580eaf8325062ed13a6ec</link>
-<pubDate>Sat, 06 Jun 2026 06:39:20 -0000</pubDate>
+<title><![CDATA[Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks]]></title>
+<link>https://apnews.com/article/russia-ukraine-drones-st-petersburg-economic-forum-5d437293b65c413f231054bb1b04ce04</link>
+<pubDate>Sat, 06 Jun 2026 09:51:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,15 +113,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[More than half of Latin Americans deported from US to Congo are now back home]]></title>
-<link>https://apnews.com/article/congo-us-latin-deportations-trump-e8ab8fd45e3f9a2e5fafabade053cfe8</link>
-<pubDate>Fri, 05 Jun 2026 15:39:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures]]></title>
 <link>https://apnews.com/article/ebola-congo-virus-fever-bundibugyo-96b2fb69de2245605b1fddfe22ec623b</link>
 <pubDate>Fri, 05 Jun 2026 22:56:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Case filed against Equatorial Guinea for sending US deportees to nations where they face persecution]]></title>
+<link>https://apnews.com/article/equatorial-guinea-trump-administration-deportations-2f31af949e0c2271781f25ebda8785df</link>
+<pubDate>Fri, 05 Jun 2026 13:00:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope acknowledges stiff competition with Bad Bunny this weekend in Spain]]></title>
+<link>https://apnews.com/article/bad-bunny-pope-spain-catholic-church-fc7e50facea6a5e8c07038f1eee20a82</link>
+<pubDate>Sat, 06 Jun 2026 09:51:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Kosovo to hold third election in 18 months as frustration grows over political impasse]]></title>
 <link>https://apnews.com/article/kosovo-election-politics-stalemate-osmani-kurti-vote-21b9c61aacdb142de6fbaad7059610d8</link>
 <pubDate>Sat, 06 Jun 2026 07:39:20 -0000</pubDate>
@@ -224,6 +230,12 @@
 <title><![CDATA[Argentina expands hantavirus probe, sending teams to trap and test rats]]></title>
 <link>https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5</link>
 <pubDate>Sat, 06 Jun 2026 04:02:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz]]></title>
+<link>https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978</link>
+<pubDate>Sat, 06 Jun 2026 09:36:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -311,6 +323,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Putin rejects Zelenskyy’s offer to meet, saying he sees no point in it]]></title>
+<link>https://apnews.com/article/russia-putin-ukraine-st-petersburg-economy-a57c76d347f580eaf8325062ed13a6ec</link>
+<pubDate>Sat, 06 Jun 2026 09:21:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thieves who stole Romanian treasures from a Dutch museum each sentenced to 47 months in prison]]></title>
 <link>https://apnews.com/article/netherlands-romania-crown-gold-heist-museum-cotofenesti-4f0003bc7a924541e4dc7ab37c40e6f7</link>
 <pubDate>Fri, 05 Jun 2026 13:45:55 -0000</pubDate>
@@ -320,12 +338,6 @@
 <title><![CDATA[Death of an 11-year-old in France exposes cracks in the judicial system]]></title>
 <link>https://apnews.com/article/france-lyhanna-missing-macron-gers-suspect-police-darmanin-08a98e6578a4b53550c39987543dc414</link>
 <pubDate>Fri, 05 Jun 2026 19:50:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Case filed against Equatorial Guinea for sending US deportees to nations where they face persecution]]></title>
-<link>https://apnews.com/article/equatorial-guinea-trump-administration-deportations-2f31af949e0c2271781f25ebda8785df</link>
-<pubDate>Sat, 06 Jun 2026 06:54:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,21 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Australian court hears bail arguments for woman accused of enslaving Yazidi teen in Syria]]></title>
-<link>https://apnews.com/article/isis-brides-australia-syria-bail-slavery-039cd15dd3d024bec9b4f1c460b6e936</link>
-<pubDate>Fri, 05 Jun 2026 13:15:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Montenegro is ‘within reach’ of joining the EU by 2028, von der Leyen says after Balkans summit]]></title>
-<link>https://apnews.com/article/eu-summit-balkans-montenegro-ceb66b7192c3c0f6fda10933b5c20fc1</link>
-<pubDate>Sat, 06 Jun 2026 03:17:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978</link>
-<pubDate>Sat, 06 Jun 2026 04:32:08 -0000</pubDate>
+<title><![CDATA[Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors]]></title>
+<link>https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4</link>
+<pubDate>Sat, 06 Jun 2026 09:51:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope to find a secularized, polarized Spain where the Catholic Church has a complex legacy]]></title>
+<title><![CDATA[The pope is in secularized, polarized Spain, where the Catholic Church has a complex legacy]]></title>
 <link>https://apnews.com/article/pope-spain-migration-sagrada-familia-650b269286ecf851ed51ebb0e7f5980c</link>
-<pubDate>Sat, 06 Jun 2026 04:02:08 -0000</pubDate>
+<pubDate>Sat, 06 Jun 2026 09:36:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -413,21 +413,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli forces kill a Palestinian baby in the occupied West Bank, say health officials]]></title>
+<link>https://apnews.com/article/mideast-wars-west-bank-infant-killed-b398e9dc08d024870459c400e9fe7d16</link>
+<pubDate>Sat, 06 Jun 2026 09:21:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanese leaders lash out at Iran and say their country should not be used as a ‘bargaining chip’]]></title>
 <link>https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-303de2f806c493917150e9443ab99c03</link>
 <pubDate>Fri, 05 Jun 2026 18:18:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli forces kill a Palestinian infant in the occupied West Bank, say health officials]]></title>
-<link>https://apnews.com/article/mideast-wars-west-bank-infant-killed-b398e9dc08d024870459c400e9fe7d16</link>
-<pubDate>Sat, 06 Jun 2026 07:24:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon]]></title>
-<link>https://apnews.com/article/iran-us-war-israel-lebanon-hezbollah-ceasefire-06ea585ce43fd28e26c4d21d46a4df83</link>
-<pubDate>Thu, 04 Jun 2026 15:52:20 -0000</pubDate>
+<title><![CDATA[Lebanon considers its largest amnesty in 35 years but some are protesting]]></title>
+<link>https://apnews.com/article/lebanon-amnesty-draft-law-israel-hezbollah-79cd7e750251a333a9537c568b353f01</link>
+<pubDate>Sat, 06 Jun 2026 09:06:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
