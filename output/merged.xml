@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Jun 2026 17:31:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 19:59:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906</link>
@@ -41,12 +41,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iraqi officials work to identify victims after a bus crash kills 21]]></title>
-<link>https://apnews.com/article/iraq-bus-crash-najaf-274044ffad135ab22fe5ca741338067a</link>
-<pubDate>Mon, 08 Jun 2026 17:01:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[As Ukraine fights off Russia’s invasion, some regions see a rise in premature births]]></title>
 <link>https://apnews.com/article/ukraine-russia-war-premature-babies-685d6055e1db73722154bb33789e2222</link>
 <pubDate>Mon, 08 Jun 2026 04:39:06 -0000</pubDate>
@@ -77,9 +71,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Clashes in Pakistan-administered Kashmir kill 7 ahead of planned protest over refugee seats]]></title>
+<title><![CDATA[Clashes in Pakistan-administered Kashmir kill 7 after court upholds refugee legislative seats]]></title>
 <link>https://apnews.com/article/pakistan-kashmir-deadly-violence-refugee-seats-elections-d9a51c10d6389e33e70232fd187c3338</link>
-<pubDate>Mon, 08 Jun 2026 12:41:11 -0000</pubDate>
+<pubDate>Mon, 08 Jun 2026 19:59:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,9 +119,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A flesh-eating cattle parasite is spreading in Texas as new far-flung screwworm cases are found]]></title>
+<title><![CDATA[Fewer Americans say democracy is central to country’s identity, AP-NORC poll finds]]></title>
+<link>https://apnews.com/article/ap-poll-america-250-democracy-exceptional-474874cbb88c08908c8b6c01e386ba91</link>
+<pubDate>Mon, 08 Jun 2026 19:44:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A flesh-eating cattle parasite spreads beyond Texas as new far-flung screwworm cases are found]]></title>
 <link>https://apnews.com/article/screwworm-flesh-eating-parasite-cattle-texas-a7459200cef00d658d877755ad761f41</link>
-<pubDate>Mon, 08 Jun 2026 15:31:29 -0000</pubDate>
+<pubDate>Mon, 08 Jun 2026 19:29:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -140,12 +140,6 @@
 <title><![CDATA[The Kennedy Center drops ‘Trump’ branding as Bill Maher’s Twain Award guests are revealed]]></title>
 <link>https://apnews.com/article/kennedy-center-maher-twain-name-change-adf8353fe468bfa2783ec96882493fa3</link>
 <pubDate>Mon, 08 Jun 2026 15:01:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A watchdog report flags security risks in the IRS-ICE taxpayer data-sharing deal]]></title>
-<link>https://apnews.com/article/treasury-irs-ice-data-immigration-enforcement-7164b43edee2c5220f4ab346c228f538</link>
-<pubDate>Mon, 08 Jun 2026 14:46:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +191,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Earthquake with 6.1 magnitude hits offshore Cuba, shaking buildings in Havana]]></title>
+<link>https://apnews.com/article/cuba-earthquake-tremor-florida-a19cd2298c241bb21412824f366a893f</link>
+<pubDate>Mon, 08 Jun 2026 19:59:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Tropical Storm Cristina forms off coast of Nicaragua, forecasters say]]></title>
+<link>https://apnews.com/article/hurricane-tropical-storm-cristina-nicaragua-pacific-boris-6dcc340eb32d055e8507bdb6a5b2afac</link>
+<pubDate>Mon, 08 Jun 2026 19:44:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuela’s Delcy Rodríguez holds talks in Turkey with Erdogan on trade, energy and mining]]></title>
+<link>https://apnews.com/article/turkey-venezuela-delcy-rodriguez-visits-1bfc2b2d1ebb9a47aebbfcbc3b646af0</link>
+<pubDate>Mon, 08 Jun 2026 19:29:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israel and Iran exchange strikes after Beirut attack, in photos]]></title>
+<link>https://apnews.com/photo-gallery/israel-iran-exchange-strikes-after-beirut-attack-photos-a5c3433b0763455698c733c96fb74ec0</link>
+<pubDate>Mon, 08 Jun 2026 19:14:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Retired Supreme Court justice becomes Canada’s Governor General, the representative of King Charles]]></title>
 <link>https://apnews.com/article/canada-governor-general-king-charles-louise-arbour-f7455e43e6f1c94ff1a72ac5ecd526b4</link>
 <pubDate>Mon, 08 Jun 2026 17:31:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iraqi officials work to identify victims after a bus crash kills 21]]></title>
+<link>https://apnews.com/article/iraq-bus-crash-najaf-274044ffad135ab22fe5ca741338067a</link>
+<pubDate>Mon, 08 Jun 2026 18:59:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -233,9 +257,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Eriksen ‘doing well’ and expected to leave the hospital after on-field collapse, Denmark team says]]></title>
+<title><![CDATA[Eriksen says he is back home and ‘doing well’ after on-field collapse during Denmark game]]></title>
 <link>https://apnews.com/article/christian-eriksen-collapse-denmark-soccer-12e2002a7431016e90fb90f7bdfa6bf8</link>
-<pubDate>Mon, 08 Jun 2026 09:43:42 -0000</pubDate>
+<pubDate>Mon, 08 Jun 2026 18:44:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -311,6 +335,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[European leaders voice ‘urgent need’ to bolster Ukraine’s defenses against ballistic missiles]]></title>
+<link>https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7</link>
+<pubDate>Mon, 08 Jun 2026 18:29:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pope Leo XIV draws 1.2 million to Mass and challenges Europe to acknowledge its Christian roots]]></title>
 <link>https://apnews.com/article/spain-pope-mass-eaf544d7638034cc3afa2bad9ab443cc</link>
 <pubDate>Mon, 08 Jun 2026 09:28:42 -0000</pubDate>
@@ -341,45 +371,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Leo XIV’s visit to mainland Spain and the Canary Islands, in photos]]></title>
-<link>https://apnews.com/photo-gallery/pope-leo-xiv-s-visit-mainland-spain-canary-islands-photos-2625a7639059485697c70e78c104e1a8</link>
-<pubDate>Sun, 07 Jun 2026 06:42:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea calls the US push for its denuclearization ‘anachronistic dream’]]></title>
-<link>https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74</link>
-<pubDate>Mon, 08 Jun 2026 14:46:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday]]></title>
-<link>https://apnews.com/article/cuba-raul-castro-us-indictment-61ce86e4c1b45f0c79f5ebb767783b30</link>
-<pubDate>Mon, 08 Jun 2026 08:58:42 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Senior British royals gather as King Charles’ nephew marries nurse Harriet Sperling]]></title>
-<link>https://apnews.com/article/uk-royal-wedding-peter-phillips-harriet-sperling-87d8b8fc84a32c6e4a65310fc137827d</link>
-<pubDate>Sat, 06 Jun 2026 16:57:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Police arrest supporters of banned group ahead of rally in Pakistan-administered Kashmir]]></title>
-<link>https://apnews.com/article/pakistan-kashmir-police-protest-006859907010f8f66cf4fb5ceb2ec6cb</link>
-<pubDate>Sun, 07 Jun 2026 06:27:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Jamaica scrambles to restore power after rare islandwide blackout]]></title>
-<link>https://apnews.com/article/jamaica-power-blackout-electricity-storm-1c537742e280fe88f6be884d32e1bf88</link>
-<pubDate>Sat, 06 Jun 2026 15:31:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b</link>
 <pubDate>Mon, 08 Jun 2026 17:31:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[After morning of sirens, Israelis fall back into well-worn war routines]]></title>
+<link>https://apnews.com/article/israel-iran-missiles-tel-aviv-pride-6ed0574e74cd296898a7199411731db0</link>
+<pubDate>Mon, 08 Jun 2026 19:59:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[War in the Middle East is flaring again. Here’s how each side sees the stakes]]></title>
+<link>https://apnews.com/article/iran-war-israel-hezbollah-trump-b02a0bacb11a5b2239d2cc76ceec3718</link>
+<pubDate>Mon, 08 Jun 2026 19:44:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,21 +401,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian strikes hit oil sites in Russia and Crimea]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-crimea-strikes-e1b3549cfc8b357c14b44b932789fc53</link>
-<pubDate>Mon, 08 Jun 2026 12:41:12 -0000</pubDate>
+<title><![CDATA[Iranian missiles aimed at Israel seen over Middle Eastern sky]]></title>
+<link>https://apnews.com/video/iranian-missiles-aimed-at-israel-seen-over-middle-eastern-sky-923e908ec2aa48719969f9c0dba3f17d</link>
+<pubDate>Mon, 08 Jun 2026 19:29:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel strikes Iran after taking missile fire, AP Explains]]></title>
-<link>https://apnews.com/video/israel-strikes-iran-after-taking-missile-fire-ap-explains-018a9f3ff8eb41b3a61b3762704cb086</link>
-<pubDate>Mon, 08 Jun 2026 12:11:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Denmark’s annual championship celebrates the mullet hairstyle]]></title>
-<link>https://apnews.com/video/business-in-the-front-party-in-the-back-danish-championships-celebrates-much-maligned-mullet-16c6fc8becef4cdf8566f36341f3ce09</link>
-<pubDate>Mon, 08 Jun 2026 11:56:12 -0000</pubDate>
+<title><![CDATA[Purported missiles were seen over the West Bank after a renewed exchange of fire between Israel and Iran.]]></title>
+<link>https://apnews.com/video/purported-missiles-were-seen-over-the-west-bank-after-a-renewed-exchange-of-fire-between-israel-and-iran-4b68450c83c14d9583511d03ddfdc538</link>
+<pubDate>Mon, 08 Jun 2026 19:14:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Apple expected to unveil new AI features at last developers conference with CEO Tim Cook]]></title>
+<title><![CDATA[Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook]]></title>
 <link>https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9</link>
-<pubDate>Mon, 08 Jun 2026 11:41:12 -0000</pubDate>
+<pubDate>Mon, 08 Jun 2026 18:59:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,21 +479,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli troops kill 7-month-old baby in West Bank, Palestinian officials say]]></title>
-<link>https://apnews.com/article/mideast-wars-west-bank-infant-killed-b398e9dc08d024870459c400e9fe7d16</link>
-<pubDate>Sat, 06 Jun 2026 19:50:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[How the Ebola outbreak is changing weddings in Congo]]></title>
 <link>https://apnews.com/article/congo-ebola-wedding-bundibugyo-bunia-a8d2d61b2fb14d6d88b98d34a1199222</link>
 <pubDate>Mon, 08 Jun 2026 16:01:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fewer Americans say democracy is central to country’s identity, AP-NORC poll finds]]></title>
-<link>https://apnews.com/article/ap-poll-america-250-democracy-exceptional-474874cbb88c08908c8b6c01e386ba91</link>
-<pubDate>Mon, 08 Jun 2026 15:46:31 -0000</pubDate>
+<title><![CDATA[ICE facility in Louisiana reports its second detainee death in less than 2 months]]></title>
+<link>https://apnews.com/article/ice-detainee-death-winn-a1ab66753aa4a1effdff0b7abef2240f</link>
+<pubDate>Mon, 08 Jun 2026 18:44:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
