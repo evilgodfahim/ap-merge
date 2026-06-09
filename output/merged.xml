@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Jun 2026 11:55:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 14:23:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami]]></title>
 <link>https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7</link>
@@ -35,21 +35,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Arab attacker opens fire in central Israel, killing 1 and wounding 5]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-shooting-217b7d7ef034c99b091e01462357f296</link>
+<pubDate>Tue, 09 Jun 2026 13:11:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Palestinians suffer from lack of proper toilets across Gaza’s vast tent cities]]></title>
 <link>https://apnews.com/article/mideast-wars-gaza-toilet-tent-khan-younis-3d40ef89f092351ee385365e6b0db1d8</link>
 <pubDate>Tue, 09 Jun 2026 08:42:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Greek police arrest a Palestinian man on suspicion of planning attacks]]></title>
-<link>https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56</link>
-<pubDate>Tue, 09 Jun 2026 01:25:17 -0000</pubDate>
+<title><![CDATA[Pope Leo will tap into the Sagrada Familia’s allure while honoring Catalonia’s holy mountain]]></title>
+<link>https://apnews.com/article/pope-leo-sagrada-familia-barcelona-montserrat-118044b093838c34025fb98b402f9177</link>
+<pubDate>Tue, 09 Jun 2026 05:21:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s Zelenskyy arrives in Estonia to attend Nordic-Baltic summit]]></title>
+<title><![CDATA[Ukraine is ready to share drone technology with Nordic and Baltic countries, Zelenskyy says]]></title>
 <link>https://apnews.com/article/war-russia-ukraine-estonia-zelenskyy-c339c8b654796febf193ac82a4920a51</link>
-<pubDate>Tue, 09 Jun 2026 11:55:31 -0000</pubDate>
+<pubDate>Tue, 09 Jun 2026 14:23:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,27 +65,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope’s historic speech to Spain’s parliament demands respect for migrants and gets 7-minute ovation]]></title>
-<link>https://apnews.com/article/spain-pope-parliament-migration-iran-8067640c81f133386e748985653f6d8a</link>
-<pubDate>Tue, 09 Jun 2026 11:25:31 -0000</pubDate>
+<title><![CDATA[Afghan protesters injured during demonstration against Taliban-imposed dress code for women]]></title>
+<link>https://apnews.com/article/afghanistan-taliban-women-protest-crackdown-dress-hijab-17ca4f9cf803a7d83f021203d309637a</link>
+<pubDate>Tue, 09 Jun 2026 12:56:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[32,000 people displaced by the Philippine earthquake that killed at least 37]]></title>
+<link>https://apnews.com/article/philippines-earthquake-2907e17ea68fca76cb4c6fde3e15f139</link>
+<pubDate>Tue, 09 Jun 2026 12:41:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Some of the deadly earthquakes in the Philippines]]></title>
 <link>https://apnews.com/article/list-timeline-deadly-earthquakes-8805e25d26cbf11db02c00d6dec67a2b</link>
 <pubDate>Tue, 09 Jun 2026 11:10:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Japanese city captures bear that caused fear and school closures]]></title>
-<link>https://apnews.com/article/japan-utsunomiya-bear-schools-650fc04f11f57f89838362be7da43470</link>
-<pubDate>Tue, 09 Jun 2026 10:55:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Xi and Kim push for greater ties between China and North Korea]]></title>
-<link>https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118</link>
-<pubDate>Tue, 09 Jun 2026 05:06:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Xi and Kim push for greater ties between China and North Korea]]></title>
+<link>https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118</link>
+<pubDate>Tue, 09 Jun 2026 05:06:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about a rare visit by China’s Xi to North Korea for talks with Kim Jong Un]]></title>
 <link>https://apnews.com/article/north-korea-china-kim-jong-un-xi-jinping-8ce14ec5cb46a3c805f182f8e7511b30</link>
 <pubDate>Mon, 08 Jun 2026 16:31:29 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[China can build humanoids at scale. The hard part is finding enough buyers]]></title>
 <link>https://apnews.com/article/china-humanoid-robots-ai-demand-7d542b5ee92caa9d79efa28de89afbbe</link>
 <pubDate>Sat, 06 Jun 2026 04:17:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump keeps the door open to a call with Taiwan’s president even though China has warned against it]]></title>
-<link>https://apnews.com/article/trump-china-taiwan-arms-sales-14dc4cfc46d51b98dbe3cbca51ebb5d1</link>
-<pubDate>Sun, 07 Jun 2026 18:15:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bulgaria’s new government to stop supplying weapons to Ukraine]]></title>
+<link>https://apnews.com/article/bulgaria-ukraine-weapons-shipments-stop-radev-stoyanov-58bc7ce609efaa3c53d15a0699a027a7</link>
+<pubDate>Tue, 09 Jun 2026 14:23:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[First war crimes complaint against Sudan’s paramilitary forces filed in Kenya]]></title>
+<link>https://apnews.com/article/kenya-sudan-rsf-war-crimes-petition-2045ec4afb83ea70c4d7dd4ea983431d</link>
+<pubDate>Tue, 09 Jun 2026 13:12:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The Philippines protests China’s floating ‘structure’ on the disputed South China Sea shoal]]></title>
+<link>https://apnews.com/article/philippines-south-china-sea-scarborough-shoal-85fa9b923cdd17f150f424da7b23df77</link>
+<pubDate>Tue, 09 Jun 2026 12:57:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A banned group’s call for a strike halts business and transport across Pakistan-administered Kashmir]]></title>
 <link>https://apnews.com/article/pakistan-kashmir-protest-long-march-protest-violence-jaac-7b4f5e038abd227415dd0aeb32e5ebe3</link>
 <pubDate>Tue, 09 Jun 2026 11:55:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Japanese city captures bear that caused fear and school closures]]></title>
+<link>https://apnews.com/article/japan-utsunomiya-bear-schools-650fc04f11f57f89838362be7da43470</link>
+<pubDate>Tue, 09 Jun 2026 12:42:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,9 +233,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Police in Northern Ireland arrest a man after violent Belfast stabbing]]></title>
+<title><![CDATA[Police arrest a Sudanese suspect in a Belfast stabbing as Starmer calls for calm]]></title>
 <link>https://apnews.com/article/northern-ireland-belfast-stabbing-2aa3099d39874fa72a67ca94783c0721</link>
-<pubDate>Tue, 09 Jun 2026 11:25:32 -0000</pubDate>
+<pubDate>Tue, 09 Jun 2026 14:08:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,45 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[FIFA and Infantino draw bipartisan skepticism ahead of the World Cup]]></title>
-<link>https://apnews.com/article/fifa-world-cup-infantino-trump-d189c71b80951d84c565014e376fc75d</link>
-<pubDate>Mon, 08 Jun 2026 13:11:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[How the Ebola outbreak is changing weddings in Congo]]></title>
-<link>https://apnews.com/article/congo-ebola-wedding-bundibugyo-bunia-a8d2d61b2fb14d6d88b98d34a1199222</link>
-<pubDate>Tue, 09 Jun 2026 09:40:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tropical Storm Boris forms off Mexico’s southern Pacific coast and brings flooding threat]]></title>
-<link>https://apnews.com/article/tropical-weather-storm-boris-us-mexico-2d5100a0f0f4d474e7cbb9c5810068fa</link>
-<pubDate>Tue, 09 Jun 2026 04:06:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Eriksen says he is back home and ‘doing well’ after on-field collapse during Denmark game]]></title>
-<link>https://apnews.com/article/christian-eriksen-collapse-denmark-soccer-12e2002a7431016e90fb90f7bdfa6bf8</link>
-<pubDate>Mon, 08 Jun 2026 18:44:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says pilots are fine after US helicopter crashes near Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-helicopter-hezbollah-israel-9-june-2026-50d7a8ecbb2cf33836af152679adb40e</link>
 <pubDate>Tue, 09 Jun 2026 05:36:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A very online Israeli army spokesman is the face of war for millions of Arabs]]></title>
+<title><![CDATA[Israel’s Arabic-language military spokesperson has gone viral, inspiring fear and fascination]]></title>
 <link>https://apnews.com/article/israel-gaza-lebanon-war-social-media-adraee-d445a588d884794d28c76a3478fdb71d</link>
-<pubDate>Tue, 09 Jun 2026 05:06:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu and Trump are at odds over the war they started together]]></title>
-<link>https://apnews.com/article/israel-netanyahu-us-trump-iran-war-2230178d2cd4aa6b96e3e022b734d498</link>
-<pubDate>Mon, 08 Jun 2026 21:49:48 -0000</pubDate>
+<pubDate>Tue, 09 Jun 2026 13:11:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -401,9 +395,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China’s President Xi returns home after closely watched trip to North Korea]]></title>
-<link>https://apnews.com/article/china-north-korea-xi-kim-nuclear-08910db86998036adf022230b22d19c7</link>
-<pubDate>Tue, 09 Jun 2026 11:40:33 -0000</pubDate>
+<title><![CDATA[Pope Leo XIV wades into Spain’s culture wars over soccer and the Catalan language in Barcelona]]></title>
+<link>https://apnews.com/article/pope-leo-spain-barcelona-real-madrid-catalan-59bff250ac3a81ea91413fc674d748e6</link>
+<pubDate>Tue, 09 Jun 2026 14:23:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Netanyahu and Trump are at odds over the war they started together]]></title>
+<link>https://apnews.com/article/israel-netanyahu-us-trump-iran-war-2230178d2cd4aa6b96e3e022b734d498</link>
+<pubDate>Mon, 08 Jun 2026 21:49:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -416,6 +416,12 @@
 <title><![CDATA[Purported missiles were seen over the West Bank after a renewed exchange of fire between Israel and Iran.]]></title>
 <link>https://apnews.com/video/purported-missiles-were-seen-over-the-west-bank-after-a-renewed-exchange-of-fire-between-israel-and-iran-4b68450c83c14d9583511d03ddfdc538</link>
 <pubDate>Mon, 08 Jun 2026 19:14:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[War in the Middle East is flaring again. Here’s how each side sees the stakes]]></title>
+<link>https://apnews.com/article/iran-war-israel-hezbollah-trump-b02a0bacb11a5b2239d2cc76ceec3718</link>
+<pubDate>Mon, 08 Jun 2026 19:44:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -437,15 +443,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Arab attacker opens fire in central Israel, killing 1 and wounding 5]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-shooting-217b7d7ef034c99b091e01462357f296</link>
-<pubDate>Sun, 07 Jun 2026 13:10:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
 <pubDate>Mon, 08 Jun 2026 16:31:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Wall Street rises as AI stocks recover more of their losses and oil prices ease]]></title>
+<link>https://apnews.com/article/stocks-markets-ai-tech-iran-0446d424c0bf722dd5b09d70b8a1da3d</link>
+<pubDate>Tue, 09 Jun 2026 14:08:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[As US Customs refines its tariff refund system, who gets in to apply is under dispute]]></title>
+<link>https://apnews.com/article/tariffs-trump-federal-appeal-lawsuit-3e774aeabd2f67513e4af74e44061c07</link>
+<pubDate>Tue, 09 Jun 2026 13:53:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[MIT researchers channel AI to turn hand gestures into robot training data]]></title>
+<link>https://apnews.com/article/artificial-intelligence-mit-robots-ed7ea78eb377f82f8c9082604ba67a98</link>
+<pubDate>Tue, 09 Jun 2026 12:41:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,33 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Federal judge strikes down Trump’s $100,000 fee on new H-1B visas]]></title>
-<link>https://apnews.com/article/h1b-visa-trump-foreign-workers-technology-de169f36bb0bbdc7c982b556d62e9560</link>
-<pubDate>Mon, 08 Jun 2026 21:34:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[World shares mostly advance as tech stocks rebound from sell-offs, while oil prices slip]]></title>
-<link>https://apnews.com/article/stocks-markets-ai-tech-iran-0446d424c0bf722dd5b09d70b8a1da3d</link>
-<pubDate>Tue, 09 Jun 2026 08:42:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A government-commissioned study found drinking risks. US guidelines didn’t feature its findings]]></title>
-<link>https://apnews.com/article/alcohol-health-study-moderate-drinking-trump-biden-33d7b95c53db22a8dcdd16d53ce41b8b</link>
-<pubDate>Tue, 09 Jun 2026 11:25:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo will tap into the Sagrada Familia’s allure while honoring Catalonia’s holy mountain]]></title>
-<link>https://apnews.com/article/pope-leo-sagrada-familia-barcelona-montserrat-118044b093838c34025fb98b402f9177</link>
-<pubDate>Tue, 09 Jun 2026 11:10:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[32,000 people displaced by the Philippine earthquake that killed at least 37]]></title>
-<link>https://apnews.com/article/philippines-earthquake-2907e17ea68fca76cb4c6fde3e15f139</link>
-<pubDate>Tue, 09 Jun 2026 10:55:33 -0000</pubDate>
+<title><![CDATA[China’s President Xi returns home after closely watched trip to North Korea]]></title>
+<link>https://apnews.com/article/china-north-korea-xi-kim-nuclear-08910db86998036adf022230b22d19c7</link>
+<pubDate>Tue, 09 Jun 2026 11:40:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Congo’s Ebola outbreak rises to 100 deaths out of 550 cases as conflict slows response]]></title>
+<title><![CDATA[Congo’s Ebola outbreak rises to over 100 deaths out of 550 cases as conflict slows response]]></title>
 <link>https://apnews.com/article/congo-ebola-outbreak-bundibugyo-virus-392dced7e0da091699eeb980a4b54147</link>
-<pubDate>Tue, 09 Jun 2026 08:57:09 -0000</pubDate>
+<pubDate>Tue, 09 Jun 2026 12:11:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
