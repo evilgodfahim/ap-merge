@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Jun 2026 20:39:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 22:46:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iran launch airstrikes after Trump blames Tehran for downing Army helicopter]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-helicopter-hezbollah-israel-9-june-2026-50d7a8ecbb2cf33836af152679adb40e</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Netanyahu and Trump are at odds over the war they started together]]></title>
-<link>https://apnews.com/article/israel-netanyahu-us-trump-iran-war-2230178d2cd4aa6b96e3e022b734d498</link>
-<pubDate>Tue, 09 Jun 2026 19:31:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Israel’s Arabic-language military spokesperson has gone viral, inspiring fear and fascination]]></title>
 <link>https://apnews.com/article/israel-gaza-lebanon-war-social-media-adraee-d445a588d884794d28c76a3478fdb71d</link>
 <pubDate>Wed, 10 Jun 2026 16:11:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the stabbing that set off fiery riots in Northern Ireland]]></title>
+<link>https://apnews.com/article/northern-ireland-belfast-stabbing-violence-uk-migrants-859cf9c48afd4719d5e6e80e401aebad</link>
+<pubDate>Thu, 11 Jun 2026 12:42:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -50,12 +50,6 @@
 <title><![CDATA[UK defense secretary resigns, saying the government isn’t willing to spend enough on the military]]></title>
 <link>https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac</link>
 <pubDate>Thu, 11 Jun 2026 18:15:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the stabbing that set off fiery riots in Northern Ireland]]></title>
-<link>https://apnews.com/article/northern-ireland-belfast-stabbing-violence-uk-migrants-859cf9c48afd4719d5e6e80e401aebad</link>
-<pubDate>Thu, 11 Jun 2026 12:42:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +77,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina’s inflation slows to 8-month low in a boost for President Milei]]></title>
+<link>https://apnews.com/article/argentina-javier-milei-indec-inflation-corruption-adorni-e0a4977494b17f93bd533537c71d0d94</link>
+<pubDate>Thu, 11 Jun 2026 22:46:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US slaps sanctions against Cuban oil and gas company as tensions rise]]></title>
 <link>https://apnews.com/article/us-cuba-sanctions-oil-gas-company-cupet-rubio-c516d1457357c252771f0964c4751a4c</link>
 <pubDate>Thu, 11 Jun 2026 20:39:57 -0000</pubDate>
@@ -92,12 +92,6 @@
 <title><![CDATA[Mexico City installed a chandelier in its metro for the World Cup. Then came the crush of memes]]></title>
 <link>https://apnews.com/article/world-cup-mexico-city-hidalgo-memes-protest-9eb21af7d70cda877038295850056386</link>
 <pubDate>Thu, 11 Jun 2026 17:45:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Florida immigration arrests have quietly surged, with state and local agencies at the forefront]]></title>
-<link>https://apnews.com/article/florida-ice-trump-immigration-crackdown-c0dc423b1df8d6710328f9e92e0cccbc</link>
-<pubDate>Thu, 11 Jun 2026 10:31:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Midwest storms blamed for Iowa death, scores of power outages while dangerous heat hits the East]]></title>
+<title><![CDATA[Midwest storms blamed for Iowa death, power outages and flight delays while heat hits the East]]></title>
 <link>https://apnews.com/article/severe-weather-storms-midwest-chicago-c318b02d9cc46da26b11910adfc31509</link>
-<pubDate>Thu, 11 Jun 2026 16:45:45 -0000</pubDate>
+<pubDate>Thu, 11 Jun 2026 22:31:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -221,9 +215,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[World Cup begins with Mexico hosting South Africa in opening match]]></title>
+<title><![CDATA[Mexico launches its 2026 World Cup campaign with a 2-0 win over South Africa]]></title>
 <link>https://apnews.com/article/world-cup-mexico-south-africa-4c9de5961b70f1b2cc6e754ff2db57c2</link>
-<pubDate>Thu, 11 Jun 2026 19:39:58 -0000</pubDate>
+<pubDate>Thu, 11 Jun 2026 22:46:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,15 +365,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[World Cup what to know: Mexico kicks off a supersized, 48-team tournament]]></title>
+<title><![CDATA[World Cup what to know: Mexico starts with big win while U.S., Canada prepare for openers]]></title>
 <link>https://apnews.com/article/world-cup-schedule-results-news-94a3ba298b30a7d6314b00b20cd455ae</link>
-<pubDate>Wed, 10 Jun 2026 20:51:44 -0000</pubDate>
+<pubDate>Thu, 11 Jun 2026 22:31:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump calls off latest threats to strike Iran, citing progress in negotiations]]></title>
+<title><![CDATA[Trump calls off latest threats to strike Iran, cites breakthrough in talks to end the war]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d</link>
-<pubDate>Thu, 11 Jun 2026 18:15:46 -0000</pubDate>
+<pubDate>Thu, 11 Jun 2026 22:46:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,15 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US military disable oil tanker violating blockade in the Gulf of Oman, CENTCOM says]]></title>
-<link>https://apnews.com/video/us-military-disable-oil-tanker-violating-blockade-in-the-gulf-of-oman-centcom-says-899174d514be43b393e14b8b8f57d1d1</link>
-<pubDate>Thu, 11 Jun 2026 00:59:15 -0000</pubDate>
+<title><![CDATA[US military’s Central Command says it launched more strikes on Iran on second day of renewed fire]]></title>
+<link>https://apnews.com/video/us-militarys-central-command-says-it-launched-more-strikes-on-iran-on-second-day-of-renewed-fire-baccfc096aa4467584d40bf298513a03</link>
+<pubDate>Thu, 11 Jun 2026 22:31:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tremor felt in General Santos, Philippines, two days after deadly quake hit the country]]></title>
-<link>https://apnews.com/video/tremor-felt-in-general-santos-philippines-two-days-after-deadly-quake-hit-the-country-44e1f5294ce245588ca09e4db1df1df3</link>
-<pubDate>Thu, 11 Jun 2026 00:44:15 -0000</pubDate>
+<title><![CDATA[Foreign workers say they were paid less than $2 an hour to build new US consulate in Milan]]></title>
+<link>https://apnews.com/video/foreign-workers-say-they-were-paid-less-than-2-an-hour-to-build-a-new-u-s-consulate-in-milan-ff4131acde4a4ba6823ee14d55bb809d</link>
+<pubDate>Thu, 11 Jun 2026 22:16:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
