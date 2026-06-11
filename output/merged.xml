@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Jun 2026 18:15:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 20:39:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iran launch airstrikes after Trump blames Tehran for downing Army helicopter]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-helicopter-hezbollah-israel-9-june-2026-50d7a8ecbb2cf33836af152679adb40e</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US slaps sanctions against Cuban oil and gas company as tensions rise]]></title>
+<link>https://apnews.com/article/us-cuba-sanctions-oil-gas-company-cupet-rubio-c516d1457357c252771f0964c4751a4c</link>
+<pubDate>Thu, 11 Jun 2026 20:39:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexico City installed a chandelier in its metro for the World Cup. Then came the crush of memes]]></title>
 <link>https://apnews.com/article/world-cup-mexico-city-hidalgo-memes-protest-9eb21af7d70cda877038295850056386</link>
 <pubDate>Thu, 11 Jun 2026 17:45:45 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Florida immigration arrests have quietly surged, with state and local agencies at the forefront]]></title>
 <link>https://apnews.com/article/florida-ice-trump-immigration-crackdown-c0dc423b1df8d6710328f9e92e0cccbc</link>
 <pubDate>Thu, 11 Jun 2026 10:31:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Peru’s presidential runoff shows a razor-thin gap between candidates]]></title>
-<link>https://apnews.com/article/peru-election-fujimori-sanchez-runoff-34fd4442c382c64381b50e971966c5cd</link>
-<pubDate>Thu, 11 Jun 2026 10:16:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Judge considers arguments in challenge to New Mexico’s universal childcare program]]></title>
-<link>https://apnews.com/article/new-mexico-free-universal-childcare-693219d2e02e969f4f8ab6efedccc639</link>
-<pubDate>Thu, 11 Jun 2026 09:16:08 -0000</pubDate>
+<title><![CDATA[More than 30 lawsuits filed against aerospace company in California over damaged chemical tank]]></title>
+<link>https://apnews.com/article/chemical-aerospace-tank-explosion-evacuation-49aa89a057a181868e981ea2471933d6</link>
+<pubDate>Thu, 11 Jun 2026 20:24:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A car hits a school group in the Netherlands, killing 2 kids and a chaperone]]></title>
+<title><![CDATA[Newsom announces $46 million of voter-approved funding to help address Tijuana River pollution]]></title>
+<link>https://apnews.com/article/tijuana-river-gavin-newsom-pollution-812d17e2600618aaf72c18e058e0de95</link>
+<pubDate>Thu, 11 Jun 2026 20:39:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Shakira headlines the World Cup opening ceremony as Mexico faces South Africa, in photos]]></title>
+<link>https://apnews.com/photo-gallery/photos-soccer-world-cup-shakira-opening-ceremony-608e920d1bf477e7aa544fd2b139331e</link>
+<pubDate>Thu, 11 Jun 2026 20:24:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Gunmen shoot and kill Mexican journalist in the eastern state of Veracruz]]></title>
+<link>https://apnews.com/article/mexico-journalist-killed-veracruz-ae00b6bbe11ae80bc9fb36a61e0036f2</link>
+<pubDate>Thu, 11 Jun 2026 20:09:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Virginia Evans and Lyse Doucet win Women’s Prize book awards]]></title>
+<link>https://apnews.com/article/women-prize-fiction-nonfiction-winners-1728c22d36354f288a2c380b29f11daa</link>
+<pubDate>Thu, 11 Jun 2026 19:54:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[World Cup begins with Mexico hosting South Africa in opening match]]></title>
+<link>https://apnews.com/article/world-cup-mexico-south-africa-4c9de5961b70f1b2cc6e754ff2db57c2</link>
+<pubDate>Thu, 11 Jun 2026 19:39:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A car hits a school group in the Netherlands, killing 4 people, including 3 children]]></title>
 <link>https://apnews.com/article/netherlands-cycling-crash-school-children-dead-1df21001a975b5283717ab8064783139</link>
-<pubDate>Thu, 11 Jun 2026 18:15:45 -0000</pubDate>
+<pubDate>Thu, 11 Jun 2026 19:24:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -299,12 +329,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks jump, and oil prices fall after Trump calls off threat to attack Iran]]></title>
-<link>https://apnews.com/article/stocks-markets-ai-iran-oil-rates-87c831451197beedb3e29771de1e0a92</link>
-<pubDate>Thu, 11 Jun 2026 18:00:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Reactor reboot at world’s largest nuclear plant highlights flaws in Japan’s radioactive waste plans]]></title>
 <link>https://apnews.com/article/japan-nuclear-safety-energy-radioactive-waste-f2cea3833ee52ef76d57a834a3d048e1</link>
 <pubDate>Thu, 11 Jun 2026 17:45:45 -0000</pubDate>
@@ -353,30 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A minibus packed with schoolchildren catches fire in central Zimbabwe, killing 7]]></title>
-<link>https://apnews.com/article/zimbabwe-minibus-accident-schoolchildren-fire-af9e5210fe8c0b75ed53e96af4aeddb2</link>
-<pubDate>Wed, 10 Jun 2026 18:00:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Laurence Olivier is honored with a plaque at his London childhood home]]></title>
-<link>https://apnews.com/article/olivier-plaque-honor-mckellen-london-home-60b4b2cb73cf3c3ac01b2e67692b7c5d</link>
-<pubDate>Wed, 10 Jun 2026 17:45:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Motorcycle taxi drivers in Congo rally for Ebola awareness as attacks hinder response]]></title>
-<link>https://apnews.com/article/congo-ebola-ituri-motorcycle-taxi-b17ff8b4062d961d4eba7eb52b30f433</link>
-<pubDate>Thu, 11 Jun 2026 12:44:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Carney says opening of Canada-US bridge may take ‘a little longer’]]></title>
-<link>https://apnews.com/article/canada-carney-gordie-howe-bridge-trump-5ff27f894e01f759a415740e6793b1b6</link>
-<pubDate>Wed, 10 Jun 2026 17:30:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump calls off latest threats to strike Iran, citing progress in negotiations]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d</link>
 <pubDate>Thu, 11 Jun 2026 18:15:46 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope slams world’s indifference to migrants while visiting onetime ‘dock of shame’ in Canary Islands]]></title>
-<link>https://apnews.com/article/spain-pope-migration-canaries-b2ff5e135b612285ad1e5d7b5c98fc1c</link>
-<pubDate>Thu, 11 Jun 2026 14:44:57 -0000</pubDate>
+<title><![CDATA[﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island]]></title>
+<link>https://apnews.com/article/hantavirus-ship-evacuation-american-yacht-33ba5ddb8374d0083271669e7ba52b04</link>
+<pubDate>Thu, 11 Jun 2026 20:39:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -437,6 +437,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again]]></title>
+<link>https://apnews.com/article/stocks-markets-ai-iran-oil-rates-87c831451197beedb3e29771de1e0a92</link>
+<pubDate>Thu, 11 Jun 2026 20:24:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump has a new, surprising take on the higher cost of living: ‘I love the inflation’]]></title>
 <link>https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d</link>
 <pubDate>Thu, 11 Jun 2026 00:29:15 -0000</pubDate>
@@ -455,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Melania Trump unveils a spinoff of Trump Accounts for children in foster care]]></title>
-<link>https://apnews.com/article/melania-trump-accounts-foster-care-df92da587073dc4150563fcef39cb4e5</link>
-<pubDate>Thu, 11 Jun 2026 16:30:46 -0000</pubDate>
+<title><![CDATA[Pope slams world’s indifference to migrants while visiting onetime ‘dock of shame’ in Canary Islands]]></title>
+<link>https://apnews.com/article/spain-pope-migration-canaries-b2ff5e135b612285ad1e5d7b5c98fc1c</link>
+<pubDate>Thu, 11 Jun 2026 14:44:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
