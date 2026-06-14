@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Jun 2026 20:02:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 21:47:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about a possible deal to end the Iran war]]></title>
 <link>https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814</link>
@@ -89,6 +89,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[At least 17 people killed by gunmen in northwestern Nigeria]]></title>
+<link>https://apnews.com/article/nigeria-attack-gunmen-zamfara-56c63c7c5450de2290cd15df3c6fcc3e</link>
+<pubDate>Sun, 14 Jun 2026 21:05:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Migrants deported from US, including an Iranian woman, arrive in Central African Republic]]></title>
 <link>https://apnews.com/article/central-african-republic-immigration-deportations-trump-iran-0ad513dc07d1ab39d906e2c8632b9e74</link>
 <pubDate>Sat, 13 Jun 2026 15:15:02 -0000</pubDate>
@@ -107,9 +113,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mass shootings in South Africa’s poorest areas are a symptom of organized crime and police failures]]></title>
-<link>https://apnews.com/article/south-africa-crime-mass-shootings-townships-informal-settlements-7bb1486957e9f8170d629f5938162cc0</link>
-<pubDate>Sat, 13 Jun 2026 16:08:15 -0000</pubDate>
+<title><![CDATA[Tyra Banks sues Netflix over ‘America’s Next Top Model’ documentary, alleging defamation]]></title>
+<link>https://apnews.com/article/tyra-banks-sues-netflix-antm-docuseries-7efd641bce6c40313ad25b4034cd5b1f</link>
+<pubDate>Sun, 14 Jun 2026 20:50:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -128,12 +134,6 @@
 <title><![CDATA[Puerto Rican Day Parade marches through Manhattan with pulsing music and vibrant colors]]></title>
 <link>https://apnews.com/article/puerto-rican-day-parade-new-york-city-c1d08f5ee69c3a7b08671eb544baeafb</link>
 <pubDate>Sun, 14 Jun 2026 19:32:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Some people are making guns with 3D printers. A new law seeks to cancel their print jobs]]></title>
-<link>https://apnews.com/article/3d-printers-firearms-ghost-guns-737b48cd483da5394076bc99d94619ca</link>
-<pubDate>Sat, 13 Jun 2026 10:45:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,6 +251,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Mass shootings in South Africa’s poorest areas are a symptom of organized crime and police failures]]></title>
+<link>https://apnews.com/article/south-africa-crime-mass-shootings-townships-informal-settlements-7bb1486957e9f8170d629f5938162cc0</link>
+<pubDate>Sun, 14 Jun 2026 21:47:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Armed men in Haiti’s capital seize a top security official in rare high-level abduction]]></title>
 <link>https://apnews.com/article/haiti-kidnapping-boyard-gangs-police-b00950bd26fdddbb047a157526c12b02</link>
 <pubDate>Sat, 13 Jun 2026 16:53:16 -0000</pubDate>
@@ -359,15 +365,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan’s finance minister presents the country’s next budget that hikes defense spending]]></title>
-<link>https://apnews.com/article/pakkistan-budget-parliament-spending-7489d3dcf439da0ad106c3a85884e480</link>
-<pubDate>Fri, 12 Jun 2026 18:21:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal]]></title>
+<title><![CDATA[Trump says deal reached with Iran and he has authorized that naval blockade leave Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a</link>
-<pubDate>Sun, 14 Jun 2026 15:04:24 -0000</pubDate>
+<pubDate>Sun, 14 Jun 2026 21:47:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[At least 17 people killed by gunmen in northwestern Nigeria]]></title>
-<link>https://apnews.com/article/nigeria-attack-gunmen-zamfara-56c63c7c5450de2290cd15df3c6fcc3e</link>
-<pubDate>Sat, 13 Jun 2026 14:30:04 -0000</pubDate>
+<title><![CDATA[Ebola cases in eastern Congo climb to 782 and deaths reach 181, authorities say]]></title>
+<link>https://apnews.com/article/congo-ebola-bundibugyo-07dafc2505db3ce207166784709c72be</link>
+<pubDate>Sun, 14 Jun 2026 21:32:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
