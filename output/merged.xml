@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Jun 2026 23:56:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 02:50:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump calls off latest threats to strike Iran, citing a breakthrough in talks to end the war]]></title>
 <link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the stabbing that set off fiery riots in Northern Ireland]]></title>
-<link>https://apnews.com/article/northern-ireland-belfast-stabbing-violence-uk-migrants-859cf9c48afd4719d5e6e80e401aebad</link>
-<pubDate>Thu, 11 Jun 2026 12:42:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What to know about a possible deal to end the Iran war]]></title>
 <link>https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814</link>
 <pubDate>Sat, 13 Jun 2026 22:34:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[What to know about the stabbing that set off fiery riots in Northern Ireland]]></title>
+<link>https://apnews.com/article/northern-ireland-belfast-stabbing-violence-uk-migrants-859cf9c48afd4719d5e6e80e401aebad</link>
+<pubDate>Thu, 11 Jun 2026 12:42:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,15 +41,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump and other G7 leaders are meeting without China. Is that a mistake?]]></title>
+<link>https://apnews.com/article/china-trump-g7-evian-trade-b17859e2c226e195e6a7f89e413d7432</link>
+<pubDate>Sun, 14 Jun 2026 02:50:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands march in Rome in anti- and pro-migration rallies]]></title>
 <link>https://apnews.com/article/italy-migration-protests-f32680a757da2ca62fdbe28f2e91f1b1</link>
 <pubDate>Sat, 13 Jun 2026 19:58:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands rally in Belfast to condemn anti-immigrant rioting that followed stabbing]]></title>
-<link>https://apnews.com/article/belfast-stabbing-riot-racism-immigrants-5c0e74588be3473370ad360081401a54</link>
-<pubDate>Sat, 13 Jun 2026 16:38:15 -0000</pubDate>
+<title><![CDATA[Woman mauled by shark off Sydney beach grabs onto a lifeguard’s paddleboard]]></title>
+<link>https://apnews.com/article/australia-shark-attack-sydney-coogee-swimmer-af77bb1a02990303c6bc3fbc8fb5ec6f</link>
+<pubDate>Sun, 14 Jun 2026 02:35:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -62,12 +68,6 @@
 <title><![CDATA[US scholar with history of activism in Myanmar arrested in China on suspicion of espionage]]></title>
 <link>https://apnews.com/article/scholar-us-myanmar-detained-espionage-charges-china-ec2559d40243f7bd4c4ab5eb11801f5b</link>
 <pubDate>Fri, 12 Jun 2026 08:54:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesian students protest government policies as economic pressures grow]]></title>
-<link>https://apnews.com/article/indonesia-students-protest-economic-pressures-fc758948bc547075d62bcf80d8a7e827</link>
-<pubDate>Fri, 12 Jun 2026 12:18:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tornadoes in Illinois and Indiana leave residents grappling with damage; cleanup efforts underway]]></title>
-<link>https://apnews.com/article/severe-weather-tornadoes-indiana-illinois-chicago-midwest-c07fd694ea18dacbc80ea91ee7c24c4a</link>
-<pubDate>Sat, 13 Jun 2026 14:45:02 -0000</pubDate>
+<title><![CDATA[How parents can talk to their kids about vaping as FDA authorizes some flavored e-cigarettes]]></title>
+<link>https://apnews.com/article/vaping-ecigarettes-teens-tobacco-quitting-631baecbf76522902bf8a99312914646</link>
+<pubDate>Sun, 14 Jun 2026 02:20:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Mexican authorities investigate homicide of mayor in Oaxaca state]]></title>
+<link>https://apnews.com/article/mexico-mayor-killed-oaxaca-joel-bravo-san-miguel-amatitlan-54739d9cc7b8913f246b2f76d0e5d886</link>
+<pubDate>Sun, 14 Jun 2026 02:50:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexican police investigate body found outside Tijuana stadium where Iran prepares for World Cup]]></title>
 <link>https://apnews.com/article/tijuana-mexico-iran-team-world-cup-corpse-stadium-crime-fcfe04ac26b931de8c13efd88bb54a4e</link>
 <pubDate>Sat, 13 Jun 2026 22:34:35 -0000</pubDate>
@@ -200,6 +206,12 @@
 <title><![CDATA[Tens of thousands join Pride marches in Romania, Bulgaria to call for equality]]></title>
 <link>https://apnews.com/article/romania-bulgaria-pride-lgbtq-europe-3ea7535c4fb3b5b52acb06cb145924b9</link>
 <pubDate>Sat, 13 Jun 2026 19:58:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands rally in Belfast to condemn anti-immigrant rioting that followed stabbing]]></title>
+<link>https://apnews.com/article/belfast-stabbing-riot-racism-immigrants-5c0e74588be3473370ad360081401a54</link>
+<pubDate>Sun, 14 Jun 2026 02:35:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,18 +365,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A Bosnian song about disillusionment with the American Dream becomes a World Cup banger]]></title>
-<link>https://apnews.com/article/bosnia-world-cup-song-take-me-america-7eb3b56dbcbc93b2f5252b399fdc5bf3</link>
-<pubDate>Fri, 12 Jun 2026 15:25:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NATO weighs options to defend Europe as the US plans for conflict elsewhere]]></title>
-<link>https://apnews.com/article/nato-us-forces-defense-europe-f02062dccd3828cdd5ef8c8a717522ac</link>
-<pubDate>Sat, 13 Jun 2026 16:08:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Lebanese army withdraws from southern village after Israeli troops advance nearby]]></title>
 <link>https://apnews.com/article/lebanon-israel-iran-hezbollah-7423a633aad2c74378e3024110af0a09</link>
 <pubDate>Sat, 13 Jun 2026 15:15:04 -0000</pubDate>
@@ -386,12 +386,6 @@
 <title><![CDATA[AP exclusive: Doctors Without Borders report found cases of abuse and exploitation by staff in Chad]]></title>
 <link>https://apnews.com/article/chad-sudan-civil-war-sexual-abuse-refugees-036f69088cd3a96cb3c970ddbfd00696</link>
 <pubDate>Sat, 13 Jun 2026 06:45:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Woman mauled by shark off Sydney beach grabs onto a lifeguard’s paddleboard]]></title>
-<link>https://apnews.com/article/australia-shark-attack-sydney-coogee-swimmer-af77bb1a02990303c6bc3fbc8fb5ec6f</link>
-<pubDate>Sat, 13 Jun 2026 11:45:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
