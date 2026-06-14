@@ -3,29 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Jun 2026 02:50:58 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Trump calls off latest threats to strike Iran, citing a breakthrough in talks to end the war]]></title>
-<link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d</link>
-<pubDate>Fri, 12 Jun 2026 16:10:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Foreign workers say they were paid less than $2 an hour to build a new US Consulate in Milan]]></title>
-<link>https://apnews.com/article/us-consulate-milan-caddell-labor-exploitation-9b77ab653aad4ffeab368de423920848</link>
-<pubDate>Thu, 11 Jun 2026 17:30:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sun, 14 Jun 2026 07:14:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What to know about a possible deal to end the Iran war]]></title>
 <link>https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814</link>
 <pubDate>Sat, 13 Jun 2026 22:34:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the stabbing that set off fiery riots in Northern Ireland]]></title>
-<link>https://apnews.com/article/northern-ireland-belfast-stabbing-violence-uk-migrants-859cf9c48afd4719d5e6e80e401aebad</link>
-<pubDate>Thu, 11 Jun 2026 12:42:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,21 +17,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US and Iran have agreed to wording of a deal to end their war, Pakistan’s prime minister says]]></title>
+<link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f</link>
+<pubDate>Sun, 14 Jun 2026 07:14:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula]]></title>
+<link>https://apnews.com/article/russia-ukraine-crimea-peninsula-fuel-war-a744652874e95ce38ec7ecd8d512e821</link>
+<pubDate>Fri, 12 Jun 2026 04:56:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iran’s Kharg Island is key to its oil exports. Targeting it carries major risks]]></title>
+<link>https://apnews.com/article/us-iran-war-kharg-island-oil-industry-a4332ecc6500070c1e1929b9a734218f</link>
+<pubDate>Sun, 14 Jun 2026 06:59:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-attack-a2189d216731d92cbe74c873e1e6c04e</link>
+<pubDate>Sun, 14 Jun 2026 06:44:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump and Macron will meet over dinner at Versailles palace after G7 summit in France]]></title>
 <link>https://apnews.com/article/trump-g7-summit-macron-versailles-france-meeting-861a196252ddd5c19ee74a91e607709a</link>
 <pubDate>Sat, 13 Jun 2026 16:53:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and other G7 leaders are meeting without China. Is that a mistake?]]></title>
+<title><![CDATA[Why Trump and other G7 leaders meeting without China might be a mistake]]></title>
 <link>https://apnews.com/article/china-trump-g7-evian-trade-b17859e2c226e195e6a7f89e413d7432</link>
-<pubDate>Sun, 14 Jun 2026 02:50:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands march in Rome in anti- and pro-migration rallies]]></title>
-<link>https://apnews.com/article/italy-migration-protests-f32680a757da2ca62fdbe28f2e91f1b1</link>
-<pubDate>Sat, 13 Jun 2026 19:58:38 -0000</pubDate>
+<pubDate>Sun, 14 Jun 2026 06:29:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[How parents can talk to their kids about vaping as FDA authorizes some flavored e-cigarettes]]></title>
-<link>https://apnews.com/article/vaping-ecigarettes-teens-tobacco-quitting-631baecbf76522902bf8a99312914646</link>
-<pubDate>Sun, 14 Jun 2026 02:20:56 -0000</pubDate>
+<title><![CDATA[Nara Organics recalls baby formula sold at Target after multistate infant botulism outbreak]]></title>
+<link>https://apnews.com/article/infant-botulism-byheart-formula-outbreak-90a0a08910d1162d77b9eb65d63ed667</link>
+<pubDate>Sun, 14 Jun 2026 06:14:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,6 +185,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan’s spy agency launches webpage for Chinese nationals to report tips]]></title>
+<link>https://apnews.com/article/taiwan-china-intelligence-tips-us-9921a84f1ce0b5314347b78fc25d077b</link>
+<pubDate>Sun, 14 Jun 2026 07:14:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Swiss cast ballots on right-wing’s bid to cap country’s population at 10 million]]></title>
+<link>https://apnews.com/article/switzerland-referendum-population-10-million-03b42363567cfa9ff29c0995bb4ff711</link>
+<pubDate>Sun, 14 Jun 2026 06:59:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The world wants more high-protein products, but there’s not enough whey to go around]]></title>
+<link>https://apnews.com/article/protein-powder-shortage-prices-whey-concentrate-c5638b9d65b0fa5967488852993d76db</link>
+<pubDate>Sun, 14 Jun 2026 06:44:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexican authorities investigate homicide of mayor in Oaxaca state]]></title>
 <link>https://apnews.com/article/mexico-mayor-killed-oaxaca-joel-bravo-san-miguel-amatitlan-54739d9cc7b8913f246b2f76d0e5d886</link>
 <pubDate>Sun, 14 Jun 2026 02:50:57 -0000</pubDate>
@@ -197,15 +215,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US strike against Tren de Aragua leader in Venezuela exemplifies Trump’s approach to war on drugs]]></title>
-<link>https://apnews.com/article/tren-de-aragua-venezuela-trump-nino-guerrero-222081f38ff0a9d205bf0a63868cfac3</link>
-<pubDate>Sat, 13 Jun 2026 22:19:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tens of thousands join Pride marches in Romania, Bulgaria to call for equality]]></title>
 <link>https://apnews.com/article/romania-bulgaria-pride-lgbtq-europe-3ea7535c4fb3b5b52acb06cb145924b9</link>
 <pubDate>Sat, 13 Jun 2026 19:58:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands march in Rome in anti- and pro-migration rallies]]></title>
+<link>https://apnews.com/article/italy-migration-protests-f32680a757da2ca62fdbe28f2e91f1b1</link>
+<pubDate>Sun, 14 Jun 2026 06:29:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -341,27 +359,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US and Iran have agreed to wording of a deal to end their war, Pakistan’s prime minister says]]></title>
-<link>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f</link>
-<pubDate>Sat, 13 Jun 2026 21:14:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[A viral photo of Pope Leo XIV and a Barcelona boy sparked an emotional search for his family]]></title>
 <link>https://apnews.com/article/pope-leo-boy-barcelona-photography-spain-aff7a208f3cf4993172a2dc141f45b7d</link>
 <pubDate>Fri, 12 Jun 2026 15:55:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Migrant rights will be safeguarded at third-country return hubs, EU migration commissioner says]]></title>
-<link>https://apnews.com/article/eu-migration-asylum-seekers-return-hubs-africa-cff0e987de32bf73bc10295ed756ac15</link>
-<pubDate>Fri, 12 Jun 2026 17:51:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Keir Starmer says he’s staying put after defense secretary’s departure hammers his authority]]></title>
-<link>https://apnews.com/article/keir-starmer-leadership-john-healey-resignation-742638cda34ece4ec304e47dd2df8bc8</link>
-<pubDate>Sat, 13 Jun 2026 09:34:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -383,9 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AP exclusive: Doctors Without Borders report found cases of abuse and exploitation by staff in Chad]]></title>
-<link>https://apnews.com/article/chad-sudan-civil-war-sexual-abuse-refugees-036f69088cd3a96cb3c970ddbfd00696</link>
-<pubDate>Sat, 13 Jun 2026 06:45:14 -0000</pubDate>
+<title><![CDATA[US strike against Tren de Aragua leader in Venezuela exemplifies Trump’s approach to war on drugs]]></title>
+<link>https://apnews.com/article/tren-de-aragua-venezuela-trump-nino-guerrero-222081f38ff0a9d205bf0a63868cfac3</link>
+<pubDate>Sun, 14 Jun 2026 07:14:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Downtown Geneva boards up as drastic security tightens ahead of anti-G7 protests]]></title>
+<link>https://apnews.com/article/switzerland-france-g7-protests-trump-17a5c9c179914e58acecfdb791b824c4</link>
+<pubDate>Sun, 14 Jun 2026 06:59:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,15 +413,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s Kharg Island is key to its oil exports. Targeting it carries major risks]]></title>
-<link>https://apnews.com/article/us-iran-war-kharg-island-oil-industry-a4332ecc6500070c1e1929b9a734218f</link>
-<pubDate>Thu, 11 Jun 2026 18:00:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[London judge sentences Palestine Action activists for raid at Israeli defense factory]]></title>
 <link>https://apnews.com/article/palestine-action-elbit-uk-israel-defense-raid-damage-terrorism-c22257184174590c097772c96d4287d5</link>
 <pubDate>Fri, 12 Jun 2026 20:16:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[AP exclusive: Doctors Without Borders report found cases of abuse and exploitation by staff in Chad]]></title>
+<link>https://apnews.com/article/chad-sudan-civil-war-sexual-abuse-refugees-036f69088cd3a96cb3c970ddbfd00696</link>
+<pubDate>Sat, 13 Jun 2026 06:45:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -437,12 +443,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[SpaceX stock soars in debut and makes Elon Musk the first trillionaire]]></title>
-<link>https://apnews.com/article/musk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d</link>
-<pubDate>Fri, 12 Jun 2026 20:01:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[OpenAI hit with multistate probe into possible user harm as its IPO looms]]></title>
 <link>https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586</link>
 <pubDate>Sat, 13 Jun 2026 19:58:40 -0000</pubDate>
@@ -452,12 +452,6 @@
 <title><![CDATA[Elon Musk’s SpaceX is about to make its debut on Wall Street]]></title>
 <link>https://apnews.com/article/spacex-musk-starship-ipo-satellites-data-center-293e82ea0216efdd0ff7601baf85bae8</link>
 <pubDate>Thu, 11 Jun 2026 11:56:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-attack-a2189d216731d92cbe74c873e1e6c04e</link>
-<pubDate>Sat, 13 Jun 2026 11:00:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
