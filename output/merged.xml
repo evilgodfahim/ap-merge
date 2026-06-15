@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 15 Jun 2026 20:19:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:31:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A tentative deal is reached to end the Iran war and Trump orders a stop to the US naval blockade]]></title>
 <link>https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a</link>
@@ -77,9 +77,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s DJ Rinoka bobs to the beat as a child prodigy techno artist]]></title>
-<link>https://apnews.com/article/young-techno-dj-rinoka-japan-music-05bd3a87d3eb451ca2ad91691611127e</link>
-<pubDate>Mon, 15 Jun 2026 08:26:01 -0000</pubDate>
+<title><![CDATA[UN calls on Afghanistan’s Taliban rulers to reverse crackdown on women]]></title>
+<link>https://apnews.com/article/un-resolution-afghanistan-women-pakistan-china-99295f6fffb1e37f7c61133de6ea2e14</link>
+<pubDate>Mon, 15 Jun 2026 22:31:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Officials in Brazil investigate helicopter crash that killed 6]]></title>
+<link>https://apnews.com/article/helicopter-crash-oliver-tree-rio-brazil-gaspi-f0a660e9ce3e314eec75c662c0ad8a2e</link>
+<pubDate>Mon, 15 Jun 2026 22:16:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[Colombia’s ELN rebels declare ceasefire before Sunday’s presidential election]]></title>
 <link>https://apnews.com/article/eln-colombia-election-petro-cepeda-espriella-c07c37d22c245141dd8f7c84961ac1de</link>
 <pubDate>Mon, 15 Jun 2026 19:19:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mexican president says FIFA should reflect on high World Cup ticket prices]]></title>
-<link>https://apnews.com/article/mexico-world-cup-prices-president-fifa-74b3d0d08b248d838c846f522ea89807</link>
-<pubDate>Mon, 15 Jun 2026 19:04:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,15 +137,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump tried to block state AI regulations, but some states are forging ahead]]></title>
-<link>https://apnews.com/article/trump-artificial-intelligence-chatbots-ai-23a0e44ab05402ddfe9cdfd0bffa0ade</link>
-<pubDate>Mon, 15 Jun 2026 10:42:37 -0000</pubDate>
+<title><![CDATA[B-52 bomber crashes after takeoff at US military base in Southern California]]></title>
+<link>https://apnews.com/article/b52-crash-california-edwards-air-force-base-ea237a6eec587adbbf9e7a578014ca93</link>
+<pubDate>Mon, 15 Jun 2026 22:01:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court will decide whether criminal cases must have 12 jurors, in Florida case]]></title>
-<link>https://apnews.com/article/supreme-court-criminal-juries-size-constitutional-right-aa264b581b910741ed3ea1b7487f3cae</link>
-<pubDate>Mon, 15 Jun 2026 18:04:54 -0000</pubDate>
+<title><![CDATA[Republican divides and strange alliances emerge ahead of Georgia runoff]]></title>
+<link>https://apnews.com/article/trump-georgia-runoffs-kemp-collins-e1239e9901f885ad9c8fb38425094d27</link>
+<pubDate>Mon, 15 Jun 2026 21:46:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Meet Merlin the duck, a Mexico City streetside regular turned World Cup mascot]]></title>
+<link>https://apnews.com/article/world-cup-duck-mexico-mascot-merlin-4fbe0000dbf7c7b793e4ef664205b373</link>
+<pubDate>Mon, 15 Jun 2026 22:31:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Uganda opposition figure seized by soldiers as army chief vows ‘hurt and pain’]]></title>
+<link>https://apnews.com/article/uganda-army-chief-kainerugaba-lukwago-43f92e6496f4bd134ca2e3eb82151acf</link>
+<pubDate>Mon, 15 Jun 2026 22:16:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Mexican president says FIFA should reflect on high World Cup ticket prices]]></title>
+<link>https://apnews.com/article/mexico-world-cup-prices-president-fifa-74b3d0d08b248d838c846f522ea89807</link>
+<pubDate>Mon, 15 Jun 2026 22:01:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanese return home to destruction after word of an initial US-Iran deal, in photos]]></title>
 <link>https://apnews.com/photo-gallery/lebanese-return-home-destruction-after-word-initial-us-iran-deal-photos-789490e7b6194502b2899710757366ec</link>
 <pubDate>Mon, 15 Jun 2026 19:34:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Cape Verde holds Spain to a surprising 0-0 draw in the country’s World Cup debut]]></title>
+<link>https://apnews.com/article/world-cup-spain-cape-verde-score-6aaf0fe892fd2c02fc068e3f9d84c53f</link>
+<pubDate>Mon, 15 Jun 2026 21:46:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -275,6 +299,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Japan’s DJ Rinoka bobs to the beat as a child prodigy techno artist]]></title>
+<link>https://apnews.com/article/young-techno-dj-rinoka-japan-music-05bd3a87d3eb451ca2ad91691611127e</link>
+<pubDate>Mon, 15 Jun 2026 21:31:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistani military aircraft crashes during training flight, killing 2 pilots]]></title>
 <link>https://apnews.com/article/pakistan-military-plane-crash-training-flight-northwest-8e084611340eb5bc7efc4b21bea711ad</link>
 <pubDate>Mon, 15 Jun 2026 08:07:47 -0000</pubDate>
@@ -347,39 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Romania’s president nominates Adrian Vestea as prime minister after his previous pick withdraws]]></title>
-<link>https://apnews.com/article/romania-politics-europe-crisis-4c9ced83c88562ca2dcd7220b2a4c49d</link>
-<pubDate>Sun, 14 Jun 2026 10:35:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Britain detains sanctioned oil tanker believed to be linked to Russia’s shadow fleet]]></title>
-<link>https://apnews.com/article/shadow-fleet-russia-uk-starmer-moscow-110f493f617176d64d84e588754db091</link>
-<pubDate>Mon, 15 Jun 2026 03:48:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan’s spy agency launches webpage for Chinese nationals to report tips]]></title>
-<link>https://apnews.com/article/taiwan-china-intelligence-tips-us-9921a84f1ce0b5314347b78fc25d077b</link>
-<pubDate>Sun, 14 Jun 2026 07:14:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters in Geneva clash with police ahead of the G7 summit in nearby France]]></title>
-<link>https://apnews.com/article/switzerland-france-g7-protests-trump-17a5c9c179914e58acecfdb791b824c4</link>
-<pubDate>Mon, 15 Jun 2026 03:33:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The world wants more high-protein products, but there’s not enough whey to go around]]></title>
-<link>https://apnews.com/article/protein-powder-shortage-prices-whey-concentrate-c5638b9d65b0fa5967488852993d76db</link>
-<pubDate>Sun, 14 Jun 2026 06:44:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain]]></title>
+<title><![CDATA[Initial deal to end US-Iran war moves toward formal signing despite lingering questions]]></title>
 <link>https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20</link>
-<pubDate>Mon, 15 Jun 2026 12:51:04 -0000</pubDate>
+<pubDate>Mon, 15 Jun 2026 22:31:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Officials in Brazil investigate helicopter crash that killed 6]]></title>
-<link>https://apnews.com/article/helicopter-crash-oliver-tree-rio-brazil-gaspi-f0a660e9ce3e314eec75c662c0ad8a2e</link>
-<pubDate>Mon, 15 Jun 2026 19:19:56 -0000</pubDate>
+<title><![CDATA[Cuba quantifies impact of US oil blockade on children’s health and daily life]]></title>
+<link>https://apnews.com/article/cuba-us-oil-embargo-blockade-healthcare-6fa86704197b96be84372ef84fdf474f</link>
+<pubDate>Mon, 15 Jun 2026 22:16:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
