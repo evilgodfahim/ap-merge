@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Jun 2026 22:28:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 23:55:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Initial deal to end US-Iran war moves toward formal signing despite lingering questions]]></title>
 <link>https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and other world leaders discuss Iran and Ukraine wars at G7 summit]]></title>
-<link>https://apnews.com/live/trump-g7-iran-updates-06-16-2026</link>
-<pubDate>Wed, 17 Jun 2026 17:37:20 -0000</pubDate>
+<title><![CDATA[Live updates: US-Iran deal takes ‘immediate effect’ after both sides sign, Pakistan premier says]]></title>
+<link>https://apnews.com/live/g7-summit-updates-06-17-2026</link>
+<pubDate>Wed, 17 Jun 2026 23:55:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Archaeology team unearths ‘prototype’ of world-famous Stonehenge monument just a few miles away]]></title>
+<link>https://apnews.com/article/stonehenge-britain-discovery-summer-solstice-36f8517159a9e750c1042bebd884ca2d</link>
+<pubDate>Wed, 17 Jun 2026 23:40:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal]]></title>
 <link>https://apnews.com/article/g7-summit-trump-macron-takeaways-versailles-0b3127724dbbf16dd36353247290568e</link>
 <pubDate>Wed, 17 Jun 2026 21:39:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NATO chief downplays US military cutbacks as top commander makes backup plans]]></title>
-<link>https://apnews.com/article/nato-us-trump-troops-withdraw-rutte-a9fa797f52a26a03a43a93851a1200d8</link>
-<pubDate>Wed, 17 Jun 2026 15:17:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,15 +125,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Dangerous flooding from Tropical Storm Arthur, first of the Atlantic season, threatens Gulf Coast]]></title>
-<link>https://apnews.com/article/tropical-storm-arthur-gulf-america-texas-louisiana-08542f7d4005057e14602b1f07f39ae7</link>
-<pubDate>Wed, 17 Jun 2026 15:52:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Investigators seek clues in small jet crash that killed 1 in Texas, where bystanders rushed to help]]></title>
 <link>https://apnews.com/article/texas-plane-crash-9d1eb45ec3c4482f2362ec3a39693a82</link>
 <pubDate>Wed, 17 Jun 2026 20:02:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Dangerous flooding from Tropical Storm Arthur, first of the Atlantic season, threatens Gulf Coast]]></title>
+<link>https://apnews.com/article/tropical-storm-arthur-gulf-america-texas-louisiana-08542f7d4005057e14602b1f07f39ae7</link>
+<pubDate>Wed, 17 Jun 2026 15:52:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -263,6 +263,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[NATO chief downplays US military cutbacks as top commander makes backup plans]]></title>
+<link>https://apnews.com/article/nato-us-trump-troops-withdraw-rutte-a9fa797f52a26a03a43a93851a1200d8</link>
+<pubDate>Wed, 17 Jun 2026 23:55:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Japanese fair trade officials raid 6 ice cream makers on suspicion of price fixing]]></title>
 <link>https://apnews.com/article/fair-trade-ice-cream-japan-raids-c8a45557f4c34e51a18c3516c7409fd3</link>
 <pubDate>Wed, 17 Jun 2026 14:32:25 -0000</pubDate>
@@ -359,12 +365,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports jump 17% in May, but it logs a deficit as imports surge]]></title>
-<link>https://apnews.com/article/japan-trade-oil-iran-ai-7ecad04964f22f90e1f679a1dcf05f69</link>
-<pubDate>Wed, 17 Jun 2026 06:20:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-deal-june-17-2026-19652f4611b704c0a991bf1f5bc9a4b9</link>
 <pubDate>Wed, 17 Jun 2026 20:32:40 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hot mic captures Giorgia Meloni telling G7 leaders that she quit smoking one month ago]]></title>
-<link>https://apnews.com/video/italian-prime-minister-georgia-meloni-tells-g7-leaders-that-she-quit-smoking-one-month-ago-19177b3927804bb7bf762ab9b0d7639c</link>
-<pubDate>Wed, 17 Jun 2026 01:27:51 -0000</pubDate>
+<title><![CDATA[Trump offers sympathy to Lebanon and said a copy of Iran deal had been sent to Israel]]></title>
+<link>https://apnews.com/video/trump-offers-sympathy-to-lebanon-and-said-a-copy-of-iran-deal-had-been-sent-to-israel-40a366afeff744cb9ae28dff7faab4dc</link>
+<pubDate>Wed, 17 Jun 2026 23:55:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
