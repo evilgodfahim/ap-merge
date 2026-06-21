@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Jun 2026 01:43:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 06:41:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show opening day at the Obama Presidential Center]]></title>
 <link>https://apnews.com/photo-gallery/opening-day-obama-museum-photos-135f108869fc44639058646b023e8228</link>
 <pubDate>Fri, 19 Jun 2026 13:52:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[An ancient oak tree said to have sheltered legendary Robin Hood has died]]></title>
-<link>https://apnews.com/article/major-oak-sherwood-forest-dead-robin-hood-984b4744f2de2e14a20f067a33303111</link>
-<pubDate>Thu, 18 Jun 2026 17:36:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,6 +29,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pentagon chief’s review appears out of step with what NATO allies are already doing]]></title>
+<link>https://apnews.com/article/nato-us-hegseth-pentagon-review-europe-spending-0529a8f0c581ff34a427a70086223c61</link>
+<pubDate>Sun, 21 Jun 2026 06:24:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US Vice President JD Vance arrives in Switzerland to launch talks with Iran on its nuclear program]]></title>
+<link>https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963</link>
+<pubDate>Sun, 21 Jun 2026 06:09:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Zelenskyy returns Poland’s highest honor after Polish leader revokes it in a spat over history]]></title>
 <link>https://apnews.com/article/poland-ukraine-zelenskyy-nawrocki-order-afeea9485528283fed2a714ae31650e2</link>
 <pubDate>Sat, 20 Jun 2026 16:09:59 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Spanish judge orders prime minister’s wife to face corruption trial and surrender her passport]]></title>
 <link>https://apnews.com/article/spain-prime-minister-wife-trial-corruption-passport-4ccb7c236e4accb176fe5c2c0ee50d75</link>
 <pubDate>Sat, 20 Jun 2026 17:50:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo XIV exalts first American saint Cabrini as a model for Christians for her care of migrants]]></title>
-<link>https://apnews.com/article/pope-italy-augustine-cabrini-migration-trump-d83c27b901a95a13a34fe0f019c974a3</link>
-<pubDate>Sat, 20 Jun 2026 19:07:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,15 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Brazen attack on Niger’s airport shows jihadis are expanding to cities in Africa’s Sahel]]></title>
-<link>https://apnews.com/article/niger-jihadi-attacks-sahel-c92e70d0148bf54f08c3e46b7de52b22</link>
-<pubDate>Fri, 19 Jun 2026 22:07:02 -0000</pubDate>
+<title><![CDATA[A COVID lockdown led this woman to plant a vineyard at her parents’ home. Now a dream is realized]]></title>
+<link>https://apnews.com/article/wine-south-africa-vineyard-covid-5bd08f8d8d3bb5579c6304b39566d2cc</link>
+<pubDate>Sun, 21 Jun 2026 05:54:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnamese man deported from U.S. to South Sudan is repatriated after months in detention]]></title>
-<link>https://apnews.com/article/south-sudan-us-deportations-vietnam-man-b6add0cdbc8d065e69524e4c1b2c14c0</link>
-<pubDate>Fri, 19 Jun 2026 16:11:43 -0000</pubDate>
+<title><![CDATA[Brazen attack on Niger’s airport shows jihadis are expanding to cities in Africa’s Sahel]]></title>
+<link>https://apnews.com/article/niger-jihadi-attacks-sahel-c92e70d0148bf54f08c3e46b7de52b22</link>
+<pubDate>Fri, 19 Jun 2026 22:07:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France restricts public alcohol consumption and outdoor sports as heat wave bakes parts of Europe]]></title>
+<link>https://apnews.com/article/heat-wave-france-europe-music-day-337471b5950543447c92010ca1081a8d</link>
+<pubDate>Sun, 21 Jun 2026 06:41:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Welcoming the longest day at Stonehenge, in photos]]></title>
 <link>https://apnews.com/photo-gallery/photos-winter-solstice-stonehenge-387f7109f74717671b26b9cfbfa8fbf4</link>
 <pubDate>Sun, 21 Jun 2026 01:43:47 -0000</pubDate>
@@ -203,6 +209,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A founder of Assassin’s Creed maker Ubisoft killed in a plane crash in western France]]></title>
+<link>https://apnews.com/article/france-assassins-creed-ubisoft-plane-crash-2df2ea469c3fca0a45c38ae8805a6033</link>
+<pubDate>Sun, 21 Jun 2026 06:26:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump deepens the dustup with Italy’s Meloni, who says his ‘unprovoked attacks are senseless’]]></title>
 <link>https://apnews.com/article/trump-meloni-nato-italy-g7-photo-ab350c75202462f5da33a1eb0a761dd1</link>
 <pubDate>Sat, 20 Jun 2026 16:09:59 -0000</pubDate>
@@ -218,6 +230,12 @@
 <title><![CDATA[Freight trains’ collision in Germany sends 2 wagons plunging off a bridge. One person was killed]]></title>
 <link>https://apnews.com/article/germany-munich-freight-train-collision-bridge-ef93b22a45cdec031c2489cb93c863e9</link>
 <pubDate>Sat, 20 Jun 2026 15:54:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo XIV exalts first American saint Cabrini as a model for Christians for her care of migrants]]></title>
+<link>https://apnews.com/article/pope-italy-augustine-cabrini-migration-trump-d83c27b901a95a13a34fe0f019c974a3</link>
+<pubDate>Sun, 21 Jun 2026 06:11:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,24 +365,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[How Burnham’s resounding victory could lead to Starmer’s downfall]]></title>
-<link>https://apnews.com/article/burnham-starmer-leadership-britain-014fda5ccb292df7eb4214d157e64fba</link>
-<pubDate>Sat, 20 Jun 2026 09:45:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pentagon chief’s review appears out of step with what NATO allies are already doing]]></title>
-<link>https://apnews.com/article/nato-us-hegseth-pentagon-review-europe-spending-0529a8f0c581ff34a427a70086223c61</link>
-<pubDate>Fri, 19 Jun 2026 15:26:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Morocco star Achraf Hakimi will stand trial in a rape case, French appeals court confirms]]></title>
-<link>https://apnews.com/article/hakimi-world-cup-trial-rape-psg-morocco-23a83548f23d923cc92c5a39080e9c2f</link>
-<pubDate>Fri, 19 Jun 2026 09:39:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8</link>
 <pubDate>Sat, 20 Jun 2026 21:58:06 -0000</pubDate>
@@ -389,12 +389,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Come inside Iran’s World Cup hotel in Tijuana, Mexico, where fans turn up to cheer]]></title>
-<link>https://apnews.com/article/iran-world-cup-tijuana-29319fcd3d6a486c1d584231aefc7f0a</link>
-<pubDate>Sat, 20 Jun 2026 23:04:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[‘This was not easy': Trump signs Iran agreement during dinner in Versailles]]></title>
 <link>https://apnews.com/video/this-was-not-easy-i-can-tell-you-trump-signs-iran-agreement-during-dinner-in-versailles-4af8522da46e4907b9eccd0dde8daef0</link>
 <pubDate>Thu, 18 Jun 2026 22:27:41 -0000</pubDate>
@@ -404,6 +398,12 @@
 <title><![CDATA[Trump says he’s ‘the boss’ on arrival for first meeting of final day at G7 summit]]></title>
 <link>https://apnews.com/video/trump-jokes-hes-the-boss-on-arrival-for-first-meeting-of-final-day-at-g7-summit-320de52fe45043fa9209ee453fbb11d2</link>
 <pubDate>Thu, 18 Jun 2026 22:12:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Come inside Iran’s World Cup hotel in Tijuana, Mexico, where fans turn out to cheer]]></title>
+<link>https://apnews.com/article/iran-world-cup-tijuana-29319fcd3d6a486c1d584231aefc7f0a</link>
+<pubDate>Sun, 21 Jun 2026 06:26:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -422,12 +422,6 @@
 <title><![CDATA[Freed Israeli hostage Guy Gilboa-Dalal recounts sexual abuse in Gaza, urges victims to speak out]]></title>
 <link>https://apnews.com/article/israel-palestinians-gaza-hamas-sexual-abuse-hostages-03b5603904dd5721ebf1b16fa4a983ad</link>
 <pubDate>Fri, 19 Jun 2026 09:39:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What Americans think about Trump’s handling of Iran, according to a new AP-NORC poll]]></title>
-<link>https://apnews.com/article/poll-trump-iran-economy-israel-7d7d79150f3da1cc28076604f8659b64</link>
-<pubDate>Fri, 19 Jun 2026 12:52:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,9 +449,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A founder of Assassin’s Creed maker Ubisoft killed in a plane crash in western France]]></title>
-<link>https://apnews.com/article/france-assassins-creed-ubisoft-plane-crash-2df2ea469c3fca0a45c38ae8805a6033</link>
-<pubDate>Sat, 20 Jun 2026 13:52:08 -0000</pubDate>
+<title><![CDATA[In Taylor Swift’s beach town, every clue becomes a wedding rumor]]></title>
+<link>https://apnews.com/article/taylor-swift-wedding-rhode-island-c14fe03bde7fea457e99745bf28ee96c</link>
+<pubDate>Sun, 21 Jun 2026 06:11:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
