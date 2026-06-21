@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Jun 2026 10:23:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 12:22:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Photos show opening day at the Obama Presidential Center]]></title>
 <link>https://apnews.com/photo-gallery/opening-day-obama-museum-photos-135f108869fc44639058646b023e8228</link>
@@ -35,6 +35,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Starmer is on the precipice as pressure builds for the UK leader to resign]]></title>
+<link>https://apnews.com/article/britain-keir-starmer-future-burnham-labour-cc4567e307b4b3e6fbcb75c2c66a503c</link>
+<pubDate>Sun, 21 Jun 2026 12:22:21 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France restricts public alcohol consumption and outdoor sports as heat wave bakes parts of Europe]]></title>
 <link>https://apnews.com/article/heat-wave-france-europe-music-day-337471b5950543447c92010ca1081a8d</link>
 <pubDate>Sun, 21 Jun 2026 10:08:48 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales]]></title>
 <link>https://apnews.com/article/russia-ukraine-was-crimea-gas-fuel-1bd4d0980a353fa0f8221040215e6435</link>
 <pubDate>Sun, 21 Jun 2026 09:53:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Vance and Iranian officials arrive in Switzerland to launch talks on Tehran’s nuclear program]]></title>
-<link>https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963</link>
-<pubDate>Sun, 21 Jun 2026 09:38:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A COVID lockdown led this woman to plant a vineyard at her parents’ home. Now a dream is realized]]></title>
+<title><![CDATA[This woman ‘managed to not be bored’ during the COVID lockdown and planted a vineyard at home]]></title>
 <link>https://apnews.com/article/wine-south-africa-vineyard-covid-5bd08f8d8d3bb5579c6304b39566d2cc</link>
-<pubDate>Sun, 21 Jun 2026 05:54:20 -0000</pubDate>
+<pubDate>Sun, 21 Jun 2026 12:07:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,21 +365,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Vance and Iranian officials arrive in Switzerland to launch talks on Tehran’s nuclear program]]></title>
+<link>https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963</link>
+<pubDate>Sun, 21 Jun 2026 10:23:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The Latest: Vance and Iranian negotiators are in Switzerland to work on details of deal]]></title>
 <link>https://apnews.com/article/us-iran-talks-vance-trump-latest-21-june-2026-39f9632b4df3a61a07a2c271da1d5637</link>
 <pubDate>Sun, 21 Jun 2026 10:08:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Come inside Iran’s World Cup hotel in Tijuana, Mexico, where fans turn out to cheer]]></title>
-<link>https://apnews.com/article/iran-world-cup-tijuana-29319fcd3d6a486c1d584231aefc7f0a</link>
-<pubDate>Sun, 21 Jun 2026 06:26:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Starmer is on the precipice as pressure builds for the UK leader to resign]]></title>
-<link>https://apnews.com/article/britain-keir-starmer-future-burnham-labour-cc4567e307b4b3e6fbcb75c2c66a503c</link>
-<pubDate>Sun, 21 Jun 2026 09:38:50 -0000</pubDate>
+<title><![CDATA[Ten years on, Brexit still divides Britain and casts a pall over its economy]]></title>
+<link>https://apnews.com/article/brexit-britain-anniversary-10-years-economy-b947ef83d4069d236a9a3163ef9d8633</link>
+<pubDate>Sun, 21 Jun 2026 12:07:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -398,6 +398,12 @@
 <title><![CDATA[Analysis: A confident Iran is pressing its advantage, but challenges loom]]></title>
 <link>https://apnews.com/article/iran-strategy-us-war-israel-analysis-c3711f45fbb3a21723273e6156e4992e</link>
 <pubDate>Fri, 19 Jun 2026 16:11:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Come inside Iran’s World Cup hotel in Tijuana, Mexico, where fans turn out to cheer]]></title>
+<link>https://apnews.com/article/iran-world-cup-tijuana-29319fcd3d6a486c1d584231aefc7f0a</link>
+<pubDate>Sun, 21 Jun 2026 06:26:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
