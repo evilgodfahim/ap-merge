@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Jun 2026 17:59:48 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Photos show opening day at the Obama Presidential Center]]></title>
-<link>https://apnews.com/photo-gallery/opening-day-obama-museum-photos-135f108869fc44639058646b023e8228</link>
-<pubDate>Fri, 19 Jun 2026 13:52:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sun, 21 Jun 2026 19:44:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Meloni slams Trump’s claim she ‘begged’ for a photo with him as Italy’s top diplomat cancels US trip]]></title>
 <link>https://apnews.com/article/trump-meloni-italy-us-36d6452879d0d61983802c036cdb7835</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[Israel and Hezbollah agree to halt fighting, officials say, as US-Iran talks hang in the balance]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-oil-june-19-2026-635ad6f41610df8355d24cc301a75fc4</link>
 <pubDate>Sat, 20 Jun 2026 10:13:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pentagon chief’s review appears out of step with what NATO allies are already doing]]></title>
+<link>https://apnews.com/article/nato-us-hegseth-pentagon-review-europe-spending-0529a8f0c581ff34a427a70086223c61</link>
+<pubDate>Sun, 21 Jun 2026 06:24:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,6 +71,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A top banker tried to sway Pope Leo XIV on rare earth mining]]></title>
+<link>https://apnews.com/article/rare-earth-minerals-leo-mining-goldfajn-8a44b7e7f89fb84d77f2d6cf472d600d</link>
+<pubDate>Sat, 20 Jun 2026 11:42:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[With World Cup in Guadalajara, families of Mexico’s disappeared turn loved ones into soccer stickers]]></title>
 <link>https://apnews.com/article/mexico-missing-panini-posters-stickers-world-cup-e0ce7afb3505e9568e3a1cc360d4f330</link>
 <pubDate>Sun, 21 Jun 2026 09:08:48 -0000</pubDate>
@@ -80,18 +86,6 @@
 <title><![CDATA[Dominican authorities help foreign tourists affected by a massive resort fire return home]]></title>
 <link>https://apnews.com/article/dominican-republic-resort-fire-tourists-72e4078a7bf24b5dccea5456f042ccc6</link>
 <pubDate>Sat, 20 Jun 2026 23:04:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba pushes through sweeping free-market reforms in biggest economic shift since the revolution]]></title>
-<link>https://apnews.com/article/cuba-economic-reforms-us-embargo-diaz-canel-trump-rubio-b6b8d4319d4291dde47084baa624c795</link>
-<pubDate>Sat, 20 Jun 2026 07:11:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ethiopia’s ruling party retains parliamentary majority in election marred by insecurity]]></title>
-<link>https://apnews.com/article/ethiopia-election-abiy-ahmed-e74f12119a40465e31f4d18941dbf89b</link>
-<pubDate>Sun, 21 Jun 2026 17:59:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,27 +107,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazen attack on Niger’s airport shows jihadis are expanding to cities in Africa’s Sahel]]></title>
+<link>https://apnews.com/article/niger-jihadi-attacks-sahel-c92e70d0148bf54f08c3e46b7de52b22</link>
+<pubDate>Fri, 19 Jun 2026 22:07:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Heat, wind and drought conditions spark wildfires in US West]]></title>
+<link>https://apnews.com/article/wildfire-evacuations-utah-colorado-florida-red-flag-66c8471df83ccc9663b746511b7ffd17</link>
+<pubDate>Sun, 21 Jun 2026 19:44:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[In Taylor Swift’s beach town, every clue becomes a wedding rumor]]></title>
+<link>https://apnews.com/article/taylor-swift-wedding-rhode-island-c14fe03bde7fea457e99745bf28ee96c</link>
+<pubDate>Sun, 21 Jun 2026 19:29:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Newly released video captures the aftermath of a fatal teen stabbing at a Texas track meet]]></title>
+<link>https://apnews.com/article/track-stabbing-texas-bodycam-video-1c746e7e118c6a0e8fa48f5a411b1cf3</link>
+<pubDate>Sat, 20 Jun 2026 21:58:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump tries to blame Reflecting Pool woes on vandalism, without offering substantiation]]></title>
 <link>https://apnews.com/article/trump-reflecting-pool-paint-algae-6b7b499ada2701a34bc6bc380013ad04</link>
 <pubDate>Sat, 20 Jun 2026 17:35:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents]]></title>
-<link>https://apnews.com/article/extreme-heat-grand-canyon-8ab303cc459a96503c46708bfc12d262</link>
-<pubDate>Sun, 21 Jun 2026 01:43:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Utah marks a year of battling measles, with no clear end in sight]]></title>
-<link>https://apnews.com/article/measles-utah-outbreak-mmr-vaccine-a38602421ad658dfff468d9df0175cdc</link>
-<pubDate>Sat, 20 Jun 2026 17:20:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[LA Mayor Bass declares emergency to secure resources to help fight warehouse fire]]></title>
-<link>https://apnews.com/article/warehouse-fire-air-quality-emergency-2cdb983aa6738b3e87feccbd91e3579b</link>
-<pubDate>Sun, 21 Jun 2026 01:28:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -182,6 +182,12 @@
 <title><![CDATA[Gill and Kishan hit centuries to help India clinch ODI series against Afghanistan]]></title>
 <link>https://apnews.com/article/india-afghanistan-cricket-odi-5678d981f465e3664a9e71b5859a93b0</link>
 <pubDate>Wed, 17 Jun 2026 19:47:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Colombians choose between an outsider and a progressive in a presidential runoff election, in photos]]></title>
+<link>https://apnews.com/photo-gallery/photos-colombia-presidential-election-runoff-6fa5250ff255236a0b6a40d7bea5ce42</link>
+<pubDate>Sun, 21 Jun 2026 19:44:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -263,6 +269,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba pushes through sweeping free-market reforms in biggest economic shift since the revolution]]></title>
+<link>https://apnews.com/article/cuba-economic-reforms-us-embargo-diaz-canel-trump-rubio-b6b8d4319d4291dde47084baa624c795</link>
+<pubDate>Sun, 21 Jun 2026 19:29:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Authorities find 4 bodies outside Mexico City while searching for a missing American]]></title>
 <link>https://apnews.com/article/mexico-missing-couple-disappeared-3f253a28297bf1f2626813c2cab3af90</link>
 <pubDate>Fri, 19 Jun 2026 23:58:23 -0000</pubDate>
@@ -299,6 +311,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Kim Gamel, a former veteran AP correspondent in Europe and the Middle East, dies]]></title>
+<link>https://apnews.com/article/kim-gamel-dies-ap-correspondent-iraq-libya-afghanistan-6e4ae3a01f4ed9f87b5cb87fae68c350</link>
+<pubDate>Sun, 21 Jun 2026 19:14:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mourners bury a 6-month-old Ebola victim in the Congo outbreak’s third orphanage death]]></title>
 <link>https://apnews.com/article/congo-ebola-bundibugyo-8eb4d2a8e23a8ff3c4cb77c8facb925e</link>
 <pubDate>Sat, 20 Jun 2026 13:52:07 -0000</pubDate>
@@ -329,12 +347,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Brazen attack on Niger’s airport shows jihadis are expanding to cities in Africa’s Sahel]]></title>
-<link>https://apnews.com/article/niger-jihadi-attacks-sahel-c92e70d0148bf54f08c3e46b7de52b22</link>
-<pubDate>Sun, 21 Jun 2026 17:14:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Photos show Nagas protesting against rising cases of sexual violence]]></title>
 <link>https://apnews.com/photo-gallery/india-protest-nagaland-photos-5c58be8e6deb51706ee5cf306f91d540</link>
 <pubDate>Fri, 19 Jun 2026 16:11:44 -0000</pubDate>
@@ -353,27 +365,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A conflict over cattle in Brazil’s Amazon highlights tensions for Indigenous peoples]]></title>
-<link>https://apnews.com/article/brazil-amazon-indigenous-cattle-bananal-island-3c889a4b84dc788177267cc6efe49133</link>
-<pubDate>Sat, 20 Jun 2026 06:56:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wyndham Clark builds 4-shot lead at US Open with lowest 36-hole score at Shinnecock]]></title>
-<link>https://apnews.com/article/us-open-shinnecock-hills-clark-92d9dcd5227361d0a694f3430e16f951</link>
-<pubDate>Sat, 20 Jun 2026 03:14:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Vance meets top Iranian officials as US looks to prod Iran to ‘turn over a new leaf’]]></title>
+<title><![CDATA[As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar]]></title>
 <link>https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963</link>
-<pubDate>Sun, 21 Jun 2026 17:59:48 -0000</pubDate>
+<pubDate>Sun, 21 Jun 2026 19:44:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The Latest: Vance and Iranian negotiators are in Switzerland for talks on deal’s details]]></title>
+<title><![CDATA[The Latest: Trump threats shake up US-Iran talks in Switzerland on deal’s details]]></title>
 <link>https://apnews.com/article/us-iran-talks-vance-trump-latest-21-june-2026-39f9632b4df3a61a07a2c271da1d5637</link>
-<pubDate>Sun, 21 Jun 2026 17:44:48 -0000</pubDate>
+<pubDate>Sun, 21 Jun 2026 19:29:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -401,6 +401,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli strikes in Gaza kill 6, including 2 children and an Al Jazeera cameraman]]></title>
+<link>https://apnews.com/article/israel-palestinians-hamas-war-gaza-strike-f45ace109972b8c36364e7a75cc9bb7f</link>
+<pubDate>Sun, 21 Jun 2026 19:14:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Analysis: A confident Iran is pressing its advantage, but challenges loom]]></title>
 <link>https://apnews.com/article/iran-strategy-us-war-israel-analysis-c3711f45fbb3a21723273e6156e4992e</link>
 <pubDate>Fri, 19 Jun 2026 16:11:44 -0000</pubDate>
@@ -416,12 +422,6 @@
 <title><![CDATA[Tyre in southern Lebanon marks Muharram holy month after destruction from Israel-Hezbollah war]]></title>
 <link>https://apnews.com/article/hezbollah-lebanon-tyre-muharram-ashoura-israel-d7909ff5c771d6f41a1ba28f8459b2bc</link>
 <pubDate>Sat, 20 Jun 2026 11:57:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kim Gamel, a former veteran AP correspondent in Europe and the Middle East, dies]]></title>
-<link>https://apnews.com/article/kim-gamel-dies-ap-correspondent-iraq-libya-afghanistan-6e4ae3a01f4ed9f87b5cb87fae68c350</link>
-<pubDate>Fri, 19 Jun 2026 20:10:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,9 +443,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A top banker tried to sway Pope Leo XIV on rare earth mining]]></title>
-<link>https://apnews.com/article/rare-earth-minerals-leo-mining-goldfajn-8a44b7e7f89fb84d77f2d6cf472d600d</link>
-<pubDate>Sat, 20 Jun 2026 11:42:54 -0000</pubDate>
+<title><![CDATA[How a COVID lockdown helped make an award-winning winemaker in South Africa]]></title>
+<link>https://apnews.com/article/wine-south-africa-vineyard-covid-5bd08f8d8d3bb5579c6304b39566d2cc</link>
+<pubDate>Sun, 21 Jun 2026 18:59:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,15 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[This woman ‘managed to not be bored’ during the COVID lockdown and planted a vineyard at home]]></title>
-<link>https://apnews.com/article/wine-south-africa-vineyard-covid-5bd08f8d8d3bb5579c6304b39566d2cc</link>
-<pubDate>Sun, 21 Jun 2026 16:59:48 -0000</pubDate>
+<title><![CDATA[Ethiopia’s ruling party retains parliamentary majority in election marred by insecurity]]></title>
+<link>https://apnews.com/article/ethiopia-election-abiy-ahmed-e74f12119a40465e31f4d18941dbf89b</link>
+<pubDate>Sun, 21 Jun 2026 18:44:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Newly released video captures the aftermath of a fatal teen stabbing at a Texas track meet]]></title>
-<link>https://apnews.com/article/track-stabbing-texas-bodycam-video-1c746e7e118c6a0e8fa48f5a411b1cf3</link>
-<pubDate>Sun, 21 Jun 2026 01:43:48 -0000</pubDate>
+<title><![CDATA[7 killed and dozens injured following series of weekend shootings in Chicago]]></title>
+<link>https://apnews.com/article/chicago-shooting-trump-pritzker-25134a3c18efe7861b908a5393dca263</link>
+<pubDate>Sun, 21 Jun 2026 18:29:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
