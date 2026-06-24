@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Jun 2026 22:43:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 23:56:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Starmer says he’ll resign as UK prime minister, roiling British politics yet again]]></title>
 <link>https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Merlín the duck takes a trip to the stadium, but FIFA rules keep him out of Mexico match]]></title>
+<link>https://apnews.com/article/merlin-duck-mexico-world-cup-match-96ff5406779ee8b54a98e0b59681d818</link>
+<pubDate>Wed, 24 Jun 2026 23:56:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[President Donald Trump and the citizenship debate: A Tijuana story]]></title>
 <link>https://apnews.com/article/mexico-birthright-citizenship-haitians-supreme-court-trump-b87e79b570559f4b7445bcca0fdf2d8f</link>
 <pubDate>Wed, 24 Jun 2026 18:37:03 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Conservative Trump allies gain ground in Latin America]]></title>
 <link>https://apnews.com/article/elections-latin-america-argentina-colombia-ecuador-fc5e0224b70c578faaf5c56d2d2a1d82</link>
 <pubDate>Tue, 23 Jun 2026 18:46:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil detains Spanish citizen in the latest detention of a foreigner for racism]]></title>
-<link>https://apnews.com/article/brazil-police-racism-1df0a78fb78c814430b216c04b9bb9d2</link>
-<pubDate>Wed, 24 Jun 2026 18:22:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A powerful earthquake hits Venezuela, swaying buildings in the capital]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
-<pubDate>Wed, 24 Jun 2026 22:43:12 -0000</pubDate>
+<title><![CDATA[Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue]]></title>
+<link>https://apnews.com/article/brazil-petrobras-fossil-fuel-oil-climate-plan-magda-chambriand-1f8bf8cd500fbd25c766ed413d4afae4</link>
+<pubDate>Wed, 24 Jun 2026 23:56:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning]]></title>
+<link>https://apnews.com/article/japan-earthquake-tsunami-d55ef22e943aba927183ca016aa486e6</link>
+<pubDate>Wed, 24 Jun 2026 23:41:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -230,6 +236,12 @@
 <title><![CDATA[Dior moves Paris men’s show earlier as heat wave grips city]]></title>
 <link>https://apnews.com/article/paris-mens-dior-vips-fashion-heat-wave-45f86e09e42f7d1818678a9bf1ea7aaa</link>
 <pubDate>Wed, 24 Jun 2026 19:07:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil detains Spanish citizen in the latest detention of a foreigner for racism]]></title>
+<link>https://apnews.com/article/brazil-police-racism-1df0a78fb78c814430b216c04b9bb9d2</link>
+<pubDate>Wed, 24 Jun 2026 23:26:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An early heat wave hits Europe, in photos]]></title>
-<link>https://apnews.com/photo-gallery/early-heat-wave-hits-europe-photos-ef0b11be109243f6bbcb49afac75c51e</link>
-<pubDate>Tue, 23 Jun 2026 20:40:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Presidential candidate won’t accept Peru’s runoff vote unless overseas ballots are tossed]]></title>
-<link>https://apnews.com/article/peru-progressive-candidate-sanchez-keiko-8e591d2c2c6a86512de8ed18c60422bb</link>
-<pubDate>Wed, 24 Jun 2026 14:29:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Dispute over nuclear inspections shows how US and Iran are negotiating in public]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124</link>
 <pubDate>Wed, 24 Jun 2026 15:14:59 -0000</pubDate>
@@ -386,6 +386,12 @@
 <title><![CDATA[Trump-endorsed de la Espriella declared winner of Colombia’s presidential runoff election]]></title>
 <link>https://apnews.com/article/colombia-election-ivan-cepeda-concedes-de-la-espriella-e0a39ed59a9d432d318e11c1e0735f4e</link>
 <pubDate>Wed, 24 Jun 2026 22:43:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas]]></title>
+<link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
+<pubDate>Wed, 24 Jun 2026 23:56:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,6 +449,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled]]></title>
+<link>https://apnews.com/article/live-nation-ticketmaster-antitrust-trial-trump-4fccb96e1672fb5335ac1af58c4c51e8</link>
+<pubDate>Wed, 24 Jun 2026 23:41:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump refuses to sign bipartisan housing bill into law. What does that mean for homebuyers, renters?]]></title>
 <link>https://apnews.com/article/housing-costs-congress-affordable-trump-85db7cc9fead2730dda9cfa7706f8189</link>
 <pubDate>Wed, 24 Jun 2026 21:58:13 -0000</pubDate>
@@ -458,12 +470,6 @@
 <title><![CDATA[US stocks end mixed, weighed down by more losses for tech giants]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-us-iran-oil-b631564d3b359644eda586b047c9bcf0</link>
 <pubDate>Wed, 24 Jun 2026 21:06:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[IRS did better than expected in tax season after slashing staff, except on the phone, watchdog says]]></title>
-<link>https://apnews.com/article/treasury-irs-tax-audits-dec4ec8f4f8817d5d7a8d55490338fb0</link>
-<pubDate>Wed, 24 Jun 2026 14:29:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
