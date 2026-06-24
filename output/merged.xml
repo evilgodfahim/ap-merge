@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Jun 2026 15:15:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 17:23:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Starmer says he’ll resign as UK prime minister, roiling British politics yet again]]></title>
 <link>https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518</link>
@@ -35,21 +35,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence]]></title>
+<link>https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5</link>
+<pubDate>Wed, 24 Jun 2026 17:23:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iranian agents lived in Australia before directing attacks on Sydney and Melbourne, spy chief says]]></title>
 <link>https://apnews.com/article/australia-iran-attacks-sydney-melbourne-d757a2bc2aa540ddff9f6164343e7705</link>
 <pubDate>Wed, 24 Jun 2026 15:14:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli strikes leave Lebanon’s ancient coastal city of Tyre shaken]]></title>
-<link>https://apnews.com/article/lebanon-tyre-israel-hezbollah-war-history-45e1b0e6ec22abc6b60bb9be0738eefb</link>
-<pubDate>Wed, 24 Jun 2026 12:12:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[European heat wave triggers health warnings from London to Milan as temperatures rise even higher]]></title>
+<title><![CDATA[Western Europe bakes under a ‘heat dome’ as temperatures climb and authorities warn of health risks]]></title>
 <link>https://apnews.com/article/high-temperatures-heat-heat-dome-be7a9d14b03d482aca406fc09fa1757f</link>
-<pubDate>Wed, 24 Jun 2026 11:57:45 -0000</pubDate>
+<pubDate>Wed, 24 Jun 2026 17:08:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A moderate earthquake rocks Northern California, but no immediate reports of damage or injuries]]></title>
+<link>https://apnews.com/article/earthquake-northern-california-d49d72ec80d149b2fcd4c9b9ae84b37d</link>
+<pubDate>Wed, 24 Jun 2026 16:53:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New York sweep by Israel critics shines light on a fraught issue for Democrats]]></title>
 <link>https://apnews.com/article/mamdani-democrats-new-york-israel-palestine-01de0690f2fb99e89cb40817b7da0f66</link>
 <pubDate>Wed, 24 Jun 2026 11:42:45 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Trump turns America 250 kickoff into a campaign-style rally on the National Mall]]></title>
 <link>https://apnews.com/article/trump-america-250-rally-75e2bb4f4d2b3f7ab8cdddb86879bec7</link>
 <pubDate>Wed, 24 Jun 2026 13:59:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Michigan Senate candidate accuses Trump of keeping Canada-US bridge closed to help donor]]></title>
-<link>https://apnews.com/article/bridge-trump-donor-closed-michigan-senate-mcmorrow-2a1c14928541644355429bc9373dfc84</link>
-<pubDate>Wed, 24 Jun 2026 11:27:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,24 @@
 <title><![CDATA[India thumps the Dutch and Australia routs Bangladesh at Women’s T20 World Cup]]></title>
 <link>https://apnews.com/article/women-t20-world-cup-australia-india-southafrica-c0e6d12475d3b458c9d543259494e77a</link>
 <pubDate>Thu, 18 Jun 2026 04:14:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil detains Spanish citizen in the latest detention of foreigners for racism]]></title>
+<link>https://apnews.com/article/brazil-police-racism-1df0a78fb78c814430b216c04b9bb9d2</link>
+<pubDate>Wed, 24 Jun 2026 17:23:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan police rescue French woman, 5 children after decade of alleged captivity]]></title>
+<link>https://apnews.com/article/pakistan-french-woman-recovered-domestic-abuse-dcd3bc78a24fb03ef5ddef8e8cbce1bb</link>
+<pubDate>Wed, 24 Jun 2026 17:08:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-8c063ad9a8004715a78f5228c7b25606</link>
+<pubDate>Wed, 24 Jun 2026 16:53:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,24 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Armani’s heirs carry the vision forward as the house faces its next chapter]]></title>
-<link>https://apnews.com/article/giorgio-armani-legacy-milan-fashion-75d09b8d0a12252f96384852a330ebca</link>
-<pubDate>Tue, 23 Jun 2026 16:45:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Supreme Court sides with Trump administration in green card holders case]]></title>
-<link>https://apnews.com/article/supreme-court-trump-immigration-b9ea1079296c0d7be844213986f96e6f</link>
-<pubDate>Wed, 24 Jun 2026 02:07:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Supreme Court OKs Exxon Mobil lawsuit over Cuban property seized by Fidel Castro’s government]]></title>
-<link>https://apnews.com/article/supreme-court-cuba-exxon-castro-3872baa7bbdf40d78a918e4dd013797d</link>
-<pubDate>Tue, 23 Jun 2026 18:01:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Dispute over nuclear inspections shows how US and Iran are negotiating in public]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124</link>
 <pubDate>Wed, 24 Jun 2026 15:14:59 -0000</pubDate>
@@ -401,21 +401,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Man arrested on suspicion of collecting bones from graves in Hungary]]></title>
-<link>https://apnews.com/video/man-arrested-on-suspicion-of-collecting-bones-from-graves-in-hungary-b945d4f2fef24e068e9ccc4a2306e322</link>
-<pubDate>Wed, 24 Jun 2026 02:08:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[A look at the quick succession of British prime ministers in the past 10 years]]></title>
 <link>https://apnews.com/video/a-look-at-the-quick-succession-of-british-prime-ministers-in-the-past-10-years-efde955a3524493cbab89fbe227cd526</link>
 <pubDate>Tue, 23 Jun 2026 01:12:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Independent UN-commissioned experts accuse Israel of targeting Gaza children, repeat genocide claim]]></title>
+<title><![CDATA[UN-commissioned experts accuse Israel of targeting Gaza children, repeat genocide claim]]></title>
 <link>https://apnews.com/article/israel-targeting-children-gaza-war-united-nations-9a22ebcfcf77b7c828342d6bea776e2c</link>
-<pubDate>Wed, 24 Jun 2026 14:59:59 -0000</pubDate>
+<pubDate>Wed, 24 Jun 2026 17:08:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,9 +425,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence]]></title>
-<link>https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5</link>
-<pubDate>Mon, 22 Jun 2026 16:10:11 -0000</pubDate>
+<title><![CDATA[Senior Islamic State leader killed by US airstrike on northwest Syria]]></title>
+<link>https://apnews.com/article/syria-centcom-airstrike-islamic-state-group-killed-f0f7ad6a89cb84d521955bc5ec88a955</link>
+<pubDate>Wed, 24 Jun 2026 16:53:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,15 +437,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[All the world’s a robot-staging ground for tech entrepreneurs building ‘physical AI’]]></title>
+<title><![CDATA[Tech entrepreneurs seeking the next AI frontier are pivoting from chatbots to ‘world models’]]></title>
 <link>https://apnews.com/article/ai-world-models-physical-embodied-ai-9bab5a3febad9832f55f8ada33de57b4</link>
-<pubDate>Wed, 24 Jun 2026 11:27:46 -0000</pubDate>
+<pubDate>Wed, 24 Jun 2026 16:38:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks edge higher as falling oil prices help take pressure off the market]]></title>
+<title><![CDATA[US stocks rise as falling oil prices ease pressure on the market]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-us-iran-oil-b631564d3b359644eda586b047c9bcf0</link>
-<pubDate>Wed, 24 Jun 2026 14:44:59 -0000</pubDate>
+<pubDate>Wed, 24 Jun 2026 16:23:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
