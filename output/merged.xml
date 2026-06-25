@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Jun 2026 23:56:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 02:41:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Starmer says he’ll resign as UK prime minister, roiling British politics yet again]]></title>
 <link>https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518</link>
@@ -65,9 +65,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Leader of secretive South Korean church arrested in election influence investigation]]></title>
+<title><![CDATA[North Korea’s Kim claims progress on nuclear-armed navy as new warship is placed into service]]></title>
+<link>https://apnews.com/article/north-korea-kim-jong-un-destroyer-nuclear-ab1896be64bd1e3e198104477b80109e</link>
+<pubDate>Thu, 25 Jun 2026 02:41:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Leader of secretive South Korean church arrested on suspicion of election influence]]></title>
 <link>https://apnews.com/article/south-korea-lee-shincheonji-church-arrest-5eba7b336642d66b79036e68e8946574</link>
-<pubDate>Wed, 24 Jun 2026 14:59:56 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 02:26:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine devotees honor St. John the Baptist with a mud-covered display of faith]]></title>
-<link>https://apnews.com/article/philippines-mud-festival-taong-putik-catholics-03ad4e91e0d11ff137b81874a128a513</link>
-<pubDate>Wed, 24 Jun 2026 08:55:02 -0000</pubDate>
+<title><![CDATA[Twin earthquakes strike Venezuela, in photos]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-earthquake-caracas-8ac96a783cd3c3b4312653806511d824</link>
+<pubDate>Thu, 25 Jun 2026 02:11:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[President Donald Trump and the citizenship debate: A Tijuana story]]></title>
 <link>https://apnews.com/article/mexico-birthright-citizenship-haitians-supreme-court-trump-b87e79b570559f4b7445bcca0fdf2d8f</link>
 <pubDate>Wed, 24 Jun 2026 18:37:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Conservative Trump allies gain ground in Latin America]]></title>
-<link>https://apnews.com/article/elections-latin-america-argentina-colombia-ecuador-fc5e0224b70c578faaf5c56d2d2a1d82</link>
-<pubDate>Tue, 23 Jun 2026 18:46:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,15 +197,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue]]></title>
-<link>https://apnews.com/article/brazil-petrobras-fossil-fuel-oil-climate-plan-magda-chambriand-1f8bf8cd500fbd25c766ed413d4afae4</link>
-<pubDate>Wed, 24 Jun 2026 23:56:50 -0000</pubDate>
+<title><![CDATA[Cambodia’s Supreme Court to rule on treason appeal of 2 journalists jailed for photos]]></title>
+<link>https://apnews.com/article/cambodia-journalist-treason-supreme-court-appeal-474a70ca7e9e4681cfcf6069604fbc78</link>
+<pubDate>Thu, 25 Jun 2026 02:41:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning]]></title>
-<link>https://apnews.com/article/japan-earthquake-tsunami-d55ef22e943aba927183ca016aa486e6</link>
-<pubDate>Wed, 24 Jun 2026 23:41:50 -0000</pubDate>
+<title><![CDATA[Astronomers find biggest super-puff planets yet that are lighter than cotton candy]]></title>
+<link>https://apnews.com/article/super-puffs-cotton-candy-giant-light-planets-db1ebf1cb946e1c0bba67a5040bfc8a9</link>
+<pubDate>Thu, 25 Jun 2026 02:26:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[2 missing Chicago men found dead outside Mexico City, family confirms]]></title>
+<link>https://apnews.com/article/mexico-missing-chicago-couple-7bc83f2768a31ff56f125870ea839839</link>
+<pubDate>Thu, 25 Jun 2026 02:11:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue]]></title>
+<link>https://apnews.com/article/brazil-petrobras-fossil-fuel-oil-climate-plan-magda-chambriand-1f8bf8cd500fbd25c766ed413d4afae4</link>
+<pubDate>Wed, 24 Jun 2026 23:56:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -293,6 +305,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Philippine devotees honor St. John the Baptist with a mud-covered display of faith]]></title>
+<link>https://apnews.com/article/philippines-mud-festival-taong-putik-catholics-03ad4e91e0d11ff137b81874a128a513</link>
+<pubDate>Thu, 25 Jun 2026 01:56:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/see-world-vertical-top-photos-ap-photojournalists-ff60c68e9c1a4f589f10ddf17b16bdf3</link>
 <pubDate>Wed, 24 Jun 2026 09:55:03 -0000</pubDate>
@@ -359,24 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration touts Iran deal as a payday for US farmers, but Iran denies it]]></title>
-<link>https://apnews.com/article/us-iran-war-american-farmers-sanctions-frozen-assets-b86c166d146eb5555383f43a8c8bd505</link>
-<pubDate>Wed, 24 Jun 2026 08:55:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Goalllll! Messi mania overtakes Argentina as legend breaks scoring record]]></title>
-<link>https://apnews.com/article/argentina-leo-messi-tribute-world-cup-champion-cad9c7aeea718b4b1515630095df541f</link>
-<pubDate>Tue, 23 Jun 2026 21:10:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Leaders of four Central European countries meet in Hungary to reboot regional group]]></title>
-<link>https://apnews.com/article/central-european-leaders-meet-hungary-visegrad-summit-f0171d43c8aa5fbd2f285e42dffae190</link>
-<pubDate>Tue, 23 Jun 2026 20:55:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Dispute over nuclear inspections shows how US and Iran are negotiating in public]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124</link>
 <pubDate>Wed, 24 Jun 2026 15:14:59 -0000</pubDate>
@@ -389,9 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas]]></title>
+<title><![CDATA[Back-to-back powerful earthquakes hit Venezuela, causing widespread damage]]></title>
 <link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
-<pubDate>Wed, 24 Jun 2026 23:56:51 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 02:41:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning]]></title>
+<link>https://apnews.com/article/japan-earthquake-tsunami-d55ef22e943aba927183ca016aa486e6</link>
+<pubDate>Thu, 25 Jun 2026 02:26:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -401,15 +407,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s latest long-range strikes on Russia hit a major natural gas plant and satellite centers]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-crimea-attacks-6076b6666c3312bbf9b4b8d875a52513</link>
-<pubDate>Wed, 24 Jun 2026 11:57:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UN nuclear agency boss says that inspectors will visit Iran’s nuclear sites]]></title>
-<link>https://apnews.com/video/un-nuclear-agency-boss-says-that-inspectors-will-visit-irans-nuclear-sites-27369fc4d7a449409aeade6e95b3bfa6</link>
-<pubDate>Wed, 24 Jun 2026 22:28:13 -0000</pubDate>
+<title><![CDATA[European heatwave triggers health warnings from London to Milan as temperatures rise even higher]]></title>
+<link>https://apnews.com/video/european-heatwave-triggers-health-warnings-from-london-to-milan-as-temperatures-rise-even-higher-533ecdce042e4c70a7278033aeb7d0d2</link>
+<pubDate>Thu, 25 Jun 2026 02:11:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +473,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea’s Kim claims progress on nuclear-armed navy as new warship is placed into service]]></title>
-<link>https://apnews.com/article/north-korea-kim-jong-un-destroyer-nuclear-ab1896be64bd1e3e198104477b80109e</link>
-<pubDate>Wed, 24 Jun 2026 01:53:00 -0000</pubDate>
+<title><![CDATA[Ukraine’s latest long-range strikes on Russia hit a major natural gas plant and satellite centers]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-crimea-attacks-6076b6666c3312bbf9b4b8d875a52513</link>
+<pubDate>Wed, 24 Jun 2026 11:57:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[How one Indian textile worker copes with extreme heat in factory work and cramped living quarters]]></title>
+<link>https://apnews.com/article/india-textile-climate-change-heat-workers-factory-3fd96aa31437eef62b9120af23d96634</link>
+<pubDate>Thu, 25 Jun 2026 01:56:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
