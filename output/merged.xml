@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Jun 2026 10:09:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 12:35:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Back-to-back powerful earthquakes hit Venezuela, causing widespread damage]]></title>
 <link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
@@ -17,6 +17,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Twin earthquakes strike Venezuela, in photos]]></title>
+<link>https://apnews.com/photo-gallery/venezuela-earthquake-caracas-8ac96a783cd3c3b4312653806511d824</link>
+<pubDate>Thu, 25 Jun 2026 02:11:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexico’s president seeks to restart oil shipments to Cuba as island’s crises deepen]]></title>
 <link>https://apnews.com/article/mexico-oil-fuel-shipments-cuba-petroleum-1c4e1b2c17185cd3e3e924c6dd963b0c</link>
 <pubDate>Mon, 22 Jun 2026 19:06:58 -0000</pubDate>
@@ -26,12 +32,6 @@
 <title><![CDATA[Ukraine’s latest long-range strikes on Russia hit a major natural gas plant and satellite centers]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-crimea-attacks-6076b6666c3312bbf9b4b8d875a52513</link>
 <pubDate>Thu, 25 Jun 2026 06:23:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Twin earthquakes strike Venezuela, in photos]]></title>
-<link>https://apnews.com/photo-gallery/venezuela-earthquake-caracas-8ac96a783cd3c3b4312653806511d824</link>
-<pubDate>Thu, 25 Jun 2026 02:11:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,27 +125,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Once roiled by sexual abuse issue, Southern Baptist leadership now downplays its extent]]></title>
+<link>https://apnews.com/article/southern-baptists-sbc-clergy-sex-abuse-3725c718933fdfdf60a24e2997e0dae5</link>
+<pubDate>Thu, 25 Jun 2026 12:35:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Dozens of states could face new costs because of high error rates in SNAP food aid]]></title>
+<link>https://apnews.com/article/snap-food-aid-error-rates-4fa06549e3ec2bd1a1c665b1985cefea</link>
+<pubDate>Thu, 25 Jun 2026 12:20:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Vermont is the first state to ban paraquat, a weed killer linked to Parkinson’s disease]]></title>
+<link>https://apnews.com/article/vermont-paraquat-ban-pesticide-parkinsons-disease-f4c363e1ac7f702a5223548a1eedfd2d</link>
+<pubDate>Thu, 25 Jun 2026 12:05:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rural area in Northern California jolted by its biggest quake since 1940]]></title>
 <link>https://apnews.com/article/earthquake-northern-california-d49d72ec80d149b2fcd4c9b9ae84b37d</link>
 <pubDate>Wed, 24 Jun 2026 16:52:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Camp Mystic files for bankruptcy after catastrophic Texas floods killed 28 people at the girls’ camp]]></title>
-<link>https://apnews.com/article/camp-mystic-bankruptcy-61263980faaa31857e6f3da0e83aee41</link>
-<pubDate>Wed, 24 Jun 2026 17:22:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Man convicted of fatally stabbing his wife set to be ninth person executed this year in Florida]]></title>
-<link>https://apnews.com/article/florida-execution-dusty-ray-spencer-25bf0b98ffc4a25ebcaf1d2a408c6e82</link>
-<pubDate>Thu, 25 Jun 2026 09:09:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Norman Rockwell people-watched in the West Wing lobby. Now those sketches are on public display]]></title>
-<link>https://apnews.com/article/rockwell-sketches-white-house-display-3dbcb15dcf24c63b9d468605c547129f</link>
-<pubDate>Thu, 25 Jun 2026 08:54:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,24 @@
 <title><![CDATA[India thumps the Dutch and Australia routs Bangladesh at Women’s T20 World Cup]]></title>
 <link>https://apnews.com/article/women-t20-world-cup-australia-india-southafrica-c0e6d12475d3b458c9d543259494e77a</link>
 <pubDate>Thu, 18 Jun 2026 04:14:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[What’s offside? And all your other World Cup questions, answered]]></title>
+<link>https://apnews.com/article/world-cup-whats-offside-9dc0ca3b2ee1d2b9761498687b532a0c</link>
+<pubDate>Thu, 25 Jun 2026 12:35:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A cliff collapses near Biarritz lighthouse, killing a diver and leaving another missing]]></title>
+<link>https://apnews.com/article/france-biarritz-cliff-collapse-lighthouse-divers-dace2cd930190776e6274559eb8793b4</link>
+<pubDate>Thu, 25 Jun 2026 12:20:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Norman Rockwell people-watched in the West Wing lobby. Now those sketches are on public display]]></title>
+<link>https://apnews.com/article/rockwell-sketches-white-house-display-3dbcb15dcf24c63b9d468605c547129f</link>
+<pubDate>Thu, 25 Jun 2026 12:05:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,33 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[See the world in vertical: Top photos by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/see-world-vertical-top-photos-ap-photojournalists-ff60c68e9c1a4f589f10ddf17b16bdf3</link>
-<pubDate>Wed, 24 Jun 2026 09:55:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[German railway says outage that halted all trains was caused by scheduled work]]></title>
-<link>https://apnews.com/article/germany-trains-railway-outage-deutsche-bahn-613bd4a9e60bb4b41e7987c702790168</link>
-<pubDate>Wed, 24 Jun 2026 11:27:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[These traditionalist Catholics are defying Pope Leo XIV, and embracing their outsider status]]></title>
-<link>https://apnews.com/article/vatican-traditionalist-sspx-pope-7cb0c0f89e527f1fe732f1b157cf7598</link>
-<pubDate>Wed, 24 Jun 2026 09:40:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Powerful earthquakes rock Venezuela, killing at least 32 people. Death toll is expected to rise]]></title>
+<title><![CDATA[At least 164 dead and 971 injured after powerful quakes rock Venezuela, acting president says]]></title>
 <link>https://apnews.com/article/venezuela-earthquake-caracas-rodriguez-aid-0a62e6fc9feb5202a750c4fbb11a6aec</link>
-<pubDate>Thu, 25 Jun 2026 10:09:33 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 12:35:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An oil tanker navigates the Strait of Hormuz despite threats from Iran’s Revolutionary Guard]]></title>
+<title><![CDATA[Oil tankers navigate the Strait of Hormuz despite threats from Iran’s Revolutionary Guard]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f</link>
-<pubDate>Thu, 25 Jun 2026 06:23:41 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 12:20:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Powerful 7.2-magnitude earthquake strikes off northern Japan. No tsunami warning]]></title>
+<title><![CDATA[A powerful 7.2 magnitude earthquake strikes off northern Japan. No tsunami warning is triggered]]></title>
 <link>https://apnews.com/article/japan-earthquake-tsunami-d55ef22e943aba927183ca016aa486e6</link>
-<pubDate>Thu, 25 Jun 2026 06:08:41 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 12:05:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -407,9 +407,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[European heatwave triggers health warnings from London to Milan as temperatures rise even higher]]></title>
-<link>https://apnews.com/video/european-heatwave-triggers-health-warnings-from-london-to-milan-as-temperatures-rise-even-higher-533ecdce042e4c70a7278033aeb7d0d2</link>
-<pubDate>Thu, 25 Jun 2026 02:11:11 -0000</pubDate>
+<title><![CDATA[Chaos in Venezuelan airport after massive earthquakes]]></title>
+<link>https://apnews.com/video/chaos-in-venezuelan-airport-after-massive-earthquakes-4f777e6ff98146f3ad96ac388ddd3f39</link>
+<pubDate>Thu, 25 Jun 2026 11:50:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,9 +449,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled]]></title>
-<link>https://apnews.com/article/live-nation-ticketmaster-antitrust-trial-trump-4fccb96e1672fb5335ac1af58c4c51e8</link>
-<pubDate>Wed, 24 Jun 2026 23:41:51 -0000</pubDate>
+<title><![CDATA[AI is plowing through the workplace. This new group wants to help people adapt and have jobs]]></title>
+<link>https://apnews.com/article/ai-job-losses-education-training-929986c149d415cd2ef4dc3eaf66ca8c</link>
+<pubDate>Thu, 25 Jun 2026 11:35:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Americans are inundated with suspected scams. New polling shows why few victims report them]]></title>
+<link>https://apnews.com/article/poll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d</link>
+<pubDate>Thu, 25 Jun 2026 04:53:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Americans are inundated with suspected scams. New polling shows why few victims report them]]></title>
-<link>https://apnews.com/article/poll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d</link>
-<pubDate>Thu, 25 Jun 2026 04:53:41 -0000</pubDate>
+<title><![CDATA[Zelenskyy says Russia is shifting air defenses to Moscow and other key sites after drone strikes]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drones-crimea-trump-25dc47db4d1a3b2908b8f060434aa765</link>
+<pubDate>Thu, 25 Jun 2026 11:20:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-chief of staff to former NYC Mayor Eric Adams charged with taking bribes]]></title>
-<link>https://apnews.com/article/new-york-mayor-eric-adams-staff-bribery-be06c8266d66b2fa4b9d4e4e48e312e2</link>
-<pubDate>Wed, 24 Jun 2026 20:51:33 -0000</pubDate>
+<title><![CDATA[New Mexico governor calls for criminal probe of DEA allowing fentanyl shipments to hit streets]]></title>
+<link>https://apnews.com/article/fentanyl-dea-drugs-new-mexico-cb997b0097bba3ee9d5a98272ae65401</link>
+<pubDate>Thu, 25 Jun 2026 11:05:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
