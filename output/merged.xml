@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Jun 2026 00:03:37 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Back-to-back powerful earthquakes hit Venezuela, causing widespread damage]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
-<pubDate>Thu, 25 Jun 2026 06:38:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sat, 27 Jun 2026 04:31:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ukraine unleashes one of its heaviest drone bombardments of Russia]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3</link>
 <pubDate>Fri, 26 Jun 2026 14:19:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Back-to-back powerful earthquakes hit Venezuela, causing widespread damage]]></title>
+<link>https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814</link>
+<pubDate>Thu, 25 Jun 2026 06:38:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Deniz Undav’s World Cup success for Germany lifts Yazidi and Kurdish pride]]></title>
-<link>https://apnews.com/article/deniz-undav-yazidi-kurdish-heritage-germany-b943bab9dcceee13eafc4cb662d97919</link>
-<pubDate>Fri, 26 Jun 2026 18:06:14 -0000</pubDate>
+<title><![CDATA[People aren’t the only ones hit by heat. What to do if you see wildlife affected by hot temperatures]]></title>
+<link>https://apnews.com/article/climate-europe-high-heat-temperatures-humidity-cooling-wildlife-9cc31ea13779b76ec50fa94dfa021312</link>
+<pubDate>Sat, 27 Jun 2026 04:31:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Heavy rain pounds western Japan as 2 tropical storms approach]]></title>
+<link>https://apnews.com/article/japan-heavy-rainstorm-d88fc1b32ab24c13046182344b878624</link>
+<pubDate>Sat, 27 Jun 2026 04:16:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,27 +83,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[How one Indian textile worker copes with extreme heat in factory work and cramped living quarters]]></title>
-<link>https://apnews.com/article/india-textile-climate-change-heat-workers-factory-3fd96aa31437eef62b9120af23d96634</link>
-<pubDate>Fri, 26 Jun 2026 04:59:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuelans sleep in cars and under trees as they question where they’ll live after the earthquakes]]></title>
 <link>https://apnews.com/article/venezuela-earthquake-homes-buildings-shelter-e9dbe2a6b0be205646b29754dfed3774</link>
 <pubDate>Fri, 26 Jun 2026 20:14:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mexico’s World Cup joy muted in regions gripped by cartel violence]]></title>
-<link>https://apnews.com/article/world-cup-mexico-cartel-violence-a57e6d07b88ec4f24bd1988eb9e71a26</link>
-<pubDate>Fri, 26 Jun 2026 04:44:38 -0000</pubDate>
+<title><![CDATA[Photos show rescue efforts across earthquake-ravaged Venezuela]]></title>
+<link>https://apnews.com/photo-gallery/photos-venezuela-earthquake-missing-rescue-searches-b9bfceacb7b53f06e2e0b54b85461b26</link>
+<pubDate>Sat, 27 Jun 2026 04:01:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Things to know about Venezuela’s powerful earthquakes]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c</link>
-<pubDate>Fri, 26 Jun 2026 17:36:14 -0000</pubDate>
+<title><![CDATA[Mexico’s World Cup joy muted in regions gripped by cartel violence]]></title>
+<link>https://apnews.com/article/world-cup-mexico-cartel-violence-a57e6d07b88ec4f24bd1988eb9e71a26</link>
+<pubDate>Fri, 26 Jun 2026 04:44:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,15 +149,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Touring Trump’s Washington: How the president is putting his imprint on the nation’s capital]]></title>
-<link>https://apnews.com/article/america-250-trump-renovations-washington-dc-tour-7a01986959f79d0153c3225f43a375f3</link>
-<pubDate>Fri, 26 Jun 2026 16:51:14 -0000</pubDate>
+<title><![CDATA[Man with same name as US Sen. Dan Sullivan is eligible for Alaska’s primary ballot, judge rules]]></title>
+<link>https://apnews.com/article/alaska-senate-dan-sullivan-primary-ballot-01906fdc5d1eadf2e9b69c98baf1ec9a</link>
+<pubDate>Sat, 27 Jun 2026 03:46:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-national security adviser John Bolton pleads guilty to illegally retaining classified information]]></title>
-<link>https://apnews.com/article/bolton-justice-department-trump-classified-information-e95c29e7f8659d8b4b01d44148ae1ab4</link>
-<pubDate>Fri, 26 Jun 2026 15:30:30 -0000</pubDate>
+<title><![CDATA[Touring Trump’s Washington: How the president is putting his imprint on the nation’s capital]]></title>
+<link>https://apnews.com/article/america-250-trump-renovations-washington-dc-tour-7a01986959f79d0153c3225f43a375f3</link>
+<pubDate>Fri, 26 Jun 2026 16:51:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[How one Indian textile worker copes with extreme heat in factory work and cramped living quarters]]></title>
+<link>https://apnews.com/article/india-textile-climate-change-heat-workers-factory-3fd96aa31437eef62b9120af23d96634</link>
+<pubDate>Fri, 26 Jun 2026 04:59:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[India’s Cockroach Party supporters bang plates to call for education minister’s resignation]]></title>
 <link>https://apnews.com/article/india-cockroach-party-exam-leaks-protest-05fc69ad9aa4c59486acb734af5baa64</link>
 <pubDate>Sun, 21 Jun 2026 09:23:48 -0000</pubDate>
@@ -203,9 +209,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Climate-driven heat in India’s textile factories stifles workers but coolers and ventilation help]]></title>
-<link>https://apnews.com/article/heat-textile-climate-change-factories-eab8494242ecfdc108e12685535a4df3</link>
-<pubDate>Sat, 20 Jun 2026 15:24:59 -0000</pubDate>
+<title><![CDATA[Detienen a 4 policías y 2 civiles por el secuestro de una periodista en el este de México]]></title>
+<link>https://apnews.com/article/mexico-periodista-roxana-guzman-veracruz-f5829cb494b716dc26930f4170f8ea10</link>
+<pubDate>Sat, 27 Jun 2026 04:31:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,12 +257,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Heavy rain pounds western Japan as 2 tropical storms approach]]></title>
-<link>https://apnews.com/article/japan-heavy-rainstorm-d88fc1b32ab24c13046182344b878624</link>
-<pubDate>Fri, 26 Jun 2026 11:28:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Pope Leo XIV says war ‘never blessed by God’ as he opens meeting of world’s cardinals]]></title>
 <link>https://apnews.com/article/vatican-pope-cardinals-war-673053928ba66a274b5bef6e921703bf</link>
 <pubDate>Fri, 26 Jun 2026 09:29:30 -0000</pubDate>
@@ -299,9 +299,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[‘Pride Match’ organizers highlight Seattle’s inclusivity amid opposition from Iran and Egypt]]></title>
+<title><![CDATA[Rainbow flags dot Iran and Egypt’s match as Seattle celebrates Pride during the World Cup]]></title>
 <link>https://apnews.com/article/pride-match-world-cup-iran-egypt-f3b26a6757a60213712523e1116f5bcd</link>
-<pubDate>Fri, 26 Jun 2026 10:58:10 -0000</pubDate>
+<pubDate>Sat, 27 Jun 2026 04:16:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -314,6 +314,18 @@
 <title><![CDATA[Greece bets on space technology to contain wildfires in a global first]]></title>
 <link>https://apnews.com/article/greece-wildfires-satellites-europe-artificial-intelligence-8fe0df5f61f336ef59403f189a5a29de</link>
 <pubDate>Fri, 26 Jun 2026 16:00:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Most of Wall Street rises, but sinking AI stocks send it lower for the week]]></title>
+<link>https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845</link>
+<pubDate>Sat, 27 Jun 2026 04:01:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelans take search for the missing into their own hands as earthquake death toll climbs]]></title>
+<link>https://apnews.com/article/venezuela-caracas-guaira-earthquakes-dead-injured-missing-b07aff1cb886cfe616a0e89b3687b8b8</link>
+<pubDate>Sat, 27 Jun 2026 03:46:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,6 +359,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Things to know about Venezuela’s powerful earthquakes]]></title>
+<link>https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c</link>
+<pubDate>Sat, 27 Jun 2026 03:31:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What to know about earthquake early warning systems]]></title>
 <link>https://apnews.com/article/earthquake-warning-systems-venezuela-california-japan-alert-753714b55a8d8fd7424658717114b1f5</link>
 <pubDate>Fri, 26 Jun 2026 13:19:45 -0000</pubDate>
@@ -371,39 +389,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The 2 earthquakes that struck Venezuela are known as a ‘doublet.’ Here’s how they happen]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-doublet-f61cc9b92ba4e0735cfed6391c21e4fd</link>
-<pubDate>Fri, 26 Jun 2026 19:44:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Carney says Canada should reopen embassies in Iran and earthquake-stricken Venezuela]]></title>
-<link>https://apnews.com/article/carney-canada-iran-venezulea-embassies-aecab722bb7ede28234debe572f7c689</link>
-<pubDate>Fri, 26 Jun 2026 04:14:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio hails US-Gulf Arab unity despite that region’s persistent concerns about Iran agreement]]></title>
-<link>https://apnews.com/article/gcc-rubio-iran-war-trump-gulf-94b29f1187284b22b0fba02dfa48acab</link>
-<pubDate>Thu, 25 Jun 2026 18:00:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump threatens 100% tax on European imports if countries impose tax on digital services]]></title>
 <link>https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96</link>
 <pubDate>Fri, 26 Jun 2026 18:21:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelans take search for the missing into their own hands as earthquake death toll climbs]]></title>
-<link>https://apnews.com/article/venezuela-caracas-guaira-earthquakes-dead-injured-missing-b07aff1cb886cfe616a0e89b3687b8b8</link>
-<pubDate>Fri, 26 Jun 2026 20:14:54 -0000</pubDate>
+<title><![CDATA[Crucial window for rescuing survivors narrows as Venezuela enters third day after deadly twin quakes]]></title>
+<link>https://apnews.com/article/earthquakes-venezuela-rescues-survivors-92a3d6c13c0f9af9c1bfb4ff6d041254</link>
+<pubDate>Sat, 27 Jun 2026 04:31:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show rescue efforts across earthquake-ravaged Venezuela]]></title>
-<link>https://apnews.com/photo-gallery/photos-venezuela-earthquake-missing-rescue-searches-b9bfceacb7b53f06e2e0b54b85461b26</link>
-<pubDate>Fri, 26 Jun 2026 18:06:15 -0000</pubDate>
+<title><![CDATA[Older buildings and substandard construction left Venezuela vulnerable to earthquakes]]></title>
+<link>https://apnews.com/article/earthquake-venezuela-shoddy-construction-old-buildings-6ef83f995a311c03dbbbba413d046fa5</link>
+<pubDate>Sat, 27 Jun 2026 04:16:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,15 +431,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US strikes Iran in response to a drone attack on a ship that Trump says violated ceasefire]]></title>
+<title><![CDATA[US strikes Iran in response to a drone attack on a ship]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296</link>
-<pubDate>Fri, 26 Jun 2026 22:58:07 -0000</pubDate>
+<pubDate>Sat, 27 Jun 2026 04:01:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Mediators worked through threats and strikes to broker the US-Iran deal, and challenges remain]]></title>
 <link>https://apnews.com/article/us-iran-war-mediation-peace-deal-pakistan-qatar-33e3fd72a890ff28e1b8401b51a25aa3</link>
 <pubDate>Fri, 26 Jun 2026 13:49:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Deniz Undav’s World Cup success for Germany lifts Yazidi and Kurdish pride]]></title>
+<link>https://apnews.com/article/deniz-undav-yazidi-kurdish-heritage-germany-b943bab9dcceee13eafc4cb662d97919</link>
+<pubDate>Fri, 26 Jun 2026 17:36:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,21 +467,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[There’s a beef about beef at the World Cup, as Argentina fans pour into Texas]]></title>
+<link>https://apnews.com/article/world-cup-beef-argentina-texas-a1987e3fba58164507382fcbf22c6566</link>
+<pubDate>Sat, 27 Jun 2026 03:46:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Former executive sues Meta over attempts to ‘silence’ her memoir, ‘Careless People’]]></title>
 <link>https://apnews.com/article/meta-wynnwilliams-lawsuit-silence-book-careless-people-652de34608da69be46f7e679b21da49b</link>
 <pubDate>Thu, 25 Jun 2026 23:16:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI limits its latest ChatGPT product to Trump-approved customers during cybersecurity review]]></title>
+<title><![CDATA[OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review]]></title>
 <link>https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa</link>
-<pubDate>Fri, 26 Jun 2026 17:21:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Most of Wall Street rises, but sinking AI stocks send it lower for the week]]></title>
-<link>https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845</link>
-<pubDate>Fri, 26 Jun 2026 19:44:54 -0000</pubDate>
+<pubDate>Sat, 27 Jun 2026 03:31:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
