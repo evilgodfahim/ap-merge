@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Jun 2026 09:54:49 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 11:18:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ukraine unleashes one of its heaviest drone bombardments of Russia]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3</link>
@@ -35,15 +35,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel releases classified documents detailing 1976 Entebbe raid to free more than 100 hostages]]></title>
-<link>https://apnews.com/article/israel-classified-1976-raid-entebbe-airport-hostages-8e632020018bb4904273aa610f45d069</link>
-<pubDate>Fri, 26 Jun 2026 18:21:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f</link>
 <pubDate>Fri, 26 Jun 2026 09:29:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli troops fatally shoot a Palestinian in the occupied West Bank]]></title>
+<link>https://apnews.com/article/israel-palestinians-west-bank-cb6ce9d20be39d1418e5e91943d90ae3</link>
+<pubDate>Fri, 26 Jun 2026 16:30:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies]]></title>
+<link>https://apnews.com/article/andy-burnham-prime-minister-starmer-uk-politics-3a7418c6bac69d631a3b25faa83936d9</link>
+<pubDate>Sat, 27 Jun 2026 11:18:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity]]></title>
-<link>https://apnews.com/article/nato-summit-saceur-russia-trump-3294611611a4691e26b27ce65712c67d</link>
-<pubDate>Fri, 26 Jun 2026 11:58:09 -0000</pubDate>
+<title><![CDATA[Thousands of Vespas swarm Rome’s historic center to mark iconic scooter’s 80th anniversary]]></title>
+<link>https://apnews.com/article/vespa-italy-rome-80th-anniversary-colosseum-cd10e17362ad85818ceba5123ebc4e52</link>
+<pubDate>Sat, 27 Jun 2026 11:03:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Delayed rains bring water shortages to cities and uncertainty to farms across India]]></title>
+<link>https://apnews.com/article/mumbai-monsoons-india-rains-climate-change-8530d9e5a0a69903839a2150c9f3875d</link>
+<pubDate>Sat, 27 Jun 2026 10:48:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -68,12 +80,6 @@
 <title><![CDATA[Myanmar torches $600 million worth of illegal drugs]]></title>
 <link>https://apnews.com/article/myanmar-illegal-drugs-destruction-heroin-methamphetamine-6a124683394a8dffe7adea2bff1b9785</link>
 <pubDate>Fri, 26 Jun 2026 08:44:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[How one Indian textile worker copes with extreme heat in factory work and cramped living quarters]]></title>
-<link>https://apnews.com/article/india-textile-climate-change-heat-workers-factory-3fd96aa31437eef62b9120af23d96634</link>
-<pubDate>Fri, 26 Jun 2026 04:59:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[How to help those impacted by the Venezuela earthquakes]]></title>
 <link>https://apnews.com/article/venezuela-earthquakes-red-cross-how-to-help-fc64bb65cd2da3c9206a37b74e89d3f7</link>
 <pubDate>Sat, 27 Jun 2026 09:39:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Shiite Muslims collectively mourn to mark Muharram and Ashoura]]></title>
-<link>https://apnews.com/article/islam-shiites-ashoura-muslim-holy-month-95ad0031a904a7aeb3c6da6b4b3fcc87</link>
-<pubDate>Fri, 26 Jun 2026 14:04:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -185,6 +185,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[How one Indian textile worker copes with extreme heat in factory work and cramped living quarters]]></title>
+<link>https://apnews.com/article/india-textile-climate-change-heat-workers-factory-3fd96aa31437eef62b9120af23d96634</link>
+<pubDate>Fri, 26 Jun 2026 04:59:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[India’s Cockroach Party supporters bang plates to call for education minister’s resignation]]></title>
 <link>https://apnews.com/article/india-cockroach-party-exam-leaks-protest-05fc69ad9aa4c59486acb734af5baa64</link>
 <pubDate>Sun, 21 Jun 2026 09:23:48 -0000</pubDate>
@@ -194,12 +200,6 @@
 <title><![CDATA[Krishna and Jaiswal lead India to victory over Afghanistan to complete ODI series sweep]]></title>
 <link>https://apnews.com/article/india-afghanistan-odi-cricket-4f90c471a793b71fa811de682f0141ca</link>
 <pubDate>Mon, 22 Jun 2026 08:46:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Climate-driven heat in India’s textile factories stifles workers but coolers and ventilation help]]></title>
-<link>https://apnews.com/article/heat-textile-climate-change-factories-eab8494242ecfdc108e12685535a4df3</link>
-<pubDate>Sat, 20 Jun 2026 15:24:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -311,6 +311,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity]]></title>
+<link>https://apnews.com/article/nato-summit-saceur-russia-trump-3294611611a4691e26b27ce65712c67d</link>
+<pubDate>Sat, 27 Jun 2026 11:18:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Heat catches Europe’s fashion industry unprepared as models face the sun in fur and wool]]></title>
 <link>https://apnews.com/article/fashion-week-paris-heat-trends-louis-vuitton-477cc612de15b96390a7903ccd6c97ba</link>
 <pubDate>Fri, 26 Jun 2026 16:15:31 -0000</pubDate>
@@ -377,9 +383,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Things to know about Venezuela’s powerful earthquakes]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c</link>
-<pubDate>Sat, 27 Jun 2026 03:31:04 -0000</pubDate>
+<title><![CDATA[Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-27-2026-dca83ec0b72f498eea7146df5311b39c</link>
+<pubDate>Sat, 27 Jun 2026 11:18:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -401,18 +407,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies]]></title>
-<link>https://apnews.com/article/andy-burnham-prime-minister-starmer-uk-politics-3a7418c6bac69d631a3b25faa83936d9</link>
-<pubDate>Sat, 27 Jun 2026 07:42:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Small plane crash at Beijing high-rise kills the pilot and injures 13, authorities say]]></title>
-<link>https://apnews.com/article/china-citic-tower-beijing-damage-plane-d32c909c5dffc32e124588c927482526</link>
-<pubDate>Sat, 27 Jun 2026 09:54:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Fight erupts in Georgian Parliament amid deepening political tensions]]></title>
 <link>https://apnews.com/video/fight-erupts-in-georgian-parliament-amid-deepening-political-tensions-c9f010d5f9b54b2fb22f1e1a9069b2ce</link>
 <pubDate>Fri, 26 Jun 2026 19:59:54 -0000</pubDate>
@@ -422,12 +416,6 @@
 <title><![CDATA[Drone video shows search through rubble of collapsed buildings in La Guaira after Venezuela quakes]]></title>
 <link>https://apnews.com/video/drone-video-shows-search-through-rubble-of-collapsed-buildings-in-la-guaira-after-venezuela-quakes-aa65e61fb6aa4ff48fd0c263e02b333a</link>
 <pubDate>Sat, 27 Jun 2026 00:03:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel and Lebanon sign framework agreement with US in ‘first step’ toward peace, Rubio says]]></title>
-<link>https://apnews.com/article/rubio-israel-lebanon-c263a75ad99ef5120ad8f9f65bed5911</link>
-<pubDate>Sat, 27 Jun 2026 09:39:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -446,6 +434,12 @@
 <title><![CDATA[Massive Shiite crowds mark the holy day of Ashoura against backdrop of Iran-Israel-US war fallout]]></title>
 <link>https://apnews.com/article/ashoura-lebanon-iran-iraq-nabatiyeh-hussein-naim-kassem-israel-ba4abf96942c9701065b4f50a9cd804c</link>
 <pubDate>Fri, 26 Jun 2026 16:15:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israel releases classified documents detailing 1976 Entebbe raid to free more than 100 hostages]]></title>
+<link>https://apnews.com/article/israel-classified-1976-raid-entebbe-airport-hostages-8e632020018bb4904273aa610f45d069</link>
+<pubDate>Fri, 26 Jun 2026 16:00:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +473,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Delayed rains bring water shortages to cities and uncertainty to farms across India]]></title>
-<link>https://apnews.com/article/mumbai-monsoons-india-rains-climate-change-8530d9e5a0a69903839a2150c9f3875d</link>
-<pubDate>Fri, 26 Jun 2026 01:33:56 -0000</pubDate>
+<title><![CDATA[Ukraine strikes industrial facility in Volgograd; Russian drone kills man in Sumy]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-missiles-zelenskyy-drones-b47c7d6cc75a2fd2b0f6c39da50abe37</link>
+<pubDate>Sat, 27 Jun 2026 11:03:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A small plane has crashed into a Beijing high-rise, killing the pilot and injuring 13]]></title>
+<link>https://apnews.com/article/china-citic-tower-beijing-damage-plane-d32c909c5dffc32e124588c927482526</link>
+<pubDate>Sat, 27 Jun 2026 10:48:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli troops fatally shoot a Palestinian in the occupied West Bank]]></title>
-<link>https://apnews.com/article/israel-palestinians-west-bank-cb6ce9d20be39d1418e5e91943d90ae3</link>
-<pubDate>Fri, 26 Jun 2026 08:59:30 -0000</pubDate>
+<title><![CDATA[Shiite Muslims collectively mourn to mark Muharram and Ashoura]]></title>
+<link>https://apnews.com/article/islam-shiites-ashoura-muslim-holy-month-95ad0031a904a7aeb3c6da6b4b3fcc87</link>
+<pubDate>Thu, 25 Jun 2026 17:30:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
