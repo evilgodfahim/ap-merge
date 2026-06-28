@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Jun 2026 16:11:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 17:40:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US airstrikes again hit Iran as Tehran strikes Bahrain and Kuwait, further imperiling interim deal]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-27-2026-dca83ec0b72f498eea7146df5311b39c</link>
@@ -125,6 +125,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[The military is searching for a US Marine missing off the coast of California]]></title>
+<link>https://apnews.com/article/missing-marine-search-california-1f657e0649c8f3483bc113ddf67127a0</link>
+<pubDate>Sun, 28 Jun 2026 17:40:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[4 dead amid flooding caused by heavy rains, Kentucky governor says]]></title>
 <link>https://apnews.com/article/flooding-kentucky-severe-weather-deaths-aa4936ca74d9a1601b1f585d4586add8</link>
 <pubDate>Sun, 28 Jun 2026 14:29:33 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[America split from monarchy 250 years ago. Trump’s presidency is testing how far it’s come]]></title>
 <link>https://apnews.com/article/america-250-trump-king-imperial-presidency-13c1b8f5ad2cb4c94d879d5738000e53</link>
 <pubDate>Sun, 28 Jun 2026 10:54:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The US lags other countries in social media restrictions for kids, but a reform push is growing]]></title>
-<link>https://apnews.com/article/social-media-victims-harm-kosa-f7bb6fb95ab761d53d2d1f135eca2f27</link>
-<pubDate>Sun, 28 Jun 2026 12:57:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -173,9 +173,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Sooryavanshi, 15, made to wait for India debut after being left out of T20 against Ireland]]></title>
+<title><![CDATA[Without Sooryavanshi, India slumps to another unlikely T20 defeat to IreIand and loses series 2-0]]></title>
 <link>https://apnews.com/article/vaibhav-sooryavanshi-debut-ireland-india-t20-0339b811c4e970e01aa7f28b1bdcf631</link>
-<pubDate>Sun, 28 Jun 2026 14:14:33 -0000</pubDate>
+<pubDate>Sun, 28 Jun 2026 17:25:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa scrapes past Bangladesh and leaves India needing to upset Australia at Lord’s]]></title>
+<title><![CDATA[Australia easily beats India and sends South Africa into the Women’s T20 semifinals]]></title>
 <link>https://apnews.com/article/women-t20-world-cup-india-australia-southafrica-d04833803820ecb67ad92cf0cea07992</link>
-<pubDate>Sun, 28 Jun 2026 14:14:35 -0000</pubDate>
+<pubDate>Sun, 28 Jun 2026 17:40:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
