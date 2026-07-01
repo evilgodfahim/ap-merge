@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Jul 2026 02:47:35 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-28-2026-1132d316545db2cddb3928b6e7840f51</link>
-<pubDate>Tue, 30 Jun 2026 02:09:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Wed, 01 Jul 2026 07:02:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iran pause strikes but disagree over next steps on talks]]></title>
 <link>https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab</link>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuelans search more earthquake ruins as attention turns to humanitarian crisis]]></title>
+<link>https://apnews.com/article/venezuela-earthquakes-survivors-rescue-rodriguez-c1e96329a6194b56f19c75c168b9595d</link>
+<pubDate>Tue, 30 Jun 2026 14:51:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Erdogan rejects Israel’s Armenian genocide move and points to Gaza deaths]]></title>
 <link>https://apnews.com/article/turkey-erdogan-dismisses-israel-genocide-move-979a00f8f30f68ceecb105b25eb1742d</link>
 <pubDate>Wed, 01 Jul 2026 02:47:32 -0000</pubDate>
@@ -47,21 +47,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK boosts military spending by $20 billion but critics say it’s not enough]]></title>
-<link>https://apnews.com/article/uk-defense-spending-plan-5770cf0e711d434c9b0b3816a927f589</link>
-<pubDate>Tue, 30 Jun 2026 17:20:15 -0000</pubDate>
+<title><![CDATA[Hospitals in Europe are gearing up for the next heat wave armed with lessons from this one]]></title>
+<link>https://apnews.com/article/france-heat-wave-climate-change-health-hospitals-d2c26b56abd848e1a8553a0d702ee0b3</link>
+<pubDate>Wed, 01 Jul 2026 07:02:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope issues plea to breakaway traditionalist group to back off bishop consecrations]]></title>
-<link>https://apnews.com/article/vatican-pope-sspx-bishops-catholic-traditionalists-fee5829c496c838c5954bceb331a242f</link>
-<pubDate>Tue, 30 Jun 2026 17:05:15 -0000</pubDate>
+<title><![CDATA[What to know about the breakaway traditionalist Catholics defying Pope Leo XIV]]></title>
+<link>https://apnews.com/article/vatican-pope-society-st-pius-breakaway-group-472e8283062785f627a1a12f0ce081cd</link>
+<pubDate>Wed, 01 Jul 2026 06:47:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Four days to make victims fall in love: How global scammers use US tech to fleece people]]></title>
-<link>https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986</link>
-<pubDate>Tue, 30 Jun 2026 06:05:50 -0000</pubDate>
+<title><![CDATA[Defying Pope Leo XIV and risking schism, traditionalists go ahead with Latin Mass consecrations]]></title>
+<link>https://apnews.com/article/vatican-traditionalist-pope-latin-975a7dd408e151310f5e515030cd6c97</link>
+<pubDate>Wed, 01 Jul 2026 06:32:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,27 +77,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[PHOTO ESSAY: Two victims on opposite sides of the global scam industry seek to rebuild their lives]]></title>
-<link>https://apnews.com/photo-essay/photo-essay-scams-victim-investigation-521edf24e2a39bad85d70fa2827f7db8</link>
-<pubDate>Tue, 30 Jun 2026 05:50:50 -0000</pubDate>
+<title><![CDATA[Four days to make victims fall in love: How global scammers use US tech to fleece people]]></title>
+<link>https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986</link>
+<pubDate>Tue, 30 Jun 2026 06:05:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[He survived 2 natural disasters in Venezuela’s La Guaira. Now he vows never to return]]></title>
+<link>https://apnews.com/article/venezuela-earthquakes-survivor-natural-disasters-bde30af992a86efa32cd117aa2decc98</link>
+<pubDate>Wed, 01 Jul 2026 06:17:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo]]></title>
+<link>https://apnews.com/article/cuba-us-talks-foreign-minister-trump-85b50139f6e44102bb189a8c35ed946c</link>
+<pubDate>Tue, 30 Jun 2026 18:43:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[More than 100 Venezuelans who were deported from the US hours before the earthquakes are missing]]></title>
 <link>https://apnews.com/article/earthquake-venezuela-us-deportees-immigration-hotel-survived-783140c04b418de2308f548402ace9af</link>
 <pubDate>Tue, 30 Jun 2026 14:36:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Board offers $3B settlement to restructure Puerto Rico power company debt]]></title>
-<link>https://apnews.com/article/puerto-rico-board-fomb-prepa-aee-bondholders-offer-520430cb12a3fcfdcb08753aef19f5f3</link>
-<pubDate>Wed, 01 Jul 2026 02:32:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rio bus drivers and workers throughout Brazil demand shorter work week as lawmakers examine proposal]]></title>
-<link>https://apnews.com/article/brazil-work-week-government-saturdays-7b6daa9f1ed125104b597a5b3bb388d6</link>
-<pubDate>Wed, 01 Jul 2026 02:17:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,6 +137,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump’s actions signal a move toward institutionalizing people with disabilities, advocates warn]]></title>
+<link>https://apnews.com/article/trump-rfk-disability-autism-special-education-institutionalize-c6f064dcf4a1185d23cc5693f4b2df69</link>
+<pubDate>Wed, 01 Jul 2026 06:02:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Judges strike down Trump administration’s overhaul of student loan forgiveness program]]></title>
 <link>https://apnews.com/article/public-service-loan-forgiveness-trump-debt-5cbe13349bff45bea6ae5fc330d7b617</link>
 <pubDate>Wed, 01 Jul 2026 01:47:32 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited]]></title>
 <link>https://apnews.com/article/wildfire-wildland-firefighting-colorado-trump-administration-549b10807a4491bc50ba42d9450de9cc</link>
 <pubDate>Tue, 30 Jun 2026 20:55:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Why most Black Americans say they never fly the American flag, according to a new AP-NORC poll]]></title>
-<link>https://apnews.com/article/poll-american-flag-patriotism-black-b66ff2a116643523eab6c670cc94a95d</link>
-<pubDate>Tue, 30 Jun 2026 13:51:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -227,9 +227,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Rio bus drivers and workers throughout Brazil demand shorter work week as lawmakers examine proposal]]></title>
+<link>https://apnews.com/article/brazil-work-week-government-saturdays-7b6daa9f1ed125104b597a5b3bb388d6</link>
+<pubDate>Tue, 30 Jun 2026 20:55:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[PHOTO ESSAY: Aqueduct Race Track closes after ‘A Good Run’ of over 130 years]]></title>
 <link>https://apnews.com/photo-essay/photos-aqueduct-race-track-closing-new-york-d922bb327bce42ba6b3b0dad5c49ff15</link>
 <pubDate>Tue, 30 Jun 2026 20:40:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Federal board offers $3B settlement to restructure Puerto Rico power company debt]]></title>
+<link>https://apnews.com/article/puerto-rico-board-fomb-prepa-aee-bondholders-offer-520430cb12a3fcfdcb08753aef19f5f3</link>
+<pubDate>Wed, 01 Jul 2026 07:02:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -305,9 +317,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope issues plea to breakaway traditionalist group to back off bishop consecrations]]></title>
+<link>https://apnews.com/article/vatican-pope-sspx-bishops-catholic-traditionalists-fee5829c496c838c5954bceb331a242f</link>
+<pubDate>Wed, 01 Jul 2026 06:47:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[By the numbers: Spain’s mass legalization for immigrants]]></title>
 <link>https://apnews.com/article/spain-immigration-residency-work-permits-numbers-69832d85bb67c996d9b0f15faa6e7ec2</link>
 <pubDate>Tue, 30 Jun 2026 11:26:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK boosts military spending by $20 billion but critics say it’s not enough]]></title>
+<link>https://apnews.com/article/uk-defense-spending-plan-5770cf0e711d434c9b0b3816a927f589</link>
+<pubDate>Wed, 01 Jul 2026 06:32:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,6 +359,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[PHOTO ESSAY: Two victims on opposite sides of the global scam industry seek to rebuild their lives]]></title>
+<link>https://apnews.com/photo-essay/photo-essay-scams-victim-investigation-521edf24e2a39bad85d70fa2827f7db8</link>
+<pubDate>Wed, 01 Jul 2026 06:17:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US stocks rise and trim their losses for June]]></title>
 <link>https://apnews.com/article/stocks-markets-ai-oil-iran-war-691751fb947dabadd212d270278e8dfd</link>
 <pubDate>Wed, 01 Jul 2026 02:17:33 -0000</pubDate>
@@ -353,57 +383,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show teen girls in Bali performing a sacred dance during a traditional Hindu ceremony]]></title>
-<link>https://apnews.com/photo-gallery/indonesia-bali-hindu-rejang-sacred-dance-photos-396a7b680c4b644ed46a11ecbdf22d84</link>
-<pubDate>Tue, 30 Jun 2026 11:11:52 -0000</pubDate>
+<title><![CDATA[A US missile killed Iranian schoolchildren four months ago. We still don’t know the full story]]></title>
+<link>https://apnews.com/article/iran-school-strike-baluch-trump-2a134a5c74d80db763db4c3eb6d0d847</link>
+<pubDate>Wed, 01 Jul 2026 07:02:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon’s Brazil fans celebrate a World Cup Round of 32 win, in photos]]></title>
-<link>https://apnews.com/photo-gallery/lebanon-brazil-soccer-fans-photos-21209ee3a8e44e03bfe25a36cb33fcde</link>
-<pubDate>Tue, 30 Jun 2026 18:58:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Warming climate, pollution and unplanned growth push Kashmir’s lakes toward disappearance]]></title>
-<link>https://apnews.com/article/kashmir-india-climate-change-pollution-lakes-20543e12deff0ca532c0a4f1186da3b8</link>
-<pubDate>Tue, 30 Jun 2026 16:35:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Isaac ‘Ike’ Flores, longtime AP correspondent who covered Castro and Cuba, dies at 93]]></title>
-<link>https://apnews.com/article/ike-flores-cuba-castro-b70ea1753b05aa20d747059d738cd8ce</link>
-<pubDate>Tue, 30 Jun 2026 02:09:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Les Mills, the New Zealand Olympian who founded a chain of gyms, dies at 91]]></title>
-<link>https://apnews.com/article/les-mills-dies-gyms-fitness-new-zealand-2643e254b8aed037939d7d867d3f6210</link>
-<pubDate>Tue, 30 Jun 2026 09:37:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Aid groups warn Venezuela’s healthcare system is near its limit after earthquakes]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-survivors-rescue-healthcare-aid-workers-de59847a5afb28f799d693501f2385aa</link>
-<pubDate>Tue, 30 Jun 2026 21:10:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[He survived 2 natural disasters in Venezuela’s La Guaira. Now he vows never to return]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-survivor-natural-disasters-bde30af992a86efa32cd117aa2decc98</link>
-<pubDate>Tue, 30 Jun 2026 10:22:55 -0000</pubDate>
+<title><![CDATA[Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871</link>
+<pubDate>Wed, 01 Jul 2026 06:47:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Colombian election loser threatens ‘civil disobedience’ if winner does not ditch US citizenship]]></title>
 <link>https://apnews.com/article/ivan-cepeda-renounce-us-citizenship-abelardo-de-la-espriella-elections-colombia-f7a6629c9d21381891eb6db2d971c7f5</link>
 <pubDate>Wed, 01 Jul 2026 02:47:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo]]></title>
-<link>https://apnews.com/article/cuba-us-talks-foreign-minister-trump-85b50139f6e44102bb189a8c35ed946c</link>
-<pubDate>Wed, 01 Jul 2026 02:32:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,9 +455,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Supreme Court says Fed’s Cook can keep her job for now, but it upholds other Trump firings]]></title>
-<link>https://apnews.com/article/supreme-court-executive-power-trump-firing-cook-7b7676e5a066f8df41077a0920b9f334</link>
-<pubDate>Mon, 29 Jun 2026 15:32:55 -0000</pubDate>
+<title><![CDATA[Survey shows Japan’s business sentiment improving for a 5th straight quarter]]></title>
+<link>https://apnews.com/article/boj-japan-yen-tankan-economy-inflation-5a909b80fca85adb3d53a8c899aa8c92</link>
+<pubDate>Wed, 01 Jul 2026 06:02:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia]]></title>
-<link>https://apnews.com/article/monaco-explosion-ukrainian-tycoon-58cb87e398a0c1936fd2ad1c4f207e40</link>
-<pubDate>Tue, 30 Jun 2026 17:05:18 -0000</pubDate>
+<title><![CDATA[Turkey tightens security and showcases strength and commitment ahead of NATO summit]]></title>
+<link>https://apnews.com/article/turkey-nato-summit-tight-security-c2423abfaa605dbfb8228972047c1dbf</link>
+<pubDate>Wed, 01 Jul 2026 05:47:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelans search more earthquake ruins as attention turns to humanitarian crisis]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-survivors-rescue-rodriguez-c1e96329a6194b56f19c75c168b9595d</link>
-<pubDate>Mon, 29 Jun 2026 19:49:57 -0000</pubDate>
+<title><![CDATA[Aid groups warn Venezuela’s healthcare system is near its limit after earthquakes]]></title>
+<link>https://apnews.com/article/venezuela-earthquakes-survivors-rescue-healthcare-aid-workers-de59847a5afb28f799d693501f2385aa</link>
+<pubDate>Tue, 30 Jun 2026 21:10:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
