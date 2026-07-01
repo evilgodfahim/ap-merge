@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Jul 2026 18:20:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 20:20:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iran pause strikes but disagree over next steps on talks]]></title>
 <link>https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia]]></title>
-<link>https://apnews.com/article/monaco-explosion-ukrainian-tycoon-58cb87e398a0c1936fd2ad1c4f207e40</link>
-<pubDate>Wed, 01 Jul 2026 10:51:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871</link>
 <pubDate>Wed, 01 Jul 2026 18:20:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia]]></title>
+<link>https://apnews.com/article/monaco-explosion-ukrainian-tycoon-58cb87e398a0c1936fd2ad1c4f207e40</link>
+<pubDate>Wed, 01 Jul 2026 10:51:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,27 +77,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Colombian election loser threatens ‘civil disobedience’ if winner does not ditch US citizenship]]></title>
-<link>https://apnews.com/article/ivan-cepeda-renounce-us-citizenship-abelardo-de-la-espriella-elections-colombia-f7a6629c9d21381891eb6db2d971c7f5</link>
-<pubDate>Wed, 01 Jul 2026 10:06:25 -0000</pubDate>
+<title><![CDATA[4 people die in Mexico City during celebrations after World Cup win]]></title>
+<link>https://apnews.com/article/mexico-world-cup-celebrations-deaths-c3559d350a6467e64ac2845d25b5f393</link>
+<pubDate>Wed, 01 Jul 2026 20:20:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo]]></title>
-<link>https://apnews.com/article/cuba-us-talks-foreign-minister-trump-85b50139f6e44102bb189a8c35ed946c</link>
-<pubDate>Tue, 30 Jun 2026 18:43:24 -0000</pubDate>
+<title><![CDATA[Mexico’s legendary rescue brigade heads to Venezuela as earthquakes death toll tops 2,200]]></title>
+<link>https://apnews.com/article/mexico-rescue-brigade-venezuela-earthquakes-15c3fbe436effe2879d96aac0a24a3bb</link>
+<pubDate>Wed, 01 Jul 2026 20:05:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Federal board offers $3B settlement to restructure Puerto Rico power company debt]]></title>
-<link>https://apnews.com/article/puerto-rico-board-fomb-prepa-aee-bondholders-offer-520430cb12a3fcfdcb08753aef19f5f3</link>
-<pubDate>Wed, 01 Jul 2026 09:51:25 -0000</pubDate>
+<title><![CDATA[Sightings of humpback whales surge in Rio de Janeiro, fueling demand for whale-watching trips]]></title>
+<link>https://apnews.com/article/brazil-humpback-whales-rio-de-janeiro-guanabara-bay-e77bb9f47b1d57ccb4ede298f3fc06bf</link>
+<pubDate>Wed, 01 Jul 2026 19:50:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Anti-immigration protesters march in South Africa, as some immigrants leave the country]]></title>
 <link>https://apnews.com/article/south-africa-illegal-immigration-protests-deadline-0ba4b5c3e797e0ac018f9e3f06101c34</link>
 <pubDate>Wed, 01 Jul 2026 09:36:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Floods have killed at least 59 people so far this year in Ivory Coast Ivory]]></title>
+<link>https://apnews.com/article/ivory-coast-floods-cdcc11c9a59b120d5956a76af59a0528</link>
+<pubDate>Wed, 01 Jul 2026 19:35:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,33 +119,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Immigrants are leaving South Africa as protests grow over illegal migration. Here’s what to know]]></title>
-<link>https://apnews.com/article/immigration-migrants-south-africa-protests-f2f39287ea4f3274ae31cfb478147cdf</link>
-<pubDate>Tue, 30 Jun 2026 11:56:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[From Chocolate Avenue to the World Cup, how Hershey, Pennsylvania, shaped Christian Pulisic]]></title>
-<link>https://apnews.com/article/pulisic-hometown-hershey-pennsylvania-world-cup-934c4aa9df9c7a8885eaf5b3ac12e2d6</link>
-<pubDate>Wed, 01 Jul 2026 17:35:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about fireworks and the risk of wildfires this July 4th]]></title>
-<link>https://apnews.com/article/fireworks-wildfires-july-fourth-afc67952b9eaf72bc7ecaf10eeb4227e</link>
-<pubDate>Wed, 01 Jul 2026 17:20:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Children found in ‘deplorable’ Ohio home were part of same family]]></title>
-<link>https://apnews.com/article/children-abuse-home-deplorable-ohio-099cda8f0014adde4b87a7e86aeefe5f</link>
-<pubDate>Wed, 01 Jul 2026 17:05:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[2 people arrested after hanging banner about ‘the power of love’ on Empire State Building antenna]]></title>
+<title><![CDATA[2 people arrested after hanging a banner about ‘the power of love’ on Empire State Building antenna]]></title>
 <link>https://apnews.com/article/empire-state-building-antenna-stunt-banner-68f02bde462ee033662f3e5939142559</link>
-<pubDate>Wed, 01 Jul 2026 16:50:32 -0000</pubDate>
+<pubDate>Wed, 01 Jul 2026 19:20:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Authorities charge 4 adults after 16 children rescued from dilapidated Ohio home]]></title>
+<link>https://apnews.com/article/children-abuse-home-deplorable-ohio-099cda8f0014adde4b87a7e86aeefe5f</link>
+<pubDate>Wed, 01 Jul 2026 19:05:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Extraordinary heat in US Northeast arrives to clash with Fourth of July revelry]]></title>
+<link>https://apnews.com/article/extreme-heat-northeast-july-fourth-816a02dd3b522cbd3092b467b2cc57aa</link>
+<pubDate>Wed, 01 Jul 2026 18:50:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[New autopsy of a baby killed by police in Mississippi deepens outrage]]></title>
+<link>https://apnews.com/article/mississippi-baby-shot-police-kohen-wiley-autopsy-8f96096cb675e34fd4de111c4cd1b965</link>
+<pubDate>Wed, 01 Jul 2026 18:35:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -188,6 +188,24 @@
 <title><![CDATA[Without Sooryavanshi, India slumps to another unlikely T20 defeat to IreIand and loses series 2-0]]></title>
 <link>https://apnews.com/article/vaibhav-sooryavanshi-debut-ireland-india-t20-0339b811c4e970e01aa7f28b1bdcf631</link>
 <pubDate>Sun, 28 Jun 2026 17:25:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Major global news moments of June, in AP photos]]></title>
+<link>https://apnews.com/photo-gallery/major-global-news-moments-may-ap-photos-3462aeb752c1ead571dab7c39873e985</link>
+<pubDate>Wed, 01 Jul 2026 20:20:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-720b0a7fd5c1cacd0ef0b6adf5041f84</link>
+<pubDate>Wed, 01 Jul 2026 20:05:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Medical students in Haiti march to demand reopening of main public hospital as police open fire]]></title>
+<link>https://apnews.com/article/haiti-medical-students-doctors-protest-hospital-3d4ffba8708026809aa40ce89785b03c</link>
+<pubDate>Wed, 01 Jul 2026 19:50:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,9 +269,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Firebomb attacks in northern Greek city target residences of governing party members, injuring 5]]></title>
+<title><![CDATA[1 person dead, 4 others hurt after firebombs hurled at homes of Greece’s governing party members]]></title>
 <link>https://apnews.com/article/greece-thessaloniki-firebomb-attacks-46ea5a2dbab53d0f270313dbe4a85787</link>
-<pubDate>Wed, 01 Jul 2026 17:05:33 -0000</pubDate>
+<pubDate>Wed, 01 Jul 2026 19:35:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -281,15 +299,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Most US stocks rise, but drops for tech keep Wall Street in check]]></title>
+<title><![CDATA[Most US stocks rise, but drops for tech pull indexes lower]]></title>
 <link>https://apnews.com/article/stock-markets-war-trump-inflation-oil-c9003e1a8bb436a594e5dd9a080bcb30</link>
-<pubDate>Wed, 01 Jul 2026 16:35:33 -0000</pubDate>
+<pubDate>Wed, 01 Jul 2026 19:20:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Japan’s Eiko Kadono, author of ‘Kiki’s Delivery Service,’ still believes in the magic of books at 91]]></title>
 <link>https://apnews.com/article/japan-kadono-children-books-magic-witches-218a8fecbca3285f4652fbb112acf593</link>
 <pubDate>Wed, 01 Jul 2026 02:47:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Colombian election loser threatens ‘civil disobedience’ if winner does not ditch US citizenship]]></title>
+<link>https://apnews.com/article/ivan-cepeda-renounce-us-citizenship-abelardo-de-la-espriella-elections-colombia-f7a6629c9d21381891eb6db2d971c7f5</link>
+<pubDate>Wed, 01 Jul 2026 19:05:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -323,6 +347,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo]]></title>
+<link>https://apnews.com/article/cuba-us-talks-foreign-minister-trump-85b50139f6e44102bb189a8c35ed946c</link>
+<pubDate>Wed, 01 Jul 2026 18:50:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Federal board offers $3B settlement to restructure Puerto Rico power company debt]]></title>
+<link>https://apnews.com/article/puerto-rico-board-fomb-prepa-aee-bondholders-offer-520430cb12a3fcfdcb08753aef19f5f3</link>
+<pubDate>Wed, 01 Jul 2026 07:02:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Leader of outlawed group arrested in Pakistan-administered Kashmir after deadly protests]]></title>
 <link>https://apnews.com/article/pakistan-kashmir-police-arrest-leader-violence-475a3b25d231f8585ee1fa31597b6f53</link>
 <pubDate>Tue, 30 Jun 2026 19:13:25 -0000</pubDate>
@@ -332,42 +368,6 @@
 <title><![CDATA[Bello again: Pierre Coffin, voice of the Minions, finally understands his yellow henchman]]></title>
 <link>https://apnews.com/article/minions-monsters-pierre-coffin-65f236dec8a3798516b306bf161eae95</link>
 <pubDate>Tue, 30 Jun 2026 17:20:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Roof of tutoring center collapses in eastern Pakistan, killing at least 14 children, police say]]></title>
-<link>https://apnews.com/article/pakistan-lahore-roof-collapse-tutoring-center-131c1623fdb96405371ff869f86edf6b</link>
-<pubDate>Wed, 01 Jul 2026 09:51:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Denmark urges IOC to recognize Greenland and Faroe Islands as independent Olympic teams]]></title>
-<link>https://apnews.com/article/ioc-olympics-trump-denmark-faroe-greenland-e319f7928128fe12e23d472893b509d1</link>
-<pubDate>Tue, 30 Jun 2026 17:05:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The largest digital camera ever built begins decade-long survey of the universe]]></title>
-<link>https://apnews.com/article/rubin-observatory-telescope-a3058ccd6d3a160827b02cdfd94fb8ee</link>
-<pubDate>Tue, 30 Jun 2026 15:06:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[9 children killed as tricycle plunges into a canal in Egypt]]></title>
-<link>https://apnews.com/article/egypt-assiut-tricycle-children-accident-canal-bc023938f8fa5fe6f3286e1f7db8de85</link>
-<pubDate>Wed, 01 Jul 2026 09:36:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Aid groups warn Venezuela’s healthcare system is near its limit after earthquakes]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-survivors-rescue-healthcare-aid-workers-de59847a5afb28f799d693501f2385aa</link>
-<pubDate>Wed, 01 Jul 2026 09:21:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Floods in Ghana and Ivory Coast leave at least 24 dead following torrential rains]]></title>
-<link>https://apnews.com/article/africa-flooding-ghana-ivory-coast-climate-change-9f10579b055041d1559fbe7a032c6995</link>
-<pubDate>Tue, 30 Jun 2026 14:51:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan medics fear infections from quake injuries as search for untold dead continues]]></title>
-<link>https://apnews.com/article/earthquake-venezuela-rescue-trump-maduro-rodriguez-relief-military-5ec41e4448a2d6ef7dba909c952ce821</link>
-<pubDate>Wed, 01 Jul 2026 17:50:34 -0000</pubDate>
+<title><![CDATA[Alibaba to pay US $600M to settle allegations it allowed illegal drug and equipment sales]]></title>
+<link>https://apnews.com/article/alibaba-600-million-settlement-illegal-drugs-irs-dd05dacc1c9af92cc32523b8285fe911</link>
+<pubDate>Wed, 01 Jul 2026 20:20:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,6 +443,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Crypto, real estate, watches: How Trump made over $1 billion last year]]></title>
+<link>https://apnews.com/article/trump-finances-real-estate-crypto-bibles-golf-8b8b54fae333d1200f4c1b509991b544</link>
+<pubDate>Wed, 01 Jul 2026 20:05:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation]]></title>
 <link>https://apnews.com/article/warsh-federal-reserve-inflation-interest-rate-18c005515444abd2043ad113c9849407</link>
 <pubDate>Wed, 01 Jul 2026 17:20:34 -0000</pubDate>
@@ -461,12 +467,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact]]></title>
-<link>https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5</link>
-<pubDate>Wed, 01 Jul 2026 16:50:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Turkey tightens security and showcases strength and commitment ahead of NATO summit]]></title>
 <link>https://apnews.com/article/turkey-nato-summit-tight-security-c2423abfaa605dbfb8228972047c1dbf</link>
 <pubDate>Wed, 01 Jul 2026 05:47:40 -0000</pubDate>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[3 people die of asphyxiation during Mexico City celebrations after World Cup win]]></title>
-<link>https://apnews.com/article/mexico-world-cup-celebrations-deaths-c3559d350a6467e64ac2845d25b5f393</link>
-<pubDate>Wed, 01 Jul 2026 16:35:34 -0000</pubDate>
+<title><![CDATA[Venezuelan medics fear infections from quake injuries as search for untold dead continues]]></title>
+<link>https://apnews.com/article/earthquake-venezuela-rescue-trump-maduro-rodriguez-relief-military-5ec41e4448a2d6ef7dba909c952ce821</link>
+<pubDate>Wed, 01 Jul 2026 17:50:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Extraordinary heat in US Northeast arrives to clash with Fourth of July revelry]]></title>
-<link>https://apnews.com/article/extreme-heat-northeast-july-fourth-816a02dd3b522cbd3092b467b2cc57aa</link>
-<pubDate>Wed, 01 Jul 2026 16:20:34 -0000</pubDate>
+<title><![CDATA[Taylor Swift and Travis Kelce will celebrate wedding Friday at Madison Square Garden, AP source says]]></title>
+<link>https://apnews.com/article/taylor-swift-travis-kelce-wedding-madison-square-3496ff38f2f929084a62662ed52e471e</link>
+<pubDate>Wed, 01 Jul 2026 19:50:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -503,9 +503,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[15-year-old prodigy Sooryavanshi left out again by India for 1st T20 against England]]></title>
+<title><![CDATA[First T20 between England and India abandoned because of rain after Sooryavanshi left out again]]></title>
 <link>https://apnews.com/article/england-india-t20-sooryavanshi-559c3d2358d0c798d08c5ac2b3777ea0</link>
-<pubDate>Wed, 01 Jul 2026 15:50:34 -0000</pubDate>
+<pubDate>Wed, 01 Jul 2026 19:35:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
