@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Jul 2026 10:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 11:51:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Vatican excommunicates schismatic bishops and priests, and warns their followers]]></title>
 <link>https://apnews.com/article/vatican-traditionalist-pope-latin-st-pius-6570c6bcc0784f4b9229e20bdec4e5aa</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war]]></title>
-<link>https://apnews.com/article/ali-khamenei-funeral-supreme-leader-iran-us-war-july-3-2026-554d4f05f43ebbb86f81821eb18c0927</link>
-<pubDate>Sat, 04 Jul 2026 05:37:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Rare copy of Declaration of Independence found by UK National Archives in papers of captured US ship]]></title>
 <link>https://apnews.com/article/declaration-of-independence-ship-rate-uk-national-archives-d9336ffef70b9c79183ce4d54d9466e7</link>
 <pubDate>Fri, 03 Jul 2026 01:05:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war]]></title>
+<link>https://apnews.com/article/ali-khamenei-funeral-supreme-leader-iran-us-war-july-3-2026-554d4f05f43ebbb86f81821eb18c0927</link>
+<pubDate>Sat, 04 Jul 2026 05:37:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
