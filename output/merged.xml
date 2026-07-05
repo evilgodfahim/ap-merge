@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Jul 2026 16:52:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 17:54:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Australian officials ask fans to respect the privacy of Neil, a 1-ton seal who respects nothing]]></title>
 <link>https://apnews.com/article/neil-elephant-seal-tasmania-australia-dd46ef42400dc85b92c103d5f10718ef</link>
@@ -125,6 +125,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Memorial service to honor firefighters killed on Colorado-Utah border]]></title>
+<link>https://apnews.com/article/wildland-firefighters-death-colorado-utah-6e916c802f77dbe387adda30da6111d4</link>
+<pubDate>Sun, 05 Jul 2026 13:43:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids]]></title>
 <link>https://apnews.com/article/coney-island-shooting-d34d2faedfc06ee55c3d6d280d590678</link>
 <pubDate>Sun, 05 Jul 2026 15:27:17 -0000</pubDate>
@@ -140,12 +146,6 @@
 <title><![CDATA[Taylor Swift and Travis Kelce’s love story, from friendship bracelets to wedding rings]]></title>
 <link>https://apnews.com/article/taylor-swift-travis-kelce-married-deedf312935d9391dd244706b39c3965</link>
 <pubDate>Sat, 04 Jul 2026 01:55:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[150 people from 50 countries become US citizens at Mount Vernon on America’s 250th birthday]]></title>
-<link>https://apnews.com/article/america-250-citizenship-george-washington-july-4-c47432ca8830be379c0a07bb6e0df4f7</link>
-<pubDate>Sun, 05 Jul 2026 03:57:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope heads on vacation after decisive flexing of papal muscle on international and church stage]]></title>
+<title><![CDATA[Stephen Francis, influential coach who transformed Jamaican sprinting, dies at 64]]></title>
+<link>https://apnews.com/article/jamaica-sprint-coach-stephen-francis-caribbean-olympics-2b424886edd8a2ed3680f5a7953916b5</link>
+<pubDate>Sun, 05 Jul 2026 17:54:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope begins his summer break after decisive flexing of muscle on international and church stage]]></title>
 <link>https://apnews.com/article/vatican-pope-break-summer-record-1402f0d94f6ab0ae916dd9b287509895</link>
-<pubDate>Sun, 05 Jul 2026 12:07:54 -0000</pubDate>
+<pubDate>Sun, 05 Jul 2026 17:39:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,12 +371,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Moldova’s prime minister steps down, triggering the government’s resignation]]></title>
-<link>https://apnews.com/article/moldova-prime-minister-resignation-alexandru-munteanu-sandu-37a11f7375e9a453ae8730d4ccc9129e</link>
-<pubDate>Fri, 03 Jul 2026 11:09:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding]]></title>
 <link>https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-5-2026-9c2641e5bc540e5943dd39b95d4f02f8</link>
 <pubDate>Sun, 05 Jul 2026 16:52:47 -0000</pubDate>
@@ -449,15 +449,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US employers still reluctant to add many jobs as hiring slows in June]]></title>
-<link>https://apnews.com/article/jobs-economy-hiring-labor-49c7a993b394e6ae3f801c8e3c0d39dd</link>
-<pubDate>Thu, 02 Jul 2026 15:07:15 -0000</pubDate>
+<title><![CDATA[‘Minions & Monsters’ tops Fourth of July holiday box office, barely beating ‘Toy Story 5']]></title>
+<link>https://apnews.com/article/movies-general-news-eac177369f003a675a9eba3a632eddb5</link>
+<pubDate>Sun, 05 Jul 2026 17:54:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Accounts launch July 4, giving newborns $1,000. Here’s what to know]]></title>
-<link>https://apnews.com/article/trump-accounts-july-4-what-to-know-c0a6f07548acb9f792be160965fbfbec</link>
-<pubDate>Thu, 02 Jul 2026 14:52:15 -0000</pubDate>
+<title><![CDATA[US employers still reluctant to add many jobs as hiring slows in June]]></title>
+<link>https://apnews.com/article/jobs-economy-hiring-labor-49c7a993b394e6ae3f801c8e3c0d39dd</link>
+<pubDate>Thu, 02 Jul 2026 15:07:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Memorial service to honor firefighters killed on Colorado-Utah border]]></title>
-<link>https://apnews.com/article/wildland-firefighters-death-colorado-utah-6e916c802f77dbe387adda30da6111d4</link>
-<pubDate>Sun, 05 Jul 2026 14:57:19 -0000</pubDate>
+<title><![CDATA[Unbearable heat suspected in 19 New Jersey deaths as high temperatures give way to thunderstorms]]></title>
+<link>https://apnews.com/article/heat-dome-thunderstorms-deaths-power-outages-0a8bf017f027b639c959bb08693984f3</link>
+<pubDate>Sun, 05 Jul 2026 17:39:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
