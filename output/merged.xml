@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Jul 2026 17:33:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 19:38:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding]]></title>
 <link>https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-5-2026-9c2641e5bc540e5943dd39b95d4f02f8</link>
@@ -71,15 +71,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[China test-launches a ballistic missile in the South Pacific and raises regional concerns]]></title>
+<link>https://apnews.com/article/china-missile-test-submarine-36963889390c8a08079165d8a63e4960</link>
+<pubDate>Mon, 06 Jul 2026 13:55:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Australia and Fiji seal a new mutual defense pact in a push to counter China in the Pacific]]></title>
 <link>https://apnews.com/article/australia-fiji-china-defense-alliance-7e9adc96413aecfc1307d6ab978998dd</link>
 <pubDate>Mon, 06 Jul 2026 13:40:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Clashes in Sri Lankan prison leave at least 25 dead, mostly inmates]]></title>
-<link>https://apnews.com/article/sri-lanka-prison-clash-32addae25f673dd122e9b6092b922a11</link>
-<pubDate>Mon, 06 Jul 2026 17:33:48 -0000</pubDate>
+<title><![CDATA[Fallout from Venezuela’s earthquakes turns political as opposition leader Machado seeks return]]></title>
+<link>https://apnews.com/article/venezuela-earthquake-rescue-delcy-rodriguez-trump-machado-097c0eab303b9b461419868c15fddecb</link>
+<pubDate>Mon, 06 Jul 2026 19:38:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -92,12 +98,6 @@
 <title><![CDATA[Mexico City tightens security and caps crowds for Mexico-England match after 4 deaths]]></title>
 <link>https://apnews.com/article/mexico-world-cup-angel-zocalo-deaths-security-precautions-fe1887cada69f55d8764c96d08c59bbb</link>
 <pubDate>Fri, 03 Jul 2026 23:55:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico fans dream of more wins in the World Cup, singing ‘What if we do?’]]></title>
-<link>https://apnews.com/article/world-cup-mexico-england-celebrations-f4e9bff80a9c57d583a4b6930186061f</link>
-<pubDate>Sat, 04 Jul 2026 05:07:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Prosecutors urge the man accused of killing Charlie Kirk should stand trial]]></title>
+<title><![CDATA[Prosecutors push for a trial for the man accused of killing Charlie Kirk]]></title>
 <link>https://apnews.com/article/charlie-kirk-tyler-robinson-hearing-83dafd6137d05655c73e7fea9b120dc8</link>
-<pubDate>Mon, 06 Jul 2026 17:18:48 -0000</pubDate>
+<pubDate>Mon, 06 Jul 2026 19:23:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,12 +203,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Island-wide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles]]></title>
-<link>https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5</link>
-<pubDate>Mon, 06 Jul 2026 17:18:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Wildfire forces Tour de France to ban fans from stage finale as parts of Europe sizzle again]]></title>
 <link>https://apnews.com/article/heat-fire-europe-climate-change-8b78a5d051273e24455357da63551fef</link>
 <pubDate>Mon, 06 Jul 2026 17:03:48 -0000</pubDate>
@@ -236,6 +230,12 @@
 <title><![CDATA[A timeline of Marine Le Pen’s political career and the rise of the French far right]]></title>
 <link>https://apnews.com/article/france-le-pen-verdict-timeline-afd3adefcaf2d814e94e63d4495a3697</link>
 <pubDate>Mon, 06 Jul 2026 13:40:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Clashes in Sri Lankan prison leave at least 25 dead, mostly inmates]]></title>
+<link>https://apnews.com/article/sri-lanka-prison-clash-32addae25f673dd122e9b6092b922a11</link>
+<pubDate>Mon, 06 Jul 2026 19:38:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,6 +377,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[As quake rescue effort winds down, Venezuelans are left alone to recover their dead]]></title>
+<link>https://apnews.com/article/venezuela-rescue-recovery-earthquakes-hugo-chavez-411e5608c47eda5385a6e13547cae7c9</link>
+<pubDate>Mon, 06 Jul 2026 19:38:47 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mourners throng funeral procession in Tehran for Iran’s Supreme Leader Ayatollah Ali Khamenei]]></title>
 <link>https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb</link>
 <pubDate>Mon, 06 Jul 2026 14:40:18 -0000</pubDate>
@@ -386,12 +392,6 @@
 <title><![CDATA[Russia’s missile and drone attacks on Ukraine kill at least 22]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e</link>
 <pubDate>Mon, 06 Jul 2026 17:33:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China test-launches a ballistic missile in the South Pacific and raises regional concerns]]></title>
-<link>https://apnews.com/article/china-missile-test-submarine-36963889390c8a08079165d8a63e4960</link>
-<pubDate>Mon, 06 Jul 2026 17:18:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,9 +449,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rebounds for AI stocks lift US indexes]]></title>
+<title><![CDATA[Rebounding AI stocks send the S&P 500 within 1% of its record]]></title>
 <link>https://apnews.com/article/stock-markets-hormuz-iran-trump-oil-9563a33b0789edf00cf92e76c6516fe5</link>
-<pubDate>Mon, 06 Jul 2026 16:48:49 -0000</pubDate>
+<pubDate>Mon, 06 Jul 2026 19:23:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fallout from Venezuela’s earthquakes turns political as opposition leader Machado seeks return]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-rescue-delcy-rodriguez-trump-machado-097c0eab303b9b461419868c15fddecb</link>
-<pubDate>Fri, 03 Jul 2026 20:08:55 -0000</pubDate>
+<title><![CDATA[Islandwide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles]]></title>
+<link>https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5</link>
+<pubDate>Mon, 06 Jul 2026 19:08:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Unbearable heat suspected in 19 New Jersey deaths as high temperatures give way to thunderstorms]]></title>
-<link>https://apnews.com/article/heat-dome-thunderstorms-deaths-power-outages-0a8bf017f027b639c959bb08693984f3</link>
-<pubDate>Sun, 05 Jul 2026 17:39:12 -0000</pubDate>
+<title><![CDATA[Flash flood warnings issued for parts of New York City and Northeast as heat wave breaks]]></title>
+<link>https://apnews.com/article/flooding-heat-wave-new-york-jersey-ef533746afb0901f0cb30052e84482c2</link>
+<pubDate>Mon, 06 Jul 2026 18:53:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
