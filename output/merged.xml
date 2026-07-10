@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 10 Jul 2026 05:52:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 08:58:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-july-8-2026-fee04dcea661c08de12c04914ff2751b</link>
 <pubDate>Thu, 09 Jul 2026 06:35:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal]]></title>
+<link>https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf</link>
+<pubDate>Fri, 10 Jul 2026 08:58:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,39 +35,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Members of a sexual predator network on Telegram tried to hide their crimes with code words]]></title>
-<link>https://apnews.com/article/germany-china-telegram-sexual-violence-women-6279c80947f419ee178707f111487193</link>
-<pubDate>Wed, 08 Jul 2026 11:10:22 -0000</pubDate>
+<title><![CDATA[Seafarers attacked in the Strait of Hormuz sue shipping company in Thailand]]></title>
+<link>https://apnews.com/article/thailand-mayuree-naree-hormuz-attack-sue-precious-shipping-87cb8a617eb1c7726d4ac42e5e3ebf01</link>
+<pubDate>Fri, 10 Jul 2026 08:43:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Chemical weapons watchdog reinstates Syria’s voting rights]]></title>
-<link>https://apnews.com/article/syria-chemical-weapons-opcw-ae5758b9dca006ff8a15acb78d23f358</link>
-<pubDate>Fri, 10 Jul 2026 05:52:25 -0000</pubDate>
+<title><![CDATA[Syria says it arrested IS-linked suspects behind the Damascus bombings during Macron’s visit]]></title>
+<link>https://apnews.com/article/syria-explosions-bombings-arrests-macron-visit-e6638e5d105e00b2fda3bf3709cb78f5</link>
+<pubDate>Fri, 10 Jul 2026 08:28:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Funeral processions held in holy Iraqi cities for Iran’s late Supreme Leader Ayatollah Ali Khamenei]]></title>
-<link>https://apnews.com/article/iraq-iran-khamenei-najaf-funeral-fb26617322732e89f5156d499b16d415</link>
-<pubDate>Fri, 10 Jul 2026 05:37:25 -0000</pubDate>
+<title><![CDATA[Greek anti-terrorist police arrest 3 for bomb attack that killed politician’s mother, injured 4]]></title>
+<link>https://apnews.com/article/greece-bomb-explosion-politician-mother-killed-6870acf5b9e609204731ca3ae5333759</link>
+<pubDate>Fri, 10 Jul 2026 08:13:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[The Bayeux Tapestry is at the British Museum after a secret journey from France]]></title>
 <link>https://apnews.com/article/bayeux-tapestry-british-museum-london-b62ee313ab3d4a2e00635587b84a4fbe</link>
 <pubDate>Fri, 10 Jul 2026 05:22:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Orbán allies protest in Hungary against plans to oust President Tamás Sulyok]]></title>
-<link>https://apnews.com/article/hungary-orban-supporters-protest-president-95f0bf6a5adb74ac02281d4017f05b62</link>
-<pubDate>Thu, 09 Jul 2026 19:19:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Burnham on course to become UK prime minister as nominations open for Labour leadership]]></title>
-<link>https://apnews.com/article/andy-burnham-labour-leadership-election-nominations-a692fe3d071a57024c474f799721f1f1</link>
-<pubDate>Thu, 09 Jul 2026 19:04:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -98,6 +92,12 @@
 <title><![CDATA[Colombia’s court on the conflict with FARC rebels in limbo as president-elect vows to dismantle it]]></title>
 <link>https://apnews.com/article/colombia-peace-tribunal-de-la-espriella-farc-0bde64c3a41cbabd769589b6204d6670</link>
 <pubDate>Thu, 09 Jul 2026 20:59:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Funeral processions held in holy Iraqi cities for Iran’s late Supreme Leader Ayatollah Ali Khamenei]]></title>
+<link>https://apnews.com/article/iraq-iran-khamenei-najaf-funeral-fb26617322732e89f5156d499b16d415</link>
+<pubDate>Fri, 10 Jul 2026 05:37:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,6 +149,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Fire at a shoe factory kills 28 in one of China’s deadliest blazes in recent years]]></title>
+<link>https://apnews.com/article/china-shoe-factory-fire-248acf60c6f6ce8ee0713d2b11eb3b71</link>
+<pubDate>Thu, 09 Jul 2026 17:45:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China’s passenger car exports are up 80% in June as EV demand grows, while sales drop at home]]></title>
+<link>https://apnews.com/article/china-autos-exports-evs-cars-4bce218f337534299f230c510917b84c</link>
+<pubDate>Fri, 10 Jul 2026 07:58:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Flooding from days of heavy rain in southern China has killed 39 people]]></title>
 <link>https://apnews.com/article/typhoon-maysak-bavi-china-taiwan-flooding-e0d8291a25627d8b62595739b51a569e</link>
 <pubDate>Thu, 09 Jul 2026 14:35:25 -0000</pubDate>
@@ -158,18 +170,6 @@
 <title><![CDATA[Why Trump covets Greenland]]></title>
 <link>https://apnews.com/article/greenland-denmark-security-trump-arctic-north-nato-95f6d033dc24938a8cb61f463175e6d7</link>
 <pubDate>Thu, 09 Jul 2026 13:20:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China allocates millions in new disaster relief after deadly storms and a landslide]]></title>
-<link>https://apnews.com/article/china-tropical-storm-maysak-rain-flooding-18959154a068bf186f04fe6dea882c16</link>
-<pubDate>Thu, 09 Jul 2026 02:17:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[21 who died in landslide in northwest China were forestry workers]]></title>
-<link>https://apnews.com/article/china-landslide-gansu-village-e2eb95f2d9982ce85f50de4a3c7df362</link>
-<pubDate>Wed, 08 Jul 2026 08:57:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +197,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Daily life around the world, in photos]]></title>
+<link>https://apnews.com/photo-gallery/daily-life-around-world-photos-286830fde4fa4451b2b5fccf5bab1236</link>
+<pubDate>Fri, 10 Jul 2026 08:58:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Asian stocks climb and oil prices slip as traders monitor Iran war developments]]></title>
+<link>https://apnews.com/article/stocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d</link>
+<pubDate>Fri, 10 Jul 2026 08:43:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Cup fans and Venezuela quake recovery in top photos from Latin America and Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/latin-america-caribbean-photo-gallery-4396211a892584579eb924e0f0291f22</link>
 <pubDate>Fri, 10 Jul 2026 05:52:26 -0000</pubDate>
@@ -215,6 +227,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Orbán allies protest in Hungary against plans to oust President Tamás Sulyok]]></title>
+<link>https://apnews.com/article/hungary-orban-supporters-protest-president-95f0bf6a5adb74ac02281d4017f05b62</link>
+<pubDate>Fri, 10 Jul 2026 08:28:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Catherine Zeta-Jones, Rod Stewart, Bryan Adams and more mourn the death of Bonnie Tyler]]></title>
 <link>https://apnews.com/article/bonnie-tyler-catherine-zeta-jones-bryan-adams-c2975c99e11d91bcfcbeca1158247d1c</link>
 <pubDate>Thu, 09 Jul 2026 17:30:31 -0000</pubDate>
@@ -227,9 +245,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Behind Christopher Nolan’s 6-country epic undertaking to bring ‘The Odyssey’ to the big screen]]></title>
+<title><![CDATA[Behind Christopher Nolan’s epic undertaking to bring ‘The Odyssey’ to the big screen]]></title>
 <link>https://apnews.com/article/odyssey-movie-christopher-nolan-matt-damon-030ec686f8ba3d88a7abd2cd16008518</link>
-<pubDate>Thu, 09 Jul 2026 15:35:26 -0000</pubDate>
+<pubDate>Fri, 10 Jul 2026 08:13:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -257,6 +275,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Chemical weapons watchdog reinstates Syria’s voting rights]]></title>
+<link>https://apnews.com/article/syria-chemical-weapons-opcw-ae5758b9dca006ff8a15acb78d23f358</link>
+<pubDate>Fri, 10 Jul 2026 07:58:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Santa Congress brings Christmas cheer to the height of summer]]></title>
 <link>https://apnews.com/article/santa-denmark-claus-christmas-summer-congress-aalborg-8892150e77cdd4823db4b27d535d3b84</link>
 <pubDate>Thu, 09 Jul 2026 14:50:26 -0000</pubDate>
@@ -272,6 +296,12 @@
 <title><![CDATA[Photos of Spain’s San Fermín festival as revelers fill Pamplona for the running of the bulls]]></title>
 <link>https://apnews.com/photo-gallery/photos-bull-run-san-fermin-pamplona-festival-da2c2ff2f7463c48dd25746e219b2ee9</link>
 <pubDate>Thu, 09 Jul 2026 09:47:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Burnham on course to become UK prime minister as nominations open for Labour leadership]]></title>
+<link>https://apnews.com/article/andy-burnham-labour-leadership-election-nominations-a692fe3d071a57024c474f799721f1f1</link>
+<pubDate>Fri, 10 Jul 2026 07:43:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,45 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s Kostyuk extends Wimbledon run as attacks hit Kyiv. She slams IOC decision on Russia]]></title>
-<link>https://apnews.com/article/marta-kostyuk-wimbledon-russia-ioc-baf43dc50936b99e226962fcd8efc265</link>
-<pubDate>Wed, 08 Jul 2026 20:00:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices]]></title>
-<link>https://apnews.com/article/oil-gasoline-prices-iran-trump-strait-72181b48494a6367c40cf6e9a817e6b4</link>
-<pubDate>Thu, 09 Jul 2026 09:32:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Takeaways: Trump leaves NATO summit declaring ‘a lot of love’ with allies after a rocky start]]></title>
-<link>https://apnews.com/article/nato-summit-takeaways-trump-ukraine-iran-albania-4821e7c6f2ab0b8a729d0e798bfe6359</link>
-<pubDate>Thu, 09 Jul 2026 09:17:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[On La Guaira’s beaches, Venezuela quake survivors improvise showers and toilets amid water shortages]]></title>
-<link>https://apnews.com/article/venezuela-earthquake-hygiene-sanitation-d5dd325c3126a574d3893268b48b0c22</link>
-<pubDate>Thu, 09 Jul 2026 21:37:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-adc9952b772e4b1097d13990489b0151</link>
-<pubDate>Wed, 08 Jul 2026 18:51:50 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal]]></title>
-<link>https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf</link>
-<pubDate>Thu, 09 Jul 2026 23:41:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A bitterly divided Iran grapples with Khamenei’s legacy as he is laid to rest]]></title>
-<link>https://apnews.com/article/iran-war-khamenei-politics-religion-society-a9e0405878db8266e1965d7c0b396243</link>
-<pubDate>Thu, 09 Jul 2026 10:02:32 -0000</pubDate>
+<title><![CDATA[One of Spain’s deadliest wildfires has killed at least 11 people]]></title>
+<link>https://apnews.com/article/spain-wildfire-almeria-760ecfff1316d56837888de4ab9efa21</link>
+<pubDate>Fri, 10 Jul 2026 08:58:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +389,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fire at a shoe factory kills 28 in one of China’s deadliest blazes in recent years]]></title>
-<link>https://apnews.com/article/china-shoe-factory-fire-248acf60c6f6ce8ee0713d2b11eb3b71</link>
-<pubDate>Fri, 10 Jul 2026 01:49:08 -0000</pubDate>
+<title><![CDATA[A shoe factory fire that killed 28 highlights China’s persisting worker safety risks]]></title>
+<link>https://apnews.com/article/china-fire-shoe-factory-safety-f6999ee3e299294f62e36668b0414302</link>
+<pubDate>Fri, 10 Jul 2026 08:43:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Community screenings help a movie set during an Indian insurgency bypass censorship]]></title>
+<link>https://apnews.com/article/india-punjab-satluj-film-censorship-a0e31a0f4682f3ec97dcef878844de4f</link>
+<pubDate>Fri, 10 Jul 2026 04:37:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -410,6 +410,12 @@
 <title><![CDATA[Paraguayan Senate passes motion against Sen. Celeste Amarilla for remarks against Kylian Mbappé]]></title>
 <link>https://apnews.com/video/paraguayan-senate-passes-motion-against-sen-celeste-amarilla-for-remarks-against-kylian-mbappe-0f3851fe6b734ec9b2e283d20ab0377e</link>
 <pubDate>Thu, 09 Jul 2026 23:11:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A bitterly divided Iran grapples with Khamenei’s legacy as he is laid to rest]]></title>
+<link>https://apnews.com/article/iran-war-khamenei-politics-religion-society-a9e0405878db8266e1965d7c0b396243</link>
+<pubDate>Thu, 09 Jul 2026 10:02:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -428,12 +434,6 @@
 <title><![CDATA[Canada’s Carney defends his visit to Saudi Arabia and slams criticism from afar]]></title>
 <link>https://apnews.com/article/canada-saudi-arabia-carney-244d88ec564a3c17b6cf4bee41f24548</link>
 <pubDate>Thu, 09 Jul 2026 22:56:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Syria says it arrested IS-linked suspects behind the Damascus bombings during Macron’s visit]]></title>
-<link>https://apnews.com/article/syria-explosions-bombings-arrests-macron-visit-e6638e5d105e00b2fda3bf3709cb78f5</link>
-<pubDate>Thu, 09 Jul 2026 22:23:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,21 +467,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Community screenings help a movie set during an Indian insurgency bypass censorship]]></title>
-<link>https://apnews.com/article/india-punjab-satluj-film-censorship-a0e31a0f4682f3ec97dcef878844de4f</link>
-<pubDate>Fri, 10 Jul 2026 04:37:27 -0000</pubDate>
+<title><![CDATA[Pakistan recovers more cargo plane debris from Arabian Sea as search for missing crew enters 3rd day]]></title>
+<link>https://apnews.com/article/pakistan-cargo-plane-arabian-sea-search-investigation-0446c3d05c19aa48a4b6888f72ef7c72</link>
+<pubDate>Fri, 10 Jul 2026 08:28:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[In any language: English speakers are tuning into World Cup broadcasts in Spanish]]></title>
 <link>https://apnews.com/article/world-cup-spanish-telemundo-9e1e49fbd577e2ebb9b753fe049ed5bb</link>
 <pubDate>Fri, 10 Jul 2026 04:22:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike kills World Cup screening organizer in Gaza just before kickoff]]></title>
-<link>https://apnews.com/article/gaza-world-cup-strike-egypt-israel-8fae6d465136e7f1a7d1bb03e805c0a0</link>
-<pubDate>Wed, 08 Jul 2026 08:42:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China’s passenger car exports are up 80% in June as EV demand grows, while sales drop at home]]></title>
-<link>https://apnews.com/article/china-autos-exports-evs-cars-4bce218f337534299f230c510917b84c</link>
-<pubDate>Thu, 09 Jul 2026 13:35:26 -0000</pubDate>
+<title><![CDATA[Philippines commemorates 2016 South China Sea ruling rejected by Beijing]]></title>
+<link>https://apnews.com/article/china-philippines-south-china-sea-disputes-arbitration-ruling-d0148a4175f80eedf70dcf2696f03ddd</link>
+<pubDate>Fri, 10 Jul 2026 08:13:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
