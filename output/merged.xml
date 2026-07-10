@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 10 Jul 2026 22:04:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 23:25:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal]]></title>
 <link>https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf</link>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[An islandwide blackout strikes Cuba for the second time this week as its grid crumbles]]></title>
+<link>https://apnews.com/article/cuba-blackout-power-outage-1a812d96a36c301cba6214767a87630f</link>
+<pubDate>Fri, 10 Jul 2026 23:25:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Solar-powered tricycles help Cubans navigate fuel shortages and blackouts]]></title>
 <link>https://apnews.com/article/cuba-fuel-crisis-electric-tricycles-fa75dc2aca5b78dac90b1e86c7c762b1</link>
 <pubDate>Fri, 10 Jul 2026 22:04:57 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Nicaragua strips lawyers from practicing in ongoing crackdown on dissent]]></title>
 <link>https://apnews.com/article/nicaragua-lawyers-crackdown-ortega-murillo-9ec6d0b6096eb96edf4a686fd5b80880</link>
 <pubDate>Fri, 10 Jul 2026 21:49:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Why English speakers are tuning into World Cup broadcasts in Spanish]]></title>
-<link>https://apnews.com/article/world-cup-spanish-telemundo-9e1e49fbd577e2ebb9b753fe049ed5bb</link>
-<pubDate>Fri, 10 Jul 2026 19:56:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -215,9 +215,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Small plane crashes in the Bahamas, killing several people. Officials report one survivor]]></title>
+<title><![CDATA[10 killed after small plane crashes in the Bahamas]]></title>
 <link>https://apnews.com/article/bahamas-plane-crash-flamingo-andros-f9616197ed760b76c01545705dd7f718</link>
-<pubDate>Fri, 10 Jul 2026 20:59:58 -0000</pubDate>
+<pubDate>Fri, 10 Jul 2026 23:25:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -227,9 +227,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Man partly sucked out of broken window on flight from Greece was pulled back by fellow passengers]]></title>
+<title><![CDATA[Fellow passengers pull back man partly sucked out of broken window on a flight from Greece]]></title>
 <link>https://apnews.com/article/greece-germany-ryanair-passenger-457c424f541152af1becdb387c90cfdd</link>
-<pubDate>Fri, 10 Jul 2026 19:41:22 -0000</pubDate>
+<pubDate>Fri, 10 Jul 2026 23:10:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -290,6 +290,12 @@
 <title><![CDATA[US stocks rise as Wall Street shows it’s still hungry for AI winners]]></title>
 <link>https://apnews.com/article/stocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d</link>
 <pubDate>Fri, 10 Jul 2026 19:11:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Why English speakers are tuning into World Cup broadcasts in Spanish]]></title>
+<link>https://apnews.com/article/world-cup-spanish-telemundo-9e1e49fbd577e2ebb9b753fe049ed5bb</link>
+<pubDate>Fri, 10 Jul 2026 22:55:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -374,12 +380,6 @@
 <title><![CDATA[France returns 23 Syrian treasures after 15 years as Macron visits Damascus]]></title>
 <link>https://apnews.com/article/syria-archaeology-artifacts-france-macron-palmyra-758a2ff0fc3ae6d7725126d31fe33093</link>
 <pubDate>Fri, 10 Jul 2026 05:37:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Behind Christopher Nolan’s epic undertaking to bring ‘The Odyssey’ to the big screen]]></title>
-<link>https://apnews.com/article/odyssey-movie-christopher-nolan-matt-damon-030ec686f8ba3d88a7abd2cd16008518</link>
-<pubDate>Fri, 10 Jul 2026 08:13:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An islandwide blackout strikes Cuba for the second time this week as its grid crumbles]]></title>
-<link>https://apnews.com/article/cuba-blackout-power-outage-1a812d96a36c301cba6214767a87630f</link>
-<pubDate>Fri, 10 Jul 2026 21:19:58 -0000</pubDate>
+<title><![CDATA[Outgoing Colombia minister warns climate gains could be at risk under new government]]></title>
+<link>https://apnews.com/article/colombia-government-climate-policy-amazon-indigenous-fracking-b0f9bb12187d8a457c5880caa975b223</link>
+<pubDate>Fri, 10 Jul 2026 23:25:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
