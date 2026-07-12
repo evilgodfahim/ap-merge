@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Jul 2026 18:47:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 19:59:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-united-states-trump-khamenei-funeral-533b52cf249314ba1d9b5f9a30b1ca43</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Typhoon Bavi weakens but still brings strong winds and rain to China]]></title>
+<link>https://apnews.com/article/typhoon-bavi-taiwan-china-japan-27518e742d51de72fdd13f1a33c858af</link>
+<pubDate>Sun, 12 Jul 2026 19:59:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[14 nations and the EU reaffirm 2016 ruling invalidating China’s claims in South China Sea]]></title>
 <link>https://apnews.com/article/philippines-south-china-sea-disputes-arbitration-6ca48fecb19b61901b05a3f86f70be54</link>
 <pubDate>Sun, 12 Jul 2026 14:06:41 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Vietnam police detain captain after speedboat capsizing kills 15 Indian tourists]]></title>
 <link>https://apnews.com/article/vietnam-tourist-boat-capsizes-indian-eebc56ca6b1434bd513daa395e4b03ab</link>
 <pubDate>Sun, 12 Jul 2026 09:07:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A shoe factory fire that killed 28 highlights China’s persisting worker safety risks]]></title>
-<link>https://apnews.com/article/china-fire-shoe-factory-safety-f6999ee3e299294f62e36668b0414302</link>
-<pubDate>Sat, 11 Jul 2026 14:16:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,15 +137,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Takeaways from a weeklong preliminary hearing in the Charlie Kirk murder case]]></title>
-<link>https://apnews.com/article/charlie-kirk-shot-trial-takeaways-21f979ed659cbe9c216481dd9f41c56e</link>
-<pubDate>Sat, 11 Jul 2026 15:12:45 -0000</pubDate>
+<title><![CDATA[Georgia teen charged in Apalachee High School shooting to appear in court for plea and sentencing]]></title>
+<link>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-a36bda3e72e224324a929a2dc42f0a62</link>
+<pubDate>Sun, 12 Jul 2026 13:51:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Dangerous heat wave threatens oppressive temperatures in much of the US]]></title>
-<link>https://apnews.com/article/heat-wave-dome-weather-808787f73a64aecbffb334b4fcbf33b6</link>
-<pubDate>Sat, 11 Jul 2026 21:08:06 -0000</pubDate>
+<title><![CDATA[Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness]]></title>
+<link>https://apnews.com/article/lindsey-graham-dies-south-carolina-bfa556e170f2df22ce9ffc7165da3dfa</link>
+<pubDate>Sun, 12 Jul 2026 19:44:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -413,9 +413,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Syria’s new parliament holds first session since Assad’s ouster]]></title>
+<title><![CDATA[Syria’s new parliament holds first session since ouster of ex-President Assad]]></title>
 <link>https://apnews.com/article/syria-parliament-damascus-6be4ad499015beefcf40d47215bd75a7</link>
-<pubDate>Sun, 12 Jul 2026 16:28:42 -0000</pubDate>
+<pubDate>Sun, 12 Jul 2026 19:59:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,6 +443,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Keystone Pipeline system’s operator agrees to pay a $26.9M penalty over a major Kansas oil spill]]></title>
+<link>https://apnews.com/article/keystone-oil-spill-kansas-south-bow-0e71b2303a5f23958c5f6cd1216b41d4</link>
+<pubDate>Sun, 12 Jul 2026 19:44:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Focus turns to building stronger institutions in Africa to speed shift to renewable energy]]></title>
 <link>https://apnews.com/article/renewable-energy-finance-africa-290f6f3dd0a6f4b71d5d1e280a41e060</link>
 <pubDate>Sun, 12 Jul 2026 06:53:40 -0000</pubDate>
@@ -461,15 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high]]></title>
-<link>https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f</link>
-<pubDate>Sat, 11 Jul 2026 17:27:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Typhoon Bavi weakens but still brings strong winds and rain to China]]></title>
-<link>https://apnews.com/article/typhoon-bavi-taiwan-china-japan-27518e742d51de72fdd13f1a33c858af</link>
-<pubDate>Sun, 12 Jul 2026 11:34:43 -0000</pubDate>
+<title><![CDATA[Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say]]></title>
+<link>https://apnews.com/article/thailand-bangkok-fire-pub-0869e3d356d4be11c5633f9ceb3dc329</link>
+<pubDate>Sun, 12 Jul 2026 19:29:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness]]></title>
-<link>https://apnews.com/article/lindsey-graham-dies-south-carolina-bfa556e170f2df22ce9ffc7165da3dfa</link>
-<pubDate>Sun, 12 Jul 2026 14:00:35 -0000</pubDate>
+<title><![CDATA[Lindsey Graham’s journey from a pool hall to the heights of political power]]></title>
+<link>https://apnews.com/article/lindsey-graham-south-carolina-senate-trump-88aaf34c3a2f1daa382b80b2099ccf5f</link>
+<pubDate>Sun, 12 Jul 2026 19:14:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
