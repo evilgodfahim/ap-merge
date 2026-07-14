@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 14 Jul 2026 21:27:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 22:28:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[It’s ‘Super Tuesday’ for EU enlargement as 4 candidates move forward with negotiations]]></title>
+<link>https://apnews.com/article/europe-enlargement-ukraine-moldova-albania-montenegro-88bf733d154e9e383451c27d104ad27b</link>
+<pubDate>Tue, 14 Jul 2026 22:28:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine]]></title>
 <link>https://apnews.com/article/france-bastille-day-ukraine-troops-parade-d78621ef18de51b16c8ab99e2bf43f4b</link>
 <pubDate>Tue, 14 Jul 2026 10:41:24 -0000</pubDate>
@@ -50,12 +56,6 @@
 <title><![CDATA[Ukraine downs 5 Russian ballistic missiles as Kyiv looks to boost its air defenses]]></title>
 <link>https://apnews.com/article/russia-ukraine-ballistic-missiles-patriot-attacks-kyiv-f38e07c64d4beba79ca145c3b4bb9510</link>
 <pubDate>Tue, 14 Jul 2026 14:20:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Russian crew arrives at the International Space Station for 8-month mission]]></title>
-<link>https://apnews.com/article/russia-united-states-space-station-isaacman-8a5bed807f6a63f7c6121e93653611bf</link>
-<pubDate>Tue, 14 Jul 2026 19:48:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -119,6 +119,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Man fleeing immigration officers in Florida is struck and killed by tractor trailer, police say]]></title>
+<link>https://apnews.com/article/man-killed-semi-truck-ice-florida-8e65b1ca2eab051392afc316972c92eb</link>
+<pubDate>Tue, 14 Jul 2026 22:13:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What it means when federal authorities say cars are being weaponized]]></title>
 <link>https://apnews.com/article/weaponize-vehicle-immigration-fatal-shooting-b7ab3c236fc38ab943e7bd9e3a5478bd</link>
 <pubDate>Tue, 14 Jul 2026 18:34:22 -0000</pubDate>
@@ -131,15 +137,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Busy wildfire season tests US fire bosses as they juggle resources to stay ahead]]></title>
-<link>https://apnews.com/article/western-wildfires-firefighters-air-tankers-e0ae4578be73ae1e04c017f038514cc3</link>
-<pubDate>Tue, 14 Jul 2026 09:41:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[As cyclospora illnesses surge to a record, Michigan officials eye lettuce as a possible cause]]></title>
-<link>https://apnews.com/article/cyclospora-michigan-lettuce-taco-bell-244196c6f2a1b17ed872ef245ca6868f</link>
-<pubDate>Tue, 14 Jul 2026 18:19:22 -0000</pubDate>
+<title><![CDATA[Subaru issues recall for 541,000 SUVs over label with incorrect weight rating]]></title>
+<link>https://apnews.com/article/subaru-recall-weight-label-crosstrek-forester-05e27c7958aefdada85daccdf053d4df</link>
+<pubDate>Tue, 14 Jul 2026 21:58:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Scottish traffic cone gets dignitary’s welcome in Boston after World Cup friendship]]></title>
+<link>https://apnews.com/article/traffic-cone-scotland-world-cup-1dd906d4add39199db5c1190164ac151</link>
+<pubDate>Tue, 14 Jul 2026 22:28:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Tropical depression forms far offshore of Mexico and is forecast to strengthen]]></title>
 <link>https://apnews.com/article/tropical-depression-weather-c2337a7b5d7924676474d67fd944a856</link>
 <pubDate>Tue, 14 Jul 2026 21:27:15 -0000</pubDate>
@@ -239,9 +245,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Authorities looking for 6 missing in a Brussels building fire find charred bodies in a lift]]></title>
+<title><![CDATA[At least 6 killed in Brussels building fire]]></title>
 <link>https://apnews.com/article/belgium-fire-building-site-brussels-close-speybrouck-78ec97df53d23fc842751c2371adf832</link>
-<pubDate>Tue, 14 Jul 2026 15:38:15 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 22:13:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -254,6 +260,12 @@
 <title><![CDATA[An experimental Alzheimer’s drug shows promise targeting a different brain protein, new study shows]]></title>
 <link>https://apnews.com/article/alzheimers-drug-brain-protein-tau-diranersen-biogen-d58728ee8f7d9dfd9ec8de416cddd75d</link>
 <pubDate>Tue, 14 Jul 2026 17:49:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US-Russian crew arrives at the International Space Station for 8-month mission]]></title>
+<link>https://apnews.com/article/russia-united-states-space-station-isaacman-8a5bed807f6a63f7c6121e93653611bf</link>
+<pubDate>Tue, 14 Jul 2026 21:58:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,18 +371,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[EU rallies $1 billion in pledges for Gaza’s recovery]]></title>
-<link>https://apnews.com/article/gaza-reconstruction-aid-european-union-funds-0011a988099b6f865259f4b14c8e4d59</link>
-<pubDate>Tue, 14 Jul 2026 16:15:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US citizen is found guilty of helping export tech to Iran in violation of sanctions]]></title>
-<link>https://apnews.com/article/iran-sanctions-tech-export-sadeghi-trial-3792a6fbceea0d8856d728080bea6d23</link>
-<pubDate>Mon, 13 Jul 2026 16:29:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US restores blockade on Iran after its attacks on ships in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be</link>
 <pubDate>Tue, 14 Jul 2026 21:27:16 -0000</pubDate>
@@ -437,6 +437,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave]]></title>
+<link>https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8</link>
+<pubDate>Tue, 14 Jul 2026 22:28:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Inflation cools more than expected in June as gas costs fall, underlying prices ease]]></title>
 <link>https://apnews.com/article/inflation-trump-food-prices-gas-53d221aa918c466172af494ba7debc00</link>
 <pubDate>Tue, 14 Jul 2026 14:05:37 -0000</pubDate>
@@ -455,15 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Subaru issues recall for 541,000 SUVs over label with incorrect weight rating]]></title>
-<link>https://apnews.com/article/subaru-recall-weight-label-crosstrek-forester-05e27c7958aefdada85daccdf053d4df</link>
-<pubDate>Tue, 14 Jul 2026 19:18:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[It’s ‘Super Tuesday’ for EU enlargement as 4 candidates move forward with negotiations]]></title>
-<link>https://apnews.com/article/europe-enlargement-ukraine-moldova-albania-montenegro-88bf733d154e9e383451c27d104ad27b</link>
-<pubDate>Tue, 14 Jul 2026 10:11:27 -0000</pubDate>
+<title><![CDATA[Gibraltar ushers in a new era as British territory’s border fence with Spain is removed]]></title>
+<link>https://apnews.com/article/spain-gibraltar-uk-brexit-9113dd58dc8220826038022e84e3b662</link>
+<pubDate>Tue, 14 Jul 2026 22:13:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump administration orders ICE to suspend most vehicle stops after two deadly shootings]]></title>
+<title><![CDATA[Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings]]></title>
 <link>https://apnews.com/article/maine-ice-shooting-man-killed-73681fcf59fceb8b43b198ccaec554d3</link>
-<pubDate>Tue, 14 Jul 2026 19:03:18 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 21:58:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
