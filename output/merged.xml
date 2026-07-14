@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 14 Jul 2026 20:03:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 21:27:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Earthquake aid keeps flowing from Florida to Venezuela, as volunteers unite to help recovery]]></title>
+<link>https://apnews.com/article/venezuela-earthquakes-la-guaira-gem-diaspora-ad479a3dee41aea9e10ea1c6ef85fffc</link>
+<pubDate>Tue, 14 Jul 2026 21:27:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Democratic members of US Congress visit Cuba and compare US energy embargo to ‘silent Gaza’]]></title>
 <link>https://apnews.com/article/cuba-embargo-congress-pocan-legerfernandez-dexter-ramirez-e369a23097dcf104d424af88cdc2134a</link>
 <pubDate>Tue, 14 Jul 2026 14:05:29 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[Caribbean leaders press for slavery reparations, end of islands’ territorial status]]></title>
 <link>https://apnews.com/article/caribbean-slavery-reparations-uk-london-church-england-2c5a6d386e5a590836fa0534fdc6b01f</link>
 <pubDate>Tue, 14 Jul 2026 19:33:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[El Salvador’s ruling party clears the way for Bukele’s 3rd term]]></title>
-<link>https://apnews.com/article/el-salvador-bukele-third-term-president-constitution-e558da522c8ddac7b7fe2508597bdf33</link>
-<pubDate>Tue, 14 Jul 2026 00:34:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,15 +191,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Tropical depression forms far offshore of Mexico and is forecast to strengthen]]></title>
+<link>https://apnews.com/article/tropical-depression-weather-c2337a7b5d7924676474d67fd944a856</link>
+<pubDate>Tue, 14 Jul 2026 21:27:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Senate Democrats block $1 trillion defense bill in protest over Iran war]]></title>
+<link>https://apnews.com/article/senate-defense-bill-iran-war-fe6f7d37197f8e04dbe12dcec390aad2</link>
+<pubDate>Tue, 14 Jul 2026 21:12:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Senators rally to Russia sanctions bill, one of Graham’s top priorities]]></title>
 <link>https://apnews.com/article/graham-senate-ukraine-russia-sanctions-e0e22a2c90391ad527547093e07e3661</link>
 <pubDate>Tue, 14 Jul 2026 20:03:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Spain takes 1-0 halftime lead over France on Oyarzabal penalty in World Cup semifinals]]></title>
+<title><![CDATA[Spain shuts down France and Kylian Mbappé, advances to the World Cup final with a 2-0 victory]]></title>
 <link>https://apnews.com/article/france-spain-world-cup-score-87fb7740fa552edf4bfd28d0e8727c23</link>
-<pubDate>Tue, 14 Jul 2026 19:48:17 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 20:57:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -269,9 +281,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Britain’s Hillsborough Law aims to stop official cover-ups after tragedies]]></title>
+<title><![CDATA[British lawmakers approve Hillsborough Law to stop official cover-ups after tragedies]]></title>
 <link>https://apnews.com/article/uk-hillsborough-disaster-law-burnham-police-security-cf905baed4336ad93a84b5a64733cb47</link>
-<pubDate>Tue, 14 Jul 2026 11:03:57 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 20:42:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -293,9 +305,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks tick higher after data shows slowing inflation, even as IBM plunges]]></title>
+<title><![CDATA[US stocks rise after data shows slowing inflation, even as IBM plunges]]></title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce</link>
-<pubDate>Tue, 14 Jul 2026 19:33:17 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 20:27:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -308,6 +320,12 @@
 <title><![CDATA[Human rights body files legal petition for Cuban artist and dissident Luis Manuel Otero Alcántara]]></title>
 <link>https://apnews.com/article/luis-manuel-otero-alcantara-cuba-missing-habeas-release-de5705fde952bac9d87dcdc9b6207c75</link>
 <pubDate>Tue, 14 Jul 2026 01:19:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[El Salvador’s ruling party clears the way for Bukele’s 3rd term]]></title>
+<link>https://apnews.com/article/el-salvador-bukele-third-term-president-constitution-e558da522c8ddac7b7fe2508597bdf33</link>
+<pubDate>Tue, 14 Jul 2026 20:12:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,27 +371,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[In a sweet discovery, astronomers find sugar lurking in the space between stars]]></title>
-<link>https://apnews.com/article/erythrulose-interstellar-medium-sugar-357144f4d69449b29dff17271ccd0dcd</link>
-<pubDate>Mon, 13 Jul 2026 16:14:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Steven Spielberg, Nicole Kidman and Cillian Murphy and more mourn the death of Sam Neill]]></title>
-<link>https://apnews.com/article/sam-neill-reactions-e8f0b52e0ce68da12a473c9b20d7b938</link>
-<pubDate>Mon, 13 Jul 2026 19:55:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UK police rearrest the suspect in Ann Widdecombe killing on terrorism suspicion]]></title>
-<link>https://apnews.com/article/britain-widdecombe-murder-suspect-de024110706ac0615a69b221333b657f</link>
-<pubDate>Mon, 13 Jul 2026 15:44:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump backs away from plan to charge fees in the Strait of Hormuz as attacks intensify]]></title>
+<title><![CDATA[US restores blockade on Iran after its attacks on ships in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be</link>
-<pubDate>Tue, 14 Jul 2026 17:00:43 -0000</pubDate>
+<pubDate>Tue, 14 Jul 2026 21:27:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Earthquake aid keeps flowing from Florida to Venezuela, as volunteers unite to help recovery]]></title>
-<link>https://apnews.com/article/venezuela-earthquakes-la-guaira-gem-diaspora-ad479a3dee41aea9e10ea1c6ef85fffc</link>
-<pubDate>Tue, 14 Jul 2026 13:05:37 -0000</pubDate>
+<title><![CDATA[Mexico asks US state attorneys general to investigate migrant deaths in ICE custody]]></title>
+<link>https://apnews.com/article/ice-migrant-houston-mexico-lorenzo-salgado-araujo-f0171a06248dc8ad4968d3e742f1b299</link>
+<pubDate>Tue, 14 Jul 2026 21:12:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
