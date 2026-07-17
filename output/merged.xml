@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 17 Jul 2026 01:29:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 04:40:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be</link>
 <pubDate>Wed, 15 Jul 2026 03:41:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US hits more bridges in Iran in an expansion of its airstrike campaign]]></title>
+<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769</link>
+<pubDate>Fri, 17 Jul 2026 04:40:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Caribbean leaders press for slavery reparations, end of islands’ territorial status]]></title>
-<link>https://apnews.com/article/caribbean-slavery-reparations-uk-london-church-england-2c5a6d386e5a590836fa0534fdc6b01f</link>
-<pubDate>Tue, 14 Jul 2026 19:33:17 -0000</pubDate>
+<title><![CDATA[Iran-backed Houthi leader in Yemen threatens escalation with Saudi Arabia]]></title>
+<link>https://apnews.com/article/yemen-saudi-arabia-war-houthi-iran-70a8626c44a50a4f489a0b193788fd43</link>
+<pubDate>Fri, 17 Jul 2026 04:25:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,9 +47,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s latest strikes kill a dozen people in Gaza, including police officers]]></title>
-<link>https://apnews.com/article/israel-gaza-hamas-strikes-casualties-265d48b73dedab69cf3b100947d17f58</link>
-<pubDate>Fri, 17 Jul 2026 01:14:32 -0000</pubDate>
+<title><![CDATA[Ukrainians protest Zelenskyy’s ouster of his popular defense minister]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-defense-minister-reshuffle-fedorov-88083e4381b1690f5048088d75954d3a</link>
+<pubDate>Fri, 17 Jul 2026 04:10:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Poland charges man allegedly paid by Russia to inflame Polish-Ukrainian tensions]]></title>
-<link>https://apnews.com/article/poland-russia-ukraine-hybrid-war-sabotage-7403ebdc1241b976f4a567fc49875e0c</link>
-<pubDate>Fri, 17 Jul 2026 00:44:32 -0000</pubDate>
+<title><![CDATA[More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees]]></title>
+<link>https://apnews.com/article/un-rohingya-myanmar-bangladesh-boats-migration-refugees-40aade57d92ab1828f86d82141ef884c</link>
+<pubDate>Fri, 17 Jul 2026 03:55:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[India’s Gen Z ‘cockroach’ protest plans a march on Parliament]]></title>
 <link>https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-688cd957d2db3b1206193df046140bb4</link>
 <pubDate>Thu, 16 Jul 2026 10:32:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hong Kong official says booksellers should ensure titles won’t harm national security after arrests]]></title>
-<link>https://apnews.com/article/hong-kong-booksellers-arrests-national-security-arrests-412f1458d3526d06a193e4412ec56250</link>
-<pubDate>Fri, 17 Jul 2026 00:29:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -98,6 +98,12 @@
 <title><![CDATA[US imposing a 25% tariff on some Brazilian imports starting July 22, citing unfair trade practices]]></title>
 <link>https://apnews.com/article/us-brazil-trade-tariffs-99e8c52a44c75f31c343d7ebad41f614</link>
 <pubDate>Thu, 16 Jul 2026 19:54:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon and Israel move toward implementing withdrawal agreement, US officials say]]></title>
+<link>https://apnews.com/article/lebanon-israel-rome-hezbollah-withdrawal-agreement-pilot-zones-3101eba31e8e7a67d3bcd2995f900377</link>
+<pubDate>Thu, 16 Jul 2026 17:01:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,6 +155,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK nationalizes Chinese-owned British Steel to protect nation’s steelmaking capacity]]></title>
+<link>https://apnews.com/article/britain-steel-nationalization-jingye-scunthorpe-6c7863e89f7031ea857e407d64f0c3c2</link>
+<pubDate>Fri, 17 Jul 2026 03:40:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump uses primetime address to raise doubts about US elections ahead of midterms]]></title>
+<link>https://apnews.com/article/trump-primetime-address-elections-5c84a59dffc20c12ed2fcb822fa950c9</link>
+<pubDate>Fri, 17 Jul 2026 03:25:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[China and Xi are seen more favorably than the US and Trump in many nations, new survey says]]></title>
 <link>https://apnews.com/article/china-trump-global-views-pew-survey-e69dbd8cdb57fba36e28d0b42390ed8d</link>
 <pubDate>Thu, 16 Jul 2026 00:38:28 -0000</pubDate>
@@ -158,18 +176,6 @@
 <title><![CDATA[China grew at its slowest pace in more than 3 years last quarter]]></title>
 <link>https://apnews.com/article/china-economy-trade-exports-ai-95136222f87d5a1e62918f41efab00be</link>
 <pubDate>Wed, 15 Jul 2026 05:35:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Family says US seismologist has been detained in China for nearly 2 years with no trial]]></title>
-<link>https://apnews.com/article/wrongful-detention-xi-trump-chen-youlin-8a77ac4776cf1c88005f65e6c331b7a0</link>
-<pubDate>Wed, 15 Jul 2026 02:56:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign]]></title>
-<link>https://apnews.com/article/china-ma-xingrui-politburo-xinjiang-corruption-95e5dba322ddc5bb6f2ee661ac3c2bff</link>
-<pubDate>Tue, 14 Jul 2026 07:57:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -299,9 +305,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK nationalizes Chinese-owned British Steel to protect nation’s steelmaking capacity]]></title>
-<link>https://apnews.com/article/britain-steel-nationalization-jingye-scunthorpe-6c7863e89f7031ea857e407d64f0c3c2</link>
-<pubDate>Thu, 16 Jul 2026 08:37:34 -0000</pubDate>
+<title><![CDATA[Poland charges man allegedly paid by Russia to inflame Polish-Ukrainian tensions]]></title>
+<link>https://apnews.com/article/poland-russia-ukraine-hybrid-war-sabotage-7403ebdc1241b976f4a567fc49875e0c</link>
+<pubDate>Thu, 16 Jul 2026 10:48:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,27 +383,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US expands its airstrike campaign against Iran by hitting more bridges]]></title>
-<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769</link>
-<pubDate>Fri, 17 Jul 2026 01:29:35 -0000</pubDate>
+<title><![CDATA[US strikes bridges and collapses a tower at a key port as its Iran campaign expands]]></title>
+<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-17-2026-2ad0cfe592eb258cb15a9eb04411d58a</link>
+<pubDate>Fri, 17 Jul 2026 04:40:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hopes for US-Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/iran-war-trump-strait-hormuz-negotiations-476de0b0c341ead38126e617234d0939</link>
-<pubDate>Fri, 17 Jul 2026 01:14:35 -0000</pubDate>
+<title><![CDATA[Andy Burnham, a mayor from England’s north, is poised to become Britain’s next prime minister]]></title>
+<link>https://apnews.com/article/andy-burnham-profile-uk-prime-minister-d9b573820fc8eda4975d8c67d60b2a28</link>
+<pubDate>Fri, 17 Jul 2026 04:25:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainians protest Zelenskyy’s ouster of his popular defense minister]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-defense-minister-reshuffle-fedorov-88083e4381b1690f5048088d75954d3a</link>
-<pubDate>Thu, 16 Jul 2026 14:29:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s imperial family is diminishing. Plan for male-only succession could make it worse]]></title>
+<title><![CDATA[Japan’s parliament enshrines male-only succession for the shrinking imperial family]]></title>
 <link>https://apnews.com/article/japan-imperial-family-succession-blood-patriarchy-cdb66fc2c64c933c98020c989938a8ee</link>
-<pubDate>Fri, 17 Jul 2026 00:44:35 -0000</pubDate>
+<pubDate>Fri, 17 Jul 2026 04:10:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -410,6 +410,12 @@
 <title><![CDATA[Three strikes hit different zones of central Gaza after warning from the Israeli army]]></title>
 <link>https://apnews.com/video/three-strikes-hit-different-zones-of-central-gaza-after-warning-from-the-israeli-army-bcc95ddab00e4fdb87f4cfdea56541f9</link>
 <pubDate>Thu, 16 Jul 2026 00:53:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[3 islands help control access to the Strait of Hormuz. They’re in the crosshairs of the Iran war]]></title>
+<link>https://apnews.com/article/iran-us-war-abu-musa-tunb-kharg-islands-e98279652479c24a99c9907177ecb990</link>
+<pubDate>Thu, 16 Jul 2026 14:14:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,15 +437,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran-backed Houthi leader in Yemen threatens escalation with Saudi Arabia]]></title>
-<link>https://apnews.com/article/yemen-saudi-arabia-war-houthi-iran-70a8626c44a50a4f489a0b193788fd43</link>
-<pubDate>Thu, 16 Jul 2026 16:31:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
 <pubDate>Mon, 13 Jul 2026 15:14:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Asian shares sink, with Tokyo down nearly 5% as slumping AI stocks drag world markets lower]]></title>
+<link>https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a</link>
+<pubDate>Fri, 17 Jul 2026 03:55:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,15 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Retail sales up just 0.2% in June, but excluding business at the gas pump, shoppers are resilient]]></title>
-<link>https://apnews.com/article/retail-sales-inflation-gas-65f5a2476b28c19ebdada5ec287160d8</link>
-<pubDate>Thu, 16 Jul 2026 13:59:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees]]></title>
-<link>https://apnews.com/article/un-rohingya-myanmar-bangladesh-boats-migration-refugees-40aade57d92ab1828f86d82141ef884c</link>
-<pubDate>Thu, 16 Jul 2026 05:53:48 -0000</pubDate>
+<title><![CDATA[Hong Kong official says booksellers should ensure titles won’t harm national security after arrests]]></title>
+<link>https://apnews.com/article/hong-kong-booksellers-arrests-national-security-arrests-412f1458d3526d06a193e4412ec56250</link>
+<pubDate>Fri, 17 Jul 2026 03:40:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon and Israel move toward implementing withdrawal agreement, US officials say]]></title>
-<link>https://apnews.com/article/lebanon-israel-rome-hezbollah-withdrawal-agreement-pilot-zones-3101eba31e8e7a67d3bcd2995f900377</link>
-<pubDate>Wed, 15 Jul 2026 17:11:50 -0000</pubDate>
+<title><![CDATA[Israel’s latest strikes kill a dozen people in Gaza, including police officers]]></title>
+<link>https://apnews.com/article/israel-gaza-hamas-strikes-casualties-265d48b73dedab69cf3b100947d17f58</link>
+<pubDate>Thu, 16 Jul 2026 03:39:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
