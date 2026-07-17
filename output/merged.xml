@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 17 Jul 2026 16:57:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 18:00:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US hits more bridges in Iran in an expansion of its airstrike campaign]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Caribbean leaders press for slavery reparations, end of islands’ territorial status]]></title>
-<link>https://apnews.com/article/caribbean-slavery-reparations-uk-london-church-england-2c5a6d386e5a590836fa0534fdc6b01f</link>
-<pubDate>Tue, 14 Jul 2026 19:33:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-week-ap-photojournalists-trump-world-cup-maine-immigration-a917e247918632f30e0ae88f142011a9</link>
 <pubDate>Fri, 17 Jul 2026 16:57:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Caribbean leaders press for slavery reparations, end of islands’ territorial status]]></title>
+<link>https://apnews.com/article/caribbean-slavery-reparations-uk-london-church-england-2c5a6d386e5a590836fa0534fdc6b01f</link>
+<pubDate>Tue, 14 Jul 2026 19:33:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported]]></title>
+<link>https://apnews.com/article/mexico-earthquake-guatemala-el-salvador-chiapas-5fd814654cc71416982a2b3b5e85aea6</link>
+<pubDate>Fri, 17 Jul 2026 18:00:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Latin American governments prepare for El Nino as drought, floods and heat loom]]></title>
 <link>https://apnews.com/article/el-nino-preparations-latin-america-climate-energy-transport-water-drought-67500aefa69ca35a067bc24628168c26</link>
 <pubDate>Fri, 17 Jul 2026 16:42:22 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Quake recovery, World Cup joy and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/photos-venezuela-earthquake-world-cup-f49d196d9d987903efbd0c9506640c72</link>
 <pubDate>Fri, 17 Jul 2026 16:27:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil calls Trump’s 25% tariff unjust and vows to impose reciprocal tariffs]]></title>
-<link>https://apnews.com/article/brazil-us-tariffs-trump-lula-bolsonaro-0dfbd48b7f901e6c3423801377aba8c7</link>
-<pubDate>Fri, 17 Jul 2026 14:08:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,9 +125,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Parts of Texas face threats of dangerous flooding while previously hit areas launch cleanup efforts]]></title>
+<title><![CDATA[First responders rescue people from Texas floods while other hard-hit areas are cleaning up]]></title>
 <link>https://apnews.com/article/texas-floods-warning-cleanup-hard-hit-2f17c4d45a7189d7a7c404fdadac545a</link>
-<pubDate>Fri, 17 Jul 2026 14:51:25 -0000</pubDate>
+<pubDate>Fri, 17 Jul 2026 17:45:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A body is recovered after San Francisco boat tragedy but 2 remain missing]]></title>
-<link>https://apnews.com/article/san-francisco-bay-boat-sinks-c03627af1df2189595e42f02aad56c7a</link>
-<pubDate>Fri, 17 Jul 2026 15:57:22 -0000</pubDate>
+<title><![CDATA[Far above the Earth, NASA’s Apollo lunar lander put astronauts on the moon]]></title>
+<link>https://apnews.com/article/apollo-lunar-lander-moon-nasa-ded0b6a8271940c1966a64fb9d78d7de</link>
+<pubDate>Fri, 17 Jul 2026 17:30:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[Crowd surge at Hindu festival in India leaves 1 dead and many hospitalized]]></title>
 <link>https://apnews.com/article/india-hindu-festival-crowd-surge-rath-yatra-a5709bf3a35332f1548de596ba9ceda2</link>
 <pubDate>Thu, 16 Jul 2026 15:40:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Uncertainty clouds the forecast on whether wildfire smoke will affect the World Cup final]]></title>
+<link>https://apnews.com/article/world-cup-final-smoke-76edbb6afca0501747d8ebaf91a741fc</link>
+<pubDate>Fri, 17 Jul 2026 18:00:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,6 +341,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil calls Trump’s 25% tariff unjust and vows to impose reciprocal tariffs]]></title>
+<link>https://apnews.com/article/brazil-us-tariffs-trump-lula-bolsonaro-0dfbd48b7f901e6c3423801377aba8c7</link>
+<pubDate>Fri, 17 Jul 2026 17:45:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the day by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-2238cb370b6945a0a1939ae2ebe29895</link>
 <pubDate>Thu, 16 Jul 2026 17:01:22 -0000</pubDate>
@@ -365,18 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Danny Boyle’s Rupert Murdoch movie ‘Ink’ to open Venice Film Festival]]></title>
-<link>https://apnews.com/article/ink-danny-boyle-rupert-murdoch-d07f77d9acc48d95920049d59dba6521</link>
-<pubDate>Thu, 16 Jul 2026 15:40:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US designates 2 new Mexican cartels as foreign terrorist organizations]]></title>
-<link>https://apnews.com/article/cartels-mexico-us-trump-terrorists-627b1664168577bc1e02cb775eb54837</link>
-<pubDate>Fri, 17 Jul 2026 16:12:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US strikes bridges in Iran, which targets a water desalination plant in Kuwait]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-17-2026-2ad0cfe592eb258cb15a9eb04411d58a</link>
 <pubDate>Fri, 17 Jul 2026 15:51:27 -0000</pubDate>
@@ -401,9 +401,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Landslide in China’s Chongqing city kills at least 8 and leaves 34 missing]]></title>
+<title><![CDATA[Landslide in China’s Chongqing kills at least 8 and leaves 34 missing]]></title>
 <link>https://apnews.com/article/china-landslide-chongqing-buildings-127e504babcf9d70773e4ec67af34952</link>
-<pubDate>Fri, 17 Jul 2026 15:36:27 -0000</pubDate>
+<pubDate>Fri, 17 Jul 2026 18:00:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported]]></title>
-<link>https://apnews.com/article/mexico-earthquake-guatemala-el-salvador-chiapas-5fd814654cc71416982a2b3b5e85aea6</link>
-<pubDate>Fri, 17 Jul 2026 16:27:24 -0000</pubDate>
+<title><![CDATA[The US plans to auction off sections of water around American Samoa in a push for deep-sea mining]]></title>
+<link>https://apnews.com/article/american-samoa-trump-deep-sea-mining-72aa92757d931508e983310fd2555149</link>
+<pubDate>Fri, 17 Jul 2026 17:45:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
