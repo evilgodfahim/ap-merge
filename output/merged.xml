@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Jul 2026 18:13:48 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 19:37:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US hits more bridges in Iran in an expansion of its airstrike campaign]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769</link>
@@ -95,9 +95,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported]]></title>
-<link>https://apnews.com/article/mexico-earthquake-guatemala-el-salvador-chiapas-5fd814654cc71416982a2b3b5e85aea6</link>
-<pubDate>Fri, 17 Jul 2026 18:00:08 -0000</pubDate>
+<title><![CDATA[Mexico’s president to attend World Cup final at Trump’s invitation]]></title>
+<link>https://apnews.com/article/mexico-sheinbaum-trump-world-cup-final-soccer-b31b36b9def2850102a0d0cc3444c722</link>
+<pubDate>Sat, 18 Jul 2026 19:37:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Women are dying in Africa as US ramps up its global battle against abortion]]></title>
+<link>https://apnews.com/article/africa-abortion-maputo-protocol-maternal-deaths-trump-dd846b875555e8f76dcacb61cf1d3907</link>
+<pubDate>Sat, 18 Jul 2026 05:10:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -116,12 +122,6 @@
 <title><![CDATA[Orphanage fire in Algeria kills 11 children, injures 19 others]]></title>
 <link>https://apnews.com/article/algeria-algiers-orphanage-fire-children-5e84d086195aef7a78661d8a3c4a86a5</link>
 <pubDate>Thu, 16 Jul 2026 15:25:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[No radiation leak after ‘contamination’ events at Africa’s only nuclear plant, regulator says]]></title>
-<link>https://apnews.com/article/nuclear-reactor-south-africa-contamination-regulator-866adfe2fb7dab78878ae551843a5bd5</link>
-<pubDate>Fri, 17 Jul 2026 00:14:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -209,12 +209,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mali rebels ambush an army convoy, killing or capturing scores of soldiers]]></title>
-<link>https://apnews.com/article/mali-rebels-soldiers-killed-captured-d10c035668be0eaf9174db4c89eca90b</link>
-<pubDate>Sat, 18 Jul 2026 13:59:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Paris’ Grand Mosque celebrates its 100th anniversary and interfaith dialogue]]></title>
 <link>https://apnews.com/article/france-paris-mosque-100-anniversary-muslims-876f1f4ce27ad747813811793cec55e2</link>
 <pubDate>Sat, 18 Jul 2026 12:47:38 -0000</pubDate>
@@ -278,6 +272,12 @@
 <title><![CDATA[Quake recovery, World Cup joy and other top photos from Latin America and the Caribbean]]></title>
 <link>https://apnews.com/photo-gallery/photos-venezuela-earthquake-world-cup-f49d196d9d987903efbd0c9506640c72</link>
 <pubDate>Fri, 17 Jul 2026 18:58:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported]]></title>
+<link>https://apnews.com/article/mexico-earthquake-guatemala-el-salvador-chiapas-5fd814654cc71416982a2b3b5e85aea6</link>
+<pubDate>Sat, 18 Jul 2026 19:37:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Women are dying in Africa as US ramps up its global battle against abortion]]></title>
-<link>https://apnews.com/article/africa-abortion-maputo-protocol-maternal-deaths-trump-dd846b875555e8f76dcacb61cf1d3907</link>
-<pubDate>Sat, 18 Jul 2026 13:29:14 -0000</pubDate>
+<title><![CDATA[Mali rebels ambush an army convoy, killing or capturing scores of soldiers]]></title>
+<link>https://apnews.com/article/mali-rebels-soldiers-killed-captured-d10c035668be0eaf9174db4c89eca90b</link>
+<pubDate>Sat, 18 Jul 2026 19:37:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
