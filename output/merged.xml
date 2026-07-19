@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Jul 2026 20:36:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 21:40:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2</link>
@@ -125,12 +125,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wildfire smoke from Canada and Minnesota pushes farther into the US and engulfs DC in haze]]></title>
-<link>https://apnews.com/article/canada-minnesota-wildfires-smoke-251365af55a5111d8178b24a4d15e0af</link>
-<pubDate>Sat, 18 Jul 2026 03:24:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team]]></title>
 <link>https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115</link>
 <pubDate>Sun, 19 Jul 2026 03:44:23 -0000</pubDate>
@@ -140,6 +134,12 @@
 <title><![CDATA[How to keep the air inside your home clean during wildfires]]></title>
 <link>https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a</link>
 <pubDate>Sun, 19 Jul 2026 11:50:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Second death reported in Legionnaires’ disease outbreak in New York City]]></title>
+<link>https://apnews.com/article/legionnaires-disease-new-york-78365fb2954c0781181216e409b78718</link>
+<pubDate>Sun, 19 Jul 2026 21:40:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +197,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Shakira, Madonna and many Muppets take the World Cup stage, along with BTS and Bieber]]></title>
+<link>https://apnews.com/article/world-cup-final-performances-halftime-show-0e9e3bc37939c901be92441b73d7b4e6</link>
+<pubDate>Sun, 19 Jul 2026 21:40:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The World Cup winner will earn $51 million under expanded purse]]></title>
 <link>https://apnews.com/article/world-cup-prize-money-explainer-38dffaf95bf0130f14a7b5c9e8f274a9</link>
 <pubDate>Sun, 19 Jul 2026 15:28:30 -0000</pubDate>
@@ -209,9 +215,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The World Cup final is underway, with Argentina taking on Spain in soccer’s biggest game]]></title>
+<title><![CDATA[Spain and Argentina are headed to 30 minutes of extra time in the World Cup final]]></title>
 <link>https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617</link>
-<pubDate>Sun, 19 Jul 2026 19:23:28 -0000</pubDate>
+<pubDate>Sun, 19 Jul 2026 21:25:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An Israeli strike on a funeral in Gaza kills 7 people and wounds 22, a local hospital says]]></title>
-<link>https://apnews.com/article/israel-palestinians-hamas-gaza-strike-9b0b91dca3ee1950bc0c5ff96d4a5259</link>
-<pubDate>Sat, 18 Jul 2026 17:58:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US announces another troop death as Israel warns Tehran’s attacks are coming close]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</link>
 <pubDate>Sun, 19 Jul 2026 19:38:29 -0000</pubDate>
@@ -413,9 +413,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[16 US service members have died in the Iran war, reflecting a conflict fought largely in the air]]></title>
+<title><![CDATA[17 US service members have died in the Iran war, reflecting a conflict fought largely in the air]]></title>
 <link>https://apnews.com/article/iran-war-us-deaths-59ecda1ccf1700bb6820b81ae7627bad</link>
-<pubDate>Sat, 18 Jul 2026 23:25:51 -0000</pubDate>
+<pubDate>Sun, 19 Jul 2026 21:40:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
