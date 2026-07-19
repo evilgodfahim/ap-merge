@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Jul 2026 09:23:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 10:49:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2</link>
@@ -53,15 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Why Britain is getting a new prime minister without a general election]]></title>
-<link>https://apnews.com/article/uk-andy-burnham-becomes-new-prime-minister-d63dea81b0fdc05cf0faf238311a5b4e</link>
-<pubDate>Sat, 18 Jul 2026 10:29:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP]]></title>
 <link>https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16</link>
 <pubDate>Sun, 19 Jul 2026 01:27:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The flight hours and miles of World Cup travels of FIFA’s Infantino in numbers]]></title>
+<link>https://apnews.com/article/gianni-infantino-private-jet-world-cup-9b299b0a1528cf687a77c0d5add3c5fc</link>
+<pubDate>Sun, 19 Jul 2026 10:49:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Chinese company demands compensation from the UK over British Steel nationalization]]></title>
+<link>https://apnews.com/article/china-uk-british-steel-nationalized-4403c8df143be871825b7d20302385e0</link>
+<pubDate>Sun, 19 Jul 2026 10:34:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike]]></title>
 <link>https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-0bb7c16a58f21649fb5df72db9714c31</link>
 <pubDate>Sat, 18 Jul 2026 07:26:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Japan enshrines male-only succession for the shrinking imperial family]]></title>
-<link>https://apnews.com/article/japan-imperial-family-succession-blood-patriarchy-cdb66fc2c64c933c98020c989938a8ee</link>
-<pubDate>Fri, 17 Jul 2026 11:53:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,21 +197,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France commemorates the Vel d’Hiv roundup after a Paris plaque honoring rescuers is vandalized]]></title>
+<link>https://apnews.com/article/france-vel-dhiv-roundup-jews-582500f0672e5601b7071a0a43d67af9</link>
+<pubDate>Sun, 19 Jul 2026 10:49:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The World Cup final is here, with Argentina taking on Spain in soccer’s showdown]]></title>
+<link>https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617</link>
+<pubDate>Sun, 19 Jul 2026 10:34:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Tanzanian-flagged tanker from Yemen hijacked by suspected Somali pirates]]></title>
 <link>https://apnews.com/article/somalia-pirates-yemen-tanker-827efb5b74d4aad62b4ff063420327e3</link>
 <pubDate>Sun, 19 Jul 2026 09:23:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese company demands compensation from the UK over British Steel nationalization]]></title>
-<link>https://apnews.com/article/china-uk-british-steel-nationalized-4403c8df143be871825b7d20302385e0</link>
-<pubDate>Sun, 19 Jul 2026 07:21:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The flight hours and miles of World Cup travels of FIFA’s Infantino in numbers]]></title>
-<link>https://apnews.com/article/gianni-infantino-private-jet-world-cup-9b299b0a1528cf687a77c0d5add3c5fc</link>
-<pubDate>Sun, 19 Jul 2026 07:06:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -266,6 +266,12 @@
 <title><![CDATA[Rescuers race to find survivors in the rain after a landslide in China kills at least 8]]></title>
 <link>https://apnews.com/article/china-landslide-chonqing-rain-270b9a953c7e9daa09ccc955bef34e5e</link>
 <pubDate>Sun, 19 Jul 2026 06:36:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Why Britain is getting a new prime minister without a general election]]></title>
+<link>https://apnews.com/article/uk-andy-burnham-becomes-new-prime-minister-d63dea81b0fdc05cf0faf238311a5b4e</link>
+<pubDate>Sun, 19 Jul 2026 10:19:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,21 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wildfire smoke kills tens of thousands of people a year. Here’s how it attacks the body]]></title>
-<link>https://apnews.com/article/wildfire-smoke-sick-dying-asthma-heartattack-climate-65b51f04cd29648d952a7e41160841d3</link>
-<pubDate>Fri, 17 Jul 2026 16:42:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US strikes Iran’s Revolutionary Guard over an attack that killed troops in Jordan]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</link>
 <pubDate>Sun, 19 Jul 2026 09:23:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[1 killed, 16 wounded in an overnight Russian attack on Kyiv]]></title>
+<title><![CDATA[Russian missile attack on Kyiv kills 1 and exposes holes in air defenses]]></title>
 <link>https://apnews.com/article/russia-ukraine-attack-ballistic-missiles-ddea9c0a10367fc84b3cb563896102e3</link>
-<pubDate>Sun, 19 Jul 2026 09:08:27 -0000</pubDate>
+<pubDate>Sun, 19 Jul 2026 10:49:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
