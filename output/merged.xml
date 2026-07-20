@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Jul 2026 21:37:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 22:44:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US launches more airstrikes against Iran after announcing another death of a service member]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</link>
@@ -77,6 +77,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Colombia’s Petro calls on supporters to defend economic reforms in his last presidential speech]]></title>
+<link>https://apnews.com/article/colombia-petro-presidential-election-reforms-strike-de-la-espriella-3f34def7f740b7dc2659225ba44bdcdb</link>
+<pubDate>Mon, 20 Jul 2026 22:44:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Guyana launches criminal probe as crews scour waters for survivors after ferry capsizes]]></title>
 <link>https://apnews.com/article/guyana-ferry-killed-rescued-captain-investigation-b1be8682876517bef980cefb8c62016f</link>
 <pubDate>Mon, 20 Jul 2026 18:46:58 -0000</pubDate>
@@ -86,12 +92,6 @@
 <title><![CDATA[US Virgin Islands’ housing authority accused of corruption as federal funding is suspended]]></title>
 <link>https://apnews.com/article/usvi-housing-authority-funding-suspended-corruption-968c6935229872b7889428bba65c5290</link>
 <pubDate>Mon, 20 Jul 2026 21:37:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[5.5 magnitude earthquake hits Peru’s Andes region and kills at least 6 people]]></title>
-<link>https://apnews.com/article/peru-lima-andes-earthquake-sicaya-missing-b913ea98c255d3854804e35401425325</link>
-<pubDate>Mon, 20 Jul 2026 15:09:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,21 +125,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Attempt to save a struggling swimmer leaves 5 dead in an Ohio river]]></title>
+<title><![CDATA[5 dead in attempt to save a struggling swimmer in an Ohio river, sheriff says]]></title>
 <link>https://apnews.com/article/ohio-scioto-river-deaths-b52447c34f062ce3b2d2d6988796e2ef</link>
-<pubDate>Mon, 20 Jul 2026 19:30:03 -0000</pubDate>
+<pubDate>Mon, 20 Jul 2026 22:29:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Road deaths have declined globally since 1990 except in poorer countries, study finds]]></title>
+<link>https://apnews.com/article/traffic-deaths-global-us-8ce2ee30e93a7ba2e7b94f45b33308a5</link>
+<pubDate>Mon, 20 Jul 2026 22:14:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Senators demand ICE answers and body cameras after 2 fatal shootings in Maine and Houston]]></title>
 <link>https://apnews.com/article/maine-ice-shooting-immigration-ice-trump-border-5662948e22014709dcef74c3a559419c</link>
 <pubDate>Mon, 20 Jul 2026 18:01:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Los Angeles medical examiner pushes for greater transparency in high-profile deaths]]></title>
-<link>https://apnews.com/article/ukpo-d4vd-celeste-autopsy-transparency-095c0d2d76af48f7299fbfc85ad00151</link>
-<pubDate>Mon, 20 Jul 2026 10:48:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -323,6 +323,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[5.5 magnitude earthquake hits Peru’s Andes region and kills at least 6 people]]></title>
+<link>https://apnews.com/article/peru-lima-andes-earthquake-sicaya-missing-b913ea98c255d3854804e35401425325</link>
+<pubDate>Mon, 20 Jul 2026 22:44:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A ferry carrying 133 people capsizes off Guyana’s coast, leaving dozens missing]]></title>
 <link>https://apnews.com/article/guyana-capsized-ferry-67594b02f0468f93ce787ff75c5327c1</link>
 <pubDate>Sun, 19 Jul 2026 19:38:28 -0000</pubDate>
@@ -362,12 +368,6 @@
 <title><![CDATA[The flight hours and miles of World Cup travels of FIFA’s Infantino in numbers]]></title>
 <link>https://apnews.com/article/gianni-infantino-private-jet-world-cup-9b299b0a1528cf687a77c0d5add3c5fc</link>
 <pubDate>Sun, 19 Jul 2026 07:06:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A centuries-old festival in Japan brings Shinto traditions and towering floats to the streets]]></title>
-<link>https://apnews.com/article/japan-kyoto-shinto-festival-gion-matsuri-f3a3e39c47756b7074d13d45bc314e06</link>
-<pubDate>Mon, 20 Jul 2026 04:58:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
