@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Jul 2026 05:28:35 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops]]></title>
-<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2</link>
-<pubDate>Sun, 19 Jul 2026 04:44:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Mon, 20 Jul 2026 08:23:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US launches more airstrikes against Iran after announcing another death of a service member]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</link>
 <pubDate>Mon, 20 Jul 2026 05:28:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops]]></title>
+<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2</link>
+<pubDate>Sun, 19 Jul 2026 04:44:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[In one of Kyiv’s most frequently bombed neighborhoods, residents choose to stay]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-kyiv-bombardment-lukianivka-neighborhood-f7219af5198feb7d3498f94d133ae509</link>
+<pubDate>Mon, 20 Jul 2026 08:23:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russian attacks kill 6 in Kyiv and other cities and expose gaps in Ukraine’s air defenses]]></title>
 <link>https://apnews.com/article/russia-ukraine-attack-ballistic-missiles-ddea9c0a10367fc84b3cb563896102e3</link>
 <pubDate>Mon, 20 Jul 2026 04:58:34 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Chinese company demands compensation from the UK over British Steel nationalization]]></title>
 <link>https://apnews.com/article/china-uk-british-steel-nationalized-4403c8df143be871825b7d20302385e0</link>
 <pubDate>Sun, 19 Jul 2026 10:34:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rescuers in Indonesia find mother and son survivors from sunken passenger boat]]></title>
-<link>https://apnews.com/article/indonesia-sulawesi-selayar-boat-accident-4b14e1779d73a2ba9ab252fbb05acc16</link>
-<pubDate>Sun, 19 Jul 2026 12:05:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -275,6 +275,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Rescuers in Indonesia find mother and son survivors from sunken passenger boat]]></title>
+<link>https://apnews.com/article/indonesia-sulawesi-selayar-boat-accident-4b14e1779d73a2ba9ab252fbb05acc16</link>
+<pubDate>Mon, 20 Jul 2026 08:23:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP]]></title>
 <link>https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16</link>
 <pubDate>Mon, 20 Jul 2026 04:43:34 -0000</pubDate>
@@ -347,6 +353,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 80]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-attacks-c2d0d713643288b81dbbea714d5db5ac</link>
+<pubDate>Mon, 20 Jul 2026 08:08:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mount Olympus, home of the ancient Greek gods, vies for World Heritage status]]></title>
 <link>https://apnews.com/article/unesco-world-heritage-busan-mount-olympus-greece-62f9489539bf2d211957d3e106c327c6</link>
 <pubDate>Sun, 19 Jul 2026 06:51:19 -0000</pubDate>
@@ -365,27 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers race to find survivors in the rain after a landslide in China kills at least 8]]></title>
-<link>https://apnews.com/article/china-landslide-chonqing-rain-270b9a953c7e9daa09ccc955bef34e5e</link>
-<pubDate>Sun, 19 Jul 2026 06:36:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Why Britain is getting a new prime minister without a general election]]></title>
-<link>https://apnews.com/article/uk-andy-burnham-becomes-new-prime-minister-d63dea81b0fdc05cf0faf238311a5b4e</link>
-<pubDate>Sun, 19 Jul 2026 10:19:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297</link>
 <pubDate>Mon, 20 Jul 2026 05:28:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[17 US service members have died in the Iran war, reflecting a conflict fought largely in the air]]></title>
-<link>https://apnews.com/article/iran-war-us-deaths-59ecda1ccf1700bb6820b81ae7627bad</link>
-<pubDate>Sun, 19 Jul 2026 21:40:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +389,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India’s Cockroach movement supporters gather to attempt a march to Parliament]]></title>
+<title><![CDATA[Police fire tear gas at India’s Cockroach movement supporters as they attempt a march to Parliament]]></title>
 <link>https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38</link>
-<pubDate>Mon, 20 Jul 2026 04:58:35 -0000</pubDate>
+<pubDate>Mon, 20 Jul 2026 08:23:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[In the Israeli-occupied West Bank, too much cash is breaking the economy]]></title>
+<link>https://apnews.com/article/west-bank-israel-banks-cash-6b94c7ee9feb7f5dbc8dda30ca777da1</link>
+<pubDate>Mon, 20 Jul 2026 08:08:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[At least 930 people have died in Congo’s Ebola outbreak]]></title>
+<link>https://apnews.com/article/congo-ebola-deaths-cd70fcfeb7c7d0b172c4fef7a9c3a93f</link>
+<pubDate>Mon, 20 Jul 2026 07:53:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea’s Kospi drops nearly 5% as some AI stocks swoon, while oil keeps climbing]]></title>
+<title><![CDATA[South Korea’s Kospi drops 4.5% as some AI stocks swoon, while oil keeps climbing]]></title>
 <link>https://apnews.com/article/stocks-market-ai-oil-iran-war-15939a01f378bcec5eec2868e8100ca9</link>
-<pubDate>Mon, 20 Jul 2026 04:13:35 -0000</pubDate>
+<pubDate>Mon, 20 Jul 2026 07:38:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
