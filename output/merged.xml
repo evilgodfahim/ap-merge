@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Jul 2026 01:27:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 04:42:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US launches more airstrikes against Iran after announcing another death of a service member]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</link>
@@ -53,9 +53,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What to know about the challenges Andy Burnham will face as UK prime minister]]></title>
-<link>https://apnews.com/article/britain-burnham-prime-minister-starmer-economy-immigration-19deb2ceb705703310db55bf4802fce7</link>
-<pubDate>Sun, 19 Jul 2026 09:23:26 -0000</pubDate>
+<title><![CDATA[Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns]]></title>
+<link>https://apnews.com/article/andy-burnham-uk-prime-minister-labour-starmer-a13602b93d8f045f1cffd2bd05bf8e2b</link>
+<pubDate>Mon, 20 Jul 2026 20:15:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,15 +83,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nicaragua’s President Ortega moves to extend his 20-year rule and says no elections anytime soon]]></title>
+<link>https://apnews.com/article/nicaragua-elections-ortega-rosario-murillo-sandinist-db7df72ee90928737a8f3fbad8b76dd3</link>
+<pubDate>Mon, 20 Jul 2026 23:45:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US suspends funding for US Virgin Islands’ housing authority and accuses it of corruption]]></title>
 <link>https://apnews.com/article/usvi-housing-authority-funding-suspended-corruption-968c6935229872b7889428bba65c5290</link>
 <pubDate>Tue, 21 Jul 2026 01:27:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Guyana launches criminal probe as crews scour waters for survivors after ferry capsizes]]></title>
-<link>https://apnews.com/article/guyana-ferry-killed-rescued-captain-investigation-b1be8682876517bef980cefb8c62016f</link>
-<pubDate>Mon, 20 Jul 2026 18:46:58 -0000</pubDate>
+<title><![CDATA[Ebola quarantine center for Americans is up and working in Kenya despite a court ban, activists say]]></title>
+<link>https://apnews.com/article/kenya-us-ebola-quarantine-center-538f4832f10e42942b4dafbb3c297ebb</link>
+<pubDate>Tue, 21 Jul 2026 04:42:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -110,12 +116,6 @@
 <title><![CDATA[Mali rebels ambush an army convoy, killing or capturing scores of soldiers]]></title>
 <link>https://apnews.com/article/mali-rebels-soldiers-killed-captured-d10c035668be0eaf9174db4c89eca90b</link>
 <pubDate>Sun, 19 Jul 2026 09:08:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Women are dying in Africa as US ramps up its global battle against abortion]]></title>
-<link>https://apnews.com/article/africa-abortion-maputo-protocol-maternal-deaths-trump-dd846b875555e8f76dcacb61cf1d3907</link>
-<pubDate>Sat, 18 Jul 2026 05:10:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,6 +143,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hungary investigates deal with China’s BYD carmaker after ex-foreign minister takes job there]]></title>
+<link>https://apnews.com/article/hungary-probe-byd-deal-szijjarto-2aaa8f568762e2cd92dd1c65bd3c59bd</link>
+<pubDate>Tue, 21 Jul 2026 04:27:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Philippines accuses Chinese coast guard of injuring Filipino sailor in disputed shoal]]></title>
 <link>https://apnews.com/article/philippines-south-china-sea-second-thomas-shoal-16650e191aaf373471720dbcba88b819</link>
 <pubDate>Mon, 20 Jul 2026 13:06:49 -0000</pubDate>
@@ -158,12 +164,6 @@
 <title><![CDATA[Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT]]></title>
 <link>https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5</link>
 <pubDate>Fri, 17 Jul 2026 22:28:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US lets Hong Kong emergency declaration lapse, lifting some sanctions as Trump order stays]]></title>
-<link>https://apnews.com/article/hong-kong-us-china-preferential-trade-b0a7e46fac0906bba975e3a1f52ebe7d</link>
-<pubDate>Sat, 18 Jul 2026 04:55:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -236,6 +236,12 @@
 <title><![CDATA[Toronto International Film Festival sets lineup with films by Chris Rock, Peter Farrelly]]></title>
 <link>https://apnews.com/article/tiff-toronto-film-festival-65b104e2680b07042cd8a5651743739e</link>
 <pubDate>Mon, 20 Jul 2026 15:09:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Guyana launches criminal probe as crews scour waters for survivors after ferry capsizes]]></title>
+<link>https://apnews.com/article/guyana-ferry-killed-rescued-captain-investigation-b1be8682876517bef980cefb8c62016f</link>
+<pubDate>Mon, 20 Jul 2026 23:45:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,15 +371,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese company demands compensation from the UK over British Steel nationalization]]></title>
-<link>https://apnews.com/article/china-uk-british-steel-nationalized-4403c8df143be871825b7d20302385e0</link>
-<pubDate>Sun, 19 Jul 2026 07:21:19 -0000</pubDate>
+<title><![CDATA[Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night]]></title>
+<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297</link>
+<pubDate>Tue, 21 Jul 2026 04:42:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night]]></title>
-<link>https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297</link>
-<pubDate>Tue, 21 Jul 2026 01:27:16 -0000</pubDate>
+<title><![CDATA[US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes]]></title>
+<link>https://apnews.com/article/iran-war-trump-airstrikes-strait-hormuz-8c42c6ddc0c32d53ce452ace92a62b9a</link>
+<pubDate>Tue, 21 Jul 2026 04:27:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,15 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns]]></title>
-<link>https://apnews.com/article/andy-burnham-uk-prime-minister-labour-starmer-a13602b93d8f045f1cffd2bd05bf8e2b</link>
-<pubDate>Mon, 20 Jul 2026 13:21:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nicaragua’s President Ortega moves to extend his 20-year rule and says no elections anytime soon]]></title>
-<link>https://apnews.com/article/nicaragua-elections-ortega-rosario-murillo-sandinist-db7df72ee90928737a8f3fbad8b76dd3</link>
-<pubDate>Tue, 21 Jul 2026 01:12:16 -0000</pubDate>
+<title><![CDATA[Powerball ticket sales begin Tuesday in the United Kingdom]]></title>
+<link>https://apnews.com/article/powerball-lottery-expansion-united-kingdom-launch-july-3f387eaa2c8f974e78bb47414a7cf0fd</link>
+<pubDate>Tue, 21 Jul 2026 04:12:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,6 +467,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the key challenges Andy Burnham faces as UK prime minister]]></title>
+<link>https://apnews.com/article/britain-burnham-prime-minister-starmer-economy-immigration-19deb2ceb705703310db55bf4802fce7</link>
+<pubDate>Tue, 21 Jul 2026 03:57:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Flash floods kill at least 20 in Afghanistan and leave more than 100 missing]]></title>
 <link>https://apnews.com/article/afghanistan-floods-climate-change-extreme-weather-7daf920202cb9ed74401dddc80be2463</link>
 <pubDate>Mon, 20 Jul 2026 19:15:07 -0000</pubDate>
@@ -479,15 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast]]></title>
-<link>https://apnews.com/article/iran-strikes-kuwait-gulf-bahrain-desalination-25e6d5c8d8a027897b3fb80fad57b7d2</link>
-<pubDate>Fri, 17 Jul 2026 15:21:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ebola quarantine center for Americans is up and working in Kenya despite a court ban, activists say]]></title>
-<link>https://apnews.com/article/kenya-us-ebola-quarantine-center-538f4832f10e42942b4dafbb3c297ebb</link>
-<pubDate>Mon, 20 Jul 2026 21:07:37 -0000</pubDate>
+<title><![CDATA[Ski enthusiasts flock to sub-Saharan Africa and a snowy mountain resort in Lesotho]]></title>
+<link>https://apnews.com/article/lesotho-skiing-afriski-subsaharan-africa-801dd6efc429feeabb874087e155ae32</link>
+<pubDate>Tue, 21 Jul 2026 03:42:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary investigates deal with China’s BYD carmaker after ex-foreign minister takes job there]]></title>
-<link>https://apnews.com/article/hungary-probe-byd-deal-szijjarto-2aaa8f568762e2cd92dd1c65bd3c59bd</link>
-<pubDate>Tue, 21 Jul 2026 00:57:16 -0000</pubDate>
+<title><![CDATA[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US]]></title>
+<link>https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52</link>
+<pubDate>Tue, 21 Jul 2026 03:27:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
