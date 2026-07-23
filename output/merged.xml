@@ -3,17 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Jul 2026 07:53:36 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 10:09:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military carries out strikes on Iran as both sides threaten civilian infrastructure]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d</link>
 <pubDate>Thu, 23 Jul 2026 07:53:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50</link>
-<pubDate>Mon, 20 Jul 2026 15:24:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway]]></title>
+<link>https://apnews.com/article/yemen-saudi-arabia-maritime-embargo-fd7c4a3911f7eee18251483fc8af768c</link>
+<pubDate>Wed, 22 Jul 2026 06:19:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A new threat by Yemen’s Houthis could widen the Iran war and put another trade chokepoint at risk]]></title>
 <link>https://apnews.com/article/yemen-saudi-houthis-attack-shipping-red-sea-4e25fbdad821762e478173e6308884fb</link>
 <pubDate>Thu, 23 Jul 2026 07:38:33 -0000</pubDate>
@@ -53,15 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[EU hits Google with $1 billion fine over its Play app store and search]]></title>
+<link>https://apnews.com/article/google-eu-competition-fine-antitrust-play-search-199c77e09d3829ebfc3d9e51281a369a</link>
+<pubDate>Thu, 23 Jul 2026 10:09:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine overhauls its military top brass for the fight against Russia]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-military-chief-fired-3001163461bb5ed7f790720f13eb3e36</link>
 <pubDate>Thu, 23 Jul 2026 07:08:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France recorded 5,700 more deaths than usual during its historic June heat wave]]></title>
-<link>https://apnews.com/article/france-heatwave-extra-deaths-health-agency-dff2ed624e0cdad02f836d30ae3e878f</link>
-<pubDate>Wed, 22 Jul 2026 17:45:54 -0000</pubDate>
+<title><![CDATA[A single photo captures the resolve behind India’s “Cockroach” protests]]></title>
+<link>https://apnews.com/article/india-cockroach-protests-woman-photo-e0f21cf241b4e3a8a5831a8cff4948c8</link>
+<pubDate>Thu, 23 Jul 2026 09:54:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[FBI Director Patel returns looted cultural artifacts to Indonesian President Prabowo]]></title>
 <link>https://apnews.com/article/indonesia-fbi-patel-stolen-artifacts-repatriation-4d96be509c053984e8b5ac47da5f763a</link>
 <pubDate>Thu, 23 Jul 2026 06:38:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel]]></title>
-<link>https://apnews.com/article/india-tunnel-accident-workers-rescue-toxic-gas-fc48568b5d0ece2a3264bdc135ff24ce</link>
-<pubDate>Wed, 22 Jul 2026 14:23:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel]]></title>
+<link>https://apnews.com/article/india-tunnel-accident-workers-rescue-toxic-gas-fc48568b5d0ece2a3264bdc135ff24ce</link>
+<pubDate>Wed, 22 Jul 2026 14:23:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A blast in a tunnel at an Indian hydropower project leaves 12 dead and 13 missing]]></title>
 <link>https://apnews.com/article/india-sikkim-himalayas-tunnel-accident-3c3b93f3499b07775c0fbd68fead6439</link>
 <pubDate>Tue, 21 Jul 2026 19:42:43 -0000</pubDate>
@@ -191,9 +197,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[England wins ODI series against India after 747 runs scored in decider at Lord’s]]></title>
-<link>https://apnews.com/article/england-india-cricket-odi-series-lords-root-7db97aec761751c070a8bd10f4c167a3</link>
-<pubDate>Tue, 21 Jul 2026 08:42:53 -0000</pubDate>
+<title><![CDATA[A sailor dies after a Ukraine-bound tanker catches fire off Romania as officials probe war link]]></title>
+<link>https://apnews.com/article/romania-sailor-dies-tanker-fire-ukraine-war-5bd58676987e0f8a0cb0bd79a59964eb</link>
+<pubDate>Thu, 23 Jul 2026 10:09:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Authorities evacuate more than 10,000 in France as wildfire spreads near popular tourist town]]></title>
+<link>https://apnews.com/article/france-wildfire-tourists-evacuated-bordeaux-climate-change-28b44eff7d7d8e435175bcb546440ed0</link>
+<pubDate>Thu, 23 Jul 2026 09:54:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[World shares are mixed and Mideast tensions push Brent crude past $98]]></title>
+<link>https://apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838</link>
+<pubDate>Thu, 23 Jul 2026 09:39:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -254,6 +272,12 @@
 <title><![CDATA[Trump attends transfer of fallen U.S. service members, in photos]]></title>
 <link>https://apnews.com/photo-gallery/trump-attends-transfer-fallen-u-s-service-members-photos-829bdf9d924946eba4a085345ecb7356</link>
 <pubDate>Wed, 22 Jul 2026 17:30:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[France recorded 5,700 more deaths than usual during its historic June heat wave]]></title>
+<link>https://apnews.com/article/france-heatwave-extra-deaths-health-agency-dff2ed624e0cdad02f836d30ae3e878f</link>
+<pubDate>Thu, 23 Jul 2026 09:24:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,30 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s exports and imports grow as yen weakens]]></title>
-<link>https://apnews.com/article/japan-trade-iran-oil-exports-imports-bf2939b06eff812923a0e792bcf107ed</link>
-<pubDate>Wed, 22 Jul 2026 03:39:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say]]></title>
-<link>https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da</link>
-<pubDate>Wed, 22 Jul 2026 17:15:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chile’s Congress puts President Kast’s economic overhaul on track to becoming law]]></title>
-<link>https://apnews.com/article/chile-economic-overhaul-corporate-taxes-jose-antonio-kast-fiscal-deficit-ae33e274c9cb42b31aed77edb3f689c1</link>
-<pubDate>Wed, 22 Jul 2026 03:24:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Spanish hotel chain Meliá is leaving Cuba because of legal and financial hurdles from US sanctions]]></title>
-<link>https://apnews.com/article/cuba-melia-hotels-closure-tourism-us-embargo-fe0cdf086c405a53d95b8bd771355368</link>
-<pubDate>Wed, 22 Jul 2026 15:57:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Houthis say they attacked 2 Saudi oil tankers in the Red Sea as US carries out 12th night of strikes]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-60d46bf8c83c43a8f2268b7b87627c55</link>
 <pubDate>Thu, 23 Jul 2026 07:53:35 -0000</pubDate>
@@ -439,7 +439,7 @@
 <item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
-<pubDate>Mon, 13 Jul 2026 15:14:05 -0000</pubDate>
+<pubDate>Thu, 23 Jul 2026 10:09:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,21 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Asian shares are mostly higher and Mideast tensions push Brent crude past $97]]></title>
-<link>https://apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838</link>
-<pubDate>Thu, 23 Jul 2026 06:23:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia’s biggest online retailer is the latest target of Ukraine’s attacks]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9</link>
 <pubDate>Thu, 23 Jul 2026 06:08:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio meets Russia’s Lavrov in Manila to try to revive prospect of US helping end war in Ukraine]]></title>
+<title><![CDATA[Rubio says Trump team poised to help end Ukraine’s ‘senseless war’ but no quick deal]]></title>
 <link>https://apnews.com/article/asean-rubio-lavrov-russia-ukraine-502b5eb2dc21caf13fab7928acdc5b1e</link>
-<pubDate>Thu, 23 Jul 2026 05:53:35 -0000</pubDate>
+<pubDate>Thu, 23 Jul 2026 09:39:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
