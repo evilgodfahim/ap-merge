@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Jul 2026 12:57:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 14:48:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military carries out strikes on Iran as both sides threaten civilian infrastructure]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d</link>
@@ -53,9 +53,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A Russian ballistic strike kills 6 after Ukraine’s Zelenskyy hosts US company making Patriots]]></title>
+<title><![CDATA[Russian ballistic strike kills 10 after Ukraine’s Zelenskyy hosts US company making Patriots]]></title>
 <link>https://apnews.com/article/russiak-ukraine-war-patriots-trump-loomer-raytheon-a2f06208baa0759215d973f01758e30f</link>
-<pubDate>Fri, 24 Jul 2026 12:57:01 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 14:48:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[With a historic 3 Michelin stars, a Mexican restaurant in San Francisco defies stereotypes]]></title>
+<link>https://apnews.com/article/michelin-star-mexican-restaurant-californios-val-cantu-59291f2198e3cdea6fa343c588f19eeb</link>
+<pubDate>Fri, 24 Jul 2026 14:33:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll rises as international crews try to salvage capsized ferry in Guyana]]></title>
 <link>https://apnews.com/article/guyana-ferry-dead-rescued-capsized-8b4c2a92d6a497c072a908a491b5dfef</link>
 <pubDate>Fri, 24 Jul 2026 06:39:29 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[A model Indigenous territory in Brazil’s Amazon seeks protection from criminal gangs]]></title>
 <link>https://apnews.com/article/brazil-amazon-rainforest-crime-indigenous-communities-ashaninka-2905a5d844cd02b7ba07c9da64c0a1d6</link>
 <pubDate>Thu, 23 Jul 2026 22:44:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil probe shows severe icing contributed to 2024 plane crash that killed 62]]></title>
-<link>https://apnews.com/article/brazil-air-crash-2024-voepass-probe-findings-cdf3d81a13b1173474cc4247a364cd54</link>
-<pubDate>Fri, 24 Jul 2026 04:03:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Eight years after deadliest antisemitic attack in US history, Tree of Life rabbi bids farewell]]></title>
+<title><![CDATA[No bodycam footage in fatal Madison police shooting, because the department doesn’t require cameras]]></title>
+<link>https://apnews.com/article/bodycam-footage-madison-wisconsin-police-shooting-4885071da142ae0b225873dbb36aa10b</link>
+<pubDate>Fri, 24 Jul 2026 14:18:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[This Pittsburgh rabbi led the Tree of Life through its darkest days. Now, he says goodbye]]></title>
 <link>https://apnews.com/article/tree-of-life-pittsburgh-synagogue-shooting-rabbi-e2eea17162a998182a4a2efa659506e4</link>
-<pubDate>Fri, 24 Jul 2026 06:09:29 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 14:03:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,15 +149,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Teen accused in deadly Apalachee High School shooting in Georgia set for plea and sentencing hearing]]></title>
-<link>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-8be7ba5efae9cce53e0f8c61253a5f1b</link>
-<pubDate>Fri, 24 Jul 2026 11:14:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Canada is ready to celebrate new bridge to US amid tariff troubles with Trump]]></title>
 <link>https://apnews.com/article/canada-detroit-new-bridge-4b22dc7fc282467a363a247fe590f334</link>
 <pubDate>Fri, 24 Jul 2026 10:59:21 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Toll from landslide in southwestern China rises to 11 dead, with 50 people still missing]]></title>
+<link>https://apnews.com/article/china-chongqing-landslide-cf71b5275583b335940d2ef1821196da</link>
+<pubDate>Thu, 23 Jul 2026 17:37:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -170,12 +176,6 @@
 <title><![CDATA[Japan raises safety concern over Chinese destroyer’s live-fire drills]]></title>
 <link>https://apnews.com/article/japan-china-russia-destroyer-livefire-drills-7813e7a83f7bdfd2608a486039261502</link>
 <pubDate>Tue, 21 Jul 2026 06:56:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Shanghai science forum photos show China’s AI and robotics advances in rivalry with US]]></title>
-<link>https://apnews.com/photo-gallery/china-ai-tech-us-robots-conference-photos-0f3f6e69f1c1e2b8b077d8d8af7efd52</link>
-<pubDate>Tue, 21 Jul 2026 10:43:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,9 +203,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Police in Northern Ireland intercept car bomb near Irish border]]></title>
+<title><![CDATA[Russia’s central bank gingerly cuts rates, caught between business complaints and inflation]]></title>
+<link>https://apnews.com/article/russia-economic-central-bank-interest-rates-eff2261d27af7408298f784914b66ca3</link>
+<pubDate>Fri, 24 Jul 2026 14:48:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Poland’s biggest opposition party faces split over tensions about its direction]]></title>
+<link>https://apnews.com/article/poland-opposition-law-justice-split-tusk-90b93cba4f79bc50194c3251d2c23abf</link>
+<pubDate>Fri, 24 Jul 2026 14:33:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pompeii archaeologists reconstruct frescoed ceiling of a banquet hall, with more fragments to come]]></title>
+<link>https://apnews.com/article/italy-pompeii-frescoes-archaology-f06756444ba1ca7727d17c9868ffcfb9</link>
+<pubDate>Fri, 24 Jul 2026 14:18:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[New UK leader Andy Burnham caps a busy first week with a part-time office move to Manchester]]></title>
+<link>https://apnews.com/article/andy-burnham-manchester-number-10-north-dfda559e92872cafec56217897d49c49</link>
+<pubDate>Fri, 24 Jul 2026 14:03:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladesh’s president, once a close ally of ousted premier Sheikh Hasina, resigns]]></title>
+<link>https://apnews.com/article/bangladesh-president-shahabuddin-resign-hasina-tarique-cc9c70910427166e7fe237d5d10254d1</link>
+<pubDate>Fri, 24 Jul 2026 13:48:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Irish police intercept car bomb near Northern Ireland border]]></title>
 <link>https://apnews.com/article/car-bomb-northern-ireland-dissident-republican-troubles-18e8045f2230bb652e639e896ea2a8c1</link>
-<pubDate>Fri, 24 Jul 2026 12:57:06 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 13:33:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -215,9 +245,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Singer Chris Brown pleads guilty to brawling at a London nightclub]]></title>
+<title><![CDATA[Singer Chris Brown pleads guilty over bottle attack at a London nightclub]]></title>
 <link>https://apnews.com/article/britain-chris-brown-guilty-altercation-london-nightclub-9dbe9f07e534578d67c0c45215bde71e</link>
-<pubDate>Fri, 24 Jul 2026 12:27:06 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 13:18:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -227,9 +257,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A bruising ICC scandal heads to a secret vote on removing chief prosecutor]]></title>
+<title><![CDATA[ICC member states gather to vote on chief prosecutor following scandal]]></title>
 <link>https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7</link>
-<pubDate>Fri, 24 Jul 2026 11:14:23 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 13:03:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -278,6 +308,12 @@
 <title><![CDATA[Replica of the Virgin Mary’s House draws Catholic devotees in the Philippines]]></title>
 <link>https://apnews.com/article/virgin-mary-philippines-house-of-mary-catholic-a809aed3efa85279982e3e006b8b5570</link>
 <pubDate>Fri, 24 Jul 2026 08:55:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil probe shows severe icing contributed to 2024 plane crash that killed 62]]></title>
+<link>https://apnews.com/article/brazil-air-crash-2024-voepass-probe-findings-cdf3d81a13b1173474cc4247a364cd54</link>
+<pubDate>Fri, 24 Jul 2026 12:48:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -347,42 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A synagogue attack probe exposed a second intended target: A UK defense academy]]></title>
-<link>https://apnews.com/article/manchester-synagogue-attack-bashir-shamie-defense-academy-8915596b29aa30ec5f3ea804da6bd93e</link>
-<pubDate>Thu, 23 Jul 2026 14:22:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[London’s mayor says falling crime shows the city is safe despite alarming online claims]]></title>
-<link>https://apnews.com/article/uk-london-crime-rate-sadiq-khan-d7c00e4eaf08bfa8a7f6406db94f1159</link>
-<pubDate>Thu, 23 Jul 2026 14:07:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Suspected militants kill judge, security guard in ambush in restive southwest Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-insurgents-killed-judge-restive-southwest-ebcadc4ffd1ced5b3939c9d416b6c591</link>
-<pubDate>Thu, 23 Jul 2026 13:52:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A Turkish governor is sacked over photos in snug cycling shorts. Many want him reinstated]]></title>
-<link>https://apnews.com/article/turkey-cycling-enthusiast-governor-sacked-tight-shorts-f48c0c5277abe73d4290997369a1878e</link>
-<pubDate>Thu, 23 Jul 2026 13:37:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan rejects Amnesty call for war crimes probe into Kabul airstrike]]></title>
-<link>https://apnews.com/article/pakistan-amnesty-afghanistan-kabul-drug-center-strike-38beba85901063095d30c6f087c40821</link>
-<pubDate>Thu, 23 Jul 2026 13:22:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[ICC drops war crimes case against fugitive Sudan rebel Abdallah Banda]]></title>
-<link>https://apnews.com/article/darfur-icc-court-sudan-charges-dropped-a1cbc32286fbbf6f88b3a5d89c9e4cba</link>
-<pubDate>Thu, 23 Jul 2026 16:02:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Drones target northern Iraqi city where US forces are based as US-Iran fighting escalates]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85</link>
 <pubDate>Fri, 24 Jul 2026 12:57:12 -0000</pubDate>
@@ -395,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wildfires near Madrid and in southwestern France force over 80,000 to evacuate]]></title>
+<title><![CDATA[Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat]]></title>
 <link>https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0</link>
-<pubDate>Fri, 24 Jul 2026 11:29:25 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 14:48:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,21 +443,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wall Street inches higher as markets absorb war, tariffs, high energy costs and AI anxiety]]></title>
-<link>https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97</link>
-<pubDate>Fri, 24 Jul 2026 12:27:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China slaps export controls on 14 EU entities in retaliation for Russia-related sanctions]]></title>
-<link>https://apnews.com/article/china-eu-sanctions-russia-export-control-war-cfb75918077b268eb76b0f19c1673511</link>
-<pubDate>Fri, 24 Jul 2026 10:59:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday]]></title>
 <link>https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1</link>
 <pubDate>Thu, 23 Jul 2026 21:31:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Stocks waver while crude oil prices fall for the first time in a week]]></title>
+<link>https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97</link>
+<pubDate>Fri, 24 Jul 2026 14:18:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[American Express Q2 profit rises driven by higher spending and fewer delinquencies]]></title>
+<link>https://apnews.com/article/american-express-banking-credit-cards-fa19578e2c0aefbaaae262b23a56f135</link>
+<pubDate>Fri, 24 Jul 2026 14:03:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[With a historic 3 Michelin stars, a Mexican restaurant in San Francisco defies stereotypes]]></title>
-<link>https://apnews.com/article/michelin-star-mexican-restaurant-californios-val-cantu-59291f2198e3cdea6fa343c588f19eeb</link>
-<pubDate>Fri, 24 Jul 2026 06:24:31 -0000</pubDate>
+<title><![CDATA[Brazil uses forensic science to trace gold’s origin and tackle illegal mining in the Amazon]]></title>
+<link>https://apnews.com/article/amazon-brazil-gold-fingerprinting-illegal-mining-6ebdacb95279ec7de0161072c7b14a68</link>
+<pubDate>Fri, 24 Jul 2026 13:48:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,15 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[No bodycam footage in fatal Madison police shooting, because the department doesn’t require cameras]]></title>
-<link>https://apnews.com/article/bodycam-footage-madison-wisconsin-police-shooting-4885071da142ae0b225873dbb36aa10b</link>
-<pubDate>Fri, 24 Jul 2026 10:44:25 -0000</pubDate>
+<title><![CDATA[Teenager pleads guilty to all 55 counts in 2024 fatal shooting at Apalachee High School in Georgia]]></title>
+<link>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-8be7ba5efae9cce53e0f8c61253a5f1b</link>
+<pubDate>Fri, 24 Jul 2026 13:33:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Toll from landslide in southwestern China rises to 11 dead, with 50 people still missing]]></title>
-<link>https://apnews.com/article/china-chongqing-landslide-cf71b5275583b335940d2ef1821196da</link>
-<pubDate>Fri, 24 Jul 2026 03:18:35 -0000</pubDate>
+<title><![CDATA[China slaps export controls on 14 EU entities in retaliation for Russia-related sanctions]]></title>
+<link>https://apnews.com/article/china-eu-sanctions-russia-export-control-war-cfb75918077b268eb76b0f19c1673511</link>
+<pubDate>Fri, 24 Jul 2026 10:59:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
