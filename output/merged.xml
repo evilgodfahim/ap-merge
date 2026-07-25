@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Jul 2026 21:13:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 22:14:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France and Spain battle wildfires as more than 250,000 people are forced to flee homes]]></title>
+<link>https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1</link>
+<pubDate>Sat, 25 Jul 2026 22:14:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The ICC looks ahead after the ouster of its chief prosecutor]]></title>
 <link>https://apnews.com/article/icc-prosecutor-hague-karim-khan-23d9b4f51848f976cd3e300fdc6bc225</link>
 <pubDate>Sat, 25 Jul 2026 10:19:32 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[Intern arrested in Belgium on suspicion of spying inside NATO military headquarters]]></title>
 <link>https://apnews.com/article/espionage-belgium-nato-china-intern-be43f7f30c341a22849033e2a0b99f0c</link>
 <pubDate>Sat, 25 Jul 2026 17:33:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[EU finds TikTok violates its digital rule book by failing to protect privacy of minors]]></title>
-<link>https://apnews.com/article/eu-tiktok-privacy-minors-digital-fine-d38f05d7241b701c4e32b0ab0af45ee2</link>
-<pubDate>Fri, 24 Jul 2026 11:29:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,12 +194,6 @@
 <title><![CDATA[Supporters across India send food via delivery apps to sustain the ‘Cockroach’ protest]]></title>
 <link>https://apnews.com/article/india-cockroach-youth-movement-protest-modi-food-25aa6700a59f1cb343a6e60ae84aafda</link>
 <pubDate>Thu, 23 Jul 2026 11:22:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Police call off an LGBTQ+ parade in Berlin and say several people have been injured]]></title>
-<link>https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f</link>
-<pubDate>Sat, 25 Jul 2026 21:13:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,15 +371,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France and Spain battle wildfires as more than 250,000 people are forced to flee homes]]></title>
-<link>https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1</link>
-<pubDate>Sat, 25 Jul 2026 17:48:32 -0000</pubDate>
+<title><![CDATA[ICC chief prosecutor removed from post over sexual misconduct allegations]]></title>
+<link>https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7</link>
+<pubDate>Sat, 25 Jul 2026 10:19:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-25-july-2026-df3790320c595f3e599fb1dd69423e77</link>
 <pubDate>Sat, 25 Jul 2026 18:49:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A person is killed and several are injured at Berlin’s LGBTQ+ event when a van drives into the crowd]]></title>
+<link>https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f</link>
+<pubDate>Sat, 25 Jul 2026 22:14:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
