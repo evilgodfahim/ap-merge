@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Jul 2026 11:55:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 12:57:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sex work or starve: Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive]]></title>
 <link>https://apnews.com/article/usaid-nepal-sex-workers-trump-budget-cuts-d8ea21ca4d43f1598ea54499123d46e0</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India’s Cockroach movement holds a capital sit-in as police crack down on protests]]></title>
-<link>https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626</link>
-<pubDate>Fri, 24 Jul 2026 00:15:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[More than 200,000 people flee raging wildfires in France and Spain, some escaping by boat]]></title>
 <link>https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0</link>
 <pubDate>Sat, 25 Jul 2026 09:15:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[India’s Cockroach movement holds a capital sit-in as police crack down on protests]]></title>
+<link>https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626</link>
+<pubDate>Fri, 24 Jul 2026 00:15:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,15 +35,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East oil producers step up plans to bypass the Strait of Hormuz]]></title>
-<link>https://apnews.com/article/oil-strait-of-hormuz-iran-896c02f0c978986fff0ae7fc389ea51f</link>
-<pubDate>Sat, 25 Jul 2026 10:49:32 -0000</pubDate>
+<title><![CDATA[Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel]]></title>
+<link>https://apnews.com/article/trump-saudia-arabia-nuclear-israel-abraham-accords-6d498a1e851f226c04831bbedf979ec9</link>
+<pubDate>Sat, 25 Jul 2026 12:57:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections]]></title>
-<link>https://apnews.com/article/unesco-sebastia-lebanon-mount-amel-israel-heritage-12c558a4b6aa03fa40ad33ffb6e54b89</link>
-<pubDate>Sat, 25 Jul 2026 10:34:32 -0000</pubDate>
+<title><![CDATA[Middle East oil producers step up plans to bypass the Strait of Hormuz]]></title>
+<link>https://apnews.com/article/oil-strait-of-hormuz-iran-896c02f0c978986fff0ae7fc389ea51f</link>
+<pubDate>Sat, 25 Jul 2026 10:49:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,9 +101,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Kozo Okamoto, Japanese militant who took part in a 1972 Tel Aviv airport attack, dies in Beirut]]></title>
-<link>https://apnews.com/article/lebanon-israel-japan-1972-kozo-okamoto-japanese-red-army-pflp-47bb0f9fd1881b8928e700e6b3e287a2</link>
-<pubDate>Fri, 24 Jul 2026 04:48:29 -0000</pubDate>
+<title><![CDATA[Famine has ended in Gaza. But the gains are fragile and it could get worse]]></title>
+<link>https://apnews.com/article/gaza-food-insecurity-war-palestinian-israel-6570d65b767c7018e3929416ea475778</link>
+<pubDate>Sat, 25 Jul 2026 07:08:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Attorney for family of man killed by Madison police says the officer should be criminally charged]]></title>
+<link>https://apnews.com/article/corey-ruiz-death-madison-wisconsin-police-7ea2c187227243cb1c7988514d1091ac</link>
+<pubDate>Sat, 25 Jul 2026 12:42:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia’s Apalachee High School]]></title>
 <link>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-8be7ba5efae9cce53e0f8c61253a5f1b</link>
 <pubDate>Fri, 24 Jul 2026 20:43:21 -0000</pubDate>
@@ -146,12 +152,6 @@
 <title><![CDATA[11 indicted in smuggling deaths of 7 migrants in rail cargo container in Texas]]></title>
 <link>https://apnews.com/article/cargo-deaths-indictment-texas-9b3bb9510988bb27aa968e325a772bb9</link>
 <pubDate>Fri, 24 Jul 2026 17:56:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[This Pittsburgh rabbi led the Tree of Life through its darkest days. Now, he says goodbye]]></title>
-<link>https://apnews.com/article/tree-of-life-pittsburgh-synagogue-shooting-rabbi-e2eea17162a998182a4a2efa659506e4</link>
-<pubDate>Fri, 24 Jul 2026 14:03:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,6 +359,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections]]></title>
+<link>https://apnews.com/article/unesco-sebastia-lebanon-mount-amel-israel-heritage-12c558a4b6aa03fa40ad33ffb6e54b89</link>
+<pubDate>Sat, 25 Jul 2026 12:57:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Do you know what happened this week? Test your knowledge]]></title>
 <link>https://apnews.com/article/article/news-quiz-july-24-trump-taco-bell-peptides-openai-world-cup</link>
 <pubDate>Fri, 24 Jul 2026 09:40:58 -0000</pubDate>
@@ -377,15 +383,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks waver on Wall Street while crude oil prices fall for the first time in a week]]></title>
-<link>https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97</link>
-<pubDate>Fri, 24 Jul 2026 20:13:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A quarter-million people flee their homes in France and Spain as wildfires burn]]></title>
+<title><![CDATA[More than 250,000 people flee their homes in France and Spain as wildfires burn]]></title>
 <link>https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1</link>
-<pubDate>Sat, 25 Jul 2026 11:55:08 -0000</pubDate>
+<pubDate>Sat, 25 Jul 2026 12:57:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,9 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement]]></title>
+<title><![CDATA[India’s ‘Cockroach’ movement ends protests after education minister resigns]]></title>
 <link>https://apnews.com/article/india-cockroach-education-minister-56d69c289589f057c0e72cde0c3d75d3</link>
-<pubDate>Sat, 25 Jul 2026 11:40:08 -0000</pubDate>
+<pubDate>Sat, 25 Jul 2026 12:42:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -419,6 +419,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[At least 35 people killed after buses collide in Syria, state media reports]]></title>
+<link>https://apnews.com/article/syria-road-accident-damascus-deir-elzour-buses-7f6a4340a40b7a4e3a7bbcc139b9bfa4</link>
+<pubDate>Sat, 25 Jul 2026 12:27:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[U.N. chief urges international community to back Syrians during visit to Damascus]]></title>
 <link>https://apnews.com/article/syria-un-guterres-visit-damascus-israel-reconstruction-059b77b718acf33cda6630e22c11d1d8</link>
 <pubDate>Sat, 25 Jul 2026 09:49:34 -0000</pubDate>
@@ -434,12 +440,6 @@
 <title><![CDATA[UN human rights chief wins second term despite opposition from US, Israel and Russia]]></title>
 <link>https://apnews.com/article/turk-human-rights-chief-united-nations-61dc91622d141da0aba689e6436ea47c</link>
 <pubDate>Fri, 24 Jul 2026 21:38:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel]]></title>
-<link>https://apnews.com/article/trump-saudia-arabia-nuclear-israel-abraham-accords-6d498a1e851f226c04831bbedf979ec9</link>
-<pubDate>Fri, 24 Jul 2026 04:03:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,21 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Famine has ended in Gaza. But the gains are fragile and it could get worse]]></title>
-<link>https://apnews.com/article/gaza-food-insecurity-war-palestinian-israel-6570d65b767c7018e3929416ea475778</link>
-<pubDate>Fri, 24 Jul 2026 01:00:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths]]></title>
 <link>https://apnews.com/article/ebola-congo-strike-4e61d1c9ae80c892efa38db95a23dd9e</link>
 <pubDate>Sat, 25 Jul 2026 08:49:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Attorney for family of man killed by Madison police says the officer should be criminally charged]]></title>
-<link>https://apnews.com/article/corey-ruiz-death-madison-wisconsin-police-7ea2c187227243cb1c7988514d1091ac</link>
-<pubDate>Fri, 24 Jul 2026 22:54:18 -0000</pubDate>
+<title><![CDATA[How to run for reelection in a messy Congress? It’s not easy]]></title>
+<link>https://apnews.com/article/trump-congress-midterm-elections-speaker-johnson-hakeem-jeffries-efc398bf8d133d4cd8c1776295cf02a8</link>
+<pubDate>Sat, 25 Jul 2026 12:12:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
