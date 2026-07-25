@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Jul 2026 23:54:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 01:29:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US military carries out strikes on Iran as both sides threaten civilian infrastructure]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Young Japanese artists turn school blackboards into a hit medium for creativity]]></title>
+<link>https://apnews.com/article/japan-schools-art-blackboards-chalk-graffiti-b7c76f4e3e396994889e42af37897637</link>
+<pubDate>Sat, 25 Jul 2026 01:29:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[India’s ‘Cockroach’ protesters vow to press on as activist Wangchuk ends 26-day hunger strike]]></title>
 <link>https://apnews.com/article/india-cockroach-protests-sonam-wangchuk-e2f114b6cf6568bb8f5d739fe36349ed</link>
 <pubDate>Fri, 24 Jul 2026 09:10:57 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Supporters across India send food via delivery apps to sustain the ‘Cockroach’ protest]]></title>
 <link>https://apnews.com/article/india-cockroach-youth-movement-protest-modi-food-25aa6700a59f1cb343a6e60ae84aafda</link>
 <pubDate>Thu, 23 Jul 2026 11:22:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[At least 50 people killed and 700,000 displaced by India floods after monsoon rains]]></title>
-<link>https://apnews.com/article/india-floods-monsoon-assam-brahmaputra-river-042b23c3945161454c0d836439124d9c</link>
-<pubDate>Fri, 24 Jul 2026 08:55:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -173,6 +173,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Teenager Sooryavanshi blasts 50 off 18 as India cruises past Zimbabwe in T20]]></title>
+<link>https://apnews.com/article/india-sooryavanshi-zimbabwe-t20-0f72ae1e3880efff4838dfafbeaf80c8</link>
+<pubDate>Sat, 25 Jul 2026 01:14:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Death toll in India hydropower tunnel disaster rises to 25 as rescue effort ends]]></title>
 <link>https://apnews.com/article/india-tunnel-accident-workers-rescue-toxic-gas-8ebecdbfb05aa749ce325190b8ad0346</link>
 <pubDate>Thu, 23 Jul 2026 11:37:31 -0000</pubDate>
@@ -188,12 +194,6 @@
 <title><![CDATA[A single photo captures the resolve behind India’s “Cockroach” protests]]></title>
 <link>https://apnews.com/article/india-cockroach-protests-woman-photo-e0f21cf241b4e3a8a5831a8cff4948c8</link>
 <pubDate>Thu, 23 Jul 2026 09:54:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A protest movement is challenging India’s establishment. What to know about the ‘Cockroaches’]]></title>
-<link>https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-59d045fbd485635def01b01f3898307b</link>
-<pubDate>Wed, 22 Jul 2026 11:07:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -503,9 +503,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Teenager Sooryavanshi blasts 50 off 18 as India cruises past Zimbabwe in T20]]></title>
-<link>https://apnews.com/article/india-sooryavanshi-zimbabwe-t20-0f72ae1e3880efff4838dfafbeaf80c8</link>
-<pubDate>Thu, 23 Jul 2026 15:47:48 -0000</pubDate>
+<title><![CDATA[At least 50 people killed and 700,000 displaced by India floods after monsoon rains]]></title>
+<link>https://apnews.com/article/india-floods-monsoon-assam-brahmaputra-river-042b23c3945161454c0d836439124d9c</link>
+<pubDate>Sat, 25 Jul 2026 01:29:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
