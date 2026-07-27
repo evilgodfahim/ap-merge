@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Jul 2026 20:12:27 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 21:34:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The suspect in the deadly Berlin Pride attack is killed in a confrontation with police]]></title>
 <link>https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d</link>
@@ -125,9 +125,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Police arrested a 15-year-old after a festival shooting that killed 3 near Seattle’s Space Needle]]></title>
+<title><![CDATA[ICE extends no-bid contract for major detention center in Texas, rejecting calls for closure]]></title>
+<link>https://apnews.com/article/camp-east-montana-ice-detention-contract-amentum-560827ad4d605f4069d673be12f2544d</link>
+<pubDate>Mon, 27 Jul 2026 21:34:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Court documents reviewed by AP say there were at least 3 shooters at Seattle food festival]]></title>
 <link>https://apnews.com/article/seattle-center-shooting-food-festival-space-needle-90548c65364e742a97fb7cb0fea31209</link>
-<pubDate>Mon, 27 Jul 2026 19:57:22 -0000</pubDate>
+<pubDate>Mon, 27 Jul 2026 21:19:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -140,12 +146,6 @@
 <title><![CDATA[Tate brothers will remain in jail at least 2 more weeks as they fight extradition to the UK]]></title>
 <link>https://apnews.com/article/tate-brothers-extradition-c688c9da299bcf28e921d6d7701a5cc1</link>
 <pubDate>Mon, 27 Jul 2026 18:22:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Georgia school shooter had a chaotic childhood and was fixated on mass killings, psychologist says]]></title>
-<link>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-5e88adf53da152a1df8b795a38785488</link>
-<pubDate>Mon, 27 Jul 2026 16:29:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[At least 50 people killed and 700,000 displaced by India floods after monsoon rains]]></title>
 <link>https://apnews.com/article/india-floods-monsoon-assam-brahmaputra-river-042b23c3945161454c0d836439124d9c</link>
 <pubDate>Fri, 24 Jul 2026 08:55:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Angry Cyprus minister orders probe after detonation of discarded ammunition sparks brushfire]]></title>
+<link>https://apnews.com/article/cyprus-rpg-weapons-detonation-fire-defense-minister-fd29bb8ee741ce5466c96aa2ec9ca828</link>
+<pubDate>Mon, 27 Jul 2026 21:34:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photo highlights from the Commonwealth Games in Glasgow]]></title>
-<link>https://apnews.com/photo-gallery/commonwealth-games-photo-gallery-bf7cb3eff261206071aa5d523ad48eb3</link>
-<pubDate>Sun, 26 Jul 2026 04:50:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Mediators see progress in efforts to halt Iran war as drone attacks rattle region]]></title>
 <link>https://apnews.com/article/iran-us-hormuz-strait-war-qatar-pakistan-d57e675a7be6dbdd34561909ced240d0</link>
 <pubDate>Mon, 27 Jul 2026 15:19:18 -0000</pubDate>
@@ -449,9 +449,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump is set to defend his economic policies in Michigan, where new Canadian tariffs may sting]]></title>
+<title><![CDATA[Trump defends his tariffs during Michigan visit even as businesses say they’ve hurt the state]]></title>
 <link>https://apnews.com/article/trump-michigan-tariffs-economy-midterms-gm-7afc50b1ec74988e63880947efe0b818</link>
-<pubDate>Mon, 27 Jul 2026 11:09:14 -0000</pubDate>
+<pubDate>Mon, 27 Jul 2026 21:34:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[ICE extends no-bid contract for major detention center in Texas, rejecting calls for closure]]></title>
-<link>https://apnews.com/article/camp-east-montana-ice-detention-contract-amentum-560827ad4d605f4069d673be12f2544d</link>
-<pubDate>Mon, 27 Jul 2026 18:37:04 -0000</pubDate>
+<title><![CDATA[Savannah Guthrie makes an emotional plea to her mother’s kidnappers]]></title>
+<link>https://apnews.com/article/savannah-guthrie-nancy-disappearance-plea-video-mother-fe8438d3426da337df195b2d904a6c6a</link>
+<pubDate>Mon, 27 Jul 2026 21:19:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
