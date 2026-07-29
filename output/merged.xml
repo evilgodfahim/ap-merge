@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Jul 2026 17:44:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 18:53:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[A 7.1 magnitude quake hits Japan’s southern Kyushu island killing at least 3]]></title>
 <link>https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe]]></title>
-<link>https://apnews.com/article/europe-wildfires-france-spain-bordeaux-0880421447ebd9ad4d2e505b37c54181</link>
-<pubDate>Wed, 29 Jul 2026 07:20:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq]]></title>
 <link>https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1</link>
 <pubDate>Wed, 29 Jul 2026 10:27:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe]]></title>
+<link>https://apnews.com/article/europe-wildfires-france-spain-bordeaux-0880421447ebd9ad4d2e505b37c54181</link>
+<pubDate>Wed, 29 Jul 2026 07:20:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Southern Europe burns as 2 firefighters die and France battles blaze 4 times the size of Paris]]></title>
+<title><![CDATA[Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris]]></title>
 <link>https://apnews.com/article/france-spain-bordeaux-wildfires-heat-wave-climate-change-c3d9c45cdbf57d19bbec46d49e5237de</link>
-<pubDate>Wed, 29 Jul 2026 15:59:22 -0000</pubDate>
+<pubDate>Wed, 29 Jul 2026 18:53:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,12 +59,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Photos show the aftermath of a damaging earthquake in southwestern Japan]]></title>
-<link>https://apnews.com/photo-gallery/japan-earthquake-kumamoto-photos-81625ab0eef536cd1da4e3d53cc2ba32</link>
-<pubDate>Wed, 29 Jul 2026 15:29:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[India’s capital part of aggressive electric vehicle targets in bid to curb air pollution]]></title>
 <link>https://apnews.com/article/ev-delhi-india-climate-renewable-pollution-046240018d61185c470353df2fe9d8ae</link>
 <pubDate>Wed, 29 Jul 2026 06:50:57 -0000</pubDate>
@@ -74,6 +68,12 @@
 <title><![CDATA[Man killed in landslide at Solomon Islands gold mine, police say]]></title>
 <link>https://apnews.com/article/solomon-islands-landslide-gold-mine-49878a799f8c892c1458f8ec44aa1aae</link>
 <pubDate>Wed, 29 Jul 2026 04:10:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US bans foreign-made humanoid robots, targeting China over national security]]></title>
+<link>https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366</link>
+<pubDate>Wed, 29 Jul 2026 09:42:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ebola outbreak is worsening food insecurity in eastern Congo, UN agency chief warns]]></title>
+<link>https://apnews.com/article/congo-ebola-food-united-nations-agency-288100564a7155ef6afffee6f2025b37</link>
+<pubDate>Wed, 29 Jul 2026 18:38:47 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Protesters storm key energy complex in Libya during demonstrations over power outages]]></title>
 <link>https://apnews.com/article/libya-electricity-protests-946df09420adc2729a9cc031bd272260</link>
 <pubDate>Tue, 28 Jul 2026 13:40:09 -0000</pubDate>
@@ -113,33 +119,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The deaths of 15 elephants in Kenya’s Amboseli National Park spark investigation]]></title>
-<link>https://apnews.com/article/kenya-amboseli-elephants-dead-3d0c72868806fd8e96e02f0319cc3b92</link>
-<pubDate>Tue, 28 Jul 2026 19:38:26 -0000</pubDate>
+<title><![CDATA[Lindsay Clancy’s ex-husband testifies about the day she killed their 3 children]]></title>
+<link>https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe</link>
+<pubDate>Wed, 29 Jul 2026 18:23:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[15-year-old arrested at Seattle food festival shooting was armed with a ghost gun, police say]]></title>
-<link>https://apnews.com/article/seattle-center-shooting-food-festival-space-needle-b4c73c1745663fe5b3e656a64602ddb2</link>
-<pubDate>Tue, 28 Jul 2026 22:34:42 -0000</pubDate>
+<title><![CDATA[Lindsey Graham returns home one last time for his funeral in South Carolina]]></title>
+<link>https://apnews.com/article/lindsey-graham-funeral-south-carolina-a82f073c0d7ca2692214427b3029c988</link>
+<pubDate>Wed, 29 Jul 2026 18:08:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Powerful tornado leaves widespread damage in Wisconsin but time of day may have saved lives]]></title>
-<link>https://apnews.com/article/wisconsin-tornado-weather-c528fec31f227f13721f92fb7d93194e</link>
-<pubDate>Tue, 28 Jul 2026 22:19:42 -0000</pubDate>
+<title><![CDATA[Wildfires are more extreme in Europe and North America, but global burning is oddly decreasing]]></title>
+<link>https://apnews.com/article/wildfires-climate-change-el-nino-3bed10eb83c2db828eb90617022a66e4</link>
+<pubDate>Wed, 29 Jul 2026 17:53:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump and DOJ ask Supreme Court to toss $83 million defamation verdict in E. Jean Carroll case]]></title>
-<link>https://apnews.com/article/trump-e-jean-carroll-defamation-supreme-court-d1018045c1ff1a2a8aade2eaa7493cbb</link>
-<pubDate>Wed, 29 Jul 2026 14:59:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wisconsin appeals court overturns ruling that had restored collective bargaining power]]></title>
-<link>https://apnews.com/article/wisconsin-unions-collective-bargaining-act-10-58e465cade90c8ca1743c13dc5b4567b</link>
-<pubDate>Wed, 29 Jul 2026 13:23:37 -0000</pubDate>
+<title><![CDATA[Committee expected to vote next week on whether to hold Fauci in contempt]]></title>
+<link>https://apnews.com/article/fauci-covid19-pandemic-senate-rand-paul-a774a79e46824ebec9e8e270b9cb9825</link>
+<pubDate>Wed, 29 Jul 2026 17:38:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +191,30 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Militants attack a Pakistani police post and kill 5 officers in a northwestern province]]></title>
+<link>https://apnews.com/article/pakistan-militant-khyber-pakhtunkhwa-ad7f5b32856b520a8ab7002d2c5127ae</link>
+<pubDate>Wed, 29 Jul 2026 18:53:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Jared Leto denies sexual assault allegations described in BBC documentary]]></title>
+<link>https://apnews.com/article/jared-leto-bbc-documentary-assault-allegations-5af6a24a21e4b6a718062a5765b70736</link>
+<pubDate>Wed, 29 Jul 2026 18:38:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-5025458618994598a2b0ec3e54a774fb</link>
+<pubDate>Wed, 29 Jul 2026 18:23:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Former LA hospital hosts immersive art show, in photos]]></title>
+<link>https://apnews.com/photo-gallery/former-la-hospital-hosts-immersive-art-show-photos-cd18a4b651cc4a27bec6c5f7cd5fd9a5</link>
+<pubDate>Wed, 29 Jul 2026 18:08:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Myanmar courts sentence activists up to 37 years over election boycott protest]]></title>
 <link>https://apnews.com/article/myanmar-activists-election-boycott-prison-60690dd13d28b35f955506c9f14b2eab</link>
 <pubDate>Wed, 29 Jul 2026 16:14:23 -0000</pubDate>
@@ -206,12 +230,6 @@
 <title><![CDATA[Telegram’s billionaire founder Pavel Durov has faced legal woes before -- in Russia and France]]></title>
 <link>https://apnews.com/article/durov-telegram-russia-charges-uae-7f1fdf61104de4bb7ed846b05e5561a2</link>
 <pubDate>Wed, 29 Jul 2026 15:44:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Lindsey Graham returns home one last time for his funeral in South Carolina]]></title>
-<link>https://apnews.com/article/lindsey-graham-funeral-south-carolina-a82f073c0d7ca2692214427b3029c988</link>
-<pubDate>Wed, 29 Jul 2026 15:29:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -257,9 +275,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[FIFA’s Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan]]></title>
+<title><![CDATA[FIFA’s Infantino sets deadline for $20M offer to members in World Cup investor plan]]></title>
 <link>https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-e66dc5d5f9907f9ea5323716b7e49ca2</link>
-<pubDate>Wed, 29 Jul 2026 11:42:11 -0000</pubDate>
+<pubDate>Wed, 29 Jul 2026 17:53:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -284,12 +302,6 @@
 <title><![CDATA[Vietnam’s biggest company, Vingroup, goes global as its home market slows]]></title>
 <link>https://apnews.com/article/vietnam-vingroup-uzbekistan-congo-property-vinfast-290c77eb74d682f6ac5dd8cab4866880</link>
 <pubDate>Wed, 29 Jul 2026 09:57:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Oil prices jump following fighting with Iran, while sinking AI stocks drag Wall Street lower]]></title>
-<link>https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725</link>
-<pubDate>Wed, 29 Jul 2026 14:59:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -323,6 +335,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[The deaths of 15 elephants in Kenya’s Amboseli National Park spark investigation]]></title>
+<link>https://apnews.com/article/kenya-amboseli-elephants-dead-3d0c72868806fd8e96e02f0319cc3b92</link>
+<pubDate>Wed, 29 Jul 2026 13:23:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Residents return to a southern Lebanese village after a US-brokered agreement, in photos]]></title>
 <link>https://apnews.com/photo-gallery/photos-lebanon-war-israel-hezbollah-f0c5879831ab156985d9f6b497f2117f</link>
 <pubDate>Wed, 29 Jul 2026 13:08:40 -0000</pubDate>
@@ -353,27 +371,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Drivers endure overnight gas lines as a war-driven fuel shortage grips Iraq’s Kurdish region]]></title>
-<link>https://apnews.com/article/iraq-irbil-fuel-crisis-gas-iran-war-03c6595d0151d0ad45b83ab2f4a34b01</link>
-<pubDate>Wed, 29 Jul 2026 12:53:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The future of the UK’s renowned Lovell radio telescope is in question after a funding cut]]></title>
-<link>https://apnews.com/article/lovell-telescope-jodrell-bank-funding-cut-21290b86ed90382c0bfb0822af7d839a</link>
-<pubDate>Tue, 28 Jul 2026 16:11:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe’s UEFA]]></title>
-<link>https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-8345e0864e3a217632733810c232b423</link>
-<pubDate>Tue, 28 Jul 2026 15:56:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq]]></title>
+<title><![CDATA[Iran launches renewed missile attacks as US and Saudis strike Tehran-backed militias in Iraq]]></title>
 <link>https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84</link>
-<pubDate>Wed, 29 Jul 2026 14:38:43 -0000</pubDate>
+<pubDate>Wed, 29 Jul 2026 18:53:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -386,6 +386,12 @@
 <title><![CDATA[Fringe Israeli settler group is sneaking into Syria to try to claim land for a Jewish outpost]]></title>
 <link>https://apnews.com/article/israel-syria-netanyahu-jewish-settlers-bashan-461c4c4f686d5cf74f0617a7e70ffa29</link>
 <pubDate>Wed, 29 Jul 2026 07:20:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan]]></title>
+<link>https://apnews.com/article/japan-earthquake-kumamoto-kagoshima-mall-factory-6b0fe69d44fa5c82ac4765a8ad82ebf6</link>
+<pubDate>Wed, 29 Jul 2026 12:12:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,9 +437,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The Federal Reserve is expected to keep rates unchanged for now despite high prices]]></title>
+<title><![CDATA[Federal Reserve votes 9-3 to leave key rate unchanged despite persistently high inflation]]></title>
 <link>https://apnews.com/article/federal-reserve-inflation-interest-rates-iran-war-ad10c177cb8d96f9e3ed122e12352a74</link>
-<pubDate>Wed, 29 Jul 2026 11:57:13 -0000</pubDate>
+<pubDate>Wed, 29 Jul 2026 18:23:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Oil prices jump following fighting with Iran, while sinking AI stocks drag Wall Street lower]]></title>
+<link>https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725</link>
+<pubDate>Wed, 29 Jul 2026 18:08:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,21 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US bans foreign-made humanoid robots, targeting China over national security]]></title>
-<link>https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366</link>
-<pubDate>Wed, 29 Jul 2026 06:35:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France’s wildfire rages on]]></title>
 <link>https://apnews.com/article/europe-wildfires-france-spain-evacuees-shelter-13b3173c427388881108c58510312993</link>
 <pubDate>Wed, 29 Jul 2026 06:50:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan]]></title>
-<link>https://apnews.com/article/japan-earthquake-kumamoto-kagoshima-mall-factory-6b0fe69d44fa5c82ac4765a8ad82ebf6</link>
-<pubDate>Wed, 29 Jul 2026 12:12:13 -0000</pubDate>
+<title><![CDATA[Photos show the aftermath of a damaging earthquake in southwestern Japan]]></title>
+<link>https://apnews.com/photo-gallery/japan-earthquake-kumamoto-photos-81625ab0eef536cd1da4e3d53cc2ba32</link>
+<pubDate>Wed, 29 Jul 2026 06:05:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,15 +479,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ebola outbreak is worsening food insecurity in eastern Congo, UN agency chief warns]]></title>
-<link>https://apnews.com/article/congo-ebola-food-united-nations-agency-288100564a7155ef6afffee6f2025b37</link>
-<pubDate>Wed, 29 Jul 2026 14:59:24 -0000</pubDate>
+<title><![CDATA[Hundreds of migrants are swimming from Morocco to the Spanish territory of Ceuta]]></title>
+<link>https://apnews.com/article/spain-morocco-migrants-swimming-ceuta-da8f6c6b2a8318fb03df5d6289a7d731</link>
+<pubDate>Wed, 29 Jul 2026 17:53:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Wildfires are more extreme in Europe and North America, but global burning is oddly decreasing]]></title>
-<link>https://apnews.com/article/wildfires-climate-change-el-nino-3bed10eb83c2db828eb90617022a66e4</link>
-<pubDate>Wed, 29 Jul 2026 09:57:29 -0000</pubDate>
+<title><![CDATA[Investigation revealed ‘devastating’ reports of sexual misconduct at school supported by Epstein]]></title>
+<link>https://apnews.com/article/interlochen-michigan-jeffrey-epstein-cd84e951ec92e19ce9a44c398085d9f7</link>
+<pubDate>Wed, 29 Jul 2026 17:38:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
