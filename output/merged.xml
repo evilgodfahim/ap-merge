@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Aug 2026 11:08:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 12:32:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[60,000 Moroccan migrants cross into the Spanish territory of Ceuta, triggering a humanitarian crisis]]></title>
 <link>https://apnews.com/article/spain-ceuta-migration-66839d113f24ba80d08b36d2b337201c</link>
@@ -14,12 +14,6 @@
 <title><![CDATA[Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die]]></title>
 <link>https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97</link>
 <pubDate>Thu, 30 Jul 2026 19:58:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Glen Hansard, Irish musician who won Oscar for ‘Once,’ dies in motorcycle crash]]></title>
-<link>https://apnews.com/article/glen-hansard-dies-dublin-motorcycle-crash-2df53656c036a9e39f91514d25538311</link>
-<pubDate>Thu, 30 Jul 2026 03:49:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Oprah Winfrey says she will close her school for girls in South Africa next year]]></title>
+<link>https://apnews.com/article/south-africa-oprah-winfrey-school-closure-8869f220df77c92d875911740557bdf5</link>
+<pubDate>Fri, 31 Jul 2026 12:25:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Palestinian authorities ask Supreme Court to halt $656M judgment pending appeal]]></title>
 <link>https://apnews.com/article/plo-lawsuit-antiterrorism-act-courts-6565f43e13f9eca288c963daf0f5b4e8</link>
 <pubDate>Fri, 31 Jul 2026 13:10:30 -0000</pubDate>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe’s wildfire crisis shifts as some 200,000 French return but new blazes force thousands to flee]]></title>
+<link>https://apnews.com/article/fires-wildfires-europe-9acd6a30ef36a33fbd48600620aeeb37</link>
+<pubDate>Sat, 01 Aug 2026 12:32:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Why Moroccans collectively crossed to Ceuta, in their own words]]></title>
 <link>https://apnews.com/article/migrants-spain-ceuta-morocco-d564354dd54e92debf43ce5fe22299f9</link>
 <pubDate>Sat, 01 Aug 2026 05:01:03 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[FACT FOCUS: Migrant crossing in Spain’s Ceuta breeds unsubstantiated claims]]></title>
 <link>https://apnews.com/article/spain-migration-ceuta-morocco-facts-50baa964ecfb07a2d19223d7ec375b91</link>
 <pubDate>Fri, 31 Jul 2026 18:48:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’]]></title>
-<link>https://apnews.com/article/andy-burnham-manchester-number-10-north-c07beefdeffe1a0af88a47e8ccf63d6e</link>
-<pubDate>Sat, 01 Aug 2026 04:46:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,21 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oprah Winfrey says she will close her school for girls in South Africa next year]]></title>
-<link>https://apnews.com/article/south-africa-oprah-winfrey-school-closure-8869f220df77c92d875911740557bdf5</link>
-<pubDate>Fri, 31 Jul 2026 12:25:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Congo says the death toll in fastest-growing Ebola outbreak has passed 1,500]]></title>
 <link>https://apnews.com/article/congo-ebola-death-toll-bundibugyo-virus-response-treatment-269eac4d8a93be912459486428ef2f94</link>
 <pubDate>Thu, 30 Jul 2026 14:58:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely]]></title>
-<link>https://apnews.com/article/marine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c</link>
-<pubDate>Fri, 31 Jul 2026 23:36:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,15 +119,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Seattle mayor defends ousting police chief after festival shootout]]></title>
-<link>https://apnews.com/article/seattle-mayor-katie-wilson-festival-shooting-police-be27c0d53f4fff77ac435bacbaf9a070</link>
-<pubDate>Fri, 31 Jul 2026 23:21:51 -0000</pubDate>
+<title><![CDATA[Fishing closures are becoming routine as record heat warms rivers in the US West]]></title>
+<link>https://apnews.com/article/drought-heat-fishing-closures-climate-d3c8999b0bd39381b00ca3d7ed415c90</link>
+<pubDate>Sat, 01 Aug 2026 12:17:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it]]></title>
-<link>https://apnews.com/article/savannah-nancy-guthrie-missing-mom-ransom-note-7a53c668597233ef4dbc82204118067f</link>
-<pubDate>Fri, 31 Jul 2026 23:06:51 -0000</pubDate>
+<title><![CDATA[Maryland Gov. Wes Moore says he’s ‘very concerned’ Trump will interfere in the midterm elections]]></title>
+<link>https://apnews.com/article/wes-moore-trump-governors-election-security-midterms-e01ae5408fff1119c3f8f556ed113d25</link>
+<pubDate>Sat, 01 Aug 2026 12:02:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Seattle mayor defends ousting police chief after festival shootout]]></title>
+<link>https://apnews.com/article/seattle-mayor-katie-wilson-festival-shooting-police-be27c0d53f4fff77ac435bacbaf9a070</link>
+<pubDate>Fri, 31 Jul 2026 23:21:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -188,6 +182,36 @@
 <title><![CDATA[India’s ‘Cockroach’ movement ends protests after education minister resigns]]></title>
 <link>https://apnews.com/article/india-cockroach-education-minister-56d69c289589f057c0e72cde0c3d75d3</link>
 <pubDate>Sun, 26 Jul 2026 01:03:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hundreds of thousands line Amsterdam canals for the annual Pride boat parade]]></title>
+<link>https://apnews.com/article/pride-lgbtqi-amsterdam-canals-security-jetten-4b1d7cca31a9e89d29666f730e1c3cf3</link>
+<pubDate>Sat, 01 Aug 2026 12:32:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hamburg Pride gets underway with increased security a week after a fatal attack in Berlin]]></title>
+<link>https://apnews.com/article/germany-hamburg-pride-parade-berlin-attack-security-4fabf20621b75cdd8f8e05119ea9d281</link>
+<pubDate>Sat, 01 Aug 2026 12:17:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Photos show the scenes after the latest Israeli strikes in Gaza]]></title>
+<link>https://apnews.com/photo-gallery/photos-show-scene-after-latest-israeli-strikes-gaza-aa52e190f9cf447fb29eecc0a94d5c47</link>
+<pubDate>Sat, 01 Aug 2026 12:02:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[August’s total solar eclipse will sweep over Spain, Iceland and Greenland]]></title>
+<link>https://apnews.com/article/total-solar-eclipse-sun-moon-0757e313d90c684f87163318ada5cf03</link>
+<pubDate>Sat, 01 Aug 2026 11:47:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Britain’s new leader shifts power from Downing Street to Manchester with ‘No. 10 North’]]></title>
+<link>https://apnews.com/article/andy-burnham-manchester-number-10-north-c07beefdeffe1a0af88a47e8ccf63d6e</link>
+<pubDate>Sat, 01 Aug 2026 11:32:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -254,6 +278,12 @@
 <title><![CDATA[Daily life around the world, in photos]]></title>
 <link>https://apnews.com/photo-gallery/daily-life-around-world-photos-9e32d2a550014daab9aea6c2a0d34aed</link>
 <pubDate>Fri, 31 Jul 2026 15:18:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East]]></title>
+<link>https://apnews.com/article/mideast-gaza-iran-israel-palestinians-strait-hormuz-9304893b474a48d18913d6f70fae4a8e</link>
+<pubDate>Sat, 01 Aug 2026 11:17:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,57 +365,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[34 miners killed in a methane explosion at a coal mine in southwestern Pakistan]]></title>
-<link>https://apnews.com/article/pakistan-coal-mine-blast-balochistan-rescue-concludes-573ba8cad918a355629a3f968a69555f</link>
-<pubDate>Fri, 31 Jul 2026 17:01:38 -0000</pubDate>
+<title><![CDATA[Trump threatens more strikes on Iran, and other developments in the Middle East]]></title>
+<link>https://apnews.com/article/trump-iran-strait-hormuz-israel-gaza-mideast-e61e88c14d8aca48c1c56368650baea5</link>
+<pubDate>Sat, 01 Aug 2026 12:32:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Sony sees profit grow on demand for games, but quake damage still unclear]]></title>
-<link>https://apnews.com/article/japan-earnings-sony-entertainment-electronics-playstation-1bef3a59cdc32d0bc09dfb3058fd665b</link>
-<pubDate>Fri, 31 Jul 2026 07:57:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[An Australian jury convicts British entertainer Yung Filly of assault as he weeps in court]]></title>
-<link>https://apnews.com/article/australia-yung-filly-rape-trial-barrientos-a9bc047830a6147c6784de37f563900c</link>
-<pubDate>Sat, 01 Aug 2026 09:47:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Peru swears in new president and other top photos from Latin America and the Caribbean]]></title>
-<link>https://apnews.com/photo-gallery/photos-peru-fujimori-sargassum-milei-brazil-46e0f66626aa47ebc6acee70878ea588</link>
-<pubDate>Fri, 31 Jul 2026 05:22:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistani rescuers recover 3 bodies of 10 climbers missing on Broad Peak after avalanche]]></title>
-<link>https://apnews.com/article/pakistan-mountaineers-missing-avalanche-broad-peak-8bfa2c9e346b3a617cfed91f091283e5</link>
-<pubDate>Sat, 01 Aug 2026 04:31:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen]]></title>
-<link>https://apnews.com/article/stock-markets-rates-korea-ai-oil-e31b3a442bcb957a53f1823ef21e73e8</link>
-<pubDate>Fri, 31 Jul 2026 21:04:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East]]></title>
-<link>https://apnews.com/article/mideast-gaza-iran-israel-palestinians-strait-hormuz-9304893b474a48d18913d6f70fae4a8e</link>
-<pubDate>Fri, 31 Jul 2026 23:51:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas says it will disarm if Israel halts strikes and withdraws from Gaza, but obstacles remain]]></title>
-<link>https://apnews.com/article/hamas-disarm-trump-gaza-board-of-peace-3ebcae647ef8db8a7bafa97e53d050ed</link>
-<pubDate>Fri, 31 Jul 2026 15:18:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll in Spain-Morocco border crisis in Ceuta reaches 67 as tens of thousands cross back]]></title>
+<title><![CDATA[Spain to put containment fence on Ceuta’s border with Morocco after frontier rush that killed 67]]></title>
 <link>https://apnews.com/article/migration-spain-ceuta-morocco-d76c6dc9d2da828907a1c04e1d482bbe</link>
-<pubDate>Sat, 01 Aug 2026 09:47:38 -0000</pubDate>
+<pubDate>Sat, 01 Aug 2026 12:17:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -437,6 +425,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump stands to profit off US policy announcements by selling fast access to his social media posts]]></title>
+<link>https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8</link>
+<pubDate>Sat, 01 Aug 2026 11:47:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump administration pushes tougher English rules for Mexican train crews crossing into the US]]></title>
 <link>https://apnews.com/article/mexican-train-crew-english-union-pacific-cpkc-2de3ba3b5b96b24dac67378d4028ad61</link>
 <pubDate>Fri, 31 Jul 2026 18:03:57 -0000</pubDate>
@@ -446,12 +440,6 @@
 <title><![CDATA[Major oil companies reap massive profits as US and Iran fighting drives energy prices higher]]></title>
 <link>https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7</link>
 <pubDate>Fri, 31 Jul 2026 12:25:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Anthropic says its AI models hacked 3 organizations during testing]]></title>
-<link>https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec</link>
-<pubDate>Fri, 31 Jul 2026 07:42:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Jurors in Lindsay Clancy’s trial visit the home where she killed her children]]></title>
-<link>https://apnews.com/article/lindsay-clancy-murder-trial-jury-site-visit-468af9031f496bf2d1d9b723e5aa35f8</link>
-<pubDate>Fri, 31 Jul 2026 23:06:52 -0000</pubDate>
+<title><![CDATA[Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely]]></title>
+<link>https://apnews.com/article/marine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c</link>
+<pubDate>Sat, 01 Aug 2026 11:32:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
