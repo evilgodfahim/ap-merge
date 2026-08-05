@@ -3,23 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Aug 2026 13:39:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 15:52:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump frequently announces he’s halting strikes in Iran. But they keep happening]]></title>
 <link>https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa</link>
 <pubDate>Tue, 04 Aug 2026 01:58:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[AI-assisted staging draws boos at the Richard Wagner festival in Germany]]></title>
-<link>https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c</link>
-<pubDate>Mon, 03 Aug 2026 16:43:50 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta]]></title>
-<link>https://apnews.com/article/ceuta-spain-morocco-migration-f3a7f514a7792c39d8b8d5d814fa5158</link>
-<pubDate>Tue, 04 Aug 2026 10:23:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,9 +17,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta]]></title>
+<link>https://apnews.com/article/ceuta-spain-morocco-migration-f3a7f514a7792c39d8b8d5d814fa5158</link>
+<pubDate>Tue, 04 Aug 2026 10:23:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump optimistic Iran talks will reopen strait, and other developments in the Middle East]]></title>
 <link>https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a</link>
 <pubDate>Tue, 04 Aug 2026 17:09:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Fuego volcano spews ash and mud, forcing nearly 2,000 in Guatemala into shelters]]></title>
+<link>https://apnews.com/article/fuego-volcano-guatemala-eruption-evacuation-d4791ca218180a2daa42a3b09673a52c</link>
+<pubDate>Wed, 05 Aug 2026 06:03:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,15 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[4 stabbed in central London in what police believe was a mental health incident]]></title>
+<link>https://apnews.com/article/uk-london-covent-garden-stabbing-woman-arrest-1e835f275bf2fb4413fd0e2b43599866</link>
+<pubDate>Wed, 05 Aug 2026 15:52:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russian drone factory director badly injured in car explosion]]></title>
 <link>https://apnews.com/article/russia-moscow-explosion-urals-drone-tkachuk-uraldrinzavod-444a6f07da96a888a5f036e45e8c7e42</link>
 <pubDate>Wed, 05 Aug 2026 13:24:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[German court sentences young members of right-wing extremist group ‘Last Defense Wave’ to prison]]></title>
-<link>https://apnews.com/article/germany-far-right-group-conviction-prison-sentences-2eae8375b7c427ff1e945eb935ca0882</link>
-<pubDate>Wed, 05 Aug 2026 13:09:25 -0000</pubDate>
+<title><![CDATA[Ousted Bangladeshi leader Sheikh Hasina to return from exile in December]]></title>
+<link>https://apnews.com/article/bangladesh-sheikh-hasina-exile-eb64bc5b38eb570044091295778bf3df</link>
+<pubDate>Wed, 05 Aug 2026 15:37:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,12 +83,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China announces countermeasures against Washington, including controls on drone exports to the US]]></title>
-<link>https://apnews.com/article/china-us-sanctions-drone-forced-labor-ad0b637298e9608c5351bca84debeb25</link>
-<pubDate>Wed, 05 Aug 2026 12:54:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Cubans sleep on seaside boardwalk to seek relief from crippling blackouts and summer heat]]></title>
 <link>https://apnews.com/article/cuba-blackouts-trump-crisis-energy-e07f716bdfcd7a786197afdcc8a166ec</link>
 <pubDate>Wed, 05 Aug 2026 12:39:25 -0000</pubDate>
@@ -95,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fuego volcano spews ash and mud, forcing nearly 2,000 in Guatemala into shelters]]></title>
-<link>https://apnews.com/article/fuego-volcano-guatemala-eruption-evacuation-d4791ca218180a2daa42a3b09673a52c</link>
-<pubDate>Wed, 05 Aug 2026 06:03:14 -0000</pubDate>
+<title><![CDATA[Brazil cuts diplomatic presence in Argentina after Milei insults Lula]]></title>
+<link>https://apnews.com/article/brazil-argentina-diplomatic-presence-milei-lula-c58683d82b1249ededa2da3145681edd</link>
+<pubDate>Wed, 05 Aug 2026 03:36:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination]]></title>
-<link>https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866</link>
-<pubDate>Wed, 05 Aug 2026 10:49:04 -0000</pubDate>
+<title><![CDATA[Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing]]></title>
+<link>https://apnews.com/article/michigan-primary-senate-elsayed-stevens-60c79349b60ffbf24a34d60b76e130ed</link>
+<pubDate>Wed, 05 Aug 2026 15:22:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -155,6 +155,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan teams search on foot for remains of climbers as weather grounds helicopters]]></title>
+<link>https://apnews.com/article/pakistan-avalanche-climbers-remains-search-broad-peak-5aa6513b7850e6686385fc88678e38ce</link>
+<pubDate>Wed, 05 Aug 2026 03:51:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Japan says combat drones key to adapting to new warfare as regional tensions rise]]></title>
 <link>https://apnews.com/article/japan-defense-paper-china-drones-5a6c6223b22deec4619af31cf69fdc34</link>
 <pubDate>Tue, 04 Aug 2026 16:39:41 -0000</pubDate>
@@ -170,12 +176,6 @@
 <title><![CDATA[Top US admiral warns against coercion, says no nation will dominate Indo-Pacific]]></title>
 <link>https://apnews.com/article/us-south-china-sea-indo-pacific-8b2b98dad27f8420c7bc217a31354b4a</link>
 <pubDate>Mon, 03 Aug 2026 10:21:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China’s factory activity unexpectedly slips into contraction in July]]></title>
-<link>https://apnews.com/article/china-manufacturing-economy-pmi-exports-a9a5016ca01d4f65e0491ff5327c0a11</link>
-<pubDate>Mon, 03 Aug 2026 22:05:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,9 +203,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France is banning unsolicited telemarketing calls starting next week]]></title>
+<link>https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da</link>
+<pubDate>Wed, 05 Aug 2026 15:52:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[LIV Golf has lead investor and planning ahead for another season]]></title>
+<link>https://apnews.com/article/liv-golf-investor-trump-bedminster-scott-oneil-169ca9da22ea74151b370b4ff6426617</link>
+<pubDate>Wed, 05 Aug 2026 15:37:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan’s ruling party leads in Kashmir vote despite boycott call by banned group]]></title>
+<link>https://apnews.com/article/pakistan-kashmir-elections-ruling-party-wins-3e3a7a8ff626ebeed3e2d12370074d4d</link>
+<pubDate>Wed, 05 Aug 2026 15:22:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Party in Spain’s government questions co-hosting 2030 World Cup with Morocco after migration crisis]]></title>
+<link>https://apnews.com/article/world-cup-ceuta-spain-morocco-migration-2030-fbd54b5a53c8468b7dc182dfef6d90ad</link>
+<pubDate>Wed, 05 Aug 2026 15:07:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bill aiming for peace between Turkey and Kurdish fighters goes to parliament]]></title>
 <link>https://apnews.com/article/turkey-peace-pkk-kurdish-bill-parliament-6b52a23e48b05d392f6474fbaba8b819</link>
 <pubDate>Wed, 05 Aug 2026 13:39:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[German court sentences young members of right-wing extremist group ‘Last Defense Wave’ to prison]]></title>
+<link>https://apnews.com/article/germany-far-right-group-conviction-prison-sentences-2eae8375b7c427ff1e945eb935ca0882</link>
+<pubDate>Wed, 05 Aug 2026 14:52:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -254,12 +284,6 @@
 <title><![CDATA[Top Canadian news anchor Lloyd Robertson dies at 92]]></title>
 <link>https://apnews.com/article/canada-ctv-lloyd-robertson-obit-e6f138b7f9452f3a6fc7ff122dc5ce25</link>
 <pubDate>Wed, 05 Aug 2026 06:03:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil cuts diplomatic presence in Argentina after Milei insults Lula]]></title>
-<link>https://apnews.com/article/brazil-argentina-diplomatic-presence-milei-lula-c58683d82b1249ededa2da3145681edd</link>
-<pubDate>Wed, 05 Aug 2026 12:24:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,30 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bono, Eddie Vedder among mourners at the funeral of Oscar-winning songwriter Glen Hansard]]></title>
-<link>https://apnews.com/article/glen-hansard-funeral-dublin-bono-eddie-vedder-46b1d6ef619979afb5c0a031a5c3b0bf</link>
-<pubDate>Tue, 04 Aug 2026 15:54:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Children in a strange land: the plight of the 1,000 minor migrants still in Spain’s Ceuta]]></title>
-<link>https://apnews.com/article/spain-ceuta-migration-morocco-minors-children-d504b42c97b696ed541e729ed84282de</link>
-<pubDate>Tue, 04 Aug 2026 15:14:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Zimbabwe mourns mother and 2 daughters killed in the UK as father faces charges]]></title>
-<link>https://apnews.com/article/murder-mother-daughters-buried-britain-zimbabwe-f8d31409cdc4f81ddcb106f947005111</link>
-<pubDate>Wed, 05 Aug 2026 12:09:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South Korean students detained for allegedly breaking into US military base]]></title>
-<link>https://apnews.com/article/south-korea-us-military-students-detained-87e996c2f3a10f696911bf6204668a5b</link>
-<pubDate>Wed, 05 Aug 2026 10:34:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday]]></title>
 <link>https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55</link>
 <pubDate>Wed, 05 Aug 2026 11:34:08 -0000</pubDate>
@@ -419,9 +419,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments]]></title>
-<link>https://apnews.com/article/iran-us-hormuz-mideast-gaza-israel-palestinians-ff5f13230ab92b5ae3022f45b2585444</link>
-<pubDate>Wed, 05 Aug 2026 08:30:27 -0000</pubDate>
+<title><![CDATA[Here are the latest developments in the Middle East]]></title>
+<link>https://apnews.com/article/mideast-news-roundup-iran-aug-5-2026-d23e098f5bb6f87c7bb7d8bf9d4d5fb2</link>
+<pubDate>Wed, 05 Aug 2026 15:52:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,15 +449,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks add to their records on Wall Street and crude oil prices edge higher]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-oil-prices-53179dc1c0148c5afeb47379b8f5b5c5</link>
-<pubDate>Wed, 05 Aug 2026 13:09:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rising temperatures could keep more flights from taking off on time]]></title>
-<link>https://apnews.com/article/extreme-heat-airplanes-takeoff-flights-1bf75210f0756fb342960d4e3489f550</link>
-<pubDate>Wed, 05 Aug 2026 10:34:08 -0000</pubDate>
+<title><![CDATA[Disney’s strong quarter driven by ‘Toy Story 5' and the draw of its US theme parks]]></title>
+<link>https://apnews.com/article/disney-economy-trump-parks-streaming-tiktok-d9d5482d48307f7104c677fa4b059a01</link>
+<pubDate>Wed, 05 Aug 2026 10:19:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Disney’s strong quarter driven by ‘Toy Story 5' and the draw of its US theme parks]]></title>
-<link>https://apnews.com/article/disney-economy-trump-parks-streaming-tiktok-d9d5482d48307f7104c677fa4b059a01</link>
-<pubDate>Wed, 05 Aug 2026 10:19:08 -0000</pubDate>
+<title><![CDATA[Stocks waver on Wall Street and hover around records as oil prices hold steady]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-oil-prices-53179dc1c0148c5afeb47379b8f5b5c5</link>
+<pubDate>Wed, 05 Aug 2026 15:37:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Rising temperatures could keep more flights from taking off on time]]></title>
+<link>https://apnews.com/article/extreme-heat-airplanes-takeoff-flights-1bf75210f0756fb342960d4e3489f550</link>
+<pubDate>Wed, 05 Aug 2026 10:34:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -503,9 +503,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan teams search on foot for remains of climbers as weather grounds helicopters]]></title>
-<link>https://apnews.com/article/pakistan-avalanche-climbers-remains-search-broad-peak-5aa6513b7850e6686385fc88678e38ce</link>
-<pubDate>Tue, 04 Aug 2026 10:08:44 -0000</pubDate>
+<title><![CDATA[China announces countermeasures against Washington, including controls on drone exports to the US]]></title>
+<link>https://apnews.com/article/china-us-sanctions-drone-forced-labor-ad0b637298e9608c5351bca84debeb25</link>
+<pubDate>Wed, 05 Aug 2026 11:04:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
