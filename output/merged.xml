@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 07 Aug 2026 14:43:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 15:42:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down]]></title>
 <link>https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55</link>
@@ -29,9 +29,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The Danube River’s water is dropping so low that World War II ships are emerging]]></title>
-<link>https://apnews.com/article/serbia-danube-river-drought-ships-7f938261b92ebbc88330d5f1b892fb2e</link>
-<pubDate>Tue, 04 Aug 2026 15:14:08 -0000</pubDate>
+<title><![CDATA[Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news]]></title>
+<link>https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a</link>
+<pubDate>Fri, 07 Aug 2026 15:42:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Syria’s Health Ministry corrects Damascus minibus blast toll: 14 wounded, no deaths]]></title>
+<link>https://apnews.com/article/syria-jaramana-explosion-minibus-car-bomb-bd0379b83a4ab8c0b613799162cfd5cd</link>
+<pubDate>Fri, 07 Aug 2026 15:27:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,15 +47,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops]]></title>
-<link>https://apnews.com/article/iran-war-traumatic-brain-injuries-troops-ba0137df7504abe6908557afeb2d9ebe</link>
-<pubDate>Fri, 07 Aug 2026 09:28:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Saudi Arabia, Turkey and Pakistan have signed a key defense agreement]]></title>
 <link>https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c</link>
 <pubDate>Fri, 07 Aug 2026 13:44:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Serbia races to contain wildfires as Europe’s blistering heat wave grips the Balkans]]></title>
+<link>https://apnews.com/article/serbia-europe-heat-wave-wildfires-drought-e917163758ae90c94c8d0cd8f17c7e10</link>
+<pubDate>Fri, 07 Aug 2026 15:12:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine’s Zelenskyy to make first visit to Russia-friendly Serbia]]></title>
-<link>https://apnews.com/article/serbia-ukraine-visit-russia-zelenskyy-visit-525abc93c80c868ec5f1705dca4168d0</link>
-<pubDate>Fri, 07 Aug 2026 13:14:53 -0000</pubDate>
+<title><![CDATA[A look at high-profile shooting deaths in Thailand since 2020]]></title>
+<link>https://apnews.com/article/thailand-shooting-guns-mall-school-1688db8d4253fc187c060ace9918f4e2</link>
+<pubDate>Fri, 07 Aug 2026 14:57:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[After centuries in India, the last Cochin Jews try to keep their history alive]]></title>
 <link>https://apnews.com/article/kochi-india-cochin-jews-preserve-history-86dc7f2069338cd5903b562330a4b12f</link>
 <pubDate>Fri, 07 Aug 2026 06:24:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Most of the Maldives may be unlivable in 50 years. These youths are sounding the alarm]]></title>
-<link>https://apnews.com/article/climate-change-youth-activism-maldives-8b3927beaaa60164b1e79dbb77857437</link>
-<pubDate>Fri, 07 Aug 2026 08:58:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -98,6 +98,12 @@
 <title><![CDATA[Why Mexican avocado exports to the US have been stopped again]]></title>
 <link>https://apnews.com/article/mexico-us-avocados-suspended-michoacan-cartels-sheinbaum-trump-689d89d4934a405882785205cc0f8c22</link>
 <pubDate>Fri, 07 Aug 2026 04:54:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[How the Iran-backed Houthis’ claims of deadly attacks are stoking fears of a wider regional conflict]]></title>
+<link>https://apnews.com/article/yemen-houthis-attacks-iran-us-explainer-6d79ab62dc697281ba5be0352e95b2c5</link>
+<pubDate>Fri, 07 Aug 2026 14:42:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,6 +131,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says]]></title>
+<link>https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</link>
+<pubDate>Fri, 07 Aug 2026 08:43:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[‘I’m very good at grass.’ Why Trump goes into the weeds on one of his favorite topics]]></title>
 <link>https://apnews.com/article/trump-grass-golf-parks-rose-garden-5154f2697c460fd8cdda277cc7874780</link>
 <pubDate>Fri, 07 Aug 2026 12:29:53 -0000</pubDate>
@@ -140,12 +152,6 @@
 <title><![CDATA[Tennessee voters oust Trump-backed congressman, set fall matchup for redrawn Memphis-area House seat]]></title>
 <link>https://apnews.com/article/tennessee-primary-election-congress-redistricting-memphis-ad0c23a4d0d5f7464ff2bdbb892b0a3f</link>
 <pubDate>Fri, 07 Aug 2026 02:07:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Louisiana school board and federal government end 61 years of segregation monitoring]]></title>
-<link>https://apnews.com/article/louisiana-school-desegregation-bossier-parish-7c0814c27ea9ac3710c2797f0b534660</link>
-<pubDate>Thu, 06 Aug 2026 23:50:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,12 +203,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[How the Iran-backed Houthis’ claims of deadly attacks are stoking fears of a wider regional conflict]]></title>
-<link>https://apnews.com/article/yemen-houthis-attacks-iran-us-explainer-6d79ab62dc697281ba5be0352e95b2c5</link>
-<pubDate>Fri, 07 Aug 2026 13:44:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Spanish-led police raid smashes a vast Mediterranean smuggling network, arresting 78]]></title>
 <link>https://apnews.com/article/spain-migrants-smuggling-europol-criminal-gang-36adc86a30c6d07392345783656b430f</link>
 <pubDate>Fri, 07 Aug 2026 13:29:53 -0000</pubDate>
@@ -248,6 +248,12 @@
 <title><![CDATA[American flown to a New Zealand hospital in a rare midwinter Antarctic rescue mission]]></title>
 <link>https://apnews.com/article/australia-new-zealand-mcmurdo-us-antarctic-rescue-d67b876568be00adc10f0d5a376e4c15</link>
 <pubDate>Fri, 07 Aug 2026 08:58:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Most of the Maldives may be unlivable in 50 years. These youths are sounding the alarm]]></title>
+<link>https://apnews.com/article/climate-change-youth-activism-maldives-8b3927beaaa60164b1e79dbb77857437</link>
+<pubDate>Fri, 07 Aug 2026 15:42:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,12 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[German court sentences suspect in deadly Munich car-ramming attack to life in prison]]></title>
-<link>https://apnews.com/article/germany-munich-car-ramming-attack-conviction-2623287ddb1b8c4e9556fa9c6878a013</link>
-<pubDate>Thu, 06 Aug 2026 13:41:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Student kills at least 7 people at a high school and a home outside Bangkok, officials say]]></title>
 <link>https://apnews.com/article/thailand-nonthaburi-school-shooting-7939000dbad098198a9fc77169028762</link>
 <pubDate>Fri, 07 Aug 2026 13:44:54 -0000</pubDate>
@@ -419,6 +419,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Photos of free-roaming cats that are part of daily life in Istanbul]]></title>
+<link>https://apnews.com/photo-gallery/photo-gallery-turkey-istanbul-cats-570396d982a4a8acabe214d9b80885ac</link>
+<pubDate>Fri, 07 Aug 2026 15:42:23 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Israeli prosecutors charge settler with killing Palestinian activist in rare indictment]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-levi-palestinian-activist-hathaleen-58e246abe5bda4d075bc61d31b7ffdfb</link>
 <pubDate>Thu, 06 Aug 2026 14:41:58 -0000</pubDate>
@@ -431,21 +437,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Syria’s Health Ministry corrects Damascus minibus blast toll: 14 wounded, no deaths]]></title>
-<link>https://apnews.com/article/syria-jaramana-explosion-minibus-car-bomb-bd0379b83a4ab8c0b613799162cfd5cd</link>
-<pubDate>Fri, 07 Aug 2026 08:58:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
 <pubDate>Mon, 03 Aug 2026 10:36:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US employers unexpectedly cut 23,000 jobs amid strain from the Iran war, unemployment dips to 4.1%]]></title>
+<title><![CDATA[US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump]]></title>
 <link>https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957</link>
-<pubDate>Fri, 07 Aug 2026 12:59:54 -0000</pubDate>
+<pubDate>Fri, 07 Aug 2026 15:27:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,15 +479,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops]]></title>
+<link>https://apnews.com/article/iran-war-traumatic-brain-injuries-troops-ba0137df7504abe6908557afeb2d9ebe</link>
+<pubDate>Thu, 06 Aug 2026 12:23:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Farmers in Kenya dispute that cyanide poisoning could have killed 16 elephants]]></title>
 <link>https://apnews.com/article/kenya-amboseli-elephants-dead-cyanide-farms-0b2af9a859cf4bb6d0d60413dceb1026</link>
 <pubDate>Fri, 07 Aug 2026 09:57:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says]]></title>
-<link>https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</link>
-<pubDate>Fri, 07 Aug 2026 09:42:59 -0000</pubDate>
+<title><![CDATA[Appeals court rules Trump can’t build White House ballroom without congressional approval]]></title>
+<link>https://apnews.com/article/trump-ballroom-court-ruling-1528247275ec6103da892d271d4ee883</link>
+<pubDate>Fri, 07 Aug 2026 15:12:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
