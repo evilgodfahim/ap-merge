@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Aug 2026 06:02:53 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down]]></title>
-<link>https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55</link>
-<pubDate>Thu, 06 Aug 2026 22:02:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Sat, 08 Aug 2026 07:25:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant’s second reactor running]]></title>
 <link>https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071</link>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe heat wave puts all major Italian cities on red alert as Austria sets heat record]]></title>
+<link>https://apnews.com/article/italy-europe-heat-wave-temperatures-austria-france-57b6b4c67fd40b24fe578e71edaa519b</link>
+<pubDate>Fri, 07 Aug 2026 09:13:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rights group warns Israel’s policies are pushing the West Bank healthcare system to collapse]]></title>
 <link>https://apnews.com/article/west-bank-healthcare-physicians-human-rights-israel-17a6c89efefa7e3ec07b3c68705ee043</link>
 <pubDate>Sat, 08 Aug 2026 05:12:52 -0000</pubDate>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A Russian retail giant’s warehouse burns after Ukraine’s latest long-range drone attack]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931</link>
+<pubDate>Sat, 08 Aug 2026 07:25:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Saudi Arabia, Turkey and Pakistan sign defense agreement]]></title>
 <link>https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c</link>
 <pubDate>Sat, 08 Aug 2026 04:57:52 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[Serbia races to contain wildfires as Europe’s blistering heat wave grips the Balkans]]></title>
 <link>https://apnews.com/article/serbia-europe-heat-wave-wildfires-drought-e917163758ae90c94c8d0cd8f17c7e10</link>
 <pubDate>Fri, 07 Aug 2026 15:12:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Argentines pray that Pope Leo’s visit alleviates their economic stress]]></title>
-<link>https://apnews.com/article/argentina-pope-leo-visit-milei-economic-crisis-3bacf459addc3f39cf1cff6412bdd8b6</link>
-<pubDate>Fri, 07 Aug 2026 22:02:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Argentines pray that Pope Leo’s visit alleviates their economic stress]]></title>
+<link>https://apnews.com/article/argentina-pope-leo-visit-milei-economic-crisis-3bacf459addc3f39cf1cff6412bdd8b6</link>
+<pubDate>Fri, 07 Aug 2026 22:02:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Suspended priest in Grenada turns to calypso to preach about sexual abuse and Gaza]]></title>
 <link>https://apnews.com/article/grenada-priest-father-paul-calypso-gaza-spicemas-6a1c6ccdc88e0865a774b72abd3faa9b</link>
 <pubDate>Fri, 07 Aug 2026 12:59:53 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Colombia’s new president signals energy policy shift, backs oil and gas]]></title>
 <link>https://apnews.com/article/colombia-president-espriella-environment-oil-gas-fracking-ecopetrol-4d4e23b739ca82f6b5b736228b4d988f</link>
 <pubDate>Sat, 08 Aug 2026 02:48:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[As blackouts stretch for days, life in Cuba revolves around small bursts of electricity]]></title>
-<link>https://apnews.com/article/cuba-blackout-trump-oil-energy-crisis-6a2cb180636bec4636bca045e8516c14</link>
-<pubDate>Fri, 07 Aug 2026 17:23:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,9 +149,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[California may fine content creators who don’t disclose they were paid to post about politics]]></title>
-<link>https://apnews.com/article/california-influencers-content-creators-paid-political-ads-531fced44944908eba1dbbef0c00fdc4</link>
-<pubDate>Sat, 08 Aug 2026 04:12:52 -0000</pubDate>
+<title><![CDATA[A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow]]></title>
+<link>https://apnews.com/article/meta-new-mexico-ruling-youth-mental-health-030dbeb27a51bdbdc861304023835e8d</link>
+<pubDate>Sat, 08 Aug 2026 07:10:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -269,6 +269,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[As blackouts stretch for days, life in Cuba revolves around small bursts of electricity]]></title>
+<link>https://apnews.com/article/cuba-blackout-trump-oil-energy-crisis-6a2cb180636bec4636bca045e8516c14</link>
+<pubDate>Sat, 08 Aug 2026 07:25:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Do you know what happened this week? Test your knowledge]]></title>
 <link>https://apnews.com/article/news-quiz-08-07-2026-fauci-trump-headstart</link>
 <pubDate>Fri, 07 Aug 2026 09:28:25 -0000</pubDate>
@@ -377,12 +383,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Explosion kills 2 people and wounds others in a suburb of the Syrian capital]]></title>
-<link>https://apnews.com/article/syria-jaramana-explosion-druze-damascus-d693d3467dcd2bdf73dfd193d30f0ffd</link>
-<pubDate>Fri, 07 Aug 2026 08:43:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Student kills at least 7 people at a high school and a home outside Bangkok, officials say]]></title>
 <link>https://apnews.com/article/thailand-nonthaburi-school-shooting-7939000dbad098198a9fc77169028762</link>
 <pubDate>Fri, 07 Aug 2026 13:44:54 -0000</pubDate>
@@ -398,12 +398,6 @@
 <title><![CDATA[Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham]]></title>
 <link>https://apnews.com/article/senate-russia-sanctions-graham-tariffs-8d37498c3f27d96cae7da147250ebe9f</link>
 <pubDate>Fri, 07 Aug 2026 17:38:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A Russian retail giant’s warehouse burns after Ukraine’s latest long-range drone attack]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931</link>
-<pubDate>Fri, 07 Aug 2026 09:13:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,15 +455,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Africa wants more homegrown solar to boost self-reliance, but China’s shadow remains]]></title>
+<link>https://apnews.com/article/renewable-energy-africa-asia-solar-312fa17cdbfcb434843a7f990f1580b7</link>
+<pubDate>Sat, 08 Aug 2026 07:25:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New Mexico attorney general hopes Meta ruling leads to Big Tech review. Here’s what to know]]></title>
 <link>https://apnews.com/article/meta-court-ruling-mental-health-new-mexico-1f6ba8bfea7fc0706be73543b659b428</link>
 <pubDate>Fri, 07 Aug 2026 21:47:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow]]></title>
-<link>https://apnews.com/article/meta-new-mexico-ruling-youth-mental-health-030dbeb27a51bdbdc861304023835e8d</link>
-<pubDate>Sat, 08 Aug 2026 04:42:55 -0000</pubDate>
+<title><![CDATA[High divers take the plunge in the Seine in a new test of Paris’ reclaimed river]]></title>
+<link>https://apnews.com/article/swimming-paris-seine-summer-03bb00a52df3b858bc212f371d167ca4</link>
+<pubDate>Sat, 08 Aug 2026 07:10:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +485,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[70 years after South Africa’s women challenged apartheid, some say their freedom isn’t complete]]></title>
+<title><![CDATA[South Africa marks 70 years since the 1956 Women’s March against apartheid]]></title>
 <link>https://apnews.com/article/south-africa-women-anniversary-apartheid-democracy-protest-0c0ee7d109eaaf8094570da7258acd85</link>
-<pubDate>Sat, 08 Aug 2026 04:27:55 -0000</pubDate>
+<pubDate>Sat, 08 Aug 2026 06:55:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
