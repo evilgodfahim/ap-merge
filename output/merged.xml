@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Aug 2026 14:05:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 14:58:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant’s second reactor running]]></title>
 <link>https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071</link>
@@ -35,15 +35,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A deal with Iran over the Strait of Hormuz may require a compromise from Trump]]></title>
-<link>https://apnews.com/article/iran-trump-strait-hormuz-diplomacy-stockpiles-0220ceb7904e16c30869c8fe4cf2a3db</link>
-<pubDate>Sun, 09 Aug 2026 13:28:16 -0000</pubDate>
+<title><![CDATA[Lebanon detains Assad-era general and weighs his handover to Syria over alleged crimes]]></title>
+<link>https://apnews.com/article/lebanon-syria-assad-general-crimes-charges-961ced496686c367a1647dbe9cd4b136</link>
+<pubDate>Sun, 09 Aug 2026 14:58:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi Arabia, Turkey and Pakistan sign defense agreement]]></title>
-<link>https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c</link>
-<pubDate>Sat, 08 Aug 2026 04:57:52 -0000</pubDate>
+<title><![CDATA[A deal with Iran over the Strait of Hormuz may require a compromise from Trump]]></title>
+<link>https://apnews.com/article/iran-trump-strait-hormuz-diplomacy-stockpiles-0220ceb7904e16c30869c8fe4cf2a3db</link>
+<pubDate>Sun, 09 Aug 2026 13:28:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -65,12 +65,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Shanghai cancels 1,300 flights as Typhoon Dolphin hits China’s eastern coast]]></title>
-<link>https://apnews.com/article/typhoon-dolphin-d40f4d49b0d89935366f360f1f13afd8</link>
-<pubDate>Sun, 09 Aug 2026 12:58:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Wildfire in Indonesian national park grows]]></title>
 <link>https://apnews.com/article/indonesia-fire-mount-bromo-java-sumatra-borneo-e60f3937398d722e69354799f662687c</link>
 <pubDate>Sun, 09 Aug 2026 07:13:18 -0000</pubDate>
@@ -80,6 +74,12 @@
 <title><![CDATA[Police respond to a school shooting in Thailand, in photos]]></title>
 <link>https://apnews.com/photo-gallery/thailand-nonthaburi-school-shooting-photos-27a1d076a07c82b5153a6830cc443a96</link>
 <pubDate>Sun, 09 Aug 2026 06:58:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A Tibetan cooperative keeps a centuries-old weaving tradition alive]]></title>
+<link>https://apnews.com/article/china-tibet-weaving-pulu-woolen-fabric-b6caa4a220db4b9699e9427bf95a1aa5</link>
+<pubDate>Sun, 09 Aug 2026 02:41:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,12 +203,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A Tibetan cooperative keeps a centuries-old weaving tradition alive]]></title>
-<link>https://apnews.com/article/china-tibet-weaving-pulu-woolen-fabric-b6caa4a220db4b9699e9427bf95a1aa5</link>
-<pubDate>Sun, 09 Aug 2026 09:07:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks]]></title>
 <link>https://apnews.com/article/iran-war-weapons-stockpile-pentagon-defense-industry-c98e042bfd0fd22cd97d15b1fffa322c</link>
 <pubDate>Sun, 09 Aug 2026 02:56:10 -0000</pubDate>
@@ -218,6 +212,12 @@
 <title><![CDATA[FIFA defends Infantino against allegations tied to his time at UEFA]]></title>
 <link>https://apnews.com/article/infantino-fifa-uefa-world-cup-202776a989ce15e22baade6ab38d3a8f</link>
 <pubDate>Sun, 09 Aug 2026 02:41:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Wildfires force 20,000 to flee as British Columbia declares state of emergency]]></title>
+<link>https://apnews.com/article/wildfire-canada-evacuation-british-columbia-okanagan-61002c95f641a4060b78195b016fbea3</link>
+<pubDate>Sat, 08 Aug 2026 22:52:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,6 +377,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news]]></title>
+<link>https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400</link>
+<pubDate>Sun, 09 Aug 2026 14:58:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Shanghai cancels 1,300 flights as Typhoon Dolphin hits China’s eastern coast]]></title>
+<link>https://apnews.com/article/typhoon-dolphin-d40f4d49b0d89935366f360f1f13afd8</link>
+<pubDate>Sun, 09 Aug 2026 14:43:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A 12-year-old girl dies after Thailand school shooting, bringing the death toll to at least 8]]></title>
 <link>https://apnews.com/article/thailand-school-shooting-nonthaburi-bodies-forensic-63f7b1f3b97842251c98b5932f1d234a</link>
 <pubDate>Sat, 08 Aug 2026 13:23:56 -0000</pubDate>
@@ -395,18 +407,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country]]></title>
-<link>https://apnews.com/article/turkey-defense-pact-does-not-target-third-countries-1fd785d1c261621f8dcb33010c4f14e2</link>
-<pubDate>Sat, 08 Aug 2026 20:54:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wildfires force 20,000 to flee as British Columbia declares state of emergency]]></title>
-<link>https://apnews.com/article/wildfire-canada-evacuation-british-columbia-okanagan-61002c95f641a4060b78195b016fbea3</link>
-<pubDate>Sun, 09 Aug 2026 02:56:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups]]></title>
 <link>https://apnews.com/video/colombias-new-president-takes-office-in-ceremony-in-cali-highlighting-hard-line-on-armed-groups-02cd1c92a8c04b81aa764c820eb425e2</link>
 <pubDate>Fri, 07 Aug 2026 23:54:14 -0000</pubDate>
@@ -419,27 +419,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan says new defense pact with Saudi and Turkey is ‘purely defensive’ and open to others]]></title>
-<link>https://apnews.com/article/pakistan-saudi-arabia-turkey-defense-agreement-ishaq-dar-c0ea694adb501d0b50e65dfcd5870796</link>
-<pubDate>Sun, 09 Aug 2026 13:28:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Alleged Irish organized crime boss Daniel Kinahan extradited to Dublin from Dubai]]></title>
 <link>https://apnews.com/article/britain-ireland-underworld-crime-boss-991fa92c757c8c5cb78ee7fc91eef6ee</link>
 <pubDate>Sun, 09 Aug 2026 13:13:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Leaking grounded oil tanker off Oman sinks further, satellite images show]]></title>
-<link>https://apnews.com/article/oman-russia-oil-tanker-f445bfd4110dd2e44e010dc0b95c825e</link>
-<pubDate>Sun, 09 Aug 2026 09:07:58 -0000</pubDate>
+<title><![CDATA[Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country]]></title>
+<link>https://apnews.com/article/turkey-defense-pact-does-not-target-third-countries-1fd785d1c261621f8dcb33010c4f14e2</link>
+<pubDate>Sat, 08 Aug 2026 20:54:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon detains Assad-era general and weighs his handover to Syria over alleged crimes]]></title>
-<link>https://apnews.com/article/lebanon-syria-assad-general-crimes-charges-961ced496686c367a1647dbe9cd4b136</link>
-<pubDate>Sat, 08 Aug 2026 12:53:56 -0000</pubDate>
+<title><![CDATA[Syria agrees deal with Russia over future use of 2 key Mediterranean bases]]></title>
+<link>https://apnews.com/article/syria-russia-latakia-tartus-bases-hmeimem-deal-2ade8e8a7da23eae4a90c8070f002a86</link>
+<pubDate>Sun, 09 Aug 2026 14:28:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Leaking grounded oil tanker off Oman sinks further, satellite images show]]></title>
+<link>https://apnews.com/article/oman-russia-oil-tanker-f445bfd4110dd2e44e010dc0b95c825e</link>
+<pubDate>Sun, 09 Aug 2026 09:07:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -488,6 +488,12 @@
 <title><![CDATA[A car-bomb attack targets southwest Colombia a day after conservative president takes office]]></title>
 <link>https://apnews.com/article/colombia-violence-abelardo-espriella-car-bomb-farc-130f812b834295ae3cd591bea8328b09</link>
 <pubDate>Sat, 08 Aug 2026 18:50:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Saudi Arabia, Turkey and Pakistan sign defense agreement]]></title>
+<link>https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c</link>
+<pubDate>Sat, 08 Aug 2026 05:12:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
