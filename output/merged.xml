@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Aug 2026 15:28:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 16:21:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran’s leaders think they have Trump cornered, but their strategy carries great risks]]></title>
 <link>https://apnews.com/article/iran-us-war-strait-hormuz-goals-diplomacy-77d91b276db6d749711619b0aa1c5c3f</link>
@@ -143,15 +143,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Boat capsizes in New York Harbor, woman and 5-month-old baby die]]></title>
-<link>https://apnews.com/article/new-york-harbor-baby-woman-capsized-boat-226cd727f7211f8a292b0a4ea1001fe4</link>
-<pubDate>Sun, 09 Aug 2026 18:38:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[AI companions vanish without goodbyes as China tightens rules on their use]]></title>
-<link>https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658</link>
-<pubDate>Mon, 10 Aug 2026 06:02:42 -0000</pubDate>
+<title><![CDATA[Trump officials propose new scrutiny of food additives and ingredients]]></title>
+<link>https://apnews.com/article/ultraprocessed-food-fda-kennedy-additives-health-794c137570e53ad8598dc6ca526fac10</link>
+<pubDate>Mon, 10 Aug 2026 16:21:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -170,6 +164,12 @@
 <title><![CDATA[Taiwan’s military drills suggest deeper alignment with the US]]></title>
 <link>https://apnews.com/article/taiwan-han-kuang-military-drills-china-283f26ae2757166fcd3542471f927f00</link>
 <pubDate>Sun, 09 Aug 2026 05:12:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China can’t get enough of this smelly fruit as farmers fight extreme weather to feed the craving]]></title>
+<link>https://apnews.com/article/climate-malaysia-durian-climate-change-0d92bd1889dd6dc0d98841d3cfd5fa72</link>
+<pubDate>Thu, 06 Aug 2026 23:35:01 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -194,6 +194,12 @@
 <title><![CDATA[Japan’s Toyota reports hefty profit on cheap yen and solid car sales]]></title>
 <link>https://apnews.com/article/toyota-japan-automakers-earnings-currencyhormuz-8745600b3a3c8b5239d63d9892b56f9c</link>
 <pubDate>Wed, 05 Aug 2026 08:15:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Deadly 7.4-magnitude earthquake hits Colombia, leaving widespread destruction, in photos]]></title>
+<link>https://apnews.com/photo-gallery/deadly-7-4-magnitude-earthquake-hits-colombia-leaving-widespread-destruction-photos-60906d99c8554120adc6c56842da97ae</link>
+<pubDate>Mon, 10 Aug 2026 16:21:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,27 +377,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Colombia’s new president signals energy policy shift, backs oil and gas]]></title>
-<link>https://apnews.com/article/colombia-president-espriella-environment-oil-gas-fracking-ecopetrol-4d4e23b739ca82f6b5b736228b4d988f</link>
-<pubDate>Sat, 08 Aug 2026 19:05:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drones-oil-d0e7dc74936cf153e8e473444cc09366</link>
 <pubDate>Mon, 10 Aug 2026 14:11:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A 7.4-magnitude earthquake shakes Colombia and Ecuador, prompting people to evacuate buildings]]></title>
+<title><![CDATA[47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia]]></title>
 <link>https://apnews.com/article/colombia-ecuador-earthquake-26fd40f93272d834fced47a4a673edc9</link>
-<pubDate>Mon, 10 Aug 2026 13:56:06 -0000</pubDate>
+<pubDate>Mon, 10 Aug 2026 16:21:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran won’t reopen Strait of Hormuz without US concessions and other Mideast developments]]></title>
+<title><![CDATA[Iran’s president says supreme leader urges ‘unity’ amid US sanctions, and other Mideast developments]]></title>
 <link>https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897</link>
-<pubDate>Mon, 10 Aug 2026 11:25:55 -0000</pubDate>
+<pubDate>Mon, 10 Aug 2026 16:06:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,21 +449,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Watchdog for $46 billion tribal gambling industry can’t enforce the law without a chairperson]]></title>
-<link>https://apnews.com/article/gambling-tribe-oklahoma-harrahs-trump-iowa-957eb706134bbe2ca1707b33b47ec613</link>
-<pubDate>Sun, 09 Aug 2026 10:58:27 -0000</pubDate>
+<title><![CDATA[Taylor Farms recalls jalapeno products over salmonella concerns]]></title>
+<link>https://apnews.com/article/taylor-fresh-foods-trump-jalapenos-lettuce-salmonella-6cc2f9e17fdd4cb45953c21bee841e1e</link>
+<pubDate>Mon, 10 Aug 2026 15:51:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo]]></title>
-<link>https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3</link>
-<pubDate>Sat, 08 Aug 2026 19:05:29 -0000</pubDate>
+<title><![CDATA[Clothing brands try to win over Gen Z with a needle and thread]]></title>
+<link>https://apnews.com/article/retail-clothing-stores-repair-services-mending-1286ac58324815adf0766e639d7421dc</link>
+<pubDate>Mon, 10 Aug 2026 07:49:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative]]></title>
-<link>https://apnews.com/article/biobased-biodegradable-plastics-climate-compost-838fb5b4619e5020e3c01157a312a5d8</link>
-<pubDate>Mon, 10 Aug 2026 13:26:06 -0000</pubDate>
+<title><![CDATA[AI companions vanish without goodbyes as China tightens rules on their use]]></title>
+<link>https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658</link>
+<pubDate>Mon, 10 Aug 2026 09:08:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
