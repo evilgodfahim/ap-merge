@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Aug 2026 05:10:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 06:49:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Magnitude 7.4 quake rocks western Colombia, killing at least 111 people]]></title>
 <link>https://apnews.com/article/colombia-ecuador-earthquake-26fd40f93272d834fced47a4a673edc9</link>
@@ -65,15 +65,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea launches another missile toward sea ahead of US-South Korean military drills]]></title>
-<link>https://apnews.com/article/korea-tensions-south-north-japan-ballistic-missle-3622cedfdba8216224f6137dea5f0cb9</link>
-<pubDate>Wed, 12 Aug 2026 05:10:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Prosecutors amass over 800 witness statements in case against man accused of Sydney massacre]]></title>
 <link>https://apnews.com/article/australia-shooting-sydney-hanukkah-bondi-556eb3c5438e3a4853a8aba38275ab78</link>
 <pubDate>Wed, 12 Aug 2026 04:55:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thai government vows tougher gun controls after 2 deadly shootings near Bangkok]]></title>
+<link>https://apnews.com/article/thailand-gun-control-law-change-shooting-nonthaburi-58fe5a5eb68661d27380eda559f3c7e9</link>
+<pubDate>Wed, 12 Aug 2026 06:49:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,6 +113,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets]]></title>
+<link>https://apnews.com/article/chery-africa-ev-china-autos-3138ab43620ff7e0a7d2b7b658facdf1</link>
+<pubDate>Wed, 12 Aug 2026 06:34:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[This Ebola outbreak has claimed over 2,000 lives. Here’s why it is so hard to contain]]></title>
 <link>https://apnews.com/article/ebola-congo-explainer-outbreak-health-0e482142cbc7b7f3da1c32fd115b49d6</link>
 <pubDate>Tue, 11 Aug 2026 17:01:53 -0000</pubDate>
@@ -122,12 +128,6 @@
 <title><![CDATA[At least 14 artisanal miners killed in collapse at an illicit mine in South Africa]]></title>
 <link>https://apnews.com/article/south-africa-platinum-gold-disused-mine-deaths-9f2e22a06692ebd7efc4daf33af8ea40</link>
 <pubDate>Tue, 11 Aug 2026 15:02:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ugandan statesman is in the race to become the next secretary-general of the United Nations]]></title>
-<link>https://apnews.com/article/uganda-un-secretary-general-race-otunnu-8376b569726cd9a6fca80c25f4c17af6</link>
-<pubDate>Mon, 10 Aug 2026 14:11:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -179,6 +179,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Flood death toll in India’s Assam reaches 100 as thousands lose their homes]]></title>
+<link>https://apnews.com/article/india-floods-monsoon-assam-brahmaputra-river-7bc402002a9159d828f220914fd9fb21</link>
+<pubDate>Mon, 10 Aug 2026 11:25:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hindu devotees honor goddesses in India and Britain, in photos]]></title>
 <link>https://apnews.com/photo-gallery/hindu-devotees-honor-goddesses-india-britain-photos-e1e3773efe2e4ab4a81483f2c6684ebe</link>
 <pubDate>Tue, 11 Aug 2026 07:41:40 -0000</pubDate>
@@ -197,12 +203,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Honda reports robust results after its first ever annual loss]]></title>
-<link>https://apnews.com/article/honda-japan-automakers-earnings-tariffs-evs-f17b8593bbffead716d8782afb1aca36</link>
-<pubDate>Thu, 06 Aug 2026 07:55:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Sir Anthony Hopkins on his debut album: ‘My first love is music’]]></title>
 <link>https://apnews.com/article/anthony-hopkins-music-album-interview-8ba7dabc7a86f2a759cb01bc3d00a5a2</link>
 <pubDate>Wed, 12 Aug 2026 05:10:38 -0000</pubDate>
@@ -212,6 +212,12 @@
 <title><![CDATA[Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat]]></title>
 <link>https://apnews.com/article/trump-secret-flight-turkey-iran-threats-d23a6454d1410cc8461368007db6ca25</link>
 <pubDate>Wed, 12 Aug 2026 03:01:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea launches another missile toward sea ahead of US-South Korean military drills]]></title>
+<link>https://apnews.com/article/korea-tensions-south-north-japan-ballistic-missle-3622cedfdba8216224f6137dea5f0cb9</link>
+<pubDate>Wed, 12 Aug 2026 06:49:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,6 +341,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US stocks edge further from their records as oil prices keep swinging]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-iran-futures-3f3f2f2d49e4aa8744d21ecd0ce55a9c</link>
+<pubDate>Wed, 12 Aug 2026 06:34:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Vietnam’s VinSpace signs deal with Elon Musk’s SpaceX to launch its first satellites in 2027]]></title>
 <link>https://apnews.com/article/vietnam-spacex-vingroup-musk-aerospace-100b2afad4ad42fdffdca3a6c7cbfa7a</link>
 <pubDate>Wed, 12 Aug 2026 02:16:26 -0000</pubDate>
@@ -368,18 +380,6 @@
 <title><![CDATA[Australia adds optional gender identity and sexual orientation questions to census]]></title>
 <link>https://apnews.com/article/australia-census-sexual-orientation-gender-gay-lesbian-a442c949e0570a0b0c2a310269228e34</link>
 <pubDate>Tue, 11 Aug 2026 02:43:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Canada puts the military on standby as British Columbia wildfires kill 1 and displace thousands]]></title>
-<link>https://apnews.com/article/canada-wildfires-british-columbia-de5556e3d5323dd85ee7ed87a378cf8f</link>
-<pubDate>Mon, 10 Aug 2026 22:03:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine]]></title>
-<link>https://apnews.com/article/russia-yabloko-political-party-parliament-election-fffdd68de22ad70cebc81e5aa308202c</link>
-<pubDate>Mon, 10 Aug 2026 20:06:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,15 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks edge further from their records as oil prices keep swinging]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-iran-futures-3f3f2f2d49e4aa8744d21ecd0ce55a9c</link>
-<pubDate>Tue, 11 Aug 2026 19:22:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hiroshi Okuda, who led Toyota’s climb as a global automaker, dies at 93]]></title>
 <link>https://apnews.com/article/toyota-obit-japan-okuda-automakers-prius-327d352725d706f8e0c4539309990014</link>
 <pubDate>Wed, 12 Aug 2026 01:31:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Shares are mostly higher in Asia, with Kospi up 4%, while oil prices gain]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-trump-iran-chips-db541ced9f928f993bd3a17958a3deaa</link>
+<pubDate>Wed, 12 Aug 2026 06:49:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -515,9 +515,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Flood death toll in India’s Assam reaches 100 as thousands lose their homes]]></title>
-<link>https://apnews.com/article/india-floods-monsoon-assam-brahmaputra-river-7bc402002a9159d828f220914fd9fb21</link>
-<pubDate>Tue, 11 Aug 2026 07:41:44 -0000</pubDate>
+<title><![CDATA[India’s small steelmakers could save money and cut emissions with switch to renewable power]]></title>
+<link>https://apnews.com/article/steel-climate-change-india-renewable-power-emissions-3563c06f980f322e1d831674cad296ae</link>
+<pubDate>Wed, 12 Aug 2026 06:34:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
