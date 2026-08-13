@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Aug 2026 12:41:42 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Magnitude 7.4 quake rocks western Colombia, killing at least 111 people]]></title>
-<link>https://apnews.com/article/colombia-ecuador-earthquake-26fd40f93272d834fced47a4a673edc9</link>
-<pubDate>Tue, 11 Aug 2026 04:45:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Thu, 13 Aug 2026 14:13:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Former Syrian President Assad sentenced to death in absentia for war crimes]]></title>
 <link>https://apnews.com/article/syria-assad-death-trial-d4c486b5d39bbdb41108112b0ddc8e79</link>
@@ -35,6 +29,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Settler siege of Palestinian homes in the West Bank a ‘horrific act of terror,’ US ambassador says]]></title>
+<link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
+<pubDate>Thu, 13 Aug 2026 14:13:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon passes a controversial general amnesty law]]></title>
 <link>https://apnews.com/article/lebanon-general-amnesty-islamists-parliament-c28161795512a8d93864688b5a9fa9fa</link>
 <pubDate>Wed, 12 Aug 2026 22:13:27 -0000</pubDate>
@@ -44,6 +44,12 @@
 <title><![CDATA[Trump pivots back to sanctions for Iran as other strategies to end his war fizzle]]></title>
 <link>https://apnews.com/article/trump-iran-sanctions-d96e3bf53eb4050097e6cab128db82cb</link>
 <pubDate>Wed, 12 Aug 2026 20:30:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Poland says it thwarted unprecedented plot by Russia to kill an American citizen in a NATO country]]></title>
+<link>https://apnews.com/article/poland-russia-plot-c7f8dc3e5a9ba20ae722a1b9d44614db</link>
+<pubDate>Thu, 13 Aug 2026 13:58:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,27 +65,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Britain and France swelter again as western Europe is hit by another heat wave]]></title>
-<link>https://apnews.com/article/europe-heatwave-drought-wildfire-1efa65679bd29770e3b7ea4a9ca839a4</link>
-<pubDate>Thu, 13 Aug 2026 09:36:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Putin pays his first visit to Pacific island chain claimed by Japan, drawing a protest from Tokyo]]></title>
-<link>https://apnews.com/article/russia-putin-japan-kuril-islands-northern-territories-iturup-bc9cf6a0aa3fdbed5264d32297d740b4</link>
-<pubDate>Thu, 13 Aug 2026 09:21:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Australian jury convicts former Catholic bishop of sexually abusing 2 men]]></title>
 <link>https://apnews.com/article/australia-bishop-sexual-abuse-broome-catholic-1802fe4b6c2de27e1253f636abb6e502</link>
 <pubDate>Thu, 13 Aug 2026 09:06:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Crown Prince Akishino has ‘mixed feelings’ about male-only imperial succession law]]></title>
+<title><![CDATA[Body of Pakistani climber recovered from Broad Peak 2 weeks after avalanche killed 10]]></title>
+<link>https://apnews.com/article/pakistan-body-pakisani-climber-recovered-broad-peak-fa00c3ba99a07d80605531b6feb6c599</link>
+<pubDate>Thu, 13 Aug 2026 13:43:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Japan’s Crown Prince Akishino has ‘mixed feelings’ on revised male-only imperial succession law]]></title>
 <link>https://apnews.com/article/japan-prince-akishino-imperial-succession-law-takaichi-d3c7d25030d32f657b142d2eba3b80ab</link>
-<pubDate>Thu, 13 Aug 2026 08:51:37 -0000</pubDate>
+<pubDate>Thu, 13 Aug 2026 13:28:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,21 +131,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Judge will hear whether Tate brothers should stay in custody as they fight extradition to the UK]]></title>
-<link>https://apnews.com/article/tate-brothers-uk-extradition-b0d65a577a1f84949fb81b0abf041022</link>
-<pubDate>Thu, 13 Aug 2026 11:22:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Minnesota man kills his wife and daughter at a daycare after killing another relative]]></title>
 <link>https://apnews.com/article/minnesota-daycare-killings-brown-bear-hopkins-a4057d1d7c5a166e10bc3298f7f184fb</link>
 <pubDate>Wed, 12 Aug 2026 23:48:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner]]></title>
-<link>https://apnews.com/article/nick-reiner-rob-reiner-murder-indictment-780851649d9851b18bb3335b7bfdb942</link>
-<pubDate>Thu, 13 Aug 2026 11:07:31 -0000</pubDate>
+<title><![CDATA[Winning ticket for $1 billion Powerball jackpot was sold in Illinois]]></title>
+<link>https://apnews.com/article/powerball-jackpot-winning-ticket-b45b9a63feeffab638a72d9655b0a719</link>
+<pubDate>Thu, 13 Aug 2026 13:13:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Judge postpones hearing over whether Tate brothers should stay in custody as they fight extradition]]></title>
+<link>https://apnews.com/article/tate-brothers-uk-extradition-b0d65a577a1f84949fb81b0abf041022</link>
+<pubDate>Thu, 13 Aug 2026 12:58:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,6 +197,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[The Ebola outbreak has spread to a new province in Congo, the head of Africa CDC says]]></title>
+<link>https://apnews.com/article/congo-ebola-ba8daf530f48c495fb54dbf36c542d81</link>
+<pubDate>Thu, 13 Aug 2026 14:13:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Explosion at Dutch port of Rotterdam leaves 1 dead, several injured]]></title>
+<link>https://apnews.com/article/netherlands-rotterdam-port-explosion-blackout-police-3196dd5655bc2a1e39914eaa1927ef81</link>
+<pubDate>Thu, 13 Aug 2026 13:58:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Human Rights Watch says the Taliban detained 6 staff of a women’s and children’s rights group]]></title>
 <link>https://apnews.com/article/afghanistan-advocacy-group-reports-rights-workers-detained-c95c3da88414496e255211b5dd1f785a</link>
 <pubDate>Thu, 13 Aug 2026 11:37:32 -0000</pubDate>
@@ -230,6 +242,12 @@
 <title><![CDATA[From black boots to pastel suits, Italian premier’s wardrobe evolves with her politics]]></title>
 <link>https://apnews.com/article/giorgia-meloni-italy-fashion-3c07b5d9d6d02016ae2f271e989d6bfc</link>
 <pubDate>Thu, 13 Aug 2026 04:59:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Britain and France swelter again as western Europe is hit by another heat wave]]></title>
+<link>https://apnews.com/article/europe-heatwave-drought-wildfire-1efa65679bd29770e3b7ea4a9ca839a4</link>
+<pubDate>Thu, 13 Aug 2026 13:43:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,24 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Prosecutors amass over 800 witness statements in case against man accused of Sydney massacre]]></title>
-<link>https://apnews.com/article/australia-shooting-sydney-hanukkah-bondi-556eb3c5438e3a4853a8aba38275ab78</link>
-<pubDate>Wed, 12 Aug 2026 11:22:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kosovo begins excavations at newly found mass graves tied to 1998-99 war missing]]></title>
-<link>https://apnews.com/article/kosovo-war-missing-mass-graves-28046a4156d759ceb35f773c87b9f356</link>
-<pubDate>Thu, 13 Aug 2026 03:29:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Earthquake response strains Colombia’s new government and rescuers as they race against the clock]]></title>
-<link>https://apnews.com/article/colombia-earthquake-aid-search-survivors-a35440647cc3efed1bbce935d223565e</link>
-<pubDate>Thu, 13 Aug 2026 09:21:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran-backed Houthi rebels clash with Yemeni government forces and other Mideast developments]]></title>
 <link>https://apnews.com/article/iran-us-strait-hormuz-yemen-houthi-august-13-2026-42eb6af678a8f16d3a2cb14bd7918a12</link>
 <pubDate>Thu, 13 Aug 2026 11:37:32 -0000</pubDate>
@@ -401,9 +401,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Settler siege of Palestinian homes in the West Bank a ‘horrific act of terror,’ US ambassador says]]></title>
-<link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
-<pubDate>Thu, 13 Aug 2026 11:22:32 -0000</pubDate>
+<title><![CDATA[Putin’s first trip to the Pacific island chain claimed by Japan draws a protest from Tokyo]]></title>
+<link>https://apnews.com/article/russia-putin-japan-kuril-islands-northern-territories-iturup-bc9cf6a0aa3fdbed5264d32297d740b4</link>
+<pubDate>Thu, 13 Aug 2026 14:13:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,21 +455,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Global shares mostly rise after buying of AI-related shares and oil prices fall]]></title>
+<title><![CDATA[Families feel the pinch of higher children’s shoe prices as kids head back to school]]></title>
+<link>https://apnews.com/article/shoes-school-prices-economy-12fb5722832d79cd118140b415723ef6</link>
+<pubDate>Thu, 13 Aug 2026 13:58:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US stocks tick toward records as oil prices drop and inflation gets less bad]]></title>
 <link>https://apnews.com/article/stock-markets-ai-semiconductors-fed-energy-3a23f22469cd0e0062f711096906525c</link>
-<pubDate>Thu, 13 Aug 2026 09:21:39 -0000</pubDate>
+<pubDate>Thu, 13 Aug 2026 13:43:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump’s vaccine plan would require millions of individual shots last used decades ago]]></title>
-<link>https://apnews.com/article/vaccines-trump-mmr-drugmakers-5a1d91e149feab99b18dd916412523ee</link>
-<pubDate>Thu, 13 Aug 2026 11:07:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Inflation slows but prices remain elevated as Iran war and spending on AI push up prices]]></title>
-<link>https://apnews.com/article/consumer-prices-inflation-fed-interest-rates-150e179a6c6b3182ba05cedf0188394b</link>
-<pubDate>Wed, 12 Aug 2026 15:59:53 -0000</pubDate>
+<title><![CDATA[Wholesale price inflation slows last month as gas, food costs fall]]></title>
+<link>https://apnews.com/article/pipeline-inflation-prices-inflation-tariffs-f9bf278f4550a956b1f350722817371d</link>
+<pubDate>Thu, 13 Aug 2026 13:28:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
