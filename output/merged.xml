@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Aug 2026 19:30:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 20:28:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Former Syrian President Assad sentenced to death in absentia for war crimes]]></title>
 <link>https://apnews.com/article/syria-assad-death-trial-d4c486b5d39bbdb41108112b0ddc8e79</link>
 <pubDate>Tue, 11 Aug 2026 17:46:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
+<link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
+<pubDate>Thu, 13 Aug 2026 20:28:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -29,9 +35,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-based nonprofits are in Colombia helping after a 7.4 earthquake killed more than 180]]></title>
-<link>https://apnews.com/live/earthquake-colombia-8-11-2026</link>
-<pubDate>Thu, 13 Aug 2026 18:13:19 -0000</pubDate>
+<title><![CDATA[A British firm starts containment of oil spill from stricken tanker off Oman]]></title>
+<link>https://apnews.com/article/russia-environment-oil-spill-marine-oman-greenpeace-54d301367464a4169037fb6f9c7a0529</link>
+<pubDate>Thu, 13 Aug 2026 20:13:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -41,9 +47,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon passes a controversial general amnesty law]]></title>
-<link>https://apnews.com/article/lebanon-general-amnesty-islamists-parliament-c28161795512a8d93864688b5a9fa9fa</link>
-<pubDate>Wed, 12 Aug 2026 22:13:27 -0000</pubDate>
+<title><![CDATA[Broken engine parts shattered the Ryanair plane window that a passenger’s head got sucked into: NTSB]]></title>
+<link>https://apnews.com/article/ryanair-ntsb-passenger-sucked-out-window-5a1fa51fef28f6a8d27fec5a036808c3</link>
+<pubDate>Thu, 13 Aug 2026 19:58:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -56,12 +62,6 @@
 <title><![CDATA[Ukrainian drones strike a major refinery deep inside Russia, setting it ablaze]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-oil-refinery-8050b4afb5bfd6f4d93c76b4d9795dfa</link>
 <pubDate>Thu, 13 Aug 2026 15:52:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
-<link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
-<pubDate>Thu, 13 Aug 2026 17:58:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[FACT FOCUS: Conspiracy theories falsely blame Colombia earthquake on Alaska research program]]></title>
+<link>https://apnews.com/article/fact-check-colombia-earthquake-haarp-conspiracy-theory-731fa0174b0976e9e2971a9baa459a60</link>
+<pubDate>Thu, 13 Aug 2026 19:43:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba marks Fidel Castro’s 100th birthday as his shadow still shapes a nation in crisis]]></title>
 <link>https://apnews.com/article/fidel-castro-100-year-birthday-centenary-3937b17e7b5506d06246758e508192c9</link>
 <pubDate>Thu, 13 Aug 2026 08:36:37 -0000</pubDate>
@@ -92,12 +98,6 @@
 <title><![CDATA[Ecuador police seize cocaine shipment with soccer star Haaland’s face on the packaging]]></title>
 <link>https://apnews.com/article/ecuador-colombia-cocaine-erling-haaland-norway-soccer-abadce793d9a5ced1198c0bd7a04db9a</link>
 <pubDate>Thu, 13 Aug 2026 06:37:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil Supreme Court upholds laws that led to downfall of Amazon soy moratorium]]></title>
-<link>https://apnews.com/article/brazil-amazon-rainforest-soy-moratorium-deforestation-4145415431832ff862b40e2ed1ab627e</link>
-<pubDate>Wed, 12 Aug 2026 21:58:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -137,15 +137,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Winning ticket for $1 billion Powerball jackpot was sold in Illinois]]></title>
-<link>https://apnews.com/article/powerball-jackpot-winning-ticket-b45b9a63feeffab638a72d9655b0a719</link>
-<pubDate>Thu, 13 Aug 2026 13:13:37 -0000</pubDate>
+<title><![CDATA[Families feel the pinch of higher children’s shoe prices as kids head back to school]]></title>
+<link>https://apnews.com/article/shoes-school-prices-economy-12fb5722832d79cd118140b415723ef6</link>
+<pubDate>Thu, 13 Aug 2026 19:28:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Blanche seeks to rally a depleted Justice Department workforce in first speech as attorney general]]></title>
-<link>https://apnews.com/article/todd-blanche-justice-department-speech-417872ffdf59331cf781c160a5a46d98</link>
-<pubDate>Thu, 13 Aug 2026 16:43:19 -0000</pubDate>
+<title><![CDATA[Winning ticket for $1 billion Powerball jackpot was sold in Illinois]]></title>
+<link>https://apnews.com/article/powerball-jackpot-winning-ticket-b45b9a63feeffab638a72d9655b0a719</link>
+<pubDate>Thu, 13 Aug 2026 13:13:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,15 +197,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Authorities in Vietnam discover more than a ton of concealed ivory illegally shipped from Africa]]></title>
+<link>https://apnews.com/article/ivory-congo-smuggling-cites-vietnam-wildlife-da017136e61835609d5a1b4fc1344a1b</link>
+<pubDate>Thu, 13 Aug 2026 20:28:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
+<link>https://apnews.com/photo-gallery/top-photos-day-ap-s-photojournalists-0c3072e72f964618b5c3e733c9a6bbbb</link>
+<pubDate>Thu, 13 Aug 2026 20:13:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Flowers create elaborate fantasy worlds at a Tel Aviv exhibition, in photos]]></title>
+<link>https://apnews.com/photo-gallery/flowers-create-elaborate-fantasy-worlds-tel-aviv-exhibition-photos-cc9ceea796b84969801d8e25276d8eaf</link>
+<pubDate>Thu, 13 Aug 2026 19:58:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Wall of US Embassy in Brazil’s capital is vandalized as relations remain tense]]></title>
 <link>https://apnews.com/article/brazil-united-states-embassy-grafitti-brasilia-aaee36297c7141b17b17932d3cfb01df</link>
 <pubDate>Thu, 13 Aug 2026 18:13:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Passenger train derails and flips in southern England]]></title>
+<title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
+<link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
+<pubDate>Thu, 13 Aug 2026 19:43:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Passenger train derails and 11 people injured after carriages overturn in southern England]]></title>
 <link>https://apnews.com/article/train-derail-england-britain-lewes-sussex-southern-db6b21221b3840bcc911152cfc9afa0f</link>
-<pubDate>Thu, 13 Aug 2026 17:58:20 -0000</pubDate>
+<pubDate>Thu, 13 Aug 2026 19:28:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -311,9 +335,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US stocks tick toward records as oil prices drop and inflation gets less bad]]></title>
+<title><![CDATA[US stocks rise to a record as oil prices drop and inflation gets less bad]]></title>
 <link>https://apnews.com/article/stock-markets-ai-semiconductors-fed-energy-3a23f22469cd0e0062f711096906525c</link>
-<pubDate>Thu, 13 Aug 2026 16:28:20 -0000</pubDate>
+<pubDate>Thu, 13 Aug 2026 19:13:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -335,6 +359,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil Supreme Court upholds laws that led to downfall of Amazon soy moratorium]]></title>
+<link>https://apnews.com/article/brazil-amazon-rainforest-soy-moratorium-deforestation-4145415431832ff862b40e2ed1ab627e</link>
+<pubDate>Thu, 13 Aug 2026 14:22:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Congo families mourn as Ebola outbreak accelerates, in photos]]></title>
 <link>https://apnews.com/photo-gallery/congo-families-mourn-ebola-outbreak-accelerates-photos-ca699f5f546c432bb9c3038178aaf406</link>
 <pubDate>Wed, 12 Aug 2026 22:13:28 -0000</pubDate>
@@ -344,36 +374,6 @@
 <title><![CDATA[Oman says the oil spill from a grounded tanker has reached its coastline]]></title>
 <link>https://apnews.com/article/iran-war-oman-oil-spill-russia-9e41eccb841c68e074f16274307d3b89</link>
 <pubDate>Thu, 13 Aug 2026 14:07:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Marc Anthony, Chayanne and more to play benefit concert for Venezuela and Colombia earthquake relief]]></title>
-<link>https://apnews.com/article/marc-anthony-feid-venezuela-colombia-earthquakes-miami-benefit-concert-0cc2987efc55eedd572d6bd10192c80e</link>
-<pubDate>Wed, 12 Aug 2026 21:58:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-day-ap-s-photojournalists-3122503810554e8da57b4dac9f4127b0</link>
-<pubDate>Wed, 12 Aug 2026 20:30:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rare solar eclipse is a dramatic celestial spectacle for millions across Europe, in photos]]></title>
-<link>https://apnews.com/photo-gallery/rare-solar-eclipse-dramatic-celestial-spectacle-millions-across-europe-photos-23f007982e9c4ede946026901522fa53</link>
-<pubDate>Wed, 12 Aug 2026 20:15:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings]]></title>
-<link>https://apnews.com/article/ceuta-melilla-migration-morocco-spain-cc19f6270dfe276aecd1b1fb559fcb5e</link>
-<pubDate>Wed, 12 Aug 2026 18:12:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan says troops killed 10 militants and a car bomb killed 3 civilians in southwest province]]></title>
-<link>https://apnews.com/article/pakistan-security-raid-militants-killed-balochistan-349268a260f5af26cd9c693868566668</link>
-<pubDate>Wed, 12 Aug 2026 17:57:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,12 +395,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
-<link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
-<pubDate>Thu, 13 Aug 2026 17:43:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Woman rescued after being trapped for 36 hours under collapsed building following Colombia quake]]></title>
 <link>https://apnews.com/video/woman-rescued-after-being-trapped-for-36-hours-under-collapsed-building-following-colombia-quake-6e97ceb2fd134ce1b39c965eeb7c1226</link>
 <pubDate>Wed, 12 Aug 2026 23:48:44 -0000</pubDate>
@@ -410,6 +404,12 @@
 <title><![CDATA[Italy’s Mount Etna volcano erupts, forcing airport closure in Sicily]]></title>
 <link>https://apnews.com/video/italys-mount-etna-volcano-erupts-forcing-airport-closure-in-sicily-3b4f02eb086c4ea1a0d466cf10fb8347</link>
 <pubDate>Wed, 12 Aug 2026 23:33:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln]]></title>
+<link>https://apnews.com/article/aircraft-carriers-uss-abraham-lincoln-washington-iran-5366eba29f72b6b317416fde81d57a61</link>
+<pubDate>Thu, 13 Aug 2026 20:13:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,12 +431,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A British firm starts containment of oil spill from stricken tanker off Oman]]></title>
-<link>https://apnews.com/article/russia-environment-oil-spill-marine-oman-greenpeace-54d301367464a4169037fb6f9c7a0529</link>
-<pubDate>Thu, 13 Aug 2026 15:37:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
 <pubDate>Mon, 03 Aug 2026 10:36:56 -0000</pubDate>
@@ -449,6 +443,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Luigi Mangione expected to plead guilty in federal case in UnitedHealthcare killing, AP source says]]></title>
+<link>https://apnews.com/article/luigi-mangione-plea-unitedhealthcare-ceo-4fa5e27b6baef00f8465e78243a2d58e</link>
+<pubDate>Thu, 13 Aug 2026 19:58:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs]]></title>
 <link>https://apnews.com/article/trump-white-house-china-tariffs-avoidance-5dacb82bc5a0a1d550b0ea2353ace005</link>
 <pubDate>Thu, 13 Aug 2026 17:28:21 -0000</pubDate>
@@ -458,12 +458,6 @@
 <title><![CDATA[Forbes editor out; report says he took $6M from founder of firm that does business with magazine]]></title>
 <link>https://apnews.com/article/forbes-randall-lane-editor-810d2c08ed57ec1b703247cc76c92fbe</link>
 <pubDate>Thu, 13 Aug 2026 17:13:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Families feel the pinch of higher children’s shoe prices as kids head back to school]]></title>
-<link>https://apnews.com/article/shoes-school-prices-economy-12fb5722832d79cd118140b415723ef6</link>
-<pubDate>Thu, 13 Aug 2026 13:58:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -485,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump pivots back to sanctions for Iran as other strategies to end his war fizzle]]></title>
-<link>https://apnews.com/article/trump-iran-sanctions-d96e3bf53eb4050097e6cab128db82cb</link>
-<pubDate>Tue, 11 Aug 2026 13:03:58 -0000</pubDate>
+<title><![CDATA[Lebanon passes a controversial general amnesty law]]></title>
+<link>https://apnews.com/article/lebanon-general-amnesty-islamists-parliament-c28161795512a8d93864688b5a9fa9fa</link>
+<pubDate>Wed, 12 Aug 2026 13:11:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
