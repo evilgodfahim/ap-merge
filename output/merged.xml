@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:47:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 11:35:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
 <link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
@@ -35,33 +35,39 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Drone strike in western Libya torches a power substation, triggering outages]]></title>
+<link>https://apnews.com/article/libya-zawiya-drone-attacks-oil-militias-9865eb3d8e6b805f226aa13f913c7f73</link>
+<pubDate>Thu, 13 Aug 2026 16:22:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon passes a controversial general amnesty law]]></title>
 <link>https://apnews.com/article/lebanon-general-amnesty-islamists-parliament-c28161795512a8d93864688b5a9fa9fa</link>
 <pubDate>Wed, 12 Aug 2026 22:13:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France and England battle multiple wildfires as record heat grips Europe]]></title>
-<link>https://apnews.com/article/fires-france-england-heat-drought-bb9926465acf98a7790a7bf01294f604</link>
-<pubDate>Fri, 14 Aug 2026 09:31:37 -0000</pubDate>
+<title><![CDATA[Reform UK’s Nigel Farage beats a slate of fringe candidates in election boycotted by major parties]]></title>
+<link>https://apnews.com/article/britain-politics-farage-binface-clacton-election-reform-uk-16f5c7deff9de672c1c9b1950513b52f</link>
+<pubDate>Fri, 14 Aug 2026 11:35:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties rise]]></title>
+<title><![CDATA[Italian police recover stolen Renoir, Cézanne and Matisse paintings worth millions]]></title>
+<link>https://apnews.com/article/italy-stolen-paintings-recovered-renoir-cezanne-matisse-7d0989da55b2ae2e204bb7c759a81266</link>
+<pubDate>Fri, 14 Aug 2026 11:20:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-civilian-deaths-attacks-66f000409c6648239936b628a9eae0f5</link>
-<pubDate>Fri, 14 Aug 2026 09:16:37 -0000</pubDate>
+<pubDate>Fri, 14 Aug 2026 11:05:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
-<link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
-<pubDate>Thu, 13 Aug 2026 17:58:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanistan marks 5 years under the Taliban: safer streets but pleas for jobs and education]]></title>
+<title><![CDATA[Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education]]></title>
 <link>https://apnews.com/article/afghanistan-taliban-5year-anniversary-6179bb5805731f0c2b6b5b59ea322b6c</link>
-<pubDate>Fri, 14 Aug 2026 09:01:37 -0000</pubDate>
+<pubDate>Fri, 14 Aug 2026 10:50:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,15 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Heavy rain causes flooding near Tokyo that kills 4 and strands travelers]]></title>
+<title><![CDATA[Heavy rain causes flooding near Tokyo that kills at least 5 and strands travelers]]></title>
 <link>https://apnews.com/article/japan-chiba-rain-floods-d37730f09557f9cce4948754fcef673c</link>
-<pubDate>Fri, 14 Aug 2026 06:49:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia’s earthquake is déjà vu for Venezuelans. The government response is anything but]]></title>
-<link>https://apnews.com/article/colombia-earthquakes-venezuela-disaster-response-40ed966239ac5d945f6490c40462d0a1</link>
-<pubDate>Fri, 14 Aug 2026 08:31:37 -0000</pubDate>
+<pubDate>Fri, 14 Aug 2026 10:35:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,6 +95,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[FACT FOCUS: Conspiracy theories falsely blame Colombia earthquake on Alaska research program]]></title>
+<link>https://apnews.com/article/fact-check-colombia-earthquake-haarp-conspiracy-theory-731fa0174b0976e9e2971a9baa459a60</link>
+<pubDate>Thu, 13 Aug 2026 19:43:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US missionary kidnapped in Niger is released after 9 months in captivity, his organization says]]></title>
 <link>https://apnews.com/article/niger-kidnapped-us-missionary-released-268cdcbb3da14744d0129f30513ad5a8</link>
 <pubDate>Fri, 14 Aug 2026 08:16:37 -0000</pubDate>
@@ -107,15 +113,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Families mourn victims of Zimbabwe ferry disaster as death toll rises to 46]]></title>
-<link>https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-mourning-ed645ab4c753121c5eb9dd7f1bdeb662</link>
-<pubDate>Thu, 13 Aug 2026 17:13:19 -0000</pubDate>
+<title><![CDATA[Zambia awaits presidential election results. Here’s why China and the US may be interested]]></title>
+<link>https://apnews.com/article/zambia-election-critical-minerals-us-china-hichilema-6aa3902c21a9caa57ca6b715093fde87</link>
+<pubDate>Fri, 14 Aug 2026 10:20:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Congo’s Ebola outbreak is on track to surpass the deadliest one in history, WHO chief says]]></title>
-<link>https://apnews.com/article/congo-ebola-outbreak-africa-who-d9bb9bfa9816e278ba36a2382334d65f</link>
-<pubDate>Thu, 13 Aug 2026 15:07:36 -0000</pubDate>
+<title><![CDATA[Thousands flee yearslong drought in Somalia as hunger deepens and aid shrinks]]></title>
+<link>https://apnews.com/article/somalia-hunger-malnutrition-displacement-28d37013c290c3327b50911a9bcfc8c2</link>
+<pubDate>Wed, 12 Aug 2026 15:59:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -143,6 +149,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan briefly slows its mobile internet to text-only speed as part of defense drill]]></title>
+<link>https://apnews.com/article/taiwan-han-kuang-drills-china-mobile-internet-slowdown-0d1d2fdd870aee3eb141fab385e88cb1</link>
+<pubDate>Fri, 14 Aug 2026 10:05:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ex-Chinese Premier Zhu Rongji, who drove economic reforms and led China into the WTO, dies at 97]]></title>
 <link>https://apnews.com/article/china-zhu-rongji-premier-reform-dead-b561099e42a6f5e8f5b6644485de1bb9</link>
 <pubDate>Thu, 13 Aug 2026 04:44:38 -0000</pubDate>
@@ -158,12 +170,6 @@
 <title><![CDATA[In Taiwan, Chinese-born spouses face questions of loyalty and, some say, discrimination]]></title>
 <link>https://apnews.com/article/mainland-spouses-taiwan-china-discrimination-b507abdeeab2e33ff727583b157e0f07</link>
 <pubDate>Wed, 12 Aug 2026 09:05:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan representative in Japan boycotts Nagasaki bombing anniversary ceremony over seating]]></title>
-<link>https://apnews.com/article/japan-nagasaki-taiwan-lee-memorial-ceremony-china-19ab601ed82fd0989fc7dd653ad185f4</link>
-<pubDate>Wed, 12 Aug 2026 10:07:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +197,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US special forces ready to step up combat drills in Philippines and help deter aggression in Asia]]></title>
+<link>https://apnews.com/article/philippines-admiral-frank-bradley-us-special-forces-1bb2dd7783be2b82928e98ecea432110</link>
+<pubDate>Fri, 14 Aug 2026 11:35:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Persistent Etna ash shuts Catania airport during peak holiday week]]></title>
+<link>https://apnews.com/article/italy-etna-volcano-airport-closure-catania-3bf869c7cf923ef2e9a2a56719e462e3</link>
+<pubDate>Fri, 14 Aug 2026 11:20:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Do you know what happened this week? Test your knowledge]]></title>
 <link>https://apnews.com/article/quiz-weekly-08-14-2026-karoline-leavitt-bob-iger-trump-palestine-gotti</link>
 <pubDate>Fri, 14 Aug 2026 09:31:38 -0000</pubDate>
@@ -212,12 +230,6 @@
 <title><![CDATA[A second Taliban official is killed in attack in Afghanistan, as the takeover anniversary nears]]></title>
 <link>https://apnews.com/article/afghanistan-explosion-mayor-killed-35ea4df990f4c75f2559d9a58ebcf5e3</link>
 <pubDate>Fri, 14 Aug 2026 08:46:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Asian shares mostly fall and US futures are little changed after US inflation data improves]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-oil-inflation-futures-5d9870d6c5ae735f9b74bf4ceefaa3ec</link>
-<pubDate>Fri, 14 Aug 2026 06:49:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -293,6 +305,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
+<link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
+<pubDate>Thu, 13 Aug 2026 19:43:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Families mourn victims of Zimbabwe ferry disaster as death toll rises to 46]]></title>
+<link>https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-mourning-ed645ab4c753121c5eb9dd7f1bdeb662</link>
+<pubDate>Fri, 14 Aug 2026 11:05:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Passenger train derails and 11 people injured after carriages overturn in southern England]]></title>
 <link>https://apnews.com/article/train-derail-england-britain-lewes-sussex-southern-db6b21221b3840bcc911152cfc9afa0f</link>
 <pubDate>Thu, 13 Aug 2026 19:28:49 -0000</pubDate>
@@ -353,30 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Romania begins shutdown of nuclear plant’s 2nd reactor amid low water levels on Danube River]]></title>
-<link>https://apnews.com/article/romania-europe-drought-energy-weather-4239b119af1153fc0a57093b04df555b</link>
-<pubDate>Thu, 13 Aug 2026 11:07:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Australian jury convicts former Catholic bishop of sexually abusing 2 men]]></title>
-<link>https://apnews.com/article/australia-bishop-sexual-abuse-broome-catholic-1802fe4b6c2de27e1253f636abb6e502</link>
-<pubDate>Thu, 13 Aug 2026 17:13:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba marks Fidel Castro’s 100th birthday as his shadow still shapes a nation in crisis]]></title>
-<link>https://apnews.com/article/fidel-castro-100-year-birthday-centenary-3937b17e7b5506d06246758e508192c9</link>
-<pubDate>Fri, 14 Aug 2026 02:33:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Reform UK leader Nigel Farage beats Count Binface in widely mocked British election]]></title>
-<link>https://apnews.com/article/britain-politics-farage-binface-clacton-election-reform-uk-16f5c7deff9de672c1c9b1950513b52f</link>
-<pubDate>Fri, 14 Aug 2026 09:31:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[New aircraft carrier heads toward Middle East after reports of issues on long-deployed USS Lincoln]]></title>
 <link>https://apnews.com/article/aircraft-carriers-uss-abraham-lincoln-washington-iran-5366eba29f72b6b317416fde81d57a61</link>
 <pubDate>Fri, 14 Aug 2026 05:11:55 -0000</pubDate>
@@ -389,9 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel’s Christians rely on faith and allies as they fear rising harassment]]></title>
-<link>https://apnews.com/article/israel-christians-jews-catholic-nun-attack-98c8f0b5aa9cc462f150332c2ef60b45</link>
-<pubDate>Fri, 14 Aug 2026 06:34:50 -0000</pubDate>
+<title><![CDATA[Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia]]></title>
+<link>https://apnews.com/article/colombia-earthquake-rescue-search-quake-99bea7b7eae8778e9e6729556c855369</link>
+<pubDate>Thu, 13 Aug 2026 16:07:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -404,6 +404,12 @@
 <title><![CDATA[Colombia rescuers call for silence as they listen out for signs of life in rubble left by quake]]></title>
 <link>https://apnews.com/video/colombia-rescuers-call-for-silence-as-they-listen-out-for-signs-of-life-in-rubble-left-by-quake-943472a4f59a4313b5667614a3f30319</link>
 <pubDate>Thu, 13 Aug 2026 23:49:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Crew of Yemeni vessel recounts their chaotic rescue after Houthis’ deadly attack]]></title>
+<link>https://apnews.com/article/yemen-red-sea-houthi-shipping-attacks-29115cc1fbc209ed4be2d2f80eabc1bf</link>
+<pubDate>Fri, 14 Aug 2026 11:05:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -425,15 +431,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Drone strike in western Libya torches a power substation, triggering outages]]></title>
-<link>https://apnews.com/article/libya-zawiya-drone-attacks-oil-militias-9865eb3d8e6b805f226aa13f913c7f73</link>
-<pubDate>Wed, 12 Aug 2026 22:13:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[See how your pay compares to the CEOs of the top US companies]]></title>
 <link>https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000</link>
 <pubDate>Mon, 03 Aug 2026 10:36:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Luigi Mangione set to appear in court for expected guilty plea in killing of UnitedHealthcare CEO]]></title>
+<link>https://apnews.com/article/luigi-mangione-plea-unitedhealthcare-ceo-3b8a5bb41589c9f5f4775dba2beea66f</link>
+<pubDate>Fri, 14 Aug 2026 04:26:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[World shares mostly fall and US futures are mixed after US inflation data improves]]></title>
+<link>https://apnews.com/article/stocks-markets-rates-oil-inflation-futures-5d9870d6c5ae735f9b74bf4ceefaa3ec</link>
+<pubDate>Fri, 14 Aug 2026 10:50:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -449,15 +461,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Luigi Mangione expected to plead guilty in federal case in UnitedHealthcare killing, AP source says]]></title>
-<link>https://apnews.com/article/luigi-mangione-plea-unitedhealthcare-ceo-4fa5e27b6baef00f8465e78243a2d58e</link>
-<pubDate>Thu, 13 Aug 2026 19:58:50 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs]]></title>
-<link>https://apnews.com/article/trump-white-house-china-tariffs-avoidance-5dacb82bc5a0a1d550b0ea2353ace005</link>
-<pubDate>Thu, 13 Aug 2026 17:28:21 -0000</pubDate>
+<title><![CDATA[European countries battle multiple wildfires as record heat grips the continent]]></title>
+<link>https://apnews.com/article/fires-france-england-heat-drought-bb9926465acf98a7790a7bf01294f604</link>
+<pubDate>Fri, 14 Aug 2026 10:35:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +473,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia]]></title>
-<link>https://apnews.com/article/colombia-earthquake-rescue-search-quake-99bea7b7eae8778e9e6729556c855369</link>
-<pubDate>Thu, 13 Aug 2026 16:07:38 -0000</pubDate>
+<title><![CDATA[Colombia’s earthquake is déjà vu for Venezuelans. The government response is anything but]]></title>
+<link>https://apnews.com/article/colombia-earthquakes-venezuela-disaster-response-40ed966239ac5d945f6490c40462d0a1</link>
+<pubDate>Thu, 13 Aug 2026 06:52:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -479,15 +485,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Luigi Mangione set to appear in court for expected guilty plea in killing of UnitedHealthcare CEO]]></title>
-<link>https://apnews.com/article/luigi-mangione-plea-unitedhealthcare-ceo-3b8a5bb41589c9f5f4775dba2beea66f</link>
-<pubDate>Fri, 14 Aug 2026 04:26:55 -0000</pubDate>
+<title><![CDATA[Oppressive heat, high humidity grip much of the US as students start a new school year]]></title>
+<link>https://apnews.com/article/extreme-weather-heat-dome-db329527d454636ca0140b14c17358f3</link>
+<pubDate>Fri, 14 Aug 2026 10:20:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan briefly slows its mobile internet to text-only speed as part of defense drill]]></title>
-<link>https://apnews.com/article/taiwan-han-kuang-drills-china-mobile-internet-slowdown-0d1d2fdd870aee3eb141fab385e88cb1</link>
-<pubDate>Thu, 13 Aug 2026 09:06:39 -0000</pubDate>
+<title><![CDATA[Trump White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs]]></title>
+<link>https://apnews.com/article/trump-white-house-china-tariffs-avoidance-5dacb82bc5a0a1d550b0ea2353ace005</link>
+<pubDate>Thu, 13 Aug 2026 17:28:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
