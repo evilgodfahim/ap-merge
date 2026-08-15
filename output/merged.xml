@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Aug 2026 15:09:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 15:41:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
 <link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
@@ -11,15 +11,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Black professor at Cambridge who faced plagiarism claims is found dead]]></title>
-<link>https://apnews.com/article/jason-arday-cambridge-professor-london-dead-reports-9036e2b405f5849415534e80bb1b9cb1</link>
-<pubDate>Sat, 15 Aug 2026 13:48:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
 <link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
 <pubDate>Thu, 13 Aug 2026 17:58:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Black professor at Cambridge who faced plagiarism claims is found dead]]></title>
+<link>https://apnews.com/article/jason-arday-cambridge-professor-london-dead-reports-9036e2b405f5849415534e80bb1b9cb1</link>
+<pubDate>Sat, 15 Aug 2026 13:48:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -50,6 +50,12 @@
 <title><![CDATA[Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village]]></title>
 <link>https://apnews.com/article/poland-giant-statue-virgin-mary-catholic-konotopie-1d5774f24cbd01c2d8f66e7b65923da4</link>
 <pubDate>Sat, 15 Aug 2026 11:25:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism]]></title>
+<link>https://apnews.com/article/britain-jason-arday-cambridge-death-burnham-b9e2463ca6b474ac90cc6196ed668238</link>
+<pubDate>Sat, 15 Aug 2026 15:41:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,9 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 40 and toppling buildings]]></title>
+<title><![CDATA[Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings]]></title>
 <link>https://apnews.com/article/indonesia-earthquake-magnitude-77-c31ad3cf07fa83d2d443e8d85e5c9d84</link>
-<pubDate>Sat, 15 Aug 2026 13:48:27 -0000</pubDate>
+<pubDate>Sat, 15 Aug 2026 15:41:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
