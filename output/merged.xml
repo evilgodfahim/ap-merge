@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Aug 2026 09:14:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 09:46:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
 <link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says]]></title>
-<link>https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b</link>
-<pubDate>Thu, 13 Aug 2026 11:37:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Reform UK’s Nigel Farage beats a slate of fringe candidates in election boycotted by major parties]]></title>
 <link>https://apnews.com/article/britain-politics-farage-binface-clacton-election-reform-uk-16f5c7deff9de672c1c9b1950513b52f</link>
 <pubDate>Fri, 14 Aug 2026 11:35:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
+<link>https://apnews.com/article/italy-heat-neros-bridge-tiber-river-d42fbed89b54530bd5c381aa53a1884b</link>
+<pubDate>Thu, 13 Aug 2026 17:58:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,21 +53,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India’s Modi says armed Maoists are fading, but warns threat remains from ideological supporters]]></title>
+<link>https://apnews.com/article/india-independence-day-modi-maoist-insurgency-2c8a76459e47dacfc5f31fe63d0bd785</link>
+<pubDate>Sat, 15 Aug 2026 09:46:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Tunnel collapses at an Indian hydropower project, killing at least 7]]></title>
+<link>https://apnews.com/article/india-tunnel-collapse-hydropower-workers-rescue-chamoli-6ba136b3137fd828ef1837dede5a95a7</link>
+<pubDate>Sat, 15 Aug 2026 09:31:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education]]></title>
 <link>https://apnews.com/article/afghanistan-taliban-5year-anniversary-6179bb5805731f0c2b6b5b59ea322b6c</link>
 <pubDate>Fri, 14 Aug 2026 10:50:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea slams US-South Korea military drills and threatens strong response]]></title>
-<link>https://apnews.com/article/north-south-korea-us-drills-missiles-346a977644e51b96d9d1f9abf9cd83fc</link>
-<pubDate>Fri, 14 Aug 2026 08:46:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Record-breaking rain floods Chiba east of Tokyo, killing at least 5 people]]></title>
-<link>https://apnews.com/article/japan-chiba-rain-floods-d37730f09557f9cce4948754fcef673c</link>
-<pubDate>Fri, 14 Aug 2026 13:52:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -323,9 +323,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Record-breaking rain floods Chiba east of Tokyo, killing at least 5 people]]></title>
+<link>https://apnews.com/article/japan-chiba-rain-floods-d37730f09557f9cce4948754fcef673c</link>
+<pubDate>Sat, 15 Aug 2026 09:46:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cook Islands Prime Minister Mark Brown expected to return to power following election]]></title>
 <link>https://apnews.com/article/cook-islands-election-mark-brown-rarotonga-84a56dc6d58afba00434c9ccf110690e</link>
 <pubDate>Fri, 14 Aug 2026 08:16:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea slams US-South Korea military drills and threatens strong response]]></title>
+<link>https://apnews.com/article/north-south-korea-us-drills-missiles-346a977644e51b96d9d1f9abf9cd83fc</link>
+<pubDate>Sat, 15 Aug 2026 09:31:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,21 +365,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fireworks light skies over Pakistan’s capital as crowds celebrate Independence Day]]></title>
-<link>https://apnews.com/article/pakistan-independence-day-fireworks-islamabad-f0fc216ae6a502ac330ca31cf343ba5f</link>
-<pubDate>Thu, 13 Aug 2026 22:07:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The top photos of the week by AP photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-week-ap-photojournalists-a5da24f4d3694a73b559bdb4f5fa45c7</link>
-<pubDate>Thu, 13 Aug 2026 21:52:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 20 and toppling buildings]]></title>
+<title><![CDATA[Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 38 and toppling buildings]]></title>
 <link>https://apnews.com/article/indonesia-earthquake-magnitude-77-c31ad3cf07fa83d2d443e8d85e5c9d84</link>
-<pubDate>Sat, 15 Aug 2026 07:48:40 -0000</pubDate>
+<pubDate>Sat, 15 Aug 2026 09:46:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis]]></title>
+<link>https://apnews.com/article/afghanistan-taliban-marks-takeover-anniversary-86a28152904a402836daf5d68328f22c</link>
+<pubDate>Sat, 15 Aug 2026 09:31:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -383,15 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan’s Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender]]></title>
+<title><![CDATA[Japanese leader skips controversial shrine visit, avoids mention of remorse on surrender anniversary]]></title>
 <link>https://apnews.com/article/japan-minister-shrine-militarism-9395cb9241bea7e0cd6d12ffd36a183a</link>
-<pubDate>Sat, 15 Aug 2026 05:16:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year]]></title>
-<link>https://apnews.com/article/myanmar-rohingya-repatriation-rakhine-89fcdccc35af7126d62ea7331fa8fdbb</link>
-<pubDate>Sat, 15 Aug 2026 07:18:40 -0000</pubDate>
+<pubDate>Sat, 15 Aug 2026 09:16:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Tunnel collapses at an Indian hydropower project, killing at least 7]]></title>
-<link>https://apnews.com/article/india-tunnel-collapse-hydropower-workers-rescue-chamoli-6ba136b3137fd828ef1837dede5a95a7</link>
-<pubDate>Fri, 14 Aug 2026 08:46:38 -0000</pubDate>
+<title><![CDATA[Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year]]></title>
+<link>https://apnews.com/article/myanmar-rohingya-repatriation-rakhine-89fcdccc35af7126d62ea7331fa8fdbb</link>
+<pubDate>Sat, 15 Aug 2026 07:18:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
