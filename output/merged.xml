@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Aug 2026 05:19:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 05:50:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
 <link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Athens is cleaning its all-marble Olympic stadium for the first time in more than a century]]></title>
+<link>https://apnews.com/article/greece-olympic-panathenaic-stadium-kallimarmaro-cleanup-3306e3b722b1e9f1a08b9f07f61ffee0</link>
+<pubDate>Sun, 16 Aug 2026 05:50:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village]]></title>
 <link>https://apnews.com/article/poland-giant-statue-virgin-mary-catholic-konotopie-1d5774f24cbd01c2d8f66e7b65923da4</link>
 <pubDate>Sat, 15 Aug 2026 11:25:16 -0000</pubDate>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home]]></title>
-<link>https://apnews.com/article/bonnie-tyler-wales-coffin-mumbles-54e2fad306c66dfb3bfeef24355165f3</link>
-<pubDate>Sat, 15 Aug 2026 17:41:02 -0000</pubDate>
+<title><![CDATA[Takaichi skips controversial shrine visit on 81st anniversary of country’s World War II surrender]]></title>
+<link>https://apnews.com/article/japan-minister-shrine-militarism-9395cb9241bea7e0cd6d12ffd36a183a</link>
+<pubDate>Sun, 16 Aug 2026 05:35:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[India’s Modi says armed Maoists are fading, but warns threat remains from ideological supporters]]></title>
 <link>https://apnews.com/article/india-independence-day-modi-maoist-insurgency-2c8a76459e47dacfc5f31fe63d0bd785</link>
 <pubDate>Sat, 15 Aug 2026 09:46:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taliban mark 5 years since return to power in Afghanistan, in photos]]></title>
-<link>https://apnews.com/photo-gallery/afghanistan-taliban-anniversary-photos-e1c8bfecd5fa9b5f2b664d3785474945</link>
-<pubDate>Sat, 15 Aug 2026 11:10:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home]]></title>
+<link>https://apnews.com/article/bonnie-tyler-wales-coffin-mumbles-54e2fad306c66dfb3bfeef24355165f3</link>
+<pubDate>Sun, 16 Aug 2026 05:50:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine attacks Russia’s Samara industrial site as Kyiv ramps up long-range strikes]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-missile-strike-4e0ec548753451b1611e3123202850ea</link>
 <pubDate>Sat, 15 Aug 2026 11:40:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Taliban mark 5 years since return to power in Afghanistan, in photos]]></title>
+<link>https://apnews.com/photo-gallery/afghanistan-taliban-anniversary-photos-e1c8bfecd5fa9b5f2b664d3785474945</link>
+<pubDate>Sun, 16 Aug 2026 05:35:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -365,18 +377,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Record-breaking rain floods Chiba east of Tokyo, killing at least 5 people]]></title>
-<link>https://apnews.com/article/japan-chiba-rain-floods-d37730f09557f9cce4948754fcef673c</link>
-<pubDate>Sat, 15 Aug 2026 09:46:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cook Islands Prime Minister Mark Brown expected to return to power following election]]></title>
-<link>https://apnews.com/article/cook-islands-election-mark-brown-rarotonga-84a56dc6d58afba00434c9ccf110690e</link>
-<pubDate>Fri, 14 Aug 2026 08:16:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Rescuers dig through rubble and landslides after Indonesia quake kills 47]]></title>
 <link>https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34</link>
 <pubDate>Sun, 16 Aug 2026 04:05:01 -0000</pubDate>
@@ -398,12 +398,6 @@
 <title><![CDATA[Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing]]></title>
 <link>https://apnews.com/article/congo-ebola-contact-tracing-surveillance-workers-57c20999e2acfb4e8e3ea576078d063d</link>
 <pubDate>Sat, 15 Aug 2026 05:31:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Takaichi skips controversial shrine visit on 81st anniversary of country’s World War II surrender]]></title>
-<link>https://apnews.com/article/japan-minister-shrine-militarism-9395cb9241bea7e0cd6d12ffd36a183a</link>
-<pubDate>Sat, 15 Aug 2026 11:40:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds]]></title>
+<title><![CDATA[Hurricane Lala skirts Hawaii’s Big Island without making landfall as heavy wind, rain lash region]]></title>
 <link>https://apnews.com/article/hawaii-tropical-storm-lala-hurricane-0c3d63c8a87943cdf8d57c530a7ed9d0</link>
-<pubDate>Sat, 15 Aug 2026 20:28:56 -0000</pubDate>
+<pubDate>Sun, 16 Aug 2026 05:35:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
