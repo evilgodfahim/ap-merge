@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Aug 2026 07:06:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 07:51:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke]]></title>
 <link>https://apnews.com/article/israel-west-bank-settler-violence-palestinian-qusra-huckabee-aad901d8ee7cf54e5e4952bf61a4f6d1</link>
@@ -47,6 +47,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne]]></title>
+<link>https://apnews.com/article/liechtenstein-prince-royal-female-succession-3d890116a71754ee50aa960e94543da6</link>
+<pubDate>Sun, 16 Aug 2026 07:50:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Athens is cleaning its all-marble Olympic stadium for the first time in more than a century]]></title>
 <link>https://apnews.com/article/greece-olympic-panathenaic-stadium-kallimarmaro-cleanup-3306e3b722b1e9f1a08b9f07f61ffee0</link>
 <pubDate>Sun, 16 Aug 2026 05:50:05 -0000</pubDate>
@@ -56,12 +62,6 @@
 <title><![CDATA[Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village]]></title>
 <link>https://apnews.com/article/poland-giant-statue-virgin-mary-catholic-konotopie-1d5774f24cbd01c2d8f66e7b65923da4</link>
 <pubDate>Sat, 15 Aug 2026 11:25:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UK’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism]]></title>
-<link>https://apnews.com/article/britain-jason-arday-cambridge-death-burnham-b9e2463ca6b474ac90cc6196ed668238</link>
-<pubDate>Sat, 15 Aug 2026 15:41:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba</link>
+<pubDate>Sun, 16 Aug 2026 07:51:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Avocado pickers in Mexico welcome restart of exports to US, but security fears remain]]></title>
+<link>https://apnews.com/article/mexico-us-avocados-suspended-michoacan-cartels-5bd6aabd401e625231789e42babfa9a2</link>
+<pubDate>Sun, 16 Aug 2026 07:36:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home]]></title>
 <link>https://apnews.com/article/bonnie-tyler-wales-coffin-mumbles-54e2fad306c66dfb3bfeef24355165f3</link>
 <pubDate>Sun, 16 Aug 2026 05:50:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism]]></title>
+<link>https://apnews.com/article/britain-jason-arday-cambridge-death-burnham-b9e2463ca6b474ac90cc6196ed668238</link>
+<pubDate>Sun, 16 Aug 2026 07:21:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -359,27 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A second Taliban official is killed in attack in Afghanistan, as the takeover anniversary nears]]></title>
-<link>https://apnews.com/article/afghanistan-explosion-mayor-killed-35ea4df990f4c75f2559d9a58ebcf5e3</link>
-<pubDate>Fri, 14 Aug 2026 08:46:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wall Street slips from its record following the latest weak update on the US economy]]></title>
-<link>https://apnews.com/article/stocks-markets-rates-oil-inflation-futures-5d9870d6c5ae735f9b74bf4ceefaa3ec</link>
-<pubDate>Sat, 15 Aug 2026 22:43:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[A look at the history and beliefs behind Japan’s controversial shrine to the war dead]]></title>
-<link>https://apnews.com/article/yasukuni-shrine-explainer-japan-wwii-shinto-bc5b7259896e25c176c8b7a58bd92f12</link>
-<pubDate>Fri, 14 Aug 2026 08:31:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rescuers dig through rubble and landslides after Indonesia quake kills 47]]></title>
+<title><![CDATA[Rescuers dig through rubble and landslides after Indonesia quake kills 51]]></title>
 <link>https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34</link>
-<pubDate>Sun, 16 Aug 2026 04:05:01 -0000</pubDate>
+<pubDate>Sun, 16 Aug 2026 07:51:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -392,6 +392,12 @@
 <title><![CDATA[There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378</link>
 <pubDate>Sat, 15 Aug 2026 07:33:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A bus crash in Hungary kills 12 people, injures at least 10 others]]></title>
+<link>https://apnews.com/article/hungary-tourist-bus-crash-poland-5d7ea3649f0af2dab9b45a08671f79b7</link>
+<pubDate>Sun, 16 Aug 2026 07:36:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -464,12 +470,6 @@
 <title><![CDATA[Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO]]></title>
 <link>https://apnews.com/article/luigi-mangione-plea-unitedhealthcare-ceo-3b8a5bb41589c9f5f4775dba2beea66f</link>
 <pubDate>Fri, 14 Aug 2026 15:40:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne]]></title>
-<link>https://apnews.com/article/liechtenstein-prince-royal-female-succession-3d890116a71754ee50aa960e94543da6</link>
-<pubDate>Sat, 15 Aug 2026 13:03:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
