@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Aug 2026 23:42:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 00:36:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8</link>
@@ -17,12 +17,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings]]></title>
-<link>https://apnews.com/article/indonesia-earthquake-magnitude-77-c31ad3cf07fa83d2d443e8d85e5c9d84</link>
-<pubDate>Sun, 16 Aug 2026 04:04:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu]]></title>
 <link>https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378</link>
 <pubDate>Sun, 16 Aug 2026 11:40:42 -0000</pubDate>
@@ -32,6 +26,12 @@
 <title><![CDATA[Israel’s Ben-Gvir advocates killing ’30 to 40' people in Gaza nightly while speaking to ex-hostage]]></title>
 <link>https://apnews.com/article/ben-gvir-israel-gaza-hamas-netanyahu-53f98e92686746f3c9bccd7cf59f26ad</link>
 <pubDate>Mon, 17 Aug 2026 20:49:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism]]></title>
+<link>https://apnews.com/article/britain-jason-arday-cambridge-death-burnham-b9e2463ca6b474ac90cc6196ed668238</link>
+<pubDate>Sat, 15 Aug 2026 15:41:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day]]></title>
+<link>https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb</link>
+<pubDate>Tue, 18 Aug 2026 00:35:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A temple stampede and a hotel fire in eastern India kill 14 and injure several]]></title>
 <link>https://apnews.com/article/india-bihar-hindu-festival-stampede-44325dd6fb2a98b5329921d52b74932b</link>
 <pubDate>Mon, 17 Aug 2026 08:29:26 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[Heavy rains kill 1 in South Korea and flood major streets in Philippines]]></title>
 <link>https://apnews.com/article/south-korea-philippines-rains-landslide-d21d2fdcc8391e152bce35686a62dc96</link>
 <pubDate>Mon, 17 Aug 2026 11:15:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The ripple effects of the Iran war could threaten education for millions of kids around the world]]></title>
-<link>https://apnews.com/article/iran-war-southeast-asia-cambodia-education-fe1b94cb4999057e6497aa741ee5be5a</link>
-<pubDate>Mon, 17 Aug 2026 11:00:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,9 +113,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Vote counting suspended then restarted in Zambia election after attacks at polling stations]]></title>
-<link>https://apnews.com/article/zambia-election-vote-counting-suspended-9978128100cfd22e2715d884030ab728</link>
-<pubDate>Sat, 15 Aug 2026 17:11:02 -0000</pubDate>
+<title><![CDATA[The ripple effects of the Iran war could threaten education for millions of kids around the world]]></title>
+<link>https://apnews.com/article/iran-war-southeast-asia-cambodia-education-fe1b94cb4999057e6497aa741ee5be5a</link>
+<pubDate>Mon, 17 Aug 2026 11:00:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -191,6 +191,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Discord halts livestreams in Brazil after watchdog cites child safety failures]]></title>
+<link>https://apnews.com/article/brazil-discord-children-social-media-f7f4ee9c312cbf0b48ef94e189fddcdf</link>
+<pubDate>Tue, 18 Aug 2026 00:35:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Helicopter crash on popular Greek tourist island of Sifnos kills 3]]></title>
 <link>https://apnews.com/article/greece-sifnos-helicopter-crash-6aa05a47d228812c0702db922ab1658a</link>
 <pubDate>Mon, 17 Aug 2026 17:16:40 -0000</pubDate>
@@ -203,9 +209,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bonnie Tyler is remembered as worldwide star at her Welsh funeral]]></title>
+<title><![CDATA[‘Total Eclipse of the Heart’ singer Bonnie Tyler remembered as ‘a star, but never a diva’]]></title>
 <link>https://apnews.com/article/welsh-singer-bonnie-tyler-funeral-eclipse-224838ff41156f38b1247251b7007ff7</link>
-<pubDate>Mon, 17 Aug 2026 16:46:40 -0000</pubDate>
+<pubDate>Tue, 18 Aug 2026 00:20:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -341,12 +347,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism]]></title>
-<link>https://apnews.com/article/britain-jason-arday-cambridge-death-burnham-b9e2463ca6b474ac90cc6196ed668238</link>
-<pubDate>Sun, 16 Aug 2026 07:21:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne]]></title>
 <link>https://apnews.com/article/liechtenstein-prince-royal-female-succession-3d890116a71754ee50aa960e94543da6</link>
 <pubDate>Sun, 16 Aug 2026 11:25:43 -0000</pubDate>
@@ -371,21 +371,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Marathon US-Israel meeting produces optimism but no firm commitment to American plan for Gaza]]></title>
-<link>https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be</link>
-<pubDate>Mon, 17 Aug 2026 20:49:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[After killing hundreds in boat strikes, US military expands campaign on land in Latin America]]></title>
-<link>https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4</link>
-<pubDate>Mon, 17 Aug 2026 07:41:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand]]></title>
 <link>https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6</link>
 <pubDate>Mon, 17 Aug 2026 09:32:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Marathon US-Israel meeting produces optimism but no firm commitment to American plan for Gaza]]></title>
+<link>https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be</link>
+<pubDate>Mon, 17 Aug 2026 20:49:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -395,15 +389,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mount Etna continues to belch lava and ash, affecting air traffic over Sicily]]></title>
-<link>https://apnews.com/video/mount-etna-continues-to-belch-lava-and-ash-affecting-air-traffic-over-sicily-ad6f0d215f404c77ae9e477cc5f13c96</link>
-<pubDate>Fri, 14 Aug 2026 21:30:44 -0000</pubDate>
+<title><![CDATA[After killing hundreds in boat strikes, US military expands campaign on land in Latin America]]></title>
+<link>https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4</link>
+<pubDate>Mon, 17 Aug 2026 07:41:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Huge oil spill from stricken tanker spreads off the coast of Oman]]></title>
-<link>https://apnews.com/video/vast-oil-spill-from-stricken-tanker-spreads-off-the-coast-of-oman-threatening-shoreline-8e0159319d9c489085d228131942c270</link>
-<pubDate>Fri, 14 Aug 2026 21:15:44 -0000</pubDate>
+<title><![CDATA[Lula calls oil near the Amazon River a passport to Brazil’s future after Petrobras strikes new find]]></title>
+<link>https://apnews.com/article/brazil-lula-oil-petrobras-amazon-drilling-9ad1dd2eb5a7932c2738c904fcaa73cc</link>
+<pubDate>Tue, 18 Aug 2026 00:36:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Kim Jong Un joined by wife and daughter at liberation anniversary event]]></title>
+<link>https://apnews.com/video/kim-jong-un-joined-by-wife-and-daughter-at-liberation-anniversary-event-fe196bd3da35452689700d32ebb32ea7</link>
+<pubDate>Tue, 18 Aug 2026 00:21:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Italian Carabinieri video shows recovery of stolen Renoir, Cézanne and Matisse artworks]]></title>
+<link>https://apnews.com/video/italian-carabinieri-video-shows-recovery-of-stolen-renoir-cezanne-and-matisse-artworks-b694c271af1545b99f20c3ed8a3f894f</link>
+<pubDate>Tue, 18 Aug 2026 00:06:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -455,21 +461,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Discord halts livestreams in Brazil after watchdog cites child safety failures]]></title>
-<link>https://apnews.com/article/brazil-discord-children-social-media-f7f4ee9c312cbf0b48ef94e189fddcdf</link>
-<pubDate>Mon, 17 Aug 2026 22:45:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ukraine energy company says its facilities seriously damaged after 13 Russian strikes in a week]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-energy-facilities-winter-strikes-8cec7f6dacd1bc0508b8365d62e0d436</link>
 <pubDate>Mon, 17 Aug 2026 11:30:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day]]></title>
-<link>https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb</link>
-<pubDate>Mon, 17 Aug 2026 11:15:58 -0000</pubDate>
+<title><![CDATA[Trump’s slight of South Korea in favor of the North raises broader US security concerns]]></title>
+<link>https://apnews.com/article/trump-south-korea-military-exercises-american-interests-c602b29c49f56f2acdcca96bb6df08f3</link>
+<pubDate>Mon, 17 Aug 2026 23:51:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
