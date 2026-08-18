@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 18 Aug 2026 05:26:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 05:51:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news]]></title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8</link>
@@ -17,15 +17,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu]]></title>
-<link>https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378</link>
-<pubDate>Sun, 16 Aug 2026 11:40:42 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Israel’s Ben-Gvir advocates killing ’30 to 40' people in Gaza nightly while speaking to ex-hostage]]></title>
 <link>https://apnews.com/article/ben-gvir-israel-gaza-hamas-netanyahu-53f98e92686746f3c9bccd7cf59f26ad</link>
 <pubDate>Mon, 17 Aug 2026 20:49:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news]]></title>
+<link>https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc</link>
+<pubDate>Tue, 18 Aug 2026 05:51:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -35,15 +35,27 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli airstrikes on southern Lebanon kill 11 people in another test to truce]]></title>
+<link>https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad</link>
+<pubDate>Mon, 17 Aug 2026 17:16:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere]]></title>
 <link>https://apnews.com/article/aircraft-carriers-trump-china-pacific-iran-war-87cfb838de8c13464fa3cab1840ad87d</link>
 <pubDate>Mon, 17 Aug 2026 17:01:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine takes aim at Russia’s economy and morale by attacking online retailer]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21</link>
-<pubDate>Mon, 17 Aug 2026 11:45:57 -0000</pubDate>
+<title><![CDATA[A physics graduate, a soccer player, a teen who couldn’t swim: They died in the Ceuta migrant surge]]></title>
+<link>https://apnews.com/article/migration-ceuta-morocco-spain-victims-05e8b0337d332519925a2a834a01cf76</link>
+<pubDate>Tue, 18 Aug 2026 05:36:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A looming rock collapse threatens a Swiss village as thawing permafrost destabilizes the Alps]]></title>
+<link>https://apnews.com/article/switzerland-rock-landslide-mountain-village-permafrost-glacier-6cf9c08bb05a1706366078df0ae17548</link>
+<pubDate>Tue, 18 Aug 2026 05:21:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -53,15 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Belgian wildfire approaches Germany as Greece probes deadly blaze]]></title>
-<link>https://apnews.com/article/wildfire-belgium-france-heat-europe-greece-cd5a8524ca3136b009422bd24eb4194e</link>
-<pubDate>Mon, 17 Aug 2026 15:45:32 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day]]></title>
-<link>https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb</link>
-<pubDate>Tue, 18 Aug 2026 00:35:14 -0000</pubDate>
+<title><![CDATA[South Korea hopes for talks between US and North Korea after Trump downsizes military drills]]></title>
+<link>https://apnews.com/article/trump-north-south-korea-military-drills-kim-84d2ae42b527d6a71d2e7d69acf8483d</link>
+<pubDate>Mon, 17 Aug 2026 13:42:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -77,6 +83,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[After killing hundreds in boat strikes, US military expands campaign on land in Latin America]]></title>
+<link>https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4</link>
+<pubDate>Tue, 18 Aug 2026 05:06:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lula and Bolsonaro’s son kick off presidential campaigns in Brazil]]></title>
 <link>https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-opens-8f4ad67b107cb05736f450f67198b190</link>
 <pubDate>Mon, 17 Aug 2026 15:30:32 -0000</pubDate>
@@ -89,9 +101,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Son of former Mexican President López Obrador says US revoked his visa and appeals directly to Trump]]></title>
-<link>https://apnews.com/article/amlo-son-us-visa-trump-sheinbaum-c29f87e86301b7974c038965521438c7</link>
-<pubDate>Sun, 16 Aug 2026 17:25:28 -0000</pubDate>
+<title><![CDATA[This school teaches Senegal’s brightest girls to push back against patriarchal norms]]></title>
+<link>https://apnews.com/article/senegal-girls-education-school-goree-45b043a8501bf695b8a0d8247f9700b0</link>
+<pubDate>Tue, 18 Aug 2026 04:51:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,12 +125,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[12 more bodies are recovered in Zimbabwe’s ferry disaster, bringing death toll to 84]]></title>
-<link>https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4</link>
-<pubDate>Sun, 16 Aug 2026 20:43:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump administration briefly pauses contentious border project in Texas’ Big Bend National Park]]></title>
 <link>https://apnews.com/article/trump-border-big-bend-national-park-immigration-c8439ceed11ff5e7f3ca95fa0003327b</link>
 <pubDate>Mon, 17 Aug 2026 20:34:16 -0000</pubDate>
@@ -137,9 +143,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mom and sister testify about Lindsay Clancy’s declining mental state before she killed her children]]></title>
-<link>https://apnews.com/article/lindsay-clancy-postpartum-murder-trial-prosecution-5fa1e451f824009b35f8888702356aaa</link>
-<pubDate>Mon, 17 Aug 2026 20:19:16 -0000</pubDate>
+<title><![CDATA[Hundreds of guinea pigs fill Massachusetts sanctuary with squeals, purrs and lots of love]]></title>
+<link>https://apnews.com/article/guinea-pigs-rescue-massachusetts-dde3e1fe3f63319db70689326a28245f</link>
+<pubDate>Tue, 18 Aug 2026 04:36:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -245,6 +251,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Belgian wildfire approaches Germany as Greece probes deadly blaze]]></title>
+<link>https://apnews.com/article/wildfire-belgium-france-heat-europe-greece-cd5a8524ca3136b009422bd24eb4194e</link>
+<pubDate>Tue, 18 Aug 2026 05:51:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Heavy rains kill 1 in South Korea and flood major streets in Philippines]]></title>
 <link>https://apnews.com/article/south-korea-philippines-rains-landslide-d21d2fdcc8391e152bce35686a62dc96</link>
 <pubDate>Tue, 18 Aug 2026 03:48:07 -0000</pubDate>
@@ -266,6 +278,12 @@
 <title><![CDATA[US stocks edge further from their record after oil prices rise]]></title>
 <link>https://apnews.com/article/stocks-markets-futures-rates-oil-japan-bf398d5a01f611921c0b48a8bfc884d9</link>
 <pubDate>Tue, 18 Aug 2026 03:33:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day]]></title>
+<link>https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb</link>
+<pubDate>Tue, 18 Aug 2026 05:36:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -296,6 +314,12 @@
 <title><![CDATA[Trump orders Pentagon to scale back joint exercises with South Korea]]></title>
 <link>https://apnews.com/article/korea-trump-military-exercises-ae21e0af5ea16f0a74e9a176b3cc2136</link>
 <pubDate>Mon, 17 Aug 2026 11:15:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[12 more bodies are recovered in Zimbabwe’s ferry disaster, bringing death toll to 84]]></title>
+<link>https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4</link>
+<pubDate>Tue, 18 Aug 2026 05:21:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -353,21 +377,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Avocado pickers in Mexico welcome restart of exports to US, but security fears remain]]></title>
-<link>https://apnews.com/article/mexico-us-avocados-suspended-michoacan-cartels-5bd6aabd401e625231789e42babfa9a2</link>
-<pubDate>Sun, 16 Aug 2026 07:36:00 -0000</pubDate>
+<title><![CDATA[Student shooter kills classmate and himself at a Philippine school, mayor says]]></title>
+<link>https://apnews.com/article/philippines-zamboanga-school-shooting-fe3aa5d6d1f3dd2ca614d68bb373d604</link>
+<pubDate>Tue, 18 Aug 2026 05:36:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53]]></title>
-<link>https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34</link>
-<pubDate>Mon, 17 Aug 2026 04:48:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[26 more bodies are recovered in Zimbabwe’s ferry disaster, bringing death toll to 72]]></title>
-<link>https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-8c45f83769ef978a64899d851911e8c7</link>
-<pubDate>Sun, 16 Aug 2026 20:43:37 -0000</pubDate>
+<title><![CDATA[Donor fatigue guts demining in Asia, as active conflicts draw away funding]]></title>
+<link>https://apnews.com/article/asia-war-mines-funding-iran-ukraine-17aef27ad6383313ef788fa2362f7c55</link>
+<pubDate>Tue, 18 Aug 2026 05:21:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,27 +395,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Marathon US-Israel meeting produces optimism but no firm commitment to American plan for Gaza]]></title>
-<link>https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be</link>
-<pubDate>Mon, 17 Aug 2026 20:49:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Student shot a classmate to death then killed himself at school in southern Philippines, mayor says]]></title>
-<link>https://apnews.com/article/philippines-zamboanga-school-shooting-fe3aa5d6d1f3dd2ca614d68bb373d604</link>
-<pubDate>Tue, 18 Aug 2026 04:03:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Lula calls oil near the Amazon River a passport to Brazil’s future after Petrobras strikes new find]]></title>
-<link>https://apnews.com/article/brazil-lula-oil-petrobras-amazon-drilling-9ad1dd2eb5a7932c2738c904fcaa73cc</link>
-<pubDate>Tue, 18 Aug 2026 00:36:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea hopes for talks between US and North Korea after Trump downsizes military drills]]></title>
-<link>https://apnews.com/article/trump-north-south-korea-military-drills-kim-84d2ae42b527d6a71d2e7d69acf8483d</link>
-<pubDate>Mon, 17 Aug 2026 11:45:58 -0000</pubDate>
+<title><![CDATA[Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced]]></title>
+<link>https://apnews.com/article/indonesia-flores-earthquake-displaced-traumatized-children-70f07f6bbaf611924b98594356f25b32</link>
+<pubDate>Tue, 18 Aug 2026 05:06:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -431,9 +431,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli airstrikes on southern Lebanon kill 11 people in another test to truce]]></title>
-<link>https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad</link>
-<pubDate>Sun, 16 Aug 2026 09:32:28 -0000</pubDate>
+<title><![CDATA[There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu]]></title>
+<link>https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378</link>
+<pubDate>Sat, 15 Aug 2026 07:33:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -443,9 +443,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[States take Meta to trial in California in the biggest fight yet over social media harms to children]]></title>
-<link>https://apnews.com/article/meta-facebook-social-media-trial-oakland-32e8f19738eb77ab832e0f084dd677af</link>
-<pubDate>Mon, 17 Aug 2026 05:26:24 -0000</pubDate>
+<title><![CDATA[Opening arguments set to begin in Meta’s federal trial over child harms]]></title>
+<link>https://apnews.com/article/meta-trial-oakland-states-instagram-safety-2b617764a8ddc4846f74f59d0c4516b8</link>
+<pubDate>Tue, 18 Aug 2026 04:51:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ukraine takes aim at Russia’s economy and morale by attacking online retailer]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21</link>
+<pubDate>Mon, 17 Aug 2026 05:56:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,9 +479,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[After killing hundreds in boat strikes, US military expands campaign on land in Latin America]]></title>
-<link>https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4</link>
-<pubDate>Mon, 17 Aug 2026 07:41:35 -0000</pubDate>
+<title><![CDATA[Lula calls oil near the Amazon River a passport to Brazil’s future after Petrobras strikes new find]]></title>
+<link>https://apnews.com/article/brazil-lula-oil-petrobras-amazon-drilling-9ad1dd2eb5a7932c2738c904fcaa73cc</link>
+<pubDate>Tue, 18 Aug 2026 00:36:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
