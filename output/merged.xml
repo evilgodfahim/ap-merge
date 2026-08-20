@@ -3,13 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Aug 2026 09:02:18 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news]]></title>
-<link>https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc</link>
-<pubDate>Tue, 18 Aug 2026 05:51:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Thu, 20 Aug 2026 09:56:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-5f1f84bfb064942d7b7fe9be1bd4693c</link>
@@ -32,6 +26,12 @@
 <title><![CDATA[South Korea hopes for talks between US and North Korea after Trump downsizes military drills]]></title>
 <link>https://apnews.com/article/trump-north-south-korea-military-drills-kim-84d2ae42b527d6a71d2e7d69acf8483d</link>
 <pubDate>Mon, 17 Aug 2026 13:42:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump is threatening to bomb Oman, but why?]]></title>
+<link>https://apnews.com/article/mideast-oman-explainer-trump-threat-iran-097224f5a65b66d7fa3dab4862b5a45e</link>
+<pubDate>Wed, 19 Aug 2026 13:21:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +59,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A historic boat emerges in Serbia as Europe’s rivers run dry from drought and heat]]></title>
-<link>https://apnews.com/article/serbia-rivers-drought-boat-heat-a6ea3fdba13e77674c79eb4032910103</link>
-<pubDate>Thu, 20 Aug 2026 05:54:14 -0000</pubDate>
+<title><![CDATA[Deadly overnight storms batter Germany, killing a woman and injuring at least 2]]></title>
+<link>https://apnews.com/article/europe-weather-tornado-dead-injuries-40f057a1faff2ad0a4428a54f95fa44c</link>
+<pubDate>Thu, 20 Aug 2026 09:56:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -149,6 +149,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pentagon orders audit of 30 universities’ partnerships with foreign institutions]]></title>
+<link>https://apnews.com/article/pentagon-audit-china-harvard-mit-738832f9f20186dc5f9ef1aa39914636</link>
+<pubDate>Tue, 18 Aug 2026 16:34:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere]]></title>
 <link>https://apnews.com/article/aircraft-carriers-trump-china-pacific-iran-war-87cfb838de8c13464fa3cab1840ad87d</link>
 <pubDate>Mon, 17 Aug 2026 17:01:40 -0000</pubDate>
@@ -164,12 +170,6 @@
 <title><![CDATA[Trump White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs]]></title>
 <link>https://apnews.com/article/trump-white-house-china-tariffs-avoidance-5dacb82bc5a0a1d550b0ea2353ace005</link>
 <pubDate>Mon, 17 Aug 2026 03:48:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan briefly slows its mobile internet to text-only speed as part of defense drill]]></title>
-<link>https://apnews.com/article/taiwan-han-kuang-drills-china-mobile-internet-slowdown-0d1d2fdd870aee3eb141fab385e88cb1</link>
-<pubDate>Fri, 14 Aug 2026 10:05:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -197,9 +197,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese court sentences Evergrande founder to life in prison for fraud]]></title>
-<link>https://apnews.com/article/china-evergrande-founder-real-estate-fraud-5573868904b3ced0c5c9b0314c56ae5a</link>
-<pubDate>Thu, 20 Aug 2026 08:01:36 -0000</pubDate>
+<title><![CDATA[Bodies of 2 hikers missing for decades in Swiss Alps turn up as glacier melts]]></title>
+<link>https://apnews.com/article/glacier-switzerland-mountaineer-belgian-hiker-weissmeis-trift-8544b4baf6e2bd207a63d8f3af4beb8a</link>
+<pubDate>Thu, 20 Aug 2026 09:56:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A historic boat emerges in Serbia as Europe’s rivers run dry from drought and heat]]></title>
+<link>https://apnews.com/article/serbia-rivers-drought-boat-heat-a6ea3fdba13e77674c79eb4032910103</link>
+<pubDate>Thu, 20 Aug 2026 09:41:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -371,15 +377,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nonprofit sues over US push to auction areas of water around American Samoa for potential mining]]></title>
-<link>https://apnews.com/article/us-sued-deep-sea-mining-earthjustice-american-samoa-ca8adde08a645e0471a017e98c645836</link>
-<pubDate>Wed, 19 Aug 2026 14:13:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[AP investigation shows how banned goods are smuggled into Gaza and millions of dollars change hands]]></title>
+<title><![CDATA[Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in]]></title>
 <link>https://apnews.com/article/gaza-smuggling-goods-israel-hamas-war-0eb43885ba1ee2045457b4bb8d26dfd5</link>
-<pubDate>Thu, 20 Aug 2026 06:24:20 -0000</pubDate>
+<pubDate>Thu, 20 Aug 2026 09:56:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -389,9 +389,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian missile barrage across Ukraine’s capital kills at least 12 and wounds 33]]></title>
+<title><![CDATA[A Russian missile and drone barrage kills at least 14 in Ukraine’s Kyiv region]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-attack-92ff5d7d1073fd8692a75e4e677f425b</link>
-<pubDate>Thu, 20 Aug 2026 06:09:20 -0000</pubDate>
+<pubDate>Thu, 20 Aug 2026 09:41:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -467,9 +467,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea shrugs off Trump’s scaled-back drills with South Korea, saying it changes nothing]]></title>
-<link>https://apnews.com/article/korea-us-military-drills-313e01e4ee305b4c9b1b8bf12643fb17</link>
-<pubDate>Wed, 19 Aug 2026 13:43:24 -0000</pubDate>
+<title><![CDATA[South Korea says North Korea fires about 10 short-range ballistic missiles toward the sea]]></title>
+<link>https://apnews.com/article/south-north-korea-projectile-launch-military-exercises-b3af05067e4258f90f67023c7b2b3e9a</link>
+<pubDate>Thu, 20 Aug 2026 09:26:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -491,9 +491,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pentagon orders audit of 30 universities’ partnerships with foreign institutions]]></title>
-<link>https://apnews.com/article/pentagon-audit-china-harvard-mit-738832f9f20186dc5f9ef1aa39914636</link>
-<pubDate>Tue, 18 Aug 2026 13:54:27 -0000</pubDate>
+<title><![CDATA[Chinese court sentences founder of troubled property developer Evergrande to life in prison]]></title>
+<link>https://apnews.com/article/china-evergrande-founder-real-estate-fraud-5573868904b3ced0c5c9b0314c56ae5a</link>
+<pubDate>Thu, 20 Aug 2026 09:11:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
