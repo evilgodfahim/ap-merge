@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Aug 2026 18:20:14 GMT</lastBuildDate>
-<item>
-<title><![CDATA[Prince Harry and Meghan are returning to the UK with their children]]></title>
-<link>https://apnews.com/article/prince-harry-meghan-lilibet-archie-2a26920acb7ed33bb590654bfd57702b</link>
-<pubDate>Thu, 20 Aug 2026 04:03:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
+<lastBuildDate>Fri, 21 Aug 2026 19:03:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Canadian provincial leader says Trump is a ‘bad person’ as Canada weighs concessions for trade deal]]></title>
 <link>https://apnews.com/article/canada-quebec-trump-tariffs-75d3f24bb11178d8c9bb28b144e1dcf0</link>
 <pubDate>Fri, 21 Aug 2026 11:47:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Prince Harry and Meghan are returning to the UK with their children]]></title>
+<link>https://apnews.com/article/prince-harry-meghan-lilibet-archie-2a26920acb7ed33bb590654bfd57702b</link>
+<pubDate>Thu, 20 Aug 2026 04:03:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -23,15 +23,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-8d9eb77fc5fc29c4771503b75f98b1f4</link>
-<pubDate>Wed, 19 Aug 2026 07:29:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[North Korea fires barrage of missiles toward the sea after dismissing overture from Trump]]></title>
 <link>https://apnews.com/article/south-north-korea-projectile-launch-military-exercises-b3af05067e4258f90f67023c7b2b3e9a</link>
 <pubDate>Thu, 20 Aug 2026 19:07:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again]]></title>
+<link>https://apnews.com/article/russia-ukraine-war-drone-strikes-8d9eb77fc5fc29c4771503b75f98b1f4</link>
+<pubDate>Wed, 19 Aug 2026 07:29:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,9 +131,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Court slashes $50M judgment against Infowars’ Alex Jones over falsely calling school shooting a hoax]]></title>
+<title><![CDATA[Court cuts $50M judgment against Infowars’ Alex Jones over falsely labeling Newtown killings a hoax]]></title>
 <link>https://apnews.com/article/alex-jones-infowars-newtown-b7866ab5ef652bbc7307ae55b09937ce</link>
-<pubDate>Fri, 21 Aug 2026 16:27:22 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 19:03:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -203,6 +203,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Cambodia-US operation uncovers money laundering link to Sinaloa Cartel]]></title>
+<link>https://apnews.com/article/cambodia-mexico-money-laundering-sinaloa-cartel-drugs-crime-70889f60244dc67497eed3bfc99e98d4</link>
+<pubDate>Fri, 21 Aug 2026 19:03:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Heavy rain and winds to hit Hawaii less than a week after damage from Hurricane Lala]]></title>
 <link>https://apnews.com/article/hawaii-tropical-lala-moke-rain-mudslides-430ec3d8fca83646e9478b3161e96e92</link>
 <pubDate>Fri, 21 Aug 2026 16:57:23 -0000</pubDate>
@@ -221,9 +227,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[An attacker with a sword wounds several people at a school in Sweden]]></title>
+<title><![CDATA[An attacker with a sword wounds at least 3 people at a school in Sweden]]></title>
 <link>https://apnews.com/article/sweden-school-sword-attack-d07f2b075d2c20837a9d3d767a57246b</link>
-<pubDate>Fri, 21 Aug 2026 16:42:23 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 18:48:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -251,9 +257,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Imran Khan’s family and party say Pakistan violated court order by taking him to government hospital]]></title>
+<title><![CDATA[Pakistan rejects allegations of mistreatment, medical neglect of imprisoned ex-Premier Imran Khan]]></title>
 <link>https://apnews.com/article/pakistan-imran-medical-examination-court-order-violation-36e106ed2aaeca8ab4fd7f96aa5a3b2d</link>
-<pubDate>Fri, 21 Aug 2026 11:17:57 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 18:33:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -377,21 +383,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh elects veteran politician Mirza Fakhrul Islam Alamgir as president]]></title>
-<link>https://apnews.com/article/bangladesh-president-hasina-tarique-khaleda-9884e60119d1ba29053cb883fd75234b</link>
-<pubDate>Thu, 20 Aug 2026 14:45:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iranian families struggle to afford the basics as US ratchets up economic warfare]]></title>
 <link>https://apnews.com/article/iran-economy-sanctions-inflation-73b0278a0307030588cac9f47b3443e0</link>
 <pubDate>Fri, 21 Aug 2026 09:57:08 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strike kills at least 6 at shopping center in central Ukrainian city]]></title>
+<title><![CDATA[Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-5f0948b0163062d84d7a68fbfc3c1469</link>
-<pubDate>Fri, 21 Aug 2026 16:57:24 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 19:03:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -461,6 +461,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Tesla recalls nearly 3M vehicles in China over door handle safety risks]]></title>
+<link>https://apnews.com/article/china-car-door-recall-handles-ev-tesla-764337d890c715db7a99c032a078b417</link>
+<pubDate>Fri, 21 Aug 2026 18:48:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Why Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far]]></title>
 <link>https://apnews.com/article/rates-bond-market-bessent-inflation-c6e148f8235a98245adf04b2d4bdd8d1</link>
 <pubDate>Thu, 20 Aug 2026 20:37:12 -0000</pubDate>
@@ -470,12 +476,6 @@
 <title><![CDATA[US stocks rise as the bond market’s big swings ease a bit]]></title>
 <link>https://apnews.com/article/stock-markets-bonds-futures-oil-iran-96ef9586e1288e50843b4d2b1ccebc32</link>
 <pubDate>Fri, 21 Aug 2026 16:42:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[President Donald Trump announces plan to lower beef prices, but some Republicans are already balking]]></title>
-<link>https://apnews.com/article/donald-trump-beef-prices-ranchers-e0e3dd60ae754d647527c7734a091edf</link>
-<pubDate>Fri, 21 Aug 2026 16:27:24 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -497,9 +497,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lindsey Clancy’s defense rests at trial over whether postpartum psychosis drove her to kill her kids]]></title>
+<title><![CDATA[Lindsay Clancy’s defense rests at trial over whether postpartum psychosis drove her to kill her kids]]></title>
 <link>https://apnews.com/article/lindsay-clancy-murder-trial-defense-93d6b815b81a2e89920307d88dd66973</link>
-<pubDate>Fri, 21 Aug 2026 16:12:24 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 18:33:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
