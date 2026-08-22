@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Aug 2026 09:16:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 09:47:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Canadian provincial leader says Trump is a ‘bad person’ as Canada weighs concessions for trade deal]]></title>
 <link>https://apnews.com/article/canada-quebec-trump-tariffs-75d3f24bb11178d8c9bb28b144e1dcf0</link>
@@ -47,9 +47,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike]]></title>
+<title><![CDATA[Russian and Ukrainian attacks kill 4 people a day after deadly shopping mall drone strike by Moscow]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4</link>
-<pubDate>Sat, 22 Aug 2026 07:51:16 -0000</pubDate>
+<pubDate>Sat, 22 Aug 2026 09:47:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Leo praises San Marino as model of freedom and common good]]></title>
+<link>https://apnews.com/article/pope-leo-san-marino-abortion-politics-freedom-power-8edd2e7e78fa2f11ff0d3be418e1fb30</link>
+<pubDate>Sat, 22 Aug 2026 09:32:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,27 +65,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary drained its waters for generations. Now drought is exposing the cost]]></title>
-<link>https://apnews.com/article/hungary-drought-lakes-rivers-water-retention-1f28a070851933675e04b8417f85b452</link>
-<pubDate>Fri, 21 Aug 2026 16:57:22 -0000</pubDate>
+<title><![CDATA[2 organizers of Hong Kong’s Tiananmen vigils convicted in national security case]]></title>
+<link>https://apnews.com/article/hong-kong-tiananmen-verdict-alliance-9e1f5c915931eecfa083053dd262548b</link>
+<pubDate>Sat, 22 Aug 2026 09:17:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Remains found of American mountain climber who died in an avalanche on Pakistan’s Broad Peak]]></title>
+<link>https://apnews.com/article/pakistan-body-american-climber-found-broad-peak-762a54cb9a192d5332dd955734054f41</link>
+<pubDate>Sat, 22 Aug 2026 09:02:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[China investigates comedian after he altered a revolutionary song lyric onstage]]></title>
 <link>https://apnews.com/article/china-comedian-investigation-show-censorship-e9a9d9cf35989a2464653276e873d4f7</link>
 <pubDate>Sat, 22 Aug 2026 07:36:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[What to know about the Tiananmen vigil organizers convicted of inciting subversion in Hong Kong]]></title>
-<link>https://apnews.com/article/lee-cheuk-yan-chow-hang-tung-alliance-tiananmen-vigil-e916610a4602d3850cdd9eab18791da2</link>
-<pubDate>Fri, 21 Aug 2026 11:17:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says]]></title>
-<link>https://apnews.com/article/myanmar-strike-sagaing-buddhist-monastery-689276155a50525c52811297c15bef83</link>
-<pubDate>Fri, 21 Aug 2026 16:42:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Somali pirates hijack oil tanker off Yemen in latest attack]]></title>
+<link>https://apnews.com/article/somalia-piracy-yemen-puntland-5095054a9227548818dfc819d226dc76</link>
+<pubDate>Sat, 22 Aug 2026 08:47:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Benin, malnutrition and misinformed views contribute to widespread stunting in children]]></title>
 <link>https://apnews.com/article/benin-children-stunted-growth-0feb65bc020044ed4d0ce90f45fe3a91</link>
 <pubDate>Sat, 22 Aug 2026 07:21:16 -0000</pubDate>
@@ -122,12 +128,6 @@
 <title><![CDATA[Boat capsizes in northwestern Nigeria, leaving dozens of people dead]]></title>
 <link>https://apnews.com/article/nigeria-sokoto-deadly-boat-capsize-5aec68d125bbdd3779c5693ea64c2bb5</link>
 <pubDate>Fri, 21 Aug 2026 05:23:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them]]></title>
-<link>https://apnews.com/article/spain-ceuta-morocco-migration-fe8e003171d5ce019d978ed9eaea49ed</link>
-<pubDate>Fri, 21 Aug 2026 03:52:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -239,9 +239,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Settlers kill a Palestinian teen in a West Bank clash, and other Middle East developments]]></title>
+<link>https://apnews.com/article/middle-east-israel-gaza-turkey-129bdcff86f21b8a493ac817472af5c6</link>
+<pubDate>Sat, 22 Aug 2026 09:47:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US government declares drought disaster for US Virgin Islands]]></title>
 <link>https://apnews.com/article/usvi-virgin-islands-drought-disaster-0ccf9bd635bd6579c1cedb888220741c</link>
 <pubDate>Fri, 21 Aug 2026 14:44:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says]]></title>
+<link>https://apnews.com/article/myanmar-strike-sagaing-buddhist-monastery-689276155a50525c52811297c15bef83</link>
+<pubDate>Fri, 21 Aug 2026 14:14:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -305,6 +317,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hungary drained its waters for generations. Now drought is exposing the cost]]></title>
+<link>https://apnews.com/article/hungary-drought-lakes-rivers-water-retention-1f28a070851933675e04b8417f85b452</link>
+<pubDate>Sat, 22 Aug 2026 09:32:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage]]></title>
+<link>https://apnews.com/article/north-south-korea-us-drills-trump-kim-e0350e23feac60adfa60f2cbf5eff27f</link>
+<pubDate>Sat, 22 Aug 2026 09:17:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Japan executes a man convicted of setting fire that killed 5 at a pachinko parlor in Osaka]]></title>
 <link>https://apnews.com/article/japan-execution-arson-murder-crime-62c5f5f0c03aebc78e12b9545be74b58</link>
 <pubDate>Fri, 21 Aug 2026 11:02:57 -0000</pubDate>
@@ -335,6 +359,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[What to know about the Tiananmen vigil organizers convicted of inciting subversion in Hong Kong]]></title>
+<link>https://apnews.com/article/lee-cheuk-yan-chow-hang-tung-alliance-tiananmen-vigil-e916610a4602d3850cdd9eab18791da2</link>
+<pubDate>Sat, 22 Aug 2026 09:02:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
 <link>https://apnews.com/photo-gallery/top-photos-week-ap-photojournalists-a39b5fde7328431a927c598cb9b7a214</link>
 <pubDate>Thu, 20 Aug 2026 22:50:42 -0000</pubDate>
@@ -353,57 +383,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US has sent deportees to many African countries, the latest one being Liberia. Here’s why]]></title>
-<link>https://apnews.com/article/africa-us-deportations-trump-administration-98c1a583687c700333466dc25324b473</link>
-<pubDate>Thu, 20 Aug 2026 20:37:12 -0000</pubDate>
+<title><![CDATA[Iran says the world has accepted it has defeated the US, and other Middle East developments]]></title>
+<link>https://apnews.com/article/middle-east-iran-israel-golan-467d9b2970e0b9855ac9a68ef90c8e75</link>
+<pubDate>Sat, 22 Aug 2026 09:32:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The top photos of the day by AP’s photojournalists]]></title>
-<link>https://apnews.com/photo-gallery/top-photos-day-ap-s-photojournalists-fc668f37ac2345079f3d8bbeb787e35a</link>
-<pubDate>Thu, 20 Aug 2026 19:07:38 -0000</pubDate>
+<title><![CDATA[Congo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak]]></title>
+<link>https://apnews.com/article/congo-ebola-vaccine-1ce25c0697bfae7656eae3e5fe6aa6ae</link>
+<pubDate>Sat, 22 Aug 2026 09:17:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cameroon’s President Biya returns after a long stay abroad raises health concerns]]></title>
-<link>https://apnews.com/article/cameroon-paul-biya-returns-3f39e488f1ea1d2ea121fa2d43da4fd5</link>
-<pubDate>Fri, 21 Aug 2026 16:12:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s former Prime Minister Imran Khan returned to prison after exam at a private hospital]]></title>
-<link>https://apnews.com/article/pakistan-imran-khan-security-islamabad-hospital-815992ebe21c1114ffaf4aac2f9d3fd1</link>
-<pubDate>Fri, 21 Aug 2026 09:27:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Croatia orders detention of Ukrainian man wanted in Germany for Nord Stream blasts in 2022]]></title>
-<link>https://apnews.com/article/croatia-germany-nord-stream-explosion-arrest-b1389f14fd31caa21f9e4596c58c7d41</link>
-<pubDate>Fri, 21 Aug 2026 05:38:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iranian families struggle to afford the basics as US ratchets up economic warfare]]></title>
-<link>https://apnews.com/article/iran-economy-sanctions-inflation-73b0278a0307030588cac9f47b3443e0</link>
-<pubDate>Fri, 21 Aug 2026 09:57:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage]]></title>
-<link>https://apnews.com/article/north-south-korea-us-drills-trump-kim-e0350e23feac60adfa60f2cbf5eff27f</link>
-<pubDate>Fri, 21 Aug 2026 11:47:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Former Hong Kong vigil organizer strives to mark Tiananmen crackdown despite convictions]]></title>
-<link>https://apnews.com/article/tiananmen-vigil-organizer-tang-ngok-kwan-verdict-77f3e945ca5fc094db888bc2cdf20db4</link>
-<pubDate>Sat, 22 Aug 2026 02:07:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[2 organizers of Hong Kong’s Tiananmen vigils convicted in national security case]]></title>
-<link>https://apnews.com/article/hong-kong-tiananmen-verdict-alliance-9e1f5c915931eecfa083053dd262548b</link>
-<pubDate>Fri, 21 Aug 2026 04:07:14 -0000</pubDate>
+<title><![CDATA[Wildfires expose — and detonate — buried bombs and mines from WWI and WWII]]></title>
+<link>https://apnews.com/article/europe-wildfires-climate-bombs-world-war-5390dcf3c92c41ec44c2b0a4d9d80157</link>
+<pubDate>Sat, 22 Aug 2026 08:47:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -419,9 +413,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Settlers kill a Palestinian teen in a West Bank clash, and other Middle East developments]]></title>
-<link>https://apnews.com/article/middle-east-israel-gaza-turkey-129bdcff86f21b8a493ac817472af5c6</link>
-<pubDate>Fri, 21 Aug 2026 14:59:19 -0000</pubDate>
+<title><![CDATA[Israel will investigate Hind Rajab’s killing. Her mother wants more]]></title>
+<link>https://apnews.com/article/hind-rajab-israel-investigation-gaza-edc2d9b929db8cf972d41c35ffea9a56</link>
+<pubDate>Sat, 22 Aug 2026 08:32:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -473,21 +467,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[European wildfires reveal a hidden danger: buried bombs and mines from WWI and WWII]]></title>
-<link>https://apnews.com/article/europe-wildfires-climate-bombs-world-war-5390dcf3c92c41ec44c2b0a4d9d80157</link>
-<pubDate>Sat, 22 Aug 2026 07:36:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Remains found of American mountain climber who died in an avalanche on Pakistan’s Broad Peak]]></title>
-<link>https://apnews.com/article/pakistan-body-american-climber-found-broad-peak-762a54cb9a192d5332dd955734054f41</link>
-<pubDate>Fri, 21 Aug 2026 11:02:57 -0000</pubDate>
+<title><![CDATA[Former Hong Kong vigil organizer strives to mark Tiananmen crackdown despite convictions]]></title>
+<link>https://apnews.com/article/tiananmen-vigil-organizer-tang-ngok-kwan-verdict-77f3e945ca5fc094db888bc2cdf20db4</link>
+<pubDate>Sat, 22 Aug 2026 02:07:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[A bruising week for Bolivia’s President Paz as scandal and setbacks test his presidency]]></title>
 <link>https://apnews.com/article/bolivia-rodrigo-paz-fba61c2e7879a51000c7ad8230bda4a6</link>
 <pubDate>Sat, 22 Aug 2026 01:52:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them]]></title>
+<link>https://apnews.com/article/spain-ceuta-morocco-migration-fe8e003171d5ce019d978ed9eaea49ed</link>
+<pubDate>Thu, 20 Aug 2026 20:52:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
